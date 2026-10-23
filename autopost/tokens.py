@@ -1,7 +1,8 @@
 """Токены страниц Facebook.
 
-Один раз: короткий токен пользователя (из официального окна входа Facebook в Graph API Explorer)
-→ долгосрочный токен → токены 34 страниц (у таких токенов страниц нет срока действия).
+Один раз: токен системного пользователя бизнес-портфолио (Business Suite → Системные пользователи →
+«Сгенерировать маркер», срок «Никогда») или токен пользователя из Graph API Explorer
+→ токены 34 страниц (бессрочные).
 Токены страниц хранятся ЗАШИФРОВАННЫМИ в state/page_tokens.enc; ключ шифрования выводится
 из секрета FB_APP_SECRET, который есть только в GitHub Secrets.
 """
@@ -53,7 +54,10 @@ def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token: str) ->
     """Получает и сохраняет токены страниц. Возвращает отчёт для пользователя."""
     if not (app_id and app_secret and user_token):
         raise TokenError("нужны секреты FB_APP_ID, FB_APP_SECRET и FB_USER_TOKEN")
-    long_user = graph.exchange_long_lived(app_id, app_secret, user_token)
+    try:
+        long_user = graph.exchange_long_lived(app_id, app_secret, user_token)
+    except Exception:  # noqa: BLE001 — токен системного пользователя обменивать не нужно, он бессрочный
+        long_user = user_token
     pages = graph.my_pages(long_user)
     by_id = {p["id"]: p for p in pages}
     tokens, missing, no_rights, ok = {}, [], [], []
