@@ -146,7 +146,8 @@ def cmd_setup_facebook(cfg, args) -> int:
     if rep["scopes"] and not need.issubset(rep["scopes"]):
         lines.append("❌ Не хватает разрешений: " + ", ".join(sorted(need - set(rep["scopes"]))))
     if rep["missing"]:
-        lines.append("❌ Нет доступа к страницам (при входе отметьте ВСЕ страницы): "
+        lines.append("❌ Нет доступа к страницам (добавьте их в портфолио Interes World и назначьте системному "
+                     "пользователю autopost): "
                      + "; ".join(p.name for p in rep["missing"]))
     if rep["no_rights"]:
         lines.append("❌ Недостаточно прав на страницах: " + "; ".join(f"{p.name} ({', '.join(t)})" for p, t in rep["no_rights"]))
@@ -154,7 +155,8 @@ def cmd_setup_facebook(cfg, args) -> int:
         lines.append("ℹ️ Доступны и другие страницы (не используются): " + "; ".join(n or i for i, n in rep["extra_pages"]))
     lines.append("\nНовыми историями считаются посты, опубликованные на ваших страницах ПОСЛЕ этого момента "
                  "(старые посты и всё, что публиковал Make, не берутся).")
-    lines.append("Теперь секрет FB_USER_TOKEN можно удалить: он больше не нужен.")
+    lines.append("Секрет FB_USER_TOKEN не удаляйте: когда в портфолио добавятся новые страницы, "
+                 "этот шаг можно просто запустить ещё раз.")
     summary("\n".join(lines) + "\n", "previews/facebook-setup.md", cfg)
     return 0 if not rep["missing"] and not rep["no_rights"] else 1
 
