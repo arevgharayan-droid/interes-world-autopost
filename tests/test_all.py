@@ -50,7 +50,9 @@ def temp_cfg():
     for d in ("config", "prompts", ".github"):
         shutil.copytree(ROOT / d, tmp / d)
     (tmp / "state").mkdir()
-    return config_mod.load(tmp), tmp
+    cfg = config_mod.load(tmp)
+    cfg.settings["slots"] = ["09:00", "12:00", "15:00", "18:00", "21:00"]  # фиксированные часы для тестов
+    return cfg, tmp
 
 
 class ConfigTests(unittest.TestCase):

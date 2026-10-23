@@ -18,6 +18,14 @@ START, END = "# >>> cron (генерируется: python -m autopost render-wo
 WORKFLOW = ".github/workflows/autopost.yml"
 
 
+def last_slot_of_day(slots) -> str:
+    """Слот, после которого самый длинный перерыв (например, 00:00 при часах 12–24)."""
+    mins = sorted(int(x[:2]) * 60 + int(x[3:]) for x in slots)
+    gaps = [((mins[(i + 1) % len(mins)] - m) % 1440 or 1440, m) for i, m in enumerate(mins)]
+    m = max(gaps)[1]
+    return f"{m // 60:02d}:{m % 60:02d}"
+
+
 def tick_times_utc(cfg) -> list:
     tz = ZoneInfo(cfg.tz)
     ref = datetime(2026, 1, 15, tzinfo=tz)
@@ -25,7 +33,7 @@ def tick_times_utc(cfg) -> list:
     for s in cfg.slots:
         h, m = map(int, s.split(":"))
         base = ref.replace(hour=h, minute=m)
-        offs = OFFSETS_MIN + (LAST_SLOT_EXTRA_MIN if s == max(cfg.slots) else ())
+        offs = OFFSETS_MIN + (LAST_SLOT_EXTRA_MIN if s == last_slot_of_day(cfg.slots) else ())
         for off in offs:
             t = (base + timedelta(minutes=off)).astimezone(ZoneInfo("UTC"))
             out.add((t.hour, t.minute))

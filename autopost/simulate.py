@@ -19,7 +19,7 @@ from .fb import FacebookError
 from .generate import Generator
 from .pipeline import Pipeline
 from .state import State
-from .workflow import LAST_SLOT_EXTRA_MIN, OFFSETS_MIN
+from .workflow import LAST_SLOT_EXTRA_MIN, OFFSETS_MIN, last_slot_of_day
 from .wp import WordPressError
 
 STORY = ("When Anna found an old letter hidden behind the kitchen cupboard, she did not expect it to change "
@@ -72,7 +72,7 @@ def run_simulation(cfg, days=2):
         for s in sim_cfg.slots:
             h, m = map(int, s.split(":"))
             base = day.replace(hour=h, minute=m)
-            offs = OFFSETS_MIN + (LAST_SLOT_EXTRA_MIN if s == max(sim_cfg.slots) else ())
+            offs = OFFSETS_MIN + (LAST_SLOT_EXTRA_MIN if s == last_slot_of_day(sim_cfg.slots) else ())
             ticks += [base + timedelta(minutes=o) for o in offs]
     ticks = sorted(set(ticks))
     log = []
@@ -88,7 +88,7 @@ def run_simulation(cfg, days=2):
     # ---- проверки
     problems = []
     slots = state.slots
-    expected_slots = days * len(sim_cfg.slots)
+    expected_slots = max(days * len(sim_cfg.slots), len(slots))  # слот 00:00 следующего дня тоже готовится
     done = [k for k, s in slots.items() if s.get("status") == "done"]
     if len(done) != expected_slots:
         problems.append(f"завершено слотов {len(done)} из {expected_slots}: "
