@@ -1,12 +1,8 @@
 ## Диагностика WordPress
 
 - ✅ users/me: admin
-- ✅ удалить черновик 7142 (от прошлой диагностики): True
-- ✅ черновик ASCII (json): 7143
-- ✅ черновик UTF-8 (json): 7144
-- ✅ черновик UTF-8 (form): HTTP 400 {"code":"rest_invalid_json","message":"Invalid JSON in request body: Syntax error","data":{"status":400}}
-- ✅ черновик UTF-8 (raw json utf-8): HTTP 200 {"id":7145,"date":"2026-10-23T23:17:24","date_gmt":"2026-10-23T20:17:24","guid":{"rendered":"https:\/\/interes-world.com\/?p=7145"},"modified":"2026-1
-- ❌ медиа jpg: KeyError: 'id'
-- ✅ удалить черновик 7143: True
-- ✅ удалить черновик 7144: True
+- ✅ удалить черновик 7145: True
+- ✅ медиа multipart (сырой ответ): HTTP 200 ct=application/json; charset=utf-8 body={"filesize":22,"ID":7147,"post_author":"1","post_date":"2026-10-23 23:18:15","post_date_gmt":"2026-10-23 20:18:15","post_content":"","post_title":"autopost-test-1.jpg","post_excerpt":"","post_status":"inherit","comment_status":"open","ping_status":"closed","post_password":"","post_name":"autopost-test-1-jpg","to_ping":"","pinged":"","post_modified":"2026-10-23 23:18:15","post_modified_gmt":"2026-1
+- ✅ медиа multipart + title (сырой ответ): HTTP 200 body={"filesize":22,"ID":7148,"post_author":"1","post_date":"2026-10-23 23:18:15","post_date_gmt":"2026-10-23 20:18:15","post_content":"","post_title":"autopost test","post_excerpt":"","post_status":"inherit","comment_status":"open","ping_status":"closed","post_password":"","post_name":"autopost-test","to_ping":"","pinged":"","post_modified":"2026-10-23 23:18:15","post_modified_gmt":"2026-10-23 20:18:1
+- ✅ найти и удалить тестовые медиа: найдено и удалено: [7147, 7148, 7146]
 
