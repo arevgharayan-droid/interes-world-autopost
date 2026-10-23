@@ -69,9 +69,14 @@ class WordPress:
 
     def upload_media(self, data: bytes, filename: str, mime: str, title: str = "", alt: str = "") -> dict:
         if self.api_key:
-            # через Make Connector сырое тело не проходит — отправляем как multipart/form-data
-            media = self._req("POST", "media", idempotent=False,
-                              files={"file": (_safe_filename(filename), data, mime)})
+            # через Make Connector сырое тело не проходит — отправляем как multipart/form-data;
+            # плагин отвечает «сырым» объектом WP_Post (ID вместо id) — приводим к обычному виду
+            raw = self._req("POST", "media", idempotent=False,
+                            files={"file": (_safe_filename(filename), data, mime)})
+            mid = raw.get("id") or raw.get("ID")
+            if not mid:
+                raise WordPressError(f"POST media: неожиданный ответ {str(raw)[:200]}")
+            media = self._req("GET", f"media/{mid}", params={"context": "edit"})
         else:
             headers = {"Content-Disposition": f'attachment; filename="{_safe_filename(filename)}"',
                        "Content-Type": mime}
@@ -109,7 +114,11 @@ class WordPress:
         return self._req("DELETE", f"media/{media_id}", params={"force": "true"})
 
     def find_media_by_slug(self, slug) -> list:
-        return self._req("GET", "media", params={"slug": slug, "per_page": 5})
+        for variant in (slug, f"{slug}-jpg", f"{slug}-jpeg", f"{slug}-png", f"{slug}-webp"):
+            found = self._req("GET", "media", params={"slug": variant, "per_page": 5})
+            if found:
+                return found
+        return []
 
     def find_by_slug(self, slug) -> list:
         """Поиск записи по постоянному ярлыку — защита от дублей статей."""
