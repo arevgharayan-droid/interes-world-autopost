@@ -7,7 +7,7 @@ git config user.name "autopost-bot"
 git config user.email "autopost-bot@users.noreply.github.com"
 
 paths=()
-for p in state content logs previews queue config/settings.yaml; do
+for p in state content logs previews queue ops config/settings.yaml; do
   [ -e "$p" ] && paths+=("$p")
 done
 [ ${#paths[@]} -eq 0 ] && { echo "Нечего сохранять"; exit 0; }

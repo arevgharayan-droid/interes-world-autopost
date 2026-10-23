@@ -173,6 +173,7 @@ def _peek_source(cfg, graph, tokens, link):
                 "fingerprint": text_fingerprint(post["text"])}
     tmp = State(Path(tempfile.mkdtemp()) / "s.json")
     tmp.data = copy.deepcopy(state_of(cfg).data)
+    tmp.data["source_cutoff"] = None  # для теста подойдёт любая недавняя история с фото
     return pick_source(cfg, graph, tokens, tmp, datetime.now(timezone.utc), lambda m: None)
 
 
@@ -387,6 +388,29 @@ def cmd_set_schedule(cfg, args) -> int:
     return 0
 
 
+def cmd_ops(cfg, args) -> int:
+    """Команда из файла ops/request.json (её коммитит Claude) — чтобы не нажимать кнопки вручную."""
+    req = json.loads(cfg.path("ops/request.json").read_text(encoding="utf-8"))
+    cmd, a = req.get("cmd"), req.get("args") or {}
+    ns = argparse.Namespace
+    if cmd == "check":
+        return cmd_check(cfg, ns())
+    if cmd == "setup-facebook":
+        return cmd_setup_facebook(cfg, ns())
+    if cmd == "private-test":
+        return cmd_private_test(cfg, ns(source=a.get("source", ""), page=a.get("page", ""), keep=False,
+                                         backend=a.get("backend")))
+    if cmd == "public-test":
+        return cmd_public_test(cfg, ns(test_id=a.get("test_id", ""), page=a.get("page", ""),
+                                        confirm=a.get("confirm", "")))
+    if cmd == "set-schedule":
+        return cmd_set_schedule(cfg, ns(mode=a.get("mode", "off")))
+    if cmd == "status":
+        return cmd_status(cfg, ns())
+    print(f"Неизвестная команда: {cmd}")
+    return 1
+
+
 def cmd_render_workflow(cfg, args) -> int:
     path = write_workflow(cfg)
     print(f"Обновлено расписание в {path}:\n{render_cron_block(cfg)}")
@@ -412,13 +436,14 @@ def main(argv=None) -> int:
     p = sub.add_parser("simulate")
     p.add_argument("--days", type=int, default=2)
     sub.add_parser("render-workflow")
+    sub.add_parser("ops")
     p = sub.add_parser("set-schedule")
     p.add_argument("mode", choices=["on", "off"])
     args = ap.parse_args(argv)
     cfg = config_mod.load()
     fn = {"check": cmd_check, "setup-facebook": cmd_setup_facebook, "private-test": cmd_private_test,
           "public-test": cmd_public_test, "tick": cmd_tick, "status": cmd_status, "simulate": cmd_simulate,
-          "render-workflow": cmd_render_workflow, "set-schedule": cmd_set_schedule}[args.cmd]
+          "render-workflow": cmd_render_workflow, "set-schedule": cmd_set_schedule, "ops": cmd_ops}[args.cmd]
     try:
         return fn(cfg, args)
     except (TokenError, AuthProblem) as e:
