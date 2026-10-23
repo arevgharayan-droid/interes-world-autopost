@@ -54,7 +54,8 @@ class WordPress:
                     body = r.json()
                 except ValueError:
                     body = {"message": r.text[:300]}
-                last = WordPressError(body.get("message", f"HTTP {r.status_code}"), r.status_code, body.get("code"))
+                last = WordPressError(f"{method} {path}: " + str(body.get("message", f"HTTP {r.status_code}")),
+                                      r.status_code, body.get("code"))
                 if not last.transient:
                     raise last
             if not idempotent:

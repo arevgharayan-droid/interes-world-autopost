@@ -396,6 +396,48 @@ def cmd_set_schedule(cfg, args) -> int:
     return 0
 
 
+def cmd_wp_diagnose(cfg) -> int:
+    """Пошаговая проверка записи в WordPress (черновики сразу удаляются)."""
+    import requests as rq
+    _g, wp, _h = real_services(cfg)
+    out = ["## Диагностика WordPress", ""]
+    def step(name, fn):
+        try:
+            r = fn()
+            out.append(f"- ✅ {name}: {r}")
+            return r
+        except Exception as e:  # noqa: BLE001
+            out.append(f"- ❌ {name}: {type(e).__name__}: {redact(e)}")
+            return None
+    step("users/me", lambda: wp.me().get("name"))
+    p1 = step("черновик ASCII (json)", lambda: wp.create_post("autopost test", "<p>test</p>", status="draft")["id"])
+    p2 = step("черновик UTF-8 (json)", lambda: wp.create_post("Тест é è ü 👇", "<p>Привет é 👇</p>", status="draft")["id"])
+    def form_post():
+        r = wp.http.post(wp.api + "/posts", headers={"IWC-API-KEY": wp.api_key} if wp.api_key else None,
+                         auth=wp.auth, data={"title": "Тест form é 👇", "content": "<p>é 👇</p>", "status": "draft"},
+                         timeout=60)
+        return f"HTTP {r.status_code} {r.text[:150]}"
+    step("черновик UTF-8 (form)", form_post)
+    def raw_json():
+        body = json.dumps({"title": "Тест raw é 👇", "content": "<p>é</p>", "status": "draft"},
+                          ensure_ascii=False).encode("utf-8")
+        h = {"Content-Type": "application/json; charset=utf-8"}
+        if wp.api_key:
+            h["IWC-API-KEY"] = wp.api_key
+        r = wp.http.post(wp.api + "/posts", headers=h, auth=wp.auth, data=body, timeout=60)
+        return f"HTTP {r.status_code} {r.text[:150]}"
+    step("черновик UTF-8 (raw json utf-8)", raw_json)
+    tiny = bytes.fromhex("ffd8ffe000104a46494600010100000100010000ffd9")
+    m = step("медиа jpg", lambda: wp.upload_media(tiny, "autopost-test.jpg", "image/jpeg")["id"])
+    for pid in (p1, p2):
+        if pid:
+            step(f"удалить черновик {pid}", lambda pid=pid: wp.delete_post(pid).get("deleted"))
+    if m:
+        step(f"удалить медиа {m}", lambda: wp.delete_media(m).get("deleted"))
+    summary("\n".join(out) + "\n", "previews/wp-diagnose.md", cfg)
+    return 0
+
+
 def cmd_ops(cfg, args) -> int:
     """Команда из файла ops/request.json (её коммитит Claude) — чтобы не нажимать кнопки вручную."""
     req = json.loads(cfg.path("ops/request.json").read_text(encoding="utf-8"))
@@ -415,6 +457,8 @@ def cmd_ops(cfg, args) -> int:
         return cmd_set_schedule(cfg, ns(mode=a.get("mode", "off")))
     if cmd == "status":
         return cmd_status(cfg, ns())
+    if cmd == "wp-diagnose":
+        return cmd_wp_diagnose(cfg)
     print(f"Неизвестная команда: {cmd}")
     return 1
 
