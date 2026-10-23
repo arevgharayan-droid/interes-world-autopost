@@ -235,12 +235,19 @@ def cmd_private_test(cfg, args, services=None, tokens=None) -> int:
             ts = int((datetime.now(timezone.utc) + timedelta(days=7)).timestamp())
             res = graph.create_photo_post(page.page_id, tok, data, "story.jpg", texts[lang]["fb_text"],
                                           scheduled_ts=ts, mime=mime)
-            fb_id = res.get("post_id") or res["id"]
-            rec["fb_test_post"] = fb_id
+            fb_id = res.get("id")
+            rec["fb_test_photo"] = fb_id
             st.save()
-            published = graph.is_published(fb_id, tok)
-            checks.append(f"{'✅' if not published else '❌'} Facebook «{page.name}»: отложенный пост создан, "
-                          f"опубликован: {'да' if published else 'нет'}")
+            sched = [i for i in graph.scheduled_posts(page.page_id, tok)
+                     if int(i.get("scheduled_publish_time") or 0) == ts]
+            if sched:
+                rec["fb_test_post"] = sched[0]["id"]
+                published = graph.is_published(sched[0]["id"], tok)
+                checks.append(f"{'✅' if not published else '❌'} Facebook «{page.name}»: пост с фото стоит в "
+                              f"отложенных на {datetime.fromtimestamp(ts, tz):%d.%m %H:%M}, опубликован: "
+                              f"{'да' if published else 'нет'}")
+            else:
+                checks.append(f"❌ Facebook «{page.name}»: фото загружено, но в списке отложенных постов его нет")
         except Exception as e:  # noqa: BLE001 — показываем любую причину
             msg = e.short() if isinstance(e, FacebookError) else redact(e)
             checks.append(f"❌ {type(e).__name__}: {msg}")
@@ -252,14 +259,19 @@ def cmd_private_test(cfg, args, services=None, tokens=None) -> int:
                         checks.append("✅ Черновик WordPress удалён")
                     except Exception as e:  # noqa: BLE001
                         checks.append(f"❌ Не удалось удалить черновик {draft_id}: {redact(e)} — удалите вручную")
+                deleted = False
+                for obj in (rec.get("fb_test_post"), fb_id):
+                    if obj and not deleted:
+                        try:
+                            graph.delete(obj, tok)
+                            deleted = True
+                        except Exception:  # noqa: BLE001
+                            pass
                 if fb_id:
-                    try:
-                        graph.delete(fb_id, tok)
-                        rec["fb_test_post_deleted"] = True
-                        checks.append("✅ Тестовый отложенный пост Facebook удалён")
-                    except Exception as e:  # noqa: BLE001
-                        checks.append(f"❌ Не удалось удалить тестовый пост {fb_id}: {redact(e)} — удалите его "
-                                      "в Meta Business Suite → Запланированные")
+                    rec["fb_test_post_deleted"] = deleted
+                    checks.append("✅ Тестовый отложенный пост Facebook удалён" if deleted else
+                                  "❌ Не удалось удалить тестовый пост — удалите его в Meta Business Suite → "
+                                  "Планировщик (запланирован на неделю вперёд)")
     st.data["tests"][test_id] = rec
     st.save()
     md = [f"## Закрытый тест {test_id}", "", "Ничего не опубликовано публично.", "",

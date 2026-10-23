@@ -122,7 +122,8 @@ class FakeGraph:
                             "created_ts": self.clock().timestamp()}
         if lost:
             raise lost
-        return {"id": photo, "post_id": post}
+        # как в настоящем Facebook: для отложенных фото post_id не возвращается
+        return {"id": photo} if scheduled_ts else {"id": photo, "post_id": post}
 
     def comment(self, obj_id, token, message):
         self.calls.append(("comment", obj_id))

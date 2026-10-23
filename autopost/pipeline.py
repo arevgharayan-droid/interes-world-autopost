@@ -521,6 +521,12 @@ class Pipeline:
                     if not e.get("post_id") and e.get("photo_id"):
                         e["post_id"] = self.graph.page_story_id(e["photo_id"], tok)
                         self.state.save()
+                    if not e.get("post_id") and page:
+                        # запасной путь: ищем наш пост на странице по тексту
+                        self._remote_cache.pop((pid, key), None)
+                        if self.find_existing_post(dt, page, e, self.load_text(dt, lang), tok) == "found" \
+                                and e.get("status") == "scheduled" and not self.graph.is_published(e["post_id"], tok):
+                            continue
                     if not e.get("post_id"):
                         self.r.error(f"{key} «{name}»: Facebook ещё не выдал ID поста, повторю позже")
                         continue

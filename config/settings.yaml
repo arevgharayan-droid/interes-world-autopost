@@ -68,4 +68,4 @@ facebook:
 
 # Тестовая страница для закрытого и публичного теста (page_id из config/pages.yaml).
 # Пусто — будет выбрана первая страница NL «Het is interessant».
-test_page_id: ""
+test_page_id: "975714512286925"   # Heartfelt Lessons (EN)
