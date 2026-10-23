@@ -1,0 +1,572 @@
+"""Основной конвейер: подготовка слота → статьи WordPress → отложенные посты FB → первый комментарий.
+
+Защита от дублей в два слоя:
+1. state/state.json сохраняется после каждого действия и коммитится в репозиторий (в т.ч. по ходу работы);
+2. перед КАЖДЫМ созданием система проверяет саму площадку: статья ищется по постоянному ярлыку
+   (slug), пост — среди отложенных/опубликованных постов страницы, комментарий — среди комментариев.
+   Поэтому даже потеря state.json или повторный запуск не создают дублей.
+"""
+from __future__ import annotations
+
+import html
+import json
+import mimetypes
+from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
+
+import requests
+
+from .config import LANG_ORDER
+from .fb import FacebookError, redact
+from .generate import GenerationError
+from .sources import SourceError, pick_source
+from .state import text_fingerprint
+from .wp import WordPressError
+
+MAX_FB_ATTEMPTS = 4
+AUTH_FAILURES_TO_ABORT = 4
+DONE_PAGE = {"done", "skipped_source", "failed_final"}
+LIVE_PAGE = {"scheduled", "published"}
+FINAL_SLOT = {"done", "done_with_errors", "missed"}
+
+
+class AuthProblem(Exception):
+    pass
+
+
+class Report:
+    def __init__(self):
+        self.lines, self.errors, self.final_errors = [], [], []
+        self.counts = {"wp_created": 0, "fb_scheduled": 0, "fb_published": 0, "comments": 0, "generated": 0}
+
+    def info(self, msg):
+        msg = redact(msg)
+        self.lines.append(msg)
+        print(msg, flush=True)
+
+    def error(self, msg, final=False):
+        msg = redact(msg)
+        (self.final_errors if final else self.errors).append(msg)
+        print(("❌ " if final else "⚠️ ") + msg, flush=True)
+
+    def markdown(self, title="Запуск автопостинга") -> str:
+        c = self.counts
+        out = [f"## {title}", "",
+               f"Статей WordPress создано: **{c['wp_created']}** · текстов сгенерировано: **{c['generated']}** · "
+               f"постов FB запланировано: **{c['fb_scheduled']}** · опубликовано сразу: **{c['fb_published']}** · "
+               f"первых комментариев: **{c['comments']}**", ""]
+        if self.final_errors:
+            out += ["### ❌ Требует внимания", *[f"- {e}" for e in self.final_errors], ""]
+        if self.errors:
+            out += ["### ⚠️ Временные ошибки (будут повторены автоматически)", *[f"- {e}" for e in self.errors[:60]], ""]
+        if self.lines:
+            out += ["### Ход работы", *[f"- {line}" for line in self.lines[-120:]]]
+        return "\n".join(out) + "\n"
+
+
+class Pipeline:
+    def __init__(self, cfg, state, graph, wp, gen, tokens: dict, now_fn=None, http=None, report=None,
+                 checkpoint=None):
+        self.cfg, self.state, self.graph, self.wp, self.gen = cfg, state, graph, wp, gen
+        self.tokens = tokens
+        self.tz = ZoneInfo(cfg.tz)
+        self.now_fn = now_fn or (lambda: datetime.now(self.tz))
+        self.http = http or requests.Session()
+        self.r = report or Report()
+        self.checkpoint = checkpoint or (lambda: None)
+        self._images = {}
+        self._remote_cache = {}
+        self.auth_failures = 0
+        t = cfg.timing
+        self.ahead = timedelta(minutes=int(t.get("prepare_ahead_minutes", 200)))
+        self.min_lead = timedelta(minutes=int(t.get("min_schedule_lead_minutes", 15)))
+        self.late = timedelta(minutes=int(t.get("late_publish_window_minutes", 90)))
+        self.final_after = self.late + timedelta(hours=2)
+
+    # ------------------------------------------------------------------ helpers
+    def now(self) -> datetime:
+        return self.now_fn().astimezone(self.tz)
+
+    def slot_dt(self, day, hhmm: str) -> datetime:
+        h, m = map(int, hhmm.split(":"))
+        return datetime(day.year, day.month, day.day, h, m, tzinfo=self.tz)
+
+    @staticmethod
+    def key(dt: datetime) -> str:
+        return dt.strftime("%Y-%m-%d %H:%M")
+
+    def log_event(self, **ev):
+        ev["t"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        p = self.cfg.path(f"logs/{ev['t'][:7]}.jsonl")
+        p.parent.mkdir(parents=True, exist_ok=True)
+        with p.open("a", encoding="utf-8") as f:
+            f.write(redact(json.dumps(ev, ensure_ascii=False)) + "\n")
+
+    def _download(self, url: str) -> tuple:
+        try:
+            r = self.http.get(url, timeout=60)
+        except requests.RequestException as e:
+            raise SourceError(f"не удалось скачать изображение: {type(e).__name__}")
+        if r.status_code != 200 or not r.content:
+            raise SourceError(f"не удалось скачать изображение (HTTP {r.status_code})")
+        mime = (r.headers.get("Content-Type") or "image/jpeg").split(";")[0].strip()
+        if not mime.startswith("image/"):
+            raise SourceError(f"по ссылке не изображение ({mime})")
+        return r.content, mime
+
+    def image_bytes(self, key: str, s: dict) -> tuple:
+        if key not in self._images:
+            src = s["source"]
+            url = src.get("wp_media_url") or src["image_url"]
+            self._images[key] = self._download(url)
+        return self._images[key]
+
+    def content_path(self, dt: datetime, lang: str):
+        return self.cfg.path(f"content/{dt:%Y-%m-%d}/{dt:%H%M}-{lang}.json")
+
+    def load_text(self, dt: datetime, lang: str) -> dict:
+        return json.loads(self.content_path(dt, lang).read_text(encoding="utf-8"))
+
+    def page_error(self, key, page_name, e: dict, err, what: str):
+        """Ошибка одной страницы не останавливает остальные 33."""
+        msg = err.short() if isinstance(err, FacebookError) else str(err)
+        e["error"] = redact(f"{what}: {msg}")
+        if isinstance(err, FacebookError) and err.auth:
+            self.auth_failures += 1
+            e["error"] = "токен страницы недействителен — повторите «2 · Подключить Facebook»"
+            if self.auth_failures >= AUTH_FAILURES_TO_ABORT:
+                raise AuthProblem("Facebook отклоняет токены сразу нескольких страниц. "
+                                  "Запустите workflow «2 · Подключить Facebook» заново.")
+        self.r.error(f"{key} «{page_name}»: {e['error']}")
+        self.state.save()
+
+    # ------------------------------------------------------------------ tick
+    def has_unfinished_prepared(self) -> bool:
+        return any(s.get("prepared") and s.get("status") not in FINAL_SLOT for s in self.state.slots.values())
+
+    def tick(self) -> Report:
+        now = self.now()
+        st = self.state.data
+        enabled = bool(self.cfg.settings.get("schedule_enabled"))
+        if enabled and not st.get("enabled_since"):
+            st["enabled_since"] = now.isoformat(timespec="seconds")
+        if not enabled:
+            st["enabled_since"] = None
+            self.r.info("Расписание выключено — новые истории не готовлю, только завершаю уже подготовленные слоты.")
+        self.state.ensure_source_cutoff(now)
+        self.state.save()
+        enabled_since = datetime.fromisoformat(st["enabled_since"]) if st.get("enabled_since") else None
+        days = [(now - timedelta(days=1)).date(), now.date(), (now + timedelta(days=1)).date()]
+        dts = sorted({self.slot_dt(d, s) for d in days for s in self.cfg.slots})
+        for dt in dts:
+            key = self.key(dt)
+            existing = self.state.slots.get(key)
+            if dt - self.ahead > now:
+                continue
+            if existing and existing.get("status") in FINAL_SLOT:
+                continue
+            if not enabled and not (existing and existing.get("prepared")):
+                continue
+            if enabled and not existing and dt < enabled_since:
+                continue
+            try:
+                self.process_slot(dt, allow_new=enabled)
+            except AuthProblem as e:
+                self.r.error(str(e), final=True)
+                break
+            except Exception as e:  # noqa: BLE001 — сбой одного слота не должен остановить остальные
+                self.r.error(f"{key}: непредвиденная ошибка {type(e).__name__}: {e}")
+            self.checkpoint()
+        self.state.prune(int(self.cfg.timing.get("keep_state_days", 14)), now)
+        self.state.save()
+        return self.r
+
+    # ------------------------------------------------------------------ slot
+    def process_slot(self, dt: datetime, allow_new=True):
+        now = self.now()
+        key = self.key(dt)
+        s = self.state.slot(key)
+        s.setdefault("slot_iso", dt.isoformat())
+        if now > dt + self.final_after:
+            # последний шанс: выпущенным постам — комментарии, затем закрываем слот
+            if s.get("prepared"):
+                self.finish_after_release(dt, s)
+                self.close_slot(dt, final=True)
+            else:
+                self.mark_missed(key, s)
+            return
+        if not s.get("prepared"):
+            if not allow_new:
+                return
+            if now > dt + self.late:
+                self.mark_missed(key, s)
+                return
+            if not self.prepare(dt, s):
+                return
+            self.checkpoint()
+        if allow_new:
+            self.publish_pages(dt, s)
+        if now >= dt:
+            self.finish_after_release(dt, s)
+        self.close_slot(dt)
+
+    def mark_missed(self, key, s):
+        if s.get("status") == "no_source" or not s.get("source_key"):
+            self.r.error(f"{key}: слот пропущен — не было новой истории")
+        else:
+            self.r.error(f"{key}: слот пропущен — история не была подготовлена вовремя", final=True)
+            self.state.mark_source(s["source_key"], status="failed", error="слот пропущен")
+        s["status"] = "missed"
+        self.state.save()
+
+    # ---- подготовка: история, фото, тексты, статьи -----------------------------
+    def prepare(self, dt: datetime, s: dict) -> bool:
+        key = self.key(dt)
+        now = self.now()
+        if not s.get("source_key"):
+            restored = self.restore_from_content(dt, s)
+            if restored:
+                self.r.info(f"{key}: состояние восстановлено из сохранённых текстов")
+        if not s.get("source_key"):
+            try:
+                src = pick_source(self.cfg, self.graph, self.tokens, self.state, now, self.r.info)
+            except FacebookError as e:
+                self.r.error(f"{key}: источники недоступны: {e.short()}")
+                return False
+            if not src:
+                if s.get("status") != "no_source":
+                    self.r.error(f"{key}: нет новой истории для публикации (очередь пуста)")
+                s["status"] = "no_source"
+                self.state.save()
+                return False
+            s["source_key"] = src["key"]
+            s["source"] = {k: src[k] for k in ("page_id", "text", "image_url", "origin", "link")}
+            s["status"] = "preparing"
+            self.state.mark_source(src["key"], status="reserved", slot=key, link=src["link"],
+                                   origin=src["origin"], fingerprint=src["fingerprint"], page_id=src["page_id"])
+            self.r.info(f"{key}: выбрана история ({src['origin']}) {src['link'][:90]}")
+        src = s["source"]
+        # фото → медиатека WordPress (постоянная ссылка вместо временной ссылки Facebook)
+        if not src.get("wp_media_id"):
+            slug = f"interes-{dt:%Y%m%d-%H%M}"
+            try:
+                found = self.wp.find_media_by_slug(slug)
+                if found:
+                    media = found[0]
+                else:
+                    data, mime = self._download(src["image_url"])
+                    ext = mimetypes.guess_extension(mime) or ".jpg"
+                    media = self.wp.upload_media(data, f"{slug}{ext}", mime)
+                    self._images[key] = (data, mime)
+                src["wp_media_id"], src["wp_media_url"] = media["id"], media.get("source_url")
+                self.state.save()
+                self.log_event(slot=key, action="wp_media", id=media["id"])
+            except (SourceError, WordPressError) as e:
+                self.r.error(f"{key}: изображение: {e}")
+                return False
+        # тексты: 4 языка параллельно (уже сохранённые тексты не генерируются заново)
+        for lang in LANG_ORDER:
+            L = s["langs"].setdefault(lang, {"pages": {}})
+            if not L.get("generated") and self.content_path(dt, lang).exists():
+                t = self.load_text(dt, lang)
+                if t.get("source_key") == s["source_key"]:
+                    L.update(generated=True, title=t["title"], backend=t.get("backend"), gen_error=None)
+        todo = [lang for lang in LANG_ORDER if not s["langs"].get(lang, {}).get("generated")]
+        if todo:
+            def work(lang):
+                try:
+                    return lang, self.gen.generate(lang, src["text"]), None
+                except GenerationError as e:
+                    return lang, None, e
+            with ThreadPoolExecutor(max_workers=4) as pool:
+                results = list(pool.map(work, todo))
+            for lang, g, err in results:
+                L = s["langs"].setdefault(lang, {"pages": {}})
+                if err:
+                    L["gen_error"] = str(err)
+                    L["gen_attempts"] = L.get("gen_attempts", 0) + 1
+                    self.r.error(f"{key} {lang}: {err}")
+                    continue
+                p = self.content_path(dt, lang)
+                p.parent.mkdir(parents=True, exist_ok=True)
+                payload = g.as_dict() | {"lang": lang, "slot": key, "source_key": s["source_key"],
+                                         "source_link": src["link"], "source": {
+                                             k: src.get(k) for k in ("page_id", "text", "image_url", "origin", "link")}}
+                p.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+                L.update(generated=True, title=g.title, backend=g.backend, warnings=g.warnings, gen_error=None)
+                self.state.remember_output(None, g.fb_text)
+                self.r.counts["generated"] += 1
+                self.log_event(slot=key, lang=lang, action="generated", backend=g.backend, warnings=g.warnings)
+            self.state.save()
+        # статьи WordPress
+        for lang in LANG_ORDER:
+            L = s["langs"].get(lang)
+            if L and L.get("generated") and not L.get("wp_id"):
+                self.create_wp(dt, s, lang, L)
+        ready_langs = [lg for lg in LANG_ORDER if s["langs"].get(lg, {}).get("wp_id")]
+        ready = len(ready_langs) == len(LANG_ORDER)
+        if not ready and ready_langs and now >= dt - self.min_lead:
+            # Время вышло: публикуем готовые языки, остальные отмечаем как неудавшиеся.
+            for lg in LANG_ORDER:
+                if lg in ready_langs:
+                    continue
+                L = s["langs"].setdefault(lg, {"pages": {}})
+                why = L.get("gen_error") or L.get("wp_error") or "не подготовлено"
+                for page in self.cfg.pages_for(lg):
+                    L["pages"][page.page_id] = {"status": "failed_final", "attempts": 0, "error": why}
+                self.r.error(f"{key} {lg}: язык пропущен в этом слоте: {why}", final=True)
+            ready = True
+        if ready:
+            s["prepared"] = True
+            s["status"] = "prepared"
+            self.state.mark_source(s["source_key"], status="used", slot=key)
+        self.state.save()
+        return ready
+
+    def restore_from_content(self, dt, s) -> bool:
+        """Если state.json потерян, но тексты слота уже сохранены — продолжаем с ними (без новой генерации)."""
+        for lang in LANG_ORDER:
+            p = self.content_path(dt, lang)
+            if p.exists():
+                t = json.loads(p.read_text(encoding="utf-8"))
+                if t.get("source") and t.get("source_key"):
+                    s["source_key"] = t["source_key"]
+                    s["source"] = dict(t["source"])
+                    s["status"] = "preparing"
+                    self.state.mark_source(t["source_key"], status="reserved", slot=self.key(dt),
+                                           link=t["source"].get("link"), origin=t["source"].get("origin"),
+                                           fingerprint=text_fingerprint(t["source"].get("text") or ""),
+                                           page_id=t["source"].get("page_id"))
+                    return True
+        return False
+
+    def wp_slug(self, dt, lang) -> str:
+        return f"iw-{dt:%Y%m%d-%H%M}-{lang.lower()}"
+
+    def create_wp(self, dt, s, lang, L):
+        key = self.key(dt)
+        text = self.load_text(dt, lang)
+        src = s["source"]
+        slug = self.wp_slug(dt, lang)
+        try:
+            found = self.wp.find_by_slug(slug)
+        except WordPressError as e:
+            L["wp_error"] = f"проверка перед созданием: {e}"
+            self.r.error(f"{key} {lang}: WordPress недоступен для проверки, повторю позже: {e}")
+            return
+        if found:
+            L.update(wp_id=found[0]["id"], wp_status=found[0].get("status"), wp_error=None)
+            self.state.save()
+            return
+        future = self.cfg.site.get("wp_status_mode", "future") == "future" and dt > self.now() + timedelta(minutes=2)
+        img = (f'<figure class="wp-block-image size-full"><img src="{html.escape(src.get("wp_media_url") or "")}" '
+               f'alt="{html.escape(text["title"])}"/></figure>\n')
+        try:
+            post = self.wp.create_post(
+                title=text["title"], content=img + text["article_html"], slug=slug,
+                status="future" if future else "publish",
+                date_gmt=dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S") if future else None,
+                featured_media=src.get("wp_media_id") if self.cfg.site.get("wp_featured_image") else None,
+                categories=(self.cfg.site.get("wp_categories") or {}).get(lang))
+        except WordPressError as e:
+            # Исход мог быть успешным (например, 502 от прокси) — в следующий раз статья найдётся по slug.
+            L["wp_error"] = str(e)
+            self.r.error(f"{key} {lang}: WordPress: {e}")
+            self.state.save()
+            return
+        L.update(wp_id=post["id"], wp_status=post.get("status"), wp_error=None)
+        self.r.counts["wp_created"] += 1
+        self.log_event(slot=key, lang=lang, action="wp_post", id=post["id"], status=post.get("status"))
+        self.state.save()
+
+    # ---- публикация на страницах ----------------------------------------------
+    def publish_pages(self, dt: datetime, s: dict, only_page: str | None = None):
+        key = self.key(dt)
+        now = self.now()
+        if now <= dt - self.min_lead:
+            mode = "schedule"
+        elif dt <= now <= dt + self.late:
+            mode = "immediate"
+        elif now < dt:
+            return  # слишком поздно ставить в отложенные, слишком рано публиковать — ждём
+        else:
+            mode = "expired"
+        skip_src = self.cfg.sources.get("skip_source_page", True)
+        for lang in LANG_ORDER:
+            L = s["langs"][lang]
+            text = None
+            for page in self.cfg.pages_for(lang):
+                if only_page and page.page_id != only_page:
+                    continue
+                e = L["pages"].setdefault(page.page_id, {"status": "new", "attempts": 0})
+                if e["status"] in DONE_PAGE or e["status"] in LIVE_PAGE:
+                    continue
+                if skip_src and page.page_id == s["source"].get("page_id"):
+                    e["status"] = "skipped_source"
+                    continue
+                text = text or self.load_text(dt, lang)
+                tok = self.tokens.get(page.page_id)
+                if not tok:
+                    e["attempts"] = e.get("attempts", 0) + 1
+                    e["status"] = "failed_final" if e["attempts"] >= MAX_FB_ATTEMPTS else "failed"
+                    self.page_error(key, page.name, e, "нет токена страницы", "доступ")
+                    continue
+                # 1) сначала проверяем площадку: может, пост уже есть (прошлый запуск оборвался)
+                found = self.find_existing_post(dt, page, e, text, tok)
+                if found in ("found", "unknown"):
+                    continue
+                # 2) лимиты
+                if mode == "expired" or e.get("attempts", 0) >= MAX_FB_ATTEMPTS:
+                    e["status"] = "failed_final"
+                    self.r.error(f"{key} {lang} «{page.name}»: пост не опубликован: {e.get('error')}", final=True)
+                    self.state.save()
+                    continue
+                if mode == "immediate" and e.get("last_attempt"):
+                    # лента страницы обновляется с задержкой — не спешим с повтором
+                    if now - datetime.fromisoformat(e["last_attempt"]) < timedelta(minutes=5):
+                        continue
+                self.create_fb_post(dt, s, lang, page, e, text, mode, tok)
+
+    def _remote_posts(self, page_id, tok, dt) -> list:
+        ck = (page_id, self.key(dt))
+        if ck not in self._remote_cache:
+            items = [i | {"_kind": "scheduled"} for i in self.graph.scheduled_posts(page_id, tok)
+                     if int(i.get("scheduled_publish_time") or 0) == int(dt.timestamp())]
+            if self.now() >= dt - timedelta(minutes=30):
+                items += [i | {"_kind": "published"} for i in
+                          self.graph.page_posts(page_id, tok, int((dt - timedelta(hours=3)).timestamp()))]
+            self._remote_cache[ck] = items
+        return self._remote_cache[ck]
+
+    def find_existing_post(self, dt, page, e, text, tok) -> str:
+        """found — пост уже на странице; absent — точно нет; unknown — проверить не удалось (ждём)."""
+        fp = text_fingerprint(text["fb_text"])
+        try:
+            items = self._remote_posts(page.page_id, tok, dt)
+        except FacebookError as err:
+            self.page_error(self.key(dt), page.name, e, err, "проверка перед публикацией")
+            return "unknown"
+        for it in items:
+            # отложенный пост ровно на время слота ставит только эта система — он наш при любом тексте
+            if it["_kind"] == "scheduled" or text_fingerprint(it.get("message") or "") == fp:
+                e.update(post_id=it["id"], status="scheduled" if it["_kind"] == "scheduled" else "published",
+                         error=None)
+                self.state.remember_output(it["id"])
+                self.state.save()
+                return "found"
+        return "absent"
+
+    def create_fb_post(self, dt, s, lang, page, e, text, mode, tok):
+        key = self.key(dt)
+        try:
+            data, mime = self.image_bytes(key, s)
+        except SourceError as err:
+            e.update(status="failed", error=str(err))
+            self.r.error(f"{key}: {err}")
+            return
+        e["status"] = "sending"
+        e["attempts"] = e.get("attempts", 0) + 1
+        e["mode"] = mode
+        e["last_attempt"] = self.now().isoformat(timespec="seconds")
+        self.state.save()
+        try:
+            res = self.graph.create_photo_post(
+                page.page_id, tok, data, f"story{mimetypes.guess_extension(mime) or '.jpg'}",
+                text["fb_text"], scheduled_ts=int(dt.timestamp()) if mode == "schedule" else None, mime=mime)
+        except FacebookError as err:
+            # при временной ошибке пост мог создаться — следующий запуск сначала проверит страницу
+            e["status"] = "sending" if err.transient else "failed"
+            self.page_error(key, f"{lang} {page.name}", e, err, "публикация")
+            return
+        e.update(photo_id=res.get("id"), post_id=res.get("post_id"), error=None,
+                 status="scheduled" if mode == "schedule" else "published")
+        self.state.remember_output(res.get("post_id"))
+        self.state.remember_output(res.get("id"))
+        self.r.counts["fb_scheduled" if mode == "schedule" else "fb_published"] += 1
+        self.log_event(slot=key, lang=lang, page=page.page_id, action=f"fb_{mode}",
+                       photo_id=res.get("id"), post_id=res.get("post_id"))
+        self.state.save()
+
+    # ---- после выхода: статья опубликована + первый комментарий ----------------
+    def finish_after_release(self, dt, s):
+        key = self.key(dt)
+        now = self.now()
+        fmt = self.cfg.site.get("comment_link_format", "https://interes-world.com/?p={wp_id}")
+        for lang in LANG_ORDER:
+            L = s["langs"].get(lang) or {}
+            pending = [(pid, e) for pid, e in L.get("pages", {}).items()
+                       if e["status"] in LIVE_PAGE or (e["status"] == "sending" and e.get("post_id"))]
+            if not pending or not L.get("wp_id"):
+                continue
+            if not L.get("wp_live"):
+                try:
+                    post = self.wp.get_post(L["wp_id"])
+                    if post.get("status") != "publish":
+                        self.wp.update_post(L["wp_id"], status="publish")
+                    L["wp_live"] = True
+                    self.state.save()
+                except WordPressError as err:
+                    self.r.error(f"{key} {lang}: статья не опубликована: {err}")
+                    continue
+            link = fmt.format(wp_id=L["wp_id"])
+            for pid, e in pending:
+                page = self.cfg.page(pid)
+                name = page.name if page else pid
+                tok = self.tokens.get(pid)
+                if not tok:
+                    self.page_error(key, name, e, "нет токена страницы", "комментарий")
+                    continue
+                try:
+                    if not e.get("post_id") and e.get("photo_id"):
+                        e["post_id"] = self.graph.page_story_id(e["photo_id"], tok)
+                        self.state.save()
+                    if not e.get("post_id"):
+                        self.r.error(f"{key} «{name}»: Facebook ещё не выдал ID поста, повторю позже")
+                        continue
+                    target = e["post_id"]
+                    if e["status"] != "published":
+                        if not self.graph.is_published(target, tok):
+                            if now > dt + timedelta(minutes=30):
+                                self.r.error(f"{key} «{name}»: Facebook ещё не выпустил отложенный пост")
+                            continue
+                        e["status"] = "published"
+                        self.state.remember_output(target)
+                        self.state.save()
+                    # перед комментарием всегда смотрим, нет ли его уже (защита от дублей)
+                    existing = [c for c in self.graph.comments(target, tok)
+                                if (c.get("message") or "").strip() == link]
+                    if existing:
+                        e.update(comment_id=existing[0]["id"], status="done", error=None)
+                        self.state.save()
+                        continue
+                    e["comment_attempts"] = e.get("comment_attempts", 0) + 1
+                    self.state.save()
+                    c = self.graph.comment(target, tok, link)
+                    e.update(comment_id=c.get("id"), status="done", error=None)
+                    self.r.counts["comments"] += 1
+                    self.log_event(slot=key, lang=lang, page=pid, action="comment", id=c.get("id"))
+                    self.state.save()
+                except FacebookError as err:
+                    self.page_error(key, name, e, err, "комментарий")
+
+    def close_slot(self, dt, final=False):
+        key = self.key(dt)
+        s = self.state.slots.get(key)
+        if not s or not s.get("prepared"):
+            return
+        statuses = [e["status"] for L in s["langs"].values() for e in L.get("pages", {}).values()]
+        expected = sum(len(self.cfg.pages_for(lg)) for lg in LANG_ORDER)
+        if len(statuses) == expected and all(x in ("done", "skipped_source") for x in statuses):
+            s["status"] = "done"
+        elif final:
+            for L in s["langs"].values():
+                for pid, e in L.get("pages", {}).items():
+                    if e["status"] not in ("done", "skipped_source", "failed_final"):
+                        what = "комментарий не добавлен" if e["status"] in LIVE_PAGE else "не опубликовано"
+                        self.r.error(f"{key} {pid}: {what} ({e.get('error') or e['status']})", final=True)
+                        e["status"] = "failed_final"
+            s["status"] = "done_with_errors"
+        else:
+            s["status"] = "in_progress"
+        self.state.save()

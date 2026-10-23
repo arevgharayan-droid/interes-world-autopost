@@ -1,0 +1,70 @@
+# Главные настройки автопостинга INTERES WORLD.
+# Меняйте значения справа от двоеточия. Ключи и пароли сюда НЕ пишутся —
+# они хранятся только в GitHub → Settings → Secrets and variables → Actions.
+
+timezone: Asia/Yerevan
+
+# false — расписание выключено (ничего не публикуется само).
+# Включается после успешного публичного теста.
+schedule_enabled: false
+
+# Часы публикаций по Еревану. ВРЕМЕННОЕ ПРЕДЛОЖЕНИЕ — подтвердите перед включением.
+slots: ["09:00", "12:00", "15:00", "18:00", "21:00"]
+
+timing:
+  # За сколько минут до выхода готовить историю (тексты, статьи, отложенные посты).
+  prepare_ahead_minutes: 200
+  # Facebook принимает отложенный пост минимум за 10 минут; берём с запасом.
+  min_schedule_lead_minutes: 15
+  # Если подготовка не успела к часу публикации — можно выпустить с опозданием,
+  # но не позже этого окна (минуты). Иначе слот пропускается.
+  late_publish_window_minutes: 90
+  # Хранить подробное состояние слотов (дней).
+  keep_state_days: 14
+
+site:
+  url: https://interes-world.com
+  # Ссылка в первом комментарии — как в Make.
+  comment_link_format: "https://interes-world.com/?p={wp_id}"
+  # future — статья выходит на сайте в тот же час, что и пост; publish — сразу.
+  wp_status_mode: future
+  # Ставить фото ещё и как «изображение записи». В Make не ставилось.
+  wp_featured_image: false
+  # Необязательно: ID рубрик WordPress по языкам, например FR: [12]
+  wp_categories: {}
+
+claude:
+  # auto — подписка Max (CLAUDE_CODE_OAUTH_TOKEN), при сбое — API (если задан ANTHROPIC_API_KEY)
+  # subscription — только подписка; api — только API; mock — тестовые тексты без Claude
+  backend: auto
+  model: claude-sonnet-5-5
+  max_tokens: 8000
+  # Сколько раз перегенерировать текст, если он не прошёл проверку.
+  max_attempts: 3
+
+sources:
+  # Порядок, в котором ищутся новые истории для очередного слота.
+  order: [manual, google_sheet, auto]
+  # Ручная очередь (необязательно): одна ссылка на строку.
+  manual_file: queue/links.txt
+  # Старая таблица из Make. Работает, если доступ «Все, у кого есть ссылка — читатель».
+  google_sheet:
+    enabled: false
+    spreadsheet_id: "1VH_i-2L4TpojtJiUAjOdFTpl_9Ai6uEXMf1izRXHLvU"
+    sheet: FB_QUEUE
+  # Авто-режим: новые посты с фото, опубликованные вручную на ваших страницах.
+  auto:
+    enabled: true
+    pages: all            # all = все 34 страницы, или список page_id
+    lookback_hours: 72
+    min_text_chars: 300
+    require_photo: true
+  # Не публиковать историю повторно на той странице, откуда она взята.
+  skip_source_page: true
+
+facebook:
+  graph_version: v26.0
+
+# Тестовая страница для закрытого и публичного теста (page_id из config/pages.yaml).
+# Пусто — будет выбрана первая страница NL «Het is interessant».
+test_page_id: ""

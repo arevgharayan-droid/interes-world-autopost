@@ -1,0 +1,229 @@
+"""Откуда берутся новые истории: ручная очередь, старая Google-таблица, авто-режим по вашим страницам."""
+from __future__ import annotations
+
+import csv
+import io
+import re
+from datetime import datetime, timedelta, timezone
+
+import requests
+
+from .fb import FacebookError
+from .state import text_fingerprint
+
+
+class SourceError(Exception):
+    pass
+
+
+def parse_link(link: str, profile_to_page: dict) -> dict:
+    """Разбор ссылки так же, как в модуле 2 Make (+ запасные варианты).
+
+    Возвращает {"raw_page": ..., "page_id": ..., "part": ..., "candidates": [ids для запроса]}.
+    """
+    link = (link or "").strip()
+    if not link:
+        raise SourceError("пустая ссылка")
+    if "facebook.com" in link:
+        if "/share/" in link or "pfbid" in link:
+            raise SourceError("короткая ссылка /share/ или pfbid не содержит числовых ID — "
+                              "откройте пост и скопируйте полную ссылку (как и в Make)")
+        if "set=pb." in link:
+            raw_page = link.split("set=pb.", 1)[1].split(".", 1)[0]
+        elif "story_fbid=" in link:
+            m = re.search(r"[?&]id=(\d+)", link)
+            raw_page = m.group(1) if m else ""
+        else:
+            raw_page = link.split("facebook.com/", 1)[1].split("/", 1)[0].split("?", 1)[0]
+        m = re.search(r"fbid=(\d+)", link)
+        if m:
+            part = m.group(1)
+        elif "/posts/" in link:
+            part = link.split("/posts/", 1)[1].split("?", 1)[0].strip("/")
+        else:
+            m = re.search(r"/(?:photos|photo)/(?:[^/]+/)?(\d+)", link)
+            part = m.group(1) if m else ""
+    else:
+        if "_" not in link:
+            raise SourceError("ожидается ссылка facebook.com или ID вида PAGEID_POSTID")
+        raw_page, part = link.split("_", 1)
+    if not part or not re.fullmatch(r"\d+", part):
+        raise SourceError(f"не удалось найти числовой ID поста в ссылке: {link[:120]}")
+    page_id = profile_to_page.get(raw_page, raw_page)
+    cands = []
+    for pid in (f"{page_id}_{part}", f"{raw_page}_{part}", part):
+        if pid not in cands:
+            cands.append(pid)
+    return {"raw_page": raw_page, "page_id": page_id, "part": part, "candidates": cands}
+
+
+def parse_fb_time(value) -> float | None:
+    v = str(value or "").strip()
+    if not v:
+        return None
+    if v.isdigit():
+        return float(v)
+    try:
+        return datetime.strptime(v, "%Y-%m-%dT%H:%M:%S%z").timestamp()
+    except ValueError:
+        try:
+            return datetime.fromisoformat(v).timestamp()
+        except ValueError:
+            return None
+
+
+def source_key(page_id: str, part: str) -> str:
+    return f"post:{page_id}_{part}"
+
+
+def _has_photo(post: dict) -> bool:
+    if not post.get("full_picture"):
+        return False
+    att = ((post.get("attachments") or {}).get("data") or [{}])[0]
+    mt = (att.get("media_type") or att.get("type") or "photo").lower()
+    return mt in ("photo", "album", "image") or "photo" in mt
+
+
+def fetch_post(graph, link_info: dict, tokens: dict, fallback_page_id: str) -> dict:
+    """Читает текст и фото поста. Нужен токен страницы-владельца (ваши страницы)."""
+    token = tokens.get(link_info["page_id"]) or tokens.get(fallback_page_id)
+    if not token:
+        raise SourceError(f"нет доступа к странице {link_info['page_id']} (она не среди подключённых)")
+    errors = []
+    for pid in link_info["candidates"]:
+        try:
+            if pid == link_info["part"]:
+                ph = graph.get_photo(pid, token)
+                imgs = sorted(ph.get("images") or [], key=lambda i: i.get("width", 0), reverse=True)
+                if ph.get("name") and imgs:
+                    return {"text": ph["name"], "image_url": imgs[0]["source"],
+                            "post_id": ph.get("page_story_id") or pid, "created_time": ph.get("created_time"),
+                            "permalink": ph.get("link")}
+                continue
+            post = graph.get_post(pid, token)
+            if post.get("message") and post.get("full_picture"):
+                return {"text": post["message"], "image_url": post["full_picture"], "post_id": post["id"],
+                        "created_time": post.get("created_time"), "permalink": post.get("permalink_url")}
+            errors.append(f"{pid}: нет текста или фото")
+        except FacebookError as e:
+            errors.append(f"{pid}: {e.short()}")
+    raise SourceError("не удалось прочитать пост: " + " | ".join(errors[-3:]))
+
+
+def manual_links(cfg) -> list:
+    p = cfg.path(cfg.sources.get("manual_file", "queue/links.txt"))
+    if not p.exists():
+        return []
+    out = []
+    for line in p.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#"):
+            out.append(line)
+    return out
+
+
+def google_sheet_links(cfg, session=None) -> list:
+    gs = cfg.sources.get("google_sheet") or {}
+    if not gs.get("enabled"):
+        return []
+    url = (f"https://docs.google.com/spreadsheets/d/{gs['spreadsheet_id']}/gviz/tq"
+           f"?tqx=out:csv&sheet={gs.get('sheet', 'FB_QUEUE')}")
+    r = (session or requests).get(url, timeout=30)
+    if r.status_code != 200 or "<html" in r.text[:200].lower():
+        raise SourceError("Google-таблица недоступна: откройте доступ «Все, у кого есть ссылка — читатель»")
+    rows = list(csv.reader(io.StringIO(r.text)))
+    return [row[0].strip() for row in rows[1:] if row and row[0].strip().startswith(("http", "1", "6"))]
+
+
+def auto_candidates(cfg, graph, tokens: dict, state, now: datetime) -> list:
+    a = cfg.sources.get("auto") or {}
+    if not a.get("enabled"):
+        return []
+    pages = [p.page_id for p in cfg.pages] if a.get("pages", "all") == "all" else [str(x) for x in a["pages"]]
+    since = int((now - timedelta(hours=int(a.get("lookback_hours", 72)))).timestamp())
+    cutoff = a.get("min_created") or state.data.get("source_cutoff")
+    if cutoff:
+        since = max(since, int(datetime.fromisoformat(str(cutoff)).timestamp()))
+    min_chars = int(a.get("min_text_chars", 300))
+    found = []
+    for pid in pages:
+        tok = tokens.get(pid)
+        if not tok:
+            continue
+        try:
+            posts = graph.page_posts(pid, tok, since)
+        except FacebookError:
+            continue
+        for post in posts:
+            msg = post.get("message") or ""
+            created = parse_fb_time(post.get("created_time"))
+            if created is not None and created < since:
+                continue
+            if len(msg) < min_chars:
+                continue
+            if a.get("require_photo", True) and not _has_photo(post):
+                continue
+            if state.is_our_output(post["id"], msg):
+                continue
+            part = post["id"].split("_")[-1]
+            key = source_key(pid, part)
+            if state.source_used(key) or state.fingerprint_used(text_fingerprint(msg)):
+                continue
+            if (state.sources.get(key) or {}).get("status") == "reserved":
+                continue
+            found.append({"key": key, "page_id": pid, "post": post, "created": post.get("created_time", "")})
+    found.sort(key=lambda x: x["created"])  # самые старые новые — первыми
+    return found
+
+
+def pick_source(cfg, graph, tokens: dict, state, now: datetime, log) -> dict | None:
+    """Выбирает следующую историю. Возвращает {"key", "page_id", "text", "image_url", "origin", "link"}."""
+    p2p = cfg.profile_to_page()
+    for origin in cfg.sources.get("order", ["manual", "google_sheet", "auto"]):
+        if origin in ("manual", "google_sheet"):
+            try:
+                links = manual_links(cfg) if origin == "manual" else google_sheet_links(cfg)
+            except SourceError as e:
+                log(f"⚠️ {e}")
+                continue
+            for link in links:
+                try:
+                    info = parse_link(link, p2p)
+                except SourceError as e:
+                    key = "bad:" + text_fingerprint(link)
+                    if not state.source_used(key):
+                        state.mark_source(key, status="skipped", link=link, error=str(e))
+                        log(f"⚠️ ссылка пропущена: {e}")
+                    continue
+                key = source_key(info["page_id"], info["part"])
+                if state.source_used(key) or (state.sources.get(key) or {}).get("status") == "reserved":
+                    continue
+                try:
+                    post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
+                except SourceError as e:
+                    state.mark_source(key, status="failed", link=link, error=str(e))
+                    log(f"⚠️ {link[:80]}: {e}")
+                    continue
+                fp = text_fingerprint(post["text"])
+                if state.fingerprint_used(fp):
+                    state.mark_source(key, status="skipped", link=link, error="эта история уже публиковалась")
+                    continue
+                return {"key": key, "page_id": info["page_id"], "text": post["text"], "image_url": post["image_url"],
+                        "origin": origin, "link": link, "fingerprint": fp}
+        elif origin == "auto":
+            for c in auto_candidates(cfg, graph, tokens, state, now):
+                post = c["post"]
+                # пост уже распространялся (есть комментарий со ссылкой на статью) — это не новая история
+                try:
+                    linked = any("interes-world.com/?p=" in (cm.get("message") or "")
+                                 for cm in graph.comments(post["id"], tokens[c["page_id"]]))
+                except FacebookError:
+                    continue
+                if linked:
+                    state.mark_source(c["key"], status="skipped", error="уже распространялась (есть ссылка в комментарии)")
+                    continue
+                return {"key": c["key"], "page_id": c["page_id"], "text": post["message"],
+                        "image_url": post["full_picture"], "origin": "auto",
+                        "link": post.get("permalink_url") or post["id"],
+                        "fingerprint": text_fingerprint(post["message"])}
+    return None
