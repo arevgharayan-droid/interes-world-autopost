@@ -24,10 +24,14 @@ def _safe_filename(name: str) -> str:
 
 
 class WordPress:
-    def __init__(self, base_url, user, app_password, session=None, retries=3, backoff=4.0, timeout=90):
+    def __init__(self, base_url, user, app_password, session=None, retries=3, backoff=4.0, timeout=90,
+                 api_key=None):
         self.api = base_url.rstrip("/") + "/wp-json/wp/v2"
         self.http = session or requests.Session()
-        self.auth = (user, (app_password or "").replace(" ", ""))
+        # Ключ плагина Make Connector (заголовок IWC-API-KEY) работает и там, где хостинг
+        # вырезает заголовок Authorization; иначе — пароль приложения WordPress.
+        self.api_key = (api_key or "").strip() or None
+        self.auth = None if self.api_key else (user, (app_password or "").replace(" ", ""))
         self.retries = retries
         self.backoff = backoff
         self.timeout = timeout
@@ -37,6 +41,9 @@ class WordPress:
         last = None
         for attempt in range(1, self.retries + 1):
             try:
+                if self.api_key:
+                    kw = dict(kw)
+                    kw["headers"] = {**(kw.get("headers") or {}), "IWC-API-KEY": self.api_key}
                 r = self.http.request(method, url, auth=self.auth, timeout=self.timeout, **kw)
             except requests.RequestException as e:
                 last = WordPressError(f"сеть: {e}")

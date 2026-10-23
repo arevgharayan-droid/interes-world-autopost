@@ -40,7 +40,8 @@ def summary(md: str, file: str | None = None, cfg=None):
 def real_services(cfg):
     import requests
     graph = Graph(cfg.graph_version)
-    wp = WordPress(cfg.site["url"], os.environ.get("WP_USER", ""), os.environ.get("WP_APP_PASSWORD", ""))
+    wp = WordPress(cfg.site["url"], os.environ.get("WP_USER", ""), os.environ.get("WP_APP_PASSWORD", ""),
+                   api_key=os.environ.get("WP_API_KEY"))
     return graph, wp, requests.Session()
 
 
@@ -67,8 +68,11 @@ def cmd_check(cfg, args) -> int:
         else "Конфигурация: " + "; ".join(probs))
     res(True, f"Часы публикаций ({cfg.tz}): {', '.join(cfg.slots)} · расписание "
               f"{'ВКЛЮЧЕНО' if cfg.settings.get('schedule_enabled') else 'выключено'}")
-    for name in ("FB_APP_ID", "FB_APP_SECRET", "WP_USER", "WP_APP_PASSWORD"):
+    for name in ("FB_APP_ID", "FB_APP_SECRET"):
         res(bool(os.environ.get(name)), f"Секрет {name} {'задан' if os.environ.get(name) else 'НЕ задан'}")
+    wp_ok = os.environ.get("WP_API_KEY") or (os.environ.get("WP_USER") and os.environ.get("WP_APP_PASSWORD"))
+    res(bool(wp_ok), "WordPress: " + ("ключ Make Connector (WP_API_KEY)" if os.environ.get("WP_API_KEY")
+                                      else "пароль приложения (WP_USER + WP_APP_PASSWORD)") + (" задан" if wp_ok else " НЕ задан"))
     has_claude = os.environ.get("CLAUDE_CODE_OAUTH_TOKEN") or os.environ.get("ANTHROPIC_API_KEY")
     res(bool(has_claude), "Секрет Claude (CLAUDE_CODE_OAUTH_TOKEN или ANTHROPIC_API_KEY) "
         + ("задан" if has_claude else "НЕ задан"))
@@ -102,7 +106,11 @@ def cmd_check(cfg, args) -> int:
         res(bool(good), f"WordPress: вход выполнен как «{me.get('name')}»"
             + ("" if good else " — но у пользователя нет права публиковать записи"))
     except WordPressError as e:
-        res(False, f"WordPress: {e}")
+        hint = ""
+        if "not currently logged in" in str(e) or "не авторизован" in str(e).lower():
+            hint = (" — хостинг, похоже, вырезает заголовок авторизации. Решение: секрет WP_API_KEY "
+                    "с ключом плагина Make Connector (WordPress → Make → API Key).")
+        res(False, f"WordPress: {e}{hint}")
     try:
         used = Generator(cfg).ping()
         res(True, f"Claude: отвечает (способ: {'подписка Max' if used == 'subscription' else used})")
