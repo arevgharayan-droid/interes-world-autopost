@@ -397,8 +397,7 @@ def cmd_set_schedule(cfg, args) -> int:
 
 
 def cmd_wp_diagnose(cfg) -> int:
-    """Пошаговая проверка записи в WordPress (черновики сразу удаляются)."""
-    import requests as rq
+    """Пошаговая проверка записи в WordPress (тестовые объекты сразу удаляются)."""
     _g, wp, _h = real_services(cfg)
     out = ["## Диагностика WordPress", ""]
     def step(name, fn):
@@ -410,31 +409,32 @@ def cmd_wp_diagnose(cfg) -> int:
             out.append(f"- ❌ {name}: {type(e).__name__}: {redact(e)}")
             return None
     step("users/me", lambda: wp.me().get("name"))
-    step("удалить черновик 7142 (от прошлой диагностики)", lambda: wp.delete_post(7142).get("deleted"))
-    p1 = step("черновик ASCII (json)", lambda: wp.create_post("autopost test", "<p>test</p>", status="draft")["id"])
-    p2 = step("черновик UTF-8 (json)", lambda: wp.create_post("Тест é è ü 👇", "<p>Привет é 👇</p>", status="draft")["id"])
-    def form_post():
-        r = wp.http.post(wp.api + "/posts", headers={"IWC-API-KEY": wp.api_key} if wp.api_key else None,
-                         auth=wp.auth, data={"title": "Тест form é 👇", "content": "<p>é 👇</p>", "status": "draft"},
-                         timeout=60)
-        return f"HTTP {r.status_code} {r.text[:150]}"
-    step("черновик UTF-8 (form)", form_post)
-    def raw_json():
-        body = json.dumps({"title": "Тест raw é 👇", "content": "<p>é</p>", "status": "draft"},
-                          ensure_ascii=False).encode("utf-8")
-        h = {"Content-Type": "application/json; charset=utf-8"}
-        if wp.api_key:
-            h["IWC-API-KEY"] = wp.api_key
-        r = wp.http.post(wp.api + "/posts", headers=h, auth=wp.auth, data=body, timeout=60)
-        return f"HTTP {r.status_code} {r.text[:150]}"
-    step("черновик UTF-8 (raw json utf-8)", raw_json)
+    step("удалить черновик 7145", lambda: wp.delete_post(7145).get("deleted"))
     tiny = bytes.fromhex("ffd8ffe000104a46494600010100000100010000ffd9")
-    m = step("медиа jpg", lambda: wp.upload_media(tiny, "autopost-test.jpg", "image/jpeg")["id"])
-    for pid in (p1, p2):
-        if pid:
-            step(f"удалить черновик {pid}", lambda pid=pid: wp.delete_post(pid).get("deleted"))
-    if m:
-        step(f"удалить медиа {m}", lambda: wp.delete_media(m).get("deleted"))
+    h = {"IWC-API-KEY": wp.api_key} if wp.api_key else {}
+    def raw_multipart():
+        r = wp.http.post(wp.api + "/media", headers=h, auth=wp.auth,
+                         files={"file": ("autopost-test.jpg", tiny, "image/jpeg")}, timeout=60)
+        return f"HTTP {r.status_code} ct={r.headers.get('Content-Type')} body={r.text[:400]}"
+    step("медиа multipart (сырой ответ)", raw_multipart)
+    def raw_multipart2():
+        r = wp.http.post(wp.api + "/media", headers=h, auth=wp.auth,
+                         files={"file": ("autopost-test2.jpg", tiny, "image/jpeg")},
+                         data={"title": "autopost test"}, timeout=60)
+        return f"HTTP {r.status_code} body={r.text[:400]}"
+    step("медиа multipart + title (сырой ответ)", raw_multipart2)
+    def find_media():
+        r = wp.http.get(wp.api + "/media", headers=h, auth=wp.auth,
+                        params={"search": "autopost-test", "per_page": 10, "context": "edit"}, timeout=60)
+        items = r.json() if r.status_code == 200 else []
+        ids = [m.get("id") for m in items] if isinstance(items, list) else items
+        for mid in (ids if isinstance(ids, list) else []):
+            try:
+                wp.delete_media(mid)
+            except Exception:  # noqa: BLE001
+                pass
+        return f"найдено и удалено: {ids}"
+    step("найти и удалить тестовые медиа", find_media)
     summary("\n".join(out) + "\n", "previews/wp-diagnose.md", cfg)
     return 0
 
