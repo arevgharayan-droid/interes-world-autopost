@@ -410,6 +410,7 @@ def cmd_wp_diagnose(cfg) -> int:
             out.append(f"- ❌ {name}: {type(e).__name__}: {redact(e)}")
             return None
     step("users/me", lambda: wp.me().get("name"))
+    step("удалить черновик 7142 (от прошлой диагностики)", lambda: wp.delete_post(7142).get("deleted"))
     p1 = step("черновик ASCII (json)", lambda: wp.create_post("autopost test", "<p>test</p>", status="draft")["id"])
     p2 = step("черновик UTF-8 (json)", lambda: wp.create_post("Тест é è ü 👇", "<p>Привет é 👇</p>", status="draft")["id"])
     def form_post():

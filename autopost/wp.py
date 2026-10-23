@@ -68,9 +68,14 @@ class WordPress:
         return self._req("GET", "users/me", params={"context": "edit"})
 
     def upload_media(self, data: bytes, filename: str, mime: str, title: str = "", alt: str = "") -> dict:
-        headers = {"Content-Disposition": f'attachment; filename="{_safe_filename(filename)}"',
-                   "Content-Type": mime}
-        media = self._req("POST", "media", idempotent=False, data=data, headers=headers)
+        if self.api_key:
+            # через Make Connector сырое тело не проходит — отправляем как multipart/form-data
+            media = self._req("POST", "media", idempotent=False,
+                              files={"file": (_safe_filename(filename), data, mime)})
+        else:
+            headers = {"Content-Disposition": f'attachment; filename="{_safe_filename(filename)}"',
+                       "Content-Type": mime}
+            media = self._req("POST", "media", idempotent=False, data=data, headers=headers)
         if title or alt:
             try:
                 self._req("POST", f"media/{media['id']}", json={"title": title[:180], "alt_text": alt[:180]})
