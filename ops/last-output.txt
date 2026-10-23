@@ -1,8 +1,213 @@
-## Диагностика WordPress
+## Закрытый тест test-20261024-001914
 
-- ✅ users/me: admin
-- ✅ удалить черновик 7145: True
-- ✅ медиа multipart (сырой ответ): HTTP 200 ct=application/json; charset=utf-8 body={"filesize":22,"ID":7147,"post_author":"1","post_date":"2026-10-23 23:18:15","post_date_gmt":"2026-10-23 20:18:15","post_content":"","post_title":"autopost-test-1.jpg","post_excerpt":"","post_status":"inherit","comment_status":"open","ping_status":"closed","post_password":"","post_name":"autopost-test-1-jpg","to_ping":"","pinged":"","post_modified":"2026-10-23 23:18:15","post_modified_gmt":"2026-1
-- ✅ медиа multipart + title (сырой ответ): HTTP 200 body={"filesize":22,"ID":7148,"post_author":"1","post_date":"2026-10-23 23:18:15","post_date_gmt":"2026-10-23 20:18:15","post_content":"","post_title":"autopost test","post_excerpt":"","post_status":"inherit","comment_status":"open","ping_status":"closed","post_password":"","post_name":"autopost-test","to_ping":"","pinged":"","post_modified":"2026-10-23 23:18:15","post_modified_gmt":"2026-10-23 20:18:1
-- ✅ найти и удалить тестовые медиа: найдено и удалено: [7147, 7148, 7146]
+Ничего не опубликовано публично.
+
+**Источник:** https://www.facebook.com/122141783835200344/posts/122141469279200344
+**Фото:** https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/856661307_122141469255200344_6530117830499365763_n.jpg?stp=dst-jpg_p7…
+**Тестовая страница:** Heartfelt Lessons (975714512286925, язык EN)
+
+✅ WordPress: черновик создан (id 7150, статус «draft»), посетителям не виден
+❌ FacebookError: FB 100/None: (#100) Tried accessing nonexisting field (is_published)
+✅ Черновик WordPress удалён
+✅ Тестовый отложенный пост Facebook удалён
+
+### FR → 7 стр.: Au Cœur des Vies, Le Fil de la Vie, Destins Touchants, Larmes de Vie, La Vie Telle Qu’elle Est, Émotions Virales | Paris, Soleil et Amour
+
+**Заголовок:** Il est monté seul sur scène avec la guitare de son père disparu, mais quand deux policiers sont entrés dans le gymnase, il s'est arrêté net
+
+**Текст для Facebook:**
+
+Mon fils de 12 ans est monté seul sur la scène de l'école pour chanter pour le père qu'il avait perdu trois ans plus tôt.
+
+Caleb n'était plus le même depuis la mort de David.
+
+Il n'invitait plus ses amis, mangeait souvent seul dans sa chambre, et chaque fois que je lui demandais ce qui n'allait pas, il me donnait toujours la même réponse :
+
+« Ça va. »
+
+C'est pour cela que j'appréhendais la fête des pères à l'école.
+
+J'avais même pensé le garder à la maison.
+
+Mais Caleb avait insisté pour y aller.
+
+Puis on a appelé son nom.
+
+Il a marché seul jusqu'à la scène, portant la vieille guitare acoustique que David lui avait appris à jouer.
+
+Je ne savais pas du tout qu'il avait préparé quelque chose.
+
+Caleb a cherché dans la salle jusqu'à me trouver.
+
+Puis il a levé les yeux vers le ciel.
+
+« Celle-ci est pour mon papa. »
+
+Les premières notes ont failli me briser.
+
+C'était la chanson que David fredonnait dans notre cuisine les samedis matin.
+
+Dès le deuxième couplet, plusieurs parents s'essuyaient les yeux.
+
+Même les enseignants, alignés contre le mur, étaient restés complètement immobiles.
+
+Puis, sans prévenir, les portes du fond du gymnase se sont ouvertes.
+
+Deux policiers en uniforme sont entrés.
+
+L'un d'eux a regardé vers Caleb.
+
+Puis il a lentement retiré sa casquette.
+
+Et quand mon fils a vu ce que l'homme tenait dans son autre main, il s'est soudain arrêté de chanter.
+
+Suite à lire dans le premier commentaire👇
+
+**Статья:** 950 слов (полностью — content/tests/test-20261024-001914/FR.json)
+Замечания: длина текста FB 267 слов (исходник 222, цель ±10%); длина статьи 1009 слов
+
+### IT → 9 стр.: Quand Tout Bascule, Vite in Primo Piano, Storie Vere | Lion, Voci di Vita | Paris, Racconti Quotidiani | Monaco, Vita Virale | Paris, Moments Français | Paris, Frammenti di Vita, Una Storia che Ti Toccherà
+
+**Заголовок:** Mio figlio di 12 anni ha cantato sul palco per il papà che non c'era più, poi due agenti sono entrati in palestra
+
+**Текст для Facebook:**
+
+Mio figlio di 12 anni è salito sul palco della scuola per cantare per il padre che aveva perso tre anni prima.
+
+Caleb era cambiato dopo la morte di David.
+
+Aveva smesso di invitare gli amici a casa, mangiava spesso da solo in camera sua, e ogni volta che gli chiedevo cosa non andasse, mi dava sempre la stessa risposta:
+
+«Sto bene.»
+
+Per questo ero così in ansia per la festa del papà organizzata dalla scuola.
+
+Avevo perfino pensato di tenerlo a casa.
+
+Ma Caleb ha insistito per andare.
+
+Poi hanno chiamato il suo nome.
+
+È salito sul palco da solo, con la vecchia chitarra acustica che David gli aveva insegnato a suonare.
+
+Non avevo idea che avesse preparato qualcosa.
+
+Caleb ha cercato tra il pubblico finché non mi ha trovata. Poi ha alzato lo sguardo verso l'alto.
+
+«Questa è per il mio papà.»
+
+Le prime note mi hanno quasi spezzata.
+
+Era la stessa canzone che David canticchiava in cucina il sabato mattina.
+
+Alla seconda strofa, diversi genitori si asciugavano gli occhi. Perfino gli insegnanti lungo la parete erano rimasti immobili.
+
+Poi, all'improvviso, le porte in fondo alla palestra si sono aperte.
+
+Due agenti in uniforme sono entrati.
+
+Uno di loro ha guardato verso Caleb. Poi, lentamente, si è tolto il cappello.
+
+E quando mio figlio ha visto cosa teneva nell'altra mano, ha smesso di cantare all'improvviso.
+
+Continua a leggere nel primo commento👇
+
+**Статья:** 932 слов (полностью — content/tests/test-20261024-001914/IT.json)
+
+### EN → 16 стр.: The Daily Report, Human Life Stories, Behind Her Smile, Life’s Echo, Beyond the Mask, Whispers of Fate, Heartfelt Lessons, The Golden Touch, Amazing, Pet Lover, Best Stories, Sweet Paws #1, Sweet Paws #2, Love This World, Fates Behind Closed Doors, Beautiful Babies
+
+**Заголовок:** A 12-Year-Old Sang for His Late Father at the School Stage, Then Two Officers Walked In and He Stopped Mid-Song
+
+**Текст для Facebook:**
+
+My 12-year-old son stepped onto the school stage to sing for the father he lost three years ago.
+
+Caleb had changed after David died.
+
+He stopped inviting friends over. He often ate alone in his room. Whenever I asked what was wrong, he gave me the same answer:
+
+"I'm fine."
+
+That is why I was so nervous about the school's Father's Day event. I even thought about keeping him home.
+
+But Caleb insisted on going.
+
+Then his name was called.
+
+He walked onto the stage alone, carrying the old acoustic guitar David had taught him to play. I had no idea he had prepared anything.
+
+Caleb searched the audience until he found me. Then he looked upward.
+
+"This one is for my dad."
+
+The first notes nearly broke me. It was the same song David used to hum in our kitchen on Saturday mornings.
+
+By the second verse, several parents were wiping their eyes. Even the teachers along the wall had gone completely still.
+
+Then, without warning, the doors at the back of the gym opened.
+
+Two uniformed police officers walked inside.
+
+One of them looked toward Caleb. Then he slowly removed his hat.
+
+And when my son saw what the officer was holding in his other hand, he suddenly stopped singing.
+
+Continue reading in the first comment.
+
+**Статья:** 1023 слов (полностью — content/tests/test-20261024-001914/EN.json)
+Замечания: длина статьи 1034 слов
+
+### NL → 2 стр.: Het is interessant, Mooie kinderen
+
+**Заголовок:** Een jongen zong op school voor zijn overleden vader, tot twee agenten de gymzaal binnenliepen en hij midden in het lied stopte
+
+**Текст для Facebook:**
+
+Mijn 12-jarige zoon stapte het podium van zijn school op om te zingen voor de vader die hij drie jaar eerder had verloren.
+
+Caleb was veranderd nadat David was overleden.
+
+Hij nodigde geen vriendjes meer uit, at vaak alleen op zijn kamer en als ik vroeg wat er aan de hand was, gaf hij steeds hetzelfde antwoord:
+
+“Het gaat wel.”
+
+Daarom zag ik zo op tegen het Vaderdagevent van school.
+
+Ik overwoog zelfs om hem thuis te houden.
+
+Maar Caleb stond erop om te gaan.
+
+Toen werd zijn naam omgeroepen.
+
+Hij liep alleen het podium op, met de oude akoestische gitaar waarop David hem had leren spelen.
+
+Ik had geen idee dat hij iets had voorbereid.
+
+Caleb zocht in de zaal tot hij mij zag.
+
+Daarna keek hij omhoog.
+
+“Dit nummer is voor mijn vader.”
+
+De eerste tonen braken me bijna.
+
+Het was hetzelfde liedje dat David op zaterdagochtend in onze keuken zachtjes neuriede.
+
+Bij het tweede couplet veegden meerdere ouders hun ogen af.
+
+Zelfs de leraren langs de muur stonden doodstil.
+
+Toen gingen ineens de deuren achter in de gymzaal open.
+
+Twee agenten in uniform kwamen binnen.
+
+Een van hen keek naar Caleb.
+
+Daarna nam hij langzaam zijn pet af.
+
+En toen mijn zoon zag wat de agent in zijn andere hand hield, hield hij plotseling op met zingen.
+
+Lees verder in de eerste reactie👇
+
+**Статья:** 863 слов (полностью — content/tests/test-20261024-001914/NL.json)
 
