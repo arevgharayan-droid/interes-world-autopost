@@ -80,7 +80,7 @@
        "mode": "schedule",
        "photo_id": "122201052578461850",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "444776585382502": {
        "attempts": 1,
@@ -89,11 +89,12 @@
        "mode": "schedule",
        "photo_id": "122225906090543856",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       }
      },
      "title": "Mein Schwager trug meine siebenjährige Tochter immer wieder bewusstlos ins Haus – dann versteckte ich ein Aufnahmegerät in ihrem Rucksack",
      "warnings": [],
+     "wp_cancelled": true,
      "wp_error": null,
      "wp_id": 7161,
      "wp_status": "future"
@@ -110,7 +111,7 @@
        "mode": "schedule",
        "photo_id": "1121158427279345",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1016419758218222": {
        "attempts": 1,
@@ -119,7 +120,7 @@
        "mode": "schedule",
        "photo_id": "122144764971204972",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "104114086037068": {
        "attempts": 1,
@@ -128,7 +129,7 @@
        "mode": "schedule",
        "photo_id": "1020663167722062",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "104239205742669": {
        "attempts": 0,
@@ -141,7 +142,7 @@
        "mode": "schedule",
        "photo_id": "122141283194777362",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "106713875762456": {
        "attempts": 1,
@@ -150,7 +151,7 @@
        "mode": "schedule",
        "photo_id": "1008838395567766",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "108881571809093": {
        "attempts": 1,
@@ -159,7 +160,7 @@
        "mode": "schedule",
        "photo_id": "1138841278822825",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1164984823367955": {
        "attempts": 1,
@@ -168,7 +169,7 @@
        "mode": "schedule",
        "photo_id": "122126657535376826",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1165836896614851": {
        "attempts": 1,
@@ -177,7 +178,7 @@
        "mode": "schedule",
        "photo_id": "122140149639384677",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1167352663135230": {
        "attempts": 1,
@@ -186,7 +187,7 @@
        "mode": "schedule",
        "photo_id": "122142341253384760",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "117220714573166": {
        "attempts": 1,
@@ -195,7 +196,7 @@
        "mode": "schedule",
        "photo_id": "1128616680101560",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1235940142932696": {
        "attempts": 1,
@@ -204,7 +205,7 @@
        "mode": "schedule",
        "photo_id": "122116438395408404",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "162144310308183": {
        "attempts": 1,
@@ -213,7 +214,7 @@
        "mode": "schedule",
        "photo_id": "122259526580093350",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "220697507802568": {
        "attempts": 1,
@@ -222,7 +223,7 @@
        "mode": "schedule",
        "photo_id": "122338002134237583",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "233545296514172": {
        "attempts": 1,
@@ -231,7 +232,7 @@
        "mode": "schedule",
        "photo_id": "122331668888241259",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "236129656261330": {
        "attempts": 1,
@@ -240,7 +241,7 @@
        "mode": "schedule",
        "photo_id": "122227787126294596",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "237939756073256": {
        "attempts": 1,
@@ -249,7 +250,7 @@
        "mode": "schedule",
        "photo_id": "122350602122234096",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "530022363528890": {
        "attempts": 1,
@@ -258,7 +259,7 @@
        "mode": "schedule",
        "photo_id": "122173761404720509",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "621364207735841": {
        "attempts": 1,
@@ -267,7 +268,7 @@
        "mode": "schedule",
        "photo_id": "122208582854909607",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "625664190627160": {
        "attempts": 1,
@@ -276,7 +277,7 @@
        "mode": "schedule",
        "photo_id": "122181641048820020",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "648976361631351": {
        "attempts": 1,
@@ -285,7 +286,7 @@
        "mode": "schedule",
        "photo_id": "122191687412829482",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "673710079162922": {
        "attempts": 1,
@@ -294,7 +295,7 @@
        "mode": "schedule",
        "photo_id": "122241500954895613",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "714226118434052": {
        "attempts": 1,
@@ -303,7 +304,7 @@
        "mode": "schedule",
        "photo_id": "122202010376902657",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "892503027289970": {
        "attempts": 1,
@@ -312,7 +313,7 @@
        "mode": "schedule",
        "photo_id": "122141095581219808",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "914823471720372": {
        "attempts": 1,
@@ -321,7 +322,7 @@
        "mode": "schedule",
        "photo_id": "122146258401209718",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "921611111039858": {
        "attempts": 0,
@@ -334,7 +335,7 @@
        "mode": "schedule",
        "photo_id": "122147116683209153",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "994273113779575": {
        "attempts": 1,
@@ -343,11 +344,12 @@
        "mode": "schedule",
        "photo_id": "122136084014776189",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       }
      },
      "title": "My Daughter Kept Coming Home Unconscious From Her Uncle's School Pickups, So I Hid a Recorder in Her Backpack",
      "warnings": [],
+     "wp_cancelled": true,
      "wp_error": null,
      "wp_id": 7157,
      "wp_status": "future"
@@ -364,7 +366,7 @@
        "mode": "schedule",
        "photo_id": "122104328894536431",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1032441206625600": {
        "attempts": 1,
@@ -373,7 +375,7 @@
        "mode": "schedule",
        "photo_id": "122116071104633539",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "106591088255968": {
        "attempts": 1,
@@ -382,7 +384,7 @@
        "mode": "schedule",
        "photo_id": "1450342250568505",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -391,7 +393,7 @@
        "mode": "schedule",
        "photo_id": "122120995791299008",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1145306638657445": {
        "attempts": 1,
@@ -400,7 +402,7 @@
        "mode": "schedule",
        "photo_id": "122122457031303172",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1202025962997153": {
        "attempts": 1,
@@ -409,7 +411,7 @@
        "mode": "schedule",
        "photo_id": "122119052829409328",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1250374694822508": {
        "attempts": 1,
@@ -418,13 +420,14 @@
        "mode": "schedule",
        "photo_id": "122120919579415639",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       }
      },
      "title": "Chaque fois que son oncle allait chercher Lily à l'école, elle rentrait inconsciente : ce que sa mère a découvert dans le sac à dos a glacé toute la famille",
      "warnings": [
       "длина текста FB 433 слов (исходник 338, цель ±10%)"
      ],
+     "wp_cancelled": true,
      "wp_error": null,
      "wp_id": 7155,
      "wp_status": "future"
@@ -441,7 +444,7 @@
        "mode": "schedule",
        "photo_id": "122137699082808945",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1058598924006917": {
        "attempts": 1,
@@ -450,7 +453,7 @@
        "mode": "schedule",
        "photo_id": "122108284046457428",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1064982806700854": {
        "attempts": 1,
@@ -459,7 +462,7 @@
        "mode": "schedule",
        "photo_id": "122110635338456562",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -468,7 +471,7 @@
        "mode": "schedule",
        "photo_id": "122107383614506427",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1114015015119414": {
        "attempts": 1,
@@ -477,7 +480,7 @@
        "mode": "schedule",
        "photo_id": "122138207288811401",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1140835409106424": {
        "attempts": 1,
@@ -486,7 +489,7 @@
        "mode": "schedule",
        "photo_id": "122108866388543006",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -495,7 +498,7 @@
        "mode": "schedule",
        "photo_id": "122134859337311525",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -504,7 +507,7 @@
        "mode": "schedule",
        "photo_id": "122131674207400586",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "997772916762884": {
        "attempts": 1,
@@ -513,11 +516,12 @@
        "mode": "schedule",
        "photo_id": "122111872172437662",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       }
      },
      "title": "Mio cognato riportava a casa mia figlia di 7 anni svenuta, e mio marito non era mai sorpreso: poi ho nascosto un registratore nello zaino",
      "warnings": [],
+     "wp_cancelled": true,
      "wp_error": null,
      "wp_id": 7156,
      "wp_status": "future"
@@ -534,7 +538,7 @@
        "mode": "schedule",
        "photo_id": "122218170752930012",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "715935674934966": {
        "attempts": 1,
@@ -543,11 +547,12 @@
        "mode": "schedule",
        "photo_id": "122199618434922316",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       }
      },
      "title": "Mijn zwager droeg mijn dochtertje van zeven steeds bewusteloos naar binnen, tot ik een recorder in haar rugzak stopte",
      "warnings": [],
+     "wp_cancelled": true,
      "wp_error": null,
      "wp_id": 7158,
      "wp_status": "future"
@@ -564,7 +569,7 @@
        "mode": "schedule",
        "photo_id": "122116885442640467",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1125676667286378": {
        "attempts": 1,
@@ -573,7 +578,7 @@
        "mode": "schedule",
        "photo_id": "122137191326737651",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "988042774402200": {
        "attempts": 1,
@@ -582,11 +587,12 @@
        "mode": "schedule",
        "photo_id": "122132486660733774",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       }
      },
      "title": "Дядя приносил мою семилетнюю дочь домой без сознания, а муж говорил, что это пустяки, пока диктофон в рюкзаке не записал страшный разговор",
      "warnings": [],
+     "wp_cancelled": true,
      "wp_error": null,
      "wp_id": 7159,
      "wp_status": "future"
@@ -603,7 +609,7 @@
        "mode": "schedule",
        "photo_id": "122125350099311884",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1164575726728296": {
        "attempts": 1,
@@ -612,7 +618,7 @@
        "mode": "schedule",
        "photo_id": "122124438687307134",
        "post_id": null,
-       "status": "scheduled"
+       "status": "cancelled"
       }
      },
      "title": "Kızım Okuldan Her Seferinde Baygın Döndü, Çantasına Gizlice Ses Kaydedici Koyunca Kocamın Korkunç Planını Duydum",
@@ -620,6 +626,7 @@
       "длина текста FB 279 слов (исходник 338, цель ±10%)",
       "длина статьи 547 слов"
      ],
+     "wp_cancelled": true,
      "wp_error": null,
      "wp_id": 7160,
      "wp_status": "future"
@@ -637,7 +644,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261025-1500.jpg"
    },
    "source_key": "post:921611111039858_122141783583200344",
-   "status": "in_progress"
+   "status": "cancelled"
   }
  },
  "source_cutoff": "2026-10-23T18:46:37+00:00",
