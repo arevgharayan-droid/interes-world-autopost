@@ -58,8 +58,11 @@ def temp_cfg():
 class ConfigTests(unittest.TestCase):
     def test_exact_page_assignments(self):
         cfg = config_mod.load(ROOT)
-        got = [(p.lang, p.page_id, p.name) for p in cfg.pages]
+        got = [(p.lang, p.page_id, p.name) for p in cfg.pages if p.from_make]
         self.assertEqual(got, MAKE_PAGES)
+        # + страницы, добавленные после переноса (RU, TR, DE и новые EN)
+        self.assertGreaterEqual(len(cfg.pages), 34)
+        self.assertEqual(set(cfg.active_langs()), {"FR", "IT", "EN", "NL", "RU", "TR", "DE"})
         self.assertEqual(config_mod.check_expected_counts(cfg), [])
 
     def test_workflow_matches_slots(self):
@@ -179,9 +182,9 @@ class PipelineTests(unittest.TestCase):
         clock["now"] = clock["now"].replace(hour=9, minute=3)
         rep = run()
         self.assertEqual(rep.final_errors, [])
-        self.assertEqual(len(graph.posts), 33)
+        self.assertEqual(len(graph.posts), len(cfg.pages) - 1)
         self.assertTrue(all(not p["scheduled_ts"] for p in graph.posts.values()))
-        self.assertEqual(sum(len(v) for v in graph.comments_by.values()), 33)
+        self.assertEqual(sum(len(v) for v in graph.comments_by.values()), len(cfg.pages) - 1)
         self.assertEqual(st.slots["2030-05-01 09:00"]["status"], "done")
 
     def test_no_source_is_not_fatal(self):
@@ -212,17 +215,17 @@ class ResilienceTests(PipelineTests):
         cfg, clock, graph, wp, st, run = self._slot_run()
         before = copy.deepcopy(st.data)
         run()                                     # 06:07 — подготовка и отложенные посты на 09:00
-        self.assertEqual((len(graph.posts), len(wp.posts)), (33, 4))
+        self.assertEqual((len(graph.posts), len(wp.posts)), (len(cfg.pages) - 1, len(cfg.active_langs())))
         st.data = before                          # «потеряли» state.json (тексты в content/ остались)
         clock["now"] = clock["now"].replace(hour=8, minute=7)
         run()
-        self.assertEqual((len(graph.posts), len(wp.posts)), (33, 4))
+        self.assertEqual((len(graph.posts), len(wp.posts)), (len(cfg.pages) - 1, len(cfg.active_langs())))
         st.data = copy.deepcopy(before)           # и ещё раз, уже после выхода
         st.data["source_cutoff"] = before["source_cutoff"]
         clock["now"] = clock["now"].replace(hour=9, minute=7)
         run()
-        self.assertEqual((len(graph.posts), len(wp.posts)), (33, 4))
-        self.assertEqual(sum(len(v) for v in graph.comments_by.values()), 33)
+        self.assertEqual((len(graph.posts), len(wp.posts)), (len(cfg.pages) - 1, len(cfg.active_langs())))
+        self.assertEqual(sum(len(v) for v in graph.comments_by.values()), len(cfg.pages) - 1)
 
     def test_comment_error_that_went_through(self):
         cfg, clock, graph, wp, st, run = self._slot_run()
@@ -240,12 +243,12 @@ class ResilienceTests(PipelineTests):
     def test_wp_lookup_failure_does_not_create(self):
         from autopost.wp import WordPressError
         cfg, clock, graph, wp, st, run = self._slot_run()
-        wp.fail_next += [("find_by_slug", WordPressError("timeout", None))] * 4
+        wp.fail_next += [("find_by_slug", WordPressError("timeout", None))] * len(cfg.active_langs())
         run()
         self.assertEqual(len(wp.posts), 0)
         clock["now"] = clock["now"].replace(hour=8, minute=7)
         run()
-        self.assertEqual(len(wp.posts), 4)
+        self.assertEqual(len(wp.posts), len(cfg.active_langs()))
 
     def test_wp_502_after_save_no_duplicate(self):
         from autopost.wp import WordPressError
@@ -256,7 +259,7 @@ class ResilienceTests(PipelineTests):
         run()
         clock["now"] = clock["now"].replace(hour=8, minute=7)
         run()
-        self.assertEqual(len(wp.posts), 4)
+        self.assertEqual(len(wp.posts), len(cfg.active_langs()))
 
     def test_one_page_without_token_does_not_stop_others(self):
         cfg, clock, graph, wp, st, run = self._slot_run()
@@ -265,7 +268,7 @@ class ResilienceTests(PipelineTests):
         tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages if p.page_id != missing}
         rep = Pipeline(cfg, st, graph, wp, Generator(cfg, backend="mock"), tokens,
                        now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
-        self.assertEqual(len(graph.posts), 32)
+        self.assertEqual(len(graph.posts), len(cfg.pages) - 2)
         self.assertEqual(rep.final_errors, [])
 
     def test_unconnected_pages_are_skipped_quietly(self):
@@ -295,12 +298,12 @@ class ResilienceTests(PipelineTests):
             clock["now"] = clock["now"].replace(hour=hh, minute=mm)
             reports.append(Pipeline(cfg, st, graph, wp, Generator(cfg, backend="mock"), tokens,
                                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick())
-        self.assertEqual(len(wp.posts), 3)
+        self.assertEqual(len(wp.posts), len(cfg.active_langs()) - 1)
         self.assertEqual([e for r in reports for e in r.final_errors], [])
         slot = st.slots["2030-05-01 09:00"]
         self.assertEqual(slot["status"], "done")
         self.assertTrue(slot["langs"]["NL"].get("skipped"))
-        self.assertEqual(len(graph.posts), 33 - len(nl))
+        self.assertEqual(len(graph.posts), len(cfg.pages) - 1 - len(nl))
 
     def test_tokens_are_redacted(self):
         from autopost.fb import redact

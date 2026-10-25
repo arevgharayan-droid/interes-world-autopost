@@ -1,6 +1,6 @@
 """Сухой прогон: N дней расписания на поддельных Facebook/WordPress и тестовых текстах.
 
-Проверяет: 5 слотов в день × 34 страницы, отсутствие дублей, первый комментарий у каждого поста,
+Проверяет: 5 слотов в день × все страницы, отсутствие дублей, первый комментарий у каждого поста,
 повтор только неудавшихся шагов (внедряются сбои), повторный запуск ничего не задваивает.
 """
 from __future__ import annotations
@@ -112,8 +112,8 @@ def run_simulation(cfg, days=2):
     if len(graph.posts) != total_expected:
         problems.append(f"постов {len(graph.posts)}, ожидалось {total_expected}")
     wp_pub = [p for p in wp.posts.values() if p["status"] == "publish"]
-    if len(wp_pub) != expected_slots * 4:
-        problems.append(f"статей опубликовано {len(wp_pub)}, ожидалось {expected_slots * 4}")
+    if len(wp_pub) != expected_slots * len(sim_cfg.active_langs()):
+        problems.append(f"статей опубликовано {len(wp_pub)}, ожидалось {expected_slots * len(sim_cfg.active_langs())}")
     links_ok = all(graph.comments_by[pid][0]["message"].startswith("https://interes-world.com/?p=")
                    for pid in graph.posts if graph.comments_by.get(pid))
     if not links_ok:
