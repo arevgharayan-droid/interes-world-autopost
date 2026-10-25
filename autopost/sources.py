@@ -105,20 +105,31 @@ def _has_photo(post: dict) -> bool:
 
 def fetch_post(graph, link_info: dict, tokens: dict, fallback_page_id: str) -> dict:
     """Читает текст и фото поста. Нужен токен страницы-владельца (ваши страницы)."""
-    token = tokens.get(link_info["page_id"]) or tokens.get(fallback_page_id)
+    own = tokens.get(link_info["page_id"])
+    token = own or tokens.get(fallback_page_id)
     if not token:
         raise SourceError(f"нет доступа к странице {link_info['page_id']} (она не среди подключённых)")
+    # ссылка на фото без ID страницы (photo/?fbid=…&set=a.…): пробуем запасную страницу, затем все свои
+    photo_tokens = [token] if own else [token] + [t for pid, t in tokens.items() if t != token]
     errors = []
     for pid in link_info["candidates"]:
-        try:
-            if pid == link_info["part"]:
-                ph = graph.get_photo(pid, token)
+        if pid == link_info["part"]:
+            for tok in photo_tokens:
+                try:
+                    ph = graph.get_photo(pid, tok)
+                except FacebookError as e:
+                    if len(errors) < 3:
+                        errors.append(f"{pid}: {e.short()}")
+                    continue
                 imgs = sorted(ph.get("images") or [], key=lambda i: i.get("width", 0), reverse=True)
                 if ph.get("name") and imgs:
                     return {"text": ph["name"], "image_url": imgs[0]["source"],
                             "post_id": ph.get("page_story_id") or pid, "created_time": ph.get("created_time"),
-                            "permalink": ph.get("link")}
-                continue
+                            "permalink": ph.get("link"), "owner_page_id": (ph.get("from") or {}).get("id")}
+                errors.append(f"{pid}: у фото нет подписи (текста истории)")
+                break
+            continue
+        try:
             post = graph.get_post(pid, token)
             if post.get("message") and post.get("full_picture"):
                 return {"text": post["message"], "image_url": post["full_picture"], "post_id": post["id"],
@@ -236,8 +247,8 @@ def pick_source(cfg, graph, tokens: dict, state, now: datetime, log) -> dict | N
                     continue
                 if origin == "google_sheet":
                     state.mark_source(link_key(link), status="used", link=link, post_key=key)
-                return {"key": key, "page_id": info["page_id"], "text": post["text"], "image_url": post["image_url"],
-                        "origin": origin, "link": link, "fingerprint": fp}
+                return {"key": key, "page_id": post.get("owner_page_id") or info["page_id"], "text": post["text"],
+                        "image_url": post["image_url"], "origin": origin, "link": link, "fingerprint": fp}
         elif origin == "auto":
             for c in auto_candidates(cfg, graph, tokens, state, now):
                 post = c["post"]

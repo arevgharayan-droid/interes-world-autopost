@@ -501,7 +501,7 @@ def cmd_check_queue(cfg) -> int:
                 out.append(f"- ⏭ уже использована ({rec.get('status')}, {rec.get('slot', '')}): {link[:90]}")
                 continue
             post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
-            page = cfg.page(info["page_id"])
+            page = cfg.page(post.get("owner_page_id") or info["page_id"])
             waiting += 1
             first = " ".join(post["text"].split())[:110]
             out.append(f"- ✅ ждёт публикации · {page.name if page else info['page_id']} · "

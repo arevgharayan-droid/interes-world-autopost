@@ -124,7 +124,7 @@ class Graph:
         return self.get(post_id, token, fields=self.POST_FIELDS)
 
     def get_photo(self, photo_id, token) -> dict:
-        return self.get(photo_id, token, fields="id,name,images,page_story_id,link,created_time")
+        return self.get(photo_id, token, fields="id,name,images,page_story_id,link,created_time,from")
 
     def page_posts(self, page_id, token, since_ts: int, limit=50) -> list:
         return self.get(f"{page_id}/posts", token, fields=self.POST_FIELDS,
