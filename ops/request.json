@@ -1,1 +1,1 @@
-{"id": "public-1", "cmd": "public-test", "args": {"test_id": "test-20261024-002230", "page": "975714512286925", "confirm": "PUBLISH"}}
+{"id": "schedule-on-1", "cmd": "set-schedule", "args": {"mode": "on"}}
