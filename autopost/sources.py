@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import csv
+import hashlib
 import io
 import re
 from datetime import datetime, timedelta, timezone
@@ -55,6 +56,24 @@ def parse_link(link: str, profile_to_page: dict) -> dict:
         if pid not in cands:
             cands.append(pid)
     return {"raw_page": raw_page, "page_id": page_id, "part": part, "candidates": cands}
+
+
+def link_key(link: str) -> str:
+    return "link:" + hashlib.sha1(link.strip().encode("utf-8")).hexdigest()[:20]
+
+
+def sheet_baseline(state, links: list, now: datetime) -> int:
+    """Отмечает все ссылки, уже стоящие в таблице, как старые. Возвращает их число."""
+    n = 0
+    for link in links:
+        key = link_key(link)
+        if not state.source_used(key):
+            state.data.setdefault("sources", {})[key] = {"status": "skipped", "link": link,
+                                                         "error": "была в таблице до подключения"}
+            n += 1
+    state.data["sheet_baseline_at"] = now.astimezone(timezone.utc).isoformat(timespec="seconds")
+    state.save()
+    return n
 
 
 def parse_fb_time(value) -> float | None:
@@ -186,7 +205,14 @@ def pick_source(cfg, graph, tokens: dict, state, now: datetime, log) -> dict | N
             except SourceError as e:
                 log(f"⚠️ {e}")
                 continue
+            if origin == "google_sheet" and not state.data.get("sheet_baseline_at"):
+                # как watchRows в Make: строки, которые уже были в таблице при подключении, не публикуются
+                n = sheet_baseline(state, links, now)
+                log(f"Google-таблица подключена: {n} старых ссылок пропущено, дальше берутся только новые строки")
+                continue
             for link in links:
+                if origin == "google_sheet" and state.source_used(link_key(link)):
+                    continue
                 try:
                     info = parse_link(link, p2p)
                 except SourceError as e:
@@ -208,6 +234,8 @@ def pick_source(cfg, graph, tokens: dict, state, now: datetime, log) -> dict | N
                 if state.fingerprint_used(fp):
                     state.mark_source(key, status="skipped", link=link, error="эта история уже публиковалась")
                     continue
+                if origin == "google_sheet":
+                    state.mark_source(link_key(link), status="used", link=link, post_key=key)
                 return {"key": key, "page_id": info["page_id"], "text": post["text"], "image_url": post["image_url"],
                         "origin": origin, "link": link, "fingerprint": fp}
         elif origin == "auto":

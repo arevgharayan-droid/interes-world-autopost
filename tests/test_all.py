@@ -52,6 +52,9 @@ def temp_cfg():
     (tmp / "state").mkdir()
     cfg = config_mod.load(tmp)
     cfg.settings["slots"] = ["09:00", "12:00", "15:00", "18:00", "21:00"]  # фиксированные часы для тестов
+    # тесты конвейера моделируют авто-режим без сети (таблица проверяется отдельным тестом)
+    cfg.settings["sources"]["auto"]["enabled"] = True
+    cfg.settings["sources"]["google_sheet"]["enabled"] = False
     return cfg, tmp
 
 
@@ -342,3 +345,34 @@ class TestCommands(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class SheetQueueTests(unittest.TestCase):
+    """Как watchRows в Make: старые строки таблицы не публикуются, новые берутся по порядку, каждая один раз."""
+
+    def test_baseline_then_new_rows(self):
+        from unittest import mock
+        from autopost import sources
+        cfg, tmp = temp_cfg()
+        cfg.settings["sources"]["auto"]["enabled"] = False
+        cfg.settings["sources"]["google_sheet"]["enabled"] = True
+        now = datetime(2030, 5, 1, 6, 0, tzinfo=ZoneInfo(cfg.tz))
+        graph = FakeGraph(cfg, lambda: now)
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        pid = cfg.pages[0].page_id
+        for n in (1, 2, 3):
+            graph.source_posts.setdefault(pid, []).append({
+                "id": f"{pid}_{n}", "message": STORY + f" #{n}", "full_picture": "https://x/y.jpg",
+                "attachments": {"data": [{"media_type": "photo"}]}})
+        st = State(tmp / "state" / "state.json")
+        rows = [f"{pid}_1"]                       # старая ссылка, была в таблице до подключения
+        with mock.patch.object(sources, "google_sheet_links", lambda cfg: list(rows)):
+            self.assertIsNone(sources.pick_source(cfg, graph, tokens, st, now, print))
+            rows += [f"{pid}_2", f"{pid}_3"]      # новые строки
+            first = sources.pick_source(cfg, graph, tokens, st, now, print)
+            self.assertEqual(first["key"], f"post:{pid}_2")
+            st.mark_source(first["key"], status="used")
+            second = sources.pick_source(cfg, graph, tokens, st, now, print)
+            self.assertEqual(second["key"], f"post:{pid}_3")
+            st.mark_source(second["key"], status="used")
+            self.assertIsNone(sources.pick_source(cfg, graph, tokens, st, now, print))

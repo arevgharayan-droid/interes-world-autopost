@@ -17,7 +17,7 @@ from .config import LANG_ORDER
 from .fb import FacebookError, Graph, redact
 from .generate import GenerationError, Generator
 from .pipeline import AuthProblem, Pipeline, Report
-from .sources import SourceError, fetch_post, parse_link, pick_source
+from .sources import SourceError, fetch_post, google_sheet_links, link_key, parse_link, pick_source, sheet_baseline
 from .state import State
 from .tokens import TokenError, load_tokens, setup_facebook
 from .workflow import render_cron_block, write_workflow
@@ -474,8 +474,34 @@ def cmd_ops(cfg, args) -> int:
         return cmd_status(cfg, ns())
     if cmd == "wp-diagnose":
         return cmd_wp_diagnose(cfg)
+    if cmd == "sheet-status":
+        return cmd_sheet_status(cfg)
     print(f"Неизвестная команда: {cmd}")
     return 1
+
+
+def cmd_sheet_status(cfg) -> int:
+    """Проверка Google-таблицы: доступна ли, сколько старых строк пропущено, какие новые ссылки ждут."""
+    st = state_of(cfg)
+    out = ["## Google-таблица FB_QUEUE", ""]
+    try:
+        links = google_sheet_links(cfg)
+    except Exception as e:  # noqa: BLE001
+        out.append(f"❌ {e}")
+        summary("\n".join(out) + "\n", "previews/sheet-status.md", cfg)
+        return 1
+    out.append(f"✅ Таблица читается, ссылок в колонке A: {len(links)}")
+    if not st.data.get("sheet_baseline_at"):
+        n = sheet_baseline(st, links, datetime.now(timezone.utc))
+        out.append(f"✅ Подключено: {n} старых ссылок помечены как уже бывшие — они не публикуются. "
+                   "Теперь добавляйте новые ссылки в конец колонки A.")
+    else:
+        out.append(f"Подключена с {st.data['sheet_baseline_at']}")
+    waiting = [ln for ln in links if not st.source_used(link_key(ln))]
+    out.append(f"Новых ссылок в очереди: {len(waiting)}")
+    out += [f"- {ln[:100]}" for ln in waiting[:20]]
+    summary("\n".join(out) + "\n", "previews/sheet-status.md", cfg)
+    return 0
 
 
 def cmd_render_workflow(cfg, args) -> int:

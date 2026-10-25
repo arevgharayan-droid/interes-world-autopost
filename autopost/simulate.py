@@ -35,6 +35,8 @@ def run_simulation(cfg, days=2):
     sim_cfg = config_mod.load(tmp)
     sim_cfg.settings["schedule_enabled"] = True
     sim_cfg.settings["sources"]["auto"]["lookback_hours"] = 24 * (days + 2)
+    sim_cfg.settings["sources"]["auto"]["enabled"] = True        # сухой прогон без сети:
+    sim_cfg.settings["sources"]["google_sheet"]["enabled"] = False  # истории берутся с поддельных страниц
     tz = ZoneInfo(sim_cfg.tz)
     start = datetime.now(tz).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
     clock = {"now": start}
