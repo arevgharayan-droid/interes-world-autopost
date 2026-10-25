@@ -28,6 +28,10 @@ STOPWORDS = {
            "lei lui quel quella questo questa ogni dopo aveva perché").split(),
     "EN": "the and is was to of in that it he she with for his her but not on at you they had".split(),
     "NL": "de het een en is van dat niet op met voor zijn haar maar ik je hij ze er te was".split(),
+    "RU": "и в не на что он она я с как это по но его её был была они мы вы к у из за так же всё".split(),
+    "TR": ("ve bir bu da de ne için ile çok ama o ben sen gibi daha kadar sonra her şey değil "
+           "onun bana ona benim olarak").split(),
+    "DE": "der die das und ist nicht ein eine ich sie er zu mit den von auf es war aber dass sich".split(),
 }
 
 
@@ -74,7 +78,7 @@ def words(text: str) -> int:
 
 
 def detect_language(text: str) -> str:
-    tokens = re.findall(r"[a-zàâäéèêëïîôöùûüçœ']+", (text or "").lower())
+    tokens = re.findall(r"[^\W\d_]+", (text or "").lower())
     scores = {}
     for lang, sw in STOPWORDS.items():
         s = set(sw)
@@ -258,6 +262,12 @@ _MOCK = {
            "Continue reading in the first comment 👇"),
     "NL": ("Een ontmoeting die alles veranderde", "Ze wist niet dat die dag haar leven zou veranderen en dat het mooi was. ",
            "Lees verder in de eerste reactie 👇"),
+    "RU": ("Встреча, которая всё изменила", "Она не знала, что этот день изменит её жизнь, и это было так. ",
+           "Продолжение читайте в первом комментарии 👇"),
+    "TR": ("Her şeyi değiştiren bir karşılaşma", "O gün onun için her şey değişti ve bu çok güzel bir şey oldu. ",
+           "Devamı ilk yorumda 👇"),
+    "DE": ("Eine Begegnung, die alles veränderte", "Sie wusste nicht, dass dieser Tag ihr Leben verändern würde, und es war gut. ",
+           "Weiterlesen im ersten Kommentar 👇"),
 }
 
 

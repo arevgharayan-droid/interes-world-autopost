@@ -64,7 +64,7 @@ def cmd_check(cfg, args) -> int:
         (ok if good else bad).append(text)
 
     probs = config_mod.check_expected_counts(cfg)
-    res(not probs, "Конфигурация: 34 страницы (FR 7 · IT 9 · EN 16 · NL 2), как в Make" if not probs
+    res(not probs, f"Конфигурация: {config_mod.describe(cfg)}; все 34 страницы из Make на месте" if not probs
         else "Конфигурация: " + "; ".join(probs))
     res(True, f"Часы публикаций ({cfg.tz}): {', '.join(cfg.slots)} · расписание "
               f"{'ВКЛЮЧЕНО' if cfg.settings.get('schedule_enabled') else 'выключено'}")
@@ -93,7 +93,7 @@ def cmd_check(cfg, args) -> int:
                     renamed.append(f"{p.name} → сейчас «{info.get('name')}»")
             except FacebookError as e:
                 failed.append(f"{p.name} — {e.short()}")
-        res(not failed, "Facebook: все 34 страницы доступны" if not failed
+        res(not failed, f"Facebook: все {len(cfg.pages)} страниц доступны" if not failed
             else "Facebook: проблемы со страницами: " + "; ".join(failed))
         if renamed:
             ok.append("Facebook: названия отличаются от Make (ID совпадают, это не ошибка): " + "; ".join(renamed))
@@ -145,7 +145,7 @@ def cmd_setup_facebook(cfg, args) -> int:
     st = state_of(cfg)
     st.ensure_source_cutoff(datetime.now(timezone.utc))
     st.save()
-    lines = ["## Подключение Facebook", "", f"✅ Получены токены страниц: **{len(rep['ok'])} из 34**"]
+    lines = ["## Подключение Facebook", "", f"✅ Получены токены страниц: **{len(rep['ok'])} из {len(cfg.pages)}**"]
     lines.append("Срок действия токенов страниц: " + ("бессрочно" if not rep["expires_at"] else
                  datetime.fromtimestamp(rep["expires_at"], timezone.utc).strftime("%Y-%m-%d")))
     if rep["scopes"]:
@@ -160,7 +160,8 @@ def cmd_setup_facebook(cfg, args) -> int:
     if rep["no_rights"]:
         lines.append("❌ Недостаточно прав на страницах: " + "; ".join(f"{p.name} ({', '.join(t)})" for p, t in rep["no_rights"]))
     if rep["extra_pages"]:
-        lines.append("ℹ️ Доступны и другие страницы (не используются): " + "; ".join(n or i for i, n in rep["extra_pages"]))
+        lines.append("ℹ️ Доступны и другие страницы (пока не в config/pages.yaml): "
+                     + "; ".join(f"{n or '?'} (page_id {i})" for i, n in rep["extra_pages"]))
     lines.append("\nНовыми историями считаются посты, опубликованные на ваших страницах ПОСЛЕ этого момента "
                  "(старые посты и всё, что публиковал Make, не берутся).")
     lines.append("Секрет FB_USER_TOKEN не удаляйте: когда в портфолио добавятся новые страницы, "
@@ -196,13 +197,14 @@ def cmd_private_test(cfg, args, services=None, tokens=None) -> int:
         return 1
     src = _peek_source(cfg, graph, tokens, args.source)
     if not src:
-        summary("## Закрытый тест\n\n❌ Нет новой истории. Опубликуйте историю с фото на любой из 34 страниц "
+        summary("## Закрытый тест\n\n❌ Нет новой истории. Опубликуйте историю с фото на любой из ваших страниц "
                 "или запустите тест со ссылкой на пост.\n")
         return 1
     test_id = datetime.now(tz).strftime("test-%Y%m%d-%H%M%S")
     gen = Generator(cfg, backend=args.backend)
-    with ThreadPoolExecutor(max_workers=4) as pool:
-        futs = {lang: pool.submit(gen.generate, lang, src["text"]) for lang in LANG_ORDER}
+    langs = cfg.active_langs()
+    with ThreadPoolExecutor(max_workers=len(langs)) as pool:
+        futs = {lang: pool.submit(gen.generate, lang, src["text"]) for lang in langs}
     texts, errors = {}, {}
     for lang, f in futs.items():
         try:
@@ -277,7 +279,7 @@ def cmd_private_test(cfg, args, services=None, tokens=None) -> int:
     md = [f"## Закрытый тест {test_id}", "", "Ничего не опубликовано публично.", "",
           f"**Источник:** {src['link']}", f"**Фото:** {src['image_url'][:120]}…",
           f"**Тестовая страница:** {page.name} ({page.page_id}, язык {page.lang})", "", *checks, ""]
-    for lg in LANG_ORDER:
+    for lg in cfg.active_langs():
         names = ", ".join(p.name for p in cfg.pages_for(lg))
         if lg in texts:
             t = texts[lg]

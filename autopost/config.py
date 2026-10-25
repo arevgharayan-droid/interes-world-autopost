@@ -9,7 +9,10 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-LANG_ORDER = ["FR", "IT", "EN", "NL"]
+LANG_ORDER = ["FR", "IT", "EN", "NL", "RU", "TR", "DE"]
+LANG_NAMES = {"FR": "French", "IT": "Italian", "EN": "English", "NL": "Dutch",
+              "RU": "Russian", "TR": "Turkish", "DE": "German"}
+# Страницы, перенесённые из Make (у них есть make_post_module), — проверка точного переноса.
 EXPECTED_COUNTS = {"FR": 7, "IT": 9, "EN": 16, "NL": 2}
 
 
@@ -23,6 +26,7 @@ class Page:
     name: str
     lang: str
     profile_id: str = ""
+    from_make: bool = False
 
 
 @dataclass
@@ -68,6 +72,10 @@ class Config:
     def pages_for(self, lang: str) -> list:
         return list(self.languages[lang]["pages"])
 
+    def active_langs(self) -> list:
+        """Языки, у которых есть хотя бы одна страница."""
+        return [lg for lg in LANG_ORDER if self.languages[lg]["pages"]]
+
     def page(self, page_id: str) -> Page | None:
         for p in self.pages:
             if p.page_id == str(page_id):
@@ -107,13 +115,11 @@ def load(root: str | Path | None = None) -> Config:
     languages = {}
     all_pages = []
     for lang in LANG_ORDER:
-        block = (pages_doc.get("languages") or {}).get(lang)
-        if not block:
-            raise ConfigError(f"pages.yaml: нет языка {lang}")
+        block = (pages_doc.get("languages") or {}).get(lang) or {"name": LANG_NAMES[lang], "pages": []}
         plist = []
         for item in block.get("pages") or []:
             p = Page(page_id=str(item["page_id"]), name=str(item["name"]), lang=lang,
-                     profile_id=str(item.get("profile_id") or ""))
+                     profile_id=str(item.get("profile_id") or ""), from_make=bool(item.get("make_post_module")))
             plist.append(p)
             all_pages.append(p)
         languages[lang] = {"name": block.get("name", lang), "pages": plist}
@@ -129,7 +135,7 @@ def load(root: str | Path | None = None) -> Config:
                  fallback_source_page_id=str(pages_doc.get("fallback_source_page_id") or ""),
                  pages=all_pages)
     if cfg.page(cfg.test_page_id()) is None:
-        raise ConfigError(f"settings.yaml: test_page_id {cfg.test_page_id()} нет среди 34 страниц")
+        raise ConfigError(f"settings.yaml: test_page_id {cfg.test_page_id()} нет среди страниц pages.yaml")
     return cfg
 
 
@@ -137,9 +143,16 @@ def check_expected_counts(cfg: Config) -> list:
     """Возвращает список расхождений с исходным файлом Make (пусто — всё совпадает)."""
     problems = []
     for lang, n in EXPECTED_COUNTS.items():
-        got = len(cfg.pages_for(lang))
+        got = sum(1 for p in cfg.pages_for(lang) if p.from_make)
         if got != n:
-            problems.append(f"{lang}: страниц {got}, в Make было {n}")
-    if len(cfg.pages) != 34:
-        problems.append(f"всего страниц {len(cfg.pages)}, в Make было 34")
+            problems.append(f"{lang}: страниц из Make {got}, в Make было {n}")
+    made = sum(1 for p in cfg.pages if p.from_make)
+    if made != 34:
+        problems.append(f"страниц из Make {made}, в Make было 34")
     return problems
+
+
+def describe(cfg: Config) -> str:
+    """Например: «54 страницы: FR 7 · IT 9 · EN 29 · NL 2 · RU 3 · TR 2 · DE 2»."""
+    parts = " · ".join(f"{lg} {len(cfg.pages_for(lg))}" for lg in cfg.active_langs())
+    return f"{len(cfg.pages)} стр.: {parts}"

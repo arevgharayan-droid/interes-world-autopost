@@ -296,7 +296,7 @@ class Pipeline:
                     return lang, self.gen.generate(lang, src["text"]), None
                 except GenerationError as e:
                     return lang, None, e
-            with ThreadPoolExecutor(max_workers=4) as pool:
+            with ThreadPoolExecutor(max_workers=max(1, len(todo))) as pool:
                 results = list(pool.map(work, todo))
             for lang, g, err in results:
                 L = s["langs"].setdefault(lang, {"pages": {}})
@@ -411,7 +411,12 @@ class Pipeline:
             mode = "expired"
         skip_src = self.cfg.sources.get("skip_source_page", True)
         for lang in LANG_ORDER:
-            L = s["langs"][lang]
+            L = s["langs"].setdefault(lang, {"pages": {}})
+            if not L.get("generated"):
+                # язык не готовился в этом слоте (страницы подключили позже) — его страницы ждут следующего слота
+                for page in self.cfg.pages_for(lang):
+                    L["pages"].setdefault(page.page_id, {"status": "no_access", "attempts": 0})
+                continue
             text = None
             for page in self.cfg.pages_for(lang):
                 if only_page and page.page_id != only_page:
