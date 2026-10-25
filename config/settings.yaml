@@ -55,7 +55,7 @@ sources:
     sheet: FB_QUEUE
   # Авто-режим: новые посты с фото, опубликованные вручную на ваших страницах.
   auto:
-    enabled: true
+    enabled: false        # истории не берутся со страниц сами — только из присланных ссылок
     pages: all            # all = все 34 страницы, или список page_id
     lookback_hours: 72
     min_text_chars: 300
