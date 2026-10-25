@@ -1,0 +1,15 @@
+{"slot": "2026-10-25 15:00", "action": "wp_media", "id": 7154, "t": "2026-10-25T09:45:13+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 433 слов (исходник 338, цель ±10%)"], "t": "2026-10-25T09:46:04+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-10-25T09:46:04+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-10-25T09:46:04+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "NL", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-10-25T09:46:04+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-10-25T09:46:04+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "TR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 279 слов (исходник 338, цель ±10%)", "длина статьи 547 слов"], "t": "2026-10-25T09:46:04+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-10-25T09:46:04+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "FR", "action": "wp_post", "id": 7155, "status": "future", "t": "2026-10-25T09:46:05+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "IT", "action": "wp_post", "id": 7156, "status": "future", "t": "2026-10-25T09:46:06+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "EN", "action": "wp_post", "id": 7157, "status": "future", "t": "2026-10-25T09:46:06+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "NL", "action": "wp_post", "id": 7158, "status": "future", "t": "2026-10-25T09:46:08+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "RU", "action": "wp_post", "id": 7159, "status": "future", "t": "2026-10-25T09:46:09+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "TR", "action": "wp_post", "id": 7160, "status": "future", "t": "2026-10-25T09:46:10+00:00"}
+{"slot": "2026-10-25 15:00", "lang": "DE", "action": "wp_post", "id": 7161, "status": "future", "t": "2026-10-25T09:46:10+00:00"}
