@@ -30,7 +30,7 @@ DONE_PAGE = {"done", "skipped_source", "failed_final", "no_access"}
 # страница ещё не подключена (нет токена) — пропускается без ошибки, пока её не подключат
 OK_PAGE = ("done", "skipped_source", "no_access")
 LIVE_PAGE = {"scheduled", "published"}
-FINAL_SLOT = {"done", "done_with_errors", "missed"}
+FINAL_SLOT = {"done", "done_with_errors", "missed", "cancelled"}
 
 
 class AuthProblem(Exception):

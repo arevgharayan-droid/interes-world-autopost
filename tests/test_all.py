@@ -376,3 +376,20 @@ class SheetQueueTests(unittest.TestCase):
             self.assertEqual(second["key"], f"post:{pid}_3")
             st.mark_source(second["key"], status="used")
             self.assertIsNone(sources.pick_source(cfg, graph, tokens, st, now, print))
+
+
+class CancelSlotTests(PipelineTests):
+    def test_cancel_prepared_slot(self):
+        from autopost.cli import cmd_cancel_slot
+        cfg, clock, graph, wp, st, run = self._setup(datetime(2030, 5, 1, 6, 7))
+        run()
+        scheduled = [p for p in graph.posts.values() if not p["published"]]
+        self.assertEqual(len(scheduled), len(cfg.pages) - 1)
+        self.assertEqual(len(wp.posts), len(cfg.active_langs()))
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        rc = cmd_cancel_slot(cfg, "2030-05-01 09:00", services=(graph, wp, FakeHTTP()), tokens=tokens)
+        self.assertEqual(rc, 0)
+        self.assertEqual((len(graph.posts), len(wp.posts)), (0, 0))
+        clock["now"] = clock["now"].replace(hour=9, minute=7)
+        run()                                  # после отмены слот больше не трогается
+        self.assertEqual((len(graph.posts), len(wp.posts)), (0, 0))

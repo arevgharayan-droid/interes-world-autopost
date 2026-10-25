@@ -352,7 +352,7 @@ def _checkpoint():
 def cmd_tick(cfg, args) -> int:
     st = state_of(cfg)
     enabled = bool(cfg.settings.get("schedule_enabled"))
-    unfinished = any(s.get("prepared") and s.get("status") not in ("done", "done_with_errors", "missed")
+    unfinished = any(s.get("prepared") and s.get("status") not in ("done", "done_with_errors", "missed", "cancelled")
                      for s in st.slots.values())
     if not enabled and not unfinished:
         if st.data.get("enabled_since"):
@@ -479,8 +479,90 @@ def cmd_ops(cfg, args) -> int:
         return cmd_sheet_status(cfg)
     if cmd == "check-queue":
         return cmd_check_queue(cfg)
+    if cmd == "cancel-slot":
+        return cmd_cancel_slot(cfg, a.get("slot", ""))
     print(f"Неизвестная команда: {cmd}")
     return 1
+
+
+def cmd_cancel_slot(cfg, key: str, services=None, tokens=None) -> int:
+    """Отменяет подготовленный слот: удаляет отложенные посты Facebook и статьи WordPress, слот больше не трогается."""
+    st = state_of(cfg)
+    s = st.slots.get(key)
+    if not s:
+        print(f"Слот {key} не найден")
+        return 1
+    graph, wp, _http = services or real_services(cfg)
+    tokens = tokens or load_tokens(cfg)
+    ts = int(datetime.fromisoformat(s["slot_iso"]).timestamp())
+    removed, kept, errors = 0, 0, []
+    for lang, L in (s.get("langs") or {}).items():
+        try:
+            txt = json.loads(cfg.path(f"content/{key[:10]}/{key[11:13]}{key[14:16]}-{lang}.json")
+                             .read_text(encoding="utf-8"))["fb_text"]
+        except (OSError, KeyError, ValueError):
+            txt = ""
+        for pid, e in (L.get("pages") or {}).items():
+            if e.get("status") not in ("scheduled", "sending", "published", "failed"):
+                continue
+            tok = tokens.get(pid)
+            if not tok:
+                continue
+            name = (cfg.page(pid).name if cfg.page(pid) else pid)
+            gone = False
+            try:
+                for sp in graph.scheduled_posts(pid, tok):
+                    same_time = int(sp.get("scheduled_publish_time") or 0) == ts
+                    ours = not txt or (sp.get("message") or "")[:60] == txt[:60]
+                    if same_time and ours:
+                        graph.delete(sp["id"], tok)
+                        gone = True
+                if not gone and e.get("post_id"):
+                    graph.delete(e["post_id"], tok)
+                    gone = True
+                if not gone and e.get("photo_id"):
+                    graph.delete(e["photo_id"], tok)
+                    gone = True
+            except FacebookError as err:
+                errors.append(f"{name}: {err.short()}")
+            if gone:
+                e["status"] = "cancelled"
+                removed += 1
+            elif e.get("status") in ("scheduled", "sending", "published"):
+                kept += 1
+            st.save()
+        if L.get("wp_id") and not L.get("wp_cancelled"):
+            try:
+                wp.delete_post(L["wp_id"], force=True)
+                L["wp_cancelled"] = True
+            except WordPressError as err:
+                errors.append(f"статья {lang} ({L['wp_id']}): {err}")
+    s["status"] = "cancelled"
+    st.save()
+    left = []
+    for lang, L in (s.get("langs") or {}).items():
+        for pid in (L.get("pages") or {}):
+            tok = tokens.get(pid)
+            if not tok:
+                continue
+            try:
+                if any(int(sp.get("scheduled_publish_time") or 0) == ts for sp in graph.scheduled_posts(pid, tok)):
+                    left.append(cfg.page(pid).name if cfg.page(pid) else pid)
+            except FacebookError:
+                pass
+    wp_gone = sum(1 for L in (s.get("langs") or {}).values() if L.get("wp_cancelled"))
+    md = [f"## Отмена выпуска {key}", "",
+          f"{'✅' if removed else '⚠️'} Удалено отложенных постов Facebook: **{removed}**",
+          f"✅ Удалено статей на сайте: **{wp_gone}**"]
+    if kept:
+        md.append(f"❌ Не удалось удалить: {kept}")
+    if left:
+        md.append("❌ На этот час ещё что-то запланировано на страницах: " + "; ".join(left))
+    else:
+        md.append("✅ Проверка: на этот час на страницах больше ничего не запланировано")
+    md += [f"- {e}" for e in errors[:20]]
+    summary("\n".join(md) + "\n", f"previews/cancel-{key[:10]}-{key[11:13]}{key[14:16]}.md", cfg)
+    return 1 if (kept or left) else 0
 
 
 def cmd_check_queue(cfg) -> int:
