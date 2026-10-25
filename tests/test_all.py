@@ -285,6 +285,23 @@ class ResilienceTests(PipelineTests):
         self.assertEqual(sum(len(v) for v in graph.comments_by.values()), len(graph.posts))
         self.assertEqual(st.slots["2030-05-01 09:00"]["status"], "done")
 
+    def test_language_without_connected_pages_is_skipped(self):
+        """Обе страницы NL не подключены: NL-текст и NL-статья не создаются, остальные языки выходят."""
+        cfg, clock, graph, wp, st, run = self._slot_run()
+        nl = {p.page_id for p in cfg.pages_for("NL")}
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages if p.page_id not in nl}
+        reports = []
+        for hh, mm in ((6, 7), (8, 7), (9, 7), (9, 37), (10, 7), (11, 7)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            reports.append(Pipeline(cfg, st, graph, wp, Generator(cfg, backend="mock"), tokens,
+                                    now_fn=lambda: clock["now"], http=FakeHTTP()).tick())
+        self.assertEqual(len(wp.posts), 3)
+        self.assertEqual([e for r in reports for e in r.final_errors], [])
+        slot = st.slots["2030-05-01 09:00"]
+        self.assertEqual(slot["status"], "done")
+        self.assertTrue(slot["langs"]["NL"].get("skipped"))
+        self.assertEqual(len(graph.posts), 33 - len(nl))
+
     def test_tokens_are_redacted(self):
         from autopost.fb import redact
         e = FacebookError("сеть: https://graph.facebook.com/v26.0/me?access_token=EAAB123&x=1 client_secret=abc")

@@ -267,14 +267,29 @@ class Pipeline:
             except (SourceError, WordPressError) as e:
                 self.r.error(f"{key}: изображение: {e}")
                 return False
-        # тексты: 4 языка параллельно (уже сохранённые тексты не генерируются заново)
+        # язык, у которого ещё ни одна страница не подключена, пропускаем целиком:
+        # без текста и без статьи на сайте (иначе статья вышла бы без единого поста)
         for lang in LANG_ORDER:
+            L = s["langs"].setdefault(lang, {"pages": {}})
+            if L.get("generated") or L.get("skipped"):
+                continue
+            if not any(self.tokens.get(p.page_id) for p in self.cfg.pages_for(lang)):
+                L["skipped"] = "нет подключённых страниц"
+                for page in self.cfg.pages_for(lang):
+                    L["pages"][page.page_id] = {"status": "no_access", "attempts": 0}
+                self.r.info(f"{key} {lang}: страницы этого языка пока не подключены — язык пропущен")
+        active = [lg for lg in LANG_ORDER if not s["langs"][lg].get("skipped")]
+        if not active:
+            self.r.error(f"{key}: ни одна страница не подключена — нечего публиковать", final=True)
+            return False
+        # тексты: языки параллельно (уже сохранённые тексты не генерируются заново)
+        for lang in active:
             L = s["langs"].setdefault(lang, {"pages": {}})
             if not L.get("generated") and self.content_path(dt, lang).exists():
                 t = self.load_text(dt, lang)
                 if t.get("source_key") == s["source_key"]:
                     L.update(generated=True, title=t["title"], backend=t.get("backend"), gen_error=None)
-        todo = [lang for lang in LANG_ORDER if not s["langs"].get(lang, {}).get("generated")]
+        todo = [lang for lang in active if not s["langs"].get(lang, {}).get("generated")]
         if todo:
             def work(lang):
                 try:
@@ -302,15 +317,15 @@ class Pipeline:
                 self.log_event(slot=key, lang=lang, action="generated", backend=g.backend, warnings=g.warnings)
             self.state.save()
         # статьи WordPress
-        for lang in LANG_ORDER:
+        for lang in active:
             L = s["langs"].get(lang)
             if L and L.get("generated") and not L.get("wp_id"):
                 self.create_wp(dt, s, lang, L)
-        ready_langs = [lg for lg in LANG_ORDER if s["langs"].get(lg, {}).get("wp_id")]
-        ready = len(ready_langs) == len(LANG_ORDER)
+        ready_langs = [lg for lg in active if s["langs"].get(lg, {}).get("wp_id")]
+        ready = len(ready_langs) == len(active)
         if not ready and ready_langs and now >= dt - self.min_lead:
             # Время вышло: публикуем готовые языки, остальные отмечаем как неудавшиеся.
-            for lg in LANG_ORDER:
+            for lg in active:
                 if lg in ready_langs:
                     continue
                 L = s["langs"].setdefault(lg, {"pages": {}})
