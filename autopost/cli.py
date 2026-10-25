@@ -481,6 +481,11 @@ def cmd_ops(cfg, args) -> int:
         return cmd_check_queue(cfg)
     if cmd == "cancel-slot":
         return cmd_cancel_slot(cfg, a.get("slot", ""))
+    if cmd == "cost-test":
+        from .costtest import run as cost_test
+        return cost_test(cfg, n=int(a.get("n", 10)),
+                         models=tuple(a.get("models") or ("claude-sonnet-5-5", "claude-haiku-5-5")),
+                         parallel=int(a.get("parallel", 4)))
     print(f"Неизвестная команда: {cmd}")
     return 1
 

@@ -1,1 +1,1 @@
-{"id": "cancel-1500", "cmd": "cancel-slot", "args": {"slot": "2026-10-25 15:00"}}
+{"id": "cost-test-1", "cmd": "cost-test", "args": {"n": 10, "models": ["claude-sonnet-5-5", "claude-haiku-5-5"], "parallel": 4}}

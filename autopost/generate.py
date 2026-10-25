@@ -155,6 +155,7 @@ class Generator:
         self.system = cfg.path("prompts/system.md").read_text(encoding="utf-8").strip()
         self.template = cfg.path("prompts/generate.md").read_text(encoding="utf-8")
         self.log = []
+        self.last_usage = None  # расход токенов последнего обращения к Claude (для теста стоимости)
 
     # --- публичный метод -------------------------------------------------------
     def generate(self, lang: str, source_text: str) -> Generated:
@@ -224,6 +225,8 @@ class Generator:
             raise GenerationError(f"Claude CLI: непонятный ответ (код {proc.returncode}): {proc.stderr[-300:]}")
         if body.get("is_error") or proc.returncode != 0:
             raise GenerationError(f"Claude CLI: {str(body.get('result') or proc.stderr)[-300:]}")
+        self.last_usage = {"usage": body.get("usage"), "modelUsage": body.get("modelUsage"),
+                           "total_cost_usd": body.get("total_cost_usd"), "duration_ms": body.get("duration_ms")}
         return body.get("result", "")
 
     def _api(self, prompt: str) -> str:
@@ -242,6 +245,8 @@ class Generator:
             else:
                 if r.status_code == 200:
                     body = r.json()
+                    self.last_usage = {"usage": body.get("usage"), "modelUsage": None,
+                                       "total_cost_usd": None, "duration_ms": None}
                     if body.get("stop_reason") == "max_tokens":
                         raise GenerationError("ответ обрезан (max_tokens)")
                     return "".join(b.get("text", "") for b in body.get("content", []) if b.get("type") == "text")
