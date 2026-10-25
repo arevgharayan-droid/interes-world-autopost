@@ -17,7 +17,8 @@ from .config import LANG_ORDER
 from .fb import FacebookError, Graph, redact
 from .generate import GenerationError, Generator
 from .pipeline import AuthProblem, Pipeline, Report
-from .sources import SourceError, fetch_post, google_sheet_links, link_key, parse_link, pick_source, sheet_baseline
+from .sources import (SourceError, fetch_post, google_sheet_links, link_key, manual_links, parse_link, pick_source,
+                      sheet_baseline, source_key)
 from .state import State
 from .tokens import TokenError, load_tokens, setup_facebook
 from .workflow import render_cron_block, write_workflow
@@ -476,8 +477,41 @@ def cmd_ops(cfg, args) -> int:
         return cmd_wp_diagnose(cfg)
     if cmd == "sheet-status":
         return cmd_sheet_status(cfg)
+    if cmd == "check-queue":
+        return cmd_check_queue(cfg)
     print(f"Неизвестная команда: {cmd}")
     return 1
+
+
+def cmd_check_queue(cfg) -> int:
+    """Проверяет ссылки в queue/links.txt: читается ли пост (текст + фото). Ничего не публикует."""
+    st = state_of(cfg)
+    graph, _wp, _http = real_services(cfg)
+    tokens = load_tokens(cfg)
+    p2p = cfg.profile_to_page()
+    out = ["## Очередь ссылок", ""]
+    bad = 0
+    waiting = 0
+    for link in manual_links(cfg):
+        try:
+            info = parse_link(link, p2p)
+            key = source_key(info["page_id"], info["part"])
+            rec = st.sources.get(key) or {}
+            if st.source_used(key) or rec.get("status") == "reserved":
+                out.append(f"- ⏭ уже использована ({rec.get('status')}, {rec.get('slot', '')}): {link[:90]}")
+                continue
+            post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
+            page = cfg.page(info["page_id"])
+            waiting += 1
+            first = " ".join(post["text"].split())[:110]
+            out.append(f"- ✅ ждёт публикации · {page.name if page else info['page_id']} · "
+                       f"{len(post['text'])} знаков, фото есть · «{first}…»")
+        except SourceError as e:
+            bad += 1
+            out.append(f"- ❌ {link[:90]}: {e}")
+    out.insert(2, f"Ждут публикации: **{waiting}**, с ошибкой: **{bad}**\n")
+    summary("\n".join(out) + "\n", "previews/queue.md", cfg)
+    return 1 if bad else 0
 
 
 def cmd_sheet_status(cfg) -> int:
