@@ -1,1 +1,1 @@
-{"id": "schedule-on-1", "cmd": "set-schedule", "args": {"mode": "on"}}
+{"id": "queue-1", "cmd": "check-queue", "args": {}}
