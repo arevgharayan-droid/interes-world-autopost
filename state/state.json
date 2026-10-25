@@ -1,9 +1,21 @@
 {
- "output_fps": {},
- "outputs": {},
+ "output_fps": {
+  "9334e0c09653ad0121a6": "2026-10-25T09:38:49+00:00"
+ },
+ "outputs": {
+  "122147115699209153": "2026-10-25T09:38:49+00:00",
+  "975714512286925_122147115723209153": "2026-10-25T09:38:49+00:00"
+ },
  "slots": {},
  "source_cutoff": "2026-10-23T18:46:37+00:00",
- "sources": {},
+ "sources": {
+  "post:921611111039858_122141469279200344": {
+   "fingerprint": "24861dea79ca07ad8e47",
+   "link": "https://www.facebook.com/122141783835200344/posts/122141469279200344",
+   "slot": "public-test test-20261024-002230",
+   "status": "used"
+  }
+ },
  "tests": {
   "test-20261024-001426": {
    "created": "2026-10-24T00:15:08+04:00",
@@ -41,6 +53,12 @@
    "fb_test_post": "975714512286925_122146957575209153",
    "fb_test_post_deleted": true,
    "page_id": "975714512286925",
+   "public": {
+    "comment": "122147115723209153_4485964138317931",
+    "fb_post": "975714512286925_122147115723209153",
+    "page": "975714512286925",
+    "wp_id": 7153
+   },
    "source": {
     "fingerprint": "24861dea79ca07ad8e47",
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/856661307_122141469255200344_6530117830499365763_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fCquxaKH4e0Q7kNvwH52VEV&_nc_oc=AdpCI07-84hB16yFZsnO6q3RYglJfXbKIxQNWTTT6yJmwKrd21Fs536IEPKmJne7Pys&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=AKIiGfEEAAAA&_nc_gid=xkZStgkZjiz9iRmX5twG6w&_nc_tpa=Q5bMBQJGtFVzdoAtPXrrDC8e8Jv25llXZHRiX5Wl8qjgw1ge947XwtxPcDnk2fhJEdLCNDJFkjUhv3cUiQ&oh=00_AQMP4USPe8urD8RXaoyR7n9kFIkuB2wUY2KWbguuM3-knA&oe=6AE19CC8",
