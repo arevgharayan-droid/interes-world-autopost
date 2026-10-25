@@ -26,7 +26,9 @@ from .wp import WordPressError
 
 MAX_FB_ATTEMPTS = 4
 AUTH_FAILURES_TO_ABORT = 4
-DONE_PAGE = {"done", "skipped_source", "failed_final"}
+DONE_PAGE = {"done", "skipped_source", "failed_final", "no_access"}
+# страница ещё не подключена (нет токена) — пропускается без ошибки, пока её не подключат
+OK_PAGE = ("done", "skipped_source", "no_access")
 LIVE_PAGE = {"scheduled", "published"}
 FINAL_SLOT = {"done", "done_with_errors", "missed"}
 
@@ -408,9 +410,9 @@ class Pipeline:
                 text = text or self.load_text(dt, lang)
                 tok = self.tokens.get(page.page_id)
                 if not tok:
-                    e["attempts"] = e.get("attempts", 0) + 1
-                    e["status"] = "failed_final" if e["attempts"] >= MAX_FB_ATTEMPTS else "failed"
-                    self.page_error(key, page.name, e, "нет токена страницы", "доступ")
+                    e["status"] = "no_access"
+                    self.r.info(f"{key} {lang} «{page.name}»: страница пока не подключена — пропущена")
+                    self.state.save()
                     continue
                 # 1) сначала проверяем площадку: может, пост уже есть (прошлый запуск оборвался)
                 found = self.find_existing_post(dt, page, e, text, tok)
@@ -563,12 +565,12 @@ class Pipeline:
             return
         statuses = [e["status"] for L in s["langs"].values() for e in L.get("pages", {}).values()]
         expected = sum(len(self.cfg.pages_for(lg)) for lg in LANG_ORDER)
-        if len(statuses) == expected and all(x in ("done", "skipped_source") for x in statuses):
+        if len(statuses) == expected and all(x in OK_PAGE for x in statuses):
             s["status"] = "done"
         elif final:
             for L in s["langs"].values():
                 for pid, e in L.get("pages", {}).items():
-                    if e["status"] not in ("done", "skipped_source", "failed_final"):
+                    if e["status"] not in OK_PAGE + ("failed_final",):
                         what = "комментарий не добавлен" if e["status"] in LIVE_PAGE else "не опубликовано"
                         self.r.error(f"{key} {pid}: {what} ({e.get('error') or e['status']})", final=True)
                         e["status"] = "failed_final"

@@ -268,6 +268,23 @@ class ResilienceTests(PipelineTests):
         self.assertEqual(len(graph.posts), 32)
         self.assertEqual(rep.final_errors, [])
 
+    def test_unconnected_pages_are_skipped_quietly(self):
+        """11 страниц ещё не подключены: остальные публикуются, слот закрывается без ошибок и красных запусков."""
+        cfg, clock, graph, wp, st, run = self._slot_run()
+        missing = {p.page_id for p in cfg.pages[1::3]}  # pages[0] — источник истории
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages if p.page_id not in missing}
+        reports = []
+        for hh, mm in ((6, 7), (8, 7), (9, 7), (9, 37), (10, 7), (11, 7)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            reports.append(Pipeline(cfg, st, graph, wp, Generator(cfg, backend="mock"), tokens,
+                                    now_fn=lambda: clock["now"], http=FakeHTTP()).tick())
+        self.assertEqual([e for r in reports for e in r.final_errors], [])
+        # предупреждения только о пустой очереди следующих слотов (в тесте одна история), не о страницах
+        self.assertEqual([e for r in reports for e in r.errors if "истори" not in e], [])
+        self.assertTrue(all(graph.posts[pid]["page"] not in missing for pid in graph.posts))
+        self.assertEqual(sum(len(v) for v in graph.comments_by.values()), len(graph.posts))
+        self.assertEqual(st.slots["2030-05-01 09:00"]["status"], "done")
+
     def test_tokens_are_redacted(self):
         from autopost.fb import redact
         e = FacebookError("сеть: https://graph.facebook.com/v26.0/me?access_token=EAAB123&x=1 client_secret=abc")
