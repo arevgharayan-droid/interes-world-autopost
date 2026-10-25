@@ -1,11 +1,9 @@
 ## Подключение Facebook
 
-✅ Получены токены страниц: **33 из 34**
+✅ Получены токены страниц: **52 из 53**
 Срок действия токенов страниц: бессрочно
 Разрешения: pages_show_list, business_management, pages_read_engagement, pages_read_user_content, pages_manage_posts, pages_manage_engagement, public_profile
 ❌ Нет доступа к страницам (добавьте их в портфолио Interes World и назначьте системному пользователю autopost): Amazing
-ℹ️ Доступны и другие страницы (пока не в config/pages.yaml): Cute Animals (page_id 100633729330404); Из глубины сердца (page_id 1008693642337213); Fine Baby (page_id 104114086037068); Your Daily Drama (page_id 1060733217128705); Baby Lovers (page_id 106713875762456); Моменты жизни (page_id 1125676667286378); Hayatın Anları (page_id 1129620776897151); Kalpten Hikayeler (page_id 1164575726728296); Cute Stories (page_id 233545296514172); Es ist interessant (page_id 363312640206172); Schöne Welt (page_id 444776585382502); Sunny Days (page_id 530022363528890); Musical Devotee (page_id 625664190627160); Talent Spotlight (page_id 648976361631351); Kids in Motion (page_id 673710079162922); Little Legends Live (page_id 714226118434052); Deepest Lessons (page_id 892503027289970);  Из глубины души
- (page_id 988042774402200); Fragments of Life (page_id 994273113779575)
 
 Новыми историями считаются посты, опубликованные на ваших страницах ПОСЛЕ этого момента (старые посты и всё, что публиковал Make, не берутся).
 Секрет FB_USER_TOKEN не удаляйте: когда в портфолио добавятся новые страницы, этот шаг можно просто запустить ещё раз.
