@@ -290,7 +290,10 @@
      "generated": true,
      "pages": {},
      "title": "Son mari l'a laissée faire la vaisselle pour aller au gala avec sa maîtresse, sans savoir à qui appartenait vraiment son entreprise",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7200,
+     "wp_status": "future"
     },
     "IT": {
      "pages": {},
@@ -309,6 +312,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-10-30T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/788208723_122101879616536431_8545513260258612764_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_xL0yxGWU4gQ7kNvwGZOYiO&_nc_oc=Adpeb_j_88StyvvPnR3fB1ZXrVq1wdipVT1s9uI_qEm2MQzB1AQKlAZbzFdwH_AUqRE&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=iRIA_Hh0XAd8MhmrZsXuow&_nc_tpa=Q5bMBQJ81b2zotZJSuUoVUEXwAvM_4EQlXRVLMaJZjXzpnrYlsSvtVFApnz3Wqy1V9-77z3r5trnQhYQmg&oh=00_AQSf3rYyLvD5_9RgYIT8FsxbMJrGmnXlNAbBi7E6Dp5_Cg&oe=6AE978FC",
@@ -320,7 +324,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-fr.jpg"
    },
    "source_key": "post:1011074408765807_122101879646536431",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-30 15:00": {
    "langs": {},
@@ -351,7 +355,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122102939498536431": {
    "fingerprint": "175f42c16daed69d518a",
