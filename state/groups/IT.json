@@ -3,7 +3,16 @@
  "output_fps": {
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00"
  },
- "outputs": {},
+ "outputs": {
+  "122107565126506427": "2026-10-29T16:37:10+00:00",
+  "122109107366543006": "2026-10-29T16:37:16+00:00",
+  "122110863206456562": "2026-10-29T16:37:13+00:00",
+  "122112163898437662": "2026-10-29T16:37:07+00:00",
+  "122132806521400586": "2026-10-29T16:37:04+00:00",
+  "122135617713311525": "2026-10-29T16:37:01+00:00",
+  "122138399762808945": "2026-10-29T16:37:22+00:00",
+  "122138892242811401": "2026-10-29T16:37:19+00:00"
+ },
  "slots": {
   "2026-10-29 21:00": {
    "langs": {
@@ -23,7 +32,80 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1030877436782212": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:37:20+04:00",
+       "mode": "schedule",
+       "photo_id": "122138399762808945",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1064982806700854": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:37:11+04:00",
+       "mode": "schedule",
+       "photo_id": "122110863206456562",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1079964265201139": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:37:08+04:00",
+       "mode": "schedule",
+       "photo_id": "122107565126506427",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1114015015119414": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:37:17+04:00",
+       "mode": "schedule",
+       "photo_id": "122138892242811401",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1140835409106424": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:37:14+04:00",
+       "mode": "schedule",
+       "photo_id": "122109107366543006",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1142735408923607": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:59+04:00",
+       "mode": "schedule",
+       "photo_id": "122135617713311525",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1160223747182678": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:37:02+04:00",
+       "mode": "schedule",
+       "photo_id": "122132806521400586",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "997772916762884": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:37:04+04:00",
+       "mode": "schedule",
+       "photo_id": "122112163898437662",
+       "post_id": null,
+       "status": "scheduled"
+      }
+     },
      "title": "Ho finto un viaggio a Ginevra per scoprire cosa faceva la tata ai miei gemelli, ma quello che ho sentito nel salotto mi ha gelato il sangue",
      "warnings": [
       "длина статьи 590 слов"
@@ -57,7 +139,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-it.jpg"
    },
    "source_key": "post:photo_122140365723225301",
-   "status": "prepared"
+   "status": "in_progress"
   }
  },
  "source_cutoff": "2026-10-29T16:36:25+00:00",
