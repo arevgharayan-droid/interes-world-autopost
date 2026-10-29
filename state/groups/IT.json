@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:36:25+04:00",
  "output_fps": {
+  "24ef5b43174759b5cb24": "2026-10-29T20:16:50+00:00",
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00"
  },
  "outputs": {
@@ -167,7 +168,44 @@
    "status": "done"
   },
   "2026-10-30 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sono tornata da New York con tre giorni di anticipo e ho trovato nel nostro letto un neonato con la mia stessa voglia a forma di mezzaluna",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7189,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-30T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/825351493_122103466460536431_2721903677104668798_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=E0EDTE4MnI0Q7kNvwHH0D5V&_nc_oc=AdrfMuhIZktKGS8u-oO2krlDP8G_6hPnWKbPwBgy2Vstu0mY80qB_KcRnKdOYbhABmo&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJfPMC4EAAAA&_nc_gid=fhv7gGv51vw3KUUbALS0zw&_nc_tpa=Q5bMBQJ2gRGpcvlgq42wN0GsgC0mJwS1McoUNJFH7QRRcTiyPMpU2Uib5DsdF0clqLEGV9WJ__jvlluvxQ&oh=00_AQQjsd-Fw0PN3_TyfuvKYy6qJpZn37u8Q063QlcR2yXS4w&oe=6AE985EE",
@@ -179,7 +217,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-it.jpg"
    },
    "source_key": "post:1011074408765807_122103466484536431",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-30 12:00": {
    "langs": {},
@@ -215,7 +253,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140365723225301": {
    "fingerprint": "09158682ef11c459c1e8",

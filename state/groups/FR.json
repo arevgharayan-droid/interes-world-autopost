@@ -155,7 +155,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-10-30T00:16:47+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Je suis rentré après dix ans pour offrir une vie paisible à mes parents, mais ce que j'ai trouvé dans leur couloir m'a glacé le sang",
      "warnings": [],
      "wp_error": null,
