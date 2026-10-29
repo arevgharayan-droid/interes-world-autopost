@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:39:48+04:00",
  "output_fps": {
+  "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
   "fbd1653b854ac7bf06ab": "2026-10-29T16:40:27+00:00"
  },
  "outputs": {
@@ -89,7 +90,44 @@
    "status": "done"
   },
   "2026-10-30 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ik wilde mijn man verrassen in het ziekenhuis, maar de tranen van zijn collega onthulden het geheim dat hij een jaar lang voor me verborgen hield",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7191,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-30T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/825329839_122103003134536431_5954311453964781851_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fsakUFktU9cQ7kNvwH8MBir&_nc_oc=AdoSgjOeQCqgX_LsPDVIUgJmVojR03wuWXIGDUXRPgCk6w4pPcSiDc1zW0XucT8g2v4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJfPMC4EAAAA&_nc_gid=tzaayJnGY-M-fhnEY23DDg&_nc_tpa=Q5bMBQLxhlPAqfA0S_-Cg0Euo2PePn0Ve5b7FPkZanBVQj0djFAzikX9CYJ8C9dUHhlaNz3wQZY7AKv7Yg&oh=00_AQQFrbiTgsMcDNIIyXa4ghA4qfaFQML9VHkIKxmA0h3i1w&oe=6AE97463",
@@ -101,7 +139,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-nl.jpg"
    },
    "source_key": "post:1011074408765807_122103003182536431",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-30 12:00": {
    "langs": {},
@@ -137,7 +175,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122139981021225301": {
    "fingerprint": "c33c1a3930fd423f2761",
