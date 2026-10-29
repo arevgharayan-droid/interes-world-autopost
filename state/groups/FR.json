@@ -170,6 +170,7 @@
      "pages": {
       "1032441206625600": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-10-30T00:17:02+04:00",
        "mode": "immediate",
