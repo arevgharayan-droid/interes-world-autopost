@@ -3,7 +3,20 @@
  "output_fps": {
   "c6ff1bb9f576c96fb9ec": "2026-10-29T16:39:11+00:00"
  },
- "outputs": {},
+ "outputs": {
+  "1013087911809481": "2026-10-29T16:39:43+00:00",
+  "1024903513964694": "2026-10-29T16:39:46+00:00",
+  "1125409660187555": "2026-10-29T16:39:41+00:00",
+  "122136680600776189": "2026-10-29T16:39:21+00:00",
+  "122141572611219808": "2026-10-29T16:39:38+00:00",
+  "122141963924777362": "2026-10-29T16:39:24+00:00",
+  "122174089118720509": "2026-10-29T16:39:18+00:00",
+  "122182169936820020": "2026-10-29T16:39:26+00:00",
+  "122192242430829482": "2026-10-29T16:39:29+00:00",
+  "122202713624902657": "2026-10-29T16:39:35+00:00",
+  "122242030628895613": "2026-10-29T16:39:33+00:00",
+  "122332499720241259": "2026-10-29T16:39:16+00:00"
+ },
  "slots": {
   "2026-10-29 21:00": {
    "langs": {
@@ -15,7 +28,116 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "100633729330404": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:38+04:00",
+       "mode": "schedule",
+       "photo_id": "1125409660187555",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "104114086037068": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:44+04:00",
+       "mode": "schedule",
+       "photo_id": "1024903513964694",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1060733217128705": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:22+04:00",
+       "mode": "schedule",
+       "photo_id": "122141963924777362",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "106713875762456": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:41+04:00",
+       "mode": "schedule",
+       "photo_id": "1013087911809481",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "233545296514172": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:14+04:00",
+       "mode": "schedule",
+       "photo_id": "122332499720241259",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "530022363528890": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:17+04:00",
+       "mode": "schedule",
+       "photo_id": "122174089118720509",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "625664190627160": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:24+04:00",
+       "mode": "schedule",
+       "photo_id": "122182169936820020",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "648976361631351": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:27+04:00",
+       "mode": "schedule",
+       "photo_id": "122192242430829482",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "673710079162922": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:30+04:00",
+       "mode": "schedule",
+       "photo_id": "122242030628895613",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "714226118434052": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:33+04:00",
+       "mode": "schedule",
+       "photo_id": "122202713624902657",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "892503027289970": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:36+04:00",
+       "mode": "schedule",
+       "photo_id": "122141572611219808",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "994273113779575": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:39:19+04:00",
+       "mode": "schedule",
+       "photo_id": "122136680600776189",
+       "post_id": null,
+       "status": "scheduled"
+      }
+     },
      "title": "He Invited His Ex-Wife to Christmas Expecting a Broken Woman, Until She Landed in a Government Helicopter With the Four Children He Rejected",
      "warnings": [],
      "wp_error": null,
@@ -55,7 +177,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-en2.jpg"
    },
    "source_key": "post:photo_122140194015225301",
-   "status": "prepared"
+   "status": "in_progress"
   }
  },
  "source_cutoff": "2026-10-29T16:38:32+00:00",
