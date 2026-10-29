@@ -121,12 +121,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112163898437662_1138020842102688",
        "error": null,
        "last_attempt": "2026-10-29T20:37:04+04:00",
        "mode": "schedule",
        "photo_id": "122112163898437662",
        "post_id": "997772916762884_122112163898437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ho finto un viaggio a Ginevra per scoprire cosa faceva la tata ai miei gemelli, ma quello che ho sentito nel salotto mi ha gelato il sangue",
@@ -163,7 +164,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-it.jpg"
    },
    "source_key": "post:photo_122140365723225301",
-   "status": "in_progress"
+   "status": "done"
   }
  },
  "source_cutoff": "2026-10-29T16:36:25+00:00",
