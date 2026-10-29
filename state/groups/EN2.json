@@ -25,7 +25,9 @@
   "625664190627160_122182169936820020": "2026-10-29T17:26:20+00:00",
   "648976361631351_122192242430829482": "2026-10-29T17:26:24+00:00",
   "673710079162922_122242030628895613": "2026-10-29T17:26:27+00:00",
-  "714226118434052_122202713624902657": "2026-10-29T17:26:31+00:00"
+  "714226118434052_122202713624902657": "2026-10-29T17:26:31+00:00",
+  "892503027289970_122141572611219808": "2026-10-29T17:26:35+00:00",
+  "994273113779575_122136680600776189": "2026-10-29T17:26:39+00:00"
  },
  "slots": {
   "2026-10-29 21:00": {
@@ -141,30 +143,35 @@
       "714226118434052": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122202713624902657_1823010902399864",
        "error": null,
        "last_attempt": "2026-10-29T20:39:33+04:00",
        "mode": "schedule",
        "photo_id": "122202713624902657",
        "post_id": "714226118434052_122202713624902657",
-       "status": "published"
+       "status": "done"
       },
       "892503027289970": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141572611219808_1880180776491631",
        "error": null,
        "last_attempt": "2026-10-29T20:39:36+04:00",
        "mode": "schedule",
        "photo_id": "122141572611219808",
-       "post_id": null,
-       "status": "scheduled"
+       "post_id": "892503027289970_122141572611219808",
+       "status": "done"
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136680600776189_1836175317386276",
        "error": null,
        "last_attempt": "2026-10-29T20:39:19+04:00",
        "mode": "schedule",
        "photo_id": "122136680600776189",
-       "post_id": null,
-       "status": "scheduled"
+       "post_id": "994273113779575_122136680600776189",
+       "status": "done"
       }
      },
      "title": "He Invited His Ex-Wife to Christmas Expecting a Broken Woman, Until She Landed in a Government Helicopter With the Four Children He Rejected",
@@ -207,7 +214,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-en2.jpg"
    },
    "source_key": "post:photo_122140194015225301",
-   "status": "in_progress"
+   "status": "done"
   }
  },
  "source_cutoff": "2026-10-29T16:38:32+00:00",
