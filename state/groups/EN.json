@@ -24,6 +24,7 @@
   "122141136315384677": "2026-10-29T20:24:38+00:00",
   "122142442641200344": "2026-10-29T16:38:12+00:00",
   "122142458193200344": "2026-10-29T20:17:12+00:00",
+  "122142458961200344": "2026-10-29T20:24:42+00:00",
   "122143299195384760": "2026-10-29T16:38:03+00:00",
   "122143330629384760": "2026-10-29T20:17:00+00:00",
   "122143331175384760": "2026-10-29T20:24:37+00:00",
@@ -455,6 +456,12 @@
      "gen_error": null,
      "generated": true,
      "pages": {
+      "1016419758218222": {
+       "attempts": 1,
+       "last_attempt": "2026-10-30T00:24:42+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      },
       "1165836896614851": {
        "attempts": 1,
        "error": null,
@@ -493,9 +500,12 @@
       },
       "921611111039858": {
        "attempts": 1,
+       "error": null,
        "last_attempt": "2026-10-30T00:24:40+04:00",
        "mode": "schedule",
-       "status": "sending"
+       "photo_id": "122142458961200344",
+       "post_id": null,
+       "status": "scheduled"
       }
      },
      "title": "He Woke Me With a Bucket of Ice Water on My 38th Birthday — So I Packed His Suitcase and Made One Phone Call",
