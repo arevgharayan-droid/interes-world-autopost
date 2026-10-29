@@ -1,3 +1,5 @@
 # Очередь группы EN-2 — 12 стр. (English): Cute Stories, Sunny Days, Fragments of Life, Your Daily Drama, Musical Devotee, Talent Spotlight, Kids in Motion, Little Legends Live, Deepest Lessons, Cute Animals, Baby Lovers, Fine Baby
 # Одна ссылка на строку, сверху вниз — по одной истории на каждый выпуск (12:00, 15:00, 18:00, 21:00, 00:00).
 # Ссылки сюда добавляет Claude, когда вы присылаете их в чат. Уже опубликованные повторно не берутся.
+# 29.10 от вас: https://www.facebook.com/share/p/1BuCub5DGV/ (Vies en Silence)
+https://www.facebook.com/photo/?fbid=122140194015225301&set=a.122127086457225301
