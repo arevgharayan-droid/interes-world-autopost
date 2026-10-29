@@ -276,7 +276,17 @@
   "2026-10-30 12:00": {
    "langs": {},
    "slot_iso": "2026-10-30T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/788208723_122101879616536431_8545513260258612764_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_xL0yxGWU4gQ7kNvwGZOYiO&_nc_oc=Adpeb_j_88StyvvPnR3fB1ZXrVq1wdipVT1s9uI_qEm2MQzB1AQKlAZbzFdwH_AUqRE&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=iRIA_Hh0XAd8MhmrZsXuow&_nc_tpa=Q5bMBQJ81b2zotZJSuUoVUEXwAvM_4EQlXRVLMaJZjXzpnrYlsSvtVFApnz3Wqy1V9-77z3r5trnQhYQmg&oh=00_AQSf3rYyLvD5_9RgYIT8FsxbMJrGmnXlNAbBi7E6Dp5_Cg&oe=6AE978FC",
+    "link": "https://www.facebook.com/story.php?story_fbid=122101879646536431&id=61566092952750",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "Son mari la laissa faire la vaisselle et partit au gala avec sa maîtresse, sans savoir à qui appartenait réellement son entreprise\n\n— Reste ici et termine la vaisselle, Olena. Ce soir, je dois donner l’image d’un homme qui a réussi, pas celle d’un mari traînant une femme incapable de tenir son rang.\n\nLes paroles d’Andriy claquèrent au moment où un verre en cristal se brisait aux pieds d’Olena.\n\nElle avait les mains mouillées et une petite coupure au doigt. Depuis des heures, elle préparait le dîner selon les exigences de sa belle-mère : viande, poisson, vaisselle luxueuse et serviettes parfaitement pliées.\n\nValentina contempla les morceaux de verre avec mépris.\n\n— Huit ans parmi des gens respectables, et tu te comportes encore comme une domestique maladroite.\n\nOlena ne répondit pas.\n\nPrès de l’entrée, Andriy ajustait son smoking et regardait la montre que sa femme lui avait offerte après son premier gros contrat. Dans les interviews, il affirmait pourtant l’avoir achetée lui-même pour célébrer l’empire qu’il prétendait avoir bâti seul.\n\n— Je pensais t’accompagner au gala de charité, murmura Olena.\n\nDes investisseurs, des journalistes et de grands dirigeants étaient attendus. L’invitée principale serait la mystérieuse propriétaire d’Obriy Capital, rarement vue en public.\n\n— Il y aura des caméras et des personnes importantes, répondit Andriy. J’ai besoin d’une femme qui sache impressionner.\n\nViktoria entra alors dans sa robe bordeaux. Directrice des relations publiques de l’entreprise, elle écrivait à Andriy tard dans la nuit, l’accompagnait lors de ses « déplacements professionnels » et posait bien trop près de lui sur les photos.\n\nElle arrangea son nœud papillon.\n\n— La voiture nous attend.\n\n— Tu l’emmènes à ma place ? demanda Olena.\n\nAndriy s’approcha d’elle.\n\n— Avant moi, tu vivais au-dessus d’une vieille imprimerie et achetais des vêtements d’occasion. Tout ce que tu possèdes, tu me le dois.\n\n— Tu crois vraiment cela ? répondit-elle calmement.\n\nQuelques minutes plus tard, il partit avec Viktoria, sa mère et sa sœur.\n\nPendant huit ans, Olena avait confondu patience et amour.\n\nElle retira ses gants et abandonna la vaisselle.\n\nDans la cave, elle déplaça une ancienne bouteille puis appuya sur un panneau dissimulé. Une partie du mur s’ouvrit, révélant un ascenseur privé dont Andriy ignorait l’existence.\n\nÀ l’étage inférieur se trouvait un véritable bureau : ligne sécurisée, coffre-fort, écrans et dossier portant le nom « Obriy Capital ».\n\nL’un des moniteurs affichait la structure de propriété de Vovchenko Group.\n\nLa majorité des parts appartenait à Obriy Capital.\n\nEt l’unique propriétaire d’Obriy Capital était Olena Shevchuk.\n\nElle passa un appel :\n\n— Envoyez la voiture à la sortie latérale.\n\n— Bien sûr, madame Shevchuk. Tout le monde vous attend au gala.\n\nCe soir-là, Andriy allait enfin découvrir qui avait véritablement construit son empire.\n\nLa suite est dans les commentaires👇\n\nSi tu es\narrivé jusqu’ici,\nécris «MAISON»",
+    "wp_media_id": 7194,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-fr.jpg"
+   },
+   "source_key": "post:1011074408765807_122101879646536431",
+   "status": "preparing"
   },
   "2026-10-30 15:00": {
    "langs": {},
@@ -301,6 +311,14 @@
  },
  "source_cutoff": "2026-10-29T16:35:35+00:00",
  "sources": {
+  "post:1011074408765807_122101879646536431": {
+   "fingerprint": "b5ed31862cee3216b94b",
+   "link": "https://www.facebook.com/story.php?story_fbid=122101879646536431&id=61566092952750",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-10-30 12:00",
+   "status": "reserved"
+  },
   "post:1011074408765807_122102939498536431": {
    "fingerprint": "175f42c16daed69d518a",
    "link": "https://www.facebook.com/story.php?story_fbid=122102939498536431&id=61566092952750",

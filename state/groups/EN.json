@@ -2,7 +2,8 @@
  "enabled_since": "2026-10-29T20:37:24+04:00",
  "output_fps": {
   "4e1d50075aba4f7e15de": "2026-10-29T16:37:54+00:00",
-  "887a17b48cf1dabf9df6": "2026-10-29T20:16:49+00:00"
+  "887a17b48cf1dabf9df6": "2026-10-29T20:16:49+00:00",
+  "b017c47f212a67b357c4": "2026-10-29T20:24:31+00:00"
  },
  "outputs": {
   "1016419758218222_122145316869204972": "2026-10-29T17:25:54+00:00",
@@ -440,9 +441,56 @@
    "status": "done"
   },
   "2026-10-30 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Woke Me With a Bucket of Ice Water on My 38th Birthday — So I Packed His Suitcase and Made One Phone Call",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7198,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-30T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/806022598_122102410970536431_3612263577923814270_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1FfllSMvkCoQ7kNvwFmhA90&_nc_oc=AdptykpJbyhOFP24Zq4O9ByN0GOTIyrBOqaOFMB1AFrHiT1TSN97n14A43su7RpgZ7o&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=k1ovoNduIbByAqdUQ--4vg&_nc_tpa=Q5bMBQI1M7D6A8cL8SqmBpXizWFw72g1qyIq0qnHmVB3ykxP4u46kGi55oO7r1OHKeaO6hXvpTDIVBFTTA&oh=00_AQSko3toDqT4DuB4eAUzyhO58EMNsfQDiDHuyxZ21EwBag&oe=6AE97481",
+    "link": "https://www.facebook.com/story.php?story_fbid=122102410994536431&id=61566092952750",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "Le jour de mes trente-huit ans, mon mari m’a réveillée à cinq heures du matin en me jetant un seau d’eau glacée.\n\nAlors que je cherchais encore mon souffle, Andreï a posé le seau près du lit.\n\n— Debout. Maman, Marina et les enfants arrivent dans trente minutes. Prépare des crêpes, des œufs et du bacon. Et nettoie les chambres d’amis : Marina a trouvé la salle de bains dégoûtante la dernière fois.\n\nIl était 5 h 03.\n\nPas un « joyeux anniversaire ». Pas même un regard tendre.\n\nPendant quatre ans, j’avais supporté sa famille. Natalia devait rester chez nous deux semaines ; elle y avait vécu cinq mois. Marina avait rendu ma voiture cabossée. Ses enfants avaient saccagé mon bureau, et Andreï avait affirmé que je dramatisais.\n\nChaque fois que je tentais de poser une limite, je devenais « l’égoïste ».\n\n— C’est ma famille. Arrête de compliquer les choses, répétait-il.\n\nCette fois, je n’ai rien répondu.\n\nJ’ai pris une douche, séché mes cheveux et enfilé un pantalon noir avec un chemisier clair. Puis j’ai descendu la plus grande valise d’Andreï du haut de l’armoire.\n\n— Qu’est-ce que tu fais ?\n\n— Je prépare des affaires.\n\n— Pour aller où ?\n\nJ’ai plié trois de ses chemises.\n\n— Ce n’est pas moi qui pars.\n\nIl a ri et parlé de « nouvelle crise ».\n\nIl ignorait que, six mois plus tôt, j’avais découvert la disparition de près de 18 000 dollars de notre compte commun. Il avait utilisé cet argent pour régler les dettes de sa mère sans me consulter.\n\nIl ignorait également que j’avais rencontré une avocate.\n\nCette maison m’avait été léguée par ma grand-mère avant notre mariage. Andreï n’en avait jamais été propriétaire.\n\nEt la veille, j’avais signé le document qui mettait fin à son droit d’y habiter.\n\nÀ 5 h 19, j’ai fermé sa valise et pris mon téléphone.\n\n— Qui comptes-tu appeler ? a-t-il demandé avec mépris.\n\nJ’ai enfin souri.\n\n— Les personnes qui vont s’assurer que tu quittes ma maison.\n\nSon visage a changé dès qu’une voix a répondu au téléphone…\n\nLa suite est dans les commentaires👇\n\nSi tu as\nlu jusqu’à ce\nmoment, écris « MAISON »",
+    "wp_media_id": 7192,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-en.jpg"
+   },
+   "source_key": "post:1011074408765807_122102410994536431",
+   "status": "prepared"
   },
   "2026-10-30 15:00": {
    "langs": {},
@@ -467,6 +515,14 @@
  },
  "source_cutoff": "2026-10-29T16:37:24+00:00",
  "sources": {
+  "post:1011074408765807_122102410994536431": {
+   "fingerprint": "1a77d3e2c5b7922c89dd",
+   "link": "https://www.facebook.com/story.php?story_fbid=122102410994536431&id=61566092952750",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-10-30 12:00",
+   "status": "used"
+  },
   "post:1011074408765807_122103458654536431": {
    "fingerprint": "c410e6f9403759fa810e",
    "link": "https://www.facebook.com/story.php?story_fbid=122103458654536431&id=61566092952750",

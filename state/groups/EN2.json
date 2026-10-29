@@ -430,7 +430,17 @@
   "2026-10-30 12:00": {
    "langs": {},
    "slot_iso": "2026-10-30T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/793869187_122102295512536431_5321854517180484061_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=c0VGRm0r5O4Q7kNvwEjtlZM&_nc_oc=AdpI9_q6ydfDNs6iZ6CfJltmHxpv_MCmW76sEIJF4GyHLz9met74S0uhyTtyM1HWzUw&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AJfPMC4EAAAA&_nc_gid=7n6CyBGqtq64uMVmetS-Qw&_nc_tpa=Q5bMBQJQYqldMPXU1Lc_lCXbN_BIl3Sg8g1k8zf3dK_GE-Bw3Izm_lS2GexBykwnEW71AD8d_aj5icAoKQ&oh=00_AQQ_BkMwDaXdlCFk5FvLhG16XWrdyg8qIz82Priifb5yEw&oe=6AE9771B",
+    "link": "https://www.facebook.com/story.php?story_fbid=122102295536536431&id=61566092952750",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "MON EX M’A TRAITÉE DE « DÉCHET » DEVANT SES INVITÉS — PUIS NOTRE FILS LUI A REMIS UNE BOÎTE\n\nLorsque Julian a pris le micro pendant son mariage, je m’attendais à un discours prétentieux. Je n’imaginais pas qu’il profiterait de cet instant pour m’humilier devant toute la salle.\n\nDix-huit mois plus tôt, il m’avait trompée avec Victoria, une collaboratrice de son cabinet. Il nous avait abandonnés, notre fils Noah et moi, avant de transformer sa trahison en prétendue « nouvelle vie ».\n\nIl oubliait les événements scolaires, versait la pension en retard et répondait rarement aux messages de Noah.\n\nPourtant, six mois après notre divorce, il nous avait conviés à son somptueux mariage dans un club privé près de Dallas.\n\nJe voulais refuser. Mais Noah, dix ans, avait insisté :\n\n— Je veux voir s’il se comporte comme un vrai père quand tout le monde le regarde.\n\nNous avons donc assisté à la cérémonie. On nous avait installés au fond de la salle, loin des mariés. Noah observait son père en silence.\n\nPuis Julian a commencé son discours. Après avoir parlé de destin et de seconde chance, il a tourné les yeux vers notre table.\n\n— Quitter ces déchets a été la meilleure décision de ma vie !\n\nLes invités ont éclaté de rire. Même Victoria s’est mise à sourire contre son épaule.\n\nJe me suis levée, prête à partir, mais Noah m’a retenue.\n\n— Ne t’inquiète pas, maman. J’ai quelque chose à lui donner.\n\nIl s’est avancé jusqu’à la piste, a demandé le micro et a sorti une petite boîte enveloppée de papier brun.\n\nJulian semblait ravi, persuadé que son fils allait lui offrir un souvenir attendrissant.\n\n— C’est un cadeau spécial pour toi, papa, a déclaré Noah.\n\nJulian a ouvert la boîte devant tous ses invités.\n\nSon visage s’est aussitôt décomposé. Un cri a traversé la salle, et Victoria a reculé brusquement.\n\nQue contenait cette boîte pour provoquer une telle réaction ?\n\nLa suite est dans les commentaires👇\n\nSi tu\nas lu jusqu’ici,\nécris « CADEAU »",
+    "wp_media_id": 7195,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-en2.jpg"
+   },
+   "source_key": "post:1011074408765807_122102295536536431",
+   "status": "preparing"
   },
   "2026-10-30 15:00": {
    "langs": {},
@@ -455,6 +465,14 @@
  },
  "source_cutoff": "2026-10-29T16:38:32+00:00",
  "sources": {
+  "post:1011074408765807_122102295536536431": {
+   "fingerprint": "abe1f9853a8335e60c0e",
+   "link": "https://www.facebook.com/story.php?story_fbid=122102295536536431&id=61566092952750",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-10-30 12:00",
+   "status": "reserved"
+  },
   "post:1011074408765807_122103893384536431": {
    "fingerprint": "e20d7b58c4cce1502705",
    "link": "https://www.facebook.com/story.php?story_fbid=122103893384536431&id=61566092952750",
