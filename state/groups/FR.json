@@ -3,7 +3,14 @@
  "output_fps": {
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00"
  },
- "outputs": {},
+ "outputs": {
+  "122108510510457428": "2026-10-29T16:36:23+00:00",
+  "122116354460633539": "2026-10-29T16:36:20+00:00",
+  "122119684707409328": "2026-10-29T16:36:10+00:00",
+  "122121498687299008": "2026-10-29T16:36:15+00:00",
+  "122121540111415639": "2026-10-29T16:36:12+00:00",
+  "122123318481303172": "2026-10-29T16:36:18+00:00"
+ },
  "slots": {
   "2026-10-29 21:00": {
    "langs": {
@@ -19,7 +26,62 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1032441206625600": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:18+04:00",
+       "mode": "schedule",
+       "photo_id": "122116354460633539",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1058598924006917": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:21+04:00",
+       "mode": "schedule",
+       "photo_id": "122108510510457428",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1079295351933311": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:12+04:00",
+       "mode": "schedule",
+       "photo_id": "122121498687299008",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1145306638657445": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:15+04:00",
+       "mode": "schedule",
+       "photo_id": "122123318481303172",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1202025962997153": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:08+04:00",
+       "mode": "schedule",
+       "photo_id": "122119684707409328",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:10+04:00",
+       "mode": "schedule",
+       "photo_id": "122121540111415639",
+       "post_id": null,
+       "status": "scheduled"
+      }
+     },
      "title": "Pendant sept ans, j'ai envoyé 40 000 dollars par an à mon gendre, jusqu'au jour où ma petite-fille de sept ans m'a murmuré : « Papy, arrête, et suis-le",
      "warnings": [
       "длина текста FB 376 слов (исходник 450, цель ±10%)"
@@ -57,7 +119,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-fr.jpg"
    },
    "source_key": "post:photo_122140489347225301",
-   "status": "prepared"
+   "status": "in_progress"
   }
  },
  "source_cutoff": "2026-10-29T16:35:35+00:00",
