@@ -61,11 +61,11 @@ def temp_cfg():
 class ConfigTests(unittest.TestCase):
     def test_exact_page_assignments(self):
         cfg = config_mod.load(ROOT)
-        got = [(p.lang, p.page_id, p.name) for p in cfg.pages if p.from_make]
+        got = [(p.lang, p.page_id, p.name) for p in cfg.all_pages if p.from_make]
         self.assertEqual(got, MAKE_PAGES)
-        # + страницы, добавленные после переноса (RU, TR, DE и новые EN)
-        self.assertGreaterEqual(len(cfg.pages), 34)
-        self.assertEqual(set(cfg.active_langs()), {"FR", "IT", "EN", "NL", "RU", "TR", "DE"})
+        # отключённые страницы (disabled: true) не публикуются
+        self.assertTrue(all(not p.disabled for p in cfg.pages))
+        self.assertEqual(len(cfg.pages) + sum(p.disabled for p in cfg.all_pages), len(cfg.all_pages))
         self.assertEqual(config_mod.check_expected_counts(cfg), [])
 
     def test_workflow_matches_slots(self):

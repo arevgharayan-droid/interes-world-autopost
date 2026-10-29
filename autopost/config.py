@@ -27,6 +27,7 @@ class Page:
     lang: str
     profile_id: str = ""
     from_make: bool = False
+    disabled: bool = False
 
 
 @dataclass
@@ -35,7 +36,8 @@ class Config:
     settings: dict
     languages: dict  # lang -> {"name": str, "pages": [Page]}
     fallback_source_page_id: str = ""
-    pages: list = field(default_factory=list)
+    pages: list = field(default_factory=list)       # страницы, на которые идёт публикация
+    all_pages: list = field(default_factory=list)   # включая отключённые (disabled: true)
 
     # --- удобные свойства -------------------------------------------------
     @property
@@ -83,7 +85,7 @@ class Config:
         return None
 
     def profile_to_page(self) -> dict:
-        return {p.profile_id: p.page_id for p in self.pages if p.profile_id}
+        return {p.profile_id: p.page_id for p in self.all_pages if p.profile_id}
 
     def test_page_id(self) -> str:
         tp = str(self.settings.get("test_page_id") or "").strip()
@@ -113,18 +115,22 @@ def load(root: str | Path | None = None) -> Config:
     pages_doc = yaml.safe_load((root / "config/pages.yaml").read_text(encoding="utf-8")) or {}
 
     languages = {}
-    all_pages = []
+    all_pages, every_page = [], []
     for lang in LANG_ORDER:
         block = (pages_doc.get("languages") or {}).get(lang) or {"name": LANG_NAMES[lang], "pages": []}
         plist = []
         for item in block.get("pages") or []:
             p = Page(page_id=str(item["page_id"]), name=str(item["name"]), lang=lang,
-                     profile_id=str(item.get("profile_id") or ""), from_make=bool(item.get("make_post_module")))
+                     profile_id=str(item.get("profile_id") or ""), from_make=bool(item.get("make_post_module")),
+                     disabled=bool(item.get("disabled")))
+            every_page.append(p)
+            if p.disabled:
+                continue
             plist.append(p)
             all_pages.append(p)
         languages[lang] = {"name": block.get("name", lang), "pages": plist}
 
-    ids = [p.page_id for p in all_pages]
+    ids = [p.page_id for p in every_page]
     if len(ids) != len(set(ids)):
         raise ConfigError("pages.yaml: одна и та же страница указана дважды")
     _validate_slots(settings.get("slots") or [])
@@ -133,7 +139,7 @@ def load(root: str | Path | None = None) -> Config:
 
     cfg = Config(root=root, settings=settings, languages=languages,
                  fallback_source_page_id=str(pages_doc.get("fallback_source_page_id") or ""),
-                 pages=all_pages)
+                 pages=all_pages, all_pages=every_page)
     if cfg.page(cfg.test_page_id()) is None:
         raise ConfigError(f"settings.yaml: test_page_id {cfg.test_page_id()} нет среди страниц pages.yaml")
     return cfg
@@ -143,10 +149,10 @@ def check_expected_counts(cfg: Config) -> list:
     """Возвращает список расхождений с исходным файлом Make (пусто — всё совпадает)."""
     problems = []
     for lang, n in EXPECTED_COUNTS.items():
-        got = sum(1 for p in cfg.pages_for(lang) if p.from_make)
+        got = sum(1 for p in cfg.all_pages if p.lang == lang and p.from_make)
         if got != n:
             problems.append(f"{lang}: страниц из Make {got}, в Make было {n}")
-    made = sum(1 for p in cfg.pages if p.from_make)
+    made = sum(1 for p in cfg.all_pages if p.from_make)
     if made != 34:
         problems.append(f"страниц из Make {made}, в Make было 34")
     return problems
@@ -155,4 +161,5 @@ def check_expected_counts(cfg: Config) -> list:
 def describe(cfg: Config) -> str:
     """Например: «54 страницы: FR 7 · IT 9 · EN 29 · NL 2 · RU 3 · TR 2 · DE 2»."""
     parts = " · ".join(f"{lg} {len(cfg.pages_for(lg))}" for lg in cfg.active_langs())
-    return f"{len(cfg.pages)} стр.: {parts}"
+    off = len(cfg.all_pages) - len(cfg.pages)
+    return f"{len(cfg.pages)} стр.: {parts}" + (f" (отключено: {off})" if off else "")

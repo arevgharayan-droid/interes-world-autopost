@@ -479,6 +479,8 @@ def cmd_ops(cfg, args) -> int:
         return cmd_sheet_status(cfg)
     if cmd == "check-queue":
         return cmd_check_queue(cfg)
+    if cmd == "resolve-links":
+        return cmd_resolve_links(cfg, a.get("links") or [])
     if cmd == "cancel-slot":
         return cmd_cancel_slot(cfg, a.get("slot", ""))
     if cmd == "cost-test":
@@ -488,6 +490,46 @@ def cmd_ops(cfg, args) -> int:
                          parallel=int(a.get("parallel", 4)))
     print(f"Неизвестная команда: {cmd}")
     return 1
+
+
+def cmd_resolve_links(cfg, links: list) -> int:
+    """Раскрывает короткие ссылки facebook.com/share/… (перенаправление) — чтобы понять, какая это страница или пост."""
+    import re
+    import urllib.parse
+    import requests
+    ua = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/126.0 Safari/537.36", "Accept-Language": "en-US,en;q=0.8"}
+    p2p = cfg.profile_to_page()
+    names = {p.page_id: p.name for p in cfg.all_pages}
+    out = ["## Раскрытие ссылок", ""]
+    for link in links:
+        url, final = link, ""
+        try:
+            for _ in range(6):
+                r = requests.get(url, headers=ua, allow_redirects=False, timeout=25)
+                loc = r.headers.get("Location") or ""
+                if not loc:
+                    m = re.search(r'<meta property="og:url" content="([^"]+)"', r.text) or \
+                        re.search(r'<link rel="canonical" href="([^"]+)"', r.text)
+                    final = final or (m.group(1) if m else "")
+                    break
+                if loc.startswith("/"):
+                    loc = "https://www.facebook.com" + loc
+                q = urllib.parse.parse_qs(urllib.parse.urlparse(loc).query)
+                if "login" in loc and q.get("next"):
+                    loc = q["next"][0]
+                final = loc
+                url = loc
+                if "/share/" not in loc and "login" not in loc:
+                    break
+        except requests.RequestException as e:
+            out.append(f"- ❌ {link}: {e}")
+            continue
+        m = re.search(r"[?&]id=(\d+)", final) or re.search(r"facebook\.com/(\d+)", final)
+        pid = p2p.get(m.group(1), m.group(1)) if m else ""
+        out.append(f"- {link} → {final[:160]} → {names.get(pid, '?')} {pid}")
+    summary("\n".join(out) + "\n", "previews/resolve-links.md", cfg)
+    return 0
 
 
 def cmd_cancel_slot(cfg, key: str, services=None, tokens=None) -> int:

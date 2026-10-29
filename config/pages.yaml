@@ -76,13 +76,13 @@ languages:
   TR:
     name: Turkish
     pages:   # добавлены 25.10.2026
-      - {page_id: "1129620776897151", name: "Hayatın Anları", profile_id: "61589356530734", added: "2026-10-25"}
-      - {page_id: "1164575726728296", name: "Kalpten Hikayeler", profile_id: "61589214036555", added: "2026-10-25"}
+      - {page_id: "1129620776897151", name: "Hayatın Anları", profile_id: "61589356530734", added: "2026-10-25", disabled: true}  # отключена 29.10.2026
+      - {page_id: "1164575726728296", name: "Kalpten Hikayeler", profile_id: "61589214036555", added: "2026-10-25", disabled: true}  # отключена 29.10.2026
   DE:
     name: German
     pages:   # добавлены 25.10.2026
-      - {page_id: "363312640206172", name: "Es ist interessant", profile_id: "61563855510395", added: "2026-10-25"}
-      - {page_id: "444776585382502", name: "Schöne Welt", profile_id: "61566315690409", added: "2026-10-25"}
+      - {page_id: "363312640206172", name: "Es ist interessant", profile_id: "61563855510395", added: "2026-10-25", disabled: true}  # отключена 29.10.2026
+      - {page_id: "444776585382502", name: "Schöne Welt", profile_id: "61566315690409", added: "2026-10-25", disabled: true}  # отключена 29.10.2026
 
 # Страница, токеном которой Make читал «чужие» публичные посты (fallback в модуле 2).
 fallback_source_page_id: "1011074408765807"  # Émotions Virales | Paris
