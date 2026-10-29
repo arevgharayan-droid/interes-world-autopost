@@ -6,9 +6,13 @@
  },
  "outputs": {
   "122200243790922316": "2026-10-29T16:40:37+00:00",
+  "122200263728922316": "2026-10-29T20:17:14+00:00",
   "122219271314930012": "2026-10-29T16:40:33+00:00",
+  "122219308010930012": "2026-10-29T20:17:11+00:00",
   "633031599904551_122219271314930012": "2026-10-29T17:25:54+00:00",
-  "715935674934966_122200243790922316": "2026-10-29T17:26:02+00:00"
+  "633031599904551_122219308034930012": "2026-10-29T20:17:11+00:00",
+  "715935674934966_122200243790922316": "2026-10-29T17:26:02+00:00",
+  "715935674934966_122200263752922316": "2026-10-29T20:17:14+00:00"
  },
  "slots": {
   "2026-10-29 21:00": {
@@ -111,11 +115,35 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "633031599904551": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122219308034930012_1474822351161965",
+       "error": null,
+       "last_attempt": "2026-10-30T00:17:08+04:00",
+       "mode": "immediate",
+       "photo_id": "122219308010930012",
+       "post_id": "633031599904551_122219308034930012",
+       "status": "done"
+      },
+      "715935674934966": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122200263752922316_1072583702531612",
+       "error": null,
+       "last_attempt": "2026-10-30T00:17:12+04:00",
+       "mode": "immediate",
+       "photo_id": "122200263728922316",
+       "post_id": "715935674934966_122200263752922316",
+       "status": "done"
+      }
+     },
      "title": "Ik wilde mijn man verrassen in het ziekenhuis, maar de tranen van zijn collega onthulden het geheim dat hij een jaar lang voor me verborgen hield",
      "warnings": [],
      "wp_error": null,
      "wp_id": 7191,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RU": {
@@ -139,7 +167,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-nl.jpg"
    },
    "source_key": "post:1011074408765807_122103003182536431",
-   "status": "prepared"
+   "status": "done"
   },
   "2026-10-30 12:00": {
    "langs": {},
