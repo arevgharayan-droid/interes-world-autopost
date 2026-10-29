@@ -2,6 +2,7 @@
  "enabled_since": "2026-10-29T20:36:25+04:00",
  "output_fps": {
   "24ef5b43174759b5cb24": "2026-10-29T20:16:50+00:00",
+  "27cf43d3866fe7568230": "2026-10-29T20:24:35+00:00",
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00"
  },
  "outputs": {
@@ -326,7 +327,44 @@
    "status": "done"
   },
   "2026-10-30 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi ha cacciata di casa durante le contrazioni, ma il giorno dopo una generale mi ha salutata davanti alla sua amante",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7201,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-30T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/795289786_122102718806536431_609067368945367039_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=44npXKPChp0Q7kNvwGXGn6X&_nc_oc=AdoOXIbO2qLHmQVGJqRz4fC-Xku6r3eHzkJTAlCW_tfD0XXXYdNgULpocJgJS0GY5rA&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=AD8hJKw8WR7nhQ8MIwcd_A&_nc_tpa=Q5bMBQKFQNRfR19w-2BtACJp0Jmn-cIRra0LS0BOusFv_cmGKGrhWks5U73O2F594iZ7GzO4sdADlEXx4w&oh=00_AQT3BuUqx7ObKH-KrYrM6XF4YPkNx9-WWB_upW_hDD67KA&oe=6AE989E7",
@@ -338,7 +376,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-it.jpg"
    },
    "source_key": "post:1011074408765807_122102718824536431",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-30 15:00": {
    "langs": {},
@@ -369,7 +407,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122103466484536431": {
    "fingerprint": "e20967b2adb34b0ba28c",
