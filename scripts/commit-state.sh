@@ -19,7 +19,8 @@ fi
 git commit -q -m "$1"
 
 keep="$(mktemp -d)"
-[ -f state/state.json ] && cp state/state.json "$keep/state.json"
+# все файлы состояния этого запуска (state/state.json и state/groups/*.json)
+[ -d state ] && cp -r state/. "$keep/"
 
 for i in 1 2 3 4 5; do
   if git push -q origin "HEAD:$BRANCH"; then echo "Сохранено"; exit 0; fi
@@ -31,10 +32,10 @@ for i in 1 2 3 4 5; do
     exit 1
   fi
   # состояние этого запуска важнее: возвращаем его целиком и проверяем, что JSON корректен
-  if [ -f "$keep/state.json" ]; then
-    cp "$keep/state.json" state/state.json
-    python3 -c "import json; json.load(open('state/state.json'))"
-    git add state/state.json
+  if [ -n "$(ls -A "$keep" 2>/dev/null)" ]; then
+    cp -r "$keep/." state/
+    python3 -c "import json,glob; [json.load(open(f)) for f in glob.glob('state/**/*.json', recursive=True)]"
+    git add state
     git diff --cached --quiet || git commit -q -m "$1 (повторная отправка)"
   fi
   sleep $((i * 3))

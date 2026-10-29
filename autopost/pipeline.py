@@ -100,6 +100,8 @@ class Pipeline:
 
     def log_event(self, **ev):
         ev["t"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        if self.cfg.group:
+            ev["group"] = self.cfg.group
         p = self.cfg.path(f"logs/{ev['t'][:7]}.jsonl")
         p.parent.mkdir(parents=True, exist_ok=True)
         with p.open("a", encoding="utf-8") as f:
@@ -125,6 +127,8 @@ class Pipeline:
         return self._images[key]
 
     def content_path(self, dt: datetime, lang: str):
+        if self.cfg.group:
+            return self.cfg.path(f"content/{dt:%Y-%m-%d}/{self.cfg.group}/{dt:%H%M}-{lang}.json")
         return self.cfg.path(f"content/{dt:%Y-%m-%d}/{dt:%H%M}-{lang}.json")
 
     def load_text(self, dt: datetime, lang: str) -> dict:
@@ -251,7 +255,7 @@ class Pipeline:
         src = s["source"]
         # фото → медиатека WordPress (постоянная ссылка вместо временной ссылки Facebook)
         if not src.get("wp_media_id"):
-            slug = f"interes-{dt:%Y%m%d-%H%M}"
+            slug = f"interes-{dt:%Y%m%d-%H%M}" + (f"-{self.cfg.group.lower()}" if self.cfg.group else "")
             try:
                 found = self.wp.find_media_by_slug(slug)
                 if found:
@@ -359,6 +363,8 @@ class Pipeline:
         return False
 
     def wp_slug(self, dt, lang) -> str:
+        if self.cfg.group:
+            return f"iw-{dt:%Y%m%d-%H%M}-{self.cfg.group.lower()}"
         return f"iw-{dt:%Y%m%d-%H%M}-{lang.lower()}"
 
     def create_wp(self, dt, s, lang, L):

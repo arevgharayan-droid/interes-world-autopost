@@ -28,6 +28,7 @@ class Page:
     profile_id: str = ""
     from_make: bool = False
     disabled: bool = False
+    group: str = ""          # группа страниц: своя история в каждом выпуске (по умолчанию = язык)
 
 
 @dataclass
@@ -38,6 +39,7 @@ class Config:
     fallback_source_page_id: str = ""
     pages: list = field(default_factory=list)       # страницы, на которые идёт публикация
     all_pages: list = field(default_factory=list)   # включая отключённые (disabled: true)
+    group: str = ""                                 # не пусто — это «вид» одной группы (см. group_view)
 
     # --- удобные свойства -------------------------------------------------
     @property
@@ -73,6 +75,20 @@ class Config:
 
     def pages_for(self, lang: str) -> list:
         return list(self.languages[lang]["pages"])
+
+    def groups(self) -> list:
+        """Группы страниц по порядку языков: у каждой своя очередь ссылок и своя история в выпуске."""
+        out = []
+        for lg in LANG_ORDER:
+            for p in self.languages[lg]["pages"]:
+                if p.group not in out:
+                    out.append(p.group)
+        return out
+
+    def group_label(self, g: str) -> str:
+        if g == "EN" and "EN2" in self.groups():
+            return "EN-1"
+        return {"EN2": "EN-2"}.get(g, g)
 
     def active_langs(self) -> list:
         """Языки, у которых есть хотя бы одна страница."""
@@ -122,7 +138,7 @@ def load(root: str | Path | None = None) -> Config:
         for item in block.get("pages") or []:
             p = Page(page_id=str(item["page_id"]), name=str(item["name"]), lang=lang,
                      profile_id=str(item.get("profile_id") or ""), from_make=bool(item.get("make_post_module")),
-                     disabled=bool(item.get("disabled")))
+                     disabled=bool(item.get("disabled")), group=str(item.get("group") or lang))
             every_page.append(p)
             if p.disabled:
                 continue
@@ -163,3 +179,23 @@ def describe(cfg: Config) -> str:
     parts = " · ".join(f"{lg} {len(cfg.pages_for(lg))}" for lg in cfg.active_langs())
     off = len(cfg.all_pages) - len(cfg.pages)
     return f"{len(cfg.pages)} стр.: {parts}" + (f" (отключено: {off})" if off else "")
+
+
+def group_view(cfg: Config, g: str) -> Config:
+    """Конфигурация одной группы: только её страницы, своя очередь queue/<группа>.txt, только присланные ссылки."""
+    import copy
+    langs = {lg: {"name": v["name"], "pages": [p for p in v["pages"] if p.group == g]}
+             for lg, v in cfg.languages.items()}
+    settings = copy.deepcopy(cfg.settings)
+    src = settings.setdefault("sources", {})
+    src["order"] = ["manual"]
+    src["manual_file"] = f"queue/{g}.txt"
+    src.setdefault("auto", {})["enabled"] = False
+    src.setdefault("google_sheet", {})["enabled"] = False
+    return Config(root=cfg.root, settings=settings, languages=langs,
+                  fallback_source_page_id=cfg.fallback_source_page_id,
+                  pages=[p for p in cfg.pages if p.group == g], all_pages=cfg.all_pages, group=g)
+
+
+def group_state_path(cfg: Config, g: str) -> Path:
+    return cfg.path(f"state/groups/{g}.json")

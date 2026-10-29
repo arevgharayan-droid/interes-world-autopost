@@ -48,19 +48,19 @@ languages:
       - {page_id: "237939756073256", name: "Love This World", profile_id: "61557022889720", make_post_module: 326}
       - {page_id: "1164984823367955", name: "Fates Behind Closed Doors", profile_id: "61591304800504", make_post_module: 328, disabled: true}  # отключена 29.10.2026
       - {page_id: "621364207735841", name: "Beautiful Babies", profile_id: "61577288221627", make_post_module: 330, disabled: true}  # отключена 29.10.2026
-      # --- добавлены 25.10.2026 (не из Make) ---
-      - {page_id: "233545296514172", name: "Cute Stories", profile_id: "61557237771185", added: "2026-10-25"}
-      - {page_id: "530022363528890", name: "Sunny Days", profile_id: "61571615293165", added: "2026-10-25"}
-      - {page_id: "994273113779575", name: "Fragments of Life", profile_id: "61573285696185", added: "2026-10-25"}
-      - {page_id: "1060733217128705", name: "Your Daily Drama", profile_id: "61573320869990", added: "2026-10-25"}
-      - {page_id: "625664190627160", name: "Musical Devotee", profile_id: "61574600625839", added: "2026-10-25"}
-      - {page_id: "648976361631351", name: "Talent Spotlight", profile_id: "61574884471006", added: "2026-10-25"}
-      - {page_id: "673710079162922", name: "Kids in Motion", profile_id: "61576868414834", added: "2026-10-25"}
-      - {page_id: "714226118434052", name: "Little Legends Live", profile_id: "61577079724012", added: "2026-10-25"}
-      - {page_id: "892503027289970", name: "Deepest Lessons", profile_id: "61586594253371", added: "2026-10-25"}
-      - {page_id: "100633729330404", name: "Cute Animals", profile_id: "100081555946506", added: "2026-10-25"}
-      - {page_id: "106713875762456", name: "Baby Lovers", profile_id: "100093248444414", added: "2026-10-25"}
-      - {page_id: "104114086037068", name: "Fine Baby", profile_id: "100093351638986", added: "2026-10-25"}
+      # --- добавлены 25.10.2026 (не из Make) — группа EN2: своя английская история в каждом выпуске ---
+      - {page_id: "233545296514172", name: "Cute Stories", profile_id: "61557237771185", added: "2026-10-25", group: EN2}
+      - {page_id: "530022363528890", name: "Sunny Days", profile_id: "61571615293165", added: "2026-10-25", group: EN2}
+      - {page_id: "994273113779575", name: "Fragments of Life", profile_id: "61573285696185", added: "2026-10-25", group: EN2}
+      - {page_id: "1060733217128705", name: "Your Daily Drama", profile_id: "61573320869990", added: "2026-10-25", group: EN2}
+      - {page_id: "625664190627160", name: "Musical Devotee", profile_id: "61574600625839", added: "2026-10-25", group: EN2}
+      - {page_id: "648976361631351", name: "Talent Spotlight", profile_id: "61574884471006", added: "2026-10-25", group: EN2}
+      - {page_id: "673710079162922", name: "Kids in Motion", profile_id: "61576868414834", added: "2026-10-25", group: EN2}
+      - {page_id: "714226118434052", name: "Little Legends Live", profile_id: "61577079724012", added: "2026-10-25", group: EN2}
+      - {page_id: "892503027289970", name: "Deepest Lessons", profile_id: "61586594253371", added: "2026-10-25", group: EN2}
+      - {page_id: "100633729330404", name: "Cute Animals", profile_id: "100081555946506", added: "2026-10-25", group: EN2}
+      - {page_id: "106713875762456", name: "Baby Lovers", profile_id: "100093248444414", added: "2026-10-25", group: EN2}
+      - {page_id: "104114086037068", name: "Fine Baby", profile_id: "100093351638986", added: "2026-10-25", group: EN2}
   NL:
     name: Dutch
     make_modules: "claude 542, wordpress 40"

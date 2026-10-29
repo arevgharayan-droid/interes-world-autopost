@@ -28,37 +28,39 @@ STORY = ("When Anna found an old letter hidden behind the kitchen cupboard, she 
 
 
 def run_simulation(cfg, days=2):
+    """Сухой прогон по группам: у каждой группы своя история в каждом выпуске (истории — поддельные посты)."""
     tmp = Path(tempfile.mkdtemp(prefix="autopost-sim-"))
     for d in ("config", "prompts"):
         shutil.copytree(cfg.path(d), tmp / d)
     (tmp / "state").mkdir()
     sim_cfg = config_mod.load(tmp)
     sim_cfg.settings["schedule_enabled"] = True
-    sim_cfg.settings["sources"]["auto"]["lookback_hours"] = 24 * (days + 2)
-    sim_cfg.settings["sources"]["auto"]["enabled"] = True        # сухой прогон без сети:
-    sim_cfg.settings["sources"]["google_sheet"]["enabled"] = False  # истории берутся с поддельных страниц
     tz = ZoneInfo(sim_cfg.tz)
     start = datetime.now(tz).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
     clock = {"now": start}
     graph = FakeGraph(sim_cfg, lambda: clock["now"])
     wp = FakeWP()
-    gen = Generator(sim_cfg, backend="mock")
-    state = State(tmp / "state/state.json")
-    state.data["source_cutoff"] = (start - timedelta(days=1)).isoformat()  # как после «2 · Подключить Facebook»
     tokens = {p.page_id: f"PT-{p.page_id}" for p in sim_cfg.pages}
 
-    # истории, «опубликованные вручную» на ваших страницах
-    pages = sim_cfg.pages
-    for i in range(5 * days + 3):
-        page = pages[(i * 7) % len(pages)]
-        ts = (start - timedelta(hours=10) + timedelta(minutes=13 * i)).timestamp()
-        graph.source_posts.setdefault(page.page_id, []).append({
-            "id": f"{page.page_id}_{700000 + i}", "message": f"Story #{i}. " + STORY,
-            "full_picture": f"https://scontent.example/{i}.jpg", "created_time": f"{int(ts)}",
-            "attachments": {"data": [{"media_type": "photo"}]}, "_ts": int(ts)})
+    groups = {}
+    for gi, g in enumerate(sim_cfg.groups()):
+        gcfg = config_mod.group_view(sim_cfg, g)
+        src = gcfg.settings["sources"]
+        src["order"] = ["auto"]                       # без сети: истории — «посты» на страницах группы
+        src["auto"].update(enabled=True, pages="all", lookback_hours=24 * (days + 2))
+        st = State(tmp / f"state/groups/{g}.json")
+        st.data["source_cutoff"] = (start - timedelta(days=1)).isoformat()
+        for i in range(5 * days + 3):
+            page = gcfg.pages[(i * 7) % len(gcfg.pages)]
+            ts = (start - timedelta(hours=10) + timedelta(minutes=13 * i + gi)).timestamp()
+            graph.source_posts.setdefault(page.page_id, []).append({
+                "id": f"{page.page_id}_{700000 + 100 * gi + i}", "message": f"Story {g} #{i}. " + STORY,
+                "full_picture": f"https://scontent.example/{g}-{i}.jpg", "created_time": f"{int(ts)}",
+                "attachments": {"data": [{"media_type": "photo"}]}, "_ts": int(ts)})
+        groups[g] = (gcfg, st, Generator(gcfg, backend="mock"))
 
     # внедряем сбои
-    some = [p.page_id for p in pages]
+    some = [p.page_id for p in sim_cfg.pages]
     graph.fail_next += [
         ("create_photo_post", some[3], FacebookError("Service temporarily unavailable", code=2)),
         ("comment", some[10], FacebookError("Please retry", code=1)),
@@ -78,23 +80,32 @@ def run_simulation(cfg, days=2):
             ticks += [base + timedelta(minutes=o) for o in offs]
     ticks = sorted(set(ticks))
     log = []
+
+    def tick_all():
+        for gcfg, st, gen in groups.values():
+            r = Pipeline(gcfg, st, graph, wp, gen, tokens, now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+            log.append((clock["now"], r))
+
     for t in ticks:
         clock["now"] = t
         for _rep in range(2):  # каждый запуск дважды — проверка идемпотентности
-            r = Pipeline(sim_cfg, state, graph, wp, gen, tokens, now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
-            log.append((t, r))
-    # хвост: пусть пройдёт время после последнего слота
-    clock["now"] = ticks[-1] + timedelta(hours=4)
-    Pipeline(sim_cfg, state, graph, wp, gen, tokens, now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+            tick_all()
+    clock["now"] = ticks[-1] + timedelta(hours=4)  # хвост: пусть пройдёт время после последнего слота
+    tick_all()
 
     # ---- проверки
     problems = []
-    slots = state.slots
-    expected_slots = max(days * len(sim_cfg.slots), len(slots))  # слот 00:00 следующего дня тоже готовится
-    done = [k for k, s in slots.items() if s.get("status") == "done"]
-    if len(done) != expected_slots:
-        problems.append(f"завершено слотов {len(done)} из {expected_slots}: "
-                        + str({k: s.get('status') for k, s in slots.items()}))
+    total_expected, slots_total, sources_all = 0, 0, []
+    for g, (gcfg, st, _gen) in groups.items():
+        slots = st.slots
+        slots_total += len(slots)
+        bad = {k: s.get("status") for k, s in slots.items() if s.get("status") != "done"}
+        if bad or len(slots) < days * len(sim_cfg.slots):
+            problems.append(f"{g}: слоты не завершены: {bad or len(slots)}")
+        for s in slots.values():
+            sources_all.append(s.get("source_key"))
+            if s.get("source"):
+                total_expected += sum(1 for p in gcfg.pages if p.page_id != s["source"]["page_id"])
     per_page_ts = Counter((p["page"], p["scheduled_ts"] or p["message"][:30]) for p in graph.posts.values())
     dups = [k for k, c in per_page_ts.items() if c > 1]
     if dups:
@@ -102,20 +113,15 @@ def run_simulation(cfg, days=2):
     no_comment = [pid for pid, p in graph.posts.items() if len(graph.comments_by.get(pid, [])) != 1]
     if no_comment:
         problems.append(f"постов без ровно одного комментария: {len(no_comment)}")
-    sources = [s.get("source_key") for s in slots.values()]
-    if len(sources) != len(set(sources)):
+    if len(sources_all) != len(set(sources_all)):
         problems.append("одна история использована дважды")
-    total_expected = 0
-    for s in slots.values():
-        if not s.get("source"):
-            continue
-        src_page = s["source"]["page_id"]
-        total_expected += sum(1 for lg in LANG_ORDER for p in sim_cfg.pages_for(lg) if p.page_id != src_page)
     if len(graph.posts) != total_expected:
         problems.append(f"постов {len(graph.posts)}, ожидалось {total_expected}")
     wp_pub = [p for p in wp.posts.values() if p["status"] == "publish"]
-    if len(wp_pub) != expected_slots * len(sim_cfg.active_langs()):
-        problems.append(f"статей опубликовано {len(wp_pub)}, ожидалось {expected_slots * len(sim_cfg.active_langs())}")
+    if len(wp_pub) != slots_total:
+        problems.append(f"статей опубликовано {len(wp_pub)}, ожидалось {slots_total}")
+    if len(wp.media) != slots_total:
+        problems.append(f"фото в медиатеке {len(wp.media)}, ожидалось {slots_total} (у каждой группы своё)")
     links_ok = all(graph.comments_by[pid][0]["message"].startswith("https://interes-world.com/?p=")
                    for pid in graph.posts if graph.comments_by.get(pid))
     if not links_ok:
@@ -126,12 +132,14 @@ def run_simulation(cfg, days=2):
     if finals:
         problems.append(f"окончательные ошибки: {finals[:3]}")
 
-    md = ["## Сухой прогон (без сети, тестовые тексты)", "",
-          f"Период: {days} дн. × {len(sim_cfg.slots)} слотов ({', '.join(sim_cfg.slots)}, {sim_cfg.tz}); "
+    md = ["## Сухой прогон по группам (без сети, тестовые тексты)", "",
+          f"Период: {days} дн. × {len(sim_cfg.slots)} выпусков ({', '.join(sim_cfg.slots)}, {sim_cfg.tz}); "
+          f"групп: {len(groups)} ({', '.join(sim_cfg.group_label(g) for g in groups)}); "
           f"запусков: {len(ticks)} (каждый выполнен дважды для проверки дублей).", "",
-          f"- Постов в Facebook: **{len(graph.posts)}** (из них ушли в отложенные Facebook точно ко времени: {on_time})",
+          f"- Историй: **{slots_total}** (у каждой группы своя в каждом выпуске)",
+          f"- Постов в Facebook: **{len(graph.posts)}** (из них ушли в отложенные точно ко времени: {on_time})",
           f"- Первых комментариев: **{sum(len(v) for v in graph.comments_by.values())}**",
-          f"- Статей WordPress: **{len(wp.posts)}** (опубликовано: {len(wp_pub)})",
+          f"- Статей WordPress: **{len(wp.posts)}** (опубликовано: {len(wp_pub)}), фото в медиатеке: {len(wp.media)}",
           f"- Внедрено сбоев: 4 (FB-пост, комментарий, обрыв связи после создания поста, ошибка WordPress) — "
           f"временных ошибок в журналах: {retried}, все повторены автоматически",
           "- Повторные запуски не создали ни одного дубля" if not dups else "- ❌ найдены дубли", ""]

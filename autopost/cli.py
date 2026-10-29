@@ -349,15 +349,24 @@ def _checkpoint():
         subprocess.run(["bash", "scripts/commit-state.sh", "автопостинг — промежуточное сохранение"], check=False)
 
 
+def _group_states(cfg) -> dict:
+    return {g: State(config_mod.group_state_path(cfg, g)) for g in cfg.groups()}
+
+
+def _unfinished(st: State) -> bool:
+    return any(s.get("prepared") and s.get("status") not in ("done", "done_with_errors", "missed", "cancelled")
+               for s in st.slots.values())
+
+
 def cmd_tick(cfg, args) -> int:
-    st = state_of(cfg)
+    """Один запуск по расписанию: каждая группа страниц — своя история из своей очереди queue/<группа>.txt."""
     enabled = bool(cfg.settings.get("schedule_enabled"))
-    unfinished = any(s.get("prepared") and s.get("status") not in ("done", "done_with_errors", "missed", "cancelled")
-                     for s in st.slots.values())
-    if not enabled and not unfinished:
-        if st.data.get("enabled_since"):
-            st.data["enabled_since"] = None
-            st.save()
+    states = _group_states(cfg)
+    if not enabled and not any(_unfinished(st) for st in states.values()):
+        for st in states.values():
+            if st.data.get("enabled_since"):
+                st.data["enabled_since"] = None
+                st.save()
         summary("## Автопостинг\n\nРасписание выключено (`schedule_enabled: false`).\n")
         return 0
     graph, wp, http = real_services(cfg)
@@ -366,21 +375,28 @@ def cmd_tick(cfg, args) -> int:
     except TokenError as e:
         summary(f"## Автопостинг\n\n❌ {e}\n")
         return 1
-    rep = Pipeline(cfg, st, graph, wp, Generator(cfg), tokens, http=http, checkpoint=_checkpoint).tick()
-    summary(rep.markdown())
-    return 1 if rep.final_errors else 0
+    md, final = ["## Автопостинг по группам", ""], 0
+    for g, st in states.items():
+        gcfg = config_mod.group_view(cfg, g)
+        rep = Pipeline(gcfg, st, graph, wp, Generator(gcfg), tokens, http=http, checkpoint=_checkpoint).tick()
+        final += len(rep.final_errors)
+        md.append(rep.markdown(title=f"{cfg.group_label(g)} · {len(gcfg.pages)} стр.").replace("## ", "### ", 1))
+    summary("\n".join(md))
+    return 1 if final else 0
 
 
 # ---------------------------------------------------------------- status
 def cmd_status(cfg, args) -> int:
-    st = state_of(cfg)
-    lines = ["## Состояние слотов", "", "| Слот | Статус | Источник | Готово страниц |", "|---|---|---|---|"]
-    for key in sorted(st.slots)[-20:]:
-        s = st.slots[key]
-        pages = [e for L in s.get("langs", {}).values() for e in L.get("pages", {}).values()]
-        done = sum(1 for e in pages if e["status"] in ("done", "skipped_source"))
-        lines.append(f"| {key} | {s.get('status')} | {(s.get('source') or {}).get('origin', '—')} | {done}/{len(pages)} |")
-    summary("\n".join(lines) + "\n")
+    lines = ["## Состояние выпусков по группам", "",
+             "| Группа | Выпуск | Статус | История | Готово страниц |", "|---|---|---|---|---|"]
+    for g, st in _group_states(cfg).items():
+        for key in sorted(st.slots)[-10:]:
+            s = st.slots[key]
+            pages = [e for L in s.get("langs", {}).values() for e in L.get("pages", {}).values()]
+            done = sum(1 for e in pages if e["status"] in ("done", "skipped_source"))
+            link = ((s.get("source") or {}).get("link") or "—")[:60]
+            lines.append(f"| {cfg.group_label(g)} | {key} | {s.get('status')} | {link} | {done}/{len(pages)} |")
+    summary("\n".join(lines) + "\n", "previews/status.md", cfg)
     return 0
 
 
@@ -482,7 +498,11 @@ def cmd_ops(cfg, args) -> int:
     if cmd == "resolve-links":
         return cmd_resolve_links(cfg, a.get("links") or [])
     if cmd == "cancel-slot":
-        return cmd_cancel_slot(cfg, a.get("slot", ""))
+        rc = 0
+        for g, st in _group_states(cfg).items():
+            if a.get("slot", "") in st.slots:
+                rc |= cmd_cancel_slot(config_mod.group_view(cfg, g), a.get("slot", ""), state=st)
+        return rc
     if cmd == "cost-test":
         from .costtest import run as cost_test
         return cost_test(cfg, n=int(a.get("n", 10)),
@@ -532,9 +552,9 @@ def cmd_resolve_links(cfg, links: list) -> int:
     return 0
 
 
-def cmd_cancel_slot(cfg, key: str, services=None, tokens=None) -> int:
+def cmd_cancel_slot(cfg, key: str, services=None, tokens=None, state=None) -> int:
     """Отменяет подготовленный слот: удаляет отложенные посты Facebook и статьи WordPress, слот больше не трогается."""
-    st = state_of(cfg)
+    st = state or state_of(cfg)
     s = st.slots.get(key)
     if not s:
         print(f"Слот {key} не найден")
@@ -545,7 +565,8 @@ def cmd_cancel_slot(cfg, key: str, services=None, tokens=None) -> int:
     removed, kept, errors = 0, 0, []
     for lang, L in (s.get("langs") or {}).items():
         try:
-            txt = json.loads(cfg.path(f"content/{key[:10]}/{key[11:13]}{key[14:16]}-{lang}.json")
+            sub = f"{cfg.group}/" if cfg.group else ""
+            txt = json.loads(cfg.path(f"content/{key[:10]}/{sub}{key[11:13]}{key[14:16]}-{lang}.json")
                              .read_text(encoding="utf-8"))["fb_text"]
         except (OSError, KeyError, ValueError):
             txt = ""
@@ -608,37 +629,41 @@ def cmd_cancel_slot(cfg, key: str, services=None, tokens=None) -> int:
     else:
         md.append("✅ Проверка: на этот час на страницах больше ничего не запланировано")
     md += [f"- {e}" for e in errors[:20]]
-    summary("\n".join(md) + "\n", f"previews/cancel-{key[:10]}-{key[11:13]}{key[14:16]}.md", cfg)
+    grp = f"-{cfg.group}" if cfg.group else ""
+    summary("\n".join(md) + "\n", f"previews/cancel-{key[:10]}-{key[11:13]}{key[14:16]}{grp}.md", cfg)
     return 1 if (kept or left) else 0
 
 
 def cmd_check_queue(cfg) -> int:
-    """Проверяет ссылки в queue/links.txt: читается ли пост (текст + фото). Ничего не публикует."""
-    st = state_of(cfg)
+    """Проверяет очереди queue/<группа>.txt: читается ли каждый пост (текст + фото). Ничего не публикует."""
     graph, _wp, _http = real_services(cfg)
     tokens = load_tokens(cfg)
     p2p = cfg.profile_to_page()
-    out = ["## Очередь ссылок", ""]
+    out = ["## Очереди ссылок по группам", ""]
     bad = 0
-    waiting = 0
-    for link in manual_links(cfg):
-        try:
-            info = parse_link(link, p2p)
-            key = source_key(info["page_id"], info["part"])
-            rec = st.sources.get(key) or {}
-            if st.source_used(key) or rec.get("status") == "reserved":
-                out.append(f"- ⏭ уже использована ({rec.get('status')}, {rec.get('slot', '')}): {link[:90]}")
-                continue
-            post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
-            page = cfg.page(post.get("owner_page_id") or info["page_id"])
-            waiting += 1
-            first = " ".join(post["text"].split())[:110]
-            out.append(f"- ✅ ждёт публикации · {page.name if page else info['page_id']} · "
-                       f"{len(post['text'])} знаков, фото есть · «{first}…»")
-        except SourceError as e:
-            bad += 1
-            out.append(f"- ❌ {link[:90]}: {e}")
-    out.insert(2, f"Ждут публикации: **{waiting}**, с ошибкой: **{bad}**\n")
+    for g, st in _group_states(cfg).items():
+        gcfg = config_mod.group_view(cfg, g)
+        lines, waiting = [], 0
+        for link in manual_links(gcfg):
+            try:
+                info = parse_link(link, p2p)
+                key = source_key(info["page_id"], info["part"])
+                rec = st.sources.get(key) or {}
+                if st.source_used(key) or rec.get("status") == "reserved":
+                    lines.append(f"- ⏭ уже взята ({rec.get('status')}, {rec.get('slot', '')}): {link[:90]}")
+                    continue
+                post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
+                page = cfg.page(post.get("owner_page_id") or info["page_id"])
+                waiting += 1
+                first = " ".join(post["text"].split())[:100]
+                lines.append(f"- ✅ {page.name if page else 'чужая страница'} · {len(post['text'])} знаков, "
+                             f"фото есть · «{first}…»")
+            except SourceError as e:
+                bad += 1
+                lines.append(f"- ❌ {link[:90]}: {e}")
+        out.append(f"### {cfg.group_label(g)} ({len(gcfg.pages)} стр.) — ждут публикации: {waiting}")
+        out += lines or ["- (очередь пуста)"]
+        out.append("")
     summary("\n".join(out) + "\n", "previews/queue.md", cfg)
     return 1 if bad else 0
 

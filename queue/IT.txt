@@ -1,0 +1,3 @@
+# Очередь группы IT — 9 стр. (Italian): Quand Tout Bascule, Vite in Primo Piano, Storie Vere | Lion, Voci di Vita | Paris, Racconti Quotidiani | Monaco, Vita Virale | Paris, Moments Français | Paris, Frammenti di Vita, Una Storia che Ti Toccherà
+# Одна ссылка на строку, сверху вниз — по одной истории на каждый выпуск (12:00, 15:00, 18:00, 21:00, 00:00).
+# Ссылки сюда добавляет Claude, когда вы присылаете их в чат. Уже опубликованные повторно не берутся.

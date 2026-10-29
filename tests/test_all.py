@@ -393,3 +393,55 @@ class CancelSlotTests(PipelineTests):
         clock["now"] = clock["now"].replace(hour=9, minute=7)
         run()                                  # после отмены слот больше не трогается
         self.assertEqual((len(graph.posts), len(wp.posts)), (0, 0))
+
+
+class GroupQueueTests(unittest.TestCase):
+    """У каждой группы своя очередь и своя история: посты только на своих страницах, свои статьи и фото."""
+
+    def test_groups_get_own_stories(self):
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        groups = cfg.groups()
+        self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU"])
+        # «чужая» страница-источник для каждой группы — истории читаются через запасную страницу
+        fb = cfg.fallback_source_page_id
+        (tmp / "queue").mkdir(exist_ok=True)
+        for i, g in enumerate(groups):
+            pid = cfg.pages[0].page_id
+            graph.source_posts.setdefault(pid, []).append({
+                "id": f"{pid}_{900 + i}", "message": f"Story for {g}. " + STORY, "full_picture": "https://x/y.jpg",
+                "attachments": {"data": [{"media_type": "photo"}]}})
+            (tmp / "queue" / f"{g}.txt").write_text(f"# очередь {g}\n{pid}_{900 + i}\n", encoding="utf-8")
+        states = {g: State(tmp / f"state/groups/{g}.json") for g in groups}
+
+        def tick():
+            for g in groups:
+                gcfg = group_view(cfg, g)
+                Pipeline(gcfg, states[g], graph, wp, Generator(gcfg, backend="mock"), tokens,
+                         now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+
+        for hh, mm in ((6, 7), (8, 7), (9, 7), (9, 37)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            tick()
+            tick()  # повторный запуск не создаёт дублей
+        slot = "2030-05-01 09:00"
+        for g in groups:
+            s = states[g].slots[slot]
+            self.assertEqual(s["status"], "done", g)
+            self.assertEqual(s["source"]["text"].split(".")[0], f"Story for {g}")
+        src_page = cfg.pages[0].page_id
+        expected = sum(1 for p in cfg.pages if p.page_id != src_page)
+        self.assertEqual(len(graph.posts), expected)                 # каждая страница — один пост
+        self.assertEqual(len({p["page"] for p in graph.posts.values()}), expected)
+        self.assertEqual(len(wp.posts), len(groups))                 # своя статья у каждой группы
+        self.assertEqual(len({p["slug"] for p in wp.posts.values()}), len(groups))
+        self.assertEqual(len(wp.media), len(groups))                 # и своё фото
+        self.assertTrue(all(len(graph.comments_by.get(pid, [])) == 1 for pid in graph.posts))
+        # следующий выпуск: очереди пусты — ничего не публикуется, ошибок нет
+        clock["now"] = clock["now"].replace(hour=11, minute=7)
+        tick()
+        self.assertEqual(len(graph.posts), expected)
