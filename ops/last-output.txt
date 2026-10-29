@@ -1,10 +1,8 @@
-## Подключение Facebook
+## Очередь ссылок
 
-✅ Получены токены страниц: **44 из 45**
-Срок действия токенов страниц: бессрочно
-Разрешения: pages_show_list, business_management, pages_read_engagement, pages_read_user_content, pages_manage_posts, pages_manage_engagement, public_profile
-❌ Нет доступа к страницам (добавьте их в портфолио Interes World и назначьте системному пользователю autopost): Amazing
+Ждут публикации: **3**, с ошибкой: **0**
 
-Новыми историями считаются посты, опубликованные на ваших страницах ПОСЛЕ этого момента (старые посты и всё, что публиковал Make, не берутся).
-Секрет FB_USER_TOKEN не удаляйте: когда в портфолио добавятся новые страницы, этот шаг можно просто запустить ещё раз.
+- ✅ ждёт публикации · photo · 2951 знаков, фото есть · «Cinq ans après notre divorce, mon ex-mari richissime s’est retrouvé assis à côté de moi en première classe, af…»
+- ✅ ждёт публикации · photo · 3347 знаков, фото есть · «J’ai donné mes 10 derniers dollars à un sans-abri en 1998. Des décennies plus tard, un avocat est entré dans m…»
+- ✅ ждёт публикации · photo · 14007 знаков, фото есть · «Mon fils a pointé la porte d'entrée et m'a lancé : « Soit tu présentes tes excuses à Chloé tout de suite, soit…»
 
