@@ -1,0 +1,8 @@
+## Раскрытие ссылок
+
+- https://www.facebook.com/share/18bKY3CbuA/ →  → ? 
+- https://www.facebook.com/share/19mtceUzLT/ →  → ? 
+- https://www.facebook.com/share/1DuDfcvQDK/ →  → ? 
+- https://www.facebook.com/share/1CJQYtKrpi/ →  → ? 
+- https://www.facebook.com/share/1U6tSHpUte/ →  → ? 
+- https://www.facebook.com/share/1cRToxVn3q/ →  → ? 
