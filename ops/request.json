@@ -1,1 +1,1 @@
-{"id": "cost-test-1", "cmd": "cost-test", "args": {"n": 10, "models": ["claude-sonnet-5-5", "claude-haiku-5-5"], "parallel": 4}}
+{"id": "resolve-1", "cmd": "resolve-links", "args": {"links": ["https://www.facebook.com/share/18bKY3CbuA/", "https://www.facebook.com/share/19mtceUzLT/", "https://www.facebook.com/share/1DuDfcvQDK/", "https://www.facebook.com/share/1CJQYtKrpi/", "https://www.facebook.com/share/1U6tSHpUte/", "https://www.facebook.com/share/1cRToxVn3q/"]}}
