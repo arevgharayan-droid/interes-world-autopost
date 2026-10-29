@@ -5,7 +5,9 @@
  },
  "outputs": {
   "122200243790922316": "2026-10-29T16:40:37+00:00",
-  "122219271314930012": "2026-10-29T16:40:33+00:00"
+  "122219271314930012": "2026-10-29T16:40:33+00:00",
+  "633031599904551_122219271314930012": "2026-10-29T17:25:54+00:00",
+  "715935674934966_122200243790922316": "2026-10-29T17:26:02+00:00"
  },
  "slots": {
   "2026-10-29 21:00": {
@@ -33,21 +35,25 @@
      "pages": {
       "633031599904551": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122219271314930012_1090885910382080",
        "error": null,
        "last_attempt": "2026-10-29T20:40:32+04:00",
        "mode": "schedule",
        "photo_id": "122219271314930012",
-       "post_id": null,
-       "status": "scheduled"
+       "post_id": "633031599904551_122219271314930012",
+       "status": "done"
       },
       "715935674934966": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122200243790922316_1131603329381259",
        "error": null,
        "last_attempt": "2026-10-29T20:40:34+04:00",
        "mode": "schedule",
        "photo_id": "122200243790922316",
-       "post_id": null,
-       "status": "scheduled"
+       "post_id": "715935674934966_122200243790922316",
+       "status": "done"
       }
      },
      "title": "Het driejarige dochtertje van mijn huishoudster nam stiekem mijn hand en leidde me naar boven, waar ik hoorde wat mijn verloofde haar moeder aandeed",
@@ -56,6 +62,7 @@
      ],
      "wp_error": null,
      "wp_id": 7171,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RU": {
@@ -79,7 +86,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-nl.jpg"
    },
    "source_key": "post:photo_122139981021225301",
-   "status": "in_progress"
+   "status": "done"
   }
  },
  "source_cutoff": "2026-10-29T16:39:48+00:00",
