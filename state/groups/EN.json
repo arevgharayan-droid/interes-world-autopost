@@ -282,30 +282,36 @@
       },
       "1165836896614851": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141135145384677_39613802598234981",
        "error": null,
        "last_attempt": "2026-10-30T00:17:01+04:00",
        "mode": "immediate",
        "photo_id": "122141135115384677",
        "post_id": "1165836896614851_122141135145384677",
-       "status": "published"
+       "status": "done"
       },
       "1167352663135230": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122143330653384760_1550881526761449",
        "error": null,
        "last_attempt": "2026-10-30T00:16:57+04:00",
        "mode": "immediate",
        "photo_id": "122143330629384760",
        "post_id": "1167352663135230_122143330653384760",
-       "status": "published"
+       "status": "done"
       },
       "1235940142932696": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116973019408404_2088011535175596",
        "error": null,
        "last_attempt": "2026-10-30T00:16:53+04:00",
        "mode": "immediate",
        "photo_id": "122116972995408404",
        "post_id": "1235940142932696_122116973019408404",
-       "status": "published"
+       "status": "done"
       },
       "162144310308183": {
        "attempts": 1,
@@ -345,15 +351,18 @@
       },
       "914823471720372": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122146756935209718_1059425200455978",
        "error": null,
        "last_attempt": "2026-10-30T00:17:04+04:00",
        "mode": "immediate",
        "photo_id": "122146756911209718",
        "post_id": "914823471720372_122146756935209718",
-       "status": "published"
+       "status": "done"
       },
       "921611111039858": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-10-30T00:17:08+04:00",
        "mode": "immediate",
@@ -377,6 +386,7 @@
      ],
      "wp_error": null,
      "wp_id": 7188,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "FR": {

@@ -204,48 +204,58 @@
      "pages": {
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138429048808945_3077577562593222",
        "error": null,
        "last_attempt": "2026-10-30T00:17:22+04:00",
        "mode": "immediate",
        "photo_id": "122138429024808945",
        "post_id": "1030877436782212_122138429048808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110878152456562_1445628257657409",
        "error": null,
        "last_attempt": "2026-10-30T00:17:08+04:00",
        "mode": "immediate",
        "photo_id": "122110878128456562",
        "post_id": "1064982806700854_122110878152456562",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122107579592506427_1476952037780000",
        "error": null,
        "last_attempt": "2026-10-30T00:17:03+04:00",
        "mode": "immediate",
        "photo_id": "122107579568506427",
        "post_id": "1079964265201139_122107579592506427",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138911064811401_1099579619564522",
        "error": null,
        "last_attempt": "2026-10-30T00:17:18+04:00",
        "mode": "immediate",
        "photo_id": "122138911040811401",
        "post_id": "1114015015119414_122138911064811401",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109116120543006_1149942861331942",
        "error": null,
        "last_attempt": "2026-10-30T00:17:13+04:00",
        "mode": "immediate",
        "photo_id": "122109116096543006",
        "post_id": "1140835409106424_122109116120543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -272,12 +282,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112170036437662_2065304377475100",
        "error": null,
        "last_attempt": "2026-10-30T00:16:59+04:00",
        "mode": "immediate",
        "photo_id": "122112170012437662",
        "post_id": "997772916762884_122112170036437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Sono tornata da New York con tre giorni di anticipo e ho trovato nel nostro letto un neonato con la mia stessa voglia a forma di mezzaluna",
@@ -312,7 +323,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-it.jpg"
    },
    "source_key": "post:1011074408765807_122103466484536431",
-   "status": "prepared"
+   "status": "done"
   },
   "2026-10-30 12:00": {
    "langs": {},

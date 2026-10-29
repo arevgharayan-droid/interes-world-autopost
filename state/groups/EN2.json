@@ -272,12 +272,14 @@
       },
       "1060733217128705": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141983448777362_1792054821915746",
        "error": null,
        "last_attempt": "2026-10-30T00:16:59+04:00",
        "mode": "immediate",
        "photo_id": "122141983424777362",
        "post_id": "1060733217128705_122141983448777362",
-       "status": "published"
+       "status": "done"
       },
       "106713875762456": {
        "attempts": 1,
@@ -291,24 +293,28 @@
       "233545296514172": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122332525514241259_1290240276575712",
        "error": null,
        "last_attempt": "2026-10-30T00:16:46+04:00",
        "mode": "immediate",
        "photo_id": "122332525490241259",
        "post_id": "233545296514172_122332525514241259",
-       "status": "published"
+       "status": "done"
       },
       "530022363528890": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122174101904720509_1609123936780899",
        "error": null,
        "last_attempt": "2026-10-30T00:16:51+04:00",
        "mode": "immediate",
        "photo_id": "122174101880720509",
        "post_id": "530022363528890_122174101904720509",
-       "status": "published"
+       "status": "done"
       },
       "625664190627160": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-10-30T00:17:03+04:00",
        "mode": "immediate",
@@ -354,12 +360,14 @@
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136699884776189_3083132265358459",
        "error": null,
        "last_attempt": "2026-10-30T00:16:55+04:00",
        "mode": "immediate",
        "photo_id": "122136699860776189",
        "post_id": "994273113779575_122136699884776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "On Our Honeymoon, My Husband Handed Me Two Pills Every Night — Then I Overheard What He Planned for Midnight",
