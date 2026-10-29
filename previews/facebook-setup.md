@@ -1,6 +1,6 @@
 ## Подключение Facebook
 
-✅ Получены токены страниц: **52 из 53**
+✅ Получены токены страниц: **44 из 45**
 Срок действия токенов страниц: бессрочно
 Разрешения: pages_show_list, business_management, pages_read_engagement, pages_read_user_content, pages_manage_posts, pages_manage_engagement, public_profile
 ❌ Нет доступа к страницам (добавьте их в портфолио Interes World и назначьте системному пользователю autopost): Amazing
