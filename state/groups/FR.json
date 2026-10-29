@@ -171,21 +171,24 @@
       "1032441206625600": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122116364462633539_2030023917710866",
        "error": null,
        "last_attempt": "2026-10-30T00:17:02+04:00",
        "mode": "immediate",
        "photo_id": "122116364432633539",
        "post_id": "1032441206625600_122116364462633539",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108517146457428_1650962793071554",
        "error": null,
        "last_attempt": "2026-10-30T00:17:05+04:00",
        "mode": "immediate",
        "photo_id": "122108517122457428",
        "post_id": "1058598924006917_122108517146457428",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -268,7 +271,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-fr.jpg"
    },
    "source_key": "post:1011074408765807_122102939498536431",
-   "status": "prepared"
+   "status": "done"
   },
   "2026-10-30 12:00": {
    "langs": {},
