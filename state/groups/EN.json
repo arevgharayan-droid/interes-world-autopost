@@ -260,6 +260,7 @@
      "pages": {
       "1016419758218222": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-10-30T00:17:12+04:00",
        "mode": "immediate",
@@ -363,12 +364,13 @@
       "921611111039858": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122142458217200344_1467660585307004",
        "error": null,
        "last_attempt": "2026-10-30T00:17:08+04:00",
        "mode": "immediate",
        "photo_id": "122142458193200344",
        "post_id": "921611111039858_122142458217200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
