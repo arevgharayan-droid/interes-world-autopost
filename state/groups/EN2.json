@@ -448,6 +448,12 @@
        "photo_id": "122332526648241259",
        "post_id": null,
        "status": "scheduled"
+      },
+      "530022363528890": {
+       "attempts": 1,
+       "last_attempt": "2026-10-30T00:24:52+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "My Ex Called Me \"Trash\" at His Wedding, Then Our 10-Year-Old Son Handed Him a Box That Silenced the Room",
