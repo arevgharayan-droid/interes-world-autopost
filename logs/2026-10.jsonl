@@ -64,3 +64,6 @@
 {"slot": "2026-10-25 15:00", "lang": "TR", "page": "1164575726728296", "action": "fb_schedule", "photo_id": "122124438687307134", "post_id": null, "t": "2026-10-25T09:48:20+00:00"}
 {"slot": "2026-10-25 15:00", "lang": "DE", "page": "363312640206172", "action": "fb_schedule", "photo_id": "122201052578461850", "post_id": null, "t": "2026-10-25T09:48:23+00:00"}
 {"slot": "2026-10-25 15:00", "lang": "DE", "page": "444776585382502", "action": "fb_schedule", "photo_id": "122225906090543856", "post_id": null, "t": "2026-10-25T09:48:25+00:00"}
+{"slot": "2026-10-29 21:00", "action": "wp_media", "id": 7162, "t": "2026-10-29T16:35:39+00:00", "group": "FR"}
+{"slot": "2026-10-29 21:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 376 слов (исходник 450, цель ±10%)"], "t": "2026-10-29T16:36:05+00:00", "group": "FR"}
+{"slot": "2026-10-29 21:00", "lang": "FR", "action": "wp_post", "id": 7163, "status": "future", "t": "2026-10-29T16:36:06+00:00", "group": "FR"}
