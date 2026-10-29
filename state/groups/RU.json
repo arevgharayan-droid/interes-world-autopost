@@ -64,12 +64,13 @@
       "988042774402200": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122133057194733774_1513764683923090",
        "error": null,
        "last_attempt": "2026-10-29T20:41:32+04:00",
        "mode": "schedule",
        "photo_id": "122133057194733774",
        "post_id": "988042774402200_122133057194733774",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Я вернулась из Багдада, а мой Mercedes за 154 200 долларов уже стоял у дома родителей. Через семь минут ФБР перекрыло улицу",
@@ -98,7 +99,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-ru.jpg"
    },
    "source_key": "post:photo_122140150959225301",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-10-30 00:00": {
    "langs": {},
