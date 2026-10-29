@@ -3,7 +3,11 @@
  "output_fps": {
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00"
  },
- "outputs": {},
+ "outputs": {
+  "122117186594640467": "2026-10-29T16:41:31+00:00",
+  "122133057194733774": "2026-10-29T16:41:34+00:00",
+  "122137872200737651": "2026-10-29T16:41:37+00:00"
+ },
  "slots": {
   "2026-10-29 21:00": {
    "langs": {
@@ -31,7 +35,35 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1008693642337213": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:41:29+04:00",
+       "mode": "schedule",
+       "photo_id": "122117186594640467",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "1125676667286378": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:41:35+04:00",
+       "mode": "schedule",
+       "photo_id": "122137872200737651",
+       "post_id": null,
+       "status": "scheduled"
+      },
+      "988042774402200": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-10-29T20:41:32+04:00",
+       "mode": "schedule",
+       "photo_id": "122133057194733774",
+       "post_id": null,
+       "status": "scheduled"
+      }
+     },
      "title": "Я вернулась из Багдада, а мой Mercedes за 154 200 долларов уже стоял у дома родителей. Через семь минут ФБР перекрыло улицу",
      "warnings": [
       "длина текста FB 609 слов (исходник 850, цель ±10%)"
@@ -57,7 +89,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-ru.jpg"
    },
    "source_key": "post:photo_122140150959225301",
-   "status": "prepared"
+   "status": "in_progress"
   }
  },
  "source_cutoff": "2026-10-29T16:40:38+00:00",

@@ -122,3 +122,6 @@
 {"slot": "2026-10-29 21:00", "action": "wp_media", "id": 7172, "t": "2026-10-29T16:40:41+00:00", "group": "RU"}
 {"slot": "2026-10-29 21:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 609 слов (исходник 850, цель ±10%)"], "t": "2026-10-29T16:41:26+00:00", "group": "RU"}
 {"slot": "2026-10-29 21:00", "lang": "RU", "action": "wp_post", "id": 7173, "status": "future", "t": "2026-10-29T16:41:27+00:00", "group": "RU"}
+{"slot": "2026-10-29 21:00", "lang": "RU", "page": "1008693642337213", "action": "fb_schedule", "photo_id": "122117186594640467", "post_id": null, "t": "2026-10-29T16:41:31+00:00", "group": "RU"}
+{"slot": "2026-10-29 21:00", "lang": "RU", "page": "988042774402200", "action": "fb_schedule", "photo_id": "122133057194733774", "post_id": null, "t": "2026-10-29T16:41:34+00:00", "group": "RU"}
+{"slot": "2026-10-29 21:00", "lang": "RU", "page": "1125676667286378", "action": "fb_schedule", "photo_id": "122137872200737651", "post_id": null, "t": "2026-10-29T16:41:37+00:00", "group": "RU"}
