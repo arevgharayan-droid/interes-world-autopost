@@ -84,7 +84,7 @@ class Pipeline:
         self.ahead = timedelta(minutes=int(t.get("prepare_ahead_minutes", 200)))
         self.min_lead = timedelta(minutes=int(t.get("min_schedule_lead_minutes", 15)))
         self.late = timedelta(minutes=int(t.get("late_publish_window_minutes", 90)))
-        self.final_after = self.late + timedelta(hours=2)
+        self.final_after = self.late + timedelta(hours=8)  # комментарии повторяются до 12 ч после выпуска
 
     # ------------------------------------------------------------------ helpers
     def now(self) -> datetime:
@@ -281,7 +281,8 @@ class Pipeline:
                 L["skipped"] = "нет подключённых страниц"
                 for page in self.cfg.pages_for(lang):
                     L["pages"][page.page_id] = {"status": "no_access", "attempts": 0}
-                self.r.info(f"{key} {lang}: страницы этого языка пока не подключены — язык пропущен")
+                if self.cfg.pages_for(lang):  # о языках, которых в группе нет вовсе, не сообщаем
+                    self.r.info(f"{key} {lang}: страницы этого языка пока не подключены — язык пропущен")
         active = [lg for lg in LANG_ORDER if not s["langs"][lg].get("skipped")]
         if not active:
             self.r.error(f"{key}: ни одна страница не подключена — нечего публиковать", final=True)

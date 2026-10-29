@@ -369,18 +369,36 @@ def cmd_tick(cfg, args) -> int:
                 st.save()
         summary("## Автопостинг\n\nРасписание выключено (`schedule_enabled: false`).\n")
         return 0
-    graph, wp, http = real_services(cfg)
     try:
         tokens = load_tokens(cfg)
     except TokenError as e:
         summary(f"## Автопостинг\n\n❌ {e}\n")
         return 1
-    md, final = ["## Автопостинг по группам", ""], 0
-    for g, st in states.items():
+    import threading
+    lock = threading.Lock()
+
+    def checkpoint():  # сохранения в репозиторий — по одному, группы работают параллельно
+        with lock:
+            _checkpoint()
+
+    def run_group(g):
         gcfg = config_mod.group_view(cfg, g)
-        rep = Pipeline(gcfg, st, graph, wp, Generator(gcfg), tokens, http=http, checkpoint=_checkpoint).tick()
+        g_graph, g_wp, g_http = real_services(cfg)  # своё соединение у каждой группы
+        try:
+            rep = Pipeline(gcfg, states[g], g_graph, g_wp, Generator(gcfg), tokens, http=g_http,
+                           checkpoint=checkpoint).tick()
+        except Exception as e:  # noqa: BLE001 — сбой одной группы не останавливает остальные
+            rep = Report()
+            rep.error(f"группа {cfg.group_label(g)}: непредвиденная ошибка {type(e).__name__}: {e}", final=True)
+        return g, rep
+
+    with ThreadPoolExecutor(max_workers=len(states) or 1) as pool:
+        results = list(pool.map(run_group, list(states)))
+    md, final = ["## Автопостинг по группам", ""], 0
+    for g, rep in results:
         final += len(rep.final_errors)
-        md.append(rep.markdown(title=f"{cfg.group_label(g)} · {len(gcfg.pages)} стр.").replace("## ", "### ", 1))
+        md.append(rep.markdown(title=f"{cfg.group_label(g)} · {len(config_mod.group_view(cfg, g).pages)} стр.")
+                  .replace("## ", "### ", 1))
     summary("\n".join(md))
     return 1 if final else 0
 

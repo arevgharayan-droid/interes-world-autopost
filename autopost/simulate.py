@@ -27,7 +27,7 @@ STORY = ("When Anna found an old letter hidden behind the kitchen cupboard, she 
          "and it told a story that nobody had ever dared to tell. ") * 4
 
 
-def run_simulation(cfg, days=2):
+def run_simulation(cfg, days=2, drop=0.0, seed=7):
     """Сухой прогон по группам: у каждой группы своя история в каждом выпуске (истории — поддельные посты)."""
     tmp = Path(tempfile.mkdtemp(prefix="autopost-sim-"))
     for d in ("config", "prompts"):
@@ -79,6 +79,10 @@ def run_simulation(cfg, days=2):
             offs = OFFSETS_MIN + (LAST_SLOT_EXTRA_MIN if s == last_slot_of_day(sim_cfg.slots) else ())
             ticks += [base + timedelta(minutes=o) for o in offs]
     ticks = sorted(set(ticks))
+    if drop:  # GitHub пропускает часть запусков по расписанию — имитируем
+        import random
+        rnd = random.Random(seed)
+        ticks = [t for t in ticks if rnd.random() >= drop] or ticks[:1]
     log = []
 
     def tick_all():
@@ -95,38 +99,44 @@ def run_simulation(cfg, days=2):
 
     # ---- проверки
     problems = []
+    end = start + timedelta(days=days)  # выпуски, подготовленные заранее за пределами периода, не проверяем
+    end_ts = end.timestamp()
     total_expected, slots_total, sources_all = 0, 0, []
     for g, (gcfg, st, _gen) in groups.items():
-        slots = st.slots
+        slots = {k: s for k, s in st.slots.items() if datetime.fromisoformat(s["slot_iso"]) < end}
         slots_total += len(slots)
         bad = {k: s.get("status") for k, s in slots.items() if s.get("status") != "done"}
-        if bad or len(slots) < days * len(sim_cfg.slots):
+        # выпуски, час которых наступил уже после первого запуска (раньше включения — не публикуются)
+        need = sum(1 for d in range(days) for x in sim_cfg.slots
+                   if (start + timedelta(days=d)).replace(hour=int(x[:2]), minute=int(x[3:])) >= ticks[0])
+        if bad or len(slots) < need:
             problems.append(f"{g}: слоты не завершены: {bad or len(slots)}")
         for s in slots.values():
             sources_all.append(s.get("source_key"))
             if s.get("source"):
                 total_expected += sum(1 for p in gcfg.pages if p.page_id != s["source"]["page_id"])
+    in_period = {pid: p for pid, p in graph.posts.items() if (p["scheduled_ts"] or p["created_ts"]) < end_ts}
     per_page_ts = Counter((p["page"], p["scheduled_ts"] or p["message"][:30]) for p in graph.posts.values())
     dups = [k for k, c in per_page_ts.items() if c > 1]
     if dups:
         problems.append(f"дубли постов: {dups[:3]}")
-    no_comment = [pid for pid, p in graph.posts.items() if len(graph.comments_by.get(pid, [])) != 1]
+    no_comment = [pid for pid in in_period if len(graph.comments_by.get(pid, [])) != 1]
     if no_comment:
         problems.append(f"постов без ровно одного комментария: {len(no_comment)}")
     if len(sources_all) != len(set(sources_all)):
         problems.append("одна история использована дважды")
-    if len(graph.posts) != total_expected:
-        problems.append(f"постов {len(graph.posts)}, ожидалось {total_expected}")
+    if len(in_period) != total_expected:
+        problems.append(f"постов {len(in_period)}, ожидалось {total_expected}")
     wp_pub = [p for p in wp.posts.values() if p["status"] == "publish"]
-    if len(wp_pub) != slots_total:
+    if len(wp_pub) < slots_total:
         problems.append(f"статей опубликовано {len(wp_pub)}, ожидалось {slots_total}")
-    if len(wp.media) != slots_total:
+    if len(wp.media) < slots_total:
         problems.append(f"фото в медиатеке {len(wp.media)}, ожидалось {slots_total} (у каждой группы своё)")
     links_ok = all(graph.comments_by[pid][0]["message"].startswith("https://interes-world.com/?p=")
                    for pid in graph.posts if graph.comments_by.get(pid))
     if not links_ok:
         problems.append("ссылка в комментарии не того формата")
-    on_time = sum(1 for p in graph.posts.values() if p["scheduled_ts"])
+    on_time = sum(1 for p in in_period.values() if p["scheduled_ts"])
     retried = sum(1 for _t, r in log for e in r.errors)
     finals = [e for _t, r in log for e in r.final_errors]
     if finals:
@@ -137,8 +147,8 @@ def run_simulation(cfg, days=2):
           f"групп: {len(groups)} ({', '.join(sim_cfg.group_label(g) for g in groups)}); "
           f"запусков: {len(ticks)} (каждый выполнен дважды для проверки дублей).", "",
           f"- Историй: **{slots_total}** (у каждой группы своя в каждом выпуске)",
-          f"- Постов в Facebook: **{len(graph.posts)}** (из них ушли в отложенные точно ко времени: {on_time})",
-          f"- Первых комментариев: **{sum(len(v) for v in graph.comments_by.values())}**",
+          f"- Постов в Facebook: **{len(in_period)}** (из них ушли в отложенные точно ко времени: {on_time})",
+          f"- Первых комментариев: **{sum(len(graph.comments_by.get(pid, [])) for pid in in_period)}**",
           f"- Статей WordPress: **{len(wp.posts)}** (опубликовано: {len(wp_pub)}), фото в медиатеке: {len(wp.media)}",
           f"- Внедрено сбоев: 4 (FB-пост, комментарий, обрыв связи после создания поста, ошибка WordPress) — "
           f"временных ошибок в журналах: {retried}, все повторены автоматически",
