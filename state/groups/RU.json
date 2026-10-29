@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:40:38+04:00",
  "output_fps": {
+  "0475676f7d35cf5ec822": "2026-10-29T20:24:32+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00"
  },
@@ -198,7 +199,46 @@
    "status": "done"
   },
   "2026-10-30 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Миллиардер нашёл новую горничную спящей в постели покойной жены — а потом она рассказала ему то, что его сыновья давно пытались сказать",
+     "warnings": [
+      "длина текста FB 257 слов (исходник 331, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 7199,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-30T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/797888839_122102285558536431_1644485858065433024_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=tK1ZUaRDTssQ7kNvwEYi4vx&_nc_oc=AdoMnoNtXZmuyrS_Y6HLVl4IaiKve0zJOYxbUMtlc6xJhwjLwXA3x8MlI4EAUcSkGC0&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=IAsLg2-TLeGneOnk2me0IA&_nc_tpa=Q5bMBQJ9Y4uFbh2m6-niEiM8CB6I0WDSPrnxE3y5w6V6FIZK3Mq7VNfvheQbCltuBxXyypS6Zl64dYK9gQ&oh=00_AQR_Bur2KBqNvizlFbxYP0xZxMUJ9GOkztZuYpi6Wyhd6w&oe=6AE996E4",
@@ -210,7 +250,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-ru.jpg"
    },
    "source_key": "post:1011074408765807_122102285582536431",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-30 15:00": {
    "langs": {},
@@ -241,7 +281,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122103055160536431": {
    "fingerprint": "052ae3ee1afe655e2342",

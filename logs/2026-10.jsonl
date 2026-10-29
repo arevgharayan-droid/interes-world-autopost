@@ -280,3 +280,5 @@
 {"slot": "2026-10-30 12:00", "action": "wp_media", "id": 7196, "t": "2026-10-29T20:24:02+00:00", "group": "NL"}
 {"slot": "2026-10-30 12:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-10-29T20:24:31+00:00", "group": "EN"}
 {"slot": "2026-10-30 12:00", "lang": "EN", "action": "wp_post", "id": 7198, "status": "future", "t": "2026-10-29T20:24:32+00:00", "group": "EN"}
+{"slot": "2026-10-30 12:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 257 слов (исходник 331, цель ±10%)"], "t": "2026-10-29T20:24:32+00:00", "group": "RU"}
+{"slot": "2026-10-30 12:00", "lang": "RU", "action": "wp_post", "id": 7199, "status": "future", "t": "2026-10-29T20:24:34+00:00", "group": "RU"}
