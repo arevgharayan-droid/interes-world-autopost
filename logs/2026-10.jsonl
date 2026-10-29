@@ -313,3 +313,6 @@
 {"slot": "2026-10-30 12:00", "lang": "NL", "page": "715935674934966", "action": "fb_schedule", "photo_id": "122200264514922316", "post_id": null, "t": "2026-10-29T20:24:47+00:00", "group": "NL"}
 {"slot": "2026-10-30 12:00", "lang": "FR", "page": "1032441206625600", "action": "fb_schedule", "photo_id": "122116364894633539", "post_id": null, "t": "2026-10-29T20:24:48+00:00", "group": "FR"}
 {"slot": "2026-10-30 12:00", "lang": "EN", "action": "wp_post", "id": 7203, "status": "future", "t": "2026-10-29T20:24:48+00:00", "group": "EN2"}
+{"slot": "2026-10-30 12:00", "lang": "EN", "page": "220697507802568", "action": "fb_schedule", "photo_id": "122338955396237583", "post_id": null, "t": "2026-10-29T20:24:49+00:00", "group": "EN"}
+{"slot": "2026-10-30 12:00", "lang": "FR", "page": "1058598924006917", "action": "fb_schedule", "photo_id": "122108517422457428", "post_id": null, "t": "2026-10-29T20:24:49+00:00", "group": "FR"}
+{"slot": "2026-10-30 12:00", "lang": "IT", "page": "1140835409106424", "action": "fb_schedule", "photo_id": "122109116702543006", "post_id": null, "t": "2026-10-29T20:24:49+00:00", "group": "IT"}
