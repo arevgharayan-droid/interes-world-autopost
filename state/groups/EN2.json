@@ -442,7 +442,10 @@
      "title": "My Ex Called Me \"Trash\" at His Wedding, Then Our 10-Year-Old Son Handed Him a Box That Silenced the Room",
      "warnings": [
       "длина статьи 979 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 7203,
+     "wp_status": "future"
     },
     "FR": {
      "pages": {},
@@ -465,6 +468,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-10-30T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/793869187_122102295512536431_5321854517180484061_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=c0VGRm0r5O4Q7kNvwEjtlZM&_nc_oc=AdpI9_q6ydfDNs6iZ6CfJltmHxpv_MCmW76sEIJF4GyHLz9met74S0uhyTtyM1HWzUw&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AJfPMC4EAAAA&_nc_gid=7n6CyBGqtq64uMVmetS-Qw&_nc_tpa=Q5bMBQJQYqldMPXU1Lc_lCXbN_BIl3Sg8g1k8zf3dK_GE-Bw3Izm_lS2GexBykwnEW71AD8d_aj5icAoKQ&oh=00_AQQ_BkMwDaXdlCFk5FvLhG16XWrdyg8qIz82Priifb5yEw&oe=6AE9771B",
@@ -476,7 +480,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-en2.jpg"
    },
    "source_key": "post:1011074408765807_122102295536536431",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-30 15:00": {
    "langs": {},
@@ -507,7 +511,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122103893384536431": {
    "fingerprint": "e20d7b58c4cce1502705",
