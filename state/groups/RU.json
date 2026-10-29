@@ -132,13 +132,17 @@
      "title": "Мама заперла меня в комнате, когда лучший друг ждал у двери в костюме, и сказала, что я должна узнать правду",
      "warnings": [
       "длина текста FB 357 слов (исходник 469, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 7190,
+     "wp_status": "publish"
     },
     "TR": {
      "pages": {},
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-10-30T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/825329765_122103055136536431_1752439152717155625_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Cr46nHIRFS4Q7kNvwEkwaLH&_nc_oc=AdrXJ1dCw5deGfnFZbF3AmkohVhZv1aBxILB4Y755QclCg-QYgYiZMFlXp7YvVRnvTE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJfPMC4EAAAA&_nc_gid=l5hEF8Upt_PJwvwYvYrbCQ&_nc_tpa=Q5bMBQKD62L-dpCEJuJ2nHHDZLtqSpki9wpXVAYd-PNXjWOzmH0mKV7KDyV_DpwXURvmF5QeIv3pXdXvMg&oh=00_AQSnXMAjmcPbOoXdpn6H3P5AqKN0i1xtqFAH6Be6DOwkTQ&oe=6AE98D07",
@@ -150,7 +154,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-ru.jpg"
    },
    "source_key": "post:1011074408765807_122103055160536431",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-30 12:00": {
    "langs": {},
@@ -186,7 +190,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140150959225301": {
    "fingerprint": "772a34aefdef827462f8",
