@@ -1,4 +1,4 @@
-# Очередь группы FR — 5 стр. (French): Au Cœur des Vies, Le Fil de la Vie, Destins Touchants, Larmes de Vie, La Vie Telle Qu’elle Est
+# Очередь группы FR — 6 стр. (French): Au Cœur des Vies, Le Fil de la Vie, Destins Touchants, Larmes de Vie, La Vie Telle Qu’elle Est, Moments Français | Paris
 # Одна ссылка на строку, сверху вниз — по одной истории на каждый выпуск (12:00, 15:00, 18:00, 21:00, 00:00).
 # Ссылки сюда добавляет Claude, когда вы присылаете их в чат. Уже опубликованные повторно не берутся.
 # 29.10 от вас: https://www.facebook.com/share/p/19EJwbwXJC/ (Vies en Silence)

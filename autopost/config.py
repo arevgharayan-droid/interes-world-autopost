@@ -13,7 +13,8 @@ LANG_ORDER = ["FR", "IT", "EN", "NL", "RU", "TR", "DE"]
 LANG_NAMES = {"FR": "French", "IT": "Italian", "EN": "English", "NL": "Dutch",
               "RU": "Russian", "TR": "Turkish", "DE": "German"}
 # Страницы, перенесённые из Make (у них есть make_post_module), — проверка точного переноса.
-EXPECTED_COUNTS = {"FR": 7, "IT": 9, "EN": 16, "NL": 2}
+# (Moments Français | Paris в Make стояла среди IT; 29.10.2026 владелец уточнила — это французская страница)
+EXPECTED_COUNTS = {"FR": 8, "IT": 8, "EN": 16, "NL": 2}
 
 
 class ConfigError(Exception):
@@ -130,21 +131,23 @@ def load(root: str | Path | None = None) -> Config:
     settings = yaml.safe_load((root / "config/settings.yaml").read_text(encoding="utf-8")) or {}
     pages_doc = yaml.safe_load((root / "config/pages.yaml").read_text(encoding="utf-8")) or {}
 
-    languages = {}
+    languages = {lg: {"name": LANG_NAMES[lg], "pages": []} for lg in LANG_ORDER}
     all_pages, every_page = [], []
     for lang in LANG_ORDER:
         block = (pages_doc.get("languages") or {}).get(lang) or {"name": LANG_NAMES[lang], "pages": []}
-        plist = []
+        languages[lang]["name"] = block.get("name", LANG_NAMES[lang])
         for item in block.get("pages") or []:
-            p = Page(page_id=str(item["page_id"]), name=str(item["name"]), lang=lang,
+            real = str(item.get("lang") or lang)   # lang: FR — язык страницы исправлен (в Make был другой)
+            if real not in languages:
+                raise ConfigError(f"pages.yaml: неизвестный язык {real} у страницы {item.get('name')}")
+            p = Page(page_id=str(item["page_id"]), name=str(item["name"]), lang=real,
                      profile_id=str(item.get("profile_id") or ""), from_make=bool(item.get("make_post_module")),
-                     disabled=bool(item.get("disabled")), group=str(item.get("group") or lang))
+                     disabled=bool(item.get("disabled")), group=str(item.get("group") or real))
             every_page.append(p)
             if p.disabled:
                 continue
-            plist.append(p)
+            languages[real]["pages"].append(p)
             all_pages.append(p)
-        languages[lang] = {"name": block.get("name", lang), "pages": plist}
 
     ids = [p.page_id for p in every_page]
     if len(ids) != len(set(ids)):

@@ -31,7 +31,7 @@ MAKE_PAGES = [
     ("IT", "1142735408923607", "Quand Tout Bascule"), ("IT", "1160223747182678", "Vite in Primo Piano"),
     ("IT", "997772916762884", "Storie Vere | Lion"), ("IT", "1079964265201139", "Voci di Vita | Paris"),
     ("IT", "1064982806700854", "Racconti Quotidiani | Monaco"), ("IT", "1140835409106424", "Vita Virale | Paris"),
-    ("IT", "1058598924006917", "Moments Français | Paris"), ("IT", "1114015015119414", "Frammenti di Vita"),
+    ("FR", "1058598924006917", "Moments Français | Paris"), ("IT", "1114015015119414", "Frammenti di Vita"),
     ("IT", "1030877436782212", "Una Storia che Ti Toccherà"),
     ("EN", "1235940142932696", "The Daily Report"), ("EN", "1167352663135230", "Human Life Stories"),
     ("EN", "1165836896614851", "Behind Her Smile"), ("EN", "914823471720372", "Life’s Echo"),

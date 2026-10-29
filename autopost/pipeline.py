@@ -589,7 +589,8 @@ class Pipeline:
         s = self.state.slots.get(key)
         if not s or not s.get("prepared"):
             return
-        statuses = [e["status"] for L in s["langs"].values() for e in L.get("pages", {}).values()]
+        current = {p.page_id for p in self.cfg.pages}   # страницы, перенесённые в другую группу, не ждём
+        statuses = [e["status"] for L in s["langs"].values() for pid, e in L.get("pages", {}).items() if pid in current]
         expected = sum(len(self.cfg.pages_for(lg)) for lg in LANG_ORDER)
         if len(statuses) == expected and all(x in OK_PAGE for x in statuses):
             s["status"] = "done"

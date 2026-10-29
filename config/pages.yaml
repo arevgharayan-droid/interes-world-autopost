@@ -25,7 +25,7 @@ languages:
       - {page_id: "1079964265201139", name: "Voci di Vita | Paris", profile_id: "61565192828569", make_post_module: 206}
       - {page_id: "1064982806700854", name: "Racconti Quotidiani | Monaco", profile_id: "61563696872359", make_post_module: 208}
       - {page_id: "1140835409106424", name: "Vita Virale | Paris", profile_id: "61566290205912", make_post_module: 210}
-      - {page_id: "1058598924006917", name: "Moments Français | Paris", profile_id: "61563722852853", make_post_module: 212}
+      - {page_id: "1058598924006917", name: "Moments Français | Paris", profile_id: "61563722852853", make_post_module: 212, lang: FR}  # французская страница (в Make стояла среди IT), исправлено 29.10.2026
       - {page_id: "1114015015119414", name: "Frammenti di Vita", profile_id: "61574342054808", make_post_module: 214}
       - {page_id: "1030877436782212", name: "Una Storia che Ti Toccherà", profile_id: "61574268372445", make_post_module: 216}
   EN:
