@@ -8,6 +8,7 @@
  "outputs": {
   "122200243790922316": "2026-10-29T16:40:37+00:00",
   "122200263728922316": "2026-10-29T20:17:14+00:00",
+  "122200264514922316": "2026-10-29T20:24:47+00:00",
   "122219271314930012": "2026-10-29T16:40:33+00:00",
   "122219308010930012": "2026-10-29T20:17:11+00:00",
   "122219308814930012": "2026-10-29T20:24:45+00:00",
@@ -205,9 +206,12 @@
       },
       "715935674934966": {
        "attempts": 1,
+       "error": null,
        "last_attempt": "2026-10-30T00:24:45+04:00",
        "mode": "schedule",
-       "status": "sending"
+       "photo_id": "122200264514922316",
+       "post_id": null,
+       "status": "scheduled"
       }
      },
      "title": "Iedereen lachte om de jonge moeder met baby op het podium, tot de rector het woord nam en het doodstil werd",
@@ -237,7 +241,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-nl.jpg"
    },
    "source_key": "post:1011074408765807_122101695644536431",
-   "status": "prepared"
+   "status": "in_progress"
   },
   "2026-10-30 15:00": {
    "langs": {},

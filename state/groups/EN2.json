@@ -2,6 +2,7 @@
  "enabled_since": "2026-10-29T20:38:32+04:00",
  "output_fps": {
   "aa74c11de94c64604d06": "2026-10-29T20:16:43+00:00",
+  "ab2684370021c4a303d7": "2026-10-29T20:24:47+00:00",
   "c6ff1bb9f576c96fb9ec": "2026-10-29T16:39:11+00:00"
  },
  "outputs": {
@@ -428,7 +429,42 @@
    "status": "done"
   },
   "2026-10-30 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Ex Called Me \"Trash\" at His Wedding, Then Our 10-Year-Old Son Handed Him a Box That Silenced the Room",
+     "warnings": [
+      "длина статьи 979 слов"
+     ]
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-10-30T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/793869187_122102295512536431_5321854517180484061_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=c0VGRm0r5O4Q7kNvwEjtlZM&_nc_oc=AdpI9_q6ydfDNs6iZ6CfJltmHxpv_MCmW76sEIJF4GyHLz9met74S0uhyTtyM1HWzUw&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=AJfPMC4EAAAA&_nc_gid=7n6CyBGqtq64uMVmetS-Qw&_nc_tpa=Q5bMBQJQYqldMPXU1Lc_lCXbN_BIl3Sg8g1k8zf3dK_GE-Bw3Izm_lS2GexBykwnEW71AD8d_aj5icAoKQ&oh=00_AQQ_BkMwDaXdlCFk5FvLhG16XWrdyg8qIz82Priifb5yEw&oe=6AE9771B",
