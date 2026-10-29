@@ -295,3 +295,6 @@
 {"slot": "2026-10-30 12:00", "lang": "FR", "page": "1202025962997153", "action": "fb_schedule", "photo_id": "122119710057409328", "post_id": null, "t": "2026-10-29T20:24:40+00:00", "group": "FR"}
 {"slot": "2026-10-30 12:00", "lang": "EN", "page": "914823471720372", "action": "fb_schedule", "photo_id": "122146757565209718", "post_id": null, "t": "2026-10-29T20:24:40+00:00", "group": "EN"}
 {"slot": "2026-10-30 12:00", "lang": "RU", "page": "1125676667286378", "action": "fb_schedule", "photo_id": "122137894034737651", "post_id": null, "t": "2026-10-29T20:24:40+00:00", "group": "RU"}
+{"slot": "2026-10-30 12:00", "lang": "NL", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-10-29T20:24:41+00:00", "group": "NL"}
+{"slot": "2026-10-30 12:00", "lang": "IT", "page": "1160223747182678", "action": "fb_schedule", "photo_id": "122132843673400586", "post_id": null, "t": "2026-10-29T20:24:41+00:00", "group": "IT"}
+{"slot": "2026-10-30 12:00", "lang": "NL", "action": "wp_post", "id": 7202, "status": "future", "t": "2026-10-29T20:24:42+00:00", "group": "NL"}

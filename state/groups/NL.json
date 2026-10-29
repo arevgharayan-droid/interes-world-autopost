@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:39:48+04:00",
  "output_fps": {
+  "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
   "fbd1653b854ac7bf06ab": "2026-10-29T16:40:27+00:00"
  },
@@ -170,7 +171,44 @@
    "status": "done"
   },
   "2026-10-30 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Iedereen lachte om de jonge moeder met baby op het podium, tot de rector het woord nam en het doodstil werd",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7202,
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-30T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/780472060_122101695620536431_2069304066720149855_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LwLYsJA91ewQ7kNvwEyicnm&_nc_oc=AdoqQE72oc9K_1NIi2BbAeOcots9E0my5aGT_pJM6R9X0fNWC_K2zrhYY_qBsbjMf9A&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=-7FpBSbnZNBxyMm7CzmDWA&_nc_tpa=Q5bMBQLvfXhN8aXbKAQTizER27tzvWTxfALkvtIHwoY9qXyeQKZzQvwcOHgiX3B078MIlDMN8_AkgnddBw&oh=00_AQSy04KF2gsclHKDXqwmxMLifIMB9tmWfcfx4lIBYqZvCg&oe=6AE96D03",
@@ -182,7 +220,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-nl.jpg"
    },
    "source_key": "post:1011074408765807_122101695644536431",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-30 15:00": {
    "langs": {},
@@ -213,7 +251,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122103003182536431": {
    "fingerprint": "80546eea3d91b0db3ed2",
