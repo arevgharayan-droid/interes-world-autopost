@@ -18,7 +18,8 @@
   "122132806521400586": "2026-10-29T16:37:04+00:00",
   "122135617713311525": "2026-10-29T16:37:01+00:00",
   "122138399762808945": "2026-10-29T16:37:22+00:00",
-  "122138892242811401": "2026-10-29T16:37:19+00:00"
+  "122138892242811401": "2026-10-29T16:37:19+00:00",
+  "997772916762884_122112163898437662": "2026-10-29T17:26:23+00:00"
  },
  "slots": {
   "2026-10-29 21:00": {
@@ -119,12 +120,13 @@
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-10-29T20:37:04+04:00",
        "mode": "schedule",
        "photo_id": "122112163898437662",
-       "post_id": null,
-       "status": "scheduled"
+       "post_id": "997772916762884_122112163898437662",
+       "status": "published"
       }
      },
      "title": "Ho finto un viaggio a Ginevra per scoprire cosa faceva la tata ai miei gemelli, ma quello che ho sentito nel salotto mi ha gelato il sangue",
