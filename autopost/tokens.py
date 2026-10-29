@@ -61,8 +61,13 @@ def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token: str) ->
     pages = graph.my_pages(long_user)
     by_id = {p["id"]: p for p in pages}
     tokens, missing, no_rights, ok = {}, [], [], []
-    for page in cfg.pages:
+    for page in cfg.all_pages:
         got = by_id.get(page.page_id)
+        if page.disabled:
+            # публикации на неё нет, но токен храним: через неё читаются ссылки на чужие посты (как в Make)
+            if got:
+                tokens[page.page_id] = got["access_token"]
+            continue
         if not got:
             missing.append(page)
             continue
@@ -86,6 +91,6 @@ def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token: str) ->
             "pages": len(tokens), "expires_at": expires}
     if tokens:
         save_tokens(cfg, app_secret, tokens, meta)
-    extra = sorted(set(by_id) - {p.page_id for p in cfg.pages})
+    extra = sorted(set(by_id) - {p.page_id for p in cfg.all_pages})
     return {"ok": ok, "missing": missing, "no_rights": no_rights, "expires_at": expires,
             "scopes": scopes, "extra_pages": [(i, by_id[i].get("name")) for i in extra]}
