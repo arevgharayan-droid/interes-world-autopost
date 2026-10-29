@@ -266,12 +266,13 @@
       "104114086037068": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "1025066077281771_1024433520700218",
        "error": null,
        "last_attempt": "2026-10-30T00:17:31+04:00",
        "mode": "immediate",
        "photo_id": "1025066047281774",
        "post_id": "104114086037068_1025066077281771",
-       "status": "published"
+       "status": "done"
       },
       "1060733217128705": {
        "attempts": 1,
@@ -424,7 +425,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-en2.jpg"
    },
    "source_key": "post:1011074408765807_122103893384536431",
-   "status": "prepared"
+   "status": "done"
   },
   "2026-10-30 12:00": {
    "langs": {},
