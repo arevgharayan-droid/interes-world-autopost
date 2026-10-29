@@ -237,7 +237,10 @@
      "title": "I Gave My Bed to My Drunk Mother-in-Law on My Wedding Night, and by Morning One Tiny Object Changed Everything",
      "warnings": [
       "длина статьи 951 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 7188,
+     "wp_status": "publish"
     },
     "FR": {
      "pages": {},
@@ -260,6 +263,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-10-30T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/837011893_122103458630536431_3307709990409486289_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9KzmZUiLhScQ7kNvwGhN5IJ&_nc_oc=AdqRaAiNLAGBL8XVIes2HIKRa-5K5YL6EaPvVwF0vjeBvMa8ojxW7TniZ-Yh6sg1yQ4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJfPMC4EAAAA&_nc_gid=e9DH-3m6HNJEGX-5x7daSQ&_nc_tpa=Q5bMBQKQQFw1cL9DqHIb1Wbbp_uDsYddFL6ZCyS3oZux1vcl7JuzViTtPRrLCeOHZFNUmQqXhlO7f93ZOw&oh=00_AQRLFwFf6sd_egJw0afzNbSXIqcRDi8A4yOixVB4XSVo6A&oe=6AE99155",
@@ -271,7 +275,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-en.jpg"
    },
    "source_key": "post:1011074408765807_122103458654536431",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-30 12:00": {
    "langs": {},
@@ -307,7 +311,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140250871225301": {
    "fingerprint": "46a98d9034c8d6fce365",

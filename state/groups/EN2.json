@@ -238,6 +238,12 @@
        "photo_id": "122332525490241259",
        "post_id": "233545296514172_122332525514241259",
        "status": "published"
+      },
+      "530022363528890": {
+       "attempts": 1,
+       "last_attempt": "2026-10-30T00:16:51+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "On Our Honeymoon, My Husband Handed Me Two Pills Every Night — Then I Overheard What He Planned for Midnight",
