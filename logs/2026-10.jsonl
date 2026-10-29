@@ -87,3 +87,15 @@
 {"slot": "2026-10-29 21:00", "action": "wp_media", "id": 7166, "t": "2026-10-29T16:37:27+00:00", "group": "EN"}
 {"slot": "2026-10-29 21:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": ["длина статьи 977 слов"], "t": "2026-10-29T16:37:54+00:00", "group": "EN"}
 {"slot": "2026-10-29 21:00", "lang": "EN", "action": "wp_post", "id": 7167, "status": "future", "t": "2026-10-29T16:37:55+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "1235940142932696", "action": "fb_schedule", "photo_id": "122116942569408404", "post_id": null, "t": "2026-10-29T16:37:59+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "1167352663135230", "action": "fb_schedule", "photo_id": "122143299195384760", "post_id": null, "t": "2026-10-29T16:38:03+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "1165836896614851", "action": "fb_schedule", "photo_id": "122141096703384677", "post_id": null, "t": "2026-10-29T16:38:06+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "914823471720372", "action": "fb_schedule", "photo_id": "122146743621209718", "post_id": null, "t": "2026-10-29T16:38:09+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "921611111039858", "action": "fb_schedule", "photo_id": "122142442641200344", "post_id": null, "t": "2026-10-29T16:38:12+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "1016419758218222", "action": "fb_schedule", "photo_id": "122145316869204972", "post_id": null, "t": "2026-10-29T16:38:14+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "975714512286925", "action": "fb_schedule", "photo_id": "122147700135209153", "post_id": null, "t": "2026-10-29T16:38:17+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "236129656261330", "action": "fb_schedule", "photo_id": "122228180510294596", "post_id": null, "t": "2026-10-29T16:38:20+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "220697507802568", "action": "fb_schedule", "photo_id": "122338922624237583", "post_id": null, "t": "2026-10-29T16:38:23+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "162144310308183", "action": "fb_schedule", "photo_id": "122260049666093350", "post_id": null, "t": "2026-10-29T16:38:25+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "108881571809093", "action": "fb_schedule", "photo_id": "1143092731731013", "post_id": null, "t": "2026-10-29T16:38:28+00:00", "group": "EN"}
+{"slot": "2026-10-29 21:00", "lang": "EN", "page": "237939756073256", "action": "fb_schedule", "photo_id": "122351439644234096", "post_id": null, "t": "2026-10-29T16:38:31+00:00", "group": "EN"}
