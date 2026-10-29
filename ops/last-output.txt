@@ -1,8 +1,23 @@
-## Очередь ссылок
+## Очереди ссылок по группам
 
-Ждут публикации: **3**, с ошибкой: **0**
+### FR (5 стр.) — ждут публикации: 3
+- ✅ чужая страница · 2951 знаков, фото есть · «Cinq ans après notre divorce, mon ex-mari richissime s’est retrouvé assis à côté de moi en première …»
+- ✅ чужая страница · 3347 знаков, фото есть · «J’ai donné mes 10 derniers dollars à un sans-abri en 1998. Des décennies plus tard, un avocat est en…»
+- ✅ чужая страница · 14007 знаков, фото есть · «Mon fils a pointé la porte d'entrée et m'a lancé : « Soit tu présentes tes excuses à Chloé tout de s…»
 
-- ✅ ждёт публикации · photo · 2951 знаков, фото есть · «Cinq ans après notre divorce, mon ex-mari richissime s’est retrouvé assis à côté de moi en première classe, af…»
-- ✅ ждёт публикации · photo · 3347 знаков, фото есть · «J’ai donné mes 10 derniers dollars à un sans-abri en 1998. Des décennies plus tard, un avocat est entré dans m…»
-- ✅ ждёт публикации · photo · 14007 знаков, фото есть · «Mon fils a pointé la porte d'entrée et m'a lancé : « Soit tu présentes tes excuses à Chloé tout de suite, soit…»
+### IT (9 стр.) — ждут публикации: 0
+- (очередь пуста)
+
+### EN-1 (13 стр.) — ждут публикации: 0
+- (очередь пуста)
+
+### EN-2 (12 стр.) — ждут публикации: 0
+- (очередь пуста)
+
+### NL (2 стр.) — ждут публикации: 0
+- (очередь пуста)
+
+### RU (3 стр.) — ждут публикации: 0
+- (очередь пуста)
+
 
