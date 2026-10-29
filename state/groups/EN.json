@@ -169,12 +169,13 @@
       "975714512286925": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122147700135209153_1907327070236669",
        "error": null,
        "last_attempt": "2026-10-29T20:38:15+04:00",
        "mode": "schedule",
        "photo_id": "122147700135209153",
        "post_id": "975714512286925_122147700135209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "A Billionaire Received an Anonymous Letter About the Ex-Wife He Threw Out Nine Years Ago, and What He Found in Kentucky Changed Everything",
@@ -219,7 +220,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-en.jpg"
    },
    "source_key": "post:photo_122140250871225301",
-   "status": "in_progress"
+   "status": "done"
   }
  },
  "source_cutoff": "2026-10-29T16:37:24+00:00",
