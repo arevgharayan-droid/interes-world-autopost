@@ -157,7 +157,10 @@
      "generated": true,
      "pages": {},
      "title": "Je suis rentré après dix ans pour offrir une vie paisible à mes parents, mais ce que j'ai trouvé dans leur couloir m'a glacé le sang",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7186,
+     "wp_status": "publish"
     },
     "IT": {
      "pages": {},
@@ -176,6 +179,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-10-30T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/820459012_122102939450536431_7997536166369427495_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GlJGn29TYiQQ7kNvwEFUb6g&_nc_oc=Adq8bsDW5XkVf7SKZMr9XCIQn70XuNnyILOhzB6NEO42AzNNFmjK-IRDN3krnzxI5zQ&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJfPMC4EAAAA&_nc_gid=qYrCWM-grgVHNufOgXHLfA&_nc_tpa=Q5bMBQIlWInKHTDglrlEcGfYox1rg5g2TZ_w4KxOJUSMQLlATuc34z0vYvc31eIP_5C_nGL1f40xE81wug&oh=00_AQQqjk3Ri0pIOC3yxmAPmR__6veDpiDn7gJlPIX5fZoPtg&oe=6AE971D5",
@@ -187,7 +191,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-fr.jpg"
    },
    "source_key": "post:1011074408765807_122102939498536431",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-30 12:00": {
    "langs": {},
@@ -223,7 +227,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140489347225301": {
    "fingerprint": "6170eddfbbcff3058ece",
