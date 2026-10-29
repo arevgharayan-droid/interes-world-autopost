@@ -91,12 +91,13 @@
       "1250374694822508": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122121540111415639_2565822107254556",
        "error": null,
        "last_attempt": "2026-10-29T20:36:10+04:00",
        "mode": "schedule",
        "photo_id": "122121540111415639",
        "post_id": "1250374694822508_122121540111415639",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Pendant sept ans, j'ai envoyé 40 000 dollars par an à mon gendre, jusqu'au jour où ma petite-fille de sept ans m'a murmuré : « Papy, arrête, et suis-le",
@@ -137,7 +138,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-fr.jpg"
    },
    "source_key": "post:photo_122140489347225301",
-   "status": "in_progress"
+   "status": "done"
   }
  },
  "source_cutoff": "2026-10-29T16:35:35+00:00",
