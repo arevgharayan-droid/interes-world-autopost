@@ -104,7 +104,17 @@
   "2026-10-30 00:00": {
    "langs": {},
    "slot_iso": "2026-10-30T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/825329765_122103055136536431_1752439152717155625_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Cr46nHIRFS4Q7kNvwEkwaLH&_nc_oc=AdrXJ1dCw5deGfnFZbF3AmkohVhZv1aBxILB4Y755QclCg-QYgYiZMFlXp7YvVRnvTE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJfPMC4EAAAA&_nc_gid=l5hEF8Upt_PJwvwYvYrbCQ&_nc_tpa=Q5bMBQKD62L-dpCEJuJ2nHHDZLtqSpki9wpXVAYd-PNXjWOzmH0mKV7KDyV_DpwXURvmF5QeIv3pXdXvMg&oh=00_AQSnXMAjmcPbOoXdpn6H3P5AqKN0i1xtqFAH6Be6DOwkTQ&oe=6AE98D07",
+    "link": "https://www.facebook.com/story.php?story_fbid=122103055160536431&id=61566092952750",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "À six ans, j’avais promis à mon meilleur ami Noah que nous irions ensemble au bal de fin d’année.\n\nDouze ans plus tard, alors qu’il m’attendait en costume devant notre porte, ma mère m’enferma dans ma chambre et déclara :\n\n— Tu peux partir avec lui, mais tu dois d’abord connaître la vérité.\n\nNoah et moi étions inséparables depuis le CP. Nous partagions deux passions : les dinosaures et notre haine absolue des raisins secs.\n\nNoah était porteur de trisomie 21, mais cela ne définissait jamais notre amitié. Pour moi, il était surtout le garçon capable de mémoriser des centaines de statistiques de baseball et de juger mes dessins avec une franchise impitoyable.\n\nUn jour, devant mon portrait d’un lion, il avait annoncé :\n\n— On dirait une pomme de terre avec des cheveux.\n\nJe m’étais vexée. Il avait ri jusqu’aux larmes, avant de me faire rire à mon tour.\n\nLorsque notre institutrice annonça son mariage, toute la classe se mit à parler de cérémonies. Noah affirma que son mariage aurait un immense gâteau au chocolat, mais aucune chanson lente.\n\nUn élève ricana :\n\n— Qui voudrait t’épouser, toi ?\n\nLe sourire de Noah disparut.\n\n— Quelqu’un aimera Noah, répondis-je aussitôt.\n\nIl me regarda timidement.\n\n— Toi ?\n\n— Peut-être. Mais avant, nous irons ensemble au bal quand nous serons grands.\n\nNous avions scellé cette promesse avec nos petits doigts. Moi, je l’avais presque oubliée. Lui, jamais.\n\nNoah resta à mes côtés pendant le divorce de mes parents, nos changements d’école et ma première rupture. Le soir où mon petit ami me quitta, il arriva avec deux pots de glace.\n\n— Je t’avais dit que c’était un idiot.\n\nJe pleurais encore, mais il réussit à me faire sourire.\n\nLe soir du bal, Noah se présenta dans un costume bleu nuit, un nœud papillon légèrement de travers et mon bracelet de fleurs entre les mains.\n\nIl était rayonnant.\n\nMa mère, en revanche, devint livide en le voyant.\n\nElle monta précipitamment, entra dans ma chambre et verrouilla la porte. Ses mains tremblaient.\n\n— Maman, qu’est-ce qui se passe ?\n\n— Tu te souviens de l’année où notre famille a failli s’effondrer ?\n\n— À peine. J’avais sept ans.\n\nElle prit mes mains tandis que la voix joyeuse de Noah montait du rez-de-chaussée.\n\n— Cette année-là, tu as disparu pendant plusieurs heures. Noah t’a retrouvée et m’a fait promettre de ne jamais te révéler ce qu’il avait vu.\n\nMon cœur se mit à battre violemment.\n\n— Qu’avait-il vu ?\n\nMa mère sortit d’un tiroir un vieux bracelet d’enfant, taché et déchiré.\n\n— La personne qui t’avait emmenée n’était pas une inconnue. Et Noah la connaissait parfaitement…\n\nRegardez la suite dans les commentaires👇\n\nSi tu es\narrivé jusqu’ici,\nécris « PROMESSE »",
+    "wp_media_id": 7183,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-ru.jpg"
+   },
+   "source_key": "post:1011074408765807_122103055160536431",
+   "status": "preparing"
   },
   "2026-10-30 12:00": {
    "langs": {},
@@ -134,6 +144,14 @@
  },
  "source_cutoff": "2026-10-29T16:40:38+00:00",
  "sources": {
+  "post:1011074408765807_122103055160536431": {
+   "fingerprint": "052ae3ee1afe655e2342",
+   "link": "https://www.facebook.com/story.php?story_fbid=122103055160536431&id=61566092952750",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-10-30 00:00",
+   "status": "reserved"
+  },
   "post:photo_122140150959225301": {
    "fingerprint": "772a34aefdef827462f8",
    "link": "https://www.facebook.com/photo/?fbid=122140150959225301&set=a.122127086457225301",

@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:38:32+04:00",
  "output_fps": {
+  "aa74c11de94c64604d06": "2026-10-29T20:16:43+00:00",
   "c6ff1bb9f576c96fb9ec": "2026-10-29T16:39:11+00:00"
  },
  "outputs": {
@@ -217,9 +218,56 @@
    "status": "done"
   },
   "2026-10-30 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "On Our Honeymoon, My Husband Handed Me Two Pills Every Night — Then I Overheard What He Planned for Midnight",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7187,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-30T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/853007186_122103893360536431_4134568098529848831_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qKIeg2U_K0AQ7kNvwHbFmg9&_nc_oc=Adr03BdExtWeZBPr4CCc1hf1T8docUzIkE3aIaqqKiS1tUpUbps8_vzz-8dljFwgLuU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJfPMC4EAAAA&_nc_gid=RFgTeCfHibTh7HiH3mfD4A&_nc_tpa=Q5bMBQJkBVJYLeRj7ZuPihw3WDqoOZQHG2XYS00ynhE_OXsKizEAhttAY7qTfVKNCPghm0_DS1ydetfEEg&oh=00_AQRugPT8bOH5lzohPZgL-Rc_VNL2KJ-185lWx1y_JYb8ww&oe=6AE96AE7",
+    "link": "https://www.facebook.com/story.php?story_fbid=122103893384536431&id=61566092952750",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "Mon mari me donnait des comprimés contre le mal de mer. Pendant notre lune de miel, j’ai découvert ce qu’il préparait pour minuit…👇\n\nAu troisième jour de notre voyage de noces, je n’avais presque plus la force de rester sur le pont.\n\nFlynn trouvait toujours les mots pour me rassurer. Les nausées, les vertiges, cette fatigue écrasante… D’après lui, tout venait du bateau. Le soir, il me tendait deux comprimés en promettant que je me sentirais bientôt mieux.\n\nJe les prenais sans hésiter.\n\nCe jour-là, je regagnais notre cabine lorsque sa voix est montée du pont inférieur.\n\n— Ce soir, on la passe par-dessus bord. Les trois cents millions seront à nous.\n\nMa main s’est crispée sur la rambarde.\n\nJ’ai attendu la suite, incapable de croire que mon mari venait de prononcer ces mots.\n\n— Elle n’aura plus assez de forces ? a demandé son père.\n\n— À minuit, elle tiendra à peine debout. Je lui proposerai de sortir prendre l’air. Une tempête arrive : sa chute passera pour un accident.\n\nPas une hésitation dans sa voix.\n\nDepuis trois jours, j’interprétais ses gestes comme de la tendresse. Maintenant, je repensais à chaque comprimé qu’il m’avait apporté.\n\nPuis j’ai reconnu la voix de Fiona, sa mère :\n\n— Et pour récupérer l’argent ?\n\n— Elle a signé tout ce qu’il fallait. Quand elle sera déclarée disparue en mer, je pourrai contrôler sa fortune.\n\nJ’ai fermé les yeux une seconde. Les documents. Sa patience pendant que je les signais. Ma confiance.\n\nJe pensais ne plus pouvoir entendre pire.\n\n— Après, il faudra s’occuper de ses parents, a-t-il ajouté.\n\nUn silence a suivi.\n\n— Leur séjour à la montagne est prévu la semaine prochaine. Tout est prêt pour un autre accident.\n\nJ’ai plaqué ma main sur ma bouche.\n\nMon père nous avait offert ce yacht. Ils buvaient son champagne, profitaient de son cadeau et préparaient la disparition de sa famille.\n\nJe me suis éloignée sans faire craquer une marche.\n\nImpossible de descendre les confronter. Impossible aussi d’appeler un membre d’équipage au hasard : je ne savais pas qui était au courant.\n\nIl fallait retourner dans la cabine, contenir ma panique et gagner quelques heures.\n\nMon téléphone captait encore faiblement.\n\nEn voyant le réseau, j’ai pensé à une personne. Une seule. Quelqu’un que Flynn n’avait jamais envisagé dans ses calculs.\n\nJ’ai ouvert sa fiche, puis regardé la porte.\n\nAvant minuit, il fallait que mon message lui parvienne. Et jusque-là, mon mari devait continuer à croire que je ne savais rien.\n\nLa suite vous attend dans les commentaires👇\n\nSi tu as lu\njusqu’ici,\nécris « ESPOIR ».",
+    "wp_media_id": 7180,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-en2.jpg"
+   },
+   "source_key": "post:1011074408765807_122103893384536431",
+   "status": "prepared"
   },
   "2026-10-30 12:00": {
    "langs": {},
@@ -249,6 +297,14 @@
  },
  "source_cutoff": "2026-10-29T16:38:32+00:00",
  "sources": {
+  "post:1011074408765807_122103893384536431": {
+   "fingerprint": "e20d7b58c4cce1502705",
+   "link": "https://www.facebook.com/story.php?story_fbid=122103893384536431&id=61566092952750",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-10-30 00:00",
+   "status": "used"
+  },
   "post:photo_122140194015225301": {
    "fingerprint": "a60aeab4d1856bf6dba7",
    "link": "https://www.facebook.com/photo/?fbid=122140194015225301&set=a.122127086457225301",
