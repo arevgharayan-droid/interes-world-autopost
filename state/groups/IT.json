@@ -441,12 +441,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112170342437662_1444064301192997",
        "error": null,
        "last_attempt": "2026-10-30T00:24:41+04:00",
        "mode": "schedule",
        "photo_id": "122112170342437662",
        "post_id": "997772916762884_122112170342437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi ha cacciata di casa durante le contrazioni, ma il giorno dopo una generale mi ha salutata davanti alla sua amante",
@@ -481,7 +482,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-it.jpg"
    },
    "source_key": "post:1011074408765807_122102718824536431",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-10-30 15:00": {
    "langs": {},
