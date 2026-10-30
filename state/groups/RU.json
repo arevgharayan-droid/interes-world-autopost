@@ -256,12 +256,13 @@
       "988042774402200": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122133075518733774_1687760436479285",
        "error": null,
        "last_attempt": "2026-10-30T00:24:37+04:00",
        "mode": "schedule",
        "photo_id": "122133075518733774",
        "post_id": "988042774402200_122133075518733774",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Миллиардер нашёл новую горничную спящей в постели покойной жены — а потом она рассказала ему то, что его сыновья давно пытались сказать",
@@ -290,7 +291,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-ru.jpg"
    },
    "source_key": "post:1011074408765807_122102285582536431",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-10-30 15:00": {
    "langs": {},
