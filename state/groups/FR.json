@@ -40,7 +40,8 @@
   "122123334981303172": "2026-10-29T20:17:01+00:00",
   "122123335521303172": "2026-10-29T20:24:45+00:00",
   "1250374694822508_122121540111415639": "2026-10-29T17:26:15+00:00",
-  "1250374694822508_122121558273415639": "2026-10-29T20:16:54+00:00"
+  "1250374694822508_122121558273415639": "2026-10-29T20:16:54+00:00",
+  "1250374694822508_122121558951415639": "2026-10-30T08:16:34+00:00"
  },
  "slots": {
   "2026-10-29 21:00": {
@@ -347,21 +348,24 @@
       "1202025962997153": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122119710057409328_1778118896799581",
        "error": null,
        "last_attempt": "2026-10-30T00:24:38+04:00",
        "mode": "schedule",
        "photo_id": "122119710057409328",
        "post_id": "1202025962997153_122119710057409328",
-       "status": "published"
+       "status": "done"
       },
       "1250374694822508": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121558951415639_2286788742106621",
        "error": null,
        "last_attempt": "2026-10-30T00:24:40+04:00",
        "mode": "schedule",
        "photo_id": "122121558951415639",
-       "post_id": null,
-       "status": "scheduled"
+       "post_id": "1250374694822508_122121558951415639",
+       "status": "done"
       }
      },
      "title": "Son mari l'a laissée faire la vaisselle pour aller au gala avec sa maîtresse, sans savoir à qui appartenait vraiment son entreprise",
@@ -400,7 +404,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-fr.jpg"
    },
    "source_key": "post:1011074408765807_122101879646536431",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-10-30 15:00": {
    "langs": {},
