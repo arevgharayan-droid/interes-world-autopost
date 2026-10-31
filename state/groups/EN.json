@@ -752,6 +752,7 @@
       },
       "1235940142932696": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-10-31T14:14:43+04:00",
        "mode": "immediate",
@@ -829,6 +830,7 @@
      ],
      "wp_error": null,
      "wp_id": 7216,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "FR": {
