@@ -685,7 +685,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-10-31T14:14:43+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "My Ex Called to Invite Me to His Wedding and Brag That His Fiancée Was Pregnant, Never Knowing I Was Holding His Newborn Daughter",
      "warnings": [
       "длина текста FB 982 слов (исходник 1230, цель ±10%)"

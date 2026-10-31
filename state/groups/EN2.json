@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:38:32+04:00",
  "output_fps": {
+  "96662a0e4435c54bf499": "2026-10-31T10:14:42+00:00",
   "aa74c11de94c64604d06": "2026-10-29T20:16:43+00:00",
   "ab2684370021c4a303d7": "2026-10-29T20:24:47+00:00",
   "c6ff1bb9f576c96fb9ec": "2026-10-29T16:39:11+00:00"
@@ -661,7 +662,46 @@
    "status": "missed"
   },
   "2026-10-31 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Family Said There Was No Room at Christmas Dinner for My 8-Year-Old Daughter, But Still Expected Me to Pay for Everything — Then an Accidental Voicemail Revealed Their Real Plan",
+     "warnings": [
+      "длина текста FB 1523 слов (исходник 2171, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 7217,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-31T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/852999766_1699155784936447_4043678409644902534_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KOVWiGJNhXsQ7kNvwErvsZj&_nc_oc=AdpUq-887jtZWLb2GUsyvdzeE_qQRV-rXN54xFix78LkTk3odiRYAQ54dWmRa_mtVx0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=SeH8x8dTlCqKpcR8-1EkTA&_nc_tpa=Q5bMBQJC5COxUJVoiVf7HicxOpW8q8ZMS4_4gFWri7wbOKwZZ3eyeNiCnqbY75jclgNVVYq5UhteDUwfQg&oh=00_AQTxmNM-thf0OoHVtrsUl_ESgo9Si973h2SOkTHajd880w&oe=6AEB7B73",
@@ -673,7 +713,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261031-1200-en2.jpg"
    },
    "source_key": "post:100045261260562_1699156498269709",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-31 15:00": {
    "langs": {},
@@ -709,7 +749,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-10-31 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122102295536536431": {
    "fingerprint": "abe1f9853a8335e60c0e",
