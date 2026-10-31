@@ -84,6 +84,9 @@ class Pipeline:
         self.ahead = timedelta(minutes=int(t.get("prepare_ahead_minutes", 200)))
         self.min_lead = timedelta(minutes=int(t.get("min_schedule_lead_minutes", 15)))
         self.late = timedelta(minutes=int(t.get("late_publish_window_minutes", 90)))
+        # новую историю в выпуск, час которого уже прошёл, берём только в первые N минут —
+        # иначе ссылка ждёт следующего выпуска (опоздание до late — только для уже взятой истории)
+        self.new_story_late = timedelta(minutes=int(t.get("new_story_late_minutes", 30)))
         self.final_after = self.late + timedelta(hours=8)  # комментарии повторяются до 12 ч после выпуска
 
     # ------------------------------------------------------------------ helpers
@@ -207,6 +210,9 @@ class Pipeline:
                 return
             if now > dt + self.late:
                 self.mark_missed(key, s)
+                return
+            if not s.get("source_key") and now > dt + self.new_story_late:
+                self.mark_missed(key, s)   # история для этого часа так и не пришла — ссылки ждут следующего выпуска
                 return
             if not self.prepare(dt, s):
                 return

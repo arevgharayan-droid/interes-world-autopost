@@ -445,3 +445,50 @@ class GroupQueueTests(unittest.TestCase):
         clock["now"] = clock["now"].replace(hour=11, minute=7)
         tick()
         self.assertEqual(len(graph.posts), expected)
+
+
+class LateLinkTests(unittest.TestCase):
+    def test_link_sent_after_release_goes_to_next_release(self):
+        """Выпуск 09:00 прошёл без истории; ссылка пришла в 09:45 — она идёт в 12:00, а не «догоняет» 09:00."""
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        g = "NL"
+        gcfg = group_view(cfg, g)
+        st = State(tmp / f"state/groups/{g}.json")
+        (tmp / "queue").mkdir(exist_ok=True)
+        q = tmp / "queue" / f"{g}.txt"
+        q.write_text("# пусто\n", encoding="utf-8")
+
+        def tick():
+            Pipeline(gcfg, st, graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+
+        tick()                                            # 06:07 — очередь пуста
+        pid = cfg.pages[0].page_id
+        graph.source_posts.setdefault(pid, []).append({
+            "id": f"{pid}_77", "message": STORY, "full_picture": "https://x/y.jpg",
+            "attachments": {"data": [{"media_type": "photo"}]}})
+        clock["now"] = clock["now"].replace(hour=9, minute=45)
+        q.write_text(f"{pid}_77\n", encoding="utf-8")    # ссылка пришла через 45 минут после 09:00
+        tick()
+        self.assertEqual(st.slots["2030-05-01 09:00"]["status"], "missed")
+        self.assertEqual(st.slots["2030-05-01 12:00"]["source_key"], f"post:{pid}_77")
+        self.assertTrue(all(p["scheduled_ts"] for p in graph.posts.values()))  # встали в отложенные на 12:00
+
+    def test_share_link_is_resolved_and_cached(self):
+        from unittest import mock
+        from autopost import sources
+        st = State(Path(tempfile.mkdtemp()) / "s.json")
+        with mock.patch.object(sources, "resolve_share_link",
+                               return_value={"story_fbid": "1698682471650445", "id": "100045261260562"}) as m:
+            url = sources.normalize_link("https://www.facebook.com/share/p/1CCVbeknM2/", st)
+            url2 = sources.normalize_link("https://www.facebook.com/share/p/1CCVbeknM2/", st)
+        self.assertEqual(url, "https://www.facebook.com/story.php?story_fbid=1698682471650445&id=100045261260562")
+        self.assertEqual(url, url2)
+        self.assertEqual(m.call_count, 1)           # второй раз — из сохранённого состояния
+        self.assertEqual(sources.normalize_link("https://www.facebook.com/x/posts/1", st),
+                         "https://www.facebook.com/x/posts/1")

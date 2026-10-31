@@ -58,6 +58,82 @@ def parse_link(link: str, profile_to_page: dict) -> dict:
     return {"raw_page": raw_page, "page_id": page_id, "part": part, "candidates": cands}
 
 
+def resolve_share_link(link: str) -> dict:
+    """facebook.com/share/… → {"url": полная ссылка, "story_fbid", "id", "title"} (без входа в Facebook).
+
+    Facebook отдаёт короткие ссылки своему сборщику предпросмотра (как при вставке ссылки в пост),
+    поэтому пробуем несколько вариантов «браузера»."""
+    import html as _html
+    import urllib.parse
+    agents = ["facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)",
+              "Twitterbot/1.0",
+              "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"]
+    found = {}
+    for ua in agents:
+        url = link
+        try:
+            for _ in range(6):
+                r = requests.get(url, headers={"User-Agent": ua, "Accept-Language": "en-US,en;q=0.8"},
+                                 allow_redirects=False, timeout=25)
+                loc = r.headers.get("Location") or ""
+                if loc:
+                    if loc.startswith("/"):
+                        loc = "https://www.facebook.com" + loc
+                    q = urllib.parse.parse_qs(urllib.parse.urlparse(loc).query)
+                    if "login" in loc and q.get("next"):
+                        loc = q["next"][0]
+                    url = loc
+                    if "/share/" not in loc and "login" not in loc:
+                        found.setdefault("url", loc)
+                    continue
+                text = r.text
+                for pat in (r'<meta property="og:url" content="([^"]+)"', r'<link rel="canonical" href="([^"]+)"'):
+                    m = re.search(pat, text)
+                    if m and "/share/" not in m.group(1):
+                        found.setdefault("url", _html.unescape(m.group(1)))
+                m = re.search(r'<meta property="og:title" content="([^"]*)"', text)
+                if m:
+                    found.setdefault("title", _html.unescape(m.group(1))[:120])
+                for key, pat in (("story_fbid", r'"story_fbid":"?(\d+)'), ("post_id", r'"post_id":"(\d+)"'),
+                                 ("page_id", r'"pageID":"(\d+)"')):
+                    m = re.search(pat, text)
+                    if m:
+                        found.setdefault(key, m.group(1))
+                break
+        except requests.RequestException:
+            continue
+        if found.get("url"):
+            break
+    u = found.get("url", "")
+    m = re.search(r"story_fbid=(\d+)", u)
+    if m:
+        found["story_fbid"] = m.group(1)
+    m = re.search(r"[?&]id=(\d+)", u)
+    if m:
+        found["id"] = m.group(1)
+    return found
+
+
+def normalize_link(link: str, state) -> str:
+    """Короткую ссылку facebook.com/share/… раскрывает в полную (результат запоминается в состоянии)."""
+    if "/share/" not in link:
+        return link
+    key = link_key(link)
+    rec = state.sources.get(key) or {}
+    if rec.get("resolved"):
+        return rec["resolved"]
+    info = resolve_share_link(link)
+    if info.get("story_fbid") and info.get("id"):
+        url = f"https://www.facebook.com/story.php?story_fbid={info['story_fbid']}&id={info['id']}"
+    elif info.get("url") and "/share/" not in info["url"]:
+        url = info["url"]
+    else:
+        raise SourceError("короткую ссылку /share/ не удалось раскрыть — пришлите полную ссылку на пост")
+    state.sources.setdefault(key, {}).update(resolved=url, link=link)
+    state.save()
+    return url
+
+
 def link_key(link: str) -> str:
     return "link:" + hashlib.sha1(link.strip().encode("utf-8")).hexdigest()[:20]
 
@@ -225,7 +301,7 @@ def pick_source(cfg, graph, tokens: dict, state, now: datetime, log) -> dict | N
                 if origin == "google_sheet" and state.source_used(link_key(link)):
                     continue
                 try:
-                    info = parse_link(link, p2p)
+                    info = parse_link(normalize_link(link, state), p2p)
                 except SourceError as e:
                     key = "bad:" + text_fingerprint(link)
                     if not state.source_used(key):

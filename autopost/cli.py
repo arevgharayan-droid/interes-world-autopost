@@ -17,8 +17,8 @@ from .config import LANG_ORDER
 from .fb import FacebookError, Graph, redact
 from .generate import GenerationError, Generator
 from .pipeline import AuthProblem, Pipeline, Report
-from .sources import (SourceError, fetch_post, google_sheet_links, link_key, manual_links, parse_link, pick_source,
-                      sheet_baseline, source_key)
+from .sources import (SourceError, fetch_post, google_sheet_links, link_key, manual_links, normalize_link, parse_link,
+                      pick_source, resolve_share_link, sheet_baseline, source_key)
 from .state import State
 from .tokens import TokenError, load_tokens, setup_facebook
 from .workflow import render_cron_block, write_workflow
@@ -530,64 +530,6 @@ def cmd_ops(cfg, args) -> int:
     return 1
 
 
-def resolve_share_link(link: str) -> dict:
-    """facebook.com/share/… → {"url": полная ссылка, "story_fbid", "id", "title"} (без входа в Facebook).
-
-    Facebook отдаёт короткие ссылки своему сборщику предпросмотра (как при вставке ссылки в пост),
-    поэтому пробуем несколько вариантов «браузера»."""
-    import html as _html
-    import re
-    import urllib.parse
-    import requests
-    agents = ["facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)",
-              "Twitterbot/1.0",
-              "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"]
-    found = {}
-    for ua in agents:
-        url = link
-        try:
-            for _ in range(6):
-                r = requests.get(url, headers={"User-Agent": ua, "Accept-Language": "en-US,en;q=0.8"},
-                                 allow_redirects=False, timeout=25)
-                loc = r.headers.get("Location") or ""
-                if loc:
-                    if loc.startswith("/"):
-                        loc = "https://www.facebook.com" + loc
-                    q = urllib.parse.parse_qs(urllib.parse.urlparse(loc).query)
-                    if "login" in loc and q.get("next"):
-                        loc = q["next"][0]
-                    url = loc
-                    if "/share/" not in loc and "login" not in loc:
-                        found.setdefault("url", loc)
-                    continue
-                text = r.text
-                for pat in (r'<meta property="og:url" content="([^"]+)"', r'<link rel="canonical" href="([^"]+)"'):
-                    m = re.search(pat, text)
-                    if m and "/share/" not in m.group(1):
-                        found.setdefault("url", _html.unescape(m.group(1)))
-                m = re.search(r'<meta property="og:title" content="([^"]*)"', text)
-                if m:
-                    found.setdefault("title", _html.unescape(m.group(1))[:120])
-                for key, pat in (("story_fbid", r'"story_fbid":"?(\d+)'), ("post_id", r'"post_id":"(\d+)"'),
-                                 ("page_id", r'"pageID":"(\d+)"')):
-                    m = re.search(pat, text)
-                    if m:
-                        found.setdefault(key, m.group(1))
-                break
-        except requests.RequestException:
-            continue
-        if found.get("url"):
-            break
-    u = found.get("url", "")
-    m = re.search(r"story_fbid=(\d+)", u)
-    if m:
-        found["story_fbid"] = m.group(1)
-    m = re.search(r"[?&]id=(\d+)", u)
-    if m:
-        found["id"] = m.group(1)
-    return found
-
-
 def cmd_resolve_links(cfg, links: list) -> int:
     """Раскрывает короткие ссылки facebook.com/share/… — без браузера."""
     p2p = cfg.profile_to_page()
@@ -697,7 +639,7 @@ def cmd_check_queue(cfg) -> int:
         lines, waiting = [], 0
         for link in manual_links(gcfg):
             try:
-                info = parse_link(link, p2p)
+                info = parse_link(normalize_link(link, st), p2p)
                 key = source_key(info["page_id"], info["part"])
                 rec = st.sources.get(key) or {}
                 if st.source_used(key) or rec.get("status") == "reserved":
