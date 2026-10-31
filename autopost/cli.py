@@ -513,6 +513,8 @@ def cmd_ops(cfg, args) -> int:
         return cmd_sheet_status(cfg)
     if cmd == "check-queue":
         return cmd_check_queue(cfg)
+    if cmd == "inspect-posts":
+        return cmd_inspect_posts(cfg, a.get("page", ""), a.get("posts") or [])
     if cmd == "resolve-links":
         return cmd_resolve_links(cfg, a.get("links") or [])
     if cmd == "cancel-slot":
@@ -528,6 +530,41 @@ def cmd_ops(cfg, args) -> int:
                          parallel=int(a.get("parallel", 4)))
     print(f"Неизвестная команда: {cmd}")
     return 1
+
+
+def cmd_inspect_posts(cfg, page_id: str, posts: list) -> int:
+    """Диагностика видимости: режим приложения, лента страницы, поля наших постов. Ничего не меняет."""
+    import requests
+    graph = Graph(cfg.graph_version)
+    tokens = load_tokens(cfg)
+    tok = tokens.get(page_id)
+    out = ["## Проверка видимости постов", ""]
+    app_id, secret = os.environ.get("FB_APP_ID", ""), os.environ.get("FB_APP_SECRET", "")
+    base = f"https://graph.facebook.com/{cfg.graph_version}"
+    try:
+        r = requests.get(f"{base}/{app_id}", params={"access_token": f"{app_id}|{secret}",
+                         "fields": "name,link,category,company,restrictions"}, timeout=30)
+        out.append(f"Приложение: {redact(r.text[:400])}")
+        r = requests.get(f"{base}/{app_id}/roles", params={"access_token": f"{app_id}|{secret}"}, timeout=30)
+        out.append(f"Роли приложения: {redact(r.text[:600])}")
+    except Exception as e:  # noqa: BLE001
+        out.append(f"Приложение: ошибка {e}")
+    for pid in posts:
+        try:
+            info = graph.get(pid, tok, fields="id,created_time,is_published,is_hidden,timeline_visibility,"
+                                               "status_type,privacy,permalink_url,is_eligible_for_promotion")
+            out.append(f"- пост {pid}: {redact(json.dumps(info, ensure_ascii=False))[:500]}")
+        except FacebookError as e:
+            out.append(f"- пост {pid}: ошибка {e.short()}")
+    for edge in ("published_posts", "feed"):
+        try:
+            data = graph.get(f"{page_id}/{edge}", tok, fields="id,created_time,message", limit=6).get("data", [])
+            out.append(f"\n{edge}: " + "; ".join(f"{d['id']} {d.get('created_time', '')[:16]} "
+                                                f"«{(d.get('message') or '')[:40]}»" for d in data))
+        except FacebookError as e:
+            out.append(f"{edge}: ошибка {e.short()}")
+    summary("\n".join(out) + "\n", "previews/inspect-posts.md", cfg)
+    return 0
 
 
 def cmd_resolve_links(cfg, links: list) -> int:
