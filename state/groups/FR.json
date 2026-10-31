@@ -77,7 +77,7 @@
   "1250374694822508_122121558273415639": "2026-10-29T20:16:54+00:00",
   "1250374694822508_122121558951415639": "2026-10-30T08:16:34+00:00",
   "1250374694822508_122121763101415639": "2026-10-31T10:14:59+00:00",
-  "1250374694822508_122121808917415639": "2026-10-31T18:33:51+00:00",
+  "1250374694822508_122121808917415639": "2026-10-31T20:06:56+00:00",
   "1250374694822508_122121809019415639": "2026-10-31T18:34:08+00:00"
  },
  "slots": {
@@ -658,21 +658,24 @@
       "1202025962997153": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122119955871409328_1009839888814282",
        "error": null,
        "last_attempt": "2026-10-31T22:33:44+04:00",
        "mode": "schedule",
        "photo_id": "122119955841409328",
        "post_id": "1202025962997153_122119955871409328",
-       "status": "published"
+       "status": "done"
       },
       "1250374694822508": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121808917415639_1745989313139954",
        "error": null,
        "last_attempt": "2026-10-31T22:33:47+04:00",
        "mode": "schedule",
        "photo_id": "122121808887415639",
        "post_id": "1250374694822508_122121808917415639",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Pendant sept ans, j'ai envoyé 40 000 dollars par an à mon gendre, jusqu'au jour où ma petite-fille de sept ans m'a murmuré : « Papy, arrête, et suis-le",
@@ -709,7 +712,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-fr.jpg"
    },
    "source_key": "post:photo_122140489347225301",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-01 12:00": {
    "langs": {
