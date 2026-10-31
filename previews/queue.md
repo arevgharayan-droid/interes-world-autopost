@@ -1,23 +1,38 @@
 ## Очереди ссылок по группам
 
-### FR (5 стр.) — ждут публикации: 4
-- ✅ чужая страница · 2413 знаков, фото есть · «Pendant sept ans, après la mort de ma fille, j’ai envoyé chaque mois de janvier 40 000 dollars à son…»
-- ✅ чужая страница · 2951 знаков, фото есть · «Cinq ans après notre divorce, mon ex-mari richissime s’est retrouvé assis à côté de moi en première …»
-- ✅ чужая страница · 3347 знаков, фото есть · «J’ai donné mes 10 derniers dollars à un sans-abri en 1998. Des décennies plus tard, un avocat est en…»
-- ✅ чужая страница · 14007 знаков, фото есть · «Mon fils a pointé la porte d'entrée et m'a lancé : « Soit tu présentes tes excuses à Chloé tout de s…»
+### FR (6 стр.) — ждут публикации: 1
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122140489347225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122102939498536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122101879646536431&id=61566092952750
+- ✅ чужая страница · 4024 знаков, фото есть · «The day I signed the divorce papers, I canceled the $65,000 I sent my mother-in-law every month. My …»
 
-### IT (9 стр.) — ждут публикации: 1
-- ✅ чужая страница · 5498 знаков, фото есть · «Ma gouvernante m’a averti que notre nounou faisait des choses terribles à mes jumeaux d’un an chaque…»
+### IT (8 стр.) — ждут публикации: 1
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122140365723225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122103466484536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122102718824536431&id=61566092952750
+- ✅ чужая страница · 2962 знаков, фото есть · «"My wife left me with our seven children for our rich neighbor, saying she ""deserved a better life"…»
 
 ### EN-1 (13 стр.) — ждут публикации: 1
-- ✅ чужая страница · 4039 знаков, фото есть · «Pendant neuf ans, je me suis convaincu que mon mariage était mort et enterré. J’avais des milliards,…»
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122140250871225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122103458654536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122102410994536431&id=61566092952750
+- ✅ чужая страница · 7461 знаков, фото есть · «Eight months after ending our marriage because he believed I couldn't give him a baby, my ex-husband…»
 
 ### EN-2 (12 стр.) — ждут публикации: 1
-- ✅ чужая страница · 8547 знаков, фото есть · «Mon ex-mari, riche et imbu de lui-même, avait invité à la somptueuse fête de Noël de sa famille, org…»
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122140194015225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122103893384536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122102295536536431&id=61566092952750
+- ✅ чужая страница · 12900 знаков, фото есть · «My family told me there was no room for my eight-year-old daughter at Christmas dinner, but they sti…»
 
 ### NL (2 стр.) — ждут публикации: 1
-- ✅ чужая страница · 3894 знаков, фото есть · «La fille de trois ans de mon employée de maison m’a pris la main en cachette et m’a entraîné à l’éta…»
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122139981021225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122103003182536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122101695644536431&id=61566092952750
+- ✅ чужая страница · 7751 знаков, фото есть · «My grandma discovered me working as a waitress on Sunday and wondered why I needed another job when …»
 
 ### RU (3 стр.) — ждут публикации: 1
-- ✅ чужая страница · 4895 знаков, фото есть · ««J’étais rentrée de Bagdad depuis onze minutes à peine lorsque j’ai aperçu ma Mercedes de 154 200 do…»
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122140150959225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122103055160536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122102285582536431&id=61566092952750
+- ✅ чужая страница · 12173 знаков, фото есть · «My in-laws gave $20,000 to each of my husband's three siblings, but handed us a greeting card. Two y…»
 
