@@ -530,42 +530,75 @@ def cmd_ops(cfg, args) -> int:
     return 1
 
 
-def cmd_resolve_links(cfg, links: list) -> int:
-    """Раскрывает короткие ссылки facebook.com/share/… (перенаправление) — чтобы понять, какая это страница или пост."""
+def resolve_share_link(link: str) -> dict:
+    """facebook.com/share/… → {"url": полная ссылка, "story_fbid", "id", "title"} (без входа в Facebook).
+
+    Facebook отдаёт короткие ссылки своему сборщику предпросмотра (как при вставке ссылки в пост),
+    поэтому пробуем несколько вариантов «браузера»."""
+    import html as _html
     import re
     import urllib.parse
     import requests
-    ua = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) "
-                        "Chrome/126.0 Safari/537.36", "Accept-Language": "en-US,en;q=0.8"}
+    agents = ["facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)",
+              "Twitterbot/1.0",
+              "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"]
+    found = {}
+    for ua in agents:
+        url = link
+        try:
+            for _ in range(6):
+                r = requests.get(url, headers={"User-Agent": ua, "Accept-Language": "en-US,en;q=0.8"},
+                                 allow_redirects=False, timeout=25)
+                loc = r.headers.get("Location") or ""
+                if loc:
+                    if loc.startswith("/"):
+                        loc = "https://www.facebook.com" + loc
+                    q = urllib.parse.parse_qs(urllib.parse.urlparse(loc).query)
+                    if "login" in loc and q.get("next"):
+                        loc = q["next"][0]
+                    url = loc
+                    if "/share/" not in loc and "login" not in loc:
+                        found.setdefault("url", loc)
+                    continue
+                text = r.text
+                for pat in (r'<meta property="og:url" content="([^"]+)"', r'<link rel="canonical" href="([^"]+)"'):
+                    m = re.search(pat, text)
+                    if m and "/share/" not in m.group(1):
+                        found.setdefault("url", _html.unescape(m.group(1)))
+                m = re.search(r'<meta property="og:title" content="([^"]*)"', text)
+                if m:
+                    found.setdefault("title", _html.unescape(m.group(1))[:120])
+                for key, pat in (("story_fbid", r'"story_fbid":"?(\d+)'), ("post_id", r'"post_id":"(\d+)"'),
+                                 ("page_id", r'"pageID":"(\d+)"')):
+                    m = re.search(pat, text)
+                    if m:
+                        found.setdefault(key, m.group(1))
+                break
+        except requests.RequestException:
+            continue
+        if found.get("url"):
+            break
+    u = found.get("url", "")
+    m = re.search(r"story_fbid=(\d+)", u)
+    if m:
+        found["story_fbid"] = m.group(1)
+    m = re.search(r"[?&]id=(\d+)", u)
+    if m:
+        found["id"] = m.group(1)
+    return found
+
+
+def cmd_resolve_links(cfg, links: list) -> int:
+    """Раскрывает короткие ссылки facebook.com/share/… — без браузера."""
     p2p = cfg.profile_to_page()
     names = {p.page_id: p.name for p in cfg.all_pages}
     out = ["## Раскрытие ссылок", ""]
     for link in links:
-        url, final = link, ""
-        try:
-            for _ in range(6):
-                r = requests.get(url, headers=ua, allow_redirects=False, timeout=25)
-                loc = r.headers.get("Location") or ""
-                if not loc:
-                    m = re.search(r'<meta property="og:url" content="([^"]+)"', r.text) or \
-                        re.search(r'<link rel="canonical" href="([^"]+)"', r.text)
-                    final = final or (m.group(1) if m else "")
-                    break
-                if loc.startswith("/"):
-                    loc = "https://www.facebook.com" + loc
-                q = urllib.parse.parse_qs(urllib.parse.urlparse(loc).query)
-                if "login" in loc and q.get("next"):
-                    loc = q["next"][0]
-                final = loc
-                url = loc
-                if "/share/" not in loc and "login" not in loc:
-                    break
-        except requests.RequestException as e:
-            out.append(f"- ❌ {link}: {e}")
-            continue
-        m = re.search(r"[?&]id=(\d+)", final) or re.search(r"facebook\.com/(\d+)", final)
-        pid = p2p.get(m.group(1), m.group(1)) if m else ""
-        out.append(f"- {link} → {final[:160]} → {names.get(pid, '?')} {pid}")
+        info = resolve_share_link(link)
+        pid = p2p.get(info.get("id", ""), info.get("id", ""))
+        out.append(f"- {link} → url={info.get('url', '')[:150]} | story_fbid={info.get('story_fbid', '')} "
+                   f"| id={info.get('id', '')} ({names.get(pid, '?')}) | post_id={info.get('post_id', '')} "
+                   f"| title={info.get('title', '')}")
     summary("\n".join(out) + "\n", "previews/resolve-links.md", cfg)
     return 0
 
