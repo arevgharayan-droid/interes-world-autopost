@@ -728,9 +728,53 @@
    "status": "prepared"
   },
   "2026-11-01 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "IT": {
+     "generated": true,
+     "pages": {},
+     "title": "Mi ha cacciata di casa durante le contrazioni, ma il giorno dopo una generale mi ha salutata davanti alla sua amante",
+     "wp_id": 7201,
+     "wp_live": true
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "не повторяется"
+    }
+   },
+   "prepared": true,
+   "repost_of": "2026-10-30 12:00",
    "slot_iso": "2026-11-01T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/795289786_122102718806536431_609067368945367039_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=44npXKPChp0Q7kNvwGXGn6X&_nc_oc=AdoOXIbO2qLHmQVGJqRz4fC-Xku6r3eHzkJTAlCW_tfD0XXXYdNgULpocJgJS0GY5rA&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=AD8hJKw8WR7nhQ8MIwcd_A&_nc_tpa=Q5bMBQKFQNRfR19w-2BtACJp0Jmn-cIRra0LS0BOusFv_cmGKGrhWks5U73O2F594iZ7GzO4sdADlEXx4w&oh=00_AQT3BuUqx7ObKH-KrYrM6XF4YPkNx9-WWB_upW_hDD67KA&oe=6AE989E7",
+    "link": "https://www.facebook.com/story.php?story_fbid=122102718824536431&id=61566092952750",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "MON MARI M’A CHASSÉE PENDANT MES CONTRACTIONS — LE LENDEMAIN, UN GÉNÉRAL M’A SALUÉE DEVANT SA MAÎTRESSE\n\nLa nuit où mon accouchement a commencé, Marc m’a traitée de poids mort avant de me mettre à la porte.\n\nIl ignorait que, trois mois plus tôt, j’avais hérité de près de dix-huit millions d’euros. Il ignorait également que celle qu’il présentait comme « une simple administrative de l’armée » était colonelle et venait d’être choisie pour un poste au sein d’un état-major interarmées.\n\nMa première véritable contraction m’a pliée en deux dans la cuisine.\n\n— Marc, je crois que le travail commence.\n\nIl n’a même pas quitté son ordinateur des yeux.\n\n— Appelle un taxi. J’ai une réunion importante demain.\n\nDeux valises m’attendaient déjà près de l’entrée. Il les avait préparées avant même que je lui parle de mes contractions.\n\n— Tu es devenue un poids mort, Élise. Pars.\n\nJe suis sortie avec mon sac, mon dossier médical et mon téléphone. Quelques heures plus tard, notre fille Louise venait au monde.\n\nLe lendemain matin, Marc est enfin arrivé à l’hôpital.\n\nSophie, sa collègue, se tenait à son bras. Une bague neuve brillait à son annulaire.\n\n— Je voulais que la situation soit claire, déclara-t-il en posant un dossier de divorce devant moi. Nous vendrons la maison et partagerons les comptes.\n\nJe venais d’accoucher, et il m’annonçait tranquillement qu’il allait épouser une autre femme.\n\nLa porte s’est alors ouverte.\n\nLa générale Fournier est entrée, s’est immobilisée devant mon lit et m’a saluée.\n\n— Mon colonel, toutes mes félicitations. Le ministère a validé votre nomination.\n\nMarc est devenu livide.\n\n— Colonel ?\n\nSophie a lentement retiré sa main de son bras.\n\nMais ce n’était que le début.\n\nLa maison qu’il voulait vendre m’appartenait personnellement. Quant à l’héritage de mon grand-père, une clause le protégeait entièrement : si mon mariage prenait fin avant la clôture de la succession, Marc ne pourrait réclamer aucun euro.\n\nPuis j’ai lu le message de mon avocat :\n\n« Ne signez aucun document. Une personne a demandé des informations confidentielles sur votre succession. »\n\nJe n’avais parlé de cet héritage à personne.\n\nPourtant, lorsque j’ai prononcé le nom de mon grand-père, le visage de Marc a changé.\n\nIl savait.\n\nLa question n’était donc plus seulement de savoir pourquoi il m’avait abandonnée. Je devais découvrir qui l’avait informé… et ce qu’ils préparaient avant la naissance de Louise.\n\nLa suite est dans les commentaires👇\n\nSi tu as\nlu jusqu’à ce\nmoment, écris « FORCE »",
+    "wp_media_id": 7193,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-it.jpg"
+   },
+   "source_key": "post:1011074408765807_122102718824536431",
+   "status": "prepared"
   },
   "2026-11-01 15:00": {
    "langs": {},

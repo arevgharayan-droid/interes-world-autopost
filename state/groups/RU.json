@@ -472,9 +472,53 @@
    "status": "prepared"
   },
   "2026-11-01 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "RU": {
+     "generated": true,
+     "pages": {},
+     "title": "Миллиардер нашёл новую горничную спящей в постели покойной жены — а потом она рассказала ему то, что его сыновья давно пытались сказать",
+     "wp_id": 7199,
+     "wp_live": true
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "не повторяется"
+    }
+   },
+   "prepared": true,
+   "repost_of": "2026-10-30 12:00",
    "slot_iso": "2026-11-01T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/797888839_122102285558536431_1644485858065433024_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=tK1ZUaRDTssQ7kNvwEYi4vx&_nc_oc=AdoMnoNtXZmuyrS_Y6HLVl4IaiKve0zJOYxbUMtlc6xJhwjLwXA3x8MlI4EAUcSkGC0&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=IAsLg2-TLeGneOnk2me0IA&_nc_tpa=Q5bMBQJ9Y4uFbh2m6-niEiM8CB6I0WDSPrnxE3y5w6V6FIZK3Mq7VNfvheQbCltuBxXyypS6Zl64dYK9gQ&oh=00_AQR_Bur2KBqNvizlFbxYP0xZxMUJ9GOkztZuYpi6Wyhd6w&oe=6AE996E4",
+    "link": "https://www.facebook.com/story.php?story_fbid=122102285582536431&id=61566092952750",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "LE MILLIARDAIRE A TROUVÉ SA NOUVELLE EMPLOYÉE DANS LE LIT DE SA DÉFUNTE ÉPOUSE — PUIS ELLE LUI A PARLÉ DE SES FILS\n\nEn arrivant devant la chambre verrouillée, j’étais persuadé que mes jumeaux de cinq ans étaient blessés.\n\nJ’ai forcé la porte… et je suis resté pétrifié.\n\nAnnie, notre nouvelle employée de maison, dormait dans le lit de ma défunte épouse. Jordan était blotti contre elle, tandis que Justin agrippait son tablier.\n\nPourtant, je n’avais jamais vu mes garçons aussi paisibles depuis la mort de Lauren.\n\nDurant quatorze mois, leurs nuits avaient été remplies de cauchemars, de larmes et d’appels désespérés pour leur maman. J’avais engagé cinq nourrices hautement qualifiées, consulté des pédiatres et fait appel à des spécialistes.\n\nRien n’avait fonctionné.\n\nAnnie n’était chez nous que depuis six jours. Elle avait été embauchée pour nettoyer la maison, pas pour s’occuper de mes enfants.\n\nJ’allais la réveiller lorsqu’elle remonta doucement la couverture sur les jambes découvertes de Justin, sans même ouvrir les yeux.\n\nLauren faisait exactement la même chose.\n\nElle me disait toujours : « Les enfants ne se réveillent pas parce qu’ils ont froid. Ils se réveillent pour vérifier que quelqu’un veille sur eux. »\n\nJ’ai refermé la porte et me suis assis dans le couloir.\n\nJ’étais capable de diriger Morrison Dynamics et de négocier des contrats colossaux, mais une simple employée venait d’offrir à mes fils ce que je n’avais pas su leur rendre : la sécurité.\n\nAu coucher du soleil, Annie est sortie en portant Justin. Jordan marchait près d’elle.\n\nLorsqu’elle m’a aperçu, son visage s’est décomposé.\n\n— Pardonnez-moi, monsieur Morrison…\n\n— Que s’est-il passé ?\n\nElle a regardé les garçons. Jordan a aussitôt baissé les yeux.\n\nPuis elle a murmuré :\n\n— Monsieur Morrison, vos fils essaient de vous révéler quelque chose depuis longtemps…\n\nMon cœur s’est arrêté.\n\nLa suite est dans les commentaires👇\n\nSi tu es\narrivé jusqu’ici,\nécris « CONFIANCE »",
+    "wp_media_id": 7197,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-ru.jpg"
+   },
+   "source_key": "post:1011074408765807_122102285582536431",
+   "status": "prepared"
   },
   "2026-11-01 15:00": {
    "langs": {},
