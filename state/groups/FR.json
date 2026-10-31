@@ -441,7 +441,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-10-31T14:14:50+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Mon mari m'a chassée de ma propre maison pour sa maîtresse enceinte, sans savoir à qui elle appartenait vraiment",
      "warnings": [],
      "wp_error": null,
