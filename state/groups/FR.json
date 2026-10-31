@@ -2,6 +2,7 @@
  "enabled_since": "2026-10-29T20:35:35+04:00",
  "output_fps": {
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
+  "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
   "dfc264e5088ceb9596c5": "2026-10-29T20:16:43+00:00",
   "e19444e6413ef867631a": "2026-10-29T20:24:35+00:00"
  },
@@ -427,7 +428,44 @@
    "status": "missed"
   },
   "2026-10-31 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mon mari m'a chassée de ma propre maison pour sa maîtresse enceinte, sans savoir à qui elle appartenait vraiment",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7218,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-31T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/864991443_1698887634963262_8309159156811281145_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yqOQ1lE2sE0Q7kNvwElF0k9&_nc_oc=AdpOx6k6ImghYDSK4PkMjlkPbOXtz5B0BcuexJ15Ig6rSX9FRU1I96uXxegaBrnJENg&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=RUgTsMX6YVD7W0c5-LCqvA&_nc_tpa=Q5bMBQIqj-uhrI4iC6jVqpC-B0SUm5Zrgyiw8gRjdvOL3eWWslf3FAXlIIQhhKcW5nCth0DpKiMza2xnjA&oh=00_AQSsPEs4_g5OhP_KgAKyJGASzP5FV-TFCXcCE3hR9ZfXWg&oe=6AEB9D58",
@@ -439,7 +477,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261031-1200-fr.jpg"
    },
    "source_key": "post:100045261260562_1699072051611487",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-31 15:00": {
    "langs": {},
@@ -475,7 +513,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-10-31 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122101879646536431": {
    "fingerprint": "b5ed31862cee3216b94b",

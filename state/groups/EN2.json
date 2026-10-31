@@ -671,7 +671,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-10-31T14:14:46+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "My Family Said There Was No Room at Christmas Dinner for My 8-Year-Old Daughter, But Still Expected Me to Pay for Everything — Then an Accidental Voicemail Revealed Their Real Plan",
      "warnings": [
       "длина текста FB 1523 слов (исходник 2171, цель ±10%)"
