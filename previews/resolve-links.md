@@ -1,5 +1,5 @@
 ## Раскрытие ссылок
 
-- https://www.facebook.com/122142353529384760/posts/122143663839384760 → url=https://www.facebook.com/122142353529384760/posts/122143663839384760/ | story_fbid= | id= (?) | post_id= | title=
-- https://www.facebook.com/122142353529384760/posts/122143330653384760 → url=https://www.facebook.com/122142353529384760/posts/122143330653384760/ | story_fbid= | id= (?) | post_id= | title=
-- https://www.facebook.com/photo.php?fbid=122143331175384760&set=a.122138092473384760&type=3 → url=https://www.facebook.com/photo.php?fbid=122143331175384760&set=a.122138092473384760&type=3 | story_fbid= | id= (?) | post_id= | title=
+- https://interes-world.com/privacy-policy/ → url=https://interes-world.com/privacy-policy-2/ | story_fbid= | id= (?) | post_id= | title=
+- https://interes-world.com/politique-de-confidentialite/ → url= | story_fbid= | id= (?) | post_id= | title=
+- https://interes-world.com/?page_id=3 → url= | story_fbid= | id= (?) | post_id= | title=
