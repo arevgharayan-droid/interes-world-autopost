@@ -712,12 +712,14 @@
      "pages": {
       "1016419758218222": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122145558441204972_2324728808284164",
        "error": null,
        "last_attempt": "2026-10-31T14:15:04+04:00",
        "mode": "immediate",
        "photo_id": "122145558411204972",
        "post_id": "1016419758218222_122145558441204972",
-       "status": "published"
+       "status": "done"
       },
       "104239205742669": {
        "attempts": 0,
@@ -735,12 +737,13 @@
       "1165836896614851": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122141522331384677_2363211527836476",
        "error": null,
        "last_attempt": "2026-10-31T14:14:51+04:00",
        "mode": "immediate",
        "photo_id": "122141522307384677",
        "post_id": "1165836896614851_122141522331384677",
-       "status": "published"
+       "status": "done"
       },
       "1167352663135230": {
        "attempts": 1,
@@ -784,6 +787,7 @@
       },
       "236129656261330": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-10-31T14:15:13+04:00",
        "mode": "immediate",
@@ -802,30 +806,36 @@
       },
       "914823471720372": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122146932993209718_1146132941254363",
        "error": null,
        "last_attempt": "2026-10-31T14:14:55+04:00",
        "mode": "immediate",
        "photo_id": "122146932969209718",
        "post_id": "914823471720372_122146932993209718",
-       "status": "published"
+       "status": "done"
       },
       "921611111039858": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142627903200344_1117102364261248",
        "error": null,
        "last_attempt": "2026-10-31T14:15:00+04:00",
        "mode": "immediate",
        "photo_id": "122142627873200344",
        "post_id": "921611111039858_122142627903200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122147960961209153_4386278824958524",
        "error": null,
        "last_attempt": "2026-10-31T14:15:09+04:00",
        "mode": "immediate",
        "photo_id": "122147960937209153",
        "post_id": "975714512286925_122147960961209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Ex Called to Invite Me to His Wedding and Brag That His Fiancée Was Pregnant, Never Knowing I Was Holding His Newborn Daughter",

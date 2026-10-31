@@ -542,48 +542,58 @@
      "pages": {
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138654084808945_1689031069681088",
        "error": null,
        "last_attempt": "2026-10-31T14:15:28+04:00",
        "mode": "immediate",
        "photo_id": "122138654060808945",
        "post_id": "1030877436782212_122138654084808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110960538456562_28982091108108213",
        "error": null,
        "last_attempt": "2026-10-31T14:15:11+04:00",
        "mode": "immediate",
        "photo_id": "122110960514456562",
        "post_id": "1064982806700854_122110960538456562",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122107670078506427_1635192301390109",
        "error": null,
        "last_attempt": "2026-10-31T14:15:05+04:00",
        "mode": "immediate",
        "photo_id": "122107670054506427",
        "post_id": "1079964265201139_122107670078506427",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139145748811401_1095976796754578",
        "error": null,
        "last_attempt": "2026-10-31T14:15:22+04:00",
        "mode": "immediate",
        "photo_id": "122139145724811401",
        "post_id": "1114015015119414_122139145748811401",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109216482543006_1499676422090220",
        "error": null,
        "last_attempt": "2026-10-31T14:15:17+04:00",
        "mode": "immediate",
        "photo_id": "122109216458543006",
        "post_id": "1140835409106424_122109216482543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -610,12 +620,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112275810437662_1379292577385258",
        "error": null,
        "last_attempt": "2026-10-31T14:15:01+04:00",
        "mode": "immediate",
        "photo_id": "122112275786437662",
        "post_id": "997772916762884_122112275810437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi ha lasciato con sette figli per il vicino ricco, ma dieci anni dopo, al compleanno della nostra ultima figlia, ciò che Sophie le ha mostrato sul telefono le ha fatto tremare le gambe",
@@ -650,7 +661,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261031-1200-it.jpg"
    },
    "source_key": "post:100045261260562_1698682471650445",
-   "status": "prepared"
+   "status": "done"
   },
   "2026-10-31 15:00": {
    "langs": {},
