@@ -513,6 +513,8 @@ def cmd_ops(cfg, args) -> int:
         return cmd_sheet_status(cfg)
     if cmd == "check-queue":
         return cmd_check_queue(cfg)
+    if cmd == "repost":
+        return cmd_repost(cfg, a.get("from", ""), a.get("to", ""))
     if cmd == "inspect-posts":
         return cmd_inspect_posts(cfg, a.get("page", ""), a.get("posts") or [])
     if cmd == "resolve-links":
@@ -530,6 +532,44 @@ def cmd_ops(cfg, args) -> int:
                          parallel=int(a.get("parallel", 4)))
     print(f"Неизвестная команда: {cmd}")
     return 1
+
+
+def repost_slot(cfg, st: State, g: str, from_key: str, to_key: str) -> str:
+    """Готовит повтор выпуска: новый слот с теми же текстами и ссылкой на ту же статью (без генерации и новой статьи)."""
+    import shutil
+    old = st.slots.get(from_key)
+    if not old or not old.get("prepared"):
+        return "нечего повторять (выпуск не готовился)"
+    cur = st.slots.get(to_key)
+    if cur and (cur.get("source_key") or cur.get("prepared")):
+        return f"выпуск {to_key} уже занят — повтор не поставлен"
+    tz = ZoneInfo(cfg.tz)
+    dt_new = datetime.strptime(to_key, "%Y-%m-%d %H:%M").replace(tzinfo=tz)
+    dt_old = datetime.strptime(from_key, "%Y-%m-%d %H:%M").replace(tzinfo=tz)
+    new = {"slot_iso": dt_new.isoformat(), "status": "prepared", "prepared": True, "repost_of": from_key,
+           "source_key": old["source_key"], "source": copy.deepcopy(old.get("source") or {}), "langs": {}}
+    for lang, L in (old.get("langs") or {}).items():
+        if L.get("generated") and L.get("wp_id"):
+            src = cfg.path(f"content/{dt_old:%Y-%m-%d}/{g}/{dt_old:%H%M}-{lang}.json")
+            dst = cfg.path(f"content/{dt_new:%Y-%m-%d}/{g}/{dt_new:%H%M}-{lang}.json")
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(src, dst)
+            new["langs"][lang] = {"generated": True, "title": L.get("title"), "wp_id": L["wp_id"], "wp_live": True,
+                                  "pages": {}}
+        else:
+            new["langs"][lang] = {"pages": {pid: {"status": "no_access", "attempts": 0}
+                                            for pid in (L.get("pages") or {})}, "skipped": "не повторяется"}
+    st.slots[to_key] = new
+    st.save()
+    return "поставлен"
+
+
+def cmd_repost(cfg, from_key: str, to_key: str) -> int:
+    out = [f"## Повтор выпуска {from_key} → {to_key}", ""]
+    for g, st in _group_states(cfg).items():
+        out.append(f"- {cfg.group_label(g)}: {repost_slot(cfg, st, g, from_key, to_key)}")
+    summary("\n".join(out) + "\n", "previews/repost.md", cfg)
+    return 0
 
 
 def cmd_inspect_posts(cfg, page_id: str, posts: list) -> int:

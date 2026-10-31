@@ -492,3 +492,46 @@ class LateLinkTests(unittest.TestCase):
         self.assertEqual(m.call_count, 1)           # второй раз — из сохранённого состояния
         self.assertEqual(sources.normalize_link("https://www.facebook.com/x/posts/1", st),
                          "https://www.facebook.com/x/posts/1")
+
+
+class RepostTests(unittest.TestCase):
+    def test_repost_uses_same_texts_and_article(self):
+        """Повтор выпуска: новые посты в ленте в новый час, ссылка в комментарии — на ту же статью, новых статей нет."""
+        from autopost.cli import repost_slot
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        g = "RU"
+        gcfg = group_view(cfg, g)
+        st = State(tmp / f"state/groups/{g}.json")
+        (tmp / "queue").mkdir(exist_ok=True)
+        pid = cfg.pages[0].page_id
+        graph.source_posts.setdefault(pid, []).append({
+            "id": f"{pid}_5", "message": STORY, "full_picture": "https://x/y.jpg",
+            "attachments": {"data": [{"media_type": "photo"}]}})
+        (tmp / "queue" / f"{g}.txt").write_text(f"{pid}_5\n", encoding="utf-8")
+
+        def tick():
+            Pipeline(gcfg, st, graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+
+        for hh, mm in ((6, 7), (9, 7)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            tick()
+        first = dict(graph.posts)
+        self.assertEqual(st.slots["2030-05-01 09:00"]["status"], "done")
+        self.assertEqual(repost_slot(cfg, st, g, "2030-05-01 09:00", "2030-05-01 15:00"), "поставлен")
+        for hh, mm in ((9, 37), (15, 7)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            tick()
+        new_posts = {k: v for k, v in graph.posts.items() if k not in first}
+        self.assertEqual(len(new_posts), len(first))                      # те же страницы — ещё раз
+        self.assertTrue(all(v["scheduled_ts"] == datetime(2030, 5, 1, 15, 0, tzinfo=ZoneInfo(cfg.tz)).timestamp()
+                            for v in new_posts.values()))
+        self.assertEqual(len(wp.posts), 1)                                # статья не создавалась заново
+        link = graph.comments_by[next(iter(first))][0]["message"]
+        self.assertTrue(all(graph.comments_by[k][0]["message"] == link for k in new_posts))
+        self.assertEqual(st.slots["2030-05-01 15:00"]["status"], "done")
