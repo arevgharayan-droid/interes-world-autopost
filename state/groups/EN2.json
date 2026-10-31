@@ -698,12 +698,14 @@
      "pages": {
       "100633729330404": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1127112296683958_978484058114801",
        "error": null,
        "last_attempt": "2026-10-31T14:15:28+04:00",
        "mode": "immediate",
        "photo_id": "1127112273350627",
        "post_id": "100633729330404_1127112296683958",
-       "status": "published"
+       "status": "done"
       },
       "104114086037068": {
        "attempts": 1,
@@ -727,6 +729,7 @@
       },
       "106713875762456": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-10-31T14:15:32+04:00",
        "mode": "immediate",
@@ -770,39 +773,46 @@
       "648976361631351": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122192453714829482_1088331357403465",
        "error": null,
        "last_attempt": "2026-10-31T14:15:12+04:00",
        "mode": "immediate",
        "photo_id": "122192453690829482",
        "post_id": "648976361631351_122192453714829482",
-       "status": "published"
+       "status": "done"
       },
       "673710079162922": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122242241486895613_1690307839478436",
        "error": null,
        "last_attempt": "2026-10-31T14:15:16+04:00",
        "mode": "immediate",
        "photo_id": "122242241462895613",
        "post_id": "673710079162922_122242241486895613",
-       "status": "published"
+       "status": "done"
       },
       "714226118434052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122202964208902657_1163759672824811",
        "error": null,
        "last_attempt": "2026-10-31T14:15:19+04:00",
        "mode": "immediate",
        "photo_id": "122202964184902657",
        "post_id": "714226118434052_122202964208902657",
-       "status": "published"
+       "status": "done"
       },
       "892503027289970": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141741175219808_1470334651635812",
        "error": null,
        "last_attempt": "2026-10-31T14:15:23+04:00",
        "mode": "immediate",
        "photo_id": "122141741151219808",
        "post_id": "892503027289970_122141741175219808",
-       "status": "published"
+       "status": "done"
       },
       "994273113779575": {
        "attempts": 1,

@@ -727,12 +727,14 @@
       },
       "108881571809093": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1144808958226057_999907639825644",
        "error": null,
        "last_attempt": "2026-10-31T14:15:24+04:00",
        "mode": "immediate",
        "photo_id": "1144808918226061",
        "post_id": "108881571809093_1144808958226057",
-       "status": "published"
+       "status": "done"
       },
       "1165836896614851": {
        "attempts": 1,
@@ -769,22 +771,25 @@
       },
       "162144310308183": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122260238948093350_1616563289449269",
        "error": null,
        "last_attempt": "2026-10-31T14:15:20+04:00",
        "mode": "immediate",
        "photo_id": "122260238924093350",
        "post_id": "162144310308183_122260238948093350",
-       "status": "published"
+       "status": "done"
       },
       "220697507802568": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122339282090237583_1093172316866419",
        "error": null,
        "last_attempt": "2026-10-31T14:15:17+04:00",
        "mode": "immediate",
        "photo_id": "122339282066237583",
        "post_id": "220697507802568_122339282090237583",
-       "status": "published"
+       "status": "done"
       },
       "236129656261330": {
        "attempts": 1,
@@ -799,12 +804,14 @@
       },
       "237939756073256": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122351739098234096_979790394629153",
        "error": null,
        "last_attempt": "2026-10-31T14:15:30+04:00",
        "mode": "immediate",
        "photo_id": "122351739074234096",
        "post_id": "237939756073256_122351739098234096",
-       "status": "published"
+       "status": "done"
       },
       "914823471720372": {
        "attempts": 1,
@@ -882,7 +889,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261031-1200-en.jpg"
    },
    "source_key": "post:100045261260562_1699289931589699",
-   "status": "prepared"
+   "status": "done"
   },
   "2026-10-31 15:00": {
    "langs": {},
