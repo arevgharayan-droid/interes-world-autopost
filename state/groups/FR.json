@@ -429,7 +429,17 @@
   "2026-10-31 12:00": {
    "langs": {},
    "slot_iso": "2026-10-31T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/864991443_1698887634963262_8309159156811281145_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yqOQ1lE2sE0Q7kNvwElF0k9&_nc_oc=AdpOx6k6ImghYDSK4PkMjlkPbOXtz5B0BcuexJ15Ig6rSX9FRU1I96uXxegaBrnJENg&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=RUgTsMX6YVD7W0c5-LCqvA&_nc_tpa=Q5bMBQIqj-uhrI4iC6jVqpC-B0SUm5Zrgyiw8gRjdvOL3eWWslf3FAXlIIQhhKcW5nCth0DpKiMza2xnjA&oh=00_AQSsPEs4_g5OhP_KgAKyJGASzP5FV-TFCXcCE3hR9ZfXWg&oe=6AEB9D58",
+    "link": "https://www.facebook.com/story.php?story_fbid=1699072051611487&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "The day I signed the divorce papers, I canceled the $65,000 I sent my mother-in-law every month. My husband had said to me, “My mistress and our baby are keeping the house. You can leave.”\nI didn’t argue. I packed my things and called my lawyer. A few days later, he returned with his mistress and their child, but what he found at the front door left him speechless.\nPART 1\n“My girlfriend is pregnant, and you’re moving out of this house tonight. I won’t let my child grow up under the same roof as a bitter woman like you.”\nMy husband tossed the divorce papers onto the marble table in our home in Paradise Valley, Scottsdale, and smiled as if he’d just won the lottery.\nThe absurd part was that the house, the luxury watch on his wrist, and even the Italian shoes he strutted around in had all been paid for with my money.\nMy name is Harper Lawson. I’m thirty-eight, and I founded a tech consulting company that I built from scratch. For five years of marriage I covered nearly every expense in our household. Trent, my husband, worked as an administrative clerk and earned a thousand dollars a month. I never held it against him that he earned less than I did. All I ever expected was respect.\nThat night I learned he couldn’t even give me that.\n“How long have you had another woman?” I asked.\n“That doesn’t matter now. Brooke is young, affectionate, and knows how to take care of a man. Not like you, who only thinks about your contracts.”\nHe settled onto the leather sofa and pointed at the documents. “I want the divorce. And since I’m going to be a father, I need to keep this house.”\nI thought I’d misheard. “You want to stay here?”\n“Of course. I also need the Mercedes SUV. Brooke has to travel comfortably during the pregnancy.”\nThen he held up three fingers, as if laying out terms in a business deal. “And you’ll keep depositing thirty-five hundred dollars a month for my parents. They’re used to that support, and it wouldn’t be fair to abandon them.”\nI stared at him. For years I had sent that money to Gloria and Walt, my in-laws, because Trent insisted they needed medical treatment and help with expenses. I never imagined hearing their son demand I keep supporting them after throwing me out of my own home.\n“And what are you giving me in return?”\nTrent burst out laughing. “The freedom to start over. At your age, you should be grateful someone put up with you this long.”\nThose words hurt more than the confession of his affair. I thought of the nights working until three in the morning, the trips I’d canceled to close contracts, and all the times I’d defended Trent when my friends asked why he never contributed. I understood then that I had confused love with an obligation to keep ungrateful people comfortable.\nI picked up the papers. There was a petition for divorce and a settlement agreement he had drafted to take everything.\n“I agree to the divorce,” I said.\nI signed only the statement of my willingness to separate and left the property settlement untouched. Trent didn’t even notice the difference.\n“I knew you’d come around,” he said, satisfied. “Now pack your things.”\nI went upstairs and gathered my laptop, some documents, and enough clothes for several days. I didn’t argue. I didn’t cry in front of him.\nWhen I came back down, Trent was on the phone. “Babe, it’s all settled. The house is ours.”\nJust before I closed the door, I heard one more line. “My mom says she’s finally getting a daughter-in-law who’ll give her grandkids.”\nThat night, from a hotel, I got a text from Gloria:\nEven if you divorce, don’t forget Monday’s deposit. Brooke will need our help organizing her new life.\nI stared at it for several seconds.\nWhat Trent and his family didn’t know was that the house and the Mercedes were registered to my company. And when I looked, for the first time, at the records of the deposits I’d made to my in-laws, I found something that turned that affair into a far bigger betrayal…\nAre you curious about what would happen next? If so, Read the full story in the c0mments 😉👇",
+    "wp_media_id": 7210,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261031-1200-fr.jpg"
+   },
+   "source_key": "post:100045261260562_1699072051611487",
+   "status": "preparing"
   },
   "2026-10-31 15:00": {
    "langs": {},
@@ -459,6 +469,14 @@
  },
  "source_cutoff": "2026-10-29T16:35:35+00:00",
  "sources": {
+  "post:100045261260562_1699072051611487": {
+   "fingerprint": "f8fa08ba8c7252c10bbb",
+   "link": "https://www.facebook.com/story.php?story_fbid=1699072051611487&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-10-31 12:00",
+   "status": "reserved"
+  },
   "post:1011074408765807_122101879646536431": {
    "fingerprint": "b5ed31862cee3216b94b",
    "link": "https://www.facebook.com/story.php?story_fbid=122101879646536431&id=61566092952750",
