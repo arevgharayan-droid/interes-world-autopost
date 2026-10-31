@@ -1,6 +1,7 @@
 """Клиент Facebook Graph API: страницы, фото-посты (в т.ч. отложенные), комментарии."""
 from __future__ import annotations
 
+import json
 import re
 import time
 
@@ -141,13 +142,21 @@ class Graph:
     # --- публикация ---------------------------------------------------------------
     def create_photo_post(self, page_id, token, image: bytes, filename: str, caption: str,
                           scheduled_ts: int | None = None, mime: str = "image/jpeg") -> dict:
-        data = {"caption": caption}
-        if scheduled_ts:
-            data.update({"published": "false", "scheduled_publish_time": str(int(scheduled_ts))})
-        else:
-            data["published"] = "true"
         files = {"source": (filename, image, mime)}
-        return self.post(f"{page_id}/photos", token, data=data, files=files)
+        if not scheduled_ts:
+            return self.post(f"{page_id}/photos", token, data={"caption": caption, "published": "true"}, files=files)
+        # Отложенный пост с фото — как рекомендует Meta: фото загружается неопубликованным (temporary),
+        # затем создаётся отложенная запись в ЛЕНТЕ с этим фото. (Отложенное фото через /photos
+        # выходит только во вкладку «Фото» без записи в ленте — «no timeline unit».)
+        photo = self.post(f"{page_id}/photos", token, files=files,
+                          data={"published": "false", "temporary": "true"})
+        post = self.post(f"{page_id}/feed", token, data={
+            "message": caption,
+            "attached_media[0]": json.dumps({"media_fbid": photo["id"]}),
+            "published": "false",
+            "scheduled_publish_time": str(int(scheduled_ts)),
+        })
+        return {"id": photo["id"], "post_id": post.get("id")}
 
     def page_story_id(self, photo_id, token) -> str | None:
         return self.get(photo_id, token, fields="page_story_id").get("page_story_id")
