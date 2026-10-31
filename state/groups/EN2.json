@@ -1069,12 +1069,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122136978080776189_1665312498591839",
        "error": null,
        "last_attempt": "2026-10-31T22:33:52+04:00",
        "mode": "schedule",
        "photo_id": "122136978050776189",
        "post_id": "994273113779575_122136978080776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "He Invited His Ex-Wife to Christmas Expecting a Broken Woman, Until She Landed in a Government Helicopter With the Four Children He Rejected",
@@ -1115,7 +1116,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-en2.jpg"
    },
    "source_key": "post:photo_122140194015225301",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-01 12:00": {
    "langs": {
