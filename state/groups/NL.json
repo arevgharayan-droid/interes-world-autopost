@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:39:48+04:00",
  "output_fps": {
+  "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
   "fbd1653b854ac7bf06ab": "2026-10-29T16:40:27+00:00"
@@ -271,7 +272,44 @@
    "status": "missed"
   },
   "2026-10-31 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Oma betrapte me als serveerster en belde meteen haar advocaat: \"Het gaat over het geld van Elwood",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7220,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-31T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/861826816_1698881158297243_4364301169898061718_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iYLPOcQis40Q7kNvwGpXwZ6&_nc_oc=Adr72xeylBhqOjQdcv8dzwpwRSTtW_7kr9IQ-YDA9I7-asoicelEkjFzSeI3FvFDCCY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xFseNK5phl_WssethAmoUA&_nc_tpa=Q5bMBQKAh-cpTYU74-edVO5xBiHKcl2x4HR9AbZL7s4Fshhs0XnYnEw1lAdC91VgWRrQc9UeOCCn2Qx35g&oh=00_AQQ5SoRZId79V0ZHo2V710w7WiJif0LmPT8AQ-kfZ4R-2Q&oe=6AEB83A1",
@@ -283,7 +321,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261031-1200-nl.jpg"
    },
    "source_key": "post:100045261260562_1698998888285470",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-31 15:00": {
    "langs": {},
@@ -319,7 +357,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-10-31 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122101695644536431": {
    "fingerprint": "e20728e7a596426a0fae",
