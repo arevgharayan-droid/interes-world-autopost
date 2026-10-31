@@ -2,6 +2,7 @@
  "enabled_since": "2026-10-29T20:40:38+04:00",
  "output_fps": {
   "0475676f7d35cf5ec822": "2026-10-29T20:24:32+00:00",
+  "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00"
  },
@@ -314,7 +315,44 @@
    "status": "missed"
   },
   "2026-10-31 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Свёкры подарили троим детям по 20 000 долларов, а нам — открытку. Через два года бабушка увидела наш дом и рассказала, откуда на самом деле взялись те деньги",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7221,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-10-31T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/851548113_1699103188275040_3965868870714482760_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1e-1X3w74sMQ7kNvwHeFPyp&_nc_oc=AdpQW9fvpdJAlsjMADvc8q3fZlmELFWHiEMsRt5ZXw3-gE9c7V7AMXm_wCGnTm0Ckm4&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fsCAux4U2sFu1D0GxH86sw&_nc_tpa=Q5bMBQIvdbJ9U3wRl_g-nIWCDT4CAq5NI7_SRFHR1BXJfK6BuX4mUUobhAhQLhL81p433nbg-28urXTucQ&oh=00_AQSUJAjHXu621AHoz7s50o0xidpsaDsb9wGlhjnyk0kxaA&oe=6AEBA00B",
@@ -326,7 +364,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261031-1200-ru.jpg"
    },
    "source_key": "post:100045261260562_1699103431608349",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-10-31 15:00": {
    "langs": {},
@@ -362,7 +400,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-10-31 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122102285582536431": {
    "fingerprint": "ee49e5bda02151657312",
