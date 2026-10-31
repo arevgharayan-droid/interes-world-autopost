@@ -1,8 +1,5 @@
 ## Раскрытие ссылок
 
-- https://www.facebook.com/share/p/1CCVbeknM2/ → url=https://www.facebook.com/story.php?story_fbid=1698682471650445&id=100045261260562&rdid=xu3ogVHOk0Q9uLXJ&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1698682471650445 | id=100045261260562 (?) | post_id= | title=
-- https://www.facebook.com/share/p/19pKsNi7Mk/ → url=https://www.facebook.com/story.php?story_fbid=1699289931589699&id=100045261260562&rdid=zb3ZQHnuepHZRqFe&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1699289931589699 | id=100045261260562 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1Dsbz7AhX7/ → url=https://www.facebook.com/story.php?story_fbid=1699156498269709&id=100045261260562&rdid=0Z0ujgpPGCvweK2f&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1699156498269709 | id=100045261260562 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1Fm4R28NDX/ → url=https://www.facebook.com/story.php?story_fbid=1699103431608349&id=100045261260562&rdid=HTQhCByWBETU2Uei&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1699103431608349 | id=100045261260562 (?) | post_id= | title=
-- https://www.facebook.com/share/p/18VH5acN9x/ → url=https://www.facebook.com/story.php?story_fbid=1699072051611487&id=100045261260562&rdid=NiWGPDvqa1Lv9SRf&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1699072051611487 | id=100045261260562 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1HmaT9nuGy/ → url=https://www.facebook.com/story.php?story_fbid=1698998888285470&id=100045261260562&rdid=XkDpypFK4Cje2eWD&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1698998888285470 | id=100045261260562 (?) | post_id= | title=
+- https://www.facebook.com/122142353529384760/posts/122143663839384760 → url=https://www.facebook.com/122142353529384760/posts/122143663839384760/ | story_fbid= | id= (?) | post_id= | title=
+- https://www.facebook.com/122142353529384760/posts/122143330653384760 → url=https://www.facebook.com/122142353529384760/posts/122143330653384760/ | story_fbid= | id= (?) | post_id= | title=
+- https://www.facebook.com/photo.php?fbid=122143331175384760&set=a.122138092473384760&type=3 → url=https://www.facebook.com/photo.php?fbid=122143331175384760&set=a.122138092473384760&type=3 | story_fbid= | id= (?) | post_id= | title=
