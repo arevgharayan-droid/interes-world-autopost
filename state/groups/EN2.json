@@ -1311,7 +1311,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-11-01T14:36:37+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "For Seven Years I Sent My Son-in-Law $40,000 Every January for My Granddaughter, Until She Whispered, \"Grandpa, Please Stop",
      "warnings": [
       "длина текста FB 358 слов (исходник 450, цель ±10%)"

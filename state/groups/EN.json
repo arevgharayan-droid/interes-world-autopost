@@ -4,6 +4,7 @@
   "4e1d50075aba4f7e15de": "2026-10-29T16:37:54+00:00",
   "5a1a23c72fc75013e47d": "2026-10-31T10:14:39+00:00",
   "887a17b48cf1dabf9df6": "2026-10-29T20:16:49+00:00",
+  "8f759366031b2b8b0675": "2026-11-01T10:36:39+00:00",
   "b017c47f212a67b357c4": "2026-10-29T20:24:31+00:00"
  },
  "outputs": {
@@ -1327,7 +1328,46 @@
    "status": "done"
   },
   "2026-11-01 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "At 64, I Married a 31-Year-Old Man, but Six Months Later I Caught Him Secretly Putting Something in My Drink and Took It to a Lab",
+     "warnings": [
+      "длина текста FB 487 слов (исходник 602, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 7231,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-01T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/871179231_122143561389244157_520229485453008069_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9hg7sXQcm-MQ7kNvwGn14i6&_nc_oc=AdrzpRbESM68FSxy2KuBMcdeLhgGhHDlR0n-iaot28dWul7IBRYUP2zRTRkZ7KY0Og8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=eSQhHgXZzAzKhGx-9ejZeQ&_nc_tpa=Q5bMBQJxCbcMdZgnCos0FJvFBjf3kXXGT-8VNcoSgMksnXcZYUIkkGUWF7yIUVW1IpSYRqGw_u5pQbdZSg&oh=00_AQQ46y6AiaaWCAWftA8eTzCiugLhboPFfxN85E_u06yI5Q&oe=6AECCEFE",
@@ -1339,7 +1379,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1500-en.jpg"
    },
    "source_key": "post:61587324730850_122143561461244157",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-01 18:00": {
    "langs": {},
@@ -1394,7 +1434,7 @@
    "origin": "manual",
    "page_id": "61587324730850",
    "slot": "2026-11-01 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140250871225301": {
    "fingerprint": "46a98d9034c8d6fce365",
