@@ -513,6 +513,8 @@ def cmd_ops(cfg, args) -> int:
         return cmd_sheet_status(cfg)
     if cmd == "check-queue":
         return cmd_check_queue(cfg)
+    if cmd == "peek-links":
+        return cmd_peek_links(cfg, a.get("links") or [])
     if cmd == "repost":
         return cmd_repost(cfg, a.get("from", ""), a.get("to", ""))
     if cmd == "inspect-posts":
@@ -569,6 +571,25 @@ def cmd_repost(cfg, from_key: str, to_key: str) -> int:
     for g, st in _group_states(cfg).items():
         out.append(f"- {cfg.group_label(g)}: {repost_slot(cfg, st, g, from_key, to_key)}")
     summary("\n".join(out) + "\n", "previews/repost.md", cfg)
+    return 0
+
+
+def cmd_peek_links(cfg, links: list) -> int:
+    """Показывает начало текста по ссылкам (ничего не ставит в очередь и не публикует)."""
+    from .generate import detect_language
+    graph = Graph(cfg.graph_version)
+    tokens = load_tokens(cfg)
+    st = State(Path(tempfile.mkdtemp()) / "s.json")
+    out = ["## Ссылки: что внутри", ""]
+    for i, link in enumerate(links, 1):
+        try:
+            info = parse_link(normalize_link(link, st), cfg.profile_to_page())
+            post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
+            first = " ".join(post["text"].split())[:150]
+            out.append(f"{i}. ({detect_language(post['text']) or '?'}, {len(post['text'])} знаков) «{first}…»")
+        except SourceError as e:
+            out.append(f"{i}. ❌ {e}")
+    summary("\n".join(out) + "\n", "previews/peek-links.md", cfg)
     return 0
 
 
