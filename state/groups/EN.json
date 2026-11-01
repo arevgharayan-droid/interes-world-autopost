@@ -1603,6 +1603,7 @@
       },
       "1165836896614851": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-01T18:04:13+04:00",
        "mode": "immediate",
@@ -1613,12 +1614,13 @@
       "1167352663135230": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122143928973384760_2147957635802282",
        "error": null,
        "last_attempt": "2026-11-01T18:04:08+04:00",
        "mode": "immediate",
        "photo_id": "122143928949384760",
        "post_id": "1167352663135230_122143928973384760",
-       "status": "published"
+       "status": "done"
       },
       "1235940142932696": {
        "attempts": 1,
