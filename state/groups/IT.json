@@ -1427,12 +1427,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112374618437662_1123762100377990",
        "error": null,
        "last_attempt": "2026-11-01T22:14:33+04:00",
        "mode": "schedule",
        "photo_id": "122112374588437662",
        "post_id": "997772916762884_122112374618437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Tornata dalla missione con tre settimane di anticipo, trovo mia figlia di 4 anni sola e affamata: poi il grido di mio marito sull'armadio chiuso a chiave",
@@ -1467,7 +1468,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-it.jpg"
    },
    "source_key": "post:61591284134933_122129839845376137",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-02 12:00": {
    "langs": {},
