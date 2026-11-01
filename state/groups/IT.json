@@ -1168,7 +1168,10 @@
      "generated": true,
      "pages": {},
      "title": "Il boss lasciò la moglie per la segretaria: cinque anni dopo la ritrovò a un gala con due gemelli che avevano i suoi occhi",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7250,
+     "wp_status": "publish"
     },
     "NL": {
      "pages": {},
@@ -1183,6 +1186,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-01T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/871021870_1653559406140680_4902016536189030714_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vko9jqdNYbgQ7kNvwFmCquz&_nc_oc=AdpBeRmSzVVwGLLAb3JdflUBDk0ukYEfpGAEtFqWT69Vul_6vEHp_JhSLqrWczP3tJg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=TaiILSwlRTTk6cLwuZ3NtA&_nc_tpa=Q5bMBQK4hiGlj24aBwZJlbcAGmKCsW7Lu6VBPoxknozsSFp4k5VciIaJIcZBuY49JbpRqfF6DWqQyL-Fbw&oh=00_AQRUfx57aZWRDy8N14_d_rntw8Xy4_WMQPmYpP1c30TM5g&oe=6AED0D0D",
@@ -1194,7 +1198,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-it.jpg"
    },
    "source_key": "post:100044599086455_1654999892663298",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-01 21:00": {
    "langs": {},
@@ -1229,7 +1233,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-01 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698682471650445": {
    "fingerprint": "805fb8b83171cdb61fb9",

@@ -723,13 +723,17 @@
      "generated": true,
      "pages": {},
      "title": "Сын мафиозного босса два года не говорил ни слова — пока официантка в маленькой закусочной не протянула ему зелёный мелок",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7251,
+     "wp_status": "publish"
     },
     "TR": {
      "pages": {},
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-01T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/856573502_1644047537091867_3332934874435219054_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vdiIMK_yjVwQ7kNvwEGwNyn&_nc_oc=AdoQnjKb7JMA50Fo_SdJTeSTuCF3YJN5xhB8t3WRFr2V5YU5OiVGlMYvA78hWWBSuT8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=EnnpO8-Wm4JTmDt-g2dYsA&_nc_tpa=Q5bMBQJty-Gu49GW3Rfap3C7hxOu3xaPztd932BHD4JDX2TSBFdieooQ4dM_G_XuijevuNZY6Fw2UKlHqg&oh=00_AQRqG39-in4x_OJ5Jc700JSgEV6hKEI_xN_OTfDsiGiTBg&oe=6AED2CD7",
@@ -741,7 +745,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-ru.jpg"
    },
    "source_key": "post:100044599086455_1644609203702367",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-01 21:00": {
    "langs": {},
@@ -776,7 +780,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-01 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699103431608349": {
    "fingerprint": "72333163c518fa427e98",
