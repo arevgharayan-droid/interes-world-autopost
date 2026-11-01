@@ -879,12 +879,13 @@
       "1064982806700854": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122110994114456562_1503196785081781",
        "error": null,
        "last_attempt": "2026-10-31T22:34:20+04:00",
        "mode": "schedule",
        "photo_id": "122110993928456562",
        "post_id": "1064982806700854_122110994114456562",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
