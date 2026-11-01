@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:39:48+04:00",
  "output_fps": {
+  "3b17ef7d9630be534518": "2026-11-01T18:14:37+00:00",
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
@@ -688,7 +689,44 @@
    "status": "missed"
   },
   "2026-11-02 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Een meisje van drie trok haar haarband af, en de meest gevreesde man van Chicago zakte door zijn knieën",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7265,
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-02T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/861255290_122160366381068612_294654609163285351_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lnwweLiYhh4Q7kNvwG3m2Kz&_nc_oc=Adp04XNulS6_QGOFMZaV52PFE0c7m_LIKnQhu4lAYP1tUm7wXP8QPqgwkgDkgJP034o&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=W5YdlPSQab-KlEWH57bmEw&_nc_tpa=Q5bMBQJtondtvrns-RWkTNzwQCDk6qnuDellaErNc-LZnivj7G2UMyf_jcclVhzNEowCDsaB-9ZVTp9kZw&oh=00_AQTG6Tztwz91yx0Sr091yjjF3aRW__ETnt3J2ehn57lGrg&oe=6AED6FF6",
@@ -700,7 +738,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-nl.jpg"
    },
    "source_key": "post:61582058363232_122160366435068612",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-02 12:00": {
    "langs": {},
@@ -779,7 +817,7 @@
    "origin": "manual",
    "page_id": "61582058363232",
    "slot": "2026-11-02 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122139981021225301": {
    "fingerprint": "c33c1a3930fd423f2761",
