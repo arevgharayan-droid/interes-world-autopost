@@ -1185,22 +1185,25 @@
      "pages": {
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138845484808945_2079406646780578",
        "error": null,
        "last_attempt": "2026-11-01T18:04:50+04:00",
        "mode": "immediate",
        "photo_id": "122138845454808945",
        "post_id": "1030877436782212_122138845484808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122111028686456562_1092405310287823",
        "error": null,
        "last_attempt": "2026-11-01T18:04:34+04:00",
        "mode": "immediate",
        "photo_id": "122111028662456562",
        "post_id": "1064982806700854_122111028686456562",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -1215,21 +1218,25 @@
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139332048811401_1160862786293916",
        "error": null,
        "last_attempt": "2026-11-01T18:04:44+04:00",
        "mode": "immediate",
        "photo_id": "122139332024811401",
        "post_id": "1114015015119414_122139332048811401",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109286892543006_2449486158946685",
        "error": null,
        "last_attempt": "2026-11-01T18:04:40+04:00",
        "mode": "immediate",
        "photo_id": "122109286868543006",
        "post_id": "1140835409106424_122109286892543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -1297,7 +1304,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-it.jpg"
    },
    "source_key": "post:100044599086455_1654999892663298",
-   "status": "prepared"
+   "status": "done"
   },
   "2026-11-01 21:00": {
    "langs": {},
