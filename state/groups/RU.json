@@ -697,7 +697,17 @@
   "2026-11-01 18:00": {
    "langs": {},
    "slot_iso": "2026-11-01T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/856573502_1644047537091867_3332934874435219054_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vdiIMK_yjVwQ7kNvwEGwNyn&_nc_oc=AdoQnjKb7JMA50Fo_SdJTeSTuCF3YJN5xhB8t3WRFr2V5YU5OiVGlMYvA78hWWBSuT8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=EnnpO8-Wm4JTmDt-g2dYsA&_nc_tpa=Q5bMBQJty-Gu49GW3Rfap3C7hxOu3xaPztd932BHD4JDX2TSBFdieooQ4dM_G_XuijevuNZY6Fw2UKlHqg&oh=00_AQRqG39-in4x_OJ5Jc700JSgEV6hKEI_xN_OTfDsiGiTBg&oe=6AED2CD7",
+    "link": "https://www.facebook.com/share/p/1GjKgpmmPm/",
+    "origin": "manual",
+    "page_id": "100044599086455",
+    "text": "The Mafia Boss’s Son Hadn’t Made a Sound in Two Years—Then a Waitress Handed Him a Green Crayon\n\nThe phone buzzed against Vincent Romano’s ribs three times before he looked at it. The first message came from a number he had blocked twice already: I’m outside. We need to talk about Catherine’s son. The second was a photograph—Luca through the diner window, his small face lit blue and red by the neon, taken eleven minutes ago. The third was not a question. Bring him out when you’re finished.\n\nVincent turned the phone face down on the red vinyl and looked across the booth at his son.\n\nLuca sat with his back straight, hands folded in his lap, eyes fixed on the parking lot beyond the glass. He was six years old. He wore the navy sweater Maria had chosen that morning, and he had not made a sound in two years.\n\nThe diner smelled of coffee and bacon grease and something sweet on the griddle. A jukebox in the corner played a song Vincent half recognized from his own childhood. At the counter, three construction workers laughed at something the cook said. An elderly couple shared a booth by the window without speaking, the way people do when they have said everything already. Ordinary life, going on around them, indifferent and warm.\n\nVincent had chosen Rosy’s for exactly that reason. It was thirty minutes and a whole world away from the house in Alpine, from the gates and the cameras and the men who called him boss. He had grown up six blocks from here. His father had brought him on Sunday mornings after Mass, all seven of them crammed into a booth meant for four, and Rosie herself had slipped extra whipped cream onto his pancakes when his father wasn’t looking.\n\nHe had not been back in twenty-five years. He had not expected the place to still smell the same.\n\n“Hi there. Welcome to Rosy’s.”\n\nThe waitress was young, late twenties, light brown hair pulled back in a ponytail that was already coming loose. Her name tag said Emily. She had a pad in one hand and a pot of coffee in the other, and she was smiling at them as if they were the best thing that had happened to her all morning.\n\n“Coffee, please,” Vincent said. “Black.”\n\n“You got it.” She poured before he could change his mind. Then she turned to Luca, and instead of asking what he wanted, she crouched down so her eyes were level with his. “And what about you, handsome? You look like a chocolate chip kind of guy.”\n\nLuca did not answer. His gaze stayed on the window.\n\nVincent felt the old reflex rise—the apology, the explanation, the careful lie. He’s shy. He’s tired. He doesn’t talk much. But Emily did not wait for any of it.\n\n“Strong, silent type,” she said. “I respect that. Some of the best people I know are great listeners.” She straightened and looked at Vincent. “Pancakes? Ours are the best in Jersey. The sign outside says so, and the sign has never lied to me.”\n\n“Chocolate chip,” Vincent said. “And bacon.”\n\n“Extra crispy?”\n\n“Yes.”\n\n“Perfect. And for you, buddy—” She turned back to Luca. “I’m going to bring you the fluffiest pancakes we’ve got, chocolate chips in every bite, and I’ll put the syrup on the side so you can decide exactly how much you want. Sound good?”\n\n \n.....................................\nIf you need to find the full post within the comments section, try this: go to the comments, select 'Most relevant' and switch to 'All comments'—then look for the 'blue text', click on it, and you will be directed to the full post",
+    "wp_media_id": 7243,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-ru.jpg"
+   },
+   "source_key": "post:100044599086455_1644609203702367",
+   "status": "preparing"
   },
   "2026-11-01 21:00": {
    "langs": {},
@@ -722,6 +732,18 @@
  },
  "source_cutoff": "2026-10-29T16:40:38+00:00",
  "sources": {
+  "link:8d799be26b9aff1dc1cc": {
+   "link": "https://www.facebook.com/share/p/1GjKgpmmPm/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1644609203702367&id=100044599086455"
+  },
+  "post:100044599086455_1644609203702367": {
+   "fingerprint": "dee6e299d4c1fc2225c8",
+   "link": "https://www.facebook.com/share/p/1GjKgpmmPm/",
+   "origin": "manual",
+   "page_id": "100044599086455",
+   "slot": "2026-11-01 18:00",
+   "status": "reserved"
+  },
   "post:100045261260562_1699103431608349": {
    "fingerprint": "72333163c518fa427e98",
    "link": "https://www.facebook.com/story.php?story_fbid=1699103431608349&id=100045261260562",

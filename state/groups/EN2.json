@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:38:32+04:00",
  "output_fps": {
+  "90f752e134f7f161178f": "2026-11-01T14:03:51+00:00",
   "96662a0e4435c54bf499": "2026-10-31T10:14:42+00:00",
   "aa74c11de94c64604d06": "2026-10-29T20:16:43+00:00",
   "ab2684370021c4a303d7": "2026-10-29T20:24:47+00:00",
@@ -1514,9 +1515,56 @@
    "status": "done"
   },
   "2026-11-01 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A Tiny Girl in a Red Coat Stood at the Mafia Don's Gate and Said, \"Daddy, You Owe Me Three Years of Formula Money",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7248,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-01T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/857232221_1646866146810006_7744403130021622179_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8h3MJv7zCOAQ7kNvwF5Ph59&_nc_oc=AdoVL4svtjr243_Xf0yPLMdWMnNiw3yJ2GxN5P5uMEoFihEsDY7Ga7EyUiuRBFG7MMs&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=o3Bjzadd3P907IfBelurwA&_nc_tpa=Q5bMBQJEMbybguzy-cXVkHYZL2y26PGms4UX_Lz61fD0TmbgSr5AD8xyH1EdN-r4d_jC0VUEPAKHA1U58Q&oh=00_AQQ_Wqd116wn9-J17tEELxV8vmvWG6i3L6ov1rBZXgiQYg&oe=6AED16C4",
+    "link": "https://www.facebook.com/share/p/1DiAH4KpQi/",
+    "origin": "manual",
+    "page_id": "100044599086455",
+    "text": "Mafia Don, Your Three-Year-Old Debt Collector Is Here | Tiny Girl Who Shook A Mafia Clan\n\nThe night I met my father, I was three years old, carrying a seashell, a receipt, and a photograph in the pocket of a coat my mother had sewn shut. She had been dead for eleven days. I didn't know that yet. I only knew I was supposed to find Don Giuliano and tell him he owed me three years of formula money. The men at the gate laughed. One called me a scammer. What none of us understood was that my mother hadn't sent me there to collect a debt. She'd sent me there to be found.\n\nCHAPTER 1 — A CHILD AT THE GATE\n\nThere's a kid at the gate.\n\nThe intercom speaker was bad, and the words came through flattened, as if the rain had gotten into the wire. Giuliano Marchetti did not look up from the ledger. Whose kid?\n\nDon't know. She says she's here to see Don Giuliano.\n\nMarco Rinaldi laughed into his coffee cup. You're taking clients this young now? Must be an urgent one.\n\nGiuliano closed the ledger. He was forty-one, and he had been don for eleven years, and in that time he had learned that the world sent its messages in stupid packages. He took his coat off the hook and went out.\n\nThe rain had been falling since four o'clock. It came down in ropes now, off the eaves, off the gutters, turning the gravel drive into a black river that ran downhill toward the bay. The gatehouse lights were two yellow squares in the wet dark. Sal, the gate man, stood under the overhang with his collar up and his hand near his coat. Ten feet from him, on the other side of the iron, stood a child.\n\nShe was small. That was the first thing. Small in the way that made the gate look like a wall and the wall look like a country. She wore a red coat that came down past her knees, and the sleeves swallowed her hands, and her hair was plastered to her forehead in dark strings. She held a plastic grocery bag against her chest with both arms, the way you hold something you have been told not to drop.\n\nWho left her standing in the rain? Giuliano said.\n\nSal shifted. She came up the hill on foot, Don. Wouldn't say anything except she wanted to see you. I didn't want to open the gate for—\n\nFor a child.\n\nFor a stranger, Don.\n\nGiuliano looked at him for a moment. We're not street thugs, he said. Three lashes. Later.\n\nSal lowered his eyes. Yes, Don.\n\nGiuliano walked to the gate himself. Up close the girl was smaller still. Her shoes were thin things, soaked through, with a hole in one toe. Her face was very dirty and very calm, and her eyes went up and up until they found his.\n\nAre you Don Giuliano?\n\nI am.\n\nShe nodded, as if she had checked something off a list. Then she said, Daddy, you owe me three years of formula money.\n\nBehind him, Marco laughed. Scammers are getting younger every year. Huh.\n\nThe girl turned her head. I'm not a scammer. Mommy said if you owe money, you need a receipt.\n\nShe let go of the bag with one hand and reached inside her coat, into a pocket that had been sewn shut with red thread, and pulled out a folded piece of paper. It was damp at the edges but dry in the middle, because she had kept it against her body. She held it up.\n\nGiuliano took it.\n\nIt was a bank transfer receipt. Five million dollars. From V. Marchetti to E. Rossi. The date was four years and five months old. His father's signature sat at the bottom in blue ink.\n\nThe rain ran down his face. He did not wipe it away.\n\nWhere did you get this?\n\nMommy gave it to me. She said I can't lose it.\n\nWho's your mommy?\n\nElena. That's my mommy's name.\n\nCheyenne had come down from the house. She stood under the portico with her arms folded, in a gray sweater, her hair perfect. Dad, she said. Even something this convincing doesn't prove anything. Fake receipts are easy to make.\n\nIt's real, the girl said.\n\nSweetheart—\n\nMommy said daddy hurts here on the left. The girl touched her own left side, high on the ribs, under the arm. When it hurts, he can't drink cold water.\n\nThe rain seemed to get louder.\n\nOnly three people had known that. Harrison, who had dug the bullet out. Elena, who had changed the dressing every night for five months. And Giuliano.\n\nKid, he said. What's your name?\n\nMia. She said it carefully, like a thing she was proud of. Mommy says my name is small, like me, but it has a smile in it.\n\nMia. He said it back to her. Where is your mother?\n\nMommy's asleep.\n\nWhere?\n\nThe White House. Miss Clara said Mommy was tired, so she had to sleep for a long time.\n\nGiuliano had learned to keep his face still while men died in front of him. He could not keep it still now.\n\nHe opened the gate.\n\nCome inside, he said.\n\nShe looked at the gate, then at him, then at the gate again. Can I come in?\n\nCome in.\n\n \n.....................................\nType '𝐍𝐄𝐗𝐓'to view the full story. I’ll 'like' your comment once the link to the full post is published. \nIf you need to find the full post within the comments section, try this: go to the comments, select 'Most relevant' and switch to 'All comments'—then look for the 'blue text', click on it, and you will be directed to the full post",
+    "wp_media_id": 7247,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-en2.jpg"
+   },
+   "source_key": "post:100044599086455_1647951820034772",
+   "status": "prepared"
   },
   "2026-11-01 21:00": {
    "langs": {},
@@ -1541,6 +1589,18 @@
  },
  "source_cutoff": "2026-10-29T16:38:32+00:00",
  "sources": {
+  "link:8410de4bc754ac2276ee": {
+   "link": "https://www.facebook.com/share/p/1DiAH4KpQi/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1647951820034772&id=100044599086455"
+  },
+  "post:100044599086455_1647951820034772": {
+   "fingerprint": "5cd6ef60736cf18ba8dc",
+   "link": "https://www.facebook.com/share/p/1DiAH4KpQi/",
+   "origin": "manual",
+   "page_id": "100044599086455",
+   "slot": "2026-11-01 18:00",
+   "status": "used"
+  },
   "post:100045261260562_1699156498269709": {
    "fingerprint": "cffc519128617c7dc49f",
    "link": "https://www.facebook.com/story.php?story_fbid=1699156498269709&id=100045261260562",

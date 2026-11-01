@@ -968,7 +968,17 @@
   "2026-11-01 18:00": {
    "langs": {},
    "slot_iso": "2026-11-01T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/855220471_1643121830517771_8517023009301946656_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5g-Ve_tBZYIQ7kNvwGnanre&_nc_oc=Adr5CjIBQ81lnvSewGsfRSbWGsh4E_F0ZurLaXAg3pwYLdRcdQAaIeC26HzpmdKX-7s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=nXuRlV5hgP_8MEiLKoQn-g&_nc_tpa=Q5bMBQIBnZJkaqgQl1jGb4qF4Hrahys9gO5wLzHTDKPIBFAi35v0-X6wufmvcwb7yqg7SR6qVilMeDxlhw&oh=00_AQSlLf8vfHNaiIfmKdiTWUGwAH7oGm32DDLcPtJJoXPeqA&oe=6AED2138",
+    "link": "https://www.facebook.com/share/p/1HnoPVwZTy/",
+    "origin": "manual",
+    "page_id": "100044599086455",
+    "text": "The Maid’s Toddler Walked Into a Mafia Meeting With a Pink Suitcase—Then Warned the Boss\n\nThe suitcase arrived before the child did.\n\nIts wheels were the size of coins, pink plastic, and they rattled across the polished hardwood of the corridor like small teeth. Eight men at the long walnut table heard that sound before they heard the breathing behind it. The wheels crossed the threshold, slowed, and stopped.\n\nDamon Reyes looked toward the double doors.\n\nHe expected Selena. Perhaps one of the kitchen staff sent to retrieve the little girl from whatever corner of the estate she had conquered that afternoon. Instead, Ruby Castillo walked into a room occupied by eight grown men who could make entire neighborhoods nervous simply by arriving together.\n\nShe was not yet three. Her dark curls were crooked from sleep. One sock had slipped halfway down her ankle. Both hands were wrapped around the extended handle of a suitcase so brightly pink it looked almost obscene against the dark wood and gray suits. The zipper had not closed properly. A yellow shirt was caught in the gap. One ear of her stuffed rabbit protruded through the opening, and Damon could see enough folded clothing inside to understand that this was not a game.\n\nShe did not hesitate when every face turned toward her. She crossed the room directly to Damon, stopped at the head of the table, and let the suitcase fall upright beside her leg.\n\nThe room held its breath.\n\n“We have to go now,” she said.\n\nDamon’s hand stopped over the folder in front of him. Across the table, a man named Corbin had been halfway through a sentence about a route dispute that had already cost them two weeks and one damaged shipment. His mouth remained open.\n\n“Go where, sweetheart?”\n\nRuby shook her head. “Away.”\n\nA few men exchanged glances. Damon did not. He pushed his chair back, the legs scraping once against the floor, and crouched until his eyes were level with hers. Up close, he could see the faint crease between her brows, the concentrated gravity children wore when they had been given a message they knew mattered but did not fully understand.\n\n“Did your mom tell you that?”\n\nRuby nodded.\n\n“She said pack fast before the man comes back.”\n\nSomething in Damon’s chest tightened. He kept his voice soft. “What man?”\n\n“I don’t know.”\n\n“Did you see him?”\n\nAnother shake of the head.\n\n“What exactly did your mom say?”\n\nRuby pressed her lips together, working to remember. “She said we have to leave before he comes back.” A pause. “And she said don’t take the black car.”\n\nDamon did not move for half a second.\n\nThe black SUV was not simply one of the vehicles on the estate. It was the vehicle he used when something had gone wrong enough that leaving quickly mattered. Very few people outside his security team knew that. Even fewer would know that Selena had ever heard it.\n\nHe stood.\n\nThe men around the table saw the change immediately. Damon Reyes had spent eleven years running the family’s operations across the Southwest, long enough to know that panic was contagious and visible uncertainty was expensive. He had built his reputation on rarely moving before he understood the board. People mistook that patience for slowness until they discovered, usually too late, that he had simply been counting farther ahead than they had.\n\n“Meeting’s over,” he said.\n\nOne of the men blinked. “Damon, we still need to settle the route issue.”\n\n“Not anymore.”\n\nDamon’s eyes stayed on Ruby. “Nobody leaves this room until Marcus clears it.”\n\nThe room went completely still.\n\n \n.....................................\nIf you need to find the full post within the comments section, try this: go to the comments, select 'Most relevant' and switch to 'All comments'—then look for the 'blue text', click on it, and you will be directed to the full post",
+    "wp_media_id": 7242,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-fr.jpg"
+   },
+   "source_key": "post:100044599086455_1644261257070495",
+   "status": "preparing"
   },
   "2026-11-01 21:00": {
    "langs": {},
@@ -993,6 +1003,18 @@
  },
  "source_cutoff": "2026-10-29T16:35:35+00:00",
  "sources": {
+  "link:2c9d1a969d296cd96efe": {
+   "link": "https://www.facebook.com/share/p/1HnoPVwZTy/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1644261257070495&id=100044599086455"
+  },
+  "post:100044599086455_1644261257070495": {
+   "fingerprint": "f7615478a2397c924d9a",
+   "link": "https://www.facebook.com/share/p/1HnoPVwZTy/",
+   "origin": "manual",
+   "page_id": "100044599086455",
+   "slot": "2026-11-01 18:00",
+   "status": "reserved"
+  },
   "post:100045261260562_1699072051611487": {
    "fingerprint": "f8fa08ba8c7252c10bbb",
    "link": "https://www.facebook.com/story.php?story_fbid=1699072051611487&id=100045261260562",

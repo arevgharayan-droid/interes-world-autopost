@@ -602,7 +602,17 @@
   "2026-11-01 18:00": {
    "langs": {},
    "slot_iso": "2026-11-01T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/853628771_1640347117461909_6234038008442124620_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eRT37V6Opo0Q7kNvwG--ydS&_nc_oc=Ado7qXEwKrVBfl4RQRYOi3r4WkwrSYiJaS9LvTPwLdmYdLSgaxebtZ4y8bA7hMBMsso&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GiPB5VaEkuDzhRKCWhGtPw&_nc_tpa=Q5bMBQLzo4KkwCigyEtqjr4jDkazV8FSnEO6thAaj3BwRXKiv1QQ1Sxcn7QPXm72oj1VYUS_mkgtnZJgJA&oh=00_AQSZ0X4vlL8eBB91JngOYG6_3OcI7sdUKkGsPZYlcsM-aw&oe=6AED2AAF",
+    "link": "https://www.facebook.com/share/p/1CRSdawFiJ/",
+    "origin": "manual",
+    "page_id": "100044599086455",
+    "text": "She Ordered One Plate for Her Son and Ate Nothing — The Man at the Next Table Was the Owner\n\nThe waiter did not lower his voice, and that was the worst of it.\n\nMadame, I must ask you to move. There is a small table by the kitchen door. These tables by the sea are for guests with a full order.\n\nAnna Lenoir kept her hands flat on the tablecloth, one on either side of her empty plate, as if the linen might otherwise lift and carry her away. The plate in front of her was white and clean and had never held anything. The glass beside it held tap water, half gone, clouded with the warmth of the afternoon. Across from her, her son had stopped chewing.\n\nTheo was eight years old today. He had a smear of tomato at the corner of his mouth and a fork suspended halfway to it, and he was looking at the waiter the way a small animal looks at a shadow that has moved.\n\nI'm sorry, Anna said. Her voice came out smaller than she wanted. We're nearly finished.\n\nMadame. The waiter's jacket was very white, whiter than the tablecloths, whiter than the yachts out on the water. He had a way of holding the menu against his chest like a shield. The terrace is for guests taking a full meal. You understand. It is not a personal matter.\n\nIt was July in Monaco and the light off the harbor was the color of melted butter. Along the stone balustrade, white umbrellas turned slowly in the breeze, and beneath them sat people with sunglasses and watches and lobsters split open on their plates, their forks moving in slow, unhurried arcs. A string of small boats idled past the breakwater. Somewhere below, on the quay, a man was hosing down a deck and singing.\n\nTwo years ago, Anna had stood on this quay in a black dress with a boy holding her hand and had not been able to make herself look up at this terrace. Today she had finally climbed the steps.\n\nWe came for his birthday, she said.\n\nI understand, madame. The table by the kitchen door is also on the terrace.\n\nTheo set his fork down. He did it carefully, lining it up beside the plate the way he had been taught, and Anna felt something in her chest fold over like a page.\n\nShe had counted the money twice that morning, on the kitchen table, in the grey light before Theo woke. Forty-one euros. Train from Menton, two returns, twenty-nine fifty. Spaghetti with tomato sauce, nine euros, the cheapest thing on the card. Orange juice, four. The rest was coins in the bottom of her purse, and she had known, doing the arithmetic on the back of an old receipt, that there was enough for exactly one plate.\n\nIt's fine, she said, and reached for her purse. Theo. Come.\n\nAt the next table, a man in a navy blazer put down his knife.\n\nHe had done it slowly, deliberately, the way a man sets down something he intends to pick up again much later, and he had not looked up from his plate while doing it. Grilled lobster, untouched on one side, a glass of iced water, no wine. He had dark hair going grey at the temples and a face that had been photographed often enough that it had learned to hold still. He was thirty-six years old and he had been eating alone at that table every Tuesday for two years.\n\nThey will stay where they are, he said, without raising his voice at all. They are my guests.\n\n \n.....................................\nIf you need to find the full post within the comments section, try this: go to the comments, select 'Most relevant' and switch to 'All comments'—then look for the 'blue text', click on it, and you will be directed to the full post",
+    "wp_media_id": 7245,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-nl.jpg"
+   },
+   "source_key": "post:100044599086455_1643319187164702",
+   "status": "preparing"
   },
   "2026-11-01 21:00": {
    "langs": {},
@@ -627,6 +637,18 @@
  },
  "source_cutoff": "2026-10-29T16:39:48+00:00",
  "sources": {
+  "link:8a3fc5e738a010d89d04": {
+   "link": "https://www.facebook.com/share/p/1CRSdawFiJ/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1643319187164702&id=100044599086455"
+  },
+  "post:100044599086455_1643319187164702": {
+   "fingerprint": "203b7aaf74ab3b5910cf",
+   "link": "https://www.facebook.com/share/p/1CRSdawFiJ/",
+   "origin": "manual",
+   "page_id": "100044599086455",
+   "slot": "2026-11-01 18:00",
+   "status": "reserved"
+  },
   "post:100045261260562_1698998888285470": {
    "fingerprint": "82ad13dcc80155984bd8",
    "link": "https://www.facebook.com/story.php?story_fbid=1698998888285470&id=100045261260562",
