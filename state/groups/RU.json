@@ -2,6 +2,7 @@
  "enabled_since": "2026-10-29T20:40:38+04:00",
  "output_fps": {
   "0475676f7d35cf5ec822": "2026-10-29T20:24:32+00:00",
+  "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00"
@@ -601,7 +602,44 @@
    "status": "done"
   },
   "2026-11-01 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Шестеро детей не пришли на мой 60-летний юбилей, а в девять вечера в дверь постучал полицейский с запиской от сына",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7232,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-01T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/870608754_1605697084922153_8860813883384494863_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sGLQjA12TDoQ7kNvwHHGzeS&_nc_oc=Adp_QlGPPglHDLhhxSDRoThcH7XdpWHTT2OD7S-e3kOl9ef5SCSbHNhlq4Xl51GZ_eU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=o7QLcw-4VpukzQq2-CE4IQ&_nc_tpa=Q5bMBQLiDMp5EAgQ3PdPXYLQTBqaIEZZcrkdGMX_S8CpxE3KU5XKRtwwvzvwG23lkBOrtKvQyqZjEPuY7w&oh=00_AQSD3yNdQvgst7pi38M5q-xrSnxVSEzrahNbAlrup1m97g&oe=6AECE831",
@@ -613,7 +651,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1500-ru.jpg"
    },
    "source_key": "post:100064456312444_1605697694922092",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-01 18:00": {
    "langs": {},
@@ -652,7 +690,7 @@
    "origin": "manual",
    "page_id": "100064456312444",
    "slot": "2026-11-01 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122102285582536431": {
    "fingerprint": "ee49e5bda02151657312",
