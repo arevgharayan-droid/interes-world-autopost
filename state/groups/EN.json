@@ -1638,6 +1638,7 @@
       },
       "162144310308183": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-01T18:04:48+04:00",
        "mode": "immediate",
@@ -1647,21 +1648,25 @@
       },
       "220697507802568": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122339503904237583_1642075317298238",
        "error": null,
        "last_attempt": "2026-11-01T18:04:43+04:00",
        "mode": "immediate",
        "photo_id": "122339503880237583",
        "post_id": "220697507802568_122339503904237583",
-       "status": "published"
+       "status": "done"
       },
       "236129656261330": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122228554700294596_2062877414417569",
        "error": null,
        "last_attempt": "2026-11-01T18:04:38+04:00",
        "mode": "immediate",
        "photo_id": "122228554670294596",
        "post_id": "236129656261330_122228554700294596",
-       "status": "published"
+       "status": "done"
       },
       "237939756073256": {
        "attempts": 1,
@@ -1697,12 +1702,13 @@
       "975714512286925": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122148160983209153_1516007327033124",
        "error": null,
        "last_attempt": "2026-11-01T18:04:33+04:00",
        "mode": "immediate",
        "photo_id": "122148160959209153",
        "post_id": "975714512286925_122148160983209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "He Was the Most Feared Man in the City, Until He Saw the Torn Shoes on His Maid's Little Girl",
