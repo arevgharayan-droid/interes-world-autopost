@@ -102,7 +102,7 @@
   "997772916762884_122112170342437662": "2026-10-30T08:16:39+00:00",
   "997772916762884_122112275810437662": "2026-10-31T10:15:04+00:00",
   "997772916762884_122112315524437662": "2026-10-31T20:07:05+00:00",
-  "997772916762884_122112315596437662": "2026-10-31T18:34:17+00:00"
+  "997772916762884_122112315596437662": "2026-11-01T08:06:41+00:00"
  },
  "slots": {
   "2026-10-29 21:00": {
@@ -934,21 +934,24 @@
       "1160223747182678": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122133312315400586_1057344194023170",
        "error": null,
        "last_attempt": "2026-10-31T22:34:13+04:00",
        "mode": "schedule",
        "photo_id": "122133312279400586",
        "post_id": "1160223747182678_122133312315400586",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112315596437662_1111949791434186",
        "error": null,
        "last_attempt": "2026-10-31T22:34:15+04:00",
        "mode": "schedule",
        "photo_id": "122112315566437662",
        "post_id": "997772916762884_122112315596437662",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Mi ha cacciata di casa durante le contrazioni, ma il giorno dopo una generale mi ha salutata davanti alla sua amante",
@@ -981,7 +984,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-it.jpg"
    },
    "source_key": "post:1011074408765807_122102718824536431",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-01 15:00": {
    "langs": {},
