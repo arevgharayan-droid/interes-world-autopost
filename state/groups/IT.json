@@ -1352,6 +1352,12 @@
        "photo_id": "122133560397400586",
        "post_id": "1160223747182678_122133560427400586",
        "status": "scheduled"
+      },
+      "997772916762884": {
+       "attempts": 1,
+       "last_attempt": "2026-11-01T22:14:33+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "Tornata dalla missione con tre settimane di anticipo, trovo mia figlia di 4 anni sola e affamata: poi il grido di mio marito sull'armadio chiuso a chiave",
