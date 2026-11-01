@@ -980,7 +980,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-01T18:04:13+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Une fillette de deux ans entre en pleine réunion de la mafia avec sa valise rose et lance au patron : « Il faut partir maintenant",
      "warnings": [
       "длина статьи 962 слов"
