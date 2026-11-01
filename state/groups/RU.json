@@ -659,12 +659,13 @@
       "988042774402200": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122133389732733774_954190547427980",
        "error": null,
        "last_attempt": "2026-11-01T14:36:57+04:00",
        "mode": "schedule",
        "photo_id": "122133389702733774",
        "post_id": "988042774402200_122133389732733774",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Шестеро детей не пришли на мой 60-летний юбилей, а в девять вечера в дверь постучал полицейский с запиской от сына",
@@ -691,7 +692,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1500-ru.jpg"
    },
    "source_key": "post:100064456312444_1605697694922092",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-01 18:00": {
    "langs": {},
