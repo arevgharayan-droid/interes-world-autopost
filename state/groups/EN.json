@@ -1277,12 +1277,13 @@
       "975714512286925": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122148025251209153_3162305803966915",
        "error": null,
        "last_attempt": "2026-10-31T22:34:35+04:00",
        "mode": "schedule",
        "photo_id": "122148025221209153",
        "post_id": "975714512286925_122148025251209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "He Woke Me With a Bucket of Ice Water on My 38th Birthday — So I Packed His Suitcase and Made One Phone Call",
@@ -1323,7 +1324,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-en.jpg"
    },
    "source_key": "post:1011074408765807_122102410994536431",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-01 15:00": {
    "langs": {},
