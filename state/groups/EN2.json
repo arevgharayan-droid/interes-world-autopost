@@ -1460,12 +1460,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122137074698776189_1655878685886855",
        "error": null,
        "last_attempt": "2026-11-01T14:36:45+04:00",
        "mode": "schedule",
        "photo_id": "122137074668776189",
        "post_id": "994273113779575_122137074698776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "For Seven Years I Sent My Son-in-Law $40,000 Every January for My Granddaughter, Until She Whispered, \"Grandpa, Please Stop",
@@ -1510,7 +1511,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1500-en2.jpg"
    },
    "source_key": "post:61587324730850_122142837687244157",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-01 18:00": {
    "langs": {},
