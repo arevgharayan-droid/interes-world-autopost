@@ -1191,12 +1191,13 @@
       "1250374694822508": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122121939159415639_1610197573914824",
        "error": null,
        "last_attempt": "2026-11-01T22:14:31+04:00",
        "mode": "schedule",
        "photo_id": "122121939129415639",
        "post_id": "1250374694822508_122121939159415639",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "À 71 ans, elle gagne 89 millions de dollars en secret. Trois mois plus tard, son fils lui demande quand elle partira enfin, et six jours après, elle achète la maison de leurs rêves",
@@ -1237,7 +1238,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-fr.jpg"
    },
    "source_key": "post:61591284134933_122129895657376137",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-02 12:00": {
    "langs": {},
