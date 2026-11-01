@@ -627,7 +627,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1008693642337213": {
+       "attempts": 1,
+       "last_attempt": "2026-11-01T14:36:54+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Шестеро детей не пришли на мой 60-летний юбилей, а в девять вечера в дверь постучал полицейский с запиской от сына",
      "warnings": [],
      "wp_error": null,

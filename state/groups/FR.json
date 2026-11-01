@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:35:35+04:00",
  "output_fps": {
+  "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
   "dfc264e5088ceb9596c5": "2026-10-29T20:16:43+00:00",
@@ -831,7 +832,46 @@
    "status": "done"
   },
   "2026-11-01 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle a abandonné son bébé à 18 ans, mais 31 ans plus tard, le chirurgien qui lui a sauvé la vie portait le petit crucifix qu'elle avait caché dans sa couverture",
+     "warnings": [
+      "длина текста FB 1223 слов (исходник 888, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 7233,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-01T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/866826952_1604735668351628_7712279469874873836_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W5mOQQuW9zgQ7kNvwFj8XAp&_nc_oc=Adr45-KhivnznJrh9eASruq36ixcGRAIKDwmqAQBg-P0vpnNu0RJMd3NJpWfD8iB5Hw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=wOqVL5ZPVIevV0pzgQWJHg&_nc_tpa=Q5bMBQLq-OfuL3CLRM7grOBZfe3PssbtcA3ex9OQHW-S2ibm4ygauCW5oLNaKWcSEL1nW7Q49rqIQ5LzJw&oh=00_AQQiGLvHBkVoxh9TTTb0puMzdemclxRIjEXJTn6xuV1v2w&oe=6AECCC9E",
@@ -843,7 +883,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1500-fr.jpg"
    },
    "source_key": "post:100064456312444_1604736138351581",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-01 18:00": {
    "langs": {},
@@ -882,7 +922,7 @@
    "origin": "manual",
    "page_id": "100064456312444",
    "slot": "2026-11-01 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122101879646536431": {
    "fingerprint": "b5ed31862cee3216b94b",
