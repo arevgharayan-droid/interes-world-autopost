@@ -630,21 +630,24 @@
       "633031599904551": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122219900048930012_964351436749483",
        "error": null,
        "last_attempt": "2026-11-01T18:04:29+04:00",
        "mode": "immediate",
        "photo_id": "122219900018930012",
        "post_id": "633031599904551_122219900048930012",
-       "status": "published"
+       "status": "done"
       },
       "715935674934966": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122200795388922316_1141149565158498",
        "error": null,
        "last_attempt": "2026-11-01T18:04:33+04:00",
        "mode": "immediate",
        "photo_id": "122200795358922316",
        "post_id": "715935674934966_122200795388922316",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ze bestelde één bord voor haar zoon en at zelf niets, maar de man aan het volgende tafeltje was de eigenaar",
@@ -677,7 +680,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-nl.jpg"
    },
    "source_key": "post:100044599086455_1643319187164702",
-   "status": "prepared"
+   "status": "done"
   },
   "2026-11-01 21:00": {
    "langs": {},
