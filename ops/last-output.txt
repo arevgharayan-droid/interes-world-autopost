@@ -1,9 +1,9 @@
-## Раскрытие ссылок
+## Ссылки: что внутри
 
-- https://www.facebook.com/share/p/1A1iL2aHtz/ → url=https://www.facebook.com/story.php?story_fbid=1078152595272345&id=100092328442705&rdid=Uwopj64NkGZOqoXa&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1078152595272345 | id=100092328442705 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1E9N7wEZUe/ → url=https://www.facebook.com/story.php?story_fbid=122143561461244157&id=61587324730850&rdid=BBRCPyWlcDeHpDK8&share_url=https%3A%2F%2Fwww.facebook.com%2Fsh | story_fbid=122143561461244157 | id=61587324730850 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1KojH3Qaoe/ → url=https://www.facebook.com/story.php?story_fbid=122142837687244157&id=61587324730850&rdid=Iti1Zig9JxCumLjA&share_url=https%3A%2F%2Fwww.facebook.com%2Fsh | story_fbid=122142837687244157 | id=61587324730850 (?) | post_id= | title=
-- https://www.facebook.com/share/p/19viBqdJgs/ → url=https://www.facebook.com/story.php?story_fbid=1605697694922092&id=100064456312444&rdid=blegNAPPGOlOL8nr&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1605697694922092 | id=100064456312444 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1C7evYZ666/ → url=https://www.facebook.com/story.php?story_fbid=1604736138351581&id=100064456312444&rdid=L2mpfxu37nk5kiJT&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1604736138351581 | id=100064456312444 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1MHDTabH9X/ → url=https://www.facebook.com/story.php?story_fbid=1599735255518336&id=100064456312444&rdid=9Np3UUjev9b7RSOv&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1599735255518336 | id=100064456312444 (?) | post_id= | title=
+1. (RU, 6991 знаков) «Меня один раз обидели свёкор со свекровью, и я перестала к ним ездить на дни рождения, на праздники, на выходные Меня обидели один раз. Но так, что хв…»
+2. (FR, 3296 знаков) «À 64 ans, j’ai épousé un homme de 31 ans. Six mois plus tard, j’ai remarqué que, chaque soir, il ajoutait quelque chose en cachette dans ma boisson et…»
+3. (FR, 2413 знаков) «Pendant sept ans, après la mort de ma fille, j’ai envoyé chaque mois de janvier 40 000 dollars à son mari pour l’aider à s’occuper de ma petite-fille.…»
+4. (RU, 6320 знаков) «Я провела четыре мучительных часа в ожидании, когда мои шестеро детей приедут на ужин в честь моего 60-летия. Но никто из них так и не появился. Никто…»
+5. (RU, 5820 знаков) «Мне было всего восемнадцать, когда родители заставили меня отказаться от новорождённого сына. На протяжении тридцати одного года я искала его, даже не…»
+6. (RU, 6693 знаков) «Моей семилетней дочери и мне сказали отказаться от наших мест в первом классе в пользу богатого бизнесмена и «пересесть назад», словно именно там и бы…»
 
