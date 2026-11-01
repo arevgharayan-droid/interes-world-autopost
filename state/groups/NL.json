@@ -543,7 +543,10 @@
      "generated": true,
      "pages": {},
      "title": "Ze moesten hun plek in de eerste klas afstaan aan een zakenman, tot de piloot de cockpit uitkwam en salueerde",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7235,
+     "wp_status": "future"
     },
     "RU": {
      "pages": {},
@@ -554,6 +557,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-01T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/860256529_1599444505547411_660017278496912559_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0jgV0oJCu4YQ7kNvwHBpIOp&_nc_oc=AdrhNenEP82tTRHygoBRshCOvvmP5i7b9md6mm_MUQlf987SmR6EH66QfuU3sFtiTd4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Cog-NaUiTW5YQFwqGcup3w&_nc_tpa=Q5bMBQImbdEjdwxhIfPSQlWY9-kknRuEAMjhN5ME6pb3pqY8SVHACAp58pXtgcmbV7LNQTcv5CdFEQz1Wg&oh=00_AQRrWYoqHlGeyLuJ8Lbvf7LmPZZiZ1gniYknnEXSXtQOpQ&oe=6AECDED1",
@@ -565,7 +569,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1500-nl.jpg"
    },
    "source_key": "post:100064456312444_1599735255518336",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-01 18:00": {
    "langs": {},
@@ -604,7 +608,7 @@
    "origin": "manual",
    "page_id": "100064456312444",
    "slot": "2026-11-01 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122101695644536431": {
    "fingerprint": "e20728e7a596426a0fae",
