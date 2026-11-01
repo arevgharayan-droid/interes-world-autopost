@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:36:25+04:00",
  "output_fps": {
+  "2116a560bb8b542f0caf": "2026-11-01T18:14:23+00:00",
   "24ef5b43174759b5cb24": "2026-10-29T20:16:50+00:00",
   "27cf43d3866fe7568230": "2026-10-29T20:24:35+00:00",
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
@@ -1312,7 +1313,44 @@
    "status": "missed"
   },
   "2026-11-02 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Tornata dalla missione con tre settimane di anticipo, trovo mia figlia di 4 anni sola e affamata: poi il grido di mio marito sull'armadio chiuso a chiave",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7263,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-02T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/861788992_122129839767376137_4950462556525273092_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ADvlyK-lKpMQ7kNvwGToUcc&_nc_oc=Adr_EQq1xhKxLHUrLKyfmUmtSzXJtfGmnMFF3GCcuMKyBYNunL0iLDZbYvXvviV3-hM&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=3HcuKJf7WiF9wYBOrpmhDA&_nc_tpa=Q5bMBQIxqacAdKlcU4iNobQAKmQim8b48D4mZxaAJSmNZuNkFUtxv1MfqGO05jBVjRHlMSl_Cp8LzIr2gQ&oh=00_AQS8PqquPUUDzCHwu2M21gjYNRDZ25r65HQySAsTyEl7pg&oe=6AED6B16",
@@ -1324,7 +1362,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-it.jpg"
    },
    "source_key": "post:61591284134933_122129839845376137",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-02 12:00": {
    "langs": {},
@@ -1403,7 +1441,7 @@
    "origin": "manual",
    "page_id": "61591284134933",
    "slot": "2026-11-02 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140365723225301": {
    "fingerprint": "09158682ef11c459c1e8",
