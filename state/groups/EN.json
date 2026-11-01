@@ -1329,7 +1329,17 @@
   "2026-11-01 15:00": {
    "langs": {},
    "slot_iso": "2026-11-01T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/871179231_122143561389244157_520229485453008069_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9hg7sXQcm-MQ7kNvwGn14i6&_nc_oc=AdrzpRbESM68FSxy2KuBMcdeLhgGhHDlR0n-iaot28dWul7IBRYUP2zRTRkZ7KY0Og8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=eSQhHgXZzAzKhGx-9ejZeQ&_nc_tpa=Q5bMBQJxCbcMdZgnCos0FJvFBjf3kXXGT-8VNcoSgMksnXcZYUIkkGUWF7yIUVW1IpSYRqGw_u5pQbdZSg&oh=00_AQQ46y6AiaaWCAWftA8eTzCiugLhboPFfxN85E_u06yI5Q&oe=6AECCEFE",
+    "link": "https://www.facebook.com/story.php?story_fbid=122143561461244157&id=61587324730850",
+    "origin": "manual",
+    "page_id": "61587324730850",
+    "text": "À 64 ans, j’ai épousé un homme de 31 ans. Six mois plus tard, j’ai remarqué que, chaque soir, il ajoutait quelque chose en cachette dans ma boisson et insistait pour que je la finisse jusqu’à la dernière goutte. Un soir, j’ai refusé de la boire et j’ai apporté la bouteille à un laboratoire. Quand le médecin a vu les résultats, il a blêmi, a aussitôt fermé la porte et m’a demandé : « MADAME, VOTRE MARI SAIT-IL QUE VOUS ÊTES ICI ? »…\n\nJe m’appelle Margaret et j’ai 64 ans. Lorsque j’ai épousé Daniel, qui en avait 31, mes proches étaient convaincus que j’avais perdu la tête.\n\nDaniel était un homme d’affaires prospère. Il possédait sa propre entreprise, une somptueuse demeure et suffisamment d’argent pour vivre confortablement jusqu’à la fin de ses jours sans travailler.\n\nJe n’étais pas riche. J’avais travaillé comme institutrice et je vivais avec une modeste pension de retraite.\n\nAlors, quand on me demandait pourquoi un homme aussi jeune et fortuné avait épousé une femme de mon âge, je me contentais de sourire.\n\nParce que je croyais qu’il m’aimait vraiment.\n\nAu début, notre mariage ressemblait à un conte de fées.\n\nDaniel m’offrait des fleurs, préparait le petit-déjeuner et ne me laissait jamais porter quoi que ce soit de lourd.\n\nMais, six mois plus tard, j’ai remarqué une étrange habitude.\n\nChaque soir, il préparait lui-même ma boisson chaude préférée.\n\n« Bois-la, chérie. Tu te sentiras mieux », disait-il.\n\nParfois, il s’asseyait en face de moi et attendait que j’aie fini jusqu’à la dernière goutte.\n\nAu début, j’y voyais une preuve d’amour.\n\nJusqu’au soir où je suis retournée à la cuisine à l’improviste et où je l’ai surpris en train d’ajouter quelque chose dans ma boisson, à partir d’un petit flacon sombre.\n\nDaniel m’a aperçue et a aussitôt glissé le flacon dans sa poche.\n\n« Qu’est-ce que tu viens de mettre dedans ? » lui ai-je demandé.\n\nIl a souri.\n\n« Rien, chérie. Juste un arôme spécial. »\n\nMais ses mains tremblaient.\n\nÀ partir de ce jour, j’ai commencé à avoir peur.\n\nDepuis plusieurs semaines, je me réveillais faible et étourdie. Parfois, je dormais si profondément que je n’entendais même pas mon réveil.\n\nUne nuit, je me suis réveillée et j’ai vu Daniel debout près de notre lit.\n\nIl tenait son téléphone.\n\nIl parlait à voix basse avec quelqu’un.\n\n« Oui, je continue. Mais nous manquons de temps. Si ça continue, nous risquons de la perdre. »\n\nTerrifiée, j’ai fermé les yeux et fait semblant de dormir.\n\nLe soir suivant, j’ai décidé de ne pas boire ce qu’il avait préparé. Quand Daniel a eu le dos tourné, j’ai versé le contenu de ma tasse dans un petit récipient.\n\nLe lendemain matin, après son départ au travail, j’ai apporté l’échantillon à un laboratoire privé.\n\nDeux jours plus tard, j’ai reçu un appel.\n\n« Madame Margaret, le médecin souhaite vous voir immédiatement. »\n\nLorsque je suis entrée dans son cabinet, le médecin examinait les résultats.\n\nSoudain, il a blêmi.\n\nIl s’est levé, a fermé la porte et m’a demandé :\n\n« MADAME, VOTRE MARI SAIT-IL QUE VOUS ÊTES ICI ? »\n\n« Non », ai-je murmuré.\n\n« Je vous en prie, dites-moi… Est-ce qu’il essaie de me tuer ? »\n\nLe médecin m’a regardée en silence.\n\nL’histoire est trop longue pour être publiée entièrement dans la légende. Écrivez simplement « Oui ». La suite sera dans les commentaires ci-dessous. 👇",
+    "wp_media_id": 7229,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1500-en.jpg"
+   },
+   "source_key": "post:61587324730850_122143561461244157",
+   "status": "preparing"
   },
   "2026-11-01 18:00": {
    "langs": {},
@@ -1377,6 +1387,14 @@
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
    "status": "used"
+  },
+  "post:61587324730850_122143561461244157": {
+   "fingerprint": "41b0aed5ae696b79ad95",
+   "link": "https://www.facebook.com/story.php?story_fbid=122143561461244157&id=61587324730850",
+   "origin": "manual",
+   "page_id": "61587324730850",
+   "slot": "2026-11-01 15:00",
+   "status": "reserved"
   },
   "post:photo_122140250871225301": {
    "fingerprint": "46a98d9034c8d6fce365",
