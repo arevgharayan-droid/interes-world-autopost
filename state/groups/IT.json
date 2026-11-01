@@ -5,7 +5,8 @@
   "27cf43d3866fe7568230": "2026-10-29T20:24:35+00:00",
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
   "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
-  "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00"
+  "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00",
+  "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00"
  },
  "outputs": {
   "1030877436782212_122138399762808945": "2026-10-29T17:25:54+00:00",
@@ -1148,7 +1149,40 @@
    "status": "done"
   },
   "2026-11-01 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il boss lasciò la moglie per la segretaria: cinque anni dopo la ritrovò a un gala con due gemelli che avevano i suoi occhi",
+     "warnings": []
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-01T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/871021870_1653559406140680_4902016536189030714_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vko9jqdNYbgQ7kNvwFmCquz&_nc_oc=AdpBeRmSzVVwGLLAb3JdflUBDk0ukYEfpGAEtFqWT69Vul_6vEHp_JhSLqrWczP3tJg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=TaiILSwlRTTk6cLwuZ3NtA&_nc_tpa=Q5bMBQK4hiGlj24aBwZJlbcAGmKCsW7Lu6VBPoxknozsSFp4k5VciIaJIcZBuY49JbpRqfF6DWqQyL-Fbw&oh=00_AQRUfx57aZWRDy8N14_d_rntw8Xy4_WMQPmYpP1c30TM5g&oe=6AED0D0D",

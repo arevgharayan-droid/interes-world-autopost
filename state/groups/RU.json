@@ -5,7 +5,8 @@
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
-  "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00"
+  "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00",
+  "e19af41ca961271a3c24": "2026-11-01T14:04:10+00:00"
  },
  "outputs": {
   "1008693642337213_122117186594640467": "2026-10-29T17:25:54+00:00",
@@ -695,7 +696,40 @@
    "status": "done"
   },
   "2026-11-01 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Сын мафиозного босса два года не говорил ни слова — пока официантка в маленькой закусочной не протянула ему зелёный мелок",
+     "warnings": []
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-01T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/856573502_1644047537091867_3332934874435219054_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vdiIMK_yjVwQ7kNvwEGwNyn&_nc_oc=AdoQnjKb7JMA50Fo_SdJTeSTuCF3YJN5xhB8t3WRFr2V5YU5OiVGlMYvA78hWWBSuT8&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=EnnpO8-Wm4JTmDt-g2dYsA&_nc_tpa=Q5bMBQJty-Gu49GW3Rfap3C7hxOu3xaPztd932BHD4JDX2TSBFdieooQ4dM_G_XuijevuNZY6Fw2UKlHqg&oh=00_AQRqG39-in4x_OJ5Jc700JSgEV6hKEI_xN_OTfDsiGiTBg&oe=6AED2CD7",

@@ -2,6 +2,7 @@
  "enabled_since": "2026-10-29T20:35:35+04:00",
  "output_fps": {
   "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
+  "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
   "dfc264e5088ceb9596c5": "2026-10-29T20:16:43+00:00",
@@ -966,7 +967,46 @@
    "status": "done"
   },
   "2026-11-01 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Une fillette de deux ans entre en pleine réunion de la mafia avec sa valise rose et lance au patron : « Il faut partir maintenant",
+     "warnings": [
+      "длина статьи 962 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 7252,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-01T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/855220471_1643121830517771_8517023009301946656_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5g-Ve_tBZYIQ7kNvwGnanre&_nc_oc=Adr5CjIBQ81lnvSewGsfRSbWGsh4E_F0ZurLaXAg3pwYLdRcdQAaIeC26HzpmdKX-7s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=nXuRlV5hgP_8MEiLKoQn-g&_nc_tpa=Q5bMBQIBnZJkaqgQl1jGb4qF4Hrahys9gO5wLzHTDKPIBFAi35v0-X6wufmvcwb7yqg7SR6qVilMeDxlhw&oh=00_AQSlLf8vfHNaiIfmKdiTWUGwAH7oGm32DDLcPtJJoXPeqA&oe=6AED2138",
@@ -978,7 +1018,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-fr.jpg"
    },
    "source_key": "post:100044599086455_1644261257070495",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-01 21:00": {
    "langs": {},
@@ -1013,7 +1053,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-01 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699072051611487": {
    "fingerprint": "f8fa08ba8c7252c10bbb",
