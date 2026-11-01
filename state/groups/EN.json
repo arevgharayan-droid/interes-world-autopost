@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-10-29T20:37:24+04:00",
  "output_fps": {
+  "2c1881200804eda0b026": "2026-11-01T18:14:02+00:00",
   "4e1d50075aba4f7e15de": "2026-10-29T16:37:54+00:00",
   "5a1a23c72fc75013e47d": "2026-10-31T10:14:39+00:00",
   "655ea8557dcca7162d6c": "2026-11-01T14:03:59+00:00",
@@ -1766,9 +1767,56 @@
    "status": "missed"
   },
   "2026-11-02 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "The Feared Crime Boss Froze When a Three-Year-Old Called Him Ugly and Ordered Him Into a Tiny Pink Chair",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7260,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-02T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/870806704_122144249109210709_8863835065841113928_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TD_pnCDmTcIQ7kNvwGcE0Mu&_nc_oc=Ado9GbtBhLHULz_rrI1ljjwER4VQ4sbyjBqCW6NgzTtPpqwO-BWfDOQpAJPxMTvLLU4&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=30WOPcpkhxuA-L11W4q-fA&_nc_tpa=Q5bMBQLm1E2M3ufKj4y5jTYqKxcEissa5bVKlvMBzcL1cd3atoETDuYMcDJrFvs_wdgvrF2hcAVz_tL7cQ&oh=00_AQS6PYXAkPBQ8pz6f0ejOseVlAGBw-zPS_NUlVwTOtQFYA&oe=6AED6EEA",
+    "link": "https://www.facebook.com/share/p/1C9o8W4z7h/",
+    "origin": "manual",
+    "page_id": "61586321290305",
+    "text": "“STOP LOOKING SO SCARY! MOMMY WON'T LIKE YOU!”\n\nI froze.\n\nFor twenty years, I'd controlled one of New York's most feared criminal organizations.\n\nPowerful men lowered their voices when I entered a room.\n\nMy armed bodyguards never questioned my orders.\n\nAnd nobody had ever dared call me ugly to my face.\n\nUntil a three-year-old girl walked into my office carrying a pink plastic comb.\n\nHer name was Lily Hart.\n\nShe had round cheeks, enormous brown eyes, curly brown hair, and tiny pink sneakers.\n\nAnd apparently, she'd decided I needed a makeover.\n\n“Your hair looks like a mean porcupine,” she announced.\n\nBehind me, my bodyguard Marco made a strange choking sound.\n\nI turned slowly.\n\n“Something funny?”\n\n“No, boss.”\n\nLily stomped her foot.\n\n“NO MOVING! BEAUTY TIME!”\n\nBefore I could object, she grabbed my expensive Italian tie and pulled me toward a tiny pink chair.\n\nA chair designed for stuffed animals.\n\n“Sit.”\n\n“Lily, sweetheart, I don't think—”\n\n“SIT, MISTER!”\n\nMarco suddenly became fascinated by the ceiling.\n\nI sat.",
+    "wp_media_id": 7257,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-en.jpg"
+   },
+   "source_key": "post:61586321290305_122144249169210709",
+   "status": "prepared"
   },
   "2026-11-02 12:00": {
    "langs": {},
@@ -1793,6 +1841,10 @@
  },
  "source_cutoff": "2026-10-29T16:37:24+00:00",
  "sources": {
+  "link:17ba2587056ae71546a9": {
+   "link": "https://www.facebook.com/share/p/1C9o8W4z7h/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122144249169210709&id=61586321290305"
+  },
   "link:d4b64b646bb6d04b1fb6": {
    "link": "https://www.facebook.com/share/p/1J5SLi8Lh4/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1654901516006469&id=100044599086455"
@@ -1827,6 +1879,14 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
+   "status": "used"
+  },
+  "post:61586321290305_122144249169210709": {
+   "fingerprint": "e5d68479642997b336d5",
+   "link": "https://www.facebook.com/share/p/1C9o8W4z7h/",
+   "origin": "manual",
+   "page_id": "61586321290305",
+   "slot": "2026-11-02 00:00",
    "status": "used"
   },
   "post:61587324730850_122143561461244157": {

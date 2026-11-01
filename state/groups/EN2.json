@@ -1732,7 +1732,17 @@
   "2026-11-02 00:00": {
    "langs": {},
    "slot_iso": "2026-11-02T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/869085152_122143953783210709_4908557989827579850_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0Tp3rVagZj8Q7kNvwF-yaVy&_nc_oc=Adqw8CAiv6By3A0zXVROU9GauUF01kLa4Bi662NStBN5omsRd1ZVo-78T4TnzxFFGKw&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=QzVHcOhhPrFVY0Ow4o3RIQ&_nc_tpa=Q5bMBQK2HPY6JeMqN7MFCwOGSySaKQXDfbktQ7U3yqveiVd2TpgQHgetHLrOErzlNyscETyWlOPskxS3Uw&oh=00_AQRk82y_UBMnNUPInCRwE3b86KeOVIlA_bZbKgyV68a3pg&oe=6AED4106",
+    "link": "https://www.facebook.com/share/p/1DTghKt42J/",
+    "origin": "manual",
+    "page_id": "61586321290305",
+    "text": "“Mister… can I borrow you for one whole day?”\n\nI looked down at the little girl standing beside my desk.\n\n“One day?”\n\nShe raised a tiny finger.\n\n“I promise I'll give you back!”\n\nTwelve armed men stared at her.\n\nNobody interrupted my private meetings. Nobody entered my office without permission.\n\nYet this four-year-old girl stood there as though she owned the place.\n\nMy name is Alessandro Moretti.\n\nAt forty-two, I controlled one of New York's most feared Mafia families. I was six-foot-four, broad-shouldered, covered in tattoos, and accustomed to men lowering their eyes when I entered a room.\n\nBut this little girl wasn't frightened.\n\nShe wore a dark purple dress, a satin bow in her chestnut curls, and an expression of absolute determination.\n\n“Where did you come from?” I asked.\n\n“The hallway.”\n\nShe tilted her head.\n\n“Does your head get cold because you're so tall?”\n\nSomeone laughed.\n\nI raised one hand.\n\nThe room immediately fell silent.\n\n“Everyone out.”\n\nMy men hurried toward the door.\n\nOnly Marcus Reed, my trusted bodyguard of ten years, remained.\n\nThen my housekeeper, Mary Alvarez, rushed inside.",
+    "wp_media_id": 7258,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-en2.jpg"
+   },
+   "source_key": "post:61586321290305_122143953849210709",
+   "status": "preparing"
   },
   "2026-11-02 12:00": {
    "langs": {},
@@ -1757,6 +1767,10 @@
  },
  "source_cutoff": "2026-10-29T16:38:32+00:00",
  "sources": {
+  "link:32351889019eb29ee085": {
+   "link": "https://www.facebook.com/share/p/1DTghKt42J/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122143953849210709&id=61586321290305"
+  },
   "link:8410de4bc754ac2276ee": {
    "link": "https://www.facebook.com/share/p/1DiAH4KpQi/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1647951820034772&id=100044599086455"
@@ -1792,6 +1806,14 @@
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
    "status": "used"
+  },
+  "post:61586321290305_122143953849210709": {
+   "fingerprint": "9c3d29c96b1e678cb01b",
+   "link": "https://www.facebook.com/share/p/1DTghKt42J/",
+   "origin": "manual",
+   "page_id": "61586321290305",
+   "slot": "2026-11-02 00:00",
+   "status": "reserved"
   },
   "post:61587324730850_122142837687244157": {
    "fingerprint": "6170eddfbbcff3058ece",

@@ -796,7 +796,17 @@
   "2026-11-02 00:00": {
    "langs": {},
    "slot_iso": "2026-11-02T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/865970466_122143810719210709_944212651413668717_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=p8WIO43Cw3YQ7kNvwEAwzfE&_nc_oc=Adq7x8LA57sS4nmabdfjwgL614zNCOUsXzHXaxuumDqjEQ9MtMUgQAuh1VveZZTf5wY&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6OBadtAIcxLYGXfSPQzWyg&_nc_tpa=Q5bMBQJs6G0O95RVXD1OoHL1QH5te_WE0DXtShApeoTR-8aqNi1g0iFxX9t3hqZCqCZnPSfi-4LNdYYZrw&oh=00_AQSAYsDoYXWaoerIv1vneGlZwPeub0RIV_a9R8KhPoyYdA&oe=6AED4108",
+    "link": "https://www.facebook.com/share/p/1K2GUhK6vD/",
+    "origin": "manual",
+    "page_id": "61586321290305",
+    "text": "“ARMS UP, MR. DINOSAUR!”\n\nI raised both arms.\n\n“Higher!”\n\nI obeyed.\n\n“Now smile! You're supposed to be a beautiful swan, not an angry refrigerator!”\n\nBehind me, Marco, my security chief, exploded with laughter.\n\nI turned slowly.\n\nMarco immediately covered his mouth.\n\nBut it was too late.\n\n“YOU'RE FIRED!” a tiny voice shouted.\n\nSix-year-old Lily Harper pointed toward the ballroom doors.\n\n“Fired from ballet! You don't respect the dancers!”\n\nFor the first time in twenty years, I watched one of New York's most dangerous men apologize to a little girl.\n\nAnd somehow, I was the one standing in a pink tutu.\n\nMy name is Dominic Moretti.\n\nI'm forty-one years old, six-foot-six, and the man newspapers call New York's most feared crime boss.\n\nI've built a billion-dollar empire, survived assassination attempts, and made powerful men tremble with a single phone call.\n\nBut nothing in my life prepared me for Lily Harper.\n\nI met her three weeks earlier at St. Catherine's Children's Home, a place my late mother's foundation had supported for decades.\n\nI rarely visited personally.\n\nThat morning, however, the director had asked me to attend the opening of a new rehabilitation center.\n\nI arrived with twelve bodyguards.\n\nChildren stared at us from the hallway.\n\nSome looked frightened.\n\nOthers whispered.\n\nThen a little girl in a wheelchair decorated with purple butterflies rolled directly into my path.\n\nShe held a pink envelope above her head.\n\n“EXCUSE ME, MISTER! I HAVE AN EMERGENCY!”\n\nAll twelve bodyguards stiffened.\n\nMarco stepped forward.\n\nBut I raised my hand.\n\n“What kind of emergency, princess?”\n\nShe shoved the envelope into my palm.\n\n“My ballet show is next month. Everyone needs a daddy to dance with them, but I don't have one.”\n\nI opened the envelope.",
+    "wp_media_id": 7256,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-ru.jpg"
+   },
+   "source_key": "post:61586321290305_122143810737210709",
+   "status": "preparing"
   },
   "2026-11-02 12:00": {
    "langs": {},
@@ -821,6 +831,10 @@
  },
  "source_cutoff": "2026-10-29T16:40:38+00:00",
  "sources": {
+  "link:766cfa6954a0e17b30d9": {
+   "link": "https://www.facebook.com/share/p/1K2GUhK6vD/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122143810737210709&id=61586321290305"
+  },
   "link:8d799be26b9aff1dc1cc": {
    "link": "https://www.facebook.com/share/p/1GjKgpmmPm/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1644609203702367&id=100044599086455"
@@ -864,6 +878,14 @@
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
    "status": "used"
+  },
+  "post:61586321290305_122143810737210709": {
+   "fingerprint": "5b16116dc7df14500fc7",
+   "link": "https://www.facebook.com/share/p/1K2GUhK6vD/",
+   "origin": "manual",
+   "page_id": "61586321290305",
+   "slot": "2026-11-02 00:00",
+   "status": "reserved"
   },
   "post:photo_122140150959225301": {
    "fingerprint": "772a34aefdef827462f8",
