@@ -4,6 +4,7 @@
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
+  "ec07586e4e7c5fa4e396": "2026-11-01T10:36:58+00:00",
   "fbd1653b854ac7bf06ab": "2026-10-29T16:40:27+00:00"
  },
  "outputs": {
@@ -519,7 +520,40 @@
    "status": "done"
   },
   "2026-11-01 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ze moesten hun plek in de eerste klas afstaan aan een zakenman, tot de piloot de cockpit uitkwam en salueerde",
+     "warnings": []
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-01T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/860256529_1599444505547411_660017278496912559_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0jgV0oJCu4YQ7kNvwHBpIOp&_nc_oc=AdrhNenEP82tTRHygoBRshCOvvmP5i7b9md6mm_MUQlf987SmR6EH66QfuU3sFtiTd4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Cog-NaUiTW5YQFwqGcup3w&_nc_tpa=Q5bMBQImbdEjdwxhIfPSQlWY9-kknRuEAMjhN5ME6pb3pqY8SVHACAp58pXtgcmbV7LNQTcv5CdFEQz1Wg&oh=00_AQRrWYoqHlGeyLuJ8Lbvf7LmPZZiZ1gniYknnEXSXtQOpQ&oe=6AECDED1",

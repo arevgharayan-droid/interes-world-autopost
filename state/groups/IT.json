@@ -4,6 +4,7 @@
   "24ef5b43174759b5cb24": "2026-10-29T20:16:50+00:00",
   "27cf43d3866fe7568230": "2026-10-29T20:24:35+00:00",
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
+  "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00"
  },
  "outputs": {
@@ -987,7 +988,46 @@
    "status": "done"
   },
   "2026-11-01 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hanno offesa una sola volta, e per cinque anni non ho più messo piede a casa di mia suocera. Poi lei è comparsa alla mia porta",
+     "warnings": [
+      "длина текста FB 1366 слов (исходник 1128, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 7234,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-01T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/861230784_1078152328605705_6644952783287908538_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=j_VEIk-brPIQ7kNvwFfgMkI&_nc_oc=AdorxoJgCkMsUCKuV1sGQhHLeUIDFJJ3dJeNgEIG_WOyb9EYxNpO5zZWKbT102u7rqM&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=rnAmobeQnfjoTkawSvjoUA&_nc_tpa=Q5bMBQIwsKpdhlJ8Xv1CDkIKLq0fevLVOKpL6szgKNHNur92qLUqqVXeMS-H8covQVy2fPzVfp4j1YYg1Q&oh=00_AQT8nvx1tIn3sW-eNDDrlN-PeEHGL1xoBV40GKah2gSRSw&oe=6AECFA68",
@@ -999,7 +1039,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1500-it.jpg"
    },
    "source_key": "post:100092328442705_1078152595272345",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-01 18:00": {
    "langs": {},
@@ -1038,7 +1078,7 @@
    "origin": "manual",
    "page_id": "100092328442705",
    "slot": "2026-11-01 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122102718824536431": {
    "fingerprint": "1aadbfc55db56b408ad5",
