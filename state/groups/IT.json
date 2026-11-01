@@ -1330,7 +1330,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-01T22:14:25+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Tornata dalla missione con tre settimane di anticipo, trovo mia figlia di 4 anni sola e affamata: poi il grido di mio marito sull'armadio chiuso a chiave",
      "warnings": [],
      "wp_error": null,

@@ -4,6 +4,7 @@
   "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
   "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
+  "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
   "dfc264e5088ceb9596c5": "2026-10-29T20:16:43+00:00",
   "e19444e6413ef867631a": "2026-10-29T20:24:35+00:00"
@@ -1106,7 +1107,46 @@
    "status": "missed"
   },
   "2026-11-02 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "À 71 ans, elle gagne 89 millions de dollars en secret. Trois mois plus tard, son fils lui demande quand elle partira enfin, et six jours après, elle achète la maison de leurs rêves",
+     "warnings": [
+      "длина текста FB 1252 слов (исходник 1008, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 7264,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-02T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/865483901_122129895573376137_8178840636118132276_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TW6-P_rrQfUQ7kNvwH53kdD&_nc_oc=Ado2pIXB8Uhei_w9LyGRCWEl_GXNSThnM2ZlWHwqq1M2nYFJDpK247rRXIbZ8h4Gb3s&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=hG9Qz7EwVM2NxTPHvn-mwA&_nc_tpa=Q5bMBQIr51QVs1qnUX6cXvtoJRtdrzh3BY0RUGuQyPmeXi3RLmZcGuT6KfOwHeRBGyljCozMCVvFjjVU6g&oh=00_AQQuWKHSvlGhOW1HfMT0mj8v4OaZp2EZXM6ujXf3d0zvsQ&oe=6AED3A7C",
@@ -1118,7 +1158,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-fr.jpg"
    },
    "source_key": "post:61591284134933_122129895657376137",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-02 12:00": {
    "langs": {},
@@ -1197,7 +1237,7 @@
    "origin": "manual",
    "page_id": "61591284134933",
    "slot": "2026-11-02 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140489347225301": {
    "fingerprint": "6170eddfbbcff3058ece",
