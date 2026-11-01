@@ -1889,12 +1889,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122137136894776189_1658421609006193",
        "error": null,
        "last_attempt": "2026-11-01T22:14:14+04:00",
        "mode": "schedule",
        "photo_id": "122137136858776189",
        "post_id": "994273113779575_122137136894776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "A Four-Year-Old Walked Into a Mafia Boss's Office and Asked to Borrow Him for One Whole Day",
@@ -1937,7 +1938,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-en2.jpg"
    },
    "source_key": "post:61586321290305_122143953849210709",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-02 12:00": {
    "langs": {},
