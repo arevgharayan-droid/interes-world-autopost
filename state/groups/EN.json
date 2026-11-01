@@ -1588,6 +1588,12 @@
        "attempts": 0,
        "status": "no_access"
       },
+      "108881571809093": {
+       "attempts": 1,
+       "last_attempt": "2026-11-01T18:04:52+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "1165836896614851": {
        "attempts": 1,
        "error": null,
