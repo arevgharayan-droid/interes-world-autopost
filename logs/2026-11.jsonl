@@ -257,3 +257,5 @@
 {"slot": "2026-11-02 00:00", "action": "wp_media", "id": 7259, "t": "2026-11-01T18:13:38+00:00", "group": "FR"}
 {"slot": "2026-11-02 00:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-01T18:14:02+00:00", "group": "EN"}
 {"slot": "2026-11-02 00:00", "lang": "EN", "action": "wp_post", "id": 7260, "status": "future", "t": "2026-11-01T18:14:03+00:00", "group": "EN"}
+{"slot": "2026-11-02 00:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-01T18:14:03+00:00", "group": "EN2"}
+{"slot": "2026-11-02 00:00", "lang": "EN", "action": "wp_post", "id": 7261, "status": "future", "t": "2026-11-01T18:14:04+00:00", "group": "EN2"}

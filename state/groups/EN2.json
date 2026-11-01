@@ -6,7 +6,8 @@
   "aa74c11de94c64604d06": "2026-10-29T20:16:43+00:00",
   "ab2684370021c4a303d7": "2026-10-29T20:24:47+00:00",
   "bf3e5716d0c3c6dde7f4": "2026-11-01T10:36:35+00:00",
-  "c6ff1bb9f576c96fb9ec": "2026-10-29T16:39:11+00:00"
+  "c6ff1bb9f576c96fb9ec": "2026-10-29T16:39:11+00:00",
+  "f15ba75fe4f0719457b0": "2026-11-01T18:14:03+00:00"
  },
  "outputs": {
   "100633729330404_1125409660187555": "2026-10-29T17:25:55+00:00",
@@ -1730,7 +1731,44 @@
    "status": "missed"
   },
   "2026-11-02 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A Four-Year-Old Walked Into a Mafia Boss's Office and Asked to Borrow Him for One Whole Day",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7261,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-02T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/869085152_122143953783210709_4908557989827579850_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0Tp3rVagZj8Q7kNvwF-yaVy&_nc_oc=Adqw8CAiv6By3A0zXVROU9GauUF01kLa4Bi662NStBN5omsRd1ZVo-78T4TnzxFFGKw&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=QzVHcOhhPrFVY0Ow4o3RIQ&_nc_tpa=Q5bMBQK2HPY6JeMqN7MFCwOGSySaKQXDfbktQ7U3yqveiVd2TpgQHgetHLrOErzlNyscETyWlOPskxS3Uw&oh=00_AQRk82y_UBMnNUPInCRwE3b86KeOVIlA_bZbKgyV68a3pg&oe=6AED4106",
@@ -1742,7 +1780,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-en2.jpg"
    },
    "source_key": "post:61586321290305_122143953849210709",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-02 12:00": {
    "langs": {},
@@ -1813,7 +1851,7 @@
    "origin": "manual",
    "page_id": "61586321290305",
    "slot": "2026-11-02 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587324730850_122142837687244157": {
    "fingerprint": "6170eddfbbcff3058ece",
