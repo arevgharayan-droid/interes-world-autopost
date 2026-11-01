@@ -1569,6 +1569,7 @@
       },
       "1060733217128705": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-01T18:04:09+04:00",
        "mode": "immediate",
@@ -1588,21 +1589,24 @@
       "233545296514172": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122333094332241259_2620175781783504",
        "error": null,
        "last_attempt": "2026-11-01T18:03:56+04:00",
        "mode": "immediate",
        "photo_id": "122333094308241259",
        "post_id": "233545296514172_122333094332241259",
-       "status": "published"
+       "status": "done"
       },
       "530022363528890": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122174358410720509_2028700357830883",
        "error": null,
        "last_attempt": "2026-11-01T18:04:00+04:00",
        "mode": "immediate",
        "photo_id": "122174358386720509",
        "post_id": "530022363528890_122174358410720509",
-       "status": "published"
+       "status": "done"
       },
       "625664190627160": {
        "attempts": 1,
@@ -1651,12 +1655,14 @@
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137107050776189_1177022331319451",
        "error": null,
        "last_attempt": "2026-11-01T18:04:04+04:00",
        "mode": "immediate",
        "photo_id": "122137107026776189",
        "post_id": "994273113779575_122137107050776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "A Tiny Girl in a Red Coat Stood at the Mafia Don's Gate and Said, \"Daddy, You Owe Me Three Years of Formula Money",
