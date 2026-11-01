@@ -2,6 +2,7 @@
  "enabled_since": "2026-10-29T20:39:48+04:00",
  "output_fps": {
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
+  "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
   "ec07586e4e7c5fa4e396": "2026-11-01T10:36:58+00:00",
@@ -600,7 +601,46 @@
    "status": "done"
   },
   "2026-11-01 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ze bestelde één bord voor haar zoon en at zelf niets, maar de man aan het volgende tafeltje was de eigenaar",
+     "warnings": [
+      "длина статьи 1061 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 7253,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-01T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/853628771_1640347117461909_6234038008442124620_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eRT37V6Opo0Q7kNvwG--ydS&_nc_oc=Ado7qXEwKrVBfl4RQRYOi3r4WkwrSYiJaS9LvTPwLdmYdLSgaxebtZ4y8bA7hMBMsso&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GiPB5VaEkuDzhRKCWhGtPw&_nc_tpa=Q5bMBQLzo4KkwCigyEtqjr4jDkazV8FSnEO6thAaj3BwRXKiv1QQ1Sxcn7QPXm72oj1VYUS_mkgtnZJgJA&oh=00_AQSZ0X4vlL8eBB91JngOYG6_3OcI7sdUKkGsPZYlcsM-aw&oe=6AED2AAF",
@@ -612,7 +652,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-nl.jpg"
    },
    "source_key": "post:100044599086455_1643319187164702",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-01 21:00": {
    "langs": {},
@@ -647,7 +687,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-01 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698998888285470": {
    "fingerprint": "82ad13dcc80155984bd8",
