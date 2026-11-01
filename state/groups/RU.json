@@ -852,12 +852,13 @@
       "988042774402200": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122133429776733774_2331959780889924",
        "error": null,
        "last_attempt": "2026-11-01T22:14:25+04:00",
        "mode": "schedule",
        "photo_id": "122133429746733774",
        "post_id": "988042774402200_122133429776733774",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Грозный мафиози в розовой пачке: что девочка из детского дома написала в конверте, который перевернул его жизнь",
@@ -884,7 +885,7 @@
     "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-ru.jpg"
    },
    "source_key": "post:61586321290305_122143810737210709",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-02 12:00": {
    "langs": {},
