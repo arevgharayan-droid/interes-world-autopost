@@ -1604,12 +1604,13 @@
       "1165836896614851": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122141803851384677_28821865147508533",
        "error": null,
        "last_attempt": "2026-11-01T18:04:13+04:00",
        "mode": "immediate",
        "photo_id": "122141803827384677",
        "post_id": "1165836896614851_122141803851384677",
-       "status": "published"
+       "status": "done"
       },
       "1167352663135230": {
        "attempts": 1,
@@ -1671,6 +1672,7 @@
       },
       "914823471720372": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-01T18:04:18+04:00",
        "mode": "immediate",
