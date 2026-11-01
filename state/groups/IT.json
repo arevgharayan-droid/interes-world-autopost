@@ -1203,6 +1203,7 @@
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-01T18:04:30+04:00",
        "mode": "immediate",
@@ -1253,12 +1254,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112367754437662_1666725118454329",
        "error": null,
        "last_attempt": "2026-11-01T18:04:25+04:00",
        "mode": "immediate",
        "photo_id": "122112367730437662",
        "post_id": "997772916762884_122112367754437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Il boss lasciò la moglie per la segretaria: cinque anni dopo la ritrovò a un gala con due gemelli che avevano i suoi occhi",
