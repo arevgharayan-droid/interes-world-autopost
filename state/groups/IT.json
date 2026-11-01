@@ -153,7 +153,7 @@
   "997772916762884_122112315596437662": "2026-11-01T08:06:41+00:00",
   "997772916762884_122112348368437662": "2026-11-01T11:06:45+00:00",
   "997772916762884_122112367754437662": "2026-11-01T14:04:29+00:00",
-  "997772916762884_122112374618437662": "2026-11-01T18:14:37+00:00"
+  "997772916762884_122112374618437662": "2026-11-01T20:06:37+00:00"
  },
  "slots": {
   "2026-10-29 21:00": {
@@ -1416,21 +1416,23 @@
       "1160223747182678": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122133560427400586_1448888170172718",
        "error": null,
        "last_attempt": "2026-11-01T22:14:29+04:00",
        "mode": "schedule",
        "photo_id": "122133560397400586",
        "post_id": "1160223747182678_122133560427400586",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-01T22:14:33+04:00",
        "mode": "schedule",
        "photo_id": "122112374588437662",
        "post_id": "997772916762884_122112374618437662",
-       "status": "scheduled"
+       "status": "published"
       }
      },
      "title": "Tornata dalla missione con tre settimane di anticipo, trovo mia figlia di 4 anni sola e affamata: poi il grido di mio marito sull'armadio chiuso a chiave",
