@@ -1163,12 +1163,13 @@
       "106713875762456": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "1015151224936483_1831510284785922",
        "error": null,
        "last_attempt": "2026-10-31T22:34:53+04:00",
        "mode": "schedule",
        "photo_id": "1015151188269820",
        "post_id": "106713875762456_1015151224936483",
-       "status": "published"
+       "status": "done"
       },
       "233545296514172": {
        "attempts": 1,
