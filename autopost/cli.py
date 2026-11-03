@@ -399,7 +399,7 @@ def cmd_tick(cfg, args) -> int:
         final += len(rep.final_errors)
         md.append(rep.markdown(title=f"{cfg.group_label(g)} · {len(config_mod.group_view(cfg, g).pages)} стр.")
                   .replace("## ", "### ", 1))
-    summary("\n".join(md))
+    summary("\n".join(md), "previews/tick-latest.md", cfg)
     return 1 if final else 0
 
 
