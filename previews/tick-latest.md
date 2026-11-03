@@ -10,7 +10,7 @@
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!
-- 2026-11-04 21:00: нет новой истории для публикации (очередь пуста)
+- 2026-11-03 21:00: слот пропущен — не было новой истории
 
 
 ### IT · 8 стр.
@@ -23,7 +23,7 @@
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!
-- 2026-11-04 21:00: нет новой истории для публикации (очередь пуста)
+- 2026-11-03 21:00: слот пропущен — не было новой истории
 
 
 ### EN-1 · 13 стр.
@@ -36,7 +36,7 @@
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!
-- 2026-11-04 21:00: нет новой истории для публикации (очередь пуста)
+- 2026-11-03 21:00: слот пропущен — не было новой истории
 
 
 ### EN-2 · 12 стр.
@@ -49,7 +49,7 @@
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!
-- 2026-11-04 21:00: нет новой истории для публикации (очередь пуста)
+- 2026-11-03 21:00: слот пропущен — не было новой истории
 
 
 ### NL · 2 стр.
@@ -62,7 +62,7 @@
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!
-- 2026-11-04 21:00: нет новой истории для публикации (очередь пуста)
+- 2026-11-03 21:00: слот пропущен — не было новой истории
 
 
 ### RU · 3 стр.
@@ -75,5 +75,5 @@
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!
-- 2026-11-04 21:00: нет новой истории для публикации (очередь пуста)
+- 2026-11-03 21:00: слот пропущен — не было новой истории
 
