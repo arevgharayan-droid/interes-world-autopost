@@ -5,9 +5,11 @@
   "122da30c84d729a1b892": "2026-11-09T20:00:55+00:00",
   "13db4df12dcefc769231": "2026-11-09T13:24:24+00:00",
   "3b17ef7d9630be534518": "2026-11-01T18:14:37+00:00",
+  "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
+  "81de3c9a0a991fc9bf6a": "2026-11-09T20:03:33+00:00",
   "88fe935e5a83ce556184": "2026-11-09T19:59:42+00:00",
   "8df4cd808be1716777ea": "2026-11-09T20:02:27+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
@@ -1560,7 +1562,55 @@
    }
   },
   "2026-11-10 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mit sechs versprach ich meinem besten Freund den Abschlussball – doch am Abend, als wir es einlösen wollten, schloss Mama meine Zimmertür ab",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 86,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn moeder deed mijn slaapkamerdeur op slot vlak voordat ik met mijn beste vriend naar het schoolbal ging",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 85,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/893314343_122130758798893096_8174679336900274044_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2Az1lLzyAxIQ7kNvwFIZ33J&_nc_oc=AdoTwDP1C2otwkmNXoyQONMkHDWQcH4LY-519VjOVqQQha-E0kjSpBF5hB5WeLyuk7I&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=YdpGgAVrjhSe34fLlFAgXw&_nc_tpa=Q5bMBQJ646lzLTuQp2StKWuBWeQn5eqVOJfIba0jYtkE8FxEtOxJofQi4Y1SriJuyHPH-W_UPknKT0Dodw&oh=00_AQQGmia5ZoDzZBd4V9vEKeDJuEKRg6A6AbMWOAoEFRTP4g&oe=6AF7ECDA",
@@ -1572,7 +1622,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-nl.jpg"
    },
    "source_key": "post:61576792898556_122130758852893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -1689,7 +1739,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-10 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61582058363232_122160366435068612": {
    "fingerprint": "bb766a239f1ce215635a",
