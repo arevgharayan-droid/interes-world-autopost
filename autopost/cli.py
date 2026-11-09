@@ -41,8 +41,10 @@ def summary(md: str, file: str | None = None, cfg=None):
 def real_services(cfg):
     import requests
     graph = Graph(cfg.graph_version)
+    # site.wp_auth: application_password (пароль приложения WordPress) или make_connector (ключ WP_API_KEY)
+    api_key = os.environ.get("WP_API_KEY") if cfg.site.get("wp_auth") == "make_connector" else None
     wp = WordPress(cfg.site["url"], os.environ.get("WP_USER", ""), os.environ.get("WP_APP_PASSWORD", ""),
-                   api_key=os.environ.get("WP_API_KEY"))
+                   api_key=api_key)
     return graph, wp, requests.Session()
 
 
@@ -71,8 +73,9 @@ def cmd_check(cfg, args) -> int:
               f"{'ВКЛЮЧЕНО' if cfg.settings.get('schedule_enabled') else 'выключено'}")
     for name in ("FB_APP_ID", "FB_APP_SECRET"):
         res(bool(os.environ.get(name)), f"Секрет {name} {'задан' if os.environ.get(name) else 'НЕ задан'}")
-    wp_ok = os.environ.get("WP_API_KEY") or (os.environ.get("WP_USER") and os.environ.get("WP_APP_PASSWORD"))
-    res(bool(wp_ok), "WordPress: " + ("ключ Make Connector (WP_API_KEY)" if os.environ.get("WP_API_KEY")
+    mc = cfg.site.get("wp_auth") == "make_connector"
+    wp_ok = os.environ.get("WP_API_KEY") if mc else (os.environ.get("WP_USER") and os.environ.get("WP_APP_PASSWORD"))
+    res(bool(wp_ok), f"WordPress {cfg.site['url']}: " + ("ключ Make Connector (WP_API_KEY)" if mc
                                       else "пароль приложения (WP_USER + WP_APP_PASSWORD)") + (" задан" if wp_ok else " НЕ задан"))
     has_claude = os.environ.get("CLAUDE_CODE_OAUTH_TOKEN") or os.environ.get("ANTHROPIC_API_KEY")
     res(bool(has_claude), "Секрет Claude (CLAUDE_CODE_OAUTH_TOKEN или ANTHROPIC_API_KEY) "

@@ -132,7 +132,8 @@ def run_simulation(cfg, days=2, drop=0.0, seed=7):
         problems.append(f"статей опубликовано {len(wp_pub)}, ожидалось {slots_total}")
     if len(wp.media) < slots_total:
         problems.append(f"фото в медиатеке {len(wp.media)}, ожидалось {slots_total} (у каждой группы своё)")
-    links_ok = all(graph.comments_by[pid][0]["message"].startswith("https://interes-world.com/?p=")
+    prefix = sim_cfg.site["comment_link_format"].split("{")[0]
+    links_ok = all(graph.comments_by[pid][0]["message"].startswith(prefix)
                    for pid in graph.posts if graph.comments_by.get(pid))
     if not links_ok:
         problems.append("ссылка в комментарии не того формата")

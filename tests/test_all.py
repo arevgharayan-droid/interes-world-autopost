@@ -338,7 +338,7 @@ class TestCommands(unittest.TestCase):
         self.assertEqual(len(graph.posts), 1)
         (pid, post), = graph.posts.items()
         self.assertEqual(post["page"], cfg.test_page_id())
-        self.assertTrue(graph.comments_by[pid][0]["message"].startswith("https://interes-world.com/?p="))
+        self.assertTrue(graph.comments_by[pid][0]["message"].startswith(cfg.site["comment_link_format"].split("{")[0]))
         st = State(cfg.path("state/state.json"))
         self.assertEqual(st.sources[f"post:{page.page_id}_77"]["status"], "used")
 

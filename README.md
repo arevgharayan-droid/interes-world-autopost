@@ -15,7 +15,7 @@ WordPress: фото в медиатеку + 4 статьи, запланиров
 Facebook: 33–34 отложенных поста с фото (Facebook сам выпускает их ровно в заданную минуту)
    │  через 7 минут после выхода (и повторно через 37 минут)
    ▼
-Первый комментарий на каждой странице: https://interes-world.com/?p=ID
+Первый комментарий на каждой странице: https://peakproductions.co/?p=ID (до 09.11.2026 — interes-world.com)
 ```
 
 | Язык | Страниц | Страницы |
@@ -62,7 +62,7 @@ Facebook: 33–34 отложенных поста с фото (Facebook сам �
 |---|---|
 | `FB_APP_ID`, `FB_APP_SECRET` | developers.facebook.com → ваше приложение → Settings → Basic |
 | `FB_USER_TOKEN` | Graph API Explorer → Generate Access Token (официальное окно входа Facebook). Нужен один раз, потом его можно удалить |
-| `WP_USER`, `WP_APP_PASSWORD` | interes-world.com/wp-admin → Users → Profile → Application Passwords |
+| `WP_USER`, `WP_APP_PASSWORD` | peakproductions.co/wp-admin (с 09.11.2026; раньше interes-world.com) → Users → Profile → Application Passwords |
 | `CLAUDE_CODE_OAUTH_TOKEN` | на компьютере: `claude setup-token` (подписка Max, токен действует 1 год) |
 | `ANTHROPIC_API_KEY` | необязательно, резерв: platform.claude.com → API keys |
 

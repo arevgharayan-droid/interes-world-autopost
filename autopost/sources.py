@@ -330,7 +330,7 @@ def pick_source(cfg, graph, tokens: dict, state, now: datetime, log) -> dict | N
                 post = c["post"]
                 # пост уже распространялся (есть комментарий со ссылкой на статью) — это не новая история
                 try:
-                    linked = any("interes-world.com/?p=" in (cm.get("message") or "")
+                    linked = any(any(d in (cm.get("message") or "") for d in ("interes-world.com/?p=", "peakproductions.co/?p="))
                                  for cm in graph.comments(post["id"], tokens[c["page_id"]]))
                 except FacebookError:
                     continue

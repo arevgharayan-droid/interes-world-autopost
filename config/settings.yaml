@@ -28,9 +28,13 @@ timing:
   keep_state_days: 14
 
 site:
-  url: https://interes-world.com
-  # Ссылка в первом комментарии — как в Make.
-  comment_link_format: "https://interes-world.com/?p={wp_id}"
+  # С 09.11.2026 статьи публикуются на peakproductions.co (interes-world.com был недоступен).
+  url: https://peakproductions.co
+  # Ссылка в первом комментарии.
+  comment_link_format: "https://peakproductions.co/?p={wp_id}"
+  # application_password — пароль приложения WordPress (секреты WP_USER + WP_APP_PASSWORD);
+  # make_connector — ключ плагина Make Connector (секрет WP_API_KEY), так было на interes-world.com.
+  wp_auth: application_password
   # future — статья выходит на сайте в тот же час, что и пост; publish — сразу.
   wp_status_mode: future
   # Ставить фото ещё и как «изображение записи». В Make не ставилось.
