@@ -139,7 +139,7 @@
        "mode": "schedule",
        "photo_id": "122127131535311884",
        "post_id": "1129620776897151_122127131565311884",
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1164575726728296": {
        "attempts": 1,
@@ -148,13 +148,14 @@
        "mode": "schedule",
        "photo_id": "122126340585307134",
        "post_id": "1164575726728296_122126340615307134",
-       "status": "scheduled"
+       "status": "cancelled"
       }
      },
      "title": "Silahlı Adamlar Mafya Babasının Sonunun Geldiğini Sanıyordu, Ta ki Sessiz Hizmetçi Gölgelerden Çıkana Kadar",
      "warnings": [
       "длина текста FB 799 слов (исходник 1053, цель ±10%)"
      ],
+     "wp_cancelled": true,
      "wp_error": null,
      "wp_id": 44,
      "wp_status": "future"
@@ -172,7 +173,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-tr.jpg"
    },
    "source_key": "post:61585369480106_122145732075178982",
-   "status": "in_progress",
+   "status": "cancelled",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "url": "https://peakproductions.co",
