@@ -7,6 +7,7 @@
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
+  "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
   "ba5124bf926776f201e6": "2026-11-09T13:25:52+00:00",
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "ec07586e4e7c5fa4e396": "2026-11-01T10:36:58+00:00",
@@ -1089,7 +1090,15 @@
   "2026-11-10 00:00": {
    "langs": {
     "DE": {
-     "pages": {}
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Steig nicht ins Flugzeug!“, schrie das dreijährige Mädchen der Haushälterin den Mafiaboss an – Minuten später explodierte sein 40-Millionen-Dollar-Jet",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 31,
+     "wp_status": "future"
     },
     "EN": {
      "pages": {},
@@ -1129,10 +1138,13 @@
      },
      "title": "Stap niet in dat vliegtuig!” Het driejarige dochtertje van de huishoudster hield een maffiabaas tegen, en even later explodeerde zijn privéjet van 40 miljoen dollar",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 30,
      "wp_status": "future"
     },
     "PT": {
-     "pages": {}
+     "pages": {},
+     "skipped": "нет подключённых страниц"
     },
     "RU": {
      "pages": {},
@@ -1143,7 +1155,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-10T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/861573102_122139654914778984_7327529939183712380_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iW3iXczIytYQ7kNvwEHWz-z&_nc_oc=AdpaB8xS8H8QiCaqN1-HjOBmiBEdczLcMzU3FcTaJNzVJTdKbzgI7qTsYc9X_yNmWJ0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=aKdW5_EwHlEEMbflSiJ0Bw&_nc_tpa=Q5bMBQLlBYP5FunWpg6_qqKBB4rMtEjfJ73jo5oZW0x05Cbv24aTQfjSs8n7PcFAFspC6oMw_hu1CidNdA&oh=00_AQSD8wkAA_lUx4LIUYjhbOCuF0Tcs8yg_sRP89rsc2eFYQ&oe=6AF7A630",
@@ -1155,7 +1167,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-0000-nl.jpg"
    },
    "source_key": "post:61573369523860_122139776786778984",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
