@@ -2775,12 +2775,13 @@
       "914823471720372": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122148087975209718_2414523196042034",
        "error": null,
        "last_attempt": "2026-11-09T17:27:33+04:00",
        "mode": "schedule",
        "photo_id": "122148087945209718",
        "post_id": "914823471720372_122148087975209718",
-       "status": "published"
+       "status": "done"
       },
       "921611111039858": {
        "attempts": 1,
