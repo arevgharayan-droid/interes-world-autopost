@@ -3577,7 +3577,10 @@
      "generated": true,
      "pages": {},
      "title": "I Asked My Husband to Watch Our Four Kids for 20 Minutes While I Showered, and What the Camera Showed Me Changed Everything",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 96,
+     "wp_status": "future"
     },
     "FR": {
      "pages": {},
@@ -3604,6 +3607,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-11T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/888779211_1661901325313282_791903795197356242_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kKgl-aaIAfUQ7kNvwEzTQe9&_nc_oc=AdrhpvpTnV6ER8CGcs8LsyTcEODUkl3ncHRj1Frci93Vj2rZCrf37-QhTS-ure9n0k0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=aQ3fcdtu9KKkqdxcQ_fbaQ&_nc_tpa=Q5bMBQJTccZL1DkpRuDXtzZGNR5OBOaUsn493DOJDOVz2tgdAJskiE1Z1jTq-5jmVdScemoxaFphD9ltAg&oh=00_AQSpKqY5xr4S2Sqm2PIRbFqxs5vuW9Q42nWDBrwfDvuM6g&oe=6AF7FC13",
@@ -3615,7 +3619,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-0000-en2.jpg"
    },
    "source_key": "post:100044802900629_1663836241786457",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3692,7 +3696,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-11 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699156498269709": {
    "fingerprint": "cffc519128617c7dc49f",
