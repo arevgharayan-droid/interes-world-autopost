@@ -1027,7 +1027,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1008693642337213": {
+       "attempts": 1,
+       "last_attempt": "2026-11-09T17:25:04+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Отец зашёл в школьную столовую и услышал шёпот дочери: «Пап, ты же уже оплатил их обеды",
      "warnings": [
       "длина текста FB 576 слов (исходник 716, цель ±10%)"
