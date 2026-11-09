@@ -177,6 +177,7 @@ def cmd_setup_facebook(cfg, args) -> int:
 # ---------------------------------------------------------------- private test
 def _peek_source(cfg, graph, tokens, link):
     if link:
+        link = normalize_link(link, State(Path(tempfile.mkdtemp()) / "s.json"))  # /share/p/… → полная ссылка
         info = parse_link(link, cfg.profile_to_page())
         post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
         from .sources import source_key
