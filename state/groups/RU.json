@@ -3,6 +3,7 @@
  "output_fps": {
   "0475676f7d35cf5ec822": "2026-10-29T20:24:32+00:00",
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
+  "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
   "8e4386a701b76151555b": "2026-11-01T18:14:18+00:00",
   "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
@@ -1179,7 +1180,46 @@
    "status": "in_progress"
   },
   "2026-11-10 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Невестка сказала, что на Рождество меня не ждут. Я ответила «Хорошо», а наутро сын уже стучал в мою дверь",
+     "warnings": [
+      "длина текста FB 833 слов (исходник 999, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 50,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/887421917_122137345826809007_1505628435890390185_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PTQBCl-siGcQ7kNvwFVV8gc&_nc_oc=AdpzUACRofcWs8w7RHuZ5p5uCnrFvKFtA9g5YqgbFk9WDB_lzX05s-lINigsKvecVSQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=yY6BuTfa_EAPuVBaQhTilQ&_nc_tpa=Q5bMBQK-9ajZ7WxLZUbstbYTAVUT7OAJA1OF6LTZxrmgo_cwLc8ZvQe7iGAaHprb7Vna1X68PYtk7s6ssg&oh=00_AQRVzTYsD3_WBIGbBIWRA7Qr9AIVU8h1FmGSC31HHo4uRg&oe=6AF7B61C",
@@ -1191,7 +1231,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-0000-ru.jpg"
    },
    "source_key": "post:61574270220252_122137345892809007",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 12:00": {
    "langs": {},
@@ -1276,7 +1316,7 @@
    "origin": "manual",
    "page_id": "61574270220252",
    "slot": "2026-11-10 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122143810737210709": {
    "fingerprint": "5b16116dc7df14500fc7",
