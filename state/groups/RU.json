@@ -1402,12 +1402,13 @@
       "1448441201677530": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122118337287505599_1439142148413242",
        "error": null,
        "last_attempt": "2026-11-09T20:01:51+04:00",
        "mode": "schedule",
        "photo_id": "122118337257505599",
        "post_id": "1448441201677530_122118337287505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Minha nora me disse que eu não era mais bem-vinda no Natal. Na manhã seguinte, meu filho esmurrava minha porta às 7h15",
@@ -1515,7 +1516,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-0000-ru.jpg"
    },
    "source_key": "post:61574270220252_122137345892809007",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "url": "https://peakproductions.co",
