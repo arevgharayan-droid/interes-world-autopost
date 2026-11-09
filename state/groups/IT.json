@@ -32,6 +32,7 @@
   "1030877436782212_122139991052808945": "2026-11-09T19:59:55+00:00",
   "1030877436782212_122139991424808945": "2026-11-09T20:01:25+00:00",
   "1030877436782212_122139991982808945": "2026-11-09T20:02:34+00:00",
+  "1030877436782212_122139992558808945": "2026-11-09T20:08:28+00:00",
   "1064982806700854_122110863206456562": "2026-10-29T17:26:02+00:00",
   "1064982806700854_122110878152456562": "2026-10-29T20:17:12+00:00",
   "1064982806700854_122110878536456562": "2026-10-30T08:16:20+00:00",
@@ -79,6 +80,7 @@
   "1114015015119414_122140562210811401": "2026-11-09T19:59:53+00:00",
   "1114015015119414_122140562408811401": "2026-11-09T20:01:23+00:00",
   "1114015015119414_122140562930811401": "2026-11-09T20:02:32+00:00",
+  "1114015015119414_122140563470811401": "2026-11-09T20:08:25+00:00",
   "1140835409106424_122109107366543006": "2026-10-29T17:26:14+00:00",
   "1140835409106424_122109116120543006": "2026-10-29T20:17:17+00:00",
   "1140835409106424_122109116702543006": "2026-10-30T08:16:30+00:00",
@@ -259,12 +261,14 @@
   "122139991022808945": "2026-11-09T19:59:55+00:00",
   "122139991394808945": "2026-11-09T20:01:25+00:00",
   "122139991952808945": "2026-11-09T20:02:34+00:00",
+  "122139992528808945": "2026-11-09T20:08:28+00:00",
   "122140512452811401": "2026-11-09T13:25:03+00:00",
   "122140512776811401": "2026-11-09T13:26:23+00:00",
   "122140513190811401": "2026-11-09T13:27:44+00:00",
   "122140562180811401": "2026-11-09T19:59:53+00:00",
   "122140562378811401": "2026-11-09T20:01:23+00:00",
   "122140562900811401": "2026-11-09T20:02:32+00:00",
+  "122140563440811401": "2026-11-09T20:08:25+00:00",
   "997772916762884_122112163898437662": "2026-10-29T17:26:23+00:00",
   "997772916762884_122112170036437662": "2026-10-29T20:17:02+00:00",
   "997772916762884_122112170342437662": "2026-10-30T08:16:39+00:00",
@@ -2634,6 +2638,15 @@
      "gen_error": null,
      "generated": true,
      "pages": {
+      "1030877436782212": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-10T00:08:25+04:00",
+       "mode": "schedule",
+       "photo_id": "122139992528808945",
+       "post_id": "1030877436782212_122139992558808945",
+       "status": "scheduled"
+      },
       "1064982806700854": {
        "attempts": 1,
        "error": null,
@@ -2654,9 +2667,12 @@
       },
       "1114015015119414": {
        "attempts": 1,
+       "error": null,
        "last_attempt": "2026-11-10T00:08:21+04:00",
        "mode": "schedule",
-       "status": "sending"
+       "photo_id": "122140563440811401",
+       "post_id": "1114015015119414_122140563470811401",
+       "status": "scheduled"
       },
       "1140835409106424": {
        "attempts": 1,
@@ -2739,7 +2755,28 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-it.jpg"
    },
    "source_key": "post:61576792898556_122130758852893096",
-   "status": "prepared",
+   "status": "in_progress",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
+  },
+  "2026-11-11 00:00": {
+   "langs": {},
+   "slot_iso": "2026-11-11T00:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/889653317_1663112941858787_1056656342929004352_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=947u1drNsOQQ7kNvwF4DpEz&_nc_oc=Adq1P74d5l8kztM2J437Qg3OfSZ-PmfidXO4hrjZJH1GvUyB_cPzpItAIIvVcDK3ZaE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KAhtEOf0VRA2mBymDuUQvA&_nc_tpa=Q5bMBQK3PGlbwo5g_k8If0tz9xjLNHknDJIo0pOth2ok82oi4wgIKB_qNfluy1Zv-oEUxfSmXQ6btheVPw&oh=00_AQRt9AzcbZH9XwyWraNKZoG7Ap19u1rH6dx-QcqaHcPEcw&oe=6AF7EBA1",
+    "link": "https://www.facebook.com/share/p/1FvPU6pRa2/",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "I MARRIED MY FIRST LOVE 45 YEARS AFTER WE PARTED TO FULFILL HER FINAL WISH—BUT AFTER HER DEATH, HER SON GAVE ME AN ENVELOPE THAT CHANGED EVERYTHING\n\nI'm a pastor at a local church, and a few times every week, I visit the hospital to sit with patients who are nearing the end of their lives. Not long ago, I heard that a new patient had arrived — a woman suffering from stage-four cancer.\n\nI decided to visit her as well.\n\nBut the moment I stepped into her hospital room, my heart almost stopped.\n\nI recognized the woman lying in that bed immediately.\n\nIt was Margaret.\n\nThe girl I'd fallen in love with during high school, the girl I'd taken to prom. Afterward, we went off to different colleges, and somehow, 45 years slipped by.\n\nI could hardly believe what I was seeing.\n\n\"Margaret?\"\n\nThe woman in the bed raised her eyes, narrowed them as she examined my face, and then suddenly burst into laughter.\n\n\"Wow! Tommy? Is that you? This can't be real!\"\n\nFrom that day on, I began visiting Margaret every single day.\n\nWe spent hours talking about our school days and remembering the past. Even with IV lines running into her arms, she still had her wonderful sense of humor.\n\nThat was Margaret.\n\nShe always found a reason to smile, even when everything around her was difficult to bear.\n\nThen, one day, she told me the doctors had said she had just one week left.\n\nI was unable to respond. My throat tightened.\n\nBut Margaret simply held my hand and squeezed it firmly.\n\n\"Oh, don't look so sad, Tommy! Remember how you promised to marry me when we were seventeen?\"\n\nI nodded, trying to keep my tears back.\n\n\"Well, you're forty-five years late, mister. How about we finally do it?\"\n\nI laughed even as tears filled my eyes.\n\n\"Margaret, are you joking? You want us to get married?\"\n\nShe smiled and said:\n\n\"Yes. It would mean everything to me. Maybe it sounds strange, but Tommy, I would really love that. Would you do that for me?\"\n\nAnd I said yes.\n\nI agreed because those beautiful memories of our time together had never left me. I remembered how happy she had made me.\n\nThree days afterward, we held our wedding right inside her hospital room.\n\nI wore the suit I usually wore to church because I had no other one, and I hurried to a flea market to purchase two plain wedding bands.\n\nMargaret's ring had a pink heart because there were very few other choices available. When she saw it, she laughed so hard and declared it was her favorite ring in the entire world.\n\nFor a handful of precious days, I was her husband.\n\nFive days later, Margaret passed away.\n\nMy heart was shattered, but I felt thankful that life had brought us together again.\n\nFollowing the funeral, I was standing outside the church when her son came toward me.\n\nHe appeared uneasy. He was carrying a sealed envelope in his hands.\n\n\"Tom, there's something you need to know.\"\n\nThen he placed the envelope in my hands.\n\n\"You don't know the whole truth about Mom. She left this for you and asked me to give it to you only after she was gone.\"\n\nI opened it, unfolded the paper tucked inside, and read the first line.\n\nMy knees nearly gave out.\n\npart 2 👇👇",
+    "wp_media_id": 98,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-0000-it.jpg"
+   },
+   "source_key": "post:100044802900629_1665048941665187",
+   "status": "preparing",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2786,6 +2823,10 @@
    "link": "https://www.facebook.com/share/p/1JZKGEfkuo/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122129839845376137&id=61591284134933"
   },
+  "link:f4838e4d73a8ca8a5bd7": {
+   "link": "https://www.facebook.com/share/p/1FvPU6pRa2/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1665048941665187&id=100044802900629"
+  },
   "link:f4e09d8d75ddebf838fe": {
    "link": "https://www.facebook.com/share/p/1HJFpdWUEX/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122130758852893096&id=61576792898556"
@@ -2813,6 +2854,14 @@
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
    "status": "used"
+  },
+  "post:100044802900629_1665048941665187": {
+   "fingerprint": "6d40b02b78ce89919d30",
+   "link": "https://www.facebook.com/share/p/1FvPU6pRa2/",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-11 00:00",
+   "status": "reserved"
   },
   "post:100045261260562_1698682471650445": {
    "fingerprint": "805fb8b83171cdb61fb9",
