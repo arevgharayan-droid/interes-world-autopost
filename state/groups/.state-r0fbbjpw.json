@@ -1,0 +1,1464 @@
+{
+ "enabled_since": "2026-11-09T17:05:32+04:00",
+ "output_fps": {
+  "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
+  "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
+  "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
+  "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
+  "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
+  "dfc264e5088ceb9596c5": "2026-10-29T20:16:43+00:00",
+  "e19444e6413ef867631a": "2026-10-29T20:24:35+00:00"
+ },
+ "outputs": {
+  "1032441206625600_122116354460633539": "2026-10-29T17:25:55+00:00",
+  "1032441206625600_122116364462633539": "2026-10-29T20:17:05+00:00",
+  "1032441206625600_122116364894633539": "2026-10-30T08:16:14+00:00",
+  "1032441206625600_122116476728633539": "2026-10-31T10:15:11+00:00",
+  "1032441206625600_122116500002633539": "2026-10-31T20:06:39+00:00",
+  "1032441206625600_122116500164633539": "2026-11-01T08:06:09+00:00",
+  "1032441206625600_122116586156633539": "2026-11-01T11:06:12+00:00",
+  "1032441206625600_122116598972633539": "2026-11-01T14:04:37+00:00",
+  "1032441206625600_122116612916633539": "2026-11-01T20:06:14+00:00",
+  "1058598924006917_122108510510457428": "2026-10-29T17:26:02+00:00",
+  "1058598924006917_122108517146457428": "2026-10-29T20:17:08+00:00",
+  "1058598924006917_122108517422457428": "2026-10-30T08:16:22+00:00",
+  "1058598924006917_122108615948457428": "2026-10-31T10:15:15+00:00",
+  "1058598924006917_122108632772457428": "2026-10-31T20:06:44+00:00",
+  "1058598924006917_122108632910457428": "2026-11-01T08:06:16+00:00",
+  "1058598924006917_122108657138457428": "2026-11-01T11:06:20+00:00",
+  "1058598924006917_122108667104457428": "2026-11-01T14:04:43+00:00",
+  "1058598924006917_122108674928457428": "2026-11-01T20:06:20+00:00",
+  "1079295351933311_122121498687299008": "2026-10-29T17:26:06+00:00",
+  "1079295351933311_122121515097299008": "2026-10-29T20:16:57+00:00",
+  "1079295351933311_122121515919299008": "2026-10-30T08:16:25+00:00",
+  "1079295351933311_122121687939299008": "2026-10-31T10:15:03+00:00",
+  "1079295351933311_122121741111299008": "2026-10-31T20:06:47+00:00",
+  "1079295351933311_122121741219299008": "2026-11-01T08:06:20+00:00",
+  "1079295351933311_122121800877299008": "2026-11-01T11:06:24+00:00",
+  "1079295351933311_122121815289299008": "2026-11-01T14:04:25+00:00",
+  "1079295351933311_122121836175299008": "2026-11-01T20:06:23+00:00",
+  "1145306638657445_122123318481303172": "2026-10-29T17:26:09+00:00",
+  "1145306638657445_122123335005303172": "2026-10-29T20:17:01+00:00",
+  "1145306638657445_122123335521303172": "2026-10-30T08:16:28+00:00",
+  "1145306638657445_122123537541303172": "2026-10-31T10:15:06+00:00",
+  "1145306638657445_122123587737303172": "2026-10-31T20:06:50+00:00",
+  "1145306638657445_122123587935303172": "2026-11-01T08:06:24+00:00",
+  "1145306638657445_122123724333303172": "2026-11-01T11:06:27+00:00",
+  "1145306638657445_122123740827303172": "2026-11-01T14:04:30+00:00",
+  "1145306638657445_122123762829303172": "2026-11-01T20:06:25+00:00",
+  "1202025962997153_122119684707409328": "2026-10-29T17:26:12+00:00",
+  "1202025962997153_122119709289409328": "2026-10-29T20:16:51+00:00",
+  "1202025962997153_122119710057409328": "2026-10-30T08:16:31+00:00",
+  "1202025962997153_122119915497409328": "2026-10-31T10:14:55+00:00",
+  "1202025962997153_122119955871409328": "2026-10-31T20:06:52+00:00",
+  "1202025962997153_122119955949409328": "2026-11-01T08:06:29+00:00",
+  "1202025962997153_122120046621409328": "2026-11-01T11:06:31+00:00",
+  "1202025962997153_122120062521409328": "2026-11-01T14:04:17+00:00",
+  "1202025962997153_122120083341409328": "2026-11-01T20:06:27+00:00",
+  "122108510510457428": "2026-10-29T16:36:23+00:00",
+  "122108517122457428": "2026-10-29T20:17:08+00:00",
+  "122108517422457428": "2026-10-29T20:24:49+00:00",
+  "122108615924457428": "2026-10-31T10:15:15+00:00",
+  "122108632742457428": "2026-10-31T18:34:01+00:00",
+  "122108632874457428": "2026-10-31T18:34:18+00:00",
+  "122108657108457428": "2026-11-01T10:37:17+00:00",
+  "122108667080457428": "2026-11-01T14:04:43+00:00",
+  "122108674898457428": "2026-11-01T18:14:50+00:00",
+  "122116354460633539": "2026-10-29T16:36:20+00:00",
+  "122116364432633539": "2026-10-29T20:17:05+00:00",
+  "122116364894633539": "2026-10-29T20:24:48+00:00",
+  "122116476692633539": "2026-10-31T10:15:11+00:00",
+  "122116499966633539": "2026-10-31T18:33:58+00:00",
+  "122116500050633539": "2026-10-31T18:34:15+00:00",
+  "122116586126633539": "2026-11-01T10:37:13+00:00",
+  "122116598948633539": "2026-11-01T14:04:37+00:00",
+  "122116612880633539": "2026-11-01T18:14:46+00:00",
+  "122119684707409328": "2026-10-29T16:36:10+00:00",
+  "122119709265409328": "2026-10-29T20:16:51+00:00",
+  "122119710057409328": "2026-10-29T20:24:40+00:00",
+  "122119915473409328": "2026-10-31T10:14:55+00:00",
+  "122119955841409328": "2026-10-31T18:33:47+00:00",
+  "122119955919409328": "2026-10-31T18:34:05+00:00",
+  "122120046591409328": "2026-11-01T10:37:01+00:00",
+  "122120062497409328": "2026-11-01T14:04:17+00:00",
+  "122120083311409328": "2026-11-01T18:14:31+00:00",
+  "122121498687299008": "2026-10-29T16:36:15+00:00",
+  "122121515073299008": "2026-10-29T20:16:57+00:00",
+  "122121515919299008": "2026-10-29T20:24:44+00:00",
+  "122121540111415639": "2026-10-29T16:36:12+00:00",
+  "122121558249415639": "2026-10-29T20:16:54+00:00",
+  "122121558951415639": "2026-10-29T20:24:42+00:00",
+  "122121687915299008": "2026-10-31T10:15:03+00:00",
+  "122121741075299008": "2026-10-31T18:33:53+00:00",
+  "122121741183299008": "2026-10-31T18:34:10+00:00",
+  "122121763077415639": "2026-10-31T10:14:59+00:00",
+  "122121800847299008": "2026-11-01T10:37:07+00:00",
+  "122121808887415639": "2026-10-31T18:33:51+00:00",
+  "122121808989415639": "2026-10-31T18:34:08+00:00",
+  "122121815265299008": "2026-11-01T14:04:25+00:00",
+  "122121836139299008": "2026-11-01T18:14:38+00:00",
+  "122121897495415639": "2026-11-01T10:37:04+00:00",
+  "122121917055415639": "2026-11-01T14:04:20+00:00",
+  "122121939129415639": "2026-11-01T18:14:34+00:00",
+  "122123318481303172": "2026-10-29T16:36:18+00:00",
+  "122123334981303172": "2026-10-29T20:17:01+00:00",
+  "122123335521303172": "2026-10-29T20:24:45+00:00",
+  "122123537517303172": "2026-10-31T10:15:06+00:00",
+  "122123587701303172": "2026-10-31T18:33:55+00:00",
+  "122123587905303172": "2026-10-31T18:34:12+00:00",
+  "122123724303303172": "2026-11-01T10:37:10+00:00",
+  "122123740803303172": "2026-11-01T14:04:30+00:00",
+  "122123762799303172": "2026-11-01T18:14:42+00:00",
+  "1250374694822508_122121540111415639": "2026-10-29T17:26:15+00:00",
+  "1250374694822508_122121558273415639": "2026-10-29T20:16:54+00:00",
+  "1250374694822508_122121558951415639": "2026-10-30T08:16:34+00:00",
+  "1250374694822508_122121763101415639": "2026-10-31T10:14:59+00:00",
+  "1250374694822508_122121808917415639": "2026-10-31T20:06:56+00:00",
+  "1250374694822508_122121809019415639": "2026-11-01T08:06:33+00:00",
+  "1250374694822508_122121897525415639": "2026-11-01T11:06:34+00:00",
+  "1250374694822508_122121917085415639": "2026-11-01T14:04:20+00:00",
+  "1250374694822508_122121939159415639": "2026-11-01T20:06:30+00:00"
+ },
+ "slots": {
+  "2026-10-29 21:00": {
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1032441206625600": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116354460633539_28878012911859137",
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:18+04:00",
+       "mode": "schedule",
+       "photo_id": "122116354460633539",
+       "post_id": "1032441206625600_122116354460633539",
+       "status": "done"
+      },
+      "1058598924006917": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108510510457428_1168565045698774",
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:21+04:00",
+       "mode": "schedule",
+       "photo_id": "122108510510457428",
+       "post_id": "1058598924006917_122108510510457428",
+       "status": "done"
+      },
+      "1079295351933311": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121498687299008_1592362218852913",
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:12+04:00",
+       "mode": "schedule",
+       "photo_id": "122121498687299008",
+       "post_id": "1079295351933311_122121498687299008",
+       "status": "done"
+      },
+      "1145306638657445": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123318481303172_1804845100636109",
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:15+04:00",
+       "mode": "schedule",
+       "photo_id": "122123318481303172",
+       "post_id": "1145306638657445_122123318481303172",
+       "status": "done"
+      },
+      "1202025962997153": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119684707409328_1463221599078344",
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:08+04:00",
+       "mode": "schedule",
+       "photo_id": "122119684707409328",
+       "post_id": "1202025962997153_122119684707409328",
+       "status": "done"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121540111415639_2565822107254556",
+       "error": null,
+       "last_attempt": "2026-10-29T20:36:10+04:00",
+       "mode": "schedule",
+       "photo_id": "122121540111415639",
+       "post_id": "1250374694822508_122121540111415639",
+       "status": "done"
+      }
+     },
+     "title": "Pendant sept ans, j'ai envoyé 40 000 dollars par an à mon gendre, jusqu'au jour où ma petite-fille de sept ans m'a murmuré : « Papy, arrête, et suis-le",
+     "warnings": [
+      "длина текста FB 376 слов (исходник 450, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 7163,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-10-29T21:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/864147755_122140489353225301_7745319283371627577_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e5c1b6&_nc_ohc=nKt_3gBNI3AQ7kNvwGeU1M6&_nc_oc=Adr6uoyyQKDYM1jtyapr4YuWWMclHYMQZvRy1IVuRFuYbX5g9Mu8-51xzuf1_cd4xDA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AMAeTUEEAAAA&_nc_gid=OrjciGDuIXmFrrzpXq7syw&_nc_tpa=Q5bMBQJj982R5d-KSr_3QKFuchkeobDwo4dxECS_YJCw2kHHTaZGjoY0xcgsV4Cub9mgL6IYG3-0JiGS4w&oh=00_AQTshzkIQHx2d7sIfUxB8wSjHysHCrr-WRAijFj3nyxN3g&oe=6AE94AB7",
+    "link": "https://www.facebook.com/photo/?fbid=122140489347225301&set=a.122127086457225301",
+    "origin": "manual",
+    "page_id": "976983902158171",
+    "text": "Pendant sept ans, après la mort de ma fille, j’ai envoyé chaque mois de janvier 40 000 dollars à son mari pour l’aider à s’occuper de ma petite-fille. Puis, un après-midi, Emma, qui avait sept ans, m’a pris à part et m’a murmuré : « Papy, s’il te plaît, arrête de donner de l’argent à papa. Suis-le un jour et tu comprendras pourquoi. »\n\nJe croyais honorer les dernières volontés de ma fille.\n\nLaura était mon unique enfant. Avant de mourir, elle m’avait fait promettre une chose.\n\n« Papa, quoi qu’il arrive, assure-toi qu’Emma est en sécurité. »\n\nIl y a sept ans, Laura est morte dans un terrible accident sur l’autoroute 24.\n\nLa police nous a dit que la voiture avait tellement brûlé qu’il serait impossible de voir le corps. Mon gendre, Mark Stevens, est resté aux côtés de ma femme, Eleanor, et de moi pendant les funérailles.\n\nNous avons reçu une urne scellée.\n\nSix mois plus tard, Eleanor est morte à son tour.\n\nLes médecins ont parlé d’un arrêt cardiaque.\n\nMoi, j’ai appelé ça le chagrin.\n\nDepuis, mon monde était devenu douloureusement petit. Il me restait l’épicerie familiale, le Miller’s Corner Market, et Emma.\n\nChaque mois de janvier, je faisais un virement de 40 000 dollars à Mark.\n\nPour l’école.\n\nPour la nourriture.\n\nPour les vêtements.\n\nPour tout ce dont ma petite-fille avait besoin.\n\nDu moins, c’est ce que je croyais.\n\nUn samedi sur deux, j’emmenais Emma manger une glace. Elle commandait toujours une glace à la fraise marbrée et nous nous installions sous le même chêne, tandis qu’elle me racontait sa journée à l’école.\n\nCe jour-là, en septembre, elle venait de me raconter qu’elle avait eu un A à son contrôle d’orthographe quand son sourire s’est soudain effacé.\n\n« Papy ? »\n\n« Oui, ma chérie ? »\n\nElle a regardé autour d’elle avant de m’attraper par la manche.\n\n« S’il te plaît, arrête d’envoyer de l’argent à papa. »\n\nJe me suis figé.\n\n« Quoi ? »\n\n« L’argent que tu lui donnes. Ne lui en envoie plus. »\n\nJ’ai baissé la voix.\n\n« Emma, cet argent est pour toi. »\n\nElle a secoué la tête.\n\n« Non, Papy. »\n\nLa façon dont elle l’a dit m’a effrayé.\n\n« Ton père te fait du mal ? »\n\nSes doigts ont serré ma manche encore plus fort.\n\n« Je ne peux pas te le dire. »\n\n« Pourquoi ? »\n\n« Il va se fâcher. »\n\nJ’ai senti mon estomac se nouer.\n\nTu veux savoir ce qui va se passer ensuite ? Écris « HUG » et clique sur « J’AIME » pour nous le faire savoir. Nous publierons bientôt l’histoire complète 😉👇",
+    "wp_media_id": 7162,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-fr.jpg"
+   },
+   "source_key": "post:photo_122140489347225301",
+   "status": "done"
+  },
+  "2026-10-30 00:00": {
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1032441206625600": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116364462633539_2030023917710866",
+       "error": null,
+       "last_attempt": "2026-10-30T00:17:02+04:00",
+       "mode": "immediate",
+       "photo_id": "122116364432633539",
+       "post_id": "1032441206625600_122116364462633539",
+       "status": "done"
+      },
+      "1058598924006917": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108517146457428_1650962793071554",
+       "error": null,
+       "last_attempt": "2026-10-30T00:17:05+04:00",
+       "mode": "immediate",
+       "photo_id": "122108517122457428",
+       "post_id": "1058598924006917_122108517146457428",
+       "status": "done"
+      },
+      "1079295351933311": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121515097299008_948082841460839",
+       "error": null,
+       "last_attempt": "2026-10-30T00:16:54+04:00",
+       "mode": "immediate",
+       "photo_id": "122121515073299008",
+       "post_id": "1079295351933311_122121515097299008",
+       "status": "done"
+      },
+      "1145306638657445": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123335005303172_2368534440355490",
+       "error": null,
+       "last_attempt": "2026-10-30T00:16:58+04:00",
+       "mode": "immediate",
+       "photo_id": "122123334981303172",
+       "post_id": "1145306638657445_122123335005303172",
+       "status": "done"
+      },
+      "1202025962997153": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119709289409328_1134941492255235",
+       "error": null,
+       "last_attempt": "2026-10-30T00:16:47+04:00",
+       "mode": "immediate",
+       "photo_id": "122119709265409328",
+       "post_id": "1202025962997153_122119709289409328",
+       "status": "done"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121558273415639_1124453087109391",
+       "error": null,
+       "last_attempt": "2026-10-30T00:16:51+04:00",
+       "mode": "immediate",
+       "photo_id": "122121558249415639",
+       "post_id": "1250374694822508_122121558273415639",
+       "status": "done"
+      }
+     },
+     "title": "Je suis rentré après dix ans pour offrir une vie paisible à mes parents, mais ce que j'ai trouvé dans leur couloir m'a glacé le sang",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7186,
+     "wp_live": true,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-10-30T00:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/820459012_122102939450536431_7997536166369427495_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GlJGn29TYiQQ7kNvwEFUb6g&_nc_oc=Adq8bsDW5XkVf7SKZMr9XCIQn70XuNnyILOhzB6NEO42AzNNFmjK-IRDN3krnzxI5zQ&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=AJfPMC4EAAAA&_nc_gid=qYrCWM-grgVHNufOgXHLfA&_nc_tpa=Q5bMBQIlWInKHTDglrlEcGfYox1rg5g2TZ_w4KxOJUSMQLlATuc34z0vYvc31eIP_5C_nGL1f40xE81wug&oh=00_AQQqjk3Ri0pIOC3yxmAPmR__6veDpiDn7gJlPIX5fZoPtg&oe=6AE971D5",
+    "link": "https://www.facebook.com/story.php?story_fbid=122102939498536431&id=61566092952750",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "Je suis rentré chez moi après presque dix ans, enfin assez riche pour offrir à mes parents une vie paisible.\n\nMais ce que j’ai découvert m’a glacé le sang.\n\nDes fenêtres cassées. Un toit qui fuyait. Ma mère portait deux pulls à cause du froid. Mon père s’appuyait sur une canne réparée avec du ruban adhésif.\n\n— Pourquoi vivez-vous comme ça ? ai-je demandé.\n\nMa mère a baissé les yeux.\n\n— Ton frère Liam nous a dit que ton entreprise était presque en faillite… Nous ne voulions pas te demander d’argent.\n\nJe suis resté immobile.\n\nDepuis des années, j’envoyais chaque mois des milliers de dollars pour leurs médicaments, leur nourriture et l’entretien de la maison.\n\n— Quel argent ? demanda mon père.\n\nCe soir-là, Liam arriva avec des sacs de courses et un sourire beaucoup trop calme.\n\nChaque fois que je mentionnais la banque, il changeait immédiatement de sujet.\n\nPuis j’ai remarqué quelque chose.\n\nIl regardait sans cesse un vieux meuble dans le couloir.\n\nÀ l’intérieur, j’ai trouvé une boîte en bois nouée avec un ruban bleu.\n\nElle contenait des dizaines de lettres signées de mon nom.\n\nDes lettres que je n’avais jamais écrites.\n\nElles disaient que j’étais couvert de dettes, que je ne pouvais pas rentrer et que mes parents ne devaient plus m’appeler.\n\nSous les lettres se trouvait un document bancaire.\n\nUne autorisation de gestion du compte.\n\nLe nom de la seule personne autorisée était :\n\nLiam Perkins.\n\nJ’ai entendu un bruit derrière moi.\n\nLiam se tenait dans l’embrasure de la porte, livide.\n\n— Referme cette boîte, dit-il. Il y a des choses que maman et papa ne doivent jamais savoir.\n\nMais il ignorait une chose.\n\nJ’avais déjà vérifié les virements.\n\nPendant des années, d’énormes sommes avaient disparu chaque mois du compte destiné à nos parents.\n\nEt ce n’était même pas la pire découverte.\n\nCar quelques heures plus tard, un avocat allait m’apprendre que la maison de mes parents était elle aussi sur le point de leur être retirée.\n\nLa suite est dans les commentaires 👇",
+    "wp_media_id": 7185,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-0000-fr.jpg"
+   },
+   "source_key": "post:1011074408765807_122102939498536431",
+   "status": "done"
+  },
+  "2026-10-30 12:00": {
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1032441206625600": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116364894633539_4516488788666223",
+       "error": null,
+       "last_attempt": "2026-10-30T00:24:45+04:00",
+       "mode": "schedule",
+       "photo_id": "122116364894633539",
+       "post_id": "1032441206625600_122116364894633539",
+       "status": "done"
+      },
+      "1058598924006917": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108517422457428_1352491276821791",
+       "error": null,
+       "last_attempt": "2026-10-30T00:24:48+04:00",
+       "mode": "schedule",
+       "photo_id": "122108517422457428",
+       "post_id": "1058598924006917_122108517422457428",
+       "status": "done"
+      },
+      "1079295351933311": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121515919299008_1626661395619423",
+       "error": null,
+       "last_attempt": "2026-10-30T00:24:43+04:00",
+       "mode": "schedule",
+       "photo_id": "122121515919299008",
+       "post_id": "1079295351933311_122121515919299008",
+       "status": "done"
+      },
+      "1145306638657445": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123335521303172_1124530253250663",
+       "error": null,
+       "last_attempt": "2026-10-30T00:24:44+04:00",
+       "mode": "schedule",
+       "photo_id": "122123335521303172",
+       "post_id": "1145306638657445_122123335521303172",
+       "status": "done"
+      },
+      "1202025962997153": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119710057409328_1778118896799581",
+       "error": null,
+       "last_attempt": "2026-10-30T00:24:38+04:00",
+       "mode": "schedule",
+       "photo_id": "122119710057409328",
+       "post_id": "1202025962997153_122119710057409328",
+       "status": "done"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121558951415639_2286788742106621",
+       "error": null,
+       "last_attempt": "2026-10-30T00:24:40+04:00",
+       "mode": "schedule",
+       "photo_id": "122121558951415639",
+       "post_id": "1250374694822508_122121558951415639",
+       "status": "done"
+      }
+     },
+     "title": "Son mari l'a laissée faire la vaisselle pour aller au gala avec sa maîtresse, sans savoir à qui appartenait vraiment son entreprise",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7200,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-10-30T12:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/788208723_122101879616536431_8545513260258612764_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_xL0yxGWU4gQ7kNvwGZOYiO&_nc_oc=Adpeb_j_88StyvvPnR3fB1ZXrVq1wdipVT1s9uI_qEm2MQzB1AQKlAZbzFdwH_AUqRE&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=iRIA_Hh0XAd8MhmrZsXuow&_nc_tpa=Q5bMBQJ81b2zotZJSuUoVUEXwAvM_4EQlXRVLMaJZjXzpnrYlsSvtVFApnz3Wqy1V9-77z3r5trnQhYQmg&oh=00_AQSf3rYyLvD5_9RgYIT8FsxbMJrGmnXlNAbBi7E6Dp5_Cg&oe=6AE978FC",
+    "link": "https://www.facebook.com/story.php?story_fbid=122101879646536431&id=61566092952750",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "Son mari la laissa faire la vaisselle et partit au gala avec sa maîtresse, sans savoir à qui appartenait réellement son entreprise\n\n— Reste ici et termine la vaisselle, Olena. Ce soir, je dois donner l’image d’un homme qui a réussi, pas celle d’un mari traînant une femme incapable de tenir son rang.\n\nLes paroles d’Andriy claquèrent au moment où un verre en cristal se brisait aux pieds d’Olena.\n\nElle avait les mains mouillées et une petite coupure au doigt. Depuis des heures, elle préparait le dîner selon les exigences de sa belle-mère : viande, poisson, vaisselle luxueuse et serviettes parfaitement pliées.\n\nValentina contempla les morceaux de verre avec mépris.\n\n— Huit ans parmi des gens respectables, et tu te comportes encore comme une domestique maladroite.\n\nOlena ne répondit pas.\n\nPrès de l’entrée, Andriy ajustait son smoking et regardait la montre que sa femme lui avait offerte après son premier gros contrat. Dans les interviews, il affirmait pourtant l’avoir achetée lui-même pour célébrer l’empire qu’il prétendait avoir bâti seul.\n\n— Je pensais t’accompagner au gala de charité, murmura Olena.\n\nDes investisseurs, des journalistes et de grands dirigeants étaient attendus. L’invitée principale serait la mystérieuse propriétaire d’Obriy Capital, rarement vue en public.\n\n— Il y aura des caméras et des personnes importantes, répondit Andriy. J’ai besoin d’une femme qui sache impressionner.\n\nViktoria entra alors dans sa robe bordeaux. Directrice des relations publiques de l’entreprise, elle écrivait à Andriy tard dans la nuit, l’accompagnait lors de ses « déplacements professionnels » et posait bien trop près de lui sur les photos.\n\nElle arrangea son nœud papillon.\n\n— La voiture nous attend.\n\n— Tu l’emmènes à ma place ? demanda Olena.\n\nAndriy s’approcha d’elle.\n\n— Avant moi, tu vivais au-dessus d’une vieille imprimerie et achetais des vêtements d’occasion. Tout ce que tu possèdes, tu me le dois.\n\n— Tu crois vraiment cela ? répondit-elle calmement.\n\nQuelques minutes plus tard, il partit avec Viktoria, sa mère et sa sœur.\n\nPendant huit ans, Olena avait confondu patience et amour.\n\nElle retira ses gants et abandonna la vaisselle.\n\nDans la cave, elle déplaça une ancienne bouteille puis appuya sur un panneau dissimulé. Une partie du mur s’ouvrit, révélant un ascenseur privé dont Andriy ignorait l’existence.\n\nÀ l’étage inférieur se trouvait un véritable bureau : ligne sécurisée, coffre-fort, écrans et dossier portant le nom « Obriy Capital ».\n\nL’un des moniteurs affichait la structure de propriété de Vovchenko Group.\n\nLa majorité des parts appartenait à Obriy Capital.\n\nEt l’unique propriétaire d’Obriy Capital était Olena Shevchuk.\n\nElle passa un appel :\n\n— Envoyez la voiture à la sortie latérale.\n\n— Bien sûr, madame Shevchuk. Tout le monde vous attend au gala.\n\nCe soir-là, Andriy allait enfin découvrir qui avait véritablement construit son empire.\n\nLa suite est dans les commentaires👇\n\nSi tu es\narrivé jusqu’ici,\nécris «MAISON»",
+    "wp_media_id": 7194,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-fr.jpg"
+   },
+   "source_key": "post:1011074408765807_122101879646536431",
+   "status": "done"
+  },
+  "2026-10-30 15:00": {
+   "langs": {},
+   "slot_iso": "2026-10-30T15:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-10-30 18:00": {
+   "langs": {},
+   "slot_iso": "2026-10-30T18:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-10-30 21:00": {
+   "langs": {},
+   "slot_iso": "2026-10-30T21:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-10-31 00:00": {
+   "langs": {},
+   "slot_iso": "2026-10-31T00:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-10-31 12:00": {
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1032441206625600": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116476728633539_1797374188250643",
+       "error": null,
+       "last_attempt": "2026-10-31T14:15:07+04:00",
+       "mode": "immediate",
+       "photo_id": "122116476692633539",
+       "post_id": "1032441206625600_122116476728633539",
+       "status": "done"
+      },
+      "1058598924006917": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108615948457428_3027810960888224",
+       "error": null,
+       "last_attempt": "2026-10-31T14:15:11+04:00",
+       "mode": "immediate",
+       "photo_id": "122108615924457428",
+       "post_id": "1058598924006917_122108615948457428",
+       "status": "done"
+      },
+      "1079295351933311": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121687939299008_1586785052768017",
+       "error": null,
+       "last_attempt": "2026-10-31T14:14:59+04:00",
+       "mode": "immediate",
+       "photo_id": "122121687915299008",
+       "post_id": "1079295351933311_122121687939299008",
+       "status": "done"
+      },
+      "1145306638657445": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123537541303172_4145910115701471",
+       "error": null,
+       "last_attempt": "2026-10-31T14:15:03+04:00",
+       "mode": "immediate",
+       "photo_id": "122123537517303172",
+       "post_id": "1145306638657445_122123537541303172",
+       "status": "done"
+      },
+      "1202025962997153": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119915497409328_29225658067057696",
+       "error": null,
+       "last_attempt": "2026-10-31T14:14:50+04:00",
+       "mode": "immediate",
+       "photo_id": "122119915473409328",
+       "post_id": "1202025962997153_122119915497409328",
+       "status": "done"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121763101415639_1142952124911599",
+       "error": null,
+       "last_attempt": "2026-10-31T14:14:55+04:00",
+       "mode": "immediate",
+       "photo_id": "122121763077415639",
+       "post_id": "1250374694822508_122121763101415639",
+       "status": "done"
+      }
+     },
+     "title": "Mon mari m'a chassée de ma propre maison pour sa maîtresse enceinte, sans savoir à qui elle appartenait vraiment",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 7218,
+     "wp_live": true,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-10-31T12:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/864991443_1698887634963262_8309159156811281145_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yqOQ1lE2sE0Q7kNvwElF0k9&_nc_oc=AdpOx6k6ImghYDSK4PkMjlkPbOXtz5B0BcuexJ15Ig6rSX9FRU1I96uXxegaBrnJENg&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=RUgTsMX6YVD7W0c5-LCqvA&_nc_tpa=Q5bMBQIqj-uhrI4iC6jVqpC-B0SUm5Zrgyiw8gRjdvOL3eWWslf3FAXlIIQhhKcW5nCth0DpKiMza2xnjA&oh=00_AQSsPEs4_g5OhP_KgAKyJGASzP5FV-TFCXcCE3hR9ZfXWg&oe=6AEB9D58",
+    "link": "https://www.facebook.com/story.php?story_fbid=1699072051611487&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "The day I signed the divorce papers, I canceled the $65,000 I sent my mother-in-law every month. My husband had said to me, “My mistress and our baby are keeping the house. You can leave.”\nI didn’t argue. I packed my things and called my lawyer. A few days later, he returned with his mistress and their child, but what he found at the front door left him speechless.\nPART 1\n“My girlfriend is pregnant, and you’re moving out of this house tonight. I won’t let my child grow up under the same roof as a bitter woman like you.”\nMy husband tossed the divorce papers onto the marble table in our home in Paradise Valley, Scottsdale, and smiled as if he’d just won the lottery.\nThe absurd part was that the house, the luxury watch on his wrist, and even the Italian shoes he strutted around in had all been paid for with my money.\nMy name is Harper Lawson. I’m thirty-eight, and I founded a tech consulting company that I built from scratch. For five years of marriage I covered nearly every expense in our household. Trent, my husband, worked as an administrative clerk and earned a thousand dollars a month. I never held it against him that he earned less than I did. All I ever expected was respect.\nThat night I learned he couldn’t even give me that.\n“How long have you had another woman?” I asked.\n“That doesn’t matter now. Brooke is young, affectionate, and knows how to take care of a man. Not like you, who only thinks about your contracts.”\nHe settled onto the leather sofa and pointed at the documents. “I want the divorce. And since I’m going to be a father, I need to keep this house.”\nI thought I’d misheard. “You want to stay here?”\n“Of course. I also need the Mercedes SUV. Brooke has to travel comfortably during the pregnancy.”\nThen he held up three fingers, as if laying out terms in a business deal. “And you’ll keep depositing thirty-five hundred dollars a month for my parents. They’re used to that support, and it wouldn’t be fair to abandon them.”\nI stared at him. For years I had sent that money to Gloria and Walt, my in-laws, because Trent insisted they needed medical treatment and help with expenses. I never imagined hearing their son demand I keep supporting them after throwing me out of my own home.\n“And what are you giving me in return?”\nTrent burst out laughing. “The freedom to start over. At your age, you should be grateful someone put up with you this long.”\nThose words hurt more than the confession of his affair. I thought of the nights working until three in the morning, the trips I’d canceled to close contracts, and all the times I’d defended Trent when my friends asked why he never contributed. I understood then that I had confused love with an obligation to keep ungrateful people comfortable.\nI picked up the papers. There was a petition for divorce and a settlement agreement he had drafted to take everything.\n“I agree to the divorce,” I said.\nI signed only the statement of my willingness to separate and left the property settlement untouched. Trent didn’t even notice the difference.\n“I knew you’d come around,” he said, satisfied. “Now pack your things.”\nI went upstairs and gathered my laptop, some documents, and enough clothes for several days. I didn’t argue. I didn’t cry in front of him.\nWhen I came back down, Trent was on the phone. “Babe, it’s all settled. The house is ours.”\nJust before I closed the door, I heard one more line. “My mom says she’s finally getting a daughter-in-law who’ll give her grandkids.”\nThat night, from a hotel, I got a text from Gloria:\nEven if you divorce, don’t forget Monday’s deposit. Brooke will need our help organizing her new life.\nI stared at it for several seconds.\nWhat Trent and his family didn’t know was that the house and the Mercedes were registered to my company. And when I looked, for the first time, at the records of the deposits I’d made to my in-laws, I found something that turned that affair into a far bigger betrayal…\nAre you curious about what would happen next? If so, Read the full story in the c0mments 😉👇",
+    "wp_media_id": 7210,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261031-1200-fr.jpg"
+   },
+   "source_key": "post:100045261260562_1699072051611487",
+   "status": "done"
+  },
+  "2026-10-31 15:00": {
+   "langs": {},
+   "slot_iso": "2026-10-31T15:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-10-31 18:00": {
+   "langs": {},
+   "slot_iso": "2026-10-31T18:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-10-31 21:00": {
+   "langs": {},
+   "slot_iso": "2026-10-31T21:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-01 00:00": {
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "FR": {
+     "generated": true,
+     "pages": {
+      "1032441206625600": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116500002633539_1830156484770354",
+       "error": null,
+       "last_attempt": "2026-10-31T22:33:55+04:00",
+       "mode": "schedule",
+       "photo_id": "122116499966633539",
+       "post_id": "1032441206625600_122116500002633539",
+       "status": "done"
+      },
+      "1058598924006917": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108632772457428_1145559108432949",
+       "error": null,
+       "last_attempt": "2026-10-31T22:33:58+04:00",
+       "mode": "schedule",
+       "photo_id": "122108632742457428",
+       "post_id": "1058598924006917_122108632772457428",
+       "status": "done"
+      },
+      "1079295351933311": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121741111299008_1136211958861559",
+       "error": null,
+       "last_attempt": "2026-10-31T22:33:51+04:00",
+       "mode": "schedule",
+       "photo_id": "122121741075299008",
+       "post_id": "1079295351933311_122121741111299008",
+       "status": "done"
+      },
+      "1145306638657445": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123587737303172_994584056337164",
+       "error": null,
+       "last_attempt": "2026-10-31T22:33:53+04:00",
+       "mode": "schedule",
+       "photo_id": "122123587701303172",
+       "post_id": "1145306638657445_122123587737303172",
+       "status": "done"
+      },
+      "1202025962997153": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119955871409328_1009839888814282",
+       "error": null,
+       "last_attempt": "2026-10-31T22:33:44+04:00",
+       "mode": "schedule",
+       "photo_id": "122119955841409328",
+       "post_id": "1202025962997153_122119955871409328",
+       "status": "done"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121808917415639_1745989313139954",
+       "error": null,
+       "last_attempt": "2026-10-31T22:33:47+04:00",
+       "mode": "schedule",
+       "photo_id": "122121808887415639",
+       "post_id": "1250374694822508_122121808917415639",
+       "status": "done"
+      }
+     },
+     "title": "Pendant sept ans, j'ai envoyé 40 000 dollars par an à mon gendre, jusqu'au jour où ma petite-fille de sept ans m'a murmuré : « Papy, arrête, et suis-le",
+     "wp_id": 7163,
+     "wp_live": true
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "не повторяется"
+    }
+   },
+   "prepared": true,
+   "repost_of": "2026-10-29 21:00",
+   "slot_iso": "2026-11-01T00:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/864147755_122140489353225301_7745319283371627577_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e5c1b6&_nc_ohc=nKt_3gBNI3AQ7kNvwGeU1M6&_nc_oc=Adr6uoyyQKDYM1jtyapr4YuWWMclHYMQZvRy1IVuRFuYbX5g9Mu8-51xzuf1_cd4xDA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=AMAeTUEEAAAA&_nc_gid=OrjciGDuIXmFrrzpXq7syw&_nc_tpa=Q5bMBQJj982R5d-KSr_3QKFuchkeobDwo4dxECS_YJCw2kHHTaZGjoY0xcgsV4Cub9mgL6IYG3-0JiGS4w&oh=00_AQTshzkIQHx2d7sIfUxB8wSjHysHCrr-WRAijFj3nyxN3g&oe=6AE94AB7",
+    "link": "https://www.facebook.com/photo/?fbid=122140489347225301&set=a.122127086457225301",
+    "origin": "manual",
+    "page_id": "976983902158171",
+    "text": "Pendant sept ans, après la mort de ma fille, j’ai envoyé chaque mois de janvier 40 000 dollars à son mari pour l’aider à s’occuper de ma petite-fille. Puis, un après-midi, Emma, qui avait sept ans, m’a pris à part et m’a murmuré : « Papy, s’il te plaît, arrête de donner de l’argent à papa. Suis-le un jour et tu comprendras pourquoi. »\n\nJe croyais honorer les dernières volontés de ma fille.\n\nLaura était mon unique enfant. Avant de mourir, elle m’avait fait promettre une chose.\n\n« Papa, quoi qu’il arrive, assure-toi qu’Emma est en sécurité. »\n\nIl y a sept ans, Laura est morte dans un terrible accident sur l’autoroute 24.\n\nLa police nous a dit que la voiture avait tellement brûlé qu’il serait impossible de voir le corps. Mon gendre, Mark Stevens, est resté aux côtés de ma femme, Eleanor, et de moi pendant les funérailles.\n\nNous avons reçu une urne scellée.\n\nSix mois plus tard, Eleanor est morte à son tour.\n\nLes médecins ont parlé d’un arrêt cardiaque.\n\nMoi, j’ai appelé ça le chagrin.\n\nDepuis, mon monde était devenu douloureusement petit. Il me restait l’épicerie familiale, le Miller’s Corner Market, et Emma.\n\nChaque mois de janvier, je faisais un virement de 40 000 dollars à Mark.\n\nPour l’école.\n\nPour la nourriture.\n\nPour les vêtements.\n\nPour tout ce dont ma petite-fille avait besoin.\n\nDu moins, c’est ce que je croyais.\n\nUn samedi sur deux, j’emmenais Emma manger une glace. Elle commandait toujours une glace à la fraise marbrée et nous nous installions sous le même chêne, tandis qu’elle me racontait sa journée à l’école.\n\nCe jour-là, en septembre, elle venait de me raconter qu’elle avait eu un A à son contrôle d’orthographe quand son sourire s’est soudain effacé.\n\n« Papy ? »\n\n« Oui, ma chérie ? »\n\nElle a regardé autour d’elle avant de m’attraper par la manche.\n\n« S’il te plaît, arrête d’envoyer de l’argent à papa. »\n\nJe me suis figé.\n\n« Quoi ? »\n\n« L’argent que tu lui donnes. Ne lui en envoie plus. »\n\nJ’ai baissé la voix.\n\n« Emma, cet argent est pour toi. »\n\nElle a secoué la tête.\n\n« Non, Papy. »\n\nLa façon dont elle l’a dit m’a effrayé.\n\n« Ton père te fait du mal ? »\n\nSes doigts ont serré ma manche encore plus fort.\n\n« Je ne peux pas te le dire. »\n\n« Pourquoi ? »\n\n« Il va se fâcher. »\n\nJ’ai senti mon estomac se nouer.\n\nTu veux savoir ce qui va se passer ensuite ? Écris « HUG » et clique sur « J’AIME » pour nous le faire savoir. Nous publierons bientôt l’histoire complète 😉👇",
+    "wp_media_id": 7162,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261029-2100-fr.jpg"
+   },
+   "source_key": "post:photo_122140489347225301",
+   "status": "done"
+  },
+  "2026-11-01 12:00": {
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "FR": {
+     "generated": true,
+     "pages": {
+      "1032441206625600": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116500164633539_1657852212443792",
+       "error": null,
+       "last_attempt": "2026-10-31T22:34:13+04:00",
+       "mode": "schedule",
+       "photo_id": "122116500050633539",
+       "post_id": "1032441206625600_122116500164633539",
+       "status": "done"
+      },
+      "1058598924006917": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108632910457428_1723829509128750",
+       "error": null,
+       "last_attempt": "2026-10-31T22:34:15+04:00",
+       "mode": "schedule",
+       "photo_id": "122108632874457428",
+       "post_id": "1058598924006917_122108632910457428",
+       "status": "done"
+      },
+      "1079295351933311": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121741219299008_2139459823338996",
+       "error": null,
+       "last_attempt": "2026-10-31T22:34:08+04:00",
+       "mode": "schedule",
+       "photo_id": "122121741183299008",
+       "post_id": "1079295351933311_122121741219299008",
+       "status": "done"
+      },
+      "1145306638657445": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123587935303172_3418413211665899",
+       "error": null,
+       "last_attempt": "2026-10-31T22:34:10+04:00",
+       "mode": "schedule",
+       "photo_id": "122123587905303172",
+       "post_id": "1145306638657445_122123587935303172",
+       "status": "done"
+      },
+      "1202025962997153": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119955949409328_1677537750703234",
+       "error": null,
+       "last_attempt": "2026-10-31T22:34:02+04:00",
+       "mode": "schedule",
+       "photo_id": "122119955919409328",
+       "post_id": "1202025962997153_122119955949409328",
+       "status": "done"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121809019415639_882880221514110",
+       "error": null,
+       "last_attempt": "2026-10-31T22:34:05+04:00",
+       "mode": "schedule",
+       "photo_id": "122121808989415639",
+       "post_id": "1250374694822508_122121809019415639",
+       "status": "done"
+      }
+     },
+     "title": "Son mari l'a laissée faire la vaisselle pour aller au gala avec sa maîtresse, sans savoir à qui appartenait vraiment son entreprise",
+     "wp_id": 7200,
+     "wp_live": true
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "не повторяется"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "не повторяется"
+    }
+   },
+   "prepared": true,
+   "repost_of": "2026-10-30 12:00",
+   "slot_iso": "2026-11-01T12:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/788208723_122101879616536431_8545513260258612764_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_xL0yxGWU4gQ7kNvwGZOYiO&_nc_oc=Adpeb_j_88StyvvPnR3fB1ZXrVq1wdipVT1s9uI_qEm2MQzB1AQKlAZbzFdwH_AUqRE&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=iRIA_Hh0XAd8MhmrZsXuow&_nc_tpa=Q5bMBQJ81b2zotZJSuUoVUEXwAvM_4EQlXRVLMaJZjXzpnrYlsSvtVFApnz3Wqy1V9-77z3r5trnQhYQmg&oh=00_AQSf3rYyLvD5_9RgYIT8FsxbMJrGmnXlNAbBi7E6Dp5_Cg&oe=6AE978FC",
+    "link": "https://www.facebook.com/story.php?story_fbid=122101879646536431&id=61566092952750",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "Son mari la laissa faire la vaisselle et partit au gala avec sa maîtresse, sans savoir à qui appartenait réellement son entreprise\n\n— Reste ici et termine la vaisselle, Olena. Ce soir, je dois donner l’image d’un homme qui a réussi, pas celle d’un mari traînant une femme incapable de tenir son rang.\n\nLes paroles d’Andriy claquèrent au moment où un verre en cristal se brisait aux pieds d’Olena.\n\nElle avait les mains mouillées et une petite coupure au doigt. Depuis des heures, elle préparait le dîner selon les exigences de sa belle-mère : viande, poisson, vaisselle luxueuse et serviettes parfaitement pliées.\n\nValentina contempla les morceaux de verre avec mépris.\n\n— Huit ans parmi des gens respectables, et tu te comportes encore comme une domestique maladroite.\n\nOlena ne répondit pas.\n\nPrès de l’entrée, Andriy ajustait son smoking et regardait la montre que sa femme lui avait offerte après son premier gros contrat. Dans les interviews, il affirmait pourtant l’avoir achetée lui-même pour célébrer l’empire qu’il prétendait avoir bâti seul.\n\n— Je pensais t’accompagner au gala de charité, murmura Olena.\n\nDes investisseurs, des journalistes et de grands dirigeants étaient attendus. L’invitée principale serait la mystérieuse propriétaire d’Obriy Capital, rarement vue en public.\n\n— Il y aura des caméras et des personnes importantes, répondit Andriy. J’ai besoin d’une femme qui sache impressionner.\n\nViktoria entra alors dans sa robe bordeaux. Directrice des relations publiques de l’entreprise, elle écrivait à Andriy tard dans la nuit, l’accompagnait lors de ses « déplacements professionnels » et posait bien trop près de lui sur les photos.\n\nElle arrangea son nœud papillon.\n\n— La voiture nous attend.\n\n— Tu l’emmènes à ma place ? demanda Olena.\n\nAndriy s’approcha d’elle.\n\n— Avant moi, tu vivais au-dessus d’une vieille imprimerie et achetais des vêtements d’occasion. Tout ce que tu possèdes, tu me le dois.\n\n— Tu crois vraiment cela ? répondit-elle calmement.\n\nQuelques minutes plus tard, il partit avec Viktoria, sa mère et sa sœur.\n\nPendant huit ans, Olena avait confondu patience et amour.\n\nElle retira ses gants et abandonna la vaisselle.\n\nDans la cave, elle déplaça une ancienne bouteille puis appuya sur un panneau dissimulé. Une partie du mur s’ouvrit, révélant un ascenseur privé dont Andriy ignorait l’existence.\n\nÀ l’étage inférieur se trouvait un véritable bureau : ligne sécurisée, coffre-fort, écrans et dossier portant le nom « Obriy Capital ».\n\nL’un des moniteurs affichait la structure de propriété de Vovchenko Group.\n\nLa majorité des parts appartenait à Obriy Capital.\n\nEt l’unique propriétaire d’Obriy Capital était Olena Shevchuk.\n\nElle passa un appel :\n\n— Envoyez la voiture à la sortie latérale.\n\n— Bien sûr, madame Shevchuk. Tout le monde vous attend au gala.\n\nCe soir-là, Andriy allait enfin découvrir qui avait véritablement construit son empire.\n\nLa suite est dans les commentaires👇\n\nSi tu es\narrivé jusqu’ici,\nécris «MAISON»",
+    "wp_media_id": 7194,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-fr.jpg"
+   },
+   "source_key": "post:1011074408765807_122101879646536431",
+   "status": "done"
+  },
+  "2026-11-01 15:00": {
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1032441206625600": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116586156633539_1801355257638136",
+       "error": null,
+       "last_attempt": "2026-11-01T14:37:10+04:00",
+       "mode": "schedule",
+       "photo_id": "122116586126633539",
+       "post_id": "1032441206625600_122116586156633539",
+       "status": "done"
+      },
+      "1058598924006917": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108657138457428_1674316427596383",
+       "error": null,
+       "last_attempt": "2026-11-01T14:37:14+04:00",
+       "mode": "schedule",
+       "photo_id": "122108657108457428",
+       "post_id": "1058598924006917_122108657138457428",
+       "status": "done"
+      },
+      "1079295351933311": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121800877299008_1440929167532871",
+       "error": null,
+       "last_attempt": "2026-11-01T14:37:05+04:00",
+       "mode": "schedule",
+       "photo_id": "122121800847299008",
+       "post_id": "1079295351933311_122121800877299008",
+       "status": "done"
+      },
+      "1145306638657445": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123724333303172_1025758863889334",
+       "error": null,
+       "last_attempt": "2026-11-01T14:37:08+04:00",
+       "mode": "schedule",
+       "photo_id": "122123724303303172",
+       "post_id": "1145306638657445_122123724333303172",
+       "status": "done"
+      },
+      "1202025962997153": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120046621409328_2006110546740367",
+       "error": null,
+       "last_attempt": "2026-11-01T14:36:57+04:00",
+       "mode": "schedule",
+       "photo_id": "122120046591409328",
+       "post_id": "1202025962997153_122120046621409328",
+       "status": "done"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121897525415639_1591100715587521",
+       "error": null,
+       "last_attempt": "2026-11-01T14:37:01+04:00",
+       "mode": "schedule",
+       "photo_id": "122121897495415639",
+       "post_id": "1250374694822508_122121897525415639",
+       "status": "done"
+      }
+     },
+     "title": "Elle a abandonné son bébé à 18 ans, mais 31 ans plus tard, le chirurgien qui lui a sauvé la vie portait le petit crucifix qu'elle avait caché dans sa couverture",
+     "warnings": [
+      "длина текста FB 1223 слов (исходник 888, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 7233,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-01T15:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/866826952_1604735668351628_7712279469874873836_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W5mOQQuW9zgQ7kNvwFj8XAp&_nc_oc=Adr45-KhivnznJrh9eASruq36ixcGRAIKDwmqAQBg-P0vpnNu0RJMd3NJpWfD8iB5Hw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=wOqVL5ZPVIevV0pzgQWJHg&_nc_tpa=Q5bMBQLq-OfuL3CLRM7grOBZfe3PssbtcA3ex9OQHW-S2ibm4ygauCW5oLNaKWcSEL1nW7Q49rqIQ5LzJw&oh=00_AQQiGLvHBkVoxh9TTTb0puMzdemclxRIjEXJTn6xuV1v2w&oe=6AECCC9E",
+    "link": "https://www.facebook.com/story.php?story_fbid=1604736138351581&id=100064456312444",
+    "origin": "manual",
+    "page_id": "100064456312444",
+    "text": "Мне было всего восемнадцать, когда родители заставили меня отказаться от новорождённого сына. На протяжении тридцати одного года я искала его, даже не зная, куда его увезли.\n\nА потом, в сорок девять лет, я очнулась в больнице после экстренной операции.\n\nВ палату вошёл хирург, спасший мне жизнь. Когда он наклонился, чтобы проверить мою медицинскую карту, из-под рубашки выскользнул маленький серебряный крестик.\n\nУ меня едва не остановилось сердце.\n\nЯ сразу узнала это украшение.\n\nЭто был тот самый крестик, который я спрятала в одеяльце своего малыша в день его рождения.\n\n— Откуда он у вас? — прошептала я. — Он принадлежал моему сыну.\n\nДоктор замер, сжав пальцами цепочку.\n\nЗатем он придвинул стул к моей кровати и задал вопрос, которого я никак не ожидала.\n\n— Ваша семья когда-нибудь рассказывала вам, что на самом деле произошло с вашим ребёнком?\n\nТридцать один год назад я была восемнадцатилетней девушкой, только что окончившей школу.\n\nЯ всё ещё жила с родителями, у меня почти не было денег, и я до смерти боялась того, что ждёт меня в будущем.\n\nКогда я сказала им, что беременна, всё изменилось.\n\nМама разрыдалась.\n\nОтец пришёл в ярость.\n\n— Кто за это отвечает? — потребовал он.\n\nЯ отказалась раскрывать личность отца ребёнка.\n\nЭто было единственное, что я не позволила им контролировать.\n\nНесколько дней наш дом сотрясали ссоры.\n\nОтец постоянно напоминал мне, что у меня нет постоянной работы, сбережений и другого места, где я могла бы жить.\n\nОн настаивал, что рождение ребёнка в моём возрасте разрушит моё будущее.\n\nНо всякий раз, когда он заводил разговор об усыновлении, я отвечала одно и то же:\n\n— Я оставлю своего ребёнка\\!\n\nА затем произошло нечто неожиданное.\n\nРодители начали относиться ко мне по-другому.\n\nМама стала сопровождать меня на приёмы к врачу.\n\nОтец перестал спорить, когда я говорила о малыше.\n\nОднажды вечером они пригласили меня сесть вместе с ними за кухонный стол.\n\n— Мы всё обсудили, — мягко сказала мама. — Ты наша дочь, и мы не позволим тебе проходить через это в одиночку.\n\nОтец кивнул.\n\n— Мы поможем тебе вырастить ребёнка.\n\nЯ была переполнена облегчением.\n\nВпервые за несколько месяцев я поверила, что всё может закончиться хорошо.\n\nЯ нашла работу на неполный день, начала покупать крошечную одежду и готовить место для вещей малыша.\n\nЯ даже выбрала ему имя.\n\nФабиан.\n\nКаждый вечер я клала руки на свой растущий живот и шептала:\n\n— Спокойной ночи, Фабиан. Мамочка с нетерпением ждёт встречи с тобой.\n\nКогда мой сын наконец родился, я испытала любовь, которой никогда прежде не знала.\n\nОн был таким крошечным, таким тёплым и таким совершенным.\n\nПрижимая его к груди, я молча поклялась, что всегда буду его защищать.\n\nПеред тем как медсестра унесла его на обычный осмотр, я спрятала в его одеяльце серебряный крестик моей бабушки.\n\nНа одном из его концов была крошечная царапина, которую я замечала много раз с самого детства.\n\n— Так у тебя всегда будет частичка меня, — прошептала я.\n\nЯ и представить не могла, насколько важным станет это маленькое украшение.\n\nНесколько часов спустя родители вошли в мою больничную палату.\n\nВ руках у отца была папка.\n\nЯ решила, что внутри лежат документы для выписки.\n\nНо вместо этого он положил папку на мою кровать.\n\n— Документы на усыновление, — объявил он.\n\nЯ уставилась на него.\n\n— О чём ты говоришь?\n\nМама отвела взгляд.\n\n— Мы считаем, что это лучшее решение для твоего будущего.\n\nУ меня всё оборвалось внутри.\n\n— Но вы обещали мне помочь\\! Вы сказали, что я смогу забрать Фабиана домой\\!\n\nВыражение лица отца оставалось непреклонным.\n\n— Подписывай бумаги, иначе тебе придётся искать другое место для жизни.\n\nЯ плакала.\n\nЯ умоляла их.\n\nЯ просила дать мне хотя бы немного времени, чтобы найти собственное жильё.\n\nНо они отказались менять своё решение.\n\nВ восемнадцать лет, напуганная и не имеющая средств, чтобы самостоятельно заботиться о новорождённом, я в конце концов подписала документы.\n\nЭто был самый душераздирающий момент в моей жизни.\n\nПозже родители сказали мне, что Фабиана передали другой семье.\n\nОни отказались сообщать какие-либо подробности.\n\nНо я никогда не смирилась с мыслью, что потеряла его навсегда.\n\nКак только я обрела финансовую независимость, я начала поиски.\n\nЯ обращалась в агентства по усыновлению, изучала архивы, нанимала частных детективов и проверяла каждую возможную зацепку.\n\nШли годы.\n\nЗатем десятилетия.\n\nРодители продолжали настаивать, что ничего не знают.\n\nНо я никогда не переставала надеяться, что где-то мой сын жив, здоров и счастлив.\n\nТридцать один год спустя я внезапно потеряла сознание на работе из-за сильной боли в животе.\n\nВрачи срочно отправили меня на экстренную операцию.\n\nКогда я очнулась, мне сообщили, что операция прошла успешно.\n\nНа следующий день после обеда мой хирург пришёл проверить, как проходит моё восстановление.\n\nОн вежливо улыбнулся и наклонился над моей медицинской картой.\n\nИменно тогда серебряный крестик выскользнул из-под воротника.\n\nЯ пристально смотрела на него.\n\nЗнакомая форма.\n\nТонкая цепочка.\n\nИ та самая маленькая, ни с чем не сравнимая царапина.\n\nМои глаза наполнились слезами.\n\n— Доктор, — прошептала я, — откуда у вас этот крестик?\n\nОн удивлённо посмотрел на меня.\n\n— Почему вы спрашиваете?\n\n— Потому что тридцать один год назад я положила точно такой же крестик в одеяльце своего новорождённого сына.\n\nВыражение лица доктора изменилось.\n\nОн медленно закрыл медицинскую карту.\n\nЗатем взялся за цепочку и внимательно осмотрел крестик.\n\nНесколько секунд мы молчали.\n\nНаконец он придвинул стул поближе к моей кровати.\n\nЕго голос был едва слышен.\n\n— Мэм, прежде чем я отвечу, мне нужно кое о чём вас спросить.\n\nЯ крепко сжала больничное одеяло.\n\n— О чём?\n\nОн посмотрел мне прямо в глаза.\n\n— Ваши родители когда-нибудь рассказывали вам, что на самом деле произошло с вашим сыном после того, как вы подписали документы?\n\nПолная история — в первом комментарии. 👇",
+    "wp_media_id": 7225,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1500-fr.jpg"
+   },
+   "source_key": "post:100064456312444_1604736138351581",
+   "status": "done"
+  },
+  "2026-11-01 18:00": {
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1032441206625600": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116598972633539_4673431696220174",
+       "error": null,
+       "last_attempt": "2026-11-01T18:04:33+04:00",
+       "mode": "immediate",
+       "photo_id": "122116598948633539",
+       "post_id": "1032441206625600_122116598972633539",
+       "status": "done"
+      },
+      "1058598924006917": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108667104457428_2203558567039325",
+       "error": null,
+       "last_attempt": "2026-11-01T18:04:38+04:00",
+       "mode": "immediate",
+       "photo_id": "122108667080457428",
+       "post_id": "1058598924006917_122108667104457428",
+       "status": "done"
+      },
+      "1079295351933311": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121815289299008_4528552337405599",
+       "error": null,
+       "last_attempt": "2026-11-01T18:04:21+04:00",
+       "mode": "immediate",
+       "photo_id": "122121815265299008",
+       "post_id": "1079295351933311_122121815289299008",
+       "status": "done"
+      },
+      "1145306638657445": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123740827303172_1270696565250511",
+       "error": null,
+       "last_attempt": "2026-11-01T18:04:25+04:00",
+       "mode": "immediate",
+       "photo_id": "122123740803303172",
+       "post_id": "1145306638657445_122123740827303172",
+       "status": "done"
+      },
+      "1202025962997153": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120062521409328_1140322035050576",
+       "error": null,
+       "last_attempt": "2026-11-01T18:04:13+04:00",
+       "mode": "immediate",
+       "photo_id": "122120062497409328",
+       "post_id": "1202025962997153_122120062521409328",
+       "status": "done"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121917085415639_1779016109991811",
+       "error": null,
+       "last_attempt": "2026-11-01T18:04:17+04:00",
+       "mode": "immediate",
+       "photo_id": "122121917055415639",
+       "post_id": "1250374694822508_122121917085415639",
+       "status": "done"
+      }
+     },
+     "title": "Une fillette de deux ans entre en pleine réunion de la mafia avec sa valise rose et lance au patron : « Il faut partir maintenant",
+     "warnings": [
+      "длина статьи 962 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 7252,
+     "wp_live": true,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-01T18:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/855220471_1643121830517771_8517023009301946656_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5g-Ve_tBZYIQ7kNvwGnanre&_nc_oc=Adr5CjIBQ81lnvSewGsfRSbWGsh4E_F0ZurLaXAg3pwYLdRcdQAaIeC26HzpmdKX-7s&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=nXuRlV5hgP_8MEiLKoQn-g&_nc_tpa=Q5bMBQIBnZJkaqgQl1jGb4qF4Hrahys9gO5wLzHTDKPIBFAi35v0-X6wufmvcwb7yqg7SR6qVilMeDxlhw&oh=00_AQSlLf8vfHNaiIfmKdiTWUGwAH7oGm32DDLcPtJJoXPeqA&oe=6AED2138",
+    "link": "https://www.facebook.com/share/p/1HnoPVwZTy/",
+    "origin": "manual",
+    "page_id": "100044599086455",
+    "text": "The Maid’s Toddler Walked Into a Mafia Meeting With a Pink Suitcase—Then Warned the Boss\n\nThe suitcase arrived before the child did.\n\nIts wheels were the size of coins, pink plastic, and they rattled across the polished hardwood of the corridor like small teeth. Eight men at the long walnut table heard that sound before they heard the breathing behind it. The wheels crossed the threshold, slowed, and stopped.\n\nDamon Reyes looked toward the double doors.\n\nHe expected Selena. Perhaps one of the kitchen staff sent to retrieve the little girl from whatever corner of the estate she had conquered that afternoon. Instead, Ruby Castillo walked into a room occupied by eight grown men who could make entire neighborhoods nervous simply by arriving together.\n\nShe was not yet three. Her dark curls were crooked from sleep. One sock had slipped halfway down her ankle. Both hands were wrapped around the extended handle of a suitcase so brightly pink it looked almost obscene against the dark wood and gray suits. The zipper had not closed properly. A yellow shirt was caught in the gap. One ear of her stuffed rabbit protruded through the opening, and Damon could see enough folded clothing inside to understand that this was not a game.\n\nShe did not hesitate when every face turned toward her. She crossed the room directly to Damon, stopped at the head of the table, and let the suitcase fall upright beside her leg.\n\nThe room held its breath.\n\n“We have to go now,” she said.\n\nDamon’s hand stopped over the folder in front of him. Across the table, a man named Corbin had been halfway through a sentence about a route dispute that had already cost them two weeks and one damaged shipment. His mouth remained open.\n\n“Go where, sweetheart?”\n\nRuby shook her head. “Away.”\n\nA few men exchanged glances. Damon did not. He pushed his chair back, the legs scraping once against the floor, and crouched until his eyes were level with hers. Up close, he could see the faint crease between her brows, the concentrated gravity children wore when they had been given a message they knew mattered but did not fully understand.\n\n“Did your mom tell you that?”\n\nRuby nodded.\n\n“She said pack fast before the man comes back.”\n\nSomething in Damon’s chest tightened. He kept his voice soft. “What man?”\n\n“I don’t know.”\n\n“Did you see him?”\n\nAnother shake of the head.\n\n“What exactly did your mom say?”\n\nRuby pressed her lips together, working to remember. “She said we have to leave before he comes back.” A pause. “And she said don’t take the black car.”\n\nDamon did not move for half a second.\n\nThe black SUV was not simply one of the vehicles on the estate. It was the vehicle he used when something had gone wrong enough that leaving quickly mattered. Very few people outside his security team knew that. Even fewer would know that Selena had ever heard it.\n\nHe stood.\n\nThe men around the table saw the change immediately. Damon Reyes had spent eleven years running the family’s operations across the Southwest, long enough to know that panic was contagious and visible uncertainty was expensive. He had built his reputation on rarely moving before he understood the board. People mistook that patience for slowness until they discovered, usually too late, that he had simply been counting farther ahead than they had.\n\n“Meeting’s over,” he said.\n\nOne of the men blinked. “Damon, we still need to settle the route issue.”\n\n“Not anymore.”\n\nDamon’s eyes stayed on Ruby. “Nobody leaves this room until Marcus clears it.”\n\nThe room went completely still.\n\n \n.....................................\nIf you need to find the full post within the comments section, try this: go to the comments, select 'Most relevant' and switch to 'All comments'—then look for the 'blue text', click on it, and you will be directed to the full post",
+    "wp_media_id": 7242,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-fr.jpg"
+   },
+   "source_key": "post:100044599086455_1644261257070495",
+   "status": "done"
+  },
+  "2026-11-01 21:00": {
+   "langs": {},
+   "slot_iso": "2026-11-01T21:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-02 00:00": {
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1032441206625600": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116612916633539_1129763396621094",
+       "error": null,
+       "last_attempt": "2026-11-01T22:14:43+04:00",
+       "mode": "schedule",
+       "photo_id": "122116612880633539",
+       "post_id": "1032441206625600_122116612916633539",
+       "status": "done"
+      },
+      "1058598924006917": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108674928457428_1486638359977615",
+       "error": null,
+       "last_attempt": "2026-11-01T22:14:46+04:00",
+       "mode": "schedule",
+       "photo_id": "122108674898457428",
+       "post_id": "1058598924006917_122108674928457428",
+       "status": "done"
+      },
+      "1079295351933311": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121836175299008_1425295639672864",
+       "error": null,
+       "last_attempt": "2026-11-01T22:14:35+04:00",
+       "mode": "schedule",
+       "photo_id": "122121836139299008",
+       "post_id": "1079295351933311_122121836175299008",
+       "status": "done"
+      },
+      "1145306638657445": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123762829303172_2316017768943194",
+       "error": null,
+       "last_attempt": "2026-11-01T22:14:39+04:00",
+       "mode": "schedule",
+       "photo_id": "122123762799303172",
+       "post_id": "1145306638657445_122123762829303172",
+       "status": "done"
+      },
+      "1202025962997153": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120083341409328_2039609310077413",
+       "error": null,
+       "last_attempt": "2026-11-01T22:14:28+04:00",
+       "mode": "schedule",
+       "photo_id": "122120083311409328",
+       "post_id": "1202025962997153_122120083341409328",
+       "status": "done"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121939159415639_1610197573914824",
+       "error": null,
+       "last_attempt": "2026-11-01T22:14:31+04:00",
+       "mode": "schedule",
+       "photo_id": "122121939129415639",
+       "post_id": "1250374694822508_122121939159415639",
+       "status": "done"
+      }
+     },
+     "title": "À 71 ans, elle gagne 89 millions de dollars en secret. Trois mois plus tard, son fils lui demande quand elle partira enfin, et six jours après, elle achète la maison de leurs rêves",
+     "warnings": [
+      "длина текста FB 1252 слов (исходник 1008, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 7264,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-02T00:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/865483901_122129895573376137_8178840636118132276_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TW6-P_rrQfUQ7kNvwH53kdD&_nc_oc=Ado2pIXB8Uhei_w9LyGRCWEl_GXNSThnM2ZlWHwqq1M2nYFJDpK247rRXIbZ8h4Gb3s&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=hG9Qz7EwVM2NxTPHvn-mwA&_nc_tpa=Q5bMBQIr51QVs1qnUX6cXvtoJRtdrzh3BY0RUGuQyPmeXi3RLmZcGuT6KfOwHeRBGyljCozMCVvFjjVU6g&oh=00_AQQuWKHSvlGhOW1HfMT0mj8v4OaZp2EZXM6ujXf3d0zvsQ&oe=6AED3A7C",
+    "link": "https://www.facebook.com/share/p/19k78khQhV/",
+    "origin": "manual",
+    "page_id": "61591284134933",
+    "text": "At 71, I Won $89 Million and Kept It a Secret. Three Months Later, My Son Looked at Me Across the Dinner Table and Asked, “Mom, When Are You Finally Moving Out?” I Left Without Arguing. Six Days Later, I Purchased the Dream Home He and His Wife Had Lost — Through a Company Whose Name He’d Seen for Years Without Giving It a Second Thought.\nI’m Margaret Briggs, seventy-one years old.\nTwo years after my husband Harold passed away, I was still learning how grief could blur the difference between genuine care and being dependent on someone.\nAfter Harold died in Tucson, our son Daniel insisted I shouldn’t remain alone.\n“Move in with us, Mom,” he suggested.\n“At least until you feel comfortable living by yourself again.”\nI believed he meant well.\nI sold the house where Harold and I had spent thirty-eight years together.\nThe kitchen painted yellow.\nThe roses I’d lovingly maintained.\nThe porch where Harold drank tea every morning before leaving for work.\nI walked away from decades of memories and moved into Daniel and Renee’s home in Scottsdale.\nAt first, they made me feel wanted.\nGradually, though, my place in the family shifted.\nI started making the children’s school lunches.\nCollecting my grandchildren after soccer practice.\nPreparing dinner three nights a week.\nDoing everyone’s laundry.\nBabysitting whenever Daniel and Renee wanted a weekend away.\nNo one explicitly assigned me these duties.\nThey simply started treating them as my responsibility.\nAnd strangely, the more I did for everyone, the more invisible I became.\nRenee’s attitude changed before anyone else’s.\nInitially, she’d say, “Would you mind helping me?”\nLater, it was, “Could you take care of this?”\nEventually, she didn’t bother being polite.\n“I need this done.”\nDaniel wasn’t much different.\nHe stopped expressing appreciation.\nHe expected everything to be handled.\nOne afternoon, I walked past their bedroom and heard Renee talking behind the partially open door.\n“Your mother lives here without paying anything.”\nI froze.\n“Daniel, we cover the mortgage, utilities, groceries. Every single expense.”\nI waited for my son to say something.\nSurely he’d mention the hours I spent looking after their kids.\nThe dinners I prepared.\nThe clothes I washed.\nEverything I did to make their daily lives easier.\nBut Daniel only sighed.\n“I know.”\nTwo words.\nHe didn’t stand up for me.\nHe never mentioned my contributions.\nHe agreed with her.\nI carried that conversation with me for weeks.\nA few months afterward, Daniel and Renee became obsessed with a house they wanted to buy.\nIt was an older Craftsman-style property on Willow Creek Lane.\nFour bedrooms.\nA wide, welcoming porch.\nTall, established trees shading the yard.\nIt looked like the kind of place where generations of family memories could be made.\nThey talked about it endlessly.\nMy grandchildren debated who would get each bedroom.\nRenee created elaborate spreadsheets to plan their finances.\nDaniel spent hours working out mortgage figures.\nThey toured the house three separate times.\nThen, before they could make it theirs, another buyer offered cash for the entire property.\nThey lost it.\nFor weeks, the disappointment dominated their conversations.\nBut during that same period, my life had changed in a way none of them could imagine.\nThree months before the dinner that changed everything, I’d visited a gas station after a routine doctor’s appointment.\nWithout thinking much about it, I bought a lottery ticket.\nTwo days later, I looked up the results.\nEvery single number was correct.\nThe prize was $89 million.\nI stood motionless at the kitchen counter, staring at the ticket.\nThere was no screaming.\nNo jumping with excitement.\nI just kept looking at those numbers, unable to comprehend what had happened.\nI called an attorney first.\nThen I contacted a second one.\nWithin days, financial and legal specialists were arranging trusts, safeguarding my identity, and creating a plan to manage the money responsibly.\nWe held most meetings online while Daniel and Renee were away at their jobs.\nMy lawyers advised me not to change my lifestyle until the arrangements were complete.\nSo I kept preparing lunches.\nTaking the children to their activities.\nMaking dinner.\nWashing and folding laundry.\nNobody suspected a thing.\nThen came the night I would never forget.\nDaniel and Renee had been hinting at something for months.\nThey brought up senior living communities.\nMentioned that the children needed additional space as they grew.\nSuggested I might be happier in a home of my own.\nEvery conversation pointed toward the same conclusion.\nThat evening, they finally stopped hinting.\nRoast chicken was on the table.\nThe grandchildren were unusually silent.\nAt precisely 6:18 p.m., Daniel pushed his chair backward.\n“Mom?”\nI looked up.\nHe glanced at Renee, then spoke.\n“When are you going to start looking for another place to live?”\nSilence filled the room.\nMy granddaughter gently lowered her fork.\nMy grandson continued looking down at his plate.\nNeither seemed surprised.\nAnd that realization wounded me more deeply than the question itself.\nThey’d heard their parents discussing this before.\nEveryone at the table had known what was coming.\nExcept me.\nI slowly folded my napkin.\nPlaced it next to my dinner plate.\nAnd stood.\n“Excuse me.”\nI offered no argument.\nAsked for no justification.\nShed no tears in their presence.\nI just went outside.\nThe Arizona air smelled of dusty soil and lawns recently soaked by sprinklers.\nUnder the patio lights, I sat down with my notebook.\nI wrote five things I needed to do.\nMove out.\nStay calm.\nProtect my money.\nBuy a house that belonged to me.\nRemember exactly how they made me feel tonight.\nThe next morning, I called my lawyer.\nAfter that, I reached out to a real estate agent.\nDaniel and Renee remained completely unaware of what I had in mind.\nThe rest of the story is waiting in the comments below. Drop a “YES” and give us a Like if you’re ready to find out!",
+    "wp_media_id": 7259,
+    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-fr.jpg"
+   },
+   "source_key": "post:61591284134933_122129895657376137",
+   "status": "done"
+  },
+  "2026-11-02 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-02T12:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-02 15:00": {
+   "langs": {},
+   "slot_iso": "2026-11-02T15:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-02 18:00": {
+   "langs": {},
+   "slot_iso": "2026-11-02T18:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-02 21:00": {
+   "langs": {},
+   "slot_iso": "2026-11-02T21:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-03 00:00": {
+   "langs": {},
+   "slot_iso": "2026-11-03T00:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-03 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-03T12:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-03 15:00": {
+   "langs": {},
+   "slot_iso": "2026-11-03T15:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-03 18:00": {
+   "langs": {},
+   "slot_iso": "2026-11-03T18:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/853368417_122146579827348565_530647137444213841_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0DYFSK40Ll0Q7kNvwEFMKdF&_nc_oc=AdrUPdBhDKcKfm6S8Nnh35ozb0UuFQVfBOYUHgOQZLZ9l0nCZvViTKlf4zoFOByBIB0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=irvfvZdAfwHDU6U2bH70AA&_nc_tpa=Q5bMBQKcFHBY5HRxJKA5TLbhjzabBQTIlGiixQtei5w-el-Su9ML3jMF3s1aq6fyMTpcsNghdAfG_rN3iw&oh=00_AQS37IujI7f1R5hT-YlN4-39WU21kALXUMEkp48QaxLPhQ&oe=6AEFBD36",
+    "link": "https://www.facebook.com/share/p/1JuRRpCpzd/",
+    "origin": "manual",
+    "page_id": "61590456964686",
+    "text": "The most feared Mafia boss in our city walked into my NICU and asked to hold a four-pound baby whose own family had abandoned him. Twelve hours later, Sebastian Moretti was still cradling that tiny boy, refusing to leave even when his phone rang repeatedly. Then his expensive watch slipped down, revealing a seventeen-year-old newborn hospital bracelet, and I realized this wasn't the first baby he'd been afraid to lose.\n\nI've been a NICU nurse for thirteen years.\n\nI'd seen parents pray beside incubators, grandparents cry through glass, and exhausted mothers whisper promises to babies barely strong enough to breathe.\n\nBut I'd never seen anyone like Sebastian Moretti.\n\nHis name terrified half the city.\n\nFederal investigations. Organized crime. Men who disappeared from his life and were never mentioned again.\n\nYet he arrived alone.\n\n\"I'm here for the infant comfort program.\"\n\nI almost laughed.\n\nUntil he handed me his paperwork.\n\nBackground check. Training. Hospital approval.\n\nEverything was legitimate.\n\nThen a weak cry came from incubator nine.\n\nBaby Boy Miller.\n\nFour pounds.\n\nNo real name yet.\n\nNo photographs. No visitors. No mother holding his hand.\n\nHis young mother had disappeared after delivery.\n\nNobody had come looking for him.\n\nSebastian stared at the incubator.\n\n\"Where's his family?\"\n\nI swallowed.\n\n\"He doesn't have anyone right now.\"\n\nSomething changed in his face.\n\nHe slowly removed his jacket.\n\n\"Then I'll stay.\"\n\nI looked at his scarred knuckles and tattooed arms.\n\n\"He's very fragile, Mr. Moretti.\"\n\nSebastian's jaw tightened.\n\n\"I know.\"\n\nHe paused.\n\n\"I've held a baby this small before.\"\n\nAfter washing his hands, he sat down.\n\nI gently placed the newborn against his chest.\n\nThe baby started crying.\n\nI reached forward, but Sebastian whispered something in Italian.\n\n\"Easy, piccolo. You're safe.\"\n\nThe crying stopped.\n\nA tiny hand curled around his finger.\n\nSebastian closed his eyes.\n\nFor one brief moment, he looked like a man trying desperately not to break.\n\nOne hour passed.\n\nThen four.\n\nThen eight.\n\nHe ignored his phone.\n\nRefused to leave.\n\nAnd when I suggested another volunteer take over, he shook his head.\n\n\"Not yet.\"\n\nTwelve hours later, I brought him coffee.\n\nAs he reached for it, his sleeve slipped back.\n\nBeneath his luxury watch was a faded hospital bracelet.\n\nA newborn's bracelet.\n\nThe date was seventeen years old.\n\nI stared at it.\n\nSebastian quickly covered his wrist.\n\n\"Mr. Moretti...\"\n\n\"Please,\" he whispered. \"Don't ask.\"\n\nHis voice trembled.\n\nI looked at the sleeping baby.\n\nThen at the man holding him as though letting go would destroy him.\n\nAnd suddenly I understood.\n\nSeventeen years ago, Sebastian Moretti had made this same promise to another premature child.\n\nA promise he had never stopped trying to keep.\n\nNEXT PART and the FULL ENDING are coming. Type ‘YES’ and press ‘LIKE’ so we can post full story. Your [LIKE] helps these honest stories reach the people who need them most. Thank you for the support."
+   },
+   "source_key": "post:61590456964686_122146579899348565",
+   "status": "missed"
+  },
+  "2026-11-03 21:00": {
+   "langs": {},
+   "slot_iso": "2026-11-03T21:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-04 00:00": {
+   "langs": {},
+   "slot_iso": "2026-11-04T00:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-04 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-04T12:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-04 15:00": {
+   "langs": {},
+   "slot_iso": "2026-11-04T15:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-04 18:00": {
+   "langs": {},
+   "slot_iso": "2026-11-04T18:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-04 21:00": {
+   "langs": {},
+   "slot_iso": "2026-11-04T21:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-05 00:00": {
+   "langs": {},
+   "slot_iso": "2026-11-05T00:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-05 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-05T12:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-05 15:00": {
+   "langs": {},
+   "slot_iso": "2026-11-05T15:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-05 18:00": {
+   "langs": {},
+   "slot_iso": "2026-11-05T18:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-05 21:00": {
+   "langs": {},
+   "slot_iso": "2026-11-05T21:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-06 00:00": {
+   "langs": {},
+   "slot_iso": "2026-11-06T00:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-06 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-06T12:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-09 18:00": {
+   "langs": {},
+   "slot_iso": "2026-11-09T18:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-09 21:00": {
+   "langs": {},
+   "slot_iso": "2026-11-09T21:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-10 00:00": {
+   "langs": {},
+   "slot_iso": "2026-11-10T00:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-10 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-10T12:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-10 15:00": {
+   "langs": {},
+   "slot_iso": "2026-11-10T15:00:00+04:00",
+   "status": "no_source"
+  }
+ },
+ "source_cutoff": "2026-10-29T16:35:35+00:00",
+ "sources": {
+  "link:2c9d1a969d296cd96efe": {
+   "link": "https://www.facebook.com/share/p/1HnoPVwZTy/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1644261257070495&id=100044599086455"
+  },
+  "link:59824bb55e5b6d3be0c7": {
+   "link": "https://www.facebook.com/share/p/1JuRRpCpzd/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122146579899348565&id=61590456964686"
+  },
+  "link:a5fa4dc206be0c710f5f": {
+   "link": "https://www.facebook.com/share/p/19k78khQhV/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122129895657376137&id=61591284134933"
+  },
+  "post:100044599086455_1644261257070495": {
+   "fingerprint": "f7615478a2397c924d9a",
+   "link": "https://www.facebook.com/share/p/1HnoPVwZTy/",
+   "origin": "manual",
+   "page_id": "100044599086455",
+   "slot": "2026-11-01 18:00",
+   "status": "used"
+  },
+  "post:100045261260562_1699072051611487": {
+   "fingerprint": "f8fa08ba8c7252c10bbb",
+   "link": "https://www.facebook.com/story.php?story_fbid=1699072051611487&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-10-31 12:00",
+   "status": "used"
+  },
+  "post:100064456312444_1604736138351581": {
+   "fingerprint": "0eccef4783dee1812e93",
+   "link": "https://www.facebook.com/story.php?story_fbid=1604736138351581&id=100064456312444",
+   "origin": "manual",
+   "page_id": "100064456312444",
+   "slot": "2026-11-01 15:00",
+   "status": "used"
+  },
+  "post:1011074408765807_122101879646536431": {
+   "fingerprint": "b5ed31862cee3216b94b",
+   "link": "https://www.facebook.com/story.php?story_fbid=122101879646536431&id=61566092952750",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-10-30 12:00",
+   "status": "used"
+  },
+  "post:1011074408765807_122102939498536431": {
+   "fingerprint": "175f42c16daed69d518a",
+   "link": "https://www.facebook.com/story.php?story_fbid=122102939498536431&id=61566092952750",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-10-30 00:00",
+   "status": "used"
+  },
+  "post:61590456964686_122146579899348565": {
+   "error": "слот пропущен",
+   "fingerprint": "d56e7c9251bf050e564a",
+   "link": "https://www.facebook.com/share/p/1JuRRpCpzd/",
+   "origin": "manual",
+   "page_id": "61590456964686",
+   "slot": "2026-11-03 18:00",
+   "status": "failed"
+  },
+  "post:61591284134933_122129895657376137": {
+   "fingerprint": "b4e28466f8fcf0a7f638",
+   "link": "https://www.facebook.com/share/p/19k78khQhV/",
+   "origin": "manual",
+   "page_id": "61591284134933",
+   "slot": "2026-11-02 00:00",
+   "status": "used"
+  },
+  "post:photo_122140489347225301": {
+   "fingerprint": "6170eddfbbcff3058ece",
+   "link": "https://www.facebook.com/photo/?fbid=122140489347225301&set=a.122127086457225301",
+   "origin": "manual",
+   "page_id": "976983902158171",
+   "slot": "2026-10-29 21:00",
+   "status": "used"
+  }
+ },
+ "tests": {},
+ "version": 1
+}
