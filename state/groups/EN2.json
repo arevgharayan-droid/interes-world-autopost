@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
   "3015169f17e68b6fd1bf": "2026-11-09T13:24:29+00:00",
+  "86822eab2c3504add2f2": "2026-11-09T13:26:02+00:00",
   "90f752e134f7f161178f": "2026-11-01T14:03:51+00:00",
   "96662a0e4435c54bf499": "2026-10-31T10:14:42+00:00",
   "aa74c11de94c64604d06": "2026-10-29T20:16:43+00:00",
@@ -2242,7 +2243,44 @@
    "status": "in_progress"
   },
   "2026-11-09 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Single Dad, 29, Fights to Adopt 5 Siblings Under 7 So They Won't Be Separated, and the Judge Breaks Down When He Hears Why",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 37,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/884348728_122125208535457373_7410451978177566136_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CuxcPsWMnXwQ7kNvwGFpR2G&_nc_oc=AdrAyRs5VPmcwZ88HT8QlAYzodylua7JderJ6PB_ynsAoxgXvrerQ7wEfH7uAj2l1WI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xbfttHgAhFrVpb-Urgo3nA&_nc_tpa=Q5bMBQIEh8H4fnjM9S_WL2ev2i4xT6aCpI_V6y-C1QhMN2L9PgWJHxwGDu5xjx__UZo7zaCEl1npiMYGmg&oh=00_AQRVf6He1CE1t3e6zKC0RxpY8cILR6MsKW_aBIBV8j_T7Q&oe=6AF7A4F6",
@@ -2254,7 +2292,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-en2.jpg"
    },
    "source_key": "post:61593721215501_122125242561457373",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 00:00": {
    "langs": {},
@@ -2369,7 +2407,7 @@
    "origin": "manual",
    "page_id": "61593721215501",
    "slot": "2026-11-09 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140194015225301": {
    "fingerprint": "a60aeab4d1856bf6dba7",
