@@ -10,6 +10,7 @@
   "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
+  "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00",
   "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00",
   "ff177c2141f7f0364278": "2026-11-09T13:24:27+00:00"
@@ -2417,7 +2418,50 @@
    }
   },
   "2026-11-10 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Per undici anni ho creduto che mio marito salvasse vite in ospedale, ma quel martedì il suo collega è sbiancato e ha detto: «Owen non ti ha detto niente?",
+     "warnings": [
+      "длина текста FB 793 слов (исходник 964, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 76,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/895362663_122124400899447073_1928179440308381192_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ueWvkoui2BwQ7kNvwF5pt4W&_nc_oc=AdrutfE5LWscHFUZ1yQZLZprDczlEmv3kzpT-3InLW5tCcJFUjl1DeZUML4gX09xhXY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=jYWBtdE3Eu2j1TJKTEo-AQ&_nc_tpa=Q5bMBQKUINStue6g2xEb_xt0DFQA6hKIEhI5O-SfppgQiBpCmaaKKh0CgtGS-Qi7vtFxamYBVBE894Ed7A&oh=00_AQRNsWpT_OcrswKqP_aPXL7qPwS8E2wYwY1PBfg-wJHOEw&oe=6AF7E428",
@@ -2429,7 +2473,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1800-it.jpg"
    },
    "source_key": "post:61593412202747_122124401043447073",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2576,7 +2620,7 @@
    "origin": "manual",
    "page_id": "61593412202747",
    "slot": "2026-11-10 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61595030999436_122108569407501033": {
    "fingerprint": "8145e536fe4b7bb8b4b4",
