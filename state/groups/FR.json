@@ -5,6 +5,7 @@
   "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
   "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
+  "9f27064d4760d4ec7129": "2026-11-09T13:24:35+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
   "dfc264e5088ceb9596c5": "2026-10-29T20:16:43+00:00",
   "e19444e6413ef867631a": "2026-10-29T20:24:35+00:00"
@@ -1354,7 +1355,47 @@
    "status": "no_source"
   },
   "2026-11-09 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Quatre garçons de six ans avec mon visage sont entrés dans les toilettes, quelques heures avant ma demande en mariage",
+     "warnings": [
+      "длина текста FB 609 слов (исходник 524, цель ±10%)",
+      "длина статьи 1015 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 23,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/874783244_122115257091501033_6212631487372563519_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0D8TV7D1vFgQ7kNvwECwp65&_nc_oc=AdoBFPtygCa3XsVHPItVqNz83JgeuHTjQH7-x-nDVOCRKEU7ymA2U70vGAeb9Pj2i1I&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GxvbF_teVs8IWaMhv4wC4Q&_nc_tpa=Q5bMBQLZgT6kuNoDtTqo8MrH-7HzfJ7IFGFjuhBXTjzLIjoilbISqUbUl-tY2OxLjpiWAbGcXGrXPZe6DA&oh=00_AQTETTierxfQqSMZTs7NoPcNAlgruJMIoc_jzqRGreTA8Q&oe=6AF79520",
@@ -1366,7 +1407,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-fr.jpg"
    },
    "source_key": "post:61595030999436_122115257253501033",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-09 21:00": {
    "langs": {},
@@ -1478,7 +1519,7 @@
    "origin": "manual",
    "page_id": "61595030999436",
    "slot": "2026-11-09 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140489347225301": {
    "fingerprint": "6170eddfbbcff3058ece",
