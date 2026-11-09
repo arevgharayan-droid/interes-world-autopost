@@ -382,6 +382,71 @@ def _group_states(cfg) -> dict:
     return {g: State(config_mod.group_state_path(cfg, g)) for g in cfg.groups()}
 
 
+def _all_group_states(cfg) -> dict:
+    """Все группы, у которых есть файл состояния (и нынешние, и прежние)."""
+    d = cfg.path("state/groups")
+    out = {f.stem: State(f) for f in sorted(d.glob("*.json"))} if d.exists() else {}
+    for g in cfg.groups():
+        out.setdefault(g, State(config_mod.group_state_path(cfg, g)))
+    return out
+
+
+def rework_slot(cfg, g: str, key: str, move_site=False, wp_factory=None) -> str:
+    """Подготовленный, но ещё не вышедший выпуск группы готовится заново по нынешней настройке:
+    языки, которые добавились в группу, получают тексты, статьи и посты (уже готовые тексты и посты
+    остаются); move_site — статьи переносятся на нынешний сайт группы (старые удаляются). Посты Facebook
+    не меняются: ссылка на статью — только в первом комментарии, он добавляется после выхода поста."""
+    st = State(config_mod.group_state_path(cfg, g))
+    s = st.slots.get(key)
+    if not s or not s.get("prepared"):
+        return "выпуск не подготовлен — нечего переделывать"
+    if s.get("status") in ("done", "done_with_errors", "missed", "cancelled"):
+        return f"выпуск уже закрыт ({s.get('status')})"
+    if datetime.fromisoformat(s["slot_iso"]) <= datetime.now(timezone.utc) + timedelta(minutes=20):
+        return "до выхода меньше 20 минут — не трогаю"
+    gcfg = config_mod.group_view(cfg, g)
+    notes = []
+    old_site = s.get("wp_site") or {}
+    new_site = {k: gcfg.site[k] for k in Pipeline.SITE_KEYS if gcfg.site.get(k)}
+    if move_site and old_site.get("url") != new_site.get("url"):
+        old_wp = (wp_factory or real_wp)(old_site) if old_site.get("url") else None
+        removed = 0
+        for L in (s.get("langs") or {}).values():
+            if L.get("wp_id"):
+                try:
+                    if old_wp:
+                        old_wp.delete_post(L["wp_id"])
+                        removed += 1
+                except WordPressError as e:
+                    notes.append(f"старая статья {L['wp_id']} не удалена: {e}")
+                for k in ("wp_id", "wp_live", "wp_error"):
+                    L.pop(k, None)
+        src = s.get("source") or {}
+        if old_wp and src.get("wp_media_id"):
+            try:
+                old_wp.delete_media(src["wp_media_id"])
+            except WordPressError:
+                pass
+        for k in ("wp_media_id", "wp_media_url"):
+            src.pop(k, None)
+        s["wp_site"] = new_site
+        notes.append(f"статьи переносятся: {old_site.get('url')} → {new_site.get('url')} (старых удалено: {removed})")
+    added = []
+    for lang in gcfg.group_langs(g) if hasattr(gcfg, "group_langs") else []:
+        L = s.setdefault("langs", {}).get(lang)
+        if not L or not L.get("generated"):
+            s["langs"][lang] = {"pages": {}}
+            added.append(lang)
+    if added:
+        notes.append("новые языки: " + ", ".join(added))
+    if not notes:
+        return "менять нечего"
+    s["prepared"] = False
+    s["status"] = "preparing"
+    st.save()
+    return "; ".join(notes) + " — следующий запуск подготовит"
+
+
 def _unfinished(st: State) -> bool:
     return any(s.get("prepared") and s.get("status") not in ("done", "done_with_errors", "missed", "cancelled")
                for s in st.slots.values())
@@ -584,10 +649,19 @@ def cmd_ops(cfg, args) -> int:
         return cmd_resolve_links(cfg, a.get("links") or [])
     if cmd == "cancel-slot":
         rc = 0
-        for g, st in _group_states(cfg).items():
-            if a.get("slot", "") in st.slots:
+        only = set(a.get("groups") or [])          # пусто — во всех группах
+        for g, st in _all_group_states(cfg).items():
+            if (not only or g in only) and a.get("slot", "") in st.slots:
                 rc |= cmd_cancel_slot(config_mod.group_view(cfg, g), a.get("slot", ""), state=st)
         return rc
+    if cmd == "rework-slot":
+        out = ["## Переподготовка выпусков", ""]
+        for g in a.get("groups") or []:
+            for key in a.get("slots") or []:
+                out.append(f"- {cfg.group_label(g)} {key}: "
+                           + rework_slot(cfg, g, key, move_site=bool(a.get("move_site"))))
+        summary("\n".join(out) + "\n", "previews/rework.md", cfg)
+        return 0
     if cmd == "cost-test":
         from .costtest import run as cost_test
         return cost_test(cfg, n=int(a.get("n", 10)),

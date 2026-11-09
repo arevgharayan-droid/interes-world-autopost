@@ -553,6 +553,54 @@ class SiteSwitchTests(unittest.TestCase):
         self.assertEqual(st.slots["2030-05-01 09:00"]["status"], "done")
 
 
+class ReworkSlotTests(unittest.TestCase):
+    """Подготовленный выпуск переделывается по новой настройке: новый язык группы и новый сайт."""
+
+    def test_rework_adds_language_and_moves_site(self):
+        from autopost.cli import rework_slot
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp_a, wp_b = FakeGraph(cfg, lambda: clock["now"]), FakeWP(), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        de = [p for p in cfg.pages if p.lang == "DE"]
+        nl = [p for p in cfg.pages if p.lang == "NL"]
+        for p in de:
+            p.group = "DE"                        # до переноса группа NL — только NL
+        _queue_story(graph, cfg, tmp, "NL", 921, "Story N1.")
+        url_a = cfg.site["url"]
+        st_path = tmp / "state/groups/NL.json"
+        gcfg = group_view(cfg, "NL")
+        Pipeline(gcfg, State(st_path), graph, wp_a, Generator(gcfg, backend="mock"), tokens,
+                 now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+        self.assertEqual(len(wp_a.posts), 1)
+        first_posts = dict(graph.posts)
+        self.assertEqual({p["page"] for p in first_posts.values()}, {p.page_id for p in nl})
+        # новая настройка: DE в группе NL, у группы другой сайт
+        for p in de:
+            p.group = "NL"
+        cfg.settings["group_sites"] = {"NL": {"url": "https://b.example",
+                                              "comment_link_format": "https://b.example/?p={wp_id}"}}
+        factory = lambda site: wp_a if site["url"] == url_a else wp_b   # noqa: E731
+        res = rework_slot(cfg, "NL", "2030-05-01 09:00", move_site=True, wp_factory=factory)
+        self.assertIn("DE", res)
+        for hh, mm in ((6, 20), (9, 7), (9, 37)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            gcfg = group_view(cfg, "NL")
+            Pipeline(gcfg, State(st_path), graph, wp_b, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP(), wp_factory=factory).tick()
+        self.assertEqual(wp_a.posts, {})                              # старая статья удалена
+        self.assertEqual(len(wp_b.posts), 2)                          # NL и DE на новом сайте
+        self.assertEqual(len({p["slug"] for p in wp_b.posts.values()}), 2)
+        new_posts = {k: v for k, v in graph.posts.items() if k not in first_posts}
+        self.assertEqual({p["page"] for p in new_posts.values()}, {p.page_id for p in de})  # NL — без вторых постов
+        msgs = [c["message"] for cs in graph.comments_by.values() for c in cs]
+        self.assertEqual(len(msgs), len(graph.posts))
+        self.assertTrue(all(m.startswith("https://b.example/?p=") for m in msgs), msgs[:3])
+        self.assertEqual(State(st_path).slots["2030-05-01 09:00"]["status"], "done")
+
+
 class LateLinkTests(unittest.TestCase):
     def test_link_sent_after_release_goes_to_next_release(self):
         """Выпуск 09:00 прошёл без истории; ссылка пришла в 09:45 — она идёт в 12:00, а не «догоняет» 09:00."""
