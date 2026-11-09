@@ -4,6 +4,8 @@
   "0475676f7d35cf5ec822": "2026-10-29T20:24:32+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
+  "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
+  "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
   "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
@@ -11,6 +13,7 @@
   "8e4386a701b76151555b": "2026-11-01T18:14:18+00:00",
   "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
+  "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00",
   "e19af41ca961271a3c24": "2026-11-01T14:04:10+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
@@ -1439,7 +1442,68 @@
    }
   },
   "2026-11-10 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Depois de quatro filhas, ele finalmente teve o filho que sonhava, mas a primeira frase que disse ao segurá-lo gelou o sangue da esposa",
+     "warnings": [
+      "длина текста FB 446 слов (исходник 526, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 77,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "После четырёх дочерей муж наконец получил сына, но, взяв малыша на руки, произнёс слова, от которых я похолодела",
+     "warnings": [
+      "длина текста FB 403 слов (исходник 526, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 75,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Dört kızından sonra hayalindeki oğluna kavuşan kocam, bebeği kucağına alır almaz kanımı donduran bir şey söyledi",
+     "warnings": [
+      "длина текста FB 329 слов (исходник 526, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 76,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/894457771_122141673657225301_6988636167983731146_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4bQW15dzLdwQ7kNvwEzsA40&_nc_oc=AdpeucF3THjEZBR4T_TauD7N4JMzCHHjkAWd9fgYldaC5GyvuJm3saAGnoqTB0xtuU0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=ehM4t4j_6OK5gHmxjE3P7w&_nc_tpa=Q5bMBQL01RHRjQKnPJd1rkkmNNHxqgc6nHZQeHgRoZ4hV7Fzam6jTUWNkydTFmukBSXW9JVSabs_VDdcPw&oh=00_AQR-yANUtMi7D40uYb4ibJkgf9ApzMc1tDpH5rRfIVQlOg&oe=6AF7EBA7",
@@ -1451,7 +1515,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-1200-ru.jpg"
    },
    "source_key": "post:61586759032853_122141673735225301",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1583,7 +1647,7 @@
    "origin": "manual",
    "page_id": "61586759032853",
    "slot": "2026-11-10 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122148448257348565": {
    "error": "слот пропущен",
