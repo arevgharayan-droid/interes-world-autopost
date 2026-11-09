@@ -1,8 +1,9 @@
 ## Раскрытие ссылок
 
-- https://www.facebook.com/share/p/1A1iL2aHtz/ → url=https://www.facebook.com/story.php?story_fbid=1078152595272345&id=100092328442705&rdid=Uwopj64NkGZOqoXa&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1078152595272345 | id=100092328442705 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1E9N7wEZUe/ → url=https://www.facebook.com/story.php?story_fbid=122143561461244157&id=61587324730850&rdid=BBRCPyWlcDeHpDK8&share_url=https%3A%2F%2Fwww.facebook.com%2Fsh | story_fbid=122143561461244157 | id=61587324730850 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1KojH3Qaoe/ → url=https://www.facebook.com/story.php?story_fbid=122142837687244157&id=61587324730850&rdid=Iti1Zig9JxCumLjA&share_url=https%3A%2F%2Fwww.facebook.com%2Fsh | story_fbid=122142837687244157 | id=61587324730850 (?) | post_id= | title=
-- https://www.facebook.com/share/p/19viBqdJgs/ → url=https://www.facebook.com/story.php?story_fbid=1605697694922092&id=100064456312444&rdid=blegNAPPGOlOL8nr&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1605697694922092 | id=100064456312444 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1C7evYZ666/ → url=https://www.facebook.com/story.php?story_fbid=1604736138351581&id=100064456312444&rdid=L2mpfxu37nk5kiJT&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1604736138351581 | id=100064456312444 (?) | post_id= | title=
-- https://www.facebook.com/share/p/1MHDTabH9X/ → url=https://www.facebook.com/story.php?story_fbid=1599735255518336&id=100064456312444&rdid=9Np3UUjev9b7RSOv&share_url=https%3A%2F%2Fwww.facebook.com%2Fsha | story_fbid=1599735255518336 | id=100064456312444 (?) | post_id= | title=
+- https://www.facebook.com/share/1DeyFR5fQ8/ → url=https://www.facebook.com/p/Segredos-que-a-Vida-Guarda-61595167986420/ | story_fbid= | id= (?) | post_id= | title= Segredos que a Vida Guarda
+- https://www.facebook.com/share/1CvBLwxDWh/ → url=https://www.facebook.com/p/Hist%C3%B3rias-que-Ningu%C3%A9m-Esquece-61594155721036/ | story_fbid= | id= (?) | post_id= | title=Histórias que Ninguém Esquece
+- https://www.facebook.com/share/1MGkxfw73H/ → url=https://www.facebook.com/p/Lebenswege-61593091482615/ | story_fbid= | id= (?) | post_id= | title=Lebenswege
+- https://www.facebook.com/share/1CG16eqxsJ/ → url=https://www.facebook.com/p/Geschichten-des-Lebens-61592558064466/ | story_fbid= | id= (?) | post_id= | title= Geschichten des Lebens
+- https://www.facebook.com/share/1CKDPCww8b/ → url=https://www.facebook.com/p/Life-Between-Moments-61593175856853/ | story_fbid= | id= (?) | post_id= | title=Life Between Moments
+- https://www.facebook.com/share/19zJgtspvo/ → url=https://www.facebook.com/p/Visages-de-la-Vie-61593250385737/ | story_fbid= | id= (?) | post_id= | title= Visages de la Vie
+- https://www.facebook.com/share/1MUnuYmxau/ → url=https://www.facebook.com/p/Vite-da-Raccontare-61592155259651/ | story_fbid= | id= (?) | post_id= | title=Vite da Raccontare

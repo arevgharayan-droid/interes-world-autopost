@@ -1,10 +1,10 @@
-## Подключение Facebook
+## Раскрытие ссылок
 
-✅ Получены токены страниц: **52 из 53**
-Срок действия токенов страниц: бессрочно
-Разрешения: pages_show_list, business_management, pages_read_engagement, pages_read_user_content, pages_manage_posts, pages_manage_engagement, public_profile
-❌ Нет доступа к страницам (добавьте их в портфолио Interes World и назначьте системному пользователю autopost): Amazing
-
-Новыми историями считаются посты, опубликованные на ваших страницах ПОСЛЕ этого момента (старые посты и всё, что публиковал Make, не берутся).
-Секрет FB_USER_TOKEN не удаляйте: когда в портфолио добавятся новые страницы, этот шаг можно просто запустить ещё раз.
+- https://www.facebook.com/share/1DeyFR5fQ8/ → url=https://www.facebook.com/p/Segredos-que-a-Vida-Guarda-61595167986420/ | story_fbid= | id= (?) | post_id= | title= Segredos que a Vida Guarda
+- https://www.facebook.com/share/1CvBLwxDWh/ → url=https://www.facebook.com/p/Hist%C3%B3rias-que-Ningu%C3%A9m-Esquece-61594155721036/ | story_fbid= | id= (?) | post_id= | title=Histórias que Ninguém Esquece
+- https://www.facebook.com/share/1MGkxfw73H/ → url=https://www.facebook.com/p/Lebenswege-61593091482615/ | story_fbid= | id= (?) | post_id= | title=Lebenswege
+- https://www.facebook.com/share/1CG16eqxsJ/ → url=https://www.facebook.com/p/Geschichten-des-Lebens-61592558064466/ | story_fbid= | id= (?) | post_id= | title= Geschichten des Lebens
+- https://www.facebook.com/share/1CKDPCww8b/ → url=https://www.facebook.com/p/Life-Between-Moments-61593175856853/ | story_fbid= | id= (?) | post_id= | title=Life Between Moments
+- https://www.facebook.com/share/19zJgtspvo/ → url=https://www.facebook.com/p/Visages-de-la-Vie-61593250385737/ | story_fbid= | id= (?) | post_id= | title= Visages de la Vie
+- https://www.facebook.com/share/1MUnuYmxau/ → url=https://www.facebook.com/p/Vite-da-Raccontare-61592155259651/ | story_fbid= | id= (?) | post_id= | title=Vite da Raccontare
 
