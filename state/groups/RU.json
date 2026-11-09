@@ -1180,6 +1180,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 68,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RU": {
@@ -1249,12 +1250,13 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122126355315307134_1890772792085103",
        "error": null,
        "last_attempt": "2026-11-09T20:00:39+04:00",
        "mode": "schedule",
        "photo_id": "122126355285307134",
        "post_id": "1164575726728296_122126355315307134",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Şükran Günü'nde gelinim herkesin önünde \"Senin tüm kişiliğin yemek ve temizlik, Diane\" dedi; oğlum tabağına baktı, ben o gece Portekiz'e bilet aldım",
