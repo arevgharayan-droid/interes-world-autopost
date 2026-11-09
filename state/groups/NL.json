@@ -7,6 +7,7 @@
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
+  "ba5124bf926776f201e6": "2026-11-09T13:25:52+00:00",
   "ec07586e4e7c5fa4e396": "2026-11-01T10:36:58+00:00",
   "fbd1653b854ac7bf06ab": "2026-10-29T16:40:27+00:00"
  },
@@ -960,7 +961,44 @@
    "status": "in_progress"
   },
   "2026-11-09 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn zoon (18) kwam na twee dagen huilend thuis, draaide de deur op slot en smeekte: \"Bel Ben niet.\" Wat op dat papier stond, sloeg me de adem uit het lijf",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 34,
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/885082662_122125385349457373_1843866180522569932_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PeCQohDAEMoQ7kNvwEiejm5&_nc_oc=AdrctgVazkLTkVVne_NurN9X-zCX3Lz1RMc0ax6NpV3H-YedbhIhhsDB0mjv0_NNhaY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=VjhOklHr2fiywEJqTC4Fqg&_nc_tpa=Q5bMBQI9LgZlTy6P9_cDPcr0H2Xytifoy46xSF2CAWILvvsgLi7qKXMoN6FhvxwhdrUVzBMH88Tj_pboGA&oh=00_AQRN7877Tk_rxtyzOSlCEsRE3La4KaZGPK9TRCC6SRCmIw&oe=6AF78E9D",
@@ -972,7 +1010,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-nl.jpg"
    },
    "source_key": "post:61593721215501_122125386465457373",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 00:00": {
    "langs": {},
@@ -1087,7 +1125,7 @@
    "origin": "manual",
    "page_id": "61593721215501",
    "slot": "2026-11-09 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122139981021225301": {
    "fingerprint": "c33c1a3930fd423f2761",
