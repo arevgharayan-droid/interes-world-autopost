@@ -513,6 +513,8 @@ def cmd_ops(cfg, args) -> int:
         return cmd_sheet_status(cfg)
     if cmd == "check-queue":
         return cmd_check_queue(cfg)
+    if cmd == "site-check":
+        return cmd_site_check(cfg, a.get("url", ""))
     if cmd == "peek-links":
         return cmd_peek_links(cfg, a.get("links") or [])
     if cmd == "repost":
@@ -571,6 +573,31 @@ def cmd_repost(cfg, from_key: str, to_key: str) -> int:
     for g, st in _group_states(cfg).items():
         out.append(f"- {cfg.group_label(g)}: {repost_slot(cfg, st, g, from_key, to_key)}")
     summary("\n".join(out) + "\n", "previews/repost.md", cfg)
+    return 0
+
+
+def cmd_site_check(cfg, url: str) -> int:
+    """Проверка нового сайта WordPress без ключей: отвечает ли REST API, какие плагины-подключения есть."""
+    import requests
+    base = (url or cfg.settings["site"]["url"]).rstrip("/")
+    out = [f"## Проверка сайта {base}", ""]
+    ua = {"User-Agent": "interes-autopost/1.0"}
+    for path in ("/wp-json/", "/wp-json/wp/v2/users/me", "/wp-json/wp/v2/posts?per_page=1", "/?rest_route=/"):
+        try:
+            r = requests.get(base + path, headers=ua, timeout=30)
+            ct = r.headers.get("Content-Type", "")
+            extra = ""
+            if path == "/wp-json/" and "json" in ct:
+                try:
+                    d = r.json()
+                    extra = f" · сайт «{d.get('name')}» · namespaces: {', '.join(d.get('namespaces', []))[:600]}"
+                    extra += f" · auth: {', '.join((d.get('authentication') or {}).keys())}"
+                except ValueError:
+                    pass
+            out.append(f"- {path}: HTTP {r.status_code} · {ct[:40]}{extra} · {r.text[:120]!r}")
+        except requests.RequestException as e:
+            out.append(f"- {path}: ошибка {e}")
+    summary("\n".join(out) + "\n", "previews/site-check.md", cfg)
     return 0
 
 
