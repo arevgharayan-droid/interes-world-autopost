@@ -3,7 +3,9 @@
  "output_fps": {
   "0475676f7d35cf5ec822": "2026-10-29T20:24:32+00:00",
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
+  "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
+  "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
   "8e4386a701b76151555b": "2026-11-01T18:14:18+00:00",
   "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
@@ -1133,7 +1135,15 @@
      "skipped": "нет подключённых страниц"
     },
     "PT": {
-     "pages": {}
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na frente de todos, minha nora disse que cozinhar e limpar era a minha personalidade inteira. Naquela noite, reservei oito semanas em Portugal",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 68,
+     "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
@@ -1177,10 +1187,21 @@
      "wp_status": "future"
     },
     "TR": {
-     "pages": {}
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Şükran Günü'nde gelinim herkesin önünde \"Senin tüm kişiliğin yemek ve temizlik, Diane\" dedi; oğlum tabağına baktı, ben o gece Portekiz'e bilet aldım",
+     "warnings": [
+      "длина текста FB 1353 слов (исходник 1875, цель ±10%)",
+      "длина статьи 569 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 67,
+     "wp_status": "future"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-09T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/860572296_122124613563457373_1503348144642669050_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jPripNOmkFwQ7kNvwHZP-gX&_nc_oc=Ado_g1idF5ygoh6fG8NIKg78_M8uxRGfR31guH8wqPQJAXC1KHdyz2C2q5AKigjK_hw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=PT9GRIIQFadtPvBJglR7nw&_nc_tpa=Q5bMBQJDEubn4Y-eTDeV-vlLywW6AStiheMxCtzdF-ytTu1ac3-IbBpBhDLpJMA87zRCN_QMVub5SvXYqQ&oh=00_AQRGWrPe5upZzNpVkHDAoRoPgHlsa3RcYGwP4gRpMqIi8Q&oe=6AF7947A",
@@ -1192,7 +1213,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-ru.jpg"
    },
    "source_key": "post:61593721215501_122124663333457373",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "url": "https://peakproductions.co",
