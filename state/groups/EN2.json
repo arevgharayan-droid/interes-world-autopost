@@ -2263,12 +2263,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122138231978776189_2106314013584753",
        "error": null,
        "last_attempt": "2026-11-09T17:24:41+04:00",
        "mode": "schedule",
        "photo_id": "122138231948776189",
        "post_id": "994273113779575_122138231978776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Billionaire Father Disinherited Me for Joining the Army, Then Mocked My Uniform at the White House Without Knowing a Four-Star General Was Seconds Away From Revealing Who I Really Am",
@@ -2313,7 +2314,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-en2.jpg"
    },
    "source_key": "post:61593333781016_122122669659444459",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-09 21:00": {
    "langs": {
