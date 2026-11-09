@@ -3333,7 +3333,23 @@
   "2026-11-10 21:00": {
    "langs": {},
    "slot_iso": "2026-11-10T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/887033390_122130726716893096_7559612809236592237_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=d1wINPtaPloQ7kNvwHmbs_B&_nc_oc=AdoUz0Ggeh9V0epH-89-Sd5z0SB-xNZo10lN_o1xScPOuJgDZ-LG5mpHQgEsrkpozbU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=8pJo6KWLmwoxY7Bl6mt63Q&_nc_tpa=Q5bMBQJu5YFrFLZmKr2jdkfL3f_AxP7vwkAybt2HJGSPf_DLT4kL18SlZwx9pY8d_E-H-jT0Ndr-xkeVVw&oh=00_AQSzsHUs_GGmxD_Zi1KUbMW4NQug3XgZa4_Or3z7vfGcHQ&oe=6AF80DD6",
+    "link": "https://www.facebook.com/share/p/19S9QPWYDp/",
+    "origin": "manual",
+    "page_id": "61576792898556",
+    "text": "“Daddy, LOOK! That’s Mommy!” my five-year-old daughter shouted, pointing at a homeless woman sitting outside a closed store on a rainy Boston street. I froze. My wife had been dead for three years. I had even attended her funeral. I tried to convince my daughter she was mistaken, but she pulled away and ran straight into the woman’s arms. The stranger hugged her tightly, then looked up at me with tears in her eyes and whispered, “You buried someone three years ago, but it wasn’t me.” Then she revealed the secret my own mother had kept hidden from me all along...\n\nPART 1: THE WOMAN MY DAUGHTER RECOGNIZED IN THE RAIN\n\nThe day my five-year-old daughter found her mother began with a cold November rain and a business meeting I had already forgotten.\n\nMy name is Everett Langford, and I was the chief executive officer of Langford Holdings, a multibillion-dollar investment corporation headquartered in Boston, Massachusetts.\n\nFor three years, I had believed my wife, Adriana, was dead.\n\nI had attended her funeral, watched her coffin disappear beneath the ground, and spent countless nights staring at photographs of a woman I would never see again.\n\nGrief had changed me into someone I barely recognized.\n\nI worked relentlessly, acquired struggling businesses, and filled my calendar with appointments because silence always reminded me of Adriana.\n\nMy only genuine connection to life outside the corporation was our daughter, Poppy.\n\nShe had recently turned five and possessed her mother’s dark hair, expressive brown eyes, and stubborn determination.\n\nThat Tuesday afternoon, we were walking toward our waiting vehicle after a pediatric appointment.\n\nRain blurred the storefront windows, and hurried pedestrians moved beneath umbrellas along Boylston Street.\n\nPoppy suddenly tightened her grip around my fingers.\n\n“Daddy, that woman across the street looks exactly like Mommy, and I think she’s waiting for us!”\n\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a 'MOM' comment below and give us a \"Like \" to get full story ) 👇",
+    "wp_media_id": 77,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-en2.jpg"
+   },
+   "source_key": "post:61576792898556_122130738032893096",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-10-29T16:38:32+00:00",
@@ -3421,6 +3437,14 @@
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
    "status": "used"
+  },
+  "post:61576792898556_122130738032893096": {
+   "fingerprint": "f5b688138af06f2a13a3",
+   "link": "https://www.facebook.com/share/p/19S9QPWYDp/",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-10 21:00",
+   "status": "reserved"
   },
   "post:61585110014040_122144532279170333": {
    "fingerprint": "41111c047dd387eafe2b",
