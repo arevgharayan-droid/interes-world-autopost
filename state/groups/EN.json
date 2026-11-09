@@ -2497,12 +2497,13 @@
       "975714512286925": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122149266327209153_2225208165082507",
        "error": null,
        "last_attempt": "2026-11-09T17:26:24+04:00",
        "mode": "schedule",
        "photo_id": "122149266297209153",
        "post_id": "975714512286925_122149266327209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "While My Husband Fought for His Life in the ICU, His Son Sold His Restored Tractor, So I Climbed onto a Hay Wagon and Told 300 Farmers the Truth",
@@ -2549,7 +2550,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261109-2100-en.jpg"
    },
    "source_key": "post:61593721215501_122125458423457373",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
