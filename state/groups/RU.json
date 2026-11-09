@@ -1441,7 +1441,23 @@
   "2026-11-10 12:00": {
    "langs": {},
    "slot_iso": "2026-11-10T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/894457771_122141673657225301_6988636167983731146_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4bQW15dzLdwQ7kNvwEzsA40&_nc_oc=AdpeucF3THjEZBR4T_TauD7N4JMzCHHjkAWd9fgYldaC5GyvuJm3saAGnoqTB0xtuU0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=ehM4t4j_6OK5gHmxjE3P7w&_nc_tpa=Q5bMBQL01RHRjQKnPJd1rkkmNNHxqgc6nHZQeHgRoZ4hV7Fzam6jTUWNkydTFmukBSXW9JVSabs_VDdcPw&oh=00_AQR-yANUtMi7D40uYb4ibJkgf9ApzMc1tDpH5rRfIVQlOg&oe=6AF7EBA7",
+    "link": "https://www.facebook.com/share/p/19C2S4vSwy/",
+    "origin": "manual",
+    "page_id": "61586759032853",
+    "text": "Après avoir eu quatre filles, mon mari avait enfin obtenu le fils dont il rêvait depuis si longtemps. Mais au moment où il prit notre nouveau-né dans ses bras pour la première fois, il prononça des paroles qui me glacèrent le sang.\n\nBrandon et moi étions ensemble depuis huit ans et, dès le début de notre relation, nous avions toujours été d'accord sur une chose : nous voulions fonder une famille nombreuse.\n\nCependant, Brandon avait toujours été étrangement obsédé par l'idée d'avoir un fils. Même avant notre mariage, il me répétait qu'une maison remplie uniquement de filles ne lui donnerait jamais le sentiment d'avoir une famille vraiment complète. Plus que tout, il désirait un garçon, quelqu'un qui pourrait perpétuer son nom de famille et rendre enfin parfaite l'image de la famille dont il avait toujours rêvé.\n\nPeu après notre mariage, j'appris que j'étais enceinte. Brandon était fou de joie et se persuada immédiatement que ce bébé serait le fils qu'il attendait depuis si longtemps.\n\nMais à la place, nous accueillîmes une magnifique petite fille.\n\nBien sûr, il l'aimait, mais même au milieu de tout ce bonheur, je pouvais sentir la déception qu'il s'efforçait désespérément de dissimuler.\n\n« Un jour, nous lui donnerons un petit frère », me promit-il.\n\nAlors, nous avons réessayé.\n\nPuis nous avons essayé encore une fois.\n\nÀ peu près chaque année, une autre adorable petite fille venait agrandir notre famille. Brandon aimait nos quatre filles, pourtant, chaque fois que nous apprenions que nous attendions encore une fille, je voyais cette même expression de déception réapparaître sur son visage.\n\nÀ ce stade, j'étais complètement épuisée. Quatre grossesses avaient sérieusement éprouvé mon corps et mes forces, mais Brandon semblait devenir encore plus déterminé au fil des années. Il m'arrivait de me demander sincèrement combien d'autres enfants il espérait que nous aurions avant d'accepter enfin la possibilité que nous n'ayons jamais de garçon.\n\nPuis je découvris que j'étais enceinte pour la cinquième fois.\n\nDès que je montrai le test de grossesse positif à Brandon, il sembla presque certain que son rêve était enfin sur le point de se réaliser.\n\n« Je le sens », ne cessait-il de me répéter. « Cette fois, je vais enfin avoir mon garçon. »\n\nEt cette fois, il avait raison.\n\nQuelques mois plus tard, après un accouchement long et épuisant, le médecin annonça que notre petit garçon était né en parfaite santé.\n\nJe n'avais jamais vu Brandon aussi heureux.\n\nL'infirmière déposa délicatement notre nouveau-né dans ses bras, et j'imaginais que cet instant serait rempli de larmes de joie, de rires ou peut-être d'un murmure ému et soulagé : « Enfin. »\n\nMais il se passa quelque chose de complètement différent.\n\nBrandon observa attentivement le visage du bébé et, peu à peu, toute la joie disparut de son expression.\n\nPuis il se tourna vers moi, entrouvrit les lèvres et prononça une phrase qui me noua instantanément l'estomac.\n\n**L'histoire est trop longue pour être publiée entièrement dans la légende, alors écrivez simplement « Oui ».**\n\n**L'histoire complète se trouve dans les commentaires ci-dessous. 👇👇**",
+    "wp_media_id": 74,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-1200-ru.jpg"
+   },
+   "source_key": "post:61586759032853_122141673735225301",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-10 15:00": {
    "langs": {},
@@ -1560,6 +1576,14 @@
    "page_id": "61586321290305",
    "slot": "2026-11-02 00:00",
    "status": "used"
+  },
+  "post:61586759032853_122141673735225301": {
+   "fingerprint": "803e89f0b93fda85157b",
+   "link": "https://www.facebook.com/share/p/19C2S4vSwy/",
+   "origin": "manual",
+   "page_id": "61586759032853",
+   "slot": "2026-11-10 12:00",
+   "status": "reserved"
   },
   "post:61590456964686_122148448257348565": {
    "error": "слот пропущен",

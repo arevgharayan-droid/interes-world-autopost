@@ -2090,7 +2090,23 @@
   "2026-11-10 12:00": {
    "langs": {},
    "slot_iso": "2026-11-10T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/889697364_122141477043225301_32160145150958990_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BcEizmfqeYAQ7kNvwEDbf-5&_nc_oc=AdpGRkbkhZvFsncDG6WJRE4issP0EKOreFPrgCPTCwZhb6kU1KSB43HDhIWiruvxZao&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=oxXBYg3LhVz34IzyBhoZ1A&_nc_tpa=Q5bMBQJ2Tf4DGGZrvuV5I0gweVKVVD_Ou51c6LMLG5YrUeYO7Ja9aQ_vO_LtzeK8AeTPIM031pvfyNz74w&oh=00_AQTH90--N80Zbt55V7dDy5oLmsmMxXqxKCWsrgqV7xspOw&oe=6AF80815",
+    "link": "https://www.facebook.com/share/p/1Cca2o9F6f/",
+    "origin": "manual",
+    "page_id": "61586759032853",
+    "text": "Pendant un vol de 12 heures, la fillette de 10 ans assise derrière moi a passé deux heures entières à donner des coups de pied dans le dossier de mon siège, tandis que sa mère me répondait avec arrogance : « C'est une enfant. Faites avec. » Mais lorsqu'elle a finalement emmené sa fille aux toilettes, j'ai mis à exécution le plan que j'avais soigneusement élaboré dans ma tête pendant ces deux heures.\n\nJe m'appelle Adrian et je suis chirurgien cardiaque à Chicago.\n\nJe venais de terminer une conférence médicale à Tokyo et j'étais complètement épuisé.\n\nMon travail m'amène souvent à voyager dans d'autres villes et pays, alors je suis habitué aux longs vols et aux passagers difficiles.\n\nMais je n'avais encore jamais rencontré une femme aussi impolie que celle qui était assise derrière moi ce jour-là.\n\nMon métier exige une concentration absolue. Certaines opérations durent des heures, et une seule erreur peut bouleverser une vie à jamais.\n\nC'est pourquoi, lorsque je suis monté dans l'avion pour rentrer chez moi, je ne souhaitais qu'une seule chose : dormir.\n\nJ'étais loin de ma famille depuis une semaine et j'imaginais déjà le moment où j'embrasserais ma femme et serrerais mes deux fils dans mes bras.\n\nPuis les coups de pied ont commencé.\n\nBoum.\n\nBoum.\n\nBoum.\n\nAu début, j'ai essayé de les ignorer.\n\nAu bout de vingt minutes, je me suis retourné.\n\nUne fillette d'environ dix ans frappait sans arrêt le dossier de mon siège avec ses baskets.\n\nSa mère ne levait même pas les yeux de sa tablette, sur laquelle elle regardait un feuilleton mélodramatique de mauvaise qualité.\n\n« Excusez-moi, pourriez-vous demander à votre fille d'arrêter, s'il vous plaît ? »\n\nLa femme a poussé un soupir agacé.\n\n« C'est une enfant. Faites avec. »\n\n« Cela fait presque une demi-heure que ça dure. »\n\nElle a remis un écouteur dans son oreille.\n\n« Alors changez de place. »\n\nLa fillette a affiché un petit sourire moqueur avant de donner un nouveau coup de pied.\n\nPendant les deux heures suivantes, sa mère a continué à regarder épisode après épisode, tandis que sa fille donnait des coups de pied dans mon siège, le faisant trembler sans arrêt.\n\nImpossible pour moi de fermer l'œil.\n\nFinalement, la femme s'est levée.\n\n« Allez, viens. On va aux toilettes. »\n\nLa fillette l'a suivie dans l'allée.\n\nJe les ai regardées s'éloigner jusqu'à ce qu'elles disparaissent au fond de l'avion.\n\nAlors je me suis levé et j'ai enfin fait la seule chose à laquelle je pensais depuis deux heures.\n\nQuelques minutes plus tard, elles sont revenues.\n\nLa femme a jeté un regard à son siège et s'est brusquement immobilisée au milieu de l'allée.\n\nSon visage est devenu rouge de colère.\n\n**« QU'EST-CE QUE VOUS AVEZ FAIT ?! »** a-t-elle hurlé.\n\nJe me suis simplement contenté de lever les yeux vers elle et de sourire.\n\n**PARTIE 2 ET FIN COMPLÈTE :** Écrivez **« OUI »** dans les commentaires et cliquez sur **« J'aime »** pour que nous puissions publier la suite de l'histoire.\n\nMerci ! ❤️👇👇",
+    "wp_media_id": 43,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1200-it.jpg"
+   },
+   "source_key": "post:61586759032853_122141477115225301",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-10 15:00": {
    "langs": {},
@@ -2201,6 +2217,14 @@
    "page_id": "61585369480106",
    "slot": "2026-11-09 21:00",
    "status": "used"
+  },
+  "post:61586759032853_122141477115225301": {
+   "fingerprint": "d1bf25a68161952e4b4d",
+   "link": "https://www.facebook.com/share/p/1Cca2o9F6f/",
+   "origin": "manual",
+   "page_id": "61586759032853",
+   "slot": "2026-11-10 12:00",
+   "status": "reserved"
   },
   "post:61590456964686_122150034885348565": {
    "error": "слот пропущен",
