@@ -14,6 +14,7 @@
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00",
   "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00",
+  "f5c0e175c68a336e3e47": "2026-11-09T20:09:08+00:00",
   "ff177c2141f7f0364278": "2026-11-09T13:24:27+00:00"
  },
  "outputs": {
@@ -2764,7 +2765,48 @@
    }
   },
   "2026-11-11 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ho sposato il mio primo amore 45 anni dopo per esaudire il suo ultimo desiderio, ma dopo il funerale suo figlio mi ha consegnato una busta che ha cambiato tutto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 99,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/889653317_1663112941858787_1056656342929004352_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=947u1drNsOQQ7kNvwF4DpEz&_nc_oc=Adq1P74d5l8kztM2J437Qg3OfSZ-PmfidXO4hrjZJH1GvUyB_cPzpItAIIvVcDK3ZaE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KAhtEOf0VRA2mBymDuUQvA&_nc_tpa=Q5bMBQK3PGlbwo5g_k8If0tz9xjLNHknDJIo0pOth2ok82oi4wgIKB_qNfluy1Zv-oEUxfSmXQ6btheVPw&oh=00_AQRt9AzcbZH9XwyWraNKZoG7Ap19u1rH6dx-QcqaHcPEcw&oe=6AF7EBA1",
@@ -2776,7 +2818,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-0000-it.jpg"
    },
    "source_key": "post:100044802900629_1665048941665187",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2861,7 +2903,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-11 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698682471650445": {
    "fingerprint": "805fb8b83171cdb61fb9",
