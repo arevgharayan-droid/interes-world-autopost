@@ -1,0 +1,21 @@
+{
+ "output_fps": {},
+ "outputs": {},
+ "slots": {},
+ "sources": {
+  "link:0850bdea31e3d1a888c0": {
+   "link": "https://www.facebook.com/share/p/1Bbpfkwui6/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122145732075178982&id=61585369480106"
+  },
+  "link:4d68495dc47144aa5f0e": {
+   "link": "https://www.facebook.com/share/p/19Pqks39VK/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122139580178778984&id=61573369523860"
+  },
+  "link:c860de01f83dac25a3c5": {
+   "link": "https://www.facebook.com/share/p/1Cgwtiau4q/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122122709439444459&id=61593333781016"
+  }
+ },
+ "tests": {},
+ "version": 1
+}
