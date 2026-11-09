@@ -1,6 +1,8 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
+  "0d1837969ae0e3704a2b": "2026-11-09T20:00:55+00:00",
+  "122da30c84d729a1b892": "2026-11-09T20:00:55+00:00",
   "13db4df12dcefc769231": "2026-11-09T13:24:24+00:00",
   "3b17ef7d9630be534518": "2026-11-01T18:14:37+00:00",
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
@@ -1326,7 +1328,55 @@
    }
   },
   "2026-11-10 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sie sahen aus wie Zwillinge: Als die Tochter eines Mafiabosses auf dem Markt ein armes Mädchen mit ihrem Gesicht traf, erstarrte ihr Vater",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 66,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Waarom lijken we precies op elkaar? vroeg de dochter van een maffiabaas aan een arm meisje op de markt, en haar vader bleef als versteend staan",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 65,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/886587636_1661492808680673_6956550780600369204_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=etT8lpnKUB8Q7kNvwEYk1DN&_nc_oc=AdrWExX5xIhhyOMWeN0grx6Fy6JpSyWE-IXdsHs2FhBMbEyH5WpJWv8oicqaKbQ1Ocs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Y-7pn-UfVBNZlxbKPlYueQ&_nc_tpa=Q5bMBQLMt4vkupyaZpD8bZ9GQ5IyX3hySbq70ElYDiUkneoFL4H3_uXwNnn1HsVorKVUt9N8V7beGk0zBA&oh=00_AQQlpYe-_vaHGXLuwKcN4REjqctGDliuxSWkKrgLxktNLQ&oe=6AF7DE14",
@@ -1338,7 +1388,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1500-nl.jpg"
    },
    "source_key": "post:100044599086455_1662747965221824",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -1417,7 +1467,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698998888285470": {
    "fingerprint": "82ad13dcc80155984bd8",
