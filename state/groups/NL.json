@@ -977,7 +977,16 @@
   "2026-11-09 21:00": {
    "langs": {
     "DE": {
-     "pages": {},
+     "pages": {
+      "1208422892355505": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "1268633826332790": {
+       "attempts": 0,
+       "status": "no_access"
+      }
+     },
      "skipped": "нет подключённых страниц"
     },
     "EN": {
@@ -1046,7 +1055,12 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-nl.jpg"
    },
    "source_key": "post:61593721215501_122125386465457373",
-   "status": "in_progress"
+   "status": "in_progress",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-10 00:00": {
    "langs": {
