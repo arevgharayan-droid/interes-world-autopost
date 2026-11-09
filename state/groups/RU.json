@@ -1217,6 +1217,9 @@
      "pages": {},
      "skipped": "нет подключённых страниц"
     },
+    "PT": {
+     "pages": {}
+    },
     "RU": {
      "backend": "subscription",
      "gen_error": null,
