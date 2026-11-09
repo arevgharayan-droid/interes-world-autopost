@@ -1,1 +1,1 @@
-{"id": "cancel-tr-0000", "cmd": "cancel-slot", "args": {"slot": "2026-11-10 00:00", "groups": ["TR"]}}
+{"id": "rework-2100-0000", "cmd": "rework-slot", "args": {"groups": ["IT", "EN", "EN2", "FR", "NL", "RU"], "slots": ["2026-11-09 21:00", "2026-11-10 00:00"], "move_site": true}}
