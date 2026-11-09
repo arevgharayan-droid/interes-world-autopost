@@ -406,7 +406,7 @@ class GroupQueueTests(unittest.TestCase):
         graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
         tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
         groups = cfg.groups()
-        self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU", "TR"])
+        self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU", "TR", "DE", "PT"])
         # «чужая» страница-источник для каждой группы — истории читаются через запасную страницу
         fb = cfg.fallback_source_page_id
         (tmp / "queue").mkdir(exist_ok=True)

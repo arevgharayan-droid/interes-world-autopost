@@ -32,6 +32,8 @@ STOPWORDS = {
     "TR": ("ve bir bu da de ne için ile çok ama o ben sen gibi daha kadar sonra her şey değil "
            "onun bana ona benim olarak").split(),
     "DE": "der die das und ist nicht ein eine ich sie er zu mit den von auf es war aber dass sich".split(),
+    "PT": ("não os um uma do da dos das em no na nos nas ele ela eu seu foi ao pelo pela isso esta quando mais "
+           "para com minha meu você tinha estava então muito").split(),
 }
 
 
@@ -271,6 +273,8 @@ _MOCK = {
            "Продолжение читайте в первом комментарии 👇"),
     "TR": ("Her şeyi değiştiren bir karşılaşma", "O gün onun için her şey değişti ve bu çok güzel bir şey oldu. ",
            "Devamı ilk yorumda 👇"),
+    "PT": ("Um encontro que mudou tudo", "Ela não sabia que aquele dia ia mudar a sua vida, e foi muito bom. ",
+           "Continue lendo no primeiro comentário 👇"),
     "DE": ("Eine Begegnung, die alles veränderte", "Sie wusste nicht, dass dieser Tag ihr Leben verändern würde, und es war gut. ",
            "Weiterlesen im ersten Kommentar 👇"),
 }
