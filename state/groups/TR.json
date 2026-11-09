@@ -114,7 +114,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1129620776897151": {
+       "attempts": 1,
+       "last_attempt": "2026-11-09T17:26:49+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Silahlı Adamlar Mafya Babasının Sonunun Geldiğini Sanıyordu, Ta ki Sessiz Hizmetçi Gölgelerden Çıkana Kadar",
      "warnings": [
       "длина текста FB 799 слов (исходник 1053, цель ±10%)"
