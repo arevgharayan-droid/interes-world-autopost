@@ -2363,6 +2363,12 @@
        "post_id": "106713875762456_1024051127379826",
        "status": "scheduled"
       },
+      "1220745651126185": {
+       "attempts": 1,
+       "last_attempt": "2026-11-09T18:55:00+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      },
       "233545296514172": {
        "attempts": 1,
        "error": null,

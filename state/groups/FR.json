@@ -1583,6 +1583,12 @@
        "photo_id": "122123013639415639",
        "post_id": "1250374694822508_122123013669415639",
        "status": "scheduled"
+      },
+      "1260826840455724": {
+       "attempts": 1,
+       "last_attempt": "2026-11-09T18:55:00+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "J'ai épousé mon premier amour après 45 ans de séparation pour exaucer son dernier vœu, et après sa mort, son fils m'a tendu une enveloppe",
