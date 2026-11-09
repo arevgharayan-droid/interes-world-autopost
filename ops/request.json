@@ -1,1 +1,1 @@
-{"id": "cancel-tr-2100", "cmd": "cancel-slot", "args": {"slot": "2026-11-09 21:00", "groups": ["TR"]}}
+{"id": "cancel-tr-0000", "cmd": "cancel-slot", "args": {"slot": "2026-11-10 00:00", "groups": ["TR"]}}
