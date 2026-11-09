@@ -7,6 +7,7 @@
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
   "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
+  "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
   "8660e8f9c6f8d691b287": "2026-11-09T13:25:53+00:00",
   "9f27064d4760d4ec7129": "2026-11-09T13:24:35+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
@@ -1931,7 +1932,48 @@
    }
   },
   "2026-11-10 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Une fillette de cinq ans a reconnu la bague du portrait dans le bureau d'un chef mafieux : sa mère la cachait depuis douze ans",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 62,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/888584382_1658485022314785_476481111663778826_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fV8cD-6JC5QQ7kNvwHmvpsc&_nc_oc=Adpp_ihlo9PMlkyeeRkPTOjp2ZBWyP6sdlRjhf1Lvc_4iyK8wZAauVdt1URcRhE8S0I&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=4ZUuaCwUW-GBdas5wBECfw&_nc_tpa=Q5bMBQIOE--vfnaG5EHvWCQpWARtX-KR37TSsnnyQ6Kq-kw1VLu_sD2uQbIv6L3ExaBMiyC8PBqKD0Ob_Q&oh=00_AQQpBC-sC2opSuI3DHbB4wo79htOHS_KqIc7wRaS5SYhFg&oe=6AF7EEAA",
@@ -1943,7 +1985,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1500-fr.jpg"
    },
    "source_key": "post:100044599086455_1660056672157620",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2022,7 +2064,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699072051611487": {
    "fingerprint": "f8fa08ba8c7252c10bbb",

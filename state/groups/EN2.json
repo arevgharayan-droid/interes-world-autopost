@@ -2925,7 +2925,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-11-10T00:00:29+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "A Maid's 3-Year-Old Walked Into a Room of Twelve Men and Told Northern Italy's Most Feared Mafia Boss He Was Getting a Bath",
      "warnings": [
       "длина статьи 1024 слов"
