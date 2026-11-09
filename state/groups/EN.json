@@ -10,6 +10,7 @@
   "655ea8557dcca7162d6c": "2026-11-01T14:03:59+00:00",
   "887a17b48cf1dabf9df6": "2026-10-29T20:16:49+00:00",
   "8f759366031b2b8b0675": "2026-11-01T10:36:39+00:00",
+  "97674e3e8b0598bc24b5": "2026-11-09T20:07:40+00:00",
   "b017c47f212a67b357c4": "2026-10-29T20:24:31+00:00",
   "b49b03bb1b007b0a80de": "2026-11-09T20:02:56+00:00",
   "cad5cdd2ed73c48ea1dc": "2026-11-09T20:01:56+00:00",
@@ -3563,7 +3564,44 @@
    }
   },
   "2026-11-11 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Boss Asked Me to Take His Daughter to Prom and Promised a Reward, Then She Looked Me in the Eyes and Said He Didn't Choose Me by Accident",
+     "warnings": []
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-11T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/888620121_1661903451979736_4575402634820881517_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jhgYiMMfDooQ7kNvwETjCqi&_nc_oc=Adqz_s5OpvbilrBfVWv5wMjBFgH48x-KItYWtAijuFj_6T4wd0hWBiiluNBpfZGjRTY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=SyhxKOXtER4jkl3jou0AOw&_nc_tpa=Q5bMBQKAJmciOGFo4UU8fuMtiDobn0sNoUBz-darhsBAUuRpbD1BfNH4VnyFRb1jcxm36ydImfIGqYhDRQ&oh=00_AQQTBJDaI8z4tfEcmeAbVKzVRQH11cKCO6gwI80rbFrBrw&oe=6AF7F689",
