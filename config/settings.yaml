@@ -6,7 +6,7 @@ timezone: Asia/Yerevan
 
 # false — расписание выключено (ничего не публикуется само).
 # Включается после успешного публичного теста.
-schedule_enabled: false
+schedule_enabled: true
 
 # Часы публикаций по Еревану: с 12:00 дня до 00:00 ночи, каждые 3 часа.
 # После изменения выполните: python -m autopost render-workflow
