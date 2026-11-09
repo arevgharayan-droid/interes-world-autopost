@@ -1707,6 +1707,12 @@
        "photo_id": "122123013819415639",
        "post_id": "1250374694822508_122123013849415639",
        "status": "scheduled"
+      },
+      "1260826840455724": {
+       "attempts": 1,
+       "last_attempt": "2026-11-09T18:55:09+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "La fille de la domestique a lancé au parrain de la mafia : « Je suis ta nouvelle garde du corps » – quelques heures plus tard, elle accusait son homme de confiance",
