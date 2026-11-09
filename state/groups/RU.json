@@ -1241,7 +1241,16 @@
      "skipped": "нет подключённых страниц"
     },
     "PT": {
-     "pages": {}
+     "pages": {
+      "1338630212673029": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "1448441201677530": {
+       "attempts": 0,
+       "status": "no_access"
+      }
+     }
     },
     "RU": {
      "backend": "subscription",
@@ -1285,7 +1294,16 @@
      "wp_status": "future"
     },
     "TR": {
-     "pages": {},
+     "pages": {
+      "1129620776897151": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "1164575726728296": {
+       "attempts": 0,
+       "status": "no_access"
+      }
+     },
      "skipped": "нет подключённых страниц"
     }
    },
@@ -1301,7 +1319,12 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-0000-ru.jpg"
    },
    "source_key": "post:61574270220252_122137345892809007",
-   "status": "in_progress"
+   "status": "in_progress",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-10 12:00": {
    "langs": {},
