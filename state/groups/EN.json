@@ -5,6 +5,7 @@
   "30516d0029d7a2aa8337": "2026-11-09T19:59:12+00:00",
   "3e2f2c99735b21275480": "2026-11-09T13:27:19+00:00",
   "4e1d50075aba4f7e15de": "2026-10-29T16:37:54+00:00",
+  "4ec66c0e7d13beb9615d": "2026-11-09T20:00:31+00:00",
   "5a1a23c72fc75013e47d": "2026-10-31T10:14:39+00:00",
   "655ea8557dcca7162d6c": "2026-11-01T14:03:59+00:00",
   "887a17b48cf1dabf9df6": "2026-10-29T20:16:49+00:00",
@@ -2936,7 +2937,48 @@
    }
   },
   "2026-11-10 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A Maid's Little Girl Demanded the Mafia Boss's Dog Return Her Shoe, and What Fell Out Left Him Frozen",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 63,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/886794754_1658483858981568_8269776826462177396_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NghSrfUu1NgQ7kNvwEODyhw&_nc_oc=AdryAp7k2P7NL97Iue0-e9t8Zj5NMEm5NowMz4DxwFUM21w9XOzqcB6h4ZAkgDANZ24&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=vBtzwiLo9hOCfTNpI-m-zw&_nc_tpa=Q5bMBQJdkCaW9mQ_StESXKaTGP83b0FnqcmHVR7xKlQmNvzScDAka0ZYGNheYJrSvzGXAUTzpLwESe7JjQ&oh=00_AQTlAeBJJeQB_ymR_pzWxZyhru80492vO8KDjL6DleO9hQ&oe=6AF7F14A",
@@ -2948,7 +2990,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1500-en.jpg"
    },
    "source_key": "post:100044599086455_1660021538827800",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3027,7 +3069,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699289931589699": {
    "fingerprint": "947d4507699df6d24615",

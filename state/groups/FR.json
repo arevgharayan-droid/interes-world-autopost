@@ -1945,7 +1945,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-10T00:00:31+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Une fillette de cinq ans a reconnu la bague du portrait dans le bureau d'un chef mafieux : sa mère la cachait depuis douze ans",
      "warnings": [],
      "wp_error": null,
