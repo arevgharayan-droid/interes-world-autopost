@@ -6,12 +6,14 @@
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
+  "88fe935e5a83ce556184": "2026-11-09T19:59:42+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
   "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
   "ba5124bf926776f201e6": "2026-11-09T13:25:52+00:00",
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "ec07586e4e7c5fa4e396": "2026-11-01T10:36:58+00:00",
   "f3c8eaafc0e1dc9038f5": "2026-11-09T13:26:40+00:00",
+  "f5bea5f3ca119019e8c7": "2026-11-09T19:59:42+00:00",
   "fbd1653b854ac7bf06ab": "2026-10-29T16:40:27+00:00"
  },
  "outputs": {
@@ -1209,7 +1211,55 @@
    }
   },
   "2026-11-10 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Er würgte sie bewusstlos und lachte auch noch – bis ihr stiller Bruder auf die Matte trat und sagte, jetzt sei er dran",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 50,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Hij bleef me wurgen terwijl ik allang had afgetikt, tot ik bewusteloos raakte, toen deed mijn stille broer een stap naar voren",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 49,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/888017609_122141640453225301_3321748145984346721_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jI6EBMFlozUQ7kNvwGPRVCu&_nc_oc=Adq1Nkkr04vky5x6vCRioDrXQgz1cejXWaRT7rqfxue0lFwVPlbSz1X76ii0KE19ZoY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=UUd6bSeoxk6U_GgzcmUTYA&_nc_tpa=Q5bMBQIirfVUxN4OIom4UW9jDXgm93Csql3fxsAH8ml2hEi6DHd3-bGs3LLkEYenJa7xdl3PHnOVqgR6mg&oh=00_AQT92hzTey7C_j7HqOqsjkDb0d_HnXWGV0Zti4UHcV_G5g&oe=6AF7E525",
@@ -1221,7 +1271,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1200-nl.jpg"
    },
    "source_key": "post:61586759032853_122141640519225301",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -1353,7 +1403,7 @@
    "origin": "manual",
    "page_id": "61586759032853",
    "slot": "2026-11-10 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122145763221348565": {
    "error": "слот пропущен",
