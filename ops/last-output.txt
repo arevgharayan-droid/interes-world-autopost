@@ -1,10 +1,16 @@
-## Раскрытие ссылок
+## Проверка подключений
 
-- https://www.facebook.com/share/1DeyFR5fQ8/ → url=https://www.facebook.com/p/Segredos-que-a-Vida-Guarda-61595167986420/ | story_fbid= | id= (?) | post_id= | title= Segredos que a Vida Guarda
-- https://www.facebook.com/share/1CvBLwxDWh/ → url=https://www.facebook.com/p/Hist%C3%B3rias-que-Ningu%C3%A9m-Esquece-61594155721036/ | story_fbid= | id= (?) | post_id= | title=Histórias que Ninguém Esquece
-- https://www.facebook.com/share/1MGkxfw73H/ → url=https://www.facebook.com/p/Lebenswege-61593091482615/ | story_fbid= | id= (?) | post_id= | title=Lebenswege
-- https://www.facebook.com/share/1CG16eqxsJ/ → url=https://www.facebook.com/p/Geschichten-des-Lebens-61592558064466/ | story_fbid= | id= (?) | post_id= | title= Geschichten des Lebens
-- https://www.facebook.com/share/1CKDPCww8b/ → url=https://www.facebook.com/p/Life-Between-Moments-61593175856853/ | story_fbid= | id= (?) | post_id= | title=Life Between Moments
-- https://www.facebook.com/share/19zJgtspvo/ → url=https://www.facebook.com/p/Visages-de-la-Vie-61593250385737/ | story_fbid= | id= (?) | post_id= | title= Visages de la Vie
-- https://www.facebook.com/share/1MUnuYmxau/ → url=https://www.facebook.com/p/Vite-da-Raccontare-61592155259651/ | story_fbid= | id= (?) | post_id= | title=Vite da Raccontare
+- ✅ Конфигурация: 53 стр.: FR 7 · IT 9 · EN 26 · NL 2 · RU 3 · TR 2 · DE 2 · PT 2 (отключено: 7); все 34 страницы из Make на месте
+- ✅ Часы публикаций (Asia/Yerevan): 00:00, 12:00, 15:00, 18:00, 21:00 · расписание ВКЛЮЧЕНО
+- ✅ Секрет FB_APP_ID задан
+- ✅ Секрет FB_APP_SECRET задан
+- ✅ WordPress https://peakproductions.co: ключ Make Connector (WP_API_KEY) задан
+- ✅ Секрет Claude (CLAUDE_CODE_OAUTH_TOKEN или ANTHROPIC_API_KEY) задан
+- ✅ Токены Facebook: расшифрованы, страниц: 59
+- ✅ Facebook: названия отличаются от Make (ID совпадают, это не ошибка): Au Cœur des Vies → сейчас « Au Cœur des Vies»; Le Fil de la Vie → сейчас « Le Fil de la Vie»; Visages de la Vie → сейчас « Visages de la Vie»; Storie Vere | Lion → сейчас «Storie Vere »; Voci di Vita | Paris → сейчас «Voci di Vita»; Racconti Quotidiani | Monaco → сейчас «Racconti Quotidiani »; Vita Virale | Paris → сейчас «Vita Virale»; Moments Français | Paris → сейчас «Moments Français»; The Daily Report → сейчас «    The Daily Report»; Life’s Echo → сейчас «Life's Echo»; Pet Lover → сейчас «Pet Lover »; Sweet Paws #1 → сейчас «Sweet paws»; Sweet Paws #2 → сейчас «Sweet paws»; Love This World → сейчас «Love This World »; Из глубины души → сейчас « Из глубины души
+»; Geschichten des Lebens → сейчас « Geschichten des Lebens»; Segredos que a Vida Guarda → сейчас « Segredos que a Vida Guarda»
+- ✅ WordPress: вход выполнен как «admin»
+- ✅ Claude: отвечает (способ: подписка Max)
+- ✅ Источник историй: найдена следующая история — пока новых нет (опубликуйте историю с фото на любой из страниц или добавьте ссылку в очередь)
+- ❌ Facebook: проблемы со страницами: Amazing — нет токена
 
