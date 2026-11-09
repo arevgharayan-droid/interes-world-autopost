@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
   "2c1881200804eda0b026": "2026-11-01T18:14:02+00:00",
+  "30516d0029d7a2aa8337": "2026-11-09T19:59:12+00:00",
   "3e2f2c99735b21275480": "2026-11-09T13:27:19+00:00",
   "4e1d50075aba4f7e15de": "2026-10-29T16:37:54+00:00",
   "5a1a23c72fc75013e47d": "2026-10-31T10:14:39+00:00",
@@ -2734,7 +2735,50 @@
    }
   },
   "2026-11-10 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My 14-Year-Old Grew His Hair Out for a Classmate Fighting Cancer, but the Next Day I Was Summoned to School Where Her Father Said, \"You Have No Idea What Your Son Did",
+     "warnings": [
+      "длина текста FB 447 слов (исходник 576, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 45,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/892060001_122141650143225301_2140939651042190403_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_jJHPwHeLNwQ7kNvwE68m9s&_nc_oc=AdpG2yOlNb0i752gBVmSILln4eQfSDl5SiHVX47TQfHKsEbeQNRhGBActDHrcj1A2Dg&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=JXwfJ-BXfHenuUz54ufoFg&_nc_tpa=Q5bMBQKdcF_cUxUD-elpAgHodZGaxUTnWIPCNawle8rQS6NYAIaCBZBKaOuJMDp7oxuZWWC1_ekmdC5DnA&oh=00_AQRra28S07w7PZY6km-46TtXnzSR7uwYEWOT9_0KUi8OtQ&oe=6AF7F15C",
@@ -2746,7 +2790,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1200-en.jpg"
    },
    "source_key": "post:61586759032853_122141650209225301",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2870,7 +2914,7 @@
    "origin": "manual",
    "page_id": "61586759032853",
    "slot": "2026-11-10 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587324730850_122143561461244157": {
    "fingerprint": "41b0aed5ae696b79ad95",
