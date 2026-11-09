@@ -1,1 +1,1 @@
-{"id": "wp-diag-2", "cmd": "wp-diagnose", "args": {}}
+{"id": "site-1", "cmd": "site-check", "args": {"url": "https://peakproductions.co"}}
