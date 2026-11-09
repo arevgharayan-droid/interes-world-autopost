@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
   "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
+  "15762788a9c71b2165b1": "2026-11-09T19:59:18+00:00",
   "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
@@ -1790,7 +1791,48 @@
    }
   },
   "2026-11-10 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Je suis allé offrir des fleurs à ma mère adoptive pour ses 60 ans, mais ce que j'ai entendu dans sa cuisine a bouleversé toute ma vie",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 46,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/896978153_122141835201225301_6911952517852491449_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qPfk2Vb-W7kQ7kNvwFgTVVL&_nc_oc=AdrWGGP-rDPcahLDESIWNcXPPy3Y0PkG8scpi1Um7zU5G-czENvEp9y4sT2BiTjKKvo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=BSmisOiqvMNHQlytEI_hGw&_nc_tpa=Q5bMBQJ-08SOeIVkY4zVMN4xwqzoZSIO43VWTINCnlJQEOxHr9hC3HcWWjxoU4rBsY3JVn7cqapk5lyPIQ&oh=00_AQTd-87TtM04NTdHIqyGiUofchTtIiGHQPXyhW81IBAY9A&oe=6AF7DFA2",
@@ -1802,7 +1844,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1200-fr.jpg"
    },
    "source_key": "post:61586759032853_122141835273225301",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -1926,7 +1968,7 @@
    "origin": "manual",
    "page_id": "61586759032853",
    "slot": "2026-11-10 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122146579899348565": {
    "error": "слот пропущен",
