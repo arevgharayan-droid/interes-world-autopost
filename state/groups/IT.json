@@ -7,7 +7,8 @@
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
   "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00",
-  "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00"
+  "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00",
+  "ff177c2141f7f0364278": "2026-11-09T13:24:27+00:00"
  },
  "outputs": {
   "1030877436782212_122138399762808945": "2026-10-29T17:25:54+00:00",
@@ -1584,7 +1585,44 @@
    "status": "no_source"
   },
   "2026-11-09 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il boss più temuto di New York stava preparando una guerra tra clan, quando una bimba di tre anni entrò e gli chiese: \"Posso prenderti in prestito per un giorno?",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 21,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/852160825_122108569227501033_4891376387232030024_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ydZTHJJv7wwQ7kNvwGPixCY&_nc_oc=Adprxjw2FVQ9cPoRBO0JFr4dv4I2csiRXDq_7WEi9gumUPM_Gu8F0U4rWuqk6rLsuMw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ahV5aPibcc8kRIZqIdz0Ig&_nc_tpa=Q5bMBQJmGhIFRkEejcGGOpeUUxpUTwjIz4Nv15Se9SqohL5zA66APjcc8qsfe_Aq57EM4jygYSxoN27lYQ&oh=00_AQS6zTTxOPcNfOMLb58FYw4SRK3PO7ZpiYhZQ8aaD5Mqtg&oe=6AF7A90A",
@@ -1596,7 +1634,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-it.jpg"
    },
    "source_key": "post:61595030999436_122108569407501033",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-09 21:00": {
    "langs": {},
@@ -1708,7 +1746,7 @@
    "origin": "manual",
    "page_id": "61595030999436",
    "slot": "2026-11-09 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140365723225301": {
    "fingerprint": "09158682ef11c459c1e8",

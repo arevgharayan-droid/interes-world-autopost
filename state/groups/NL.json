@@ -904,7 +904,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "633031599904551": {
+       "attempts": 1,
+       "last_attempt": "2026-11-09T17:24:27+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Ik trouwde met een stervende man omdat het zijn laatste wens was, maar na de begrafenis stond zijn advocaat voor mijn deur",
      "warnings": [
       "длина текста FB 400 слов (исходник 480, цель ±10%)"
