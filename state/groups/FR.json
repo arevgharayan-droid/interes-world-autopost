@@ -3,6 +3,7 @@
  "output_fps": {
   "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
   "15762788a9c71b2165b1": "2026-11-09T19:59:18+00:00",
+  "1d9175966e062556cf08": "2026-11-09T20:02:35+00:00",
   "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
   "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
@@ -2213,7 +2214,50 @@
    }
   },
   "2026-11-10 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Quelques heures avant d'annoncer mes fiançailles, quatre fillettes sont entrées dans les toilettes du restaurant : elles avaient les yeux de la femme que j'aimais",
+     "warnings": [
+      "длина текста FB 889 слов (исходник 748, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 81,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/892134299_122130803252893096_3136072222672117577_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sbV_v4X3l7sQ7kNvwHUYnF-&_nc_oc=AdpcM9UW3M2xN4WZ2J4SJYeedl0L4nimJGyc2AP0PZKZYm68yWx6Ailv0BTRLTsF0Rk&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=R0yEhXXI5X5msDuRpfx4eQ&_nc_tpa=Q5bMBQIwN6F_cs4boDuId8EIwr1sG3seJxad2LdOQ0f-Iwjo_-69wAg3nfKfvwwHpOGM9PxUc5-hdps_Ug&oh=00_AQQJ720kYZsuZhz9LY-bXEgLji7TvMTr-KSTI_-p9nb_6A&oe=6AF811B4",
@@ -2225,7 +2269,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-fr.jpg"
    },
    "source_key": "post:61576792898556_122130803336893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2342,7 +2386,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-10 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586759032853_122141835273225301": {
    "fingerprint": "c5d2f7be97c376b3095e",
