@@ -2466,12 +2466,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122138232434776189_1349788483791260",
        "error": null,
        "last_attempt": "2026-11-09T17:26:12+04:00",
        "mode": "schedule",
        "photo_id": "122138232398776189",
        "post_id": "994273113779575_122138232434776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Single Dad, 29, Fights to Adopt 5 Siblings Under 7 So They Won't Be Separated, and the Judge Breaks Down When He Hears Why",
@@ -2518,7 +2519,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261109-2100-en2.jpg"
    },
    "source_key": "post:61593721215501_122125242561457373",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
