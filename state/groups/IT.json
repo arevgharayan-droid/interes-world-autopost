@@ -5,6 +5,7 @@
   "24ef5b43174759b5cb24": "2026-10-29T20:16:50+00:00",
   "27cf43d3866fe7568230": "2026-10-29T20:24:35+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
+  "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
   "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
@@ -2254,7 +2255,48 @@
    }
   },
   "2026-11-10 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Una bambina di sette anni sussurrò al boss più temuto della città che sotto la sua scrivania c'era un registratore nascosto dalla donna che stava per sposare",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 67,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/886376363_1658479535648667_5916186952827376573_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3-GiIVqfi8MQ7kNvwF8MYWq&_nc_oc=AdoddNuWyS48Q04uqgdcxPu7mdqAekLpLrCvEdxSWTDJk5a3cbhLajQVuQJH815d2ME&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=G7z94m6jOVSlRhhMhez8xg&_nc_tpa=Q5bMBQJdjp6twUUzY8dF9kcRQBlVE7Ve-Qdu7nOb55ZiqknDYDT72ohBdhjapzJEzujQ7uLQAJ-seyPHDg&oh=00_AQRALJ5P_0Yf9eViCx7ZLxqurMSMymXU7UxGCc2LiusDag&oe=6AF810CD",
@@ -2266,7 +2308,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1500-it.jpg"
    },
    "source_key": "post:100044599086455_1658995595597061",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2345,7 +2387,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698682471650445": {
    "fingerprint": "805fb8b83171cdb61fb9",
