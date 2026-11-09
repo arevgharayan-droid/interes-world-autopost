@@ -11,6 +11,7 @@
   "887a17b48cf1dabf9df6": "2026-10-29T20:16:49+00:00",
   "8f759366031b2b8b0675": "2026-11-01T10:36:39+00:00",
   "b017c47f212a67b357c4": "2026-10-29T20:24:31+00:00",
+  "cad5cdd2ed73c48ea1dc": "2026-11-09T20:01:56+00:00",
   "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
   "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00"
  },
@@ -3136,7 +3137,48 @@
    }
   },
   "2026-11-10 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Boss Asked Me to Take His Daughter to Prom, but Before We Got Out of the Car She Whispered a Secret",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 74,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/886167301_122123421705447073_4247297022230156915_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jTpZ7wvjNJsQ7kNvwGftGSV&_nc_oc=Adquqx5dOp05kjLwGfuo7AjuZ-YqYQc8qabrdnB3kjxEx_ehbZmp7uOapWD7BbJrSF4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=f8f3l-akyApTM7zd1XqWbw&_nc_tpa=Q5bMBQJIFPk2XAnWQLbY6mmAvqqZq8xUFKmjJA6zKso6JlzENoDqJGkRVb96d_oKoFfclhYRyjEJPhENEA&oh=00_AQRCZPt4EXdFcZDCWMO0xXvUvIjBQ4LRB9NjG5Kktef3RA&oe=6AF7EA3E",
@@ -3148,7 +3190,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1800-en.jpg"
    },
    "source_key": "post:61593412202747_122123421777447073",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3303,7 +3345,7 @@
    "origin": "manual",
    "page_id": "61593412202747",
    "slot": "2026-11-10 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61593721215501_122125458423457373": {
    "fingerprint": "45e0187d2720719ce554",
