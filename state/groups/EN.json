@@ -11,6 +11,7 @@
   "887a17b48cf1dabf9df6": "2026-10-29T20:16:49+00:00",
   "8f759366031b2b8b0675": "2026-11-01T10:36:39+00:00",
   "b017c47f212a67b357c4": "2026-10-29T20:24:31+00:00",
+  "b49b03bb1b007b0a80de": "2026-11-09T20:02:56+00:00",
   "cad5cdd2ed73c48ea1dc": "2026-11-09T20:01:56+00:00",
   "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
   "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00"
@@ -3336,7 +3337,50 @@
    }
   },
   "2026-11-10 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "She Left Me With Our Three Blind Baby Girls, but 18 Years Later She Showed Up at Their Graduation in Diamonds",
+     "warnings": [
+      "длина статьи 979 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 84,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/886293169_122130239432893096_3576880348293364531_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BmcjNHOIf9MQ7kNvwH8GEcn&_nc_oc=AdrqX4SSq9YCty0fdPsPz-L39BEk225c2h3cAHROLp4s76yNRPN12wh2azs2-WLk9Ug&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2J48t3DDscCEJNbJmMSx-Q&_nc_tpa=Q5bMBQKSvZJwakXskPMhcsGKdpYbo9ZD6lAD_4bvKmlbrky2DNWmvRy4IAuQg49LvPCPUoAk24T8EBpyrw&oh=00_AQRrsZt2oJaC9OJrISz3jLmNeQu8Jy4qGhNqHm7GDs6f8A&oe=6AF7DE37",
@@ -3348,7 +3392,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-en.jpg"
    },
    "source_key": "post:61576792898556_122130239486893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3457,7 +3501,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-10 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
