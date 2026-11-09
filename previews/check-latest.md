@@ -4,12 +4,14 @@
 - ✅ Часы публикаций (Asia/Yerevan): 00:00, 12:00, 15:00, 18:00, 21:00 · расписание ВКЛЮЧЕНО
 - ✅ Секрет FB_APP_ID задан
 - ✅ Секрет FB_APP_SECRET задан
-- ✅ WordPress https://peakproductions.co: ключ Make Connector (WP_API_KEY) задан
+- ✅ WordPress https://peakproductions.co (RU+TR+PT): ключ Make Connector (WP_API_KEY) задан
 - ✅ Секрет Claude (CLAUDE_CODE_OAUTH_TOKEN или ANTHROPIC_API_KEY) задан
 - ✅ Токены Facebook: расшифрованы, страниц: 59
 - ✅ Facebook: названия отличаются от Make (ID совпадают, это не ошибка): Au Cœur des Vies → сейчас « Au Cœur des Vies»; Le Fil de la Vie → сейчас « Le Fil de la Vie»; Visages de la Vie → сейчас « Visages de la Vie»; Storie Vere | Lion → сейчас «Storie Vere »; Voci di Vita | Paris → сейчас «Voci di Vita»; Racconti Quotidiani | Monaco → сейчас «Racconti Quotidiani »; Vita Virale | Paris → сейчас «Vita Virale»; Moments Français | Paris → сейчас «Moments Français»; The Daily Report → сейчас «    The Daily Report»; Life’s Echo → сейчас «Life's Echo»; Pet Lover → сейчас «Pet Lover »; Sweet Paws #1 → сейчас «Sweet paws»; Sweet Paws #2 → сейчас «Sweet paws»; Love This World → сейчас «Love This World »; Из глубины души → сейчас « Из глубины души
 »; Geschichten des Lebens → сейчас « Geschichten des Lebens»; Segredos que a Vida Guarda → сейчас « Segredos que a Vida Guarda»
-- ✅ WordPress: вход выполнен как «admin»
+- ✅ WordPress peakproductions.co: вход выполнен как «admin»
 - ✅ Claude: отвечает (способ: подписка Max)
 - ✅ Источник историй: найдена следующая история — пока новых нет (опубликуйте историю с фото на любой из страниц или добавьте ссылку в очередь)
+- ❌ WordPress https://hetaqrqir.com (FR, IT, EN-1, EN-2, NL+DE): ключ Make Connector (WP_API_KEY_HETAQRQIR) НЕ задан
 - ❌ Facebook: проблемы со страницами: Amazing — нет токена
+- ❌ WordPress hetaqrqir.com: GET users/me: You are not currently logged in. — хостинг, похоже, вырезает заголовок авторизации. Решение: секрет WP_API_KEY_HETAQRQIR с ключом плагина Make Connector (WordPress → Make → API Key).
