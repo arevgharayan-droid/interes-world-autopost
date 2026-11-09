@@ -1368,7 +1368,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-09T17:24:37+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Quatre garçons de six ans avec mon visage sont entrés dans les toilettes, quelques heures avant ma demande en mariage",
      "warnings": [
       "длина текста FB 609 слов (исходник 524, цель ±10%)",
