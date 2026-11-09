@@ -2451,6 +2451,8 @@
      },
      "title": "Single Dad, 29, Fights to Adopt 5 Siblings Under 7 So They Won't Be Separated, and the Judge Breaks Down When He Hears Why",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 17,
      "wp_status": "future"
     },
     "FR": {
@@ -2466,7 +2468,8 @@
      "skipped": "нет подключённых страниц"
     },
     "PT": {
-     "pages": {}
+     "pages": {},
+     "skipped": "нет подключённых страниц"
     },
     "RU": {
      "pages": {},
@@ -2477,7 +2480,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-09T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/884348728_122125208535457373_7410451978177566136_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CuxcPsWMnXwQ7kNvwGFpR2G&_nc_oc=AdrAyRs5VPmcwZ88HT8QlAYzodylua7JderJ6PB_ynsAoxgXvrerQ7wEfH7uAj2l1WI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xbfttHgAhFrVpb-Urgo3nA&_nc_tpa=Q5bMBQIEh8H4fnjM9S_WL2ev2i4xT6aCpI_V6y-C1QhMN2L9PgWJHxwGDu5xjx__UZo7zaCEl1npiMYGmg&oh=00_AQRVf6He1CE1t3e6zKC0RxpY8cILR6MsKW_aBIBV8j_T7Q&oe=6AF7A4F6",
@@ -2489,7 +2492,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261109-2100-en2.jpg"
    },
    "source_key": "post:61593721215501_122125242561457373",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

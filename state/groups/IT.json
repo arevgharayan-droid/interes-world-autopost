@@ -1883,6 +1883,8 @@
      },
      "title": "Il miliardario ha controllato le telecamere a 5.000 chilometri di distanza e si è gelato vedendo la domestica addormentata sul pavimento della cameretta",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 18,
      "wp_status": "future"
     },
     "NL": {
@@ -1890,7 +1892,8 @@
      "skipped": "нет подключённых страниц"
     },
     "PT": {
-     "pages": {}
+     "pages": {},
+     "skipped": "нет подключённых страниц"
     },
     "RU": {
      "pages": {},
@@ -1901,7 +1904,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-09T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/865677302_122145773757178982_6763215209659231952_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Nwl0M-ik6HAQ7kNvwG24VY3&_nc_oc=AdqknMV-r-gLoZZwhBYbk_eRpSDtph6-sImQB8r81rYY_bGIvvnoQSy7ya3qljxgqJ4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=CpPVnzeDfNWgE5HVsSBNyA&_nc_tpa=Q5bMBQL_MPJgqEF_doOt5_5xH_SDcFtNkWvWy06CfIEP3rDvIzLLkDeJqPZGgfZfYFRM6vzFIKNGHhJIJg&oh=00_AQQLPyJ0E8FKNeSDzaOwsl6zPIROwajhJ2B7ePJKmsc7PA&oe=6AF7B1DA",
@@ -1913,7 +1916,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261109-2100-it.jpg"
    },
    "source_key": "post:61585369480106_122145778227178982",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

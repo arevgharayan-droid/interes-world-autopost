@@ -609,3 +609,5 @@
 {"slot": "2026-11-09 21:00", "lang": "EN", "action": "wp_post", "id": 14, "status": "future", "t": "2026-11-09T15:59:22+00:00", "group": "EN"}
 {"slot": "2026-11-09 21:00", "action": "wp_media", "id": 15, "t": "2026-11-09T15:59:25+00:00", "group": "EN2"}
 {"slot": "2026-11-09 21:00", "action": "wp_media", "id": 16, "t": "2026-11-09T15:59:26+00:00", "group": "IT"}
+{"slot": "2026-11-09 21:00", "lang": "EN", "action": "wp_post", "id": 17, "status": "future", "t": "2026-11-09T15:59:26+00:00", "group": "EN2"}
+{"slot": "2026-11-09 21:00", "lang": "IT", "action": "wp_post", "id": 18, "status": "future", "t": "2026-11-09T15:59:26+00:00", "group": "IT"}
