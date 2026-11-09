@@ -1,1 +1,1 @@
-{"id": "check-2sites", "cmd": "check", "args": {}}
+{"id": "diag-2sites-b", "cmd": "wp-diagnose", "args": {}}
