@@ -1603,6 +1603,8 @@
       "длина текста FB 648 слов (исходник 548, цель ±10%)",
       "длина статьи 1050 слов"
      ],
+     "wp_error": null,
+     "wp_id": 13,
      "wp_status": "future"
     },
     "IT": {
@@ -1614,7 +1616,8 @@
      "skipped": "нет подключённых страниц"
     },
     "PT": {
-     "pages": {}
+     "pages": {},
+     "skipped": "нет подключённых страниц"
     },
     "RU": {
      "pages": {},
@@ -1625,17 +1628,19 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-09T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/886262064_122125210545457373_6746218032651221128_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aPtNXZzjd0sQ7kNvwFnzr3l&_nc_oc=Adp1xK3J5w9FbeyMIitKB5nW62kFCAo2KmV7rBV4nyy6dhKG7hPvL8QBhsKDWY9n18Q&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=g_HjK8o7VDY05KCK8pDOKw&_nc_tpa=Q5bMBQIU8TKTmINSMbkbBO-p-UYcImX9tgbI5KO-2NmOwQnleT8SgiBZf8DQZ63xKFxEFubQm0WxyxCrRw&oh=00_AQQob-epOzMqcKjf_HN4XHYAMynEauOs5DGdppi4UpnIjQ&oe=6AF78674",
     "link": "https://www.facebook.com/share/p/1Bx7o7GVXq/",
     "origin": "manual",
     "page_id": "61593721215501",
-    "text": "I married my first love after 45 years apart to fulfill her dying wish — after she died, her son handed me an envelope and said, \"You don't know the whole truth about Mom. She left this for you.\"\n\nI'm the pastor of a local church, and several times a week, I visit the hospital to spend time with terminally ill patients. Recently, I learned that a new patient had been admitted — a woman with stage-four cancer.\n\nI decided to go meet her too.\n\nAnd when I walked into her hospital room, my heart nearly stopped.\n\nI immediately recognized the woman lying in the hospital bed.\n\nIt was Margaret.\n\nThe girl I had loved in high school, the girl I had gone to prom with. Then we left for different colleges, and somehow 45 years passed.\n\nI couldn't believe my eyes.\n\n\"Margaret?\"\n\nThe woman in the bed looked up, squinted as she studied my face, and suddenly burst out laughing.\n\n\"Wow! Tommy? Is that you? This can't be real!\"\n\nI started visiting Margaret every day.\n\nWe would talk for hours, remembering our school years. Even with IV lines in her arms, she never lost her sense of humor.\n\nThat was Margaret.\n\nShe had always smiled, even when everything around her was unbearable.\n\nThen one day, she told me the doctors had given her only a week to live.\n\nI couldn't say a word. I had a lump in my throat.\n\nBut Margaret just squeezed my hand tightly.\n\n\"Oh, don't look so sad, Tommy! Remember how you promised to marry me when we were seventeen?\"\n\nI nodded, holding back tears.\n\n\"Well, you're forty-five years late, mister. How about we finally do it?\"\n\nI laughed through my tears.\n\n\"Margaret, are you joking? You want us to get married?\"\n\nShe smiled and said:\n\n\"Yes. It would mean everything to me. Maybe it sounds strange, but Tommy, I would really love that. Would you do that for me?\"\n\nAnd I agreed.\n\nI agreed because I remembered those wonderful days when we were together. I remembered how happy I had been with her.\n\nThree days later, we got married right there in her hospital room.\n\nI wore the same suit I wear to church because I didn't have another one, and I quickly bought two simple wedding bands at a flea market.\n\nMargaret's ring had a pink heart on it because there was hardly anything else to choose from. She laughed so hard when she saw it and said it was her favorite ring in the world.\n\nFor a few precious days, I was her husband.\n\nFive days later, Margaret was gone.\n\nMy heart was broken, but I was grateful that I had found her again.\n\nAfter the funeral, I was standing outside the church when her son approached me.\n\nHe looked nervous. In his hands, he was holding a sealed envelope.\n\n\"Tom, there's something you need to know.\"\n\nThen he handed me the envelope.\n\n\"You don't know the whole truth about Mom. She left this for you and asked me to give it to you only after she was gone.\"\n\nI opened the envelope, unfolded the piece of paper inside, and read the first line.\n\nMy knees nearly gave out"
+    "text": "I married my first love after 45 years apart to fulfill her dying wish — after she died, her son handed me an envelope and said, \"You don't know the whole truth about Mom. She left this for you.\"\n\nI'm the pastor of a local church, and several times a week, I visit the hospital to spend time with terminally ill patients. Recently, I learned that a new patient had been admitted — a woman with stage-four cancer.\n\nI decided to go meet her too.\n\nAnd when I walked into her hospital room, my heart nearly stopped.\n\nI immediately recognized the woman lying in the hospital bed.\n\nIt was Margaret.\n\nThe girl I had loved in high school, the girl I had gone to prom with. Then we left for different colleges, and somehow 45 years passed.\n\nI couldn't believe my eyes.\n\n\"Margaret?\"\n\nThe woman in the bed looked up, squinted as she studied my face, and suddenly burst out laughing.\n\n\"Wow! Tommy? Is that you? This can't be real!\"\n\nI started visiting Margaret every day.\n\nWe would talk for hours, remembering our school years. Even with IV lines in her arms, she never lost her sense of humor.\n\nThat was Margaret.\n\nShe had always smiled, even when everything around her was unbearable.\n\nThen one day, she told me the doctors had given her only a week to live.\n\nI couldn't say a word. I had a lump in my throat.\n\nBut Margaret just squeezed my hand tightly.\n\n\"Oh, don't look so sad, Tommy! Remember how you promised to marry me when we were seventeen?\"\n\nI nodded, holding back tears.\n\n\"Well, you're forty-five years late, mister. How about we finally do it?\"\n\nI laughed through my tears.\n\n\"Margaret, are you joking? You want us to get married?\"\n\nShe smiled and said:\n\n\"Yes. It would mean everything to me. Maybe it sounds strange, but Tommy, I would really love that. Would you do that for me?\"\n\nAnd I agreed.\n\nI agreed because I remembered those wonderful days when we were together. I remembered how happy I had been with her.\n\nThree days later, we got married right there in her hospital room.\n\nI wore the same suit I wear to church because I didn't have another one, and I quickly bought two simple wedding bands at a flea market.\n\nMargaret's ring had a pink heart on it because there was hardly anything else to choose from. She laughed so hard when she saw it and said it was her favorite ring in the world.\n\nFor a few precious days, I was her husband.\n\nFive days later, Margaret was gone.\n\nMy heart was broken, but I was grateful that I had found her again.\n\nAfter the funeral, I was standing outside the church when her son approached me.\n\nHe looked nervous. In his hands, he was holding a sealed envelope.\n\n\"Tom, there's something you need to know.\"\n\nThen he handed me the envelope.\n\n\"You don't know the whole truth about Mom. She left this for you and asked me to give it to you only after she was gone.\"\n\nI opened the envelope, unfolded the piece of paper inside, and read the first line.\n\nMy knees nearly gave out",
+    "wp_media_id": 11,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261109-2100-fr.jpg"
    },
    "source_key": "post:61593721215501_122125210629457373",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
