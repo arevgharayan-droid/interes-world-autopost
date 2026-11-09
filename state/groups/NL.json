@@ -1096,6 +1096,9 @@
      "wp_id": 43,
      "wp_status": "future"
     },
+    "PT": {
+     "pages": {}
+    },
     "RU": {
      "pages": {},
      "skipped": "нет подключённых страниц"
