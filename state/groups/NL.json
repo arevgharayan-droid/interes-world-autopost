@@ -9,9 +9,11 @@
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
   "88fe935e5a83ce556184": "2026-11-09T19:59:42+00:00",
+  "8df4cd808be1716777ea": "2026-11-09T20:02:27+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
   "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
   "ba5124bf926776f201e6": "2026-11-09T13:25:52+00:00",
+  "caa9ee0aac3ceacdcbc5": "2026-11-09T20:02:27+00:00",
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "ec07586e4e7c5fa4e396": "2026-11-01T10:36:58+00:00",
   "f3c8eaafc0e1dc9038f5": "2026-11-09T13:26:40+00:00",
@@ -1443,7 +1445,55 @@
    }
   },
   "2026-11-10 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Um Mitternacht schlich meine Schwiegermutter in mein Zimmer und versteckte etwas in meinem Koffer – doch meine Kamera filmte alles",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 80,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn schoonmoeder stopte midden in de nacht een pistool in mijn koffer, maar ze wist niet dat mijn camera alles filmde",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 78,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/871363656_122122878111447073_2750192360633263762_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=N2PR0jhbFGQQ7kNvwG92Xfk&_nc_oc=AdowU86MIl7XYLabGS9GtGu8wZr2d4y3e4Dk8rb7jt6AhCwl3MgNLg7CS5taAOIFIPo&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=nISGGgFmbqim4kmDkHj6qw&_nc_tpa=Q5bMBQIHbd35HDcULwqzuf9W4Q52DYh8TTy2tC9YpP-jMd4Gr8kX6pBnNoUpcD9CJulPr8o02Yk9Veb81w&oh=00_AQT3bnxU6Y8elA2_B3HUVUrp_kK_Csnz2uqFLFvJKkOelA&oe=6AF7DF3A",
@@ -1455,7 +1505,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1800-nl.jpg"
    },
    "source_key": "post:61593412202747_122122878261447073",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -1610,7 +1660,7 @@
    "origin": "manual",
    "page_id": "61593412202747",
    "slot": "2026-11-10 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61593721215501_122125386465457373": {
    "fingerprint": "584c6d3d1023a2602553",

@@ -3338,7 +3338,23 @@
   "2026-11-10 21:00": {
    "langs": {},
    "slot_iso": "2026-11-10T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/886293169_122130239432893096_3576880348293364531_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BmcjNHOIf9MQ7kNvwH8GEcn&_nc_oc=AdrqX4SSq9YCty0fdPsPz-L39BEk225c2h3cAHROLp4s76yNRPN12wh2azs2-WLk9Ug&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2J48t3DDscCEJNbJmMSx-Q&_nc_tpa=Q5bMBQKSvZJwakXskPMhcsGKdpYbo9ZD6lAD_4bvKmlbrky2DNWmvRy4IAuQg49LvPCPUoAk24T8EBpyrw&oh=00_AQRrsZt2oJaC9OJrISz3jLmNeQu8Jy4qGhNqHm7GDs6f8A&oe=6AF7DE37",
+    "link": "https://www.facebook.com/share/p/19XtvV5Qj5/",
+    "origin": "manual",
+    "page_id": "61576792898556",
+    "text": "My wife abandoned me with our 3 blind baby girls because she wanted a better life. For 18 years, I raised them alone. Then, on their graduation day, she suddenly appeared wearing diamonds and offering to pay for their college education. But when one of my daughters stepped onto the stage, she said something I never expected — and I soon discovered that my wife's sudden return was hiding a secret of its own.\nMy name is Samuel. Eighteen years ago, my wife, Audrey, and I welcomed triplets into the world.\nMara, June, and Callie were born nearly 3 months prematurely. They spent months in intensive care, and despite the doctors' efforts, all 3 suffered permanent vision loss.\nI was terrified of the challenges ahead, but I loved my daughters more than anything.\nAudrey felt differently.\nOne night, just weeks after we brought our babies home, I woke to the sound of a suitcase zipper.\n\"\"Audrey? What are you doing?\"\"\n\"\"I'm leaving, Samuel. I'm only 27. I deserve a life of my own. I can't spend the rest of my life taking care of 3 blind children.\"\"\nI begged her to reconsider.\nBut before sunrise, she walked out, leaving me alone with our 3 little girls.\nA few months later, I learned she'd been seeing a wealthy businessman.\nShe had chosen another life.\nAnd I had chosen my daughters.\nFor 18 years, I worked long hours to support them. I learned braille, helped them become independent, braided their hair, and attended every school performance.\nThere were nights when I barely slept and mornings when I worried about paying the bills.\nBut I never regretted staying.\nEventually, all 3 girls earned places in college.\nOn graduation day, I stood among hundreds of proud parents, overwhelmed with happiness.\nThen I heard a familiar voice behind me.\n\"\"Samuel?\"\"\nI turned around and froze.\nAudrey.\nShe stood there in an expensive dress, sparkling diamond earrings, and a designer handbag.\nAfter 18 years of silence, she had suddenly returned.\n\"\"My beautiful girls!\"\" she exclaimed. \"\"I've missed so much, but I can finally give you the life you deserve. I have money now. I can pay for college and give you opportunities your father could never afford.\"\"\nMy heart sank.\nShe hadn't even apologized before suggesting that everything I'd done wasn't enough.\nJune's expression hardened.\n\"\"Dad gave us everything we needed.\"\"\nAudrey laughed awkwardly.\n\"\"Of course, sweetheart. I'm just saying I can give you more.\"\"\nBefore I could respond, Mara gently squeezed my hand.\n\"\"Dad, the ceremony is starting. We'll talk afterward.\"\"\nMinutes later, Mara stepped onto the stage to deliver her graduation speech.\nShe had rehearsed it for weeks, and I knew almost every word.\nBut when she reached the microphone, something changed.\nShe took a deep breath, turned toward the audience, and began speaking.\nThose weren't the words she'd practiced.\n\nThe story is too long to post in the caption, so just say \"Yes\". The\nfull story will be in the comments below.👇",
+    "wp_media_id": 79,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-en.jpg"
+   },
+   "source_key": "post:61576792898556_122130239486893096",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-10-29T16:37:24+00:00",
@@ -3434,6 +3450,14 @@
    "page_id": "61573369523860",
    "slot": "2026-11-10 00:00",
    "status": "used"
+  },
+  "post:61576792898556_122130239486893096": {
+   "fingerprint": "fb840fbe5da96c29997c",
+   "link": "https://www.facebook.com/share/p/19XtvV5Qj5/",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-10 21:00",
+   "status": "reserved"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
