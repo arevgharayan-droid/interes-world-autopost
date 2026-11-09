@@ -1,11 +1,17 @@
-## Проверка сайта https://hetaqrqir.com
+## Диагностика WordPress
 
-- /wp-json/: HTTP 200 · application/json; charset=UTF-8 · сайт «hetaqrqir.com» · namespaces: oembed/1.0, hostinger-easy-onboarding/v1, litespeed/v1, litespeed/v3, v1, hostinger-amplitude/v1, hostinger-reach/v1, hostinger-tools-plugin/v1, google-site-kit/v1, ad-inserter/v1, wp/v2, wp-site-health/v1, wp-block-editor/v1, wp-abilities/v1 · auth: application-passwords · '{"name":"hetaqrqir.com","description":"","url":"https:\\/\\/hetaqrqir.com","home":"https:\\/\\/hetaqrqir.com","gmt_offset":"'
-- /wp-json/wp/v2/users/me: HTTP 401 · application/json; charset=UTF-8 · '{"code":"rest_not_logged_in","message":"You are not currently logged in.","data":{"status":401}}'
-- /wp-json/wp/v2/posts?per_page=1: HTTP 200 · application/json; charset=UTF-8 · '[{"id":1,"date":"2026-11-06T08:49:49","date_gmt":"2026-11-06T08:49:49","guid":{"rendered":"http:\\/\\/hetaqrqir.com\\/?p=1"'
-- /?rest_route=/: HTTP 200 · application/json; charset=UTF-8 · '{"name":"hetaqrqir.com","description":"","url":"https:\\/\\/hetaqrqir.com","home":"https:\\/\\/hetaqrqir.com","gmt_offset":"'
-- авторизация (пробный несуществующий логин): HTTP 401 · rest_not_logged_in
-- авторизация (секреты WP_USER + WP_APP_PASSWORD): HTTP 401 · rest_not_logged_in
 
-Расшифровка: invalid_username — такого логина на сайте нет; incorrect_password — пароль приложения неверный; rest_not_logged_in — заголовок авторизации не доходит до WordPress.
+### https://hetaqrqir.com (FR, IT, EN-1, EN-2, NL+DE)
+
+- ❌ users/me: WordPressError: GET users/me: You are not currently logged in.
+- ✅ медиа multipart (сырой ответ): HTTP 401 ct=application/json; charset=UTF-8 body={"code":"rest_cannot_create","message":"Sorry, you are not allowed to create posts as this user.","data":{"status":401}}
+- ✅ медиа multipart + title (сырой ответ): HTTP 401 body={"code":"rest_cannot_create","message":"Sorry, you are not allowed to create posts as this user.","data":{"status":401}}
+- ✅ найти и удалить тестовые медиа: найдено и удалено: []
+
+### https://peakproductions.co (RU+TR+PT)
+
+- ✅ users/me: admin
+- ✅ медиа multipart (сырой ответ): HTTP 200 ct=application/json; charset=utf-8 body={"filesize":22,"ID":63,"post_author":"1","post_date":"2026-11-09 15:47:45","post_date_gmt":"2026-11-09 15:47:45","post_content":"","post_title":"autopost-test.jpg","post_excerpt":"","post_status":"inherit","comment_status":"open","ping_status":"closed","post_password":"","post_name":"autopost-test-jpg","to_ping":"","pinged":"","post_modified":"2026-11-09 15:47:45","post_modified_gmt":"2026-11-09 1
+- ✅ медиа multipart + title (сырой ответ): HTTP 200 body={"filesize":22,"ID":64,"post_author":"1","post_date":"2026-11-09 15:47:45","post_date_gmt":"2026-11-09 15:47:45","post_content":"","post_title":"autopost test","post_excerpt":"","post_status":"inherit","comment_status":"open","ping_status":"closed","post_password":"","post_name":"autopost-test","to_ping":"","pinged":"","post_modified":"2026-11-09 15:47:45","post_modified_gmt":"2026-11-09 15:47:45"
+- ✅ найти и удалить тестовые медиа: найдено и удалено: [63, 64]
 
