@@ -221,7 +221,7 @@
        "mode": "schedule",
        "photo_id": "122127131901311884",
        "post_id": "1129620776897151_122127131931311884",
-       "status": "scheduled"
+       "status": "cancelled"
       },
       "1164575726728296": {
        "attempts": 1,
@@ -230,13 +230,14 @@
        "mode": "schedule",
        "photo_id": "122126340951307134",
        "post_id": "1164575726728296_122126340981307134",
-       "status": "scheduled"
+       "status": "cancelled"
       }
      },
      "title": "Küçük Kız Korkulan Mafya Babasından Ayakkabılarını Geri Getirmesini İstedi, Onu Eve Bıraktığında Dedesi Yüzüne Bakıp Donup Kaldı",
      "warnings": [
       "длина текста FB 547 слов (исходник 745, цель ±10%)"
      ],
+     "wp_cancelled": true,
      "wp_error": null,
      "wp_id": 53,
      "wp_status": "future"
@@ -254,7 +255,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-0000-tr.jpg"
    },
    "source_key": "post:61573369523860_122139580178778984",
-   "status": "in_progress",
+   "status": "cancelled",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "url": "https://peakproductions.co",
