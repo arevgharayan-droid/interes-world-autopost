@@ -4,6 +4,7 @@
   "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
   "15762788a9c71b2165b1": "2026-11-09T19:59:18+00:00",
   "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
+  "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
   "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
@@ -2072,7 +2073,48 @@
    }
   },
   "2026-11-10 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle gagne 73 millions de dollars avec un ticket à 2 dollars, et son mari la chasse de leur maison le lendemain devant sa maîtresse",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 72,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/895025449_122124393243447073_6765689931162416089_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=alapAAn0wlIQ7kNvwFnQQu_&_nc_oc=AdrJxgZxGbj83XKC0JPbKLEGqP6KBCjAMMaSx8IbLQj9a4IqMLEsM1JxLp4eD0c9kBg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=87wDeVjiDqJPj0k8WVVA5A&_nc_tpa=Q5bMBQKJnJK7R8fyfzj2WWWc5NjM5LBqxkkmn-LWx3TO5MY-CM34NxNJu8p7UenxMgF8kJ3dpskWkUO3YQ&oh=00_AQTnFhlj6cUxwiH-M6FXbqubrZbq4yxN0QjifmEz6BswWw&oe=6AF7F92F",
@@ -2084,7 +2126,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1800-fr.jpg"
    },
    "source_key": "post:61593412202747_122124393321447073",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2231,7 +2273,7 @@
    "origin": "manual",
    "page_id": "61593412202747",
    "slot": "2026-11-10 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61593721215501_122125210629457373": {
    "fingerprint": "6b6b463357e8317c8bd7",
