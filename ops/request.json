@@ -1,1 +1,1 @@
-{"id": "peak-schedule-on", "cmd": "set-schedule", "args": {"mode": "on"}}
+{"id": "tr-check-1", "cmd": "check", "args": {}}
