@@ -2197,12 +2197,13 @@
       "530022363528890": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122175173600720509_1965353298235239",
        "error": null,
        "last_attempt": "2026-11-09T17:24:37+04:00",
        "mode": "schedule",
        "photo_id": "122175173570720509",
        "post_id": "530022363528890_122175173600720509",
-       "status": "published"
+       "status": "done"
       },
       "625664190627160": {
        "attempts": 1,
