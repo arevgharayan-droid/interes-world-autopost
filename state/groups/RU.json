@@ -13,17 +13,20 @@
   "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
   "6ad19445c3c2f9ca584e": "2026-11-09T20:00:50+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
+  "78229d059b1f03d27989": "2026-11-09T20:08:16+00:00",
   "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
   "8d212afd28041fbd462e": "2026-11-09T20:00:50+00:00",
   "8d9c5dde4968ee4bd37e": "2026-11-09T20:03:21+00:00",
   "8e4386a701b76151555b": "2026-11-01T18:14:18+00:00",
   "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
+  "950641cc5f0ddd9580f6": "2026-11-09T20:08:16+00:00",
   "959c0a3855f5dc48d671": "2026-11-09T20:03:21+00:00",
   "9f68477819cc7f2b978d": "2026-11-09T20:02:09+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00",
+  "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
   "e19af41ca961271a3c24": "2026-11-01T14:04:10+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
   "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00"
@@ -2115,7 +2118,67 @@
    }
   },
   "2026-11-11 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ele entrou na casa secreta que comprei após o divórcio com a nova esposa e um caminhão de mudança, mas a pessoa que ligou para mim naquele momento era quem mais doía",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 96,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Бывший муж с новой женой въехали в мой тайный дом через 11 дней после покупки, а код от замка им дал тот, кому я доверяла",
+     "warnings": [
+      "длина текста FB 1235 слов (исходник 1460, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 94,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Boşandıktan Sonra Gizlice Aldığı Eve Eski Kocası Yeni Karısıyla Kamyonla Geldi, Kapıyı da Şifreyle Açtı",
+     "warnings": [
+      "длина текста FB 1029 слов (исходник 1460, цель ±10%)",
+      "длина статьи 589 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 95,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/893429414_1663568718479876_8160857136193949239_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WFgErnDE0ukQ7kNvwHuM7W_&_nc_oc=Adp-Aa4Yw-K0UiyUTQneNAjHyLxblUOprw1D5lB-jW-VxL8CEx6RhjzM3rS_MncMc9o&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=vi-30NZt_TprvFtiIxbLLg&_nc_tpa=Q5bMBQIlCDjqb8Lv3CXllvqO2W9CVlVfK7XcfP8C4ykKk6DnDArWg3-J_pgUrIFbT4LLcu6aD5SwoWWvHw&oh=00_AQToPmRro0z5e-ROUYAOhroiVbvc_yz5q4a9EnZr6vYY4Q&oe=6AF7F715",
@@ -2127,7 +2190,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-0000-ru.jpg"
    },
    "source_key": "post:100044802900629_1663568758479872",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2204,7 +2267,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-11 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699103431608349": {
    "fingerprint": "72333163c518fa427e98",
