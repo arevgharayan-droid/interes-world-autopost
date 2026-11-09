@@ -3575,7 +3575,10 @@
      "generated": true,
      "pages": {},
      "title": "My Boss Asked Me to Take His Daughter to Prom and Promised a Reward, Then She Looked Me in the Eyes and Said He Didn't Choose Me by Accident",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 93,
+     "wp_status": "future"
     },
     "FR": {
      "pages": {},
@@ -3602,6 +3605,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-11T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/888620121_1661903451979736_4575402634820881517_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jhgYiMMfDooQ7kNvwETjCqi&_nc_oc=Adqz_s5OpvbilrBfVWv5wMjBFgH48x-KItYWtAijuFj_6T4wd0hWBiiluNBpfZGjRTY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=SyhxKOXtER4jkl3jou0AOw&_nc_tpa=Q5bMBQKAJmciOGFo4UU8fuMtiDobn0sNoUBz-darhsBAUuRpbD1BfNH4VnyFRb1jcxm36ydImfIGqYhDRQ&oh=00_AQQTBJDaI8z4tfEcmeAbVKzVRQH11cKCO6gwI80rbFrBrw&oe=6AF7F689",
@@ -3613,7 +3617,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-0000-en.jpg"
    },
    "source_key": "post:100044802900629_1664001105103304",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3690,7 +3694,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-11 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699289931589699": {
    "fingerprint": "947d4507699df6d24615",
