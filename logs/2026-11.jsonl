@@ -619,3 +619,6 @@
 {"slot": "2026-11-10 00:00", "lang": "EN", "action": "wp_post", "id": 24, "status": "future", "t": "2026-11-09T15:59:32+00:00", "group": "EN2"}
 {"slot": "2026-11-10 00:00", "action": "wp_media", "id": 25, "t": "2026-11-09T15:59:33+00:00", "group": "IT"}
 {"slot": "2026-11-10 00:00", "lang": "IT", "action": "wp_post", "id": 26, "status": "future", "t": "2026-11-09T15:59:33+00:00", "group": "IT"}
+{"slot": "2026-11-09 21:00", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-09T16:00:03+00:00", "group": "NL"}
+{"slot": "2026-11-09 21:00", "lang": "NL", "action": "wp_post", "id": 27, "status": "future", "t": "2026-11-09T16:00:04+00:00", "group": "NL"}
+{"slot": "2026-11-09 21:00", "lang": "DE", "action": "wp_post", "id": 28, "status": "future", "t": "2026-11-09T16:00:05+00:00", "group": "NL"}
