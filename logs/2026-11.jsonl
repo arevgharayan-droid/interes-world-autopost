@@ -614,3 +614,4 @@
 {"slot": "2026-11-10 00:00", "action": "wp_media", "id": 19, "t": "2026-11-09T15:59:28+00:00", "group": "FR"}
 {"slot": "2026-11-10 00:00", "lang": "FR", "action": "wp_post", "id": 20, "status": "future", "t": "2026-11-09T15:59:29+00:00", "group": "FR"}
 {"slot": "2026-11-10 00:00", "action": "wp_media", "id": 21, "t": "2026-11-09T15:59:29+00:00", "group": "EN"}
+{"slot": "2026-11-10 00:00", "lang": "EN", "action": "wp_post", "id": 22, "status": "future", "t": "2026-11-09T15:59:30+00:00", "group": "EN"}
