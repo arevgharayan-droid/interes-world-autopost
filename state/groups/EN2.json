@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
+  "3015169f17e68b6fd1bf": "2026-11-09T13:24:29+00:00",
   "90f752e134f7f161178f": "2026-11-01T14:03:51+00:00",
   "96662a0e4435c54bf499": "2026-10-31T10:14:42+00:00",
   "aa74c11de94c64604d06": "2026-10-29T20:16:43+00:00",
@@ -2054,7 +2055,46 @@
    "status": "no_source"
   },
   "2026-11-09 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Billionaire Father Disinherited Me for Joining the Army, Then Mocked My Uniform at the White House Without Knowing a Four-Star General Was Seconds Away From Revealing Who I Really Am",
+     "warnings": [
+      "длина текста FB 803 слов (исходник 972, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 22,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/886417316_122122669515444459_603783324242916106_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T78lzVZFCK4Q7kNvwHLUZx5&_nc_oc=AdqODoxXg47Hv73A1JV317Jci2PhskDevP44TFRVp3y6EGV1z3zwiRFFWiA9X1rhsgs&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6sAOReQ0EnQpQsTEZ_YiaA&_nc_tpa=Q5bMBQKWBLpaANVemVKZ6jIltNDrmIXvaJ8PxtcdFZ33jtMq14UQ_6OPRoSAQrO21J-raO-Hg4mLh6wIrQ&oh=00_AQQkOOJNqdc9l3zpSHLjycqPXlbDLdMLU8ZGQwIpsfUUbQ&oe=6AF7A944",
@@ -2066,7 +2106,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-en2.jpg"
    },
    "source_key": "post:61593333781016_122122669659444459",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-09 21:00": {
    "langs": {},
@@ -2178,7 +2218,7 @@
    "origin": "manual",
    "page_id": "61593333781016",
    "slot": "2026-11-09 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140194015225301": {
    "fingerprint": "a60aeab4d1856bf6dba7",
