@@ -7,6 +7,7 @@
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
   "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
+  "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00",
   "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00",
   "ff177c2141f7f0364278": "2026-11-09T13:24:27+00:00"
@@ -1868,7 +1869,44 @@
    "status": "in_progress"
   },
   "2026-11-10 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il figlio del boss non smetteva di urlare, finché la cameriera lo chiamò «figlio mio",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 49,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/886417135_1657483395748281_3307270542621616710_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XPpggGvSd8QQ7kNvwGxqzyO&_nc_oc=AdqBdh67EzCI9CNEdWZM5VKy3n-aCNqIYR7VmFQXpc8FjvL7AuTpoHzEl5Lkn_nkRAE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GLsmBThAugJlP8u74skdIg&_nc_tpa=Q5bMBQLq2EEixZpX3DLKTJu0W0tPrXrv61DJ8LbSe07Sgr2kIMe5T6YLfwfTgtmnCHp7ncwpF9BbBo3UnQ&oh=00_AQQY1xyQXTFaSd7H5jrFJHlnxQp_6fU1JbwMi1vAaOewsQ&oe=6AF7B537",
@@ -1880,7 +1918,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-0000-it.jpg"
    },
    "source_key": "post:100044599086455_1657929685703652",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 12:00": {
    "langs": {},
@@ -1933,7 +1971,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-10 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698682471650445": {
    "fingerprint": "805fb8b83171cdb61fb9",
