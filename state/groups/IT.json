@@ -2027,6 +2027,8 @@
      },
      "title": "Il figlio del boss non smetteva di urlare, finché la cameriera lo chiamò «figlio mio",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 26,
      "wp_status": "future"
     },
     "NL": {
@@ -2034,7 +2036,8 @@
      "skipped": "нет подключённых страниц"
     },
     "PT": {
-     "pages": {}
+     "pages": {},
+     "skipped": "нет подключённых страниц"
     },
     "RU": {
      "pages": {},
@@ -2045,7 +2048,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-10T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/886417135_1657483395748281_3307270542621616710_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XPpggGvSd8QQ7kNvwGxqzyO&_nc_oc=AdqBdh67EzCI9CNEdWZM5VKy3n-aCNqIYR7VmFQXpc8FjvL7AuTpoHzEl5Lkn_nkRAE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GLsmBThAugJlP8u74skdIg&_nc_tpa=Q5bMBQLq2EEixZpX3DLKTJu0W0tPrXrv61DJ8LbSe07Sgr2kIMe5T6YLfwfTgtmnCHp7ncwpF9BbBo3UnQ&oh=00_AQQY1xyQXTFaSd7H5jrFJHlnxQp_6fU1JbwMi1vAaOewsQ&oe=6AF7B537",
@@ -2057,7 +2060,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-0000-it.jpg"
    },
    "source_key": "post:100044599086455_1657929685703652",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
