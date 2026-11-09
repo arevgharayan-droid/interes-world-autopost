@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
+  "13db4df12dcefc769231": "2026-11-09T13:24:24+00:00",
   "3b17ef7d9630be534518": "2026-11-01T18:14:37+00:00",
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
@@ -882,7 +883,46 @@
    "status": "no_source"
   },
   "2026-11-09 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ik trouwde met een stervende man omdat het zijn laatste wens was, maar na de begrafenis stond zijn advocaat voor mijn deur",
+     "warnings": [
+      "длина текста FB 400 слов (исходник 480, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 20,
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/864763048_122121657207444459_2042638641388468946_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1SNSTAr9Fc8Q7kNvwEOxza6&_nc_oc=AdrfBYk7cxkUWEpXq_jCGk0sVqC8tFo0Dlpn7679AntvfrVNKVceiNcfrYCrM8J7l40&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=9ISLMriTjogvsF6tQLGBiA&_nc_tpa=Q5bMBQLujomNTOBd6ZTHs4G9kKBmNmuKX-uSoXHekanXeIj-OBwihfn65JW5VVNvh9frsE7LKDOHbOzAdA&oh=00_AQSPdIF36c8VXXPQAemr3Bc3hqiSSX0VzRWe0dHvDI7pdQ&oe=6AF7955A",
@@ -894,7 +934,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-nl.jpg"
    },
    "source_key": "post:61593333781016_122121657273444459",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-09 21:00": {
    "langs": {},
@@ -1006,7 +1046,7 @@
    "origin": "manual",
    "page_id": "61593333781016",
    "slot": "2026-11-09 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122139981021225301": {
    "fingerprint": "c33c1a3930fd423f2761",
