@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
+  "0802407a599099da93c3": "2026-11-09T13:27:37+00:00",
   "3015169f17e68b6fd1bf": "2026-11-09T13:24:29+00:00",
   "86822eab2c3504add2f2": "2026-11-09T13:26:02+00:00",
   "90f752e134f7f161178f": "2026-11-01T14:03:51+00:00",
@@ -2428,7 +2429,44 @@
    "status": "in_progress"
   },
   "2026-11-10 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Offered a Stranger Everything After My Board Stole My Company, But He Only Wrapped a Blanket Around Me",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 52,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/865391331_122144532189170333_2439336495492111804_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5nAwoVnAU08Q7kNvwGIqEM2&_nc_oc=AdrOfcNCTKV3CZ8cqkTJSKmTM0dqd-6IpvqwKFHA7rp5AucbBf-SUdgElg4SdWDj3fQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=7_UqKY_5ExtTyEK1aRP7Eg&_nc_tpa=Q5bMBQJgQfv4uhfceL64OseiTEO0oInfj96ox4bCI-hm30CorDejyQTr4kjkqN_KulJlXDEfZUQspBnaVQ&oh=00_AQQynTkjk_fE62mgSa5Bpo0mbTpK2C0CZ1fT_qWUlOGAGw&oe=6AF79F2D",
@@ -2440,7 +2478,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-0000-en2.jpg"
    },
    "source_key": "post:61585110014040_122144532279170333",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 12:00": {
    "langs": {},
@@ -2517,7 +2555,7 @@
    "origin": "manual",
    "page_id": "61585110014040",
    "slot": "2026-11-10 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122143953849210709": {
    "fingerprint": "9c3d29c96b1e678cb01b",
