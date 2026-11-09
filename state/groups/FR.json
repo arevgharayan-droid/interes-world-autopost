@@ -1356,7 +1356,17 @@
   "2026-11-09 18:00": {
    "langs": {},
    "slot_iso": "2026-11-09T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/874783244_122115257091501033_6212631487372563519_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0D8TV7D1vFgQ7kNvwECwp65&_nc_oc=AdoBFPtygCa3XsVHPItVqNz83JgeuHTjQH7-x-nDVOCRKEU7ymA2U70vGAeb9Pj2i1I&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GxvbF_teVs8IWaMhv4wC4Q&_nc_tpa=Q5bMBQLZgT6kuNoDtTqo8MrH-7HzfJ7IFGFjuhBXTjzLIjoilbISqUbUl-tY2OxLjpiWAbGcXGrXPZe6DA&oh=00_AQTETTierxfQqSMZTs7NoPcNAlgruJMIoc_jzqRGreTA8Q&oe=6AF79520",
+    "link": "https://www.facebook.com/share/p/1VHffKfgrU/",
+    "origin": "manual",
+    "page_id": "61595030999436",
+    "text": "\"Hours before I was supposed to propose to another woman, four six-year-old boys walked into a restaurant bathroom looking so much like me that even I, the man who ran one of Boston’s most powerful crime families, couldn’t move. Then I heard their mother’s voice outside the door, the voice of the woman I had loved six years earlier, and suddenly the engagement ring in my pocket meant nothing.\nMy name is Dominic Moretti.\nAt thirty-seven, people in Boston knew better than to ask exactly what I did.\nMy family controlled businesses, properties, and enough influence across the city that the Moretti name could open doors most people never knew existed.\nThat night, however, even I was following someone else’s plan.\nAt 7:30, I was expected to propose to Sloane Barrett beneath the glass roof of my family’s private conservatory overlooking the Charles River.\nMy navy suit had been tailored on Newbury Street.\nMy grandfather’s cuff links were at my wrists.\nA diamond ring sat inside my jacket.\nEverything was ready.\nExcept me.\nI didn’t love Sloane.\nShe was intelligent, beautiful, and came from exactly the kind of powerful family mine wanted beside us. Everyone called the marriage perfect.\nI understood what they really meant.\nUseful.\nThen my driver was delayed.\nWith nearly an hour to spare, I stopped at an upscale restaurant in Back Bay.\nI entered the men’s room to wash my hands and fix my tie.\nFour little boys stood at the sinks.\nMatching navy sweaters.\nKhaki pants.\nDark hair.\nOne pushed his hair backward, tilted his head, then reached his left hand behind his neck.\nThe other three copied him.\nI stopped cold.\nI had made that exact gesture since childhood.\nThen the first boy turned around.\nMy stomach dropped.\nHis eyes.\nHis mouth.\nThat stubborn crease between his eyebrows.\nI was looking at myself at six years old.\nThen his brothers turned.\nFour faces.\nFour versions of mine.\nI had spent years sitting across from dangerous men without letting them see fear.\nBut those children terrified me.\n“How old are you?” I finally asked.\nOne boy smiled.\n“Six.”\nSix.\nThe number hit harder than a bullet.\nBecause six years earlier, there had been a woman.\nThe only woman I had ever loved enough to imagine leaving my family’s world behind for.\nAnd the woman I had eventually lost.\nMy hand moved toward the engagement ring inside my jacket.\nThen footsteps approached outside.\nA woman called for the boys.\nI knew that voice.\nEvery muscle in my body locked.\nSix years had passed, but I would have recognized it anywhere.\nThe boys ran toward the doorway.\nI stayed frozen beside the mirror.\nTonight, Boston expected Dominic Moretti to announce an engagement that would strengthen two powerful families.\nBut suddenly, none of that mattered.\nBecause the woman I had loved six years ago was standing just beyond that door.\nAnd four six-year-old boys wearing my childhood face were running toward her....NEXT PART and the FULL ENDING are coming. Type ‘YES’ we can post full story",
+    "wp_media_id": 17,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-fr.jpg"
+   },
+   "source_key": "post:61595030999436_122115257253501033",
+   "status": "preparing"
   },
   "2026-11-09 21:00": {
    "langs": {},
@@ -1461,6 +1471,14 @@
    "page_id": "61591284134933",
    "slot": "2026-11-02 00:00",
    "status": "used"
+  },
+  "post:61595030999436_122115257253501033": {
+   "fingerprint": "de46d84948ebb5b49d96",
+   "link": "https://www.facebook.com/share/p/1VHffKfgrU/",
+   "origin": "manual",
+   "page_id": "61595030999436",
+   "slot": "2026-11-09 18:00",
+   "status": "reserved"
   },
   "post:photo_122140489347225301": {
    "fingerprint": "6170eddfbbcff3058ece",

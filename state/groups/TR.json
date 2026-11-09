@@ -1,7 +1,25 @@
 {
+ "enabled_since": "2026-11-09T17:23:42+04:00",
  "output_fps": {},
  "outputs": {},
- "slots": {},
+ "slots": {
+  "2026-11-09 18:00": {
+   "langs": {},
+   "slot_iso": "2026-11-09T18:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/887945671_122122709361444459_6537442553292951208_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xFXfyd00YjUQ7kNvwE5yzIH&_nc_oc=AdoNvBsUaKCzs-LftpkChEXliOShs3AvmU2XVXaaU8x1DZE2NSbVuxk8gsIXXJQyZuY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=sgWJt8JpRAMcJhtQ2hG69w&_nc_tpa=Q5bMBQLrdg-V2I3UJh4TuPaMo5LIBikF0oltW2epVBjj_JRtO8QSqWXCKWKP3jbtjHR4IGVbC4tkuEzqLg&oh=00_AQTzLi1PKqBHOgMAbzhXcYPOUyXmILSTbaIAHLwGfwEn7w&oe=6AF7B43E",
+    "link": "https://www.facebook.com/share/p/1Cgwtiau4q/",
+    "origin": "manual",
+    "page_id": "61593333781016",
+    "text": "Ma mère préparait des repas pour un sans-abri qui vivait derrière notre maison depuis 20 ans. Le lendemain de ses funérailles, il m’a pris les mains dans les siennes et m’a dit : « Avant de mourir, elle m’a SUPPLIÉ DE GARDER LE SILENCE. »\n\nPARTIE 1\n\nMa mère préparait des repas pour un sans-abri qui vivait derrière notre maison depuis 20 ans. Le lendemain de ses funérailles, il m’a pris les mains dans les siennes et m’a dit : « Avant de mourir, elle m’a SUPPLIÉ DE GARDER LE SILENCE. »\n\nPendant 20 ans, Vernon a vécu dans un abri de fortune derrière notre maison en location.\n\nMaman lui préparait trois repas par jour alors que nous avions à peine de quoi payer la facture d’électricité.\n\nJe lui en voulais pour cela. Pas parce qu’il était sans-abri. Mais parce que nous étions pauvres nous aussi. Mes baskets étaient rafistolées avec du ruban adhésif pour cacher les trous, et le propriétaire avait même collé un avis jaune sur notre porte d’entrée, deux jours avant Noël.\n\n« Si tu arrêtais de nourrir des inconnus », lui avais-je dit un jour, « nous ne vivrions peut-être pas dans une telle misère. »\n\nMaman avait explosé.\n\n« Ne t’avise PLUS JAMAIS de dire une chose pareille ! »\n\nLes années ont passé. J’ai quitté la maison. Ma mère et moi nous disputions moins, surtout parce que j’avais cessé de poser des questions. Mais Vernon continuait de vivre derrière notre maison.\n\nPuis elle est tombée malade.\n\nLe cancer l’a rendue toute petite. Silencieuse.\n\nDeux semaines avant sa mort, elle m’a attrapé le poignet et m’a murmuré :\n\n« Promets-moi que tu continueras à nourrir Vernon. »\n\nJ’avais envie de refuser. Mais je n’ai pas pu lui mentir.\n\nAlors, le lendemain de ses funérailles, j’ai préparé le meilleur repas possible pour Vernon et je me suis rendu chez ma mère.\n\nMais Vernon n’était pas là. Son abri était vide. Tout avait été débarrassé.\n\nÀ la place, un SUV noir était garé le long du trottoir.\n\nÀ côté se tenait un homme vêtu d’un manteau coûteux, parfaitement rasé, tenant dans sa main le vieux médaillon en argent de ma mère. Celui qu’elle prétendait avoir perdu lorsque j’avais huit ans.\n\n« Je pensais que tu ne viendrais pas », dit-il, les yeux remplis de larmes.\n\n« Vernon ? » demandai-je, sous le choc.\n\nIl sourit, mais son sourire était tremblant.\n\n« J’ai apporté le dîner », dis-je, le cœur battant à tout rompre. « Mais Vernon, qu’est-ce qui se passe ? »\n\nSon regard croisa le mien.\n\n« Ta mère t’a caché quelque chose », dit-il. « Avant de mourir, elle m’a SUPPLIÉ DE GARDER LE SILENCE. »\n\nMon sang se glaça.\n\n« Qu’est-ce qu’elle m’a caché ? » murmurai-je...\n\n(La partie 2 est encore plus bouleversante… Commentez « OLD » si vous voulez connaître la suite 👇)",
+    "wp_media_id": 16,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-tr.jpg"
+   },
+   "source_key": "post:61593333781016_122122709439444459",
+   "status": "preparing"
+  }
+ },
+ "source_cutoff": "2026-11-09T13:23:42+00:00",
  "sources": {
   "link:0850bdea31e3d1a888c0": {
    "link": "https://www.facebook.com/share/p/1Bbpfkwui6/",
@@ -14,6 +32,14 @@
   "link:c860de01f83dac25a3c5": {
    "link": "https://www.facebook.com/share/p/1Cgwtiau4q/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122122709439444459&id=61593333781016"
+  },
+  "post:61593333781016_122122709439444459": {
+   "fingerprint": "858cf6a00f475cf08849",
+   "link": "https://www.facebook.com/share/p/1Cgwtiau4q/",
+   "origin": "manual",
+   "page_id": "61593333781016",
+   "slot": "2026-11-09 18:00",
+   "status": "reserved"
   }
  },
  "tests": {},

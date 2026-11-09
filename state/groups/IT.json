@@ -1586,7 +1586,17 @@
   "2026-11-09 18:00": {
    "langs": {},
    "slot_iso": "2026-11-09T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/852160825_122108569227501033_4891376387232030024_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ydZTHJJv7wwQ7kNvwGPixCY&_nc_oc=Adprxjw2FVQ9cPoRBO0JFr4dv4I2csiRXDq_7WEi9gumUPM_Gu8F0U4rWuqk6rLsuMw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ahV5aPibcc8kRIZqIdz0Ig&_nc_tpa=Q5bMBQJmGhIFRkEejcGGOpeUUxpUTwjIz4Nv15Se9SqohL5zA66APjcc8qsfe_Aq57EM4jygYSxoN27lYQ&oh=00_AQS6zTTxOPcNfOMLb58FYw4SRK3PO7ZpiYhZQ8aaD5Mqtg&oe=6AF7A90A",
+    "link": "https://www.facebook.com/share/p/1VtoptvDFM/",
+    "origin": "manual",
+    "page_id": "61595030999436",
+    "text": "The most dangerous man in New York was planning a bloody gang war when a three-year-old girl walked into his private meeting and asked to borrow him for a day. Twelve ruthless criminals froze, expecting their boss to explode. But what happened next would expose a betrayal ten years in the making.\n\nMy name is Alessandro Moretti, and nobody interrupts my meetings. That night, twelve of my most trusted men surrounded my walnut table, studying maps of Brooklyn and Queens while cigar smoke drifted beneath the chandelier.\n\nWe were deciding which streets might burn before sunrise when a tiny voice shattered the silence.\n\n“Mister... can I borrow you for one whole day?”\n\nBeside my loaded pistol stood a little girl in a red dress, clutching a purple crayon. Her enormous brown eyes stared at me without the slightest fear.\n\n“Borrow me?” I asked.\n\n“Just until bedtime.”\n\nI raised one finger, and all twelve men immediately stood. Within seconds, the maps disappeared, the chairs were quietly removed, and the room emptied.\n\nMy right-hand man, Marcus Reed, paused at the doorway and glanced at the child. I'd trusted Marcus with my life for ten years, but something about that brief look stayed with me.\n\nSuddenly, my housekeeper, Mary Alvarez, rushed inside and dropped to her knees.\n\n“Mr. Moretti, please forgive me! My babysitter canceled, and I thought Sophie would stay in the laundry room. I'll resign immediately!”\n\nBefore I could respond, Sophie climbed into the leather chair opposite me. She began drawing a smiling face on the black velvet beside my gun.\n\n“Why do you need me, sweetheart?” I asked.\n\n“Tomorrow is Family Day at preschool,” she whispered. “Everybody brings their daddy or grandpa, but my daddy went to heaven.”\n\nMary covered her mouth, fighting tears.\n\nI remembered hearing about her husband, Michael, who'd died of a heart attack eight months earlier at just thirty-four. Sophie had waited by their apartment window that evening, holding a picture for a father who would never return.\n\n“So you want me to come instead?” I asked.\n\nShe nodded. “You look like you know how to be in charge.”\n\nFor the first time in years, I almost laughed.\n\n“What would I have to do?”\n\n“School first. Then the park, where you push me on the swing until I touch the sky.” She counted on her fingers before adding, “And strawberry ice cream, because Mama says we don't have enough dollars this week.”\n\nI'd negotiated with men who controlled casinos, ports, and entire neighborhoods. Yet this little girl had somehow left me completely speechless.\n\n“One day,” I finally agreed. “School, swings, and strawberry ice cream.”\n\nSophie grinned, then frowned at my black suit.\n\n“But you need normal clothes. The other daddies don't dress for funerals.”\n\nA genuine laugh escaped me.\n\n“Marcus!” I called.\n\nHe appeared instantly, notebook ready.\n\n“Cancel everything tomorrow.”\n\nHis pen stopped. “Everything, boss? Even the meetings?”\n\n“Every single one.”\n\nMarcus nodded, wearing the same dependable smile I'd trusted for a decade. But as Sophie clapped excitedly, I caught his eyes drifting toward Mary.\n\nHis fingers tightened around his notebook.\n\nI didn't know Marcus had spent months waiting for me to break my carefully guarded routine. Now, thanks to an innocent little girl, he knew exactly where I'd be tomorrow.\n\nA preschool. A public park. An ice cream shop.\n\nAnd worst of all, I'd just handed him the perfect opportunity to make Mary Alvarez disappear forever.\n==========\n🙌📖 This is only the beginning… FULL  is already in the comments. 👇🔥 If you can’t find it, tap “View all comments”.",
+    "wp_media_id": 13,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-it.jpg"
+   },
+   "source_key": "post:61595030999436_122108569407501033",
+   "status": "preparing"
   },
   "2026-11-09 21:00": {
    "langs": {},
@@ -1691,6 +1701,14 @@
    "page_id": "61591284134933",
    "slot": "2026-11-02 00:00",
    "status": "used"
+  },
+  "post:61595030999436_122108569407501033": {
+   "fingerprint": "8145e536fe4b7bb8b4b4",
+   "link": "https://www.facebook.com/share/p/1VtoptvDFM/",
+   "origin": "manual",
+   "page_id": "61595030999436",
+   "slot": "2026-11-09 18:00",
+   "status": "reserved"
   },
   "post:photo_122140365723225301": {
    "fingerprint": "09158682ef11c459c1e8",
