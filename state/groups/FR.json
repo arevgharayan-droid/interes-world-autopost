@@ -1465,12 +1465,13 @@
       "1250374694822508": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122123013357415639_1166281075946987",
        "error": null,
        "last_attempt": "2026-11-09T17:24:41+04:00",
        "mode": "schedule",
        "photo_id": "122123013327415639",
        "post_id": "1250374694822508_122123013357415639",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Quatre garçons de six ans avec mon visage sont entrés dans les toilettes, quelques heures avant ma demande en mariage",
@@ -1512,7 +1513,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-fr.jpg"
    },
    "source_key": "post:61595030999436_122115257253501033",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-09 21:00": {
    "langs": {
