@@ -4,6 +4,7 @@
   "2116a560bb8b542f0caf": "2026-11-01T18:14:23+00:00",
   "24ef5b43174759b5cb24": "2026-10-29T20:16:50+00:00",
   "27cf43d3866fe7568230": "2026-10-29T20:24:35+00:00",
+  "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
   "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00",
@@ -1726,7 +1727,44 @@
    "status": "in_progress"
   },
   "2026-11-09 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il miliardario ha controllato le telecamere a 5.000 chilometri di distanza e si è gelato vedendo la domestica addormentata sul pavimento della cameretta",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 33,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/865677302_122145773757178982_6763215209659231952_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Nwl0M-ik6HAQ7kNvwG24VY3&_nc_oc=AdqknMV-r-gLoZZwhBYbk_eRpSDtph6-sImQB8r81rYY_bGIvvnoQSy7ya3qljxgqJ4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=CpPVnzeDfNWgE5HVsSBNyA&_nc_tpa=Q5bMBQL_MPJgqEF_doOt5_5xH_SDcFtNkWvWy06CfIEP3rDvIzLLkDeJqPZGgfZfYFRM6vzFIKNGHhJIJg&oh=00_AQQLPyJ0E8FKNeSDzaOwsl6zPIROwajhJ2B7ePJKmsc7PA&oe=6AF7B1DA",
@@ -1738,7 +1776,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-it.jpg"
    },
    "source_key": "post:61585369480106_122145778227178982",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 00:00": {
    "langs": {},
@@ -1828,7 +1866,7 @@
    "origin": "manual",
    "page_id": "61585369480106",
    "slot": "2026-11-09 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122150034885348565": {
    "error": "слот пропущен",
