@@ -2486,12 +2486,13 @@
       "921611111039858": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122143720683200344_1918277232948796",
        "error": null,
        "last_attempt": "2026-11-09T17:26:15+04:00",
        "mode": "schedule",
        "photo_id": "122143720653200344",
        "post_id": "921611111039858_122143720683200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
