@@ -91,7 +91,7 @@
   "122139570344737651": "2026-11-09T13:27:30+00:00",
   "1338630212673029_122115064401471857": "2026-11-09T17:07:22+00:00",
   "1338630212673029_122115065301471857": "2026-11-09T16:01:57+00:00",
-  "1448441201677530_122118336303505599": "2026-11-09T16:00:46+00:00",
+  "1448441201677530_122118336303505599": "2026-11-09T17:07:27+00:00",
   "1448441201677530_122118337287505599": "2026-11-09T16:01:54+00:00",
   "988042774402200_122133057194733774": "2026-10-29T17:26:06+00:00",
   "988042774402200_122133074582733774": "2026-10-29T20:17:07+00:00",
@@ -1160,21 +1160,24 @@
       "1338630212673029": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122115064401471857_1873295837141279",
        "error": null,
        "last_attempt": "2026-11-09T20:00:47+04:00",
        "mode": "schedule",
        "photo_id": "122115064371471857",
        "post_id": "1338630212673029_122115064401471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118336303505599_1135667158851158",
        "error": null,
        "last_attempt": "2026-11-09T20:00:43+04:00",
        "mode": "schedule",
        "photo_id": "122118336267505599",
        "post_id": "1448441201677530_122118336303505599",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Na frente de todos, minha nora disse que cozinhar e limpar era a minha personalidade inteira. Naquela noite, reservei oito semanas em Portugal",
@@ -1283,7 +1286,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-ru.jpg"
    },
    "source_key": "post:61593721215501_122124663333457373",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "url": "https://peakproductions.co",
