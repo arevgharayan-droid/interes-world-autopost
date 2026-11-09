@@ -1,15 +1,109 @@
-## Переподготовка выпусков
+## Очереди ссылок по группам
 
-- IT 2026-11-09 21:00: статьи переносятся: https://peakproductions.co → https://hetaqrqir.com (старых удалено: 1) — следующий запуск подготовит
-- IT 2026-11-10 00:00: статьи переносятся: https://peakproductions.co → https://hetaqrqir.com (старых удалено: 1) — следующий запуск подготовит
-- EN-1 2026-11-09 21:00: статьи переносятся: https://peakproductions.co → https://hetaqrqir.com (старых удалено: 1) — следующий запуск подготовит
-- EN-1 2026-11-10 00:00: статьи переносятся: https://peakproductions.co → https://hetaqrqir.com (старых удалено: 1) — следующий запуск подготовит
-- EN-2 2026-11-09 21:00: статьи переносятся: https://peakproductions.co → https://hetaqrqir.com (старых удалено: 1) — следующий запуск подготовит
-- EN-2 2026-11-10 00:00: статьи переносятся: https://peakproductions.co → https://hetaqrqir.com (старых удалено: 1) — следующий запуск подготовит
-- FR 2026-11-09 21:00: статьи переносятся: https://peakproductions.co → https://hetaqrqir.com (старых удалено: 1) — следующий запуск подготовит
-- FR 2026-11-10 00:00: статьи переносятся: https://peakproductions.co → https://hetaqrqir.com (старых удалено: 1) — следующий запуск подготовит
-- NL+DE 2026-11-09 21:00: статьи переносятся: https://peakproductions.co → https://hetaqrqir.com (старых удалено: 1); новые языки: DE — следующий запуск подготовит
-- NL+DE 2026-11-10 00:00: статьи переносятся: https://peakproductions.co → https://hetaqrqir.com (старых удалено: 1); новые языки: DE — следующий запуск подготовит
-- RU+TR+PT 2026-11-09 21:00: новые языки: TR, PT — следующий запуск подготовит
-- RU+TR+PT 2026-11-10 00:00: новые языки: TR, PT — следующий запуск подготовит
+### FR (7 стр.) — ждут публикации: 5
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122140489347225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122102939498536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122101879646536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-31 12:00): https://www.facebook.com/story.php?story_fbid=1699072051611487&id=100045261260562
+- ⏭ уже взята (used, 2026-11-01 15:00): https://www.facebook.com/story.php?story_fbid=1604736138351581&id=100064456312444
+- ⏭ уже взята (used, 2026-11-01 18:00): https://www.facebook.com/share/p/1HnoPVwZTy/
+- ⏭ уже взята (used, 2026-11-02 00:00): https://www.facebook.com/share/p/19k78khQhV/
+- ⏭ уже взята (failed, 2026-11-03 18:00): https://www.facebook.com/share/p/1JuRRpCpzd/
+- ⏭ уже взята (used, 2026-11-09 18:00): https://www.facebook.com/share/p/1VHffKfgrU/
+- ⏭ уже взята (used, 2026-11-09 21:00): https://www.facebook.com/share/p/1Bx7o7GVXq/
+- ⏭ уже взята (used, 2026-11-10 00:00): https://www.facebook.com/share/p/14hXe1FrSdy/
+- ✅ чужая страница · 4196 знаков, фото есть · «Mon frère et moi avons été adoptés quand nous étions enfants. Mais vingt ans plus tard, j’ai entendu…»
+- ✅ чужая страница · 6323 знаков, фото есть · «“Mister, My Mommy Has a Ring Just Like Yours!” a Five-Year-Old Girl Told the Mafia Boss, Pointing at…»
+- ✅ чужая страница · 5784 знаков, фото есть · «J'avais gagné 73 millions de dollars à la loterie avec un ticket à 2 dollars. Toute la nuit, j'avais…»
+- ✅ чужая страница · 4329 знаков, фото есть · «Just hours before I was set to announce my engagement to another woman, four little girls walked int…»
+- ✅ чужая страница · 4572 знаков, фото есть · «CHICAGO’S MOST FEARED MAFIA BOSS MOCKED HIS HOUSEKEEPER BY PROMISING TO MARRY HER IF SHE COULD DANCE…»
+
+### IT (9 стр.) — ждут публикации: 3
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122140365723225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122103466484536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122102718824536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-31 12:00): https://www.facebook.com/story.php?story_fbid=1698682471650445&id=100045261260562
+- ⏭ уже взята (used, 2026-11-01 15:00): https://www.facebook.com/story.php?story_fbid=1078152595272345&id=100092328442705
+- ⏭ уже взята (used, 2026-11-01 18:00): https://www.facebook.com/share/p/1FZUADaT5a/
+- ⏭ уже взята (used, 2026-11-02 00:00): https://www.facebook.com/share/p/1JZKGEfkuo/
+- ⏭ уже взята (failed, 2026-11-03 18:00): https://www.facebook.com/share/p/154dyHtpHLG/
+- ⏭ уже взята (used, 2026-11-09 18:00): https://www.facebook.com/share/p/1VtoptvDFM/
+- ⏭ уже взята (used, 2026-11-09 21:00): https://www.facebook.com/share/p/1KNyEpnxag/
+- ⏭ уже взята (used, 2026-11-10 00:00): https://www.facebook.com/share/p/1DTVGjCVAQ/
+- ✅ чужая страница · 2961 знаков, фото есть · «Pendant un vol de 12 heures, la fillette de 10 ans assise derrière moi a passé deux heures entières …»
+- ✅ чужая страница · 6466 знаков, фото есть · «“Mister, Please Don’t Say Anything… Someone Hid a Recorder to Listen to You!” a Little Girl Whispere…»
+- ✅ чужая страница · 5390 знаков, фото есть · «Pendant onze ans, j’ai cru que mon mari passait ses journées à sauver des vies à l’hôpital. Je lui p…»
+
+### EN-1 (13 стр.) — ждут публикации: 5
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122140250871225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122103458654536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122102410994536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-31 12:00): https://www.facebook.com/story.php?story_fbid=1699289931589699&id=100045261260562
+- ⏭ уже взята (used, 2026-11-01 15:00): https://www.facebook.com/story.php?story_fbid=122143561461244157&id=61587324730850
+- ⏭ уже взята (used, 2026-11-01 18:00): https://www.facebook.com/share/p/1J5SLi8Lh4/
+- ⏭ уже взята (used, 2026-11-02 00:00): https://www.facebook.com/share/p/1C9o8W4z7h/
+- ⏭ уже взята (failed, 2026-11-03 18:00): https://www.facebook.com/share/p/1MU4612imD/
+- ⏭ уже взята (used, 2026-11-09 18:00): https://www.facebook.com/share/p/1PTZKJSZFF/
+- ⏭ уже взята (used, 2026-11-09 21:00): https://www.facebook.com/share/p/19hbYL13qt/
+- ⏭ уже взята (used, 2026-11-10 00:00): https://www.facebook.com/share/p/1FSDCWVCXm/
+- ✅ чужая страница · 3121 знаков, фото есть · «Mon fils de 14 ans a laissé pousser ses cheveux pour faire fabriquer une perruque à sa camarade de c…»
+- ✅ чужая страница · 6544 знаков, фото есть · «“Mister, Your Big Dog Stole My Shoe! Tell Him to Give It Back!” the Maid’s Five-Year-Old Daughter De…»
+- ✅ чужая страница · 5554 знаков, фото есть · «Mon patron m’a demandé d’accompagner sa fille au bal de fin d’année, en promettant de me récompenser…»
+- ✅ чужая страница · 2941 знаков, фото есть · «My wife abandoned me with our 3 blind baby girls because she wanted a better life. For 18 years, I r…»
+- ✅ чужая страница · 2635 знаков, фото есть · «MY BOSS ASKED ME TO TAKE HIS DAUGHTER TO PROM, PROMISING TO REWARD ME — I THOUGHT IT WAS JUST A SIMP…»
+
+### EN-2 (13 стр.) — ждут публикации: 5
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122140194015225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122103893384536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122102295536536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-31 12:00): https://www.facebook.com/story.php?story_fbid=1699156498269709&id=100045261260562
+- ⏭ уже взята (used, 2026-11-01 15:00): https://www.facebook.com/story.php?story_fbid=122142837687244157&id=61587324730850
+- ⏭ уже взята (used, 2026-11-01 18:00): https://www.facebook.com/share/p/1DiAH4KpQi/
+- ⏭ уже взята (used, 2026-11-02 00:00): https://www.facebook.com/share/p/1DTghKt42J/
+- ⏭ уже взята (failed, 2026-11-03 18:00): https://www.facebook.com/share/p/1A2mu3TAco/
+- ⏭ уже взята (used, 2026-11-09 18:00): https://www.facebook.com/share/p/1DWTcPCFSy/
+- ⏭ уже взята (used, 2026-11-09 21:00): https://www.facebook.com/share/p/18hKHvx3ZX/
+- ⏭ уже взята (used, 2026-11-10 00:00): https://www.facebook.com/share/p/1bW2oFG9au/
+- ✅ чужая страница · 5747 знаков, фото есть · «Cinq jours après ma césarienne, mon mari m’a glissé douze dollars dans la main et m’a ordonné de ren…»
+- ✅ чужая страница · 4566 знаков, фото есть · «"Mister, You’re Getting a Bath. Right Now! And No Arguing!” the Maid’s Three-Year-Old Daughter Order…»
+- ✅ чужая страница · 5562 знаков, фото есть · «J’étais en mission militaire à 7 000 kilomètres de chez moi lorsqu’un médecin m’a appelée : « Votre …»
+- ✅ чужая страница · 2154 знаков, фото есть · «“Daddy, LOOK! That’s Mommy!” my five-year-old daughter shouted, pointing at a homeless woman sitting…»
+- ✅ чужая страница · 4410 знаков, фото есть · «I ASKED MY HUSBAND TO WATCH OUR FOUR YOUNG CHILDREN FOR JUST TWENTY MINUTES WHILE I TOOK A SHOWER. W…»
+
+### NL+DE (4 стр.) — ждут публикации: 5
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122139981021225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122103003182536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122101695644536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-31 12:00): https://www.facebook.com/story.php?story_fbid=1698998888285470&id=100045261260562
+- ⏭ уже взята (used, 2026-11-01 15:00): https://www.facebook.com/story.php?story_fbid=1599735255518336&id=100064456312444
+- ⏭ уже взята (used, 2026-11-01 18:00): https://www.facebook.com/share/p/1CRSdawFiJ/
+- ⏭ уже взята (used, 2026-11-02 00:00): https://www.facebook.com/share/p/14uuaFHm2P2/
+- ⏭ уже взята (failed, 2026-11-03 18:00): https://www.facebook.com/share/p/1F1ngK97fD/
+- ⏭ уже взята (used, 2026-11-09 18:00): https://www.facebook.com/share/p/1L9zpubwMv/
+- ⏭ уже взята (used, 2026-11-09 21:00): https://www.facebook.com/share/p/1HCxLSi37s/
+- ⏭ уже взята (used, 2026-11-10 00:00): https://www.facebook.com/share/p/1ZKeA1fh2S/
+- ✅ чужая страница · 7619 знаков, фото есть · «Mon grand frère était venu m'aider à déménager, mais il arriva à ma salle d'arts martiaux avec dix m…»
+- ✅ чужая страница · 6374 знаков, фото есть · «“Why Do We Look Exactly Alike?” the Mafia Boss’s Five-Year-Old Daughter Asked a Poor Little Girl Out…»
+- ✅ чужая страница · 5389 знаков, фото есть · «À minuit passé, j'ai entendu ma belle-mère entrer discrètement dans ma chambre. Elle a ouvert ma val…»
+- ✅ чужая страница · 4601 знаков, фото есть · «At six years old, I promised my best friend we would go to prom together. Twelve years later, on the…»
+- ✅ чужая страница · 6493 знаков, фото есть · «"FIVE MINUTES AFTER OUR DIVORCE, MY EX SAID, “TAKE THE GIRLS—I HAVE A SON ON THE WAY NOW.” I LEFT TH…»
+
+### RU+TR+PT (7 стр.) — ждут публикации: 5
+- ⏭ уже взята (used, 2026-10-29 21:00): https://www.facebook.com/photo/?fbid=122140150959225301&set=a.122127086457225301
+- ⏭ уже взята (used, 2026-10-30 00:00): https://www.facebook.com/story.php?story_fbid=122103055160536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-30 12:00): https://www.facebook.com/story.php?story_fbid=122102285582536431&id=61566092952750
+- ⏭ уже взята (used, 2026-10-31 12:00): https://www.facebook.com/story.php?story_fbid=1699103431608349&id=100045261260562
+- ⏭ уже взята (used, 2026-11-01 15:00): https://www.facebook.com/story.php?story_fbid=1605697694922092&id=100064456312444
+- ⏭ уже взята (used, 2026-11-01 18:00): https://www.facebook.com/share/p/1GjKgpmmPm/
+- ⏭ уже взята (used, 2026-11-02 00:00): https://www.facebook.com/share/p/1K2GUhK6vD/
+- ⏭ уже взята (failed, 2026-11-03 18:00): https://www.facebook.com/share/p/1DXGF3dsgP/
+- ⏭ уже взята (used, 2026-11-09 18:00): https://www.facebook.com/share/p/1JESAHNtzp/
+- ⏭ уже взята (used, 2026-11-09 21:00): https://www.facebook.com/share/p/19jyRSH3zV/
+- ⏭ уже взята (used, 2026-11-10 00:00): https://www.facebook.com/share/p/1E5PEPWwvY/
+- ✅ чужая страница · 3135 знаков, фото есть · «Après avoir eu quatre filles, mon mari avait enfin obtenu le fils dont il rêvait depuis si longtemps…»
+- ✅ чужая страница · 5007 знаков, фото есть · «The front desk clerk slid the key card across the marble before I had finished saying my husband's n…»
+- ✅ чужая страница · 5950 знаков, фото есть · «Je suis rentré d'Allemagne par surprise le soir du Nouvel An, impatient de retrouver ma femme et not…»
+- ✅ чужая страница · 1410 знаков, фото есть · «MICHAEL BOLTON SPENT DECADES MAKING MILLIONS OF WOMEN FALL IN LOVE WITH HIS VOICE — BUT AT 73, SIX C…»
+- ✅ чужая страница · 8518 знаков, фото есть · «Following my divorce, I invested in a beautiful house and decided not to make my new address public.…»
+
 
