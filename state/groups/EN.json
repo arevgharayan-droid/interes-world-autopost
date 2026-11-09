@@ -2476,7 +2476,15 @@
   "2026-11-10 00:00": {
    "langs": {},
    "slot_iso": "2026-11-10T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/864891690_122139809882778984_5189212032469335044_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IGSwvE0C50AQ7kNvwFnSl5N&_nc_oc=AdqDWw9dxUTouGhq-z-MU4dz4cLadF2QUdIk4jLnq-96lD7SM56icj6Nr5vIaIx7CSk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=cr91t_oZNfSoQACp9hj2vg&_nc_tpa=Q5bMBQLbtOPOUFT1kSxcANfz05wJOiR6Q0CF15i9vWgNeBwIE7JbSnWLO_sjhNspaz0CwROFpN7E3Go5Lw&oh=00_AQRXs2agjrZqG6uWN7RK_9z--sDCIRs7VBmjz8C2nTIbFg&oe=6AF7AD17",
+    "link": "https://www.facebook.com/share/p/1FSDCWVCXm/",
+    "origin": "manual",
+    "page_id": "61573369523860",
+    "text": "**The 58-Year-Old Mafia Boss Thought Love Had Died With His Wife—Until a Young Waitress Stood Up to the Wrong Man**\n\n“Take your hands off me. I don't belong to you.”\n\nThe young waitress tried to pull away, but the powerful man gripping her wrist only smiled and reminded her that her brother owed his family $80,000.\n\nFrom the private balcony above the restaurant, a fifty-eight-year-old mafia boss slowly rose from his chair.\n\nLorenzo Moretti hadn't felt much of anything in twelve years.\n\nNot real happiness. Not excitement. Certainly not the kind of desire that once made him reach for his wife's hand without thinking.\n\nSofia had been dead for twelve years, and some part of Lorenzo had disappeared with her.\n\nThey'd been married for twenty-four years. He'd loved her through arguments, difficult years, and finally the illness that took her away.\n\nBefore she died, she'd begged him not to stop living.\n\nBut he had.\n\nHe buried himself in business, wealth, and the criminal empire he'd spent decades building. Women occasionally approached him, but he never allowed anyone close enough to matter.\n\nAt fifty-eight, he'd convinced himself that love and intimacy belonged to a life he could never return to.\n\nThen he heard the sound of a silver serving tray crashing against marble.\n\nDownstairs, Harper Hayes stood frozen beside a table at the Obsidian, Lorenzo's exclusive Manhattan restaurant.\n\nShe was twenty-four, with auburn hair pinned into a loose bun and exhaustion beneath her brown eyes.\n\nFrankie Lombardi, the nephew of a dangerous rival, still had her wrist in his hand.\n\n“Your brother owes my uncle eighty thousand dollars,” Frankie murmured. “I could make a phone call and have that debt disappear.”\n\nHarper's face went pale.\n\n“Please let go.”\n\nInstead, Frankie leaned closer.\n\nThat's when a quiet voice came from behind him.\n\n“Release her.”\n\nFrankie turned.\n\n“Don Moretti.”\n\n“Now.”\n\nThe man immediately let go.\n\n“I was only joking,” Frankie muttered.\n\nLorenzo looked at Harper's trembling hands.\n\n“She didn't laugh.”\n\nNobody spoke.\n\nWhen Frankie tried to explain his family's arrangement with Harper's brother, Lorenzo stopped him.\n\n“Then discuss it with her family. Your evening is finished.”\n\nFrankie left furious, warning that his uncle wouldn't be pleased.\n\nLorenzo didn't follow him.\n\nHe turned toward Harper instead.\n\n“Are you hurt?”\n\n“No, sir.”\n\nBut her wrist was red, and her eyes were filling with tears.\n\nWhat disturbed Lorenzo wasn't simply her fear.\n\nIt was what she said next.\n\n“I'm sorry about the disturbance.”\n\nShe was the one who had been grabbed and humiliated, yet she was apologizing.\n\n“You did nothing wrong,” he told her.\n\nHe offered her the rest of the evening off with full pay. When she worried about losing her tips, he arranged for the manager to handle them fairly.\n\nThen he asked whether she'd prefer to stay or go home.\n\n“Home,” she whispered.\n\nAs he turned away, she stopped him.\n\n“Mr. Moretti?”\n\n“Yes?”\n\n“Why did you help me?”\n\nLorenzo stared at her.\n\n“Because you needed help.”\n\nHarper gave him a tired little smile.\n\n“That usually isn't enough for people.”\n\nFor once, the powerful man who always knew what to say couldn't find an answer.\n\nThe following evening, Harper approached his private table with a slice of lemon cake.\n\n“I heard you like this,” she said. “It's on me. For helping yesterday.”\n\nLorenzo studied her carefully.\n\n“You don't owe me anything.”\n\nHer smile faltered.\n\n“I know.”\n\n“Do you?”\n\nShe looked down.\n\n“I'm trying to.”\n\nAfter her shift, they sat together in the nearly empty restaurant. Lorenzo asked how she was doing.\n\nHarper gave a small, uncomfortable laugh.\n\n“That's a dangerous question.”\n\n“Why?”\n\nShe stared at the glass of water between them, her fingers trembling slightly around it.\n\nThen she looked up at the man everyone else was afraid to approach.\n\n“Because the honest answer is no.”\n\nFull story in c0mment 👇👇👇"
+   },
+   "source_key": "post:61573369523860_122139819650778984",
+   "status": "preparing"
   },
   "2026-11-10 12:00": {
    "langs": {},
@@ -2546,6 +2554,14 @@
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
    "status": "used"
+  },
+  "post:61573369523860_122139819650778984": {
+   "fingerprint": "82026b32f43d6931f13c",
+   "link": "https://www.facebook.com/share/p/1FSDCWVCXm/",
+   "origin": "manual",
+   "page_id": "61573369523860",
+   "slot": "2026-11-10 00:00",
+   "status": "reserved"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
