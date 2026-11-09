@@ -1205,7 +1205,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1008693642337213": {
+       "attempts": 1,
+       "last_attempt": "2026-11-09T17:27:17+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Невестка сказала, что на Рождество меня не ждут. Я ответила «Хорошо», а наутро сын уже стучал в мою дверь",
      "warnings": [
       "длина текста FB 833 слов (исходник 999, цель ±10%)"

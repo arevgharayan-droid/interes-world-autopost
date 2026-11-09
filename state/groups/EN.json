@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
   "2c1881200804eda0b026": "2026-11-01T18:14:02+00:00",
+  "3e2f2c99735b21275480": "2026-11-09T13:27:19+00:00",
   "4e1d50075aba4f7e15de": "2026-10-29T16:37:54+00:00",
   "5a1a23c72fc75013e47d": "2026-10-31T10:14:39+00:00",
   "655ea8557dcca7162d6c": "2026-11-01T14:03:59+00:00",
@@ -2474,7 +2475,44 @@
    "status": "in_progress"
   },
   "2026-11-10 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A 58-Year-Old Mafia Boss Believed Love Died With His Wife—Until a Young Waitress Refused to Be Owned",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 51,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/864891690_122139809882778984_5189212032469335044_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IGSwvE0C50AQ7kNvwFnSl5N&_nc_oc=AdqDWw9dxUTouGhq-z-MU4dz4cLadF2QUdIk4jLnq-96lD7SM56icj6Nr5vIaIx7CSk&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=cr91t_oZNfSoQACp9hj2vg&_nc_tpa=Q5bMBQLbtOPOUFT1kSxcANfz05wJOiR6Q0CF15i9vWgNeBwIE7JbSnWLO_sjhNspaz0CwROFpN7E3Go5Lw&oh=00_AQRXs2agjrZqG6uWN7RK_9z--sDCIRs7VBmjz8C2nTIbFg&oe=6AF7AD17",
@@ -2486,7 +2524,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-0000-en.jpg"
    },
    "source_key": "post:61573369523860_122139819650778984",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 12:00": {
    "langs": {},
@@ -2563,7 +2601,7 @@
    "origin": "manual",
    "page_id": "61573369523860",
    "slot": "2026-11-10 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
