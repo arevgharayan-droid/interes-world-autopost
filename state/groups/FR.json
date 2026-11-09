@@ -1603,12 +1603,13 @@
       "1260826840455724": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128195443441679_1450918966460674",
        "error": null,
        "last_attempt": "2026-11-09T18:55:00+04:00",
        "mode": "schedule",
        "photo_id": "122128195407441679",
        "post_id": "1260826840455724_122128195443441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "J'ai épousé mon premier amour après 45 ans de séparation pour exaucer son dernier vœu, et après sa mort, son fils m'a tendu une enveloppe",
@@ -1654,7 +1655,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261109-2100-fr.jpg"
    },
    "source_key": "post:61593721215501_122125210629457373",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
