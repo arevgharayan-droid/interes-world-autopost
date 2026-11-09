@@ -2241,12 +2241,13 @@
       "714226118434052": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122204744264902657_1093822616991827",
        "error": null,
        "last_attempt": "2026-11-09T17:25:03+04:00",
        "mode": "schedule",
        "photo_id": "122204744234902657",
        "post_id": "714226118434052_122204744264902657",
-       "status": "published"
+       "status": "done"
       },
       "892503027289970": {
        "attempts": 1,
