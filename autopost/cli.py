@@ -461,7 +461,6 @@ def cmd_wp_diagnose(cfg) -> int:
             out.append(f"- ❌ {name}: {type(e).__name__}: {redact(e)}")
             return None
     step("users/me", lambda: wp.me().get("name"))
-    step("удалить черновик 7145", lambda: wp.delete_post(7145).get("deleted"))
     tiny = bytes.fromhex("ffd8ffe000104a46494600010100000100010000ffd9")
     h = {"IWC-API-KEY": wp.api_key} if wp.api_key else {}
     def raw_multipart():
