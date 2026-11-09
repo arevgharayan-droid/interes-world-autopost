@@ -3,7 +3,12 @@
  "output_fps": {
   "22f0b6fa33464d5c7431": "2026-11-09T13:25:33+00:00"
  },
- "outputs": {},
+ "outputs": {
+  "1129620776897151_122127131193311884": "2026-11-09T13:25:40+00:00",
+  "1164575726728296_122126340351307134": "2026-11-09T13:25:45+00:00",
+  "122126340321307134": "2026-11-09T13:25:45+00:00",
+  "122127131133311884": "2026-11-09T13:25:40+00:00"
+ },
  "slots": {
   "2026-11-09 18:00": {
    "langs": {
@@ -35,7 +40,26 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1129620776897151": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-09T17:25:36+04:00",
+       "mode": "schedule",
+       "photo_id": "122127131133311884",
+       "post_id": "1129620776897151_122127131193311884",
+       "status": "scheduled"
+      },
+      "1164575726728296": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-09T17:25:41+04:00",
+       "mode": "schedule",
+       "photo_id": "122126340321307134",
+       "post_id": "1164575726728296_122126340351307134",
+       "status": "scheduled"
+      }
+     },
      "title": "Annem 20 yıl evsiz bir adama yemek pişirdi; cenazesinin ertesi günü adam ellerimi tuttu ve \"Bana sessiz kalmam için yalvardı\" dedi",
      "warnings": [
       "длина текста FB 401 слов (исходник 487, цель ±10%)"
@@ -57,7 +81,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-tr.jpg"
    },
    "source_key": "post:61593333781016_122122709439444459",
-   "status": "prepared"
+   "status": "in_progress"
   }
  },
  "source_cutoff": "2026-11-09T13:23:42+00:00",
