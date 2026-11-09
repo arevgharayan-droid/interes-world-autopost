@@ -3,6 +3,7 @@
  "output_fps": {
   "0802407a599099da93c3": "2026-11-09T13:27:37+00:00",
   "3015169f17e68b6fd1bf": "2026-11-09T13:24:29+00:00",
+  "405a9e8158205d645adc": "2026-11-09T20:00:27+00:00",
   "639e26827f29271e89c3": "2026-11-09T19:59:07+00:00",
   "86822eab2c3504add2f2": "2026-11-09T13:26:02+00:00",
   "90f752e134f7f161178f": "2026-11-01T14:03:51+00:00",
@@ -2915,7 +2916,50 @@
    }
   },
   "2026-11-10 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A Maid's 3-Year-Old Walked Into a Room of Twelve Men and Told Northern Italy's Most Feared Mafia Boss He Was Getting a Bath",
+     "warnings": [
+      "длина статьи 1024 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 61,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/888415230_1658480412315246_7527783823639727441_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lKUHb3ABsgkQ7kNvwHa8Vb5&_nc_oc=AdrYkOcXj7M6VOCRb4iAfwVWI3kpXDsR7bxLSgoV82oeA_FRh2DEJNtfaNkH_PPc7Dg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=77jejXBF0cW5CPmwoz6NHw&_nc_tpa=Q5bMBQIJJ0O7Z_HIFhawurzgZlkV9_k8ybbVTuEkux9c5nnA1kBNIFsbNp8mlcOjEWyqkMf4AG44_MU-yQ&oh=00_AQRFM--T6iPQbp7Np8ToEO121sLTM-0XPk9L1eyo7vASzA&oe=6AF7E4FF",
@@ -2927,7 +2971,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1500-en2.jpg"
    },
    "source_key": "post:100044599086455_1659035848926369",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3006,7 +3050,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699156498269709": {
    "fingerprint": "cffc519128617c7dc49f",
