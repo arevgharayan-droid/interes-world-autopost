@@ -78,22 +78,25 @@ languages:
       - {page_id: "1125676667286378", name: "Моменты жизни", profile_id: "61572129552455", added: "2026-10-25"}
   TR:
     name: Turkish
+    # с 09.11.2026 турецкие страницы — в группе RU (одна история на RU + TR + PT)
     pages:   # добавлены 25.10.2026
-      - {page_id: "1129620776897151", name: "Hayatın Anları", profile_id: "61589356530734", added: "2026-10-25"}  # снова включена 09.11.2026
-      - {page_id: "1164575726728296", name: "Kalpten Hikayeler", profile_id: "61589214036555", added: "2026-10-25"}  # снова включена 09.11.2026
+      - {page_id: "1129620776897151", name: "Hayatın Anları", profile_id: "61589356530734", added: "2026-10-25", group: RU}  # снова включена 09.11.2026
+      - {page_id: "1164575726728296", name: "Kalpten Hikayeler", profile_id: "61589214036555", added: "2026-10-25", group: RU}  # снова включена 09.11.2026
   DE:
     name: German
+    # новые немецкие страницы — в группе NL (одна история на NL + DE)
     pages:   # добавлены 25.10.2026
       - {page_id: "363312640206172", name: "Es ist interessant", profile_id: "61563855510395", added: "2026-10-25", disabled: true}  # отключена 29.10.2026
       - {page_id: "444776585382502", name: "Schöne Welt", profile_id: "61566315690409", added: "2026-10-25", disabled: true}  # отключена 29.10.2026
-      - {page_id: "1208422892355505", name: "Geschichten des Lebens", profile_id: "61592558064466", added: "2026-11-09"}
-      - {page_id: "1268633826332790", name: "Lebenswege", profile_id: "61593091482615", added: "2026-11-09"}
+      - {page_id: "1208422892355505", name: "Geschichten des Lebens", profile_id: "61592558064466", added: "2026-11-09", group: NL}
+      - {page_id: "1268633826332790", name: "Lebenswege", profile_id: "61593091482615", added: "2026-11-09", group: NL}
 
   PT:
     name: Portuguese
+    # группа RU (одна история на RU + TR + PT)
     pages:   # добавлены 09.11.2026
-      - {page_id: "1448441201677530", name: "Segredos que a Vida Guarda", profile_id: "61595167986420", added: "2026-11-09"}
-      - {page_id: "1338630212673029", name: "Histórias que Ninguém Esquece", profile_id: "61594155721036", added: "2026-11-09"}
+      - {page_id: "1448441201677530", name: "Segredos que a Vida Guarda", profile_id: "61595167986420", added: "2026-11-09", group: RU}
+      - {page_id: "1338630212673029", name: "Histórias que Ninguém Esquece", profile_id: "61594155721036", added: "2026-11-09", group: RU}
 
 # Страница, токеном которой Make читал «чужие» публичные посты (fallback в модуле 2).
 fallback_source_page_id: "1011074408765807"  # Émotions Virales | Paris (публикация на неё отключена, но через неё читаются ссылки)

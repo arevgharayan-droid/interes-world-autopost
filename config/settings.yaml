@@ -44,6 +44,11 @@ site:
   # Необязательно: ID рубрик WordPress по языкам, например FR: [12]
   wp_categories: {}
 
+# Свой сайт для отдельных групп (поверх блока site). Ключ: группа; поля — как в site, плюс имена секретов:
+# key_secret (ключ Make Connector), user_secret / password_secret (пароль приложения).
+# Выпуск, подготовленный на одном сайте, на нём и заканчивается, даже если сайт группы поменяли.
+group_sites: {}
+
 claude:
   # auto — подписка Max (CLAUDE_CODE_OAUTH_TOKEN), при сбое — API (если задан ANTHROPIC_API_KEY)
   # subscription — только подписка; api — только API; mock — тестовые тексты без Claude

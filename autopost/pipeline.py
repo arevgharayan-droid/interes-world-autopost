@@ -69,8 +69,12 @@ class Report:
 
 class Pipeline:
     def __init__(self, cfg, state, graph, wp, gen, tokens: dict, now_fn=None, http=None, report=None,
-                 checkpoint=None):
+                 checkpoint=None, wp_factory=None):
         self.cfg, self.state, self.graph, self.wp, self.gen = cfg, state, graph, wp, gen
+        # wp_factory(site) — клиент другого сайта: выпуск, начатый на одном сайте, там и заканчивается,
+        # даже если сайт группы с тех пор поменяли
+        self.wp_factory = wp_factory
+        self._wps = {}
         self.tokens = tokens
         self.tz = ZoneInfo(cfg.tz)
         self.now_fn = now_fn or (lambda: datetime.now(self.tz))
@@ -88,6 +92,24 @@ class Pipeline:
         # иначе ссылка ждёт следующего выпуска (опоздание до late — только для уже взятой истории)
         self.new_story_late = timedelta(minutes=int(t.get("new_story_late_minutes", 30)))
         self.final_after = self.late + timedelta(hours=8)  # комментарии повторяются до 12 ч после выпуска
+
+    # ------------------------------------------------------------------ сайт выпуска
+    SITE_KEYS = ("url", "comment_link_format", "wp_auth", "key_secret", "user_secret", "password_secret")
+
+    def site_rec(self) -> dict:
+        return {k: self.cfg.site[k] for k in self.SITE_KEYS if self.cfg.site.get(k)}
+
+    def slot_site(self, s: dict) -> dict:
+        return s.get("wp_site") or self.site_rec()
+
+    def wp_of(self, s: dict):
+        site = s.get("wp_site") or {}
+        url = site.get("url")
+        if not url or url == self.cfg.site.get("url") or not self.wp_factory:
+            return self.wp
+        if url not in self._wps:
+            self._wps[url] = self.wp_factory(site)
+        return self._wps[url]
 
     # ------------------------------------------------------------------ helpers
     def now(self) -> datetime:
@@ -177,6 +199,8 @@ class Pipeline:
                 continue
             if not enabled and not (existing and existing.get("prepared")):
                 continue
+            if self.cfg.settings.get("finish_only") and not (existing and existing.get("prepared")):
+                continue   # прежняя группа: только дописываем уже подготовленные выпуски
             if enabled and not existing and dt < enabled_since:
                 continue
             try:
@@ -197,6 +221,8 @@ class Pipeline:
         key = self.key(dt)
         s = self.state.slot(key)
         s.setdefault("slot_iso", dt.isoformat())
+        if (s.get("prepared") or s.get("source_key")) and not s.get("wp_site"):
+            s["wp_site"] = self.site_rec()   # выпуск запоминает свой сайт
         if now > dt + self.final_after:
             # последний шанс: выпущенным постам — комментарии, затем закрываем слот
             if s.get("prepared"):
@@ -258,18 +284,20 @@ class Pipeline:
             self.state.mark_source(src["key"], status="reserved", slot=key, link=src["link"],
                                    origin=src["origin"], fingerprint=src["fingerprint"], page_id=src["page_id"])
             self.r.info(f"{key}: выбрана история ({src['origin']}) {src['link'][:90]}")
+        s.setdefault("wp_site", self.site_rec())
+        wp = self.wp_of(s)
         src = s["source"]
         # фото → медиатека WordPress (постоянная ссылка вместо временной ссылки Facebook)
         if not src.get("wp_media_id"):
             slug = f"interes-{dt:%Y%m%d-%H%M}" + (f"-{self.cfg.group.lower()}" if self.cfg.group else "")
             try:
-                found = self.wp.find_media_by_slug(slug)
+                found = wp.find_media_by_slug(slug)
                 if found:
                     media = found[0]
                 else:
                     data, mime = self._download(src["image_url"])
                     ext = mimetypes.guess_extension(mime) or ".jpg"
-                    media = self.wp.upload_media(data, f"{slug}{ext}", mime)
+                    media = wp.upload_media(data, f"{slug}{ext}", mime)
                     self._images[key] = (data, mime)
                 src["wp_media_id"], src["wp_media_url"] = media["id"], media.get("source_url")
                 self.state.save()
@@ -371,7 +399,9 @@ class Pipeline:
 
     def wp_slug(self, dt, lang) -> str:
         if self.cfg.group:
-            return f"iw-{dt:%Y%m%d-%H%M}-{self.cfg.group.lower()}"
+            base = f"iw-{dt:%Y%m%d-%H%M}-{self.cfg.group.lower()}"
+            # в группе из нескольких языков у каждого языка своя статья
+            return base + (f"-{lang.lower()}" if len({p.lang for p in self.cfg.pages}) > 1 else "")
         return f"iw-{dt:%Y%m%d-%H%M}-{lang.lower()}"
 
     def create_wp(self, dt, s, lang, L):
@@ -380,7 +410,7 @@ class Pipeline:
         src = s["source"]
         slug = self.wp_slug(dt, lang)
         try:
-            found = self.wp.find_by_slug(slug)
+            found = self.wp_of(s).find_by_slug(slug)
         except WordPressError as e:
             L["wp_error"] = f"проверка перед созданием: {e}"
             self.r.error(f"{key} {lang}: WordPress недоступен для проверки, повторю позже: {e}")
@@ -393,7 +423,7 @@ class Pipeline:
         img = (f'<figure class="wp-block-image size-full"><img src="{html.escape(src.get("wp_media_url") or "")}" '
                f'alt="{html.escape(text["title"])}"/></figure>\n')
         try:
-            post = self.wp.create_post(
+            post = self.wp_of(s).create_post(
                 title=text["title"], content=img + text["article_html"], slug=slug,
                 status="future" if future else "publish",
                 date_gmt=dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S") if future else None,
@@ -527,7 +557,8 @@ class Pipeline:
     def finish_after_release(self, dt, s):
         key = self.key(dt)
         now = self.now()
-        fmt = self.cfg.site.get("comment_link_format", "https://interes-world.com/?p={wp_id}")
+        fmt = self.slot_site(s).get("comment_link_format") or self.cfg.site.get("comment_link_format")
+        wp = self.wp_of(s)
         for lang in LANG_ORDER:
             L = s["langs"].get(lang) or {}
             pending = [(pid, e) for pid, e in L.get("pages", {}).items()
@@ -536,9 +567,9 @@ class Pipeline:
                 continue
             if not L.get("wp_live"):
                 try:
-                    post = self.wp.get_post(L["wp_id"])
+                    post = wp.get_post(L["wp_id"])
                     if post.get("status") != "publish":
-                        self.wp.update_post(L["wp_id"], status="publish")
+                        wp.update_post(L["wp_id"], status="publish")
                     L["wp_live"] = True
                     self.state.save()
                 except WordPressError as err:

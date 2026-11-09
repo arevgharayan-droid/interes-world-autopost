@@ -30,6 +30,7 @@ jobs:
           WP_USER: ${{ secrets.WP_USER }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
           WP_API_KEY: ${{ secrets.WP_API_KEY }}
+          WP_API_KEY_HETAQRQIR: ${{ secrets.WP_API_KEY_HETAQRQIR }}
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -m autopost check

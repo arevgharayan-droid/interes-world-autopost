@@ -42,6 +42,7 @@ jobs:
           WP_USER: ${{ secrets.WP_USER }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
           WP_API_KEY: ${{ secrets.WP_API_KEY }}
+          WP_API_KEY_HETAQRQIR: ${{ secrets.WP_API_KEY_HETAQRQIR }}
           CONFIRM: ${{ inputs.confirm }}
           PAGE: ${{ inputs.page }}
           TEST_ID: ${{ inputs.test_id }}

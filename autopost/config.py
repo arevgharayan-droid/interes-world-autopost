@@ -89,7 +89,13 @@ class Config:
     def group_label(self, g: str) -> str:
         if g == "EN" and "EN2" in self.groups():
             return "EN-1"
+        langs = self.group_langs(g)
+        if len(langs) > 1:          # группа из нескольких языков: одна история на всех, например RU+TR+PT
+            return "+".join(langs)
         return {"EN2": "EN-2"}.get(g, g)
+
+    def group_langs(self, g: str) -> list:
+        return [lg for lg in LANG_ORDER if any(p.group == g for p in self.languages[lg]["pages"])]
 
     def active_langs(self) -> list:
         """Языки, у которых есть хотя бы одна страница."""
@@ -184,12 +190,26 @@ def describe(cfg: Config) -> str:
     return f"{len(cfg.pages)} стр.: {parts}" + (f" (отключено: {off})" if off else "")
 
 
-def group_view(cfg: Config, g: str) -> Config:
-    """Конфигурация одной группы: только её страницы, своя очередь queue/<группа>.txt, только присланные ссылки."""
+def site_for(settings: dict, g: str) -> dict:
+    """Сайт WordPress группы: общий блок site, поверх него — group_sites.<группа> (если задан)."""
+    site = dict(settings.get("site") or {})
+    site.update((settings.get("group_sites") or {}).get(g) or {})
+    return site
+
+
+def group_view(cfg: Config, g: str, page_ids=None) -> Config:
+    """Конфигурация одной группы: только её страницы, своя очередь queue/<группа>.txt, только присланные ссылки.
+
+    page_ids — «завершающий» вид прежней группы (её страницы уже перенесены в другие группы): только эти
+    страницы и только уже подготовленные выпуски — дописать комментарии и закрыть слоты."""
     import copy
-    langs = {lg: {"name": v["name"], "pages": [p for p in v["pages"] if p.group == g]}
+    pick = (lambda p: p.page_id in page_ids) if page_ids is not None else (lambda p: p.group == g)
+    langs = {lg: {"name": v["name"], "pages": [p for p in v["pages"] if pick(p)]}
              for lg, v in cfg.languages.items()}
     settings = copy.deepcopy(cfg.settings)
+    settings["site"] = site_for(cfg.settings, g)
+    if page_ids is not None:
+        settings["finish_only"] = True
     src = settings.setdefault("sources", {})
     src["order"] = ["manual"]
     src["manual_file"] = f"queue/{g}.txt"
@@ -197,7 +217,7 @@ def group_view(cfg: Config, g: str) -> Config:
     src.setdefault("google_sheet", {})["enabled"] = False
     return Config(root=cfg.root, settings=settings, languages=langs,
                   fallback_source_page_id=cfg.fallback_source_page_id,
-                  pages=[p for p in cfg.pages if p.group == g], all_pages=cfg.all_pages, group=g)
+                  pages=[p for p in cfg.pages if pick(p)], all_pages=cfg.all_pages, group=g)
 
 
 def group_state_path(cfg: Config, g: str) -> Path:

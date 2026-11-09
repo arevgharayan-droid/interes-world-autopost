@@ -406,7 +406,10 @@ class GroupQueueTests(unittest.TestCase):
         graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
         tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
         groups = cfg.groups()
-        self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU", "TR", "DE", "PT"])
+        self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU"])
+        self.assertEqual(cfg.group_label("RU"), "RU+TR+PT")
+        self.assertEqual(cfg.group_label("NL"), "NL+DE")
+        n_articles = sum(len(cfg.group_langs(g)) for g in groups)   # в группе из нескольких языков — статья на язык
         # «чужая» страница-источник для каждой группы — истории читаются через запасную страницу
         fb = cfg.fallback_source_page_id
         (tmp / "queue").mkdir(exist_ok=True)
@@ -437,14 +440,117 @@ class GroupQueueTests(unittest.TestCase):
         expected = sum(1 for p in cfg.pages if p.page_id != src_page)
         self.assertEqual(len(graph.posts), expected)                 # каждая страница — один пост
         self.assertEqual(len({p["page"] for p in graph.posts.values()}), expected)
-        self.assertEqual(len(wp.posts), len(groups))                 # своя статья у каждой группы
-        self.assertEqual(len({p["slug"] for p in wp.posts.values()}), len(groups))
+        self.assertEqual(len(wp.posts), n_articles)                  # своя статья у каждой группы и языка
+        self.assertEqual(len({p["slug"] for p in wp.posts.values()}), n_articles)
         self.assertEqual(len(wp.media), len(groups))                 # и своё фото
         self.assertTrue(all(len(graph.comments_by.get(pid, [])) == 1 for pid in graph.posts))
         # следующий выпуск: очереди пусты — ничего не публикуется, ошибок нет
         clock["now"] = clock["now"].replace(hour=11, minute=7)
         tick()
         self.assertEqual(len(graph.posts), expected)
+
+
+def _queue_story(graph, cfg, tmp, g, n, text):
+    pid = cfg.pages[0].page_id   # «чужая» для групп RU/NL страница-источник
+    graph.source_posts.setdefault(pid, []).append({
+        "id": f"{pid}_{n}", "message": text + " " + STORY, "full_picture": "https://x/y.jpg",
+        "attachments": {"data": [{"media_type": "photo"}]}})
+    q = tmp / "queue" / f"{g}.txt"
+    q.parent.mkdir(exist_ok=True)
+    q.write_text((q.read_text(encoding="utf-8") if q.exists() else f"# {g}\n") + f"{pid}_{n}\n", encoding="utf-8")
+
+
+class RegroupTests(unittest.TestCase):
+    """Страницы перенесли в другую группу, когда выпуск уже подготовлен: прежняя группа дописывает
+    комментарии к своим постам, новая не ставит этим страницам второй пост; со следующего выпуска — общая история."""
+
+    def test_move_pages_between_groups_mid_flight(self):
+        from autopost.cli import _legacy_groups
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        tr = [p for p in cfg.pages if p.lang == "TR"]
+        for p in tr:
+            p.group = "TR"                       # как было до переноса
+        _queue_story(graph, cfg, tmp, "RU", 901, "Story R1.")
+        _queue_story(graph, cfg, tmp, "TR", 902, "Story T1.")
+
+        def run(views):
+            for g, (gcfg, st) in views.items():
+                Pipeline(gcfg, st, graph, wp, Generator(gcfg, backend="mock"), tokens,
+                         now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+
+        st = {g: State(tmp / f"state/groups/{g}.json") for g in ("RU", "TR")}
+        run({g: (group_view(cfg, g), st[g]) for g in ("RU", "TR")})
+        self.assertTrue(st["TR"].slots["2030-05-01 09:00"]["prepared"])
+        # перенос: TR теперь в группе RU; следующая история группы RU — уже на трёх языках
+        for p in tr:
+            p.group = "RU"
+        _queue_story(graph, cfg, tmp, "RU", 903, "Story R2.")
+        for hh, mm in ((9, 7), (9, 37), (12, 7), (12, 37)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            legacy = _legacy_groups(cfg)
+            views = {g: (group_view(cfg, g), State(tmp / f"state/groups/{g}.json")) for g in cfg.groups()
+                     if g in ("RU",)}
+            views.update({g: (group_view(cfg, g, page_ids=ids), lst) for g, (lst, ids) in legacy.items()})
+            run(views)
+        tr_ids = {p.page_id for p in tr}
+        per_page = {}
+        for pid, post in graph.posts.items():
+            per_page.setdefault(post["page"], []).append(pid)
+        for p in tr:
+            self.assertEqual(len(per_page[p.page_id]), 2, p.name)    # 09:00 (прежняя группа) + 12:00 (RU)
+            self.assertTrue(all(len(graph.comments_by.get(x, [])) == 1 for x in per_page[p.page_id]), p.name)
+        old = State(tmp / "state/groups/TR.json")
+        self.assertEqual(old.slots["2030-05-01 09:00"]["status"], "done")
+        ru = State(tmp / "state/groups/RU.json")
+        self.assertEqual(ru.slots["2030-05-01 09:00"]["status"], "done")
+        self.assertTrue(ru.slots["2030-05-01 12:00"]["langs"]["TR"].get("generated"))
+        self.assertTrue(all(ru.slots["2030-05-01 09:00"]["langs"]["TR"]["pages"][x]["status"] == "no_access"
+                            for x in tr_ids))
+        self.assertEqual(_legacy_groups(cfg), {})                    # прежней группе больше нечего дописывать
+
+
+class SiteSwitchTests(unittest.TestCase):
+    """Сайт группы сменили после подготовки выпуска: статья и ссылка в комментарии — со старого сайта."""
+
+    def test_prepared_release_stays_on_its_site(self):
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp_a, wp_b = FakeGraph(cfg, lambda: clock["now"]), FakeWP(), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        _queue_story(graph, cfg, tmp, "NL", 911, "Story N1.")
+        st = State(tmp / "state/groups/NL.json")
+        url_a = cfg.site["url"]
+        gcfg = group_view(cfg, "NL")
+        Pipeline(gcfg, st, graph, wp_a, Generator(gcfg, backend="mock"), tokens,
+                 now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+        self.assertEqual(len(wp_a.posts), 2)                         # NL и DE
+        cfg.settings["group_sites"] = {"NL": {"url": "https://b.example",
+                                              "comment_link_format": "https://b.example/?p={wp_id}"}}
+        made = []
+
+        def factory(site):
+            made.append(site["url"])
+            return wp_a if site["url"] == url_a else None
+        for hh, mm in ((9, 7), (9, 37)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            gcfg = group_view(cfg, "NL")
+            self.assertEqual(gcfg.site["url"], "https://b.example")
+            Pipeline(gcfg, st, graph, wp_b, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP(), wp_factory=factory).tick()
+        self.assertEqual(wp_b.posts, {})
+        self.assertIn(url_a, made)
+        self.assertTrue(all(p["status"] == "publish" for p in wp_a.posts.values()))
+        prefix = cfg.settings["site"]["comment_link_format"].split("{")[0]
+        msgs = [c["message"] for cs in graph.comments_by.values() for c in cs]
+        self.assertTrue(msgs and all(m.startswith(prefix) for m in msgs), msgs[:2])
+        self.assertEqual(st.slots["2030-05-01 09:00"]["status"], "done")
 
 
 class LateLinkTests(unittest.TestCase):
@@ -504,7 +610,7 @@ class RepostTests(unittest.TestCase):
         clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
         graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
         tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
-        g = "RU"
+        g = "IT"   # группа одного языка: одна статья на выпуск
         gcfg = group_view(cfg, g)
         st = State(tmp / f"state/groups/{g}.json")
         (tmp / "queue").mkdir(exist_ok=True)

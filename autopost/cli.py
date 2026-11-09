@@ -38,14 +38,31 @@ def summary(md: str, file: str | None = None, cfg=None):
         p.write_text(md, encoding="utf-8")
 
 
+def site_secrets(site: dict) -> tuple:
+    """Имена секретов сайта: ключ Make Connector или логин + пароль приложения (по умолчанию — как раньше)."""
+    return (site.get("key_secret") or "WP_API_KEY", site.get("user_secret") or "WP_USER",
+            site.get("password_secret") or "WP_APP_PASSWORD")
+
+
+def real_wp(site: dict):
+    # site.wp_auth: application_password (пароль приложения WordPress) или make_connector (ключ из секрета)
+    key_s, user_s, pass_s = site_secrets(site)
+    api_key = os.environ.get(key_s) if site.get("wp_auth") == "make_connector" else None
+    return WordPress(site["url"], os.environ.get(user_s, ""), os.environ.get(pass_s, ""), api_key=api_key)
+
+
+def all_sites(cfg) -> list:
+    """Сайты WordPress, на которые пишут группы (без повторов), с группами каждого."""
+    out = {}
+    for g in cfg.groups():
+        site = config_mod.site_for(cfg.settings, g)
+        out.setdefault(site["url"], (site, []))[1].append(cfg.group_label(g))
+    return list(out.values())
+
+
 def real_services(cfg):
     import requests
-    graph = Graph(cfg.graph_version)
-    # site.wp_auth: application_password (пароль приложения WordPress) или make_connector (ключ WP_API_KEY)
-    api_key = os.environ.get("WP_API_KEY") if cfg.site.get("wp_auth") == "make_connector" else None
-    wp = WordPress(cfg.site["url"], os.environ.get("WP_USER", ""), os.environ.get("WP_APP_PASSWORD", ""),
-                   api_key=api_key)
-    return graph, wp, requests.Session()
+    return Graph(cfg.graph_version), real_wp(cfg.site), requests.Session()
 
 
 def download(http, url) -> tuple:
@@ -73,10 +90,13 @@ def cmd_check(cfg, args) -> int:
               f"{'ВКЛЮЧЕНО' if cfg.settings.get('schedule_enabled') else 'выключено'}")
     for name in ("FB_APP_ID", "FB_APP_SECRET"):
         res(bool(os.environ.get(name)), f"Секрет {name} {'задан' if os.environ.get(name) else 'НЕ задан'}")
-    mc = cfg.site.get("wp_auth") == "make_connector"
-    wp_ok = os.environ.get("WP_API_KEY") if mc else (os.environ.get("WP_USER") and os.environ.get("WP_APP_PASSWORD"))
-    res(bool(wp_ok), f"WordPress {cfg.site['url']}: " + ("ключ Make Connector (WP_API_KEY)" if mc
-                                      else "пароль приложения (WP_USER + WP_APP_PASSWORD)") + (" задан" if wp_ok else " НЕ задан"))
+    for site, labels in all_sites(cfg):
+        key_s, user_s, pass_s = site_secrets(site)
+        mc = site.get("wp_auth") == "make_connector"
+        wp_ok = os.environ.get(key_s) if mc else (os.environ.get(user_s) and os.environ.get(pass_s))
+        res(bool(wp_ok), f"WordPress {site['url']} ({', '.join(labels)}): "
+            + (f"ключ Make Connector ({key_s})" if mc else f"пароль приложения ({user_s} + {pass_s})")
+            + (" задан" if wp_ok else " НЕ задан"))
     has_claude = os.environ.get("CLAUDE_CODE_OAUTH_TOKEN") or os.environ.get("ANTHROPIC_API_KEY")
     res(bool(has_claude), "Секрет Claude (CLAUDE_CODE_OAUTH_TOKEN или ANTHROPIC_API_KEY) "
         + ("задан" if has_claude else "НЕ задан"))
@@ -103,18 +123,20 @@ def cmd_check(cfg, args) -> int:
             ok.append("Facebook: названия отличаются от Make (ID совпадают, это не ошибка): " + "; ".join(renamed))
     except TokenError as e:
         res(False, f"Facebook: {e}")
-    try:
-        me = wp.me()
-        caps = me.get("capabilities") or {}
-        good = caps.get("publish_posts") or caps.get("administrator") or "administrator" in (me.get("roles") or [])
-        res(bool(good), f"WordPress: вход выполнен как «{me.get('name')}»"
-            + ("" if good else " — но у пользователя нет права публиковать записи"))
-    except WordPressError as e:
-        hint = ""
-        if "not currently logged in" in str(e) or "не авторизован" in str(e).lower():
-            hint = (" — хостинг, похоже, вырезает заголовок авторизации. Решение: секрет WP_API_KEY "
-                    "с ключом плагина Make Connector (WordPress → Make → API Key).")
-        res(False, f"WordPress: {e}{hint}")
+    for site, _labels in all_sites(cfg):
+        host = site["url"].split("//")[-1]
+        try:
+            me = real_wp(site).me()
+            caps = me.get("capabilities") or {}
+            good = caps.get("publish_posts") or caps.get("administrator") or "administrator" in (me.get("roles") or [])
+            res(bool(good), f"WordPress {host}: вход выполнен как «{me.get('name')}»"
+                + ("" if good else " — но у пользователя нет права публиковать записи"))
+        except WordPressError as e:
+            hint = ""
+            if "not currently logged in" in str(e) or "не авторизован" in str(e).lower():
+                hint = (f" — хостинг, похоже, вырезает заголовок авторизации. Решение: секрет {site_secrets(site)[0]} "
+                        "с ключом плагина Make Connector (WordPress → Make → API Key).")
+            res(False, f"WordPress {host}: {e}{hint}")
     try:
         used = Generator(cfg).ping()
         res(True, f"Claude: отвечает (способ: {'подписка Max' if used == 'subscription' else used})")
@@ -192,7 +214,10 @@ def _peek_source(cfg, graph, tokens, link):
 
 
 def cmd_private_test(cfg, args, services=None, tokens=None) -> int:
-    graph, wp, http = services or real_services(cfg)
+    if services is None:
+        tp = cfg.page(args.page or cfg.test_page_id())
+        services = real_services(config_mod.group_view(cfg, tp.group) if tp else cfg)
+    graph, wp, http = services
     st = state_of(cfg)
     tz = ZoneInfo(cfg.tz)
     tokens = tokens or load_tokens(cfg)
@@ -362,10 +387,35 @@ def _unfinished(st: State) -> bool:
                for s in st.slots.values())
 
 
+def _legacy_groups(cfg) -> dict:
+    """Прежние группы (их страницы перенесены в другие), у которых остались недописанные выпуски:
+    группа → страницы из этих выпусков. Их дописываем (комментарии, закрытие), новых историй не берём."""
+    out = {}
+    current = set(cfg.groups())
+    d = cfg.path("state/groups")
+    for f in sorted(d.glob("*.json")) if d.exists() else []:
+        g = f.stem
+        if g in current:
+            continue
+        st = State(f)
+        if not _unfinished(st):
+            continue
+        ids = {pid for s in st.slots.values()
+               if s.get("prepared") and s.get("status") not in ("done", "done_with_errors", "missed", "cancelled")
+               for L in (s.get("langs") or {}).values() for pid in (L.get("pages") or {})}
+        out[g] = (st, ids)
+    return out
+
+
 def cmd_tick(cfg, args) -> int:
     """Один запуск по расписанию: каждая группа страниц — своя история из своей очереди queue/<группа>.txt."""
     enabled = bool(cfg.settings.get("schedule_enabled"))
     states = _group_states(cfg)
+    legacy = _legacy_groups(cfg)
+    views = {g: config_mod.group_view(cfg, g) for g in states}
+    for g, (st, ids) in legacy.items():
+        states[g] = st
+        views[g] = config_mod.group_view(cfg, g, page_ids=ids)
     if not enabled and not any(_unfinished(st) for st in states.values()):
         for st in states.values():
             if st.data.get("enabled_since"):
@@ -386,11 +436,11 @@ def cmd_tick(cfg, args) -> int:
             _checkpoint()
 
     def run_group(g):
-        gcfg = config_mod.group_view(cfg, g)
-        g_graph, g_wp, g_http = real_services(cfg)  # своё соединение у каждой группы
+        gcfg = views[g]
+        g_graph, g_wp, g_http = real_services(gcfg)  # своё соединение у каждой группы, сайт группы
         try:
             rep = Pipeline(gcfg, states[g], g_graph, g_wp, Generator(gcfg), tokens, http=g_http,
-                           checkpoint=checkpoint).tick()
+                           checkpoint=checkpoint, wp_factory=real_wp).tick()
         except Exception as e:  # noqa: BLE001 — сбой одной группы не останавливает остальные
             rep = Report()
             rep.error(f"группа {cfg.group_label(g)}: непредвиденная ошибка {type(e).__name__}: {e}", final=True)
@@ -401,7 +451,8 @@ def cmd_tick(cfg, args) -> int:
     md, final = ["## Автопостинг по группам", ""], 0
     for g, rep in results:
         final += len(rep.final_errors)
-        md.append(rep.markdown(title=f"{cfg.group_label(g)} · {len(config_mod.group_view(cfg, g).pages)} стр.")
+        label = cfg.group_label(g) if g not in legacy else f"{g} (прежняя группа: дописываю уже готовые выпуски)"
+        md.append(rep.markdown(title=f"{label} · {len(views[g].pages)} стр.")
                   .replace("## ", "### ", 1))
     summary("\n".join(md), "previews/tick-latest.md", cfg)
     return 1 if final else 0
@@ -450,9 +501,16 @@ def cmd_set_schedule(cfg, args) -> int:
 
 
 def cmd_wp_diagnose(cfg) -> int:
-    """Пошаговая проверка записи в WordPress (тестовые объекты сразу удаляются)."""
-    _g, wp, _h = real_services(cfg)
+    """Пошаговая проверка записи в WordPress на каждом сайте (тестовые объекты сразу удаляются)."""
     out = ["## Диагностика WordPress", ""]
+    for site, labels in all_sites(cfg):
+        out += ["", f"### {site['url']} ({', '.join(labels)})", ""]
+        _wp_diagnose_site(real_wp(site), out)
+    summary("\n".join(out) + "\n", "previews/wp-diagnose.md", cfg)
+    return 0
+
+
+def _wp_diagnose_site(wp, out):
     def step(name, fn):
         try:
             r = fn()
@@ -487,8 +545,6 @@ def cmd_wp_diagnose(cfg) -> int:
                 pass
         return f"найдено и удалено: {ids}"
     step("найти и удалить тестовые медиа", find_media)
-    summary("\n".join(out) + "\n", "previews/wp-diagnose.md", cfg)
-    return 0
 
 
 def cmd_ops(cfg, args) -> int:
@@ -555,6 +611,8 @@ def repost_slot(cfg, st: State, g: str, from_key: str, to_key: str) -> str:
     dt_old = datetime.strptime(from_key, "%Y-%m-%d %H:%M").replace(tzinfo=tz)
     new = {"slot_iso": dt_new.isoformat(), "status": "prepared", "prepared": True, "repost_of": from_key,
            "source_key": old["source_key"], "source": copy.deepcopy(old.get("source") or {}), "langs": {}}
+    if old.get("wp_site"):
+        new["wp_site"] = old["wp_site"]   # та же статья — тот же сайт
     for lang, L in (old.get("langs") or {}).items():
         if L.get("generated") and L.get("wp_id"):
             src = cfg.path(f"content/{dt_old:%Y-%m-%d}/{g}/{dt_old:%H%M}-{lang}.json")
@@ -698,7 +756,11 @@ def cmd_cancel_slot(cfg, key: str, services=None, tokens=None, state=None) -> in
     if not s:
         print(f"Слот {key} не найден")
         return 1
-    graph, wp, _http = services or real_services(cfg)
+    if services is None:
+        services = real_services(cfg)
+        if s.get("wp_site"):
+            services = (services[0], real_wp(s["wp_site"]), services[2])
+    graph, wp, _http = services
     tokens = tokens or load_tokens(cfg)
     ts = int(datetime.fromisoformat(s["slot_iso"]).timestamp())
     removed, kept, errors = 0, 0, []
