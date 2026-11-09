@@ -1,7 +1,21 @@
-## Диагностика WordPress
-
-- ✅ users/me: admin
-- ✅ медиа multipart (сырой ответ): HTTP 200 ct=application/json; charset=utf-8 body={"filesize":22,"ID":8,"post_author":"1","post_date":"2026-11-09 13:00:16","post_date_gmt":"2026-11-09 13:00:16","post_content":"","post_title":"autopost-test.jpg","post_excerpt":"","post_status":"inherit","comment_status":"open","ping_status":"closed","post_password":"","post_name":"autopost-test-jpg","to_ping":"","pinged":"","post_modified":"2026-11-09 13:00:16","post_modified_gmt":"2026-11-09 13
-- ✅ медиа multipart + title (сырой ответ): HTTP 200 body={"filesize":22,"ID":9,"post_author":"1","post_date":"2026-11-09 13:00:16","post_date_gmt":"2026-11-09 13:00:16","post_content":"","post_title":"autopost test","post_excerpt":"","post_status":"inherit","comment_status":"open","ping_status":"closed","post_password":"","post_name":"autopost-test","to_ping":"","pinged":"","post_modified":"2026-11-09 13:00:16","post_modified_gmt":"2026-11-09 13:00:16",
-- ✅ найти и удалить тестовые медиа: найдено и удалено: [8, 9]
-
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/runner/work/interes-world-autopost/interes-world-autopost/autopost/__main__.py", line 5, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/runner/work/interes-world-autopost/interes-world-autopost/autopost/cli.py", line 867, in main
+    return fn(cfg, args)
+           ^^^^^^^^^^^^^
+  File "/home/runner/work/interes-world-autopost/interes-world-autopost/autopost/cli.py", line 503, in cmd_ops
+    return cmd_private_test(cfg, ns(source=a.get("source", ""), page=a.get("page", ""), keep=False,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/interes-world-autopost/interes-world-autopost/autopost/cli.py", line 202, in cmd_private_test
+    src = _peek_source(cfg, graph, tokens, args.source)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/interes-world-autopost/interes-world-autopost/autopost/cli.py", line 180, in _peek_source
+    info = parse_link(link, cfg.profile_to_page())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/interes-world-autopost/interes-world-autopost/autopost/sources.py", line 30, in parse_link
+    raise SourceError("короткая ссылка /share/ или pfbid не содержит числовых ID — "
+autopost.sources.SourceError: короткая ссылка /share/ или pfbid не содержит числовых ID — откройте пост и скопируйте полную ссылку (как и в Make)
