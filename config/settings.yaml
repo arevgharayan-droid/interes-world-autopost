@@ -34,7 +34,9 @@ site:
   comment_link_format: "https://peakproductions.co/?p={wp_id}"
   # application_password — пароль приложения WordPress (секреты WP_USER + WP_APP_PASSWORD);
   # make_connector — ключ плагина Make Connector (секрет WP_API_KEY), так было на interes-world.com.
-  wp_auth: application_password
+  # На peakproductions.co хостинг вырезает заголовок авторизации (проверка 09.11: rest_not_logged_in даже
+  # для несуществующего логина), поэтому, как и раньше, — ключ плагина Make Connector.
+  wp_auth: make_connector
   # future — статья выходит на сайте в тот же час, что и пост; publish — сразу.
   wp_status_mode: future
   # Ставить фото ещё и как «изображение записи». В Make не ставилось.
