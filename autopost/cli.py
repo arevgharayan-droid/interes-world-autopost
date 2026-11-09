@@ -599,6 +599,24 @@ def cmd_site_check(cfg, url: str) -> int:
             out.append(f"- {path}: HTTP {r.status_code} · {ct[:40]}{extra} · {r.text[:120]!r}")
         except requests.RequestException as e:
             out.append(f"- {path}: ошибка {e}")
+    # Доходит ли заголовок авторизации до WordPress: заведомо несуществующий логин должен дать invalid_username,
+    # а rest_not_logged_in значит, что хостинг вырезает заголовок. Затем — код ответа с секретами (без самих секретов).
+    probes = [("пробный несуществующий логин", ("autopost-probe-no-such-user", "abcd efgh ijkl mnop qrst uvwx"))]
+    if os.environ.get("WP_USER") and os.environ.get("WP_APP_PASSWORD"):
+        probes.append(("секреты WP_USER + WP_APP_PASSWORD", (os.environ["WP_USER"], os.environ["WP_APP_PASSWORD"])))
+    for label, auth in probes:
+        try:
+            r = requests.get(base + "/wp-json/wp/v2/users/me", headers=ua, auth=auth, timeout=30)
+            try:
+                d = r.json()
+                code = d.get("code") or f"вход выполнен, пользователь «{d.get('name')}»"
+            except ValueError:
+                code = r.text[:80]
+            out.append(f"- авторизация ({label}): HTTP {r.status_code} · {code}")
+        except requests.RequestException as e:
+            out.append(f"- авторизация ({label}): ошибка {e}")
+    out += ["", "Расшифровка: invalid_username — такого логина на сайте нет; incorrect_password — пароль приложения "
+            "неверный; rest_not_logged_in — заголовок авторизации не доходит до WordPress."]
     summary("\n".join(out) + "\n", "previews/site-check.md", cfg)
     return 0
 
