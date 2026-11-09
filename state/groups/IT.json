@@ -2057,7 +2057,12 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-0000-it.jpg"
    },
    "source_key": "post:100044599086455_1657929685703652",
-   "status": "in_progress"
+   "status": "in_progress",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-10 12:00": {
    "langs": {},
