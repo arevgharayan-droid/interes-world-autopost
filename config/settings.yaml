@@ -28,15 +28,16 @@ timing:
   keep_state_days: 14
 
 site:
-  # С 09.11.2026 статьи публикуются на peakproductions.co (interes-world.com был недоступен).
-  url: https://peakproductions.co
+  # С 09.11.2026 (21:00) два сайта: по умолчанию — hetaqrqir.com, группа RU (RU + TR + PT) — peakproductions.co
+  # (см. group_sites). До этого: interes-world.com, затем peakproductions.co.
+  url: https://hetaqrqir.com
   # Ссылка в первом комментарии.
-  comment_link_format: "https://peakproductions.co/?p={wp_id}"
+  comment_link_format: "https://hetaqrqir.com/?p={wp_id}"
   # application_password — пароль приложения WordPress (секреты WP_USER + WP_APP_PASSWORD);
-  # make_connector — ключ плагина Make Connector (секрет WP_API_KEY), так было на interes-world.com.
-  # На peakproductions.co хостинг вырезает заголовок авторизации (проверка 09.11: rest_not_logged_in даже
-  # для несуществующего логина), поэтому, как и раньше, — ключ плагина Make Connector.
+  # make_connector — ключ плагина Make Connector. На обоих сайтах хостинг вырезает заголовок авторизации
+  # (проверка 09.11: rest_not_logged_in даже для несуществующего логина), поэтому — ключ Make Connector.
   wp_auth: make_connector
+  key_secret: WP_API_KEY_HETAQRQIR
   # future — статья выходит на сайте в тот же час, что и пост; publish — сразу.
   wp_status_mode: future
   # Ставить фото ещё и как «изображение записи». В Make не ставилось.
@@ -47,7 +48,12 @@ site:
 # Свой сайт для отдельных групп (поверх блока site). Ключ: группа; поля — как в site, плюс имена секретов:
 # key_secret (ключ Make Connector), user_secret / password_secret (пароль приложения).
 # Выпуск, подготовленный на одном сайте, на нём и заканчивается, даже если сайт группы поменяли.
-group_sites: {}
+group_sites:
+  RU:
+    url: https://peakproductions.co
+    comment_link_format: "https://peakproductions.co/?p={wp_id}"
+    wp_auth: make_connector
+    key_secret: WP_API_KEY
 
 claude:
   # auto — подписка Max (CLAUDE_CODE_OAUTH_TOKEN), при сбое — API (если задан ANTHROPIC_API_KEY)
