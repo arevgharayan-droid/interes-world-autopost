@@ -5,6 +5,7 @@
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
   "8e4386a701b76151555b": "2026-11-01T18:14:18+00:00",
+  "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00",
   "e19af41ca961271a3c24": "2026-11-01T14:04:10+00:00"
@@ -1001,7 +1002,46 @@
    "status": "no_source"
   },
   "2026-11-09 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Отец зашёл в школьную столовую и услышал шёпот дочери: «Пап, ты же уже оплатил их обеды",
+     "warnings": [
+      "длина текста FB 576 слов (исходник 716, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 25,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/885667826_122122770651444459_5873307657434343402_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=l3iYvNMM1nQQ7kNvwFT_pOc&_nc_oc=AdqETQdvaFzjjrIvBESnivkD8rvimGzNC-S3yIiUKMxmuHAj-WFfQ6myET00it9MgSs&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=WIskJDDmLZ78id-RYneyIg&_nc_tpa=Q5bMBQKjLWiOhBJckhdrpZXmuRix1f2P2LLbpqQ13qD_Hbyt0E9nq2vzBT8xA5KIqBI6X-qux3ZFPF61Rw&oh=00_AQRQervlVPPV71oJBG4vnyr_x8rZGYxQPJNnLKTyKlobuA&oe=6AF78F86",
@@ -1013,7 +1053,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-ru.jpg"
    },
    "source_key": "post:61593333781016_122122770705444459",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-09 21:00": {
    "langs": {},
@@ -1125,7 +1165,7 @@
    "origin": "manual",
    "page_id": "61593333781016",
    "slot": "2026-11-09 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140150959225301": {
    "fingerprint": "772a34aefdef827462f8",
