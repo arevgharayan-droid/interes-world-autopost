@@ -3,6 +3,7 @@
  "output_fps": {
   "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
   "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
+  "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
   "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
   "8660e8f9c6f8d691b287": "2026-11-09T13:25:53+00:00",
@@ -1600,7 +1601,44 @@
    "status": "in_progress"
   },
   "2026-11-10 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La fille de la domestique a lancé au parrain de la mafia : « Je suis ta nouvelle garde du corps » – quelques heures plus tard, elle accusait son homme de confiance",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 46,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/885055004_122140428500778984_7093970988081354034_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OcFs2rc4_jAQ7kNvwETy11k&_nc_oc=AdpDtGMll965QafhJ4XgWXxkfGT9JCP8jjNpYHeR_c8e_UgM3q8EFzJ6svfHfobvp7o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=yqz5IZHqMBs3l8luOGxKJA&_nc_tpa=Q5bMBQL638QfBcGztsR_a4KnzEF4F2mjE87EGQWrK572ucSXm2ZgwcuJCAswH9ybgGBWjrzlB-P3PetECw&oh=00_AQSJB3df5c7FGtJGYoYKiI0N2BeqXLl37i02uFdONTKFdQ&oe=6AF7A394",
@@ -1612,7 +1650,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-0000-fr.jpg"
    },
    "source_key": "post:61573369523860_122140459448778984",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 12:00": {
    "langs": {},
@@ -1697,7 +1735,7 @@
    "origin": "manual",
    "page_id": "61573369523860",
    "slot": "2026-11-10 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122146579899348565": {
    "error": "слот пропущен",
