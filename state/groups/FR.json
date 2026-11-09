@@ -1729,6 +1729,8 @@
      },
      "title": "La fille de la domestique a lancé au parrain de la mafia : « Je suis ta nouvelle garde du corps » – quelques heures plus tard, elle accusait son homme de confiance",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 20,
      "wp_status": "future"
     },
     "IT": {
@@ -1740,7 +1742,8 @@
      "skipped": "нет подключённых страниц"
     },
     "PT": {
-     "pages": {}
+     "pages": {},
+     "skipped": "нет подключённых страниц"
     },
     "RU": {
      "pages": {},
@@ -1751,7 +1754,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-10T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/885055004_122140428500778984_7093970988081354034_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OcFs2rc4_jAQ7kNvwETy11k&_nc_oc=AdpDtGMll965QafhJ4XgWXxkfGT9JCP8jjNpYHeR_c8e_UgM3q8EFzJ6svfHfobvp7o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=yqz5IZHqMBs3l8luOGxKJA&_nc_tpa=Q5bMBQL638QfBcGztsR_a4KnzEF4F2mjE87EGQWrK572ucSXm2ZgwcuJCAswH9ybgGBWjrzlB-P3PetECw&oh=00_AQSJB3df5c7FGtJGYoYKiI0N2BeqXLl37i02uFdONTKFdQ&oe=6AF7A394",
@@ -1763,7 +1766,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-0000-fr.jpg"
    },
    "source_key": "post:61573369523860_122140459448778984",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
