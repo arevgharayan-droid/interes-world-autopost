@@ -2631,6 +2631,8 @@
      },
      "title": "I Offered a Stranger Everything After My Board Stole My Company, But He Only Wrapped a Blanket Around Me",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 24,
      "wp_status": "future"
     },
     "FR": {
@@ -2646,7 +2648,8 @@
      "skipped": "нет подключённых страниц"
     },
     "PT": {
-     "pages": {}
+     "pages": {},
+     "skipped": "нет подключённых страниц"
     },
     "RU": {
      "pages": {},
@@ -2657,7 +2660,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-10T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/865391331_122144532189170333_2439336495492111804_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5nAwoVnAU08Q7kNvwGIqEM2&_nc_oc=AdrOfcNCTKV3CZ8cqkTJSKmTM0dqd-6IpvqwKFHA7rp5AucbBf-SUdgElg4SdWDj3fQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=7_UqKY_5ExtTyEK1aRP7Eg&_nc_tpa=Q5bMBQJgQfv4uhfceL64OseiTEO0oInfj96ox4bCI-hm30CorDejyQTr4kjkqN_KulJlXDEfZUQspBnaVQ&oh=00_AQQynTkjk_fE62mgSa5Bpo0mbTpK2C0CZ1fT_qWUlOGAGw&oe=6AF79F2D",
@@ -2669,7 +2672,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-0000-en2.jpg"
    },
    "source_key": "post:61585110014040_122144532279170333",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
