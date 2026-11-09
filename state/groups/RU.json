@@ -2,14 +2,17 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
   "0475676f7d35cf5ec822": "2026-10-29T20:24:32+00:00",
+  "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
+  "6ad19445c3c2f9ca584e": "2026-11-09T20:00:50+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
   "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
+  "8d212afd28041fbd462e": "2026-11-09T20:00:50+00:00",
   "8e4386a701b76151555b": "2026-11-01T18:14:18+00:00",
   "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
@@ -1604,7 +1607,68 @@
    }
   },
   "2026-11-10 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ela surpreendeu o marido num hotel em Chicago com os filhos, mas foi ela quem encontrou a aliança dele na mesa de cabeceira",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 84,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я хотела устроить мужу сюрприз в Чикаго, но администратор отеля сам протянул мне ключ, а за дверью номера я увидела то, чего не должна была видеть моя дочь",
+     "warnings": [
+      "длина текста FB 676 слов (исходник 904, цель ±10%)",
+      "длина статьи 561 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 82,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Otel Odasının Kapısını Çocuklarımla Açtığımda Kocamın Yüzüğünü Komodinin Üstünde Gördüm",
+     "warnings": [
+      "длина текста FB 602 слов (исходник 904, цель ±10%)",
+      "длина статьи 532 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 83,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/891619899_1659546445541976_5756207917395742745_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vCdD7Zb4TW8Q7kNvwHG0tte&_nc_oc=AdrVzGcvauUKtWAwrTLLtOzH4-QWyJ4XDrOQOA0XiP-H3fNnwOZh9SFMJR5bVAWrLjM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=b88Sew6M0tr4j0f7B7ekyg&_nc_tpa=Q5bMBQJfZsxXq2J-20Gb-gRGw3jKlPZzgAKRxBoyYxarQdVPQ3mG1lxOJ9Wz28XUDrCjZagVbt7ViwaFHg&oh=00_AQT2F-MOEVREygJrChb6XZk_-TCdOEfNH6nARU-xuGMT2Q&oe=6AF7F009",
@@ -1616,7 +1680,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-1500-ru.jpg"
    },
    "source_key": "post:100044599086455_1661043022058985",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1695,7 +1759,7 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699103431608349": {
    "fingerprint": "72333163c518fa427e98",
