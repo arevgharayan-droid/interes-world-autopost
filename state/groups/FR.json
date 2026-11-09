@@ -5,6 +5,7 @@
   "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
   "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
+  "8660e8f9c6f8d691b287": "2026-11-09T13:25:53+00:00",
   "9f27064d4760d4ec7129": "2026-11-09T13:24:35+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
   "dfc264e5088ceb9596c5": "2026-10-29T20:16:43+00:00",
@@ -1477,7 +1478,47 @@
    "status": "in_progress"
   },
   "2026-11-09 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "J'ai épousé mon premier amour après 45 ans de séparation pour exaucer son dernier vœu, et après sa mort, son fils m'a tendu une enveloppe",
+     "warnings": [
+      "длина текста FB 648 слов (исходник 548, цель ±10%)",
+      "длина статьи 1050 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 35,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/886262064_122125210545457373_6746218032651221128_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aPtNXZzjd0sQ7kNvwFnzr3l&_nc_oc=Adp1xK3J5w9FbeyMIitKB5nW62kFCAo2KmV7rBV4nyy6dhKG7hPvL8QBhsKDWY9n18Q&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=g_HjK8o7VDY05KCK8pDOKw&_nc_tpa=Q5bMBQIU8TKTmINSMbkbBO-p-UYcImX9tgbI5KO-2NmOwQnleT8SgiBZf8DQZ63xKFxEFubQm0WxyxCrRw&oh=00_AQQob-epOzMqcKjf_HN4XHYAMynEauOs5DGdppi4UpnIjQ&oe=6AF78674",
@@ -1489,7 +1530,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-fr.jpg"
    },
    "source_key": "post:61593721215501_122125210629457373",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 00:00": {
    "langs": {},
@@ -1596,7 +1637,7 @@
    "origin": "manual",
    "page_id": "61593721215501",
    "slot": "2026-11-09 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61595030999436_122115257253501033": {
    "fingerprint": "de46d84948ebb5b49d96",

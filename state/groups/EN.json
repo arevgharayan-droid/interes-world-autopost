@@ -8,7 +8,8 @@
   "887a17b48cf1dabf9df6": "2026-10-29T20:16:49+00:00",
   "8f759366031b2b8b0675": "2026-11-01T10:36:39+00:00",
   "b017c47f212a67b357c4": "2026-10-29T20:24:31+00:00",
-  "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00"
+  "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
+  "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00"
  },
  "outputs": {
   "1016419758218222_122145316869204972": "2026-10-29T17:25:54+00:00",
@@ -2284,7 +2285,44 @@
    "status": "in_progress"
   },
   "2026-11-09 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "While My Husband Fought for His Life in the ICU, His Son Sold His Restored Tractor, So I Climbed onto a Hay Wagon and Told 300 Farmers the Truth",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 36,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/885659566_122125458201457373_5541676557550956123_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nNDQxTV-7SwQ7kNvwE2M0iC&_nc_oc=AdqQeD7VKkhMlS4QlfmHWOIbXBmceferU5Haxp-JbGpZ-nvpMlLhWYrBGxJf_DMCmgc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=r2HOOz-woA75rvl4n1cDyQ&_nc_tpa=Q5bMBQIWxz2sPcvZZ70Ak-hQ3xmI3Cbpf2BQooHXlHNh7nFYLmI9X7ib-cOB0Np8Sf-vINxL7NNfDZKOrg&oh=00_AQR5teTWaPhPxocy4Et1O3eIg0aikLr0iE84K3VrXBxs5g&oe=6AF79208",
@@ -2296,7 +2334,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-en.jpg"
    },
    "source_key": "post:61593721215501_122125458423457373",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 00:00": {
    "langs": {},
@@ -2411,7 +2449,7 @@
    "origin": "manual",
    "page_id": "61593721215501",
    "slot": "2026-11-09 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140250871225301": {
    "fingerprint": "46a98d9034c8d6fce365",
