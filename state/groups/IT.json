@@ -6,6 +6,7 @@
   "27cf43d3866fe7568230": "2026-10-29T20:24:35+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
+  "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
   "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
@@ -2601,7 +2602,48 @@
    }
   },
   "2026-11-10 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A sei anni promisi al mio migliore amico di andare al ballo con lui. Il giorno in cui dovevo mantenerla, mia madre chiuse la porta a chiave",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 97,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-10T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/893314343_122130758798893096_8174679336900274044_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2Az1lLzyAxIQ7kNvwGREuu8&_nc_oc=AdodqGk8yTA_hmcc_C5hZcPxNcBcbLC89h8ILb6Z-VvW9ua5-Qfv331jigLI_7jcBpA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=rsJDUD5MDr8ZrBSjPAnfwA&_nc_tpa=Q5bMBQJ_N3VXmyhz2j2iP-7jKky9llSMyS7r1d2AhcQ_cZbFSLbi8XoWv-J7NAHB9hHFUP0UD8UURB3sZw&oh=00_AQThhlf9CDQmTGgy3rLwwR_Z4gI5Vn50pJtkYnN73psmWQ&oe=6AF7ECDA",
@@ -2613,7 +2655,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-it.jpg"
    },
    "source_key": "post:61576792898556_122130758852893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2726,7 +2768,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-10 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",
