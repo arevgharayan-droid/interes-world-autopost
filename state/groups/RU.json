@@ -8,7 +8,8 @@
   "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00",
-  "e19af41ca961271a3c24": "2026-11-01T14:04:10+00:00"
+  "e19af41ca961271a3c24": "2026-11-01T14:04:10+00:00",
+  "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00"
  },
  "outputs": {
   "1008693642337213_122117186594640467": "2026-10-29T17:25:54+00:00",
@@ -1090,7 +1091,46 @@
    "status": "in_progress"
   },
   "2026-11-09 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Готовка и уборка — вся твоя личность, Диана»: после этих слов за праздничным столом она купила билет в Португалию",
+     "warnings": [
+      "длина текста FB 1580 слов (исходник 1875, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 39,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/860572296_122124613563457373_1503348144642669050_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jPripNOmkFwQ7kNvwHZP-gX&_nc_oc=Ado_g1idF5ygoh6fG8NIKg78_M8uxRGfR31guH8wqPQJAXC1KHdyz2C2q5AKigjK_hw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=PT9GRIIQFadtPvBJglR7nw&_nc_tpa=Q5bMBQJDEubn4Y-eTDeV-vlLywW6AStiheMxCtzdF-ytTu1ac3-IbBpBhDLpJMA87zRCN_QMVub5SvXYqQ&oh=00_AQRGWrPe5upZzNpVkHDAoRoPgHlsa3RcYGwP4gRpMqIi8Q&oe=6AF7947A",
@@ -1102,7 +1142,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-ru.jpg"
    },
    "source_key": "post:61593721215501_122124663333457373",
-   "status": "preparing"
+   "status": "prepared"
   },
   "2026-11-10 00:00": {
    "langs": {},
@@ -1217,7 +1257,7 @@
    "origin": "manual",
    "page_id": "61593721215501",
    "slot": "2026-11-09 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140150959225301": {
    "fingerprint": "772a34aefdef827462f8",
