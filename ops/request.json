@@ -1,1 +1,1 @@
-{"id": "rework-2100-0000", "cmd": "rework-slot", "args": {"groups": ["IT", "EN", "EN2", "FR", "NL", "RU"], "slots": ["2026-11-09 21:00", "2026-11-10 00:00"], "move_site": true}}
+{"id": "cq-1011", "cmd": "check-queue", "args": {}}
