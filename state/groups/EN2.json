@@ -2244,7 +2244,17 @@
   "2026-11-09 21:00": {
    "langs": {},
    "slot_iso": "2026-11-09T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/884348728_122125208535457373_7410451978177566136_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CuxcPsWMnXwQ7kNvwGFpR2G&_nc_oc=AdrAyRs5VPmcwZ88HT8QlAYzodylua7JderJ6PB_ynsAoxgXvrerQ7wEfH7uAj2l1WI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xbfttHgAhFrVpb-Urgo3nA&_nc_tpa=Q5bMBQIEh8H4fnjM9S_WL2ev2i4xT6aCpI_V6y-C1QhMN2L9PgWJHxwGDu5xjx__UZo7zaCEl1npiMYGmg&oh=00_AQRVf6He1CE1t3e6zKC0RxpY8cILR6MsKW_aBIBV8j_T7Q&oe=6AF7A4F6",
+    "link": "https://www.facebook.com/share/p/18hKHvx3ZX/",
+    "origin": "manual",
+    "page_id": "61593721215501",
+    "text": "This Single Dad Fought to Adopt 5 Siblings Under 7 Before They Could Be Separated — The Judge Broke Down After Hearing His Reason.\n\nI’m a 29-year-old SINGLE man.\n\nI don’t have a wife, a massive savings account, or some huge house.\n\nBut right now, I’m sitting in the hallway of a family courthouse, watching five terrified little children—all under seven—clinging tightly to each other on a plastic bench.\n\nIn less than an hour, a judge could sign paperwork that separates them for good.\n\nThe system calls it “placement allocation.”\n\nI call it a TRAGEDY.\n\nThree weeks ago, these kids LOST EVERYTHING in a single moment.\n\nI didn’t even know them, but when I saw their faces on the local emergency placement registry, something inside my chest tightened.\n\nThe social workers told me it was IMPOSSIBLE.\n\n“You’re a single man, Carter.\n\nYou can’t raise five small children.\n\nWe already have three different homes arranged across three separate counties.”\n\nThe thought of them being put into DIFFERENT cars, crying for one another, made me feel sick.\n\nSo I did something most people would probably call insane.\n\nI emptied almost all of my savings, bought five car seats, converted my workshop into a large bedroom with bunk beds, and hired a family attorney with nearly the LAST of my money.\n\nNow, we’re finally standing before Judge Miller.\n\nThe state’s attorney is describing me as an inexperienced, unrealistic young man who has NO idea what he’s getting himself into.\n\nAnd honestly, he isn’t completely wrong.\n\nI’m terrified.\n\nBut then the judge leans forward, looks directly at ME with obvious doubt, and asks what my REAL MOTIVE is.\n\nWhy would a young man willingly give up his time, money, freedom, and future for five children who aren’t even related to him?\n\nThe entire courtroom goes silent.\n\nI look toward the oldest boy, who is quietly wiping tears from his little sister’s face.\n\nThen I take a breath.\n\nAnd finally, I tell the judge the reason I never included in any of the paperwork.\n\nThe reason I couldn’t stand by and watch those five children be separated.\n\nBy the time I finished speaking, Judge Miller had removed his glasses.\n\nAnd there were tears in his eyes.\n\n(The rest of the story continues below.)",
+    "wp_media_id": 30,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-en2.jpg"
+   },
+   "source_key": "post:61593721215501_122125242561457373",
+   "status": "preparing"
   },
   "2026-11-10 00:00": {
    "langs": {},
@@ -2352,6 +2362,14 @@
    "page_id": "61593333781016",
    "slot": "2026-11-09 18:00",
    "status": "used"
+  },
+  "post:61593721215501_122125242561457373": {
+   "fingerprint": "8ab0ac0568bb9dc26faf",
+   "link": "https://www.facebook.com/share/p/18hKHvx3ZX/",
+   "origin": "manual",
+   "page_id": "61593721215501",
+   "slot": "2026-11-09 21:00",
+   "status": "reserved"
   },
   "post:photo_122140194015225301": {
    "fingerprint": "a60aeab4d1856bf6dba7",

@@ -1,10 +1,51 @@
 {
  "enabled_since": "2026-11-09T17:23:42+04:00",
- "output_fps": {},
+ "output_fps": {
+  "22f0b6fa33464d5c7431": "2026-11-09T13:25:33+00:00"
+ },
  "outputs": {},
  "slots": {
   "2026-11-09 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Annem 20 yıl evsiz bir adama yemek pişirdi; cenazesinin ertesi günü adam ellerimi tuttu ve \"Bana sessiz kalmam için yalvardı\" dedi",
+     "warnings": [
+      "длина текста FB 401 слов (исходник 487, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 31,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-09T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/887945671_122122709361444459_6537442553292951208_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xFXfyd00YjUQ7kNvwE5yzIH&_nc_oc=AdoNvBsUaKCzs-LftpkChEXliOShs3AvmU2XVXaaU8x1DZE2NSbVuxk8gsIXXJQyZuY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=sgWJt8JpRAMcJhtQ2hG69w&_nc_tpa=Q5bMBQLrdg-V2I3UJh4TuPaMo5LIBikF0oltW2epVBjj_JRtO8QSqWXCKWKP3jbtjHR4IGVbC4tkuEzqLg&oh=00_AQTzLi1PKqBHOgMAbzhXcYPOUyXmILSTbaIAHLwGfwEn7w&oe=6AF7B43E",
@@ -16,7 +57,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-tr.jpg"
    },
    "source_key": "post:61593333781016_122122709439444459",
-   "status": "preparing"
+   "status": "prepared"
   }
  },
  "source_cutoff": "2026-11-09T13:23:42+00:00",
@@ -39,7 +80,7 @@
    "origin": "manual",
    "page_id": "61593333781016",
    "slot": "2026-11-09 18:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
