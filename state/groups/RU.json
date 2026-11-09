@@ -1073,12 +1073,13 @@
       "988042774402200": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122134723226733774_1411461847425340",
        "error": null,
        "last_attempt": "2026-11-09T17:25:09+04:00",
        "mode": "schedule",
        "photo_id": "122134723196733774",
        "post_id": "988042774402200_122134723226733774",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Отец зашёл в школьную столовую и услышал шёпот дочери: «Пап, ты же уже оплатил их обеды",
@@ -1107,7 +1108,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-1800-ru.jpg"
    },
    "source_key": "post:61593333781016_122122770705444459",
-   "status": "in_progress"
+   "status": "done"
   },
   "2026-11-09 21:00": {
    "langs": {
