@@ -1052,3 +1052,12 @@
 {"slot": "2026-11-11 00:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-09T20:07:40+00:00", "group": "EN"}
 {"slot": "2026-11-11 00:00", "lang": "FR", "action": "wp_post", "id": 92, "status": "future", "t": "2026-11-09T20:07:40+00:00", "group": "FR"}
 {"slot": "2026-11-11 00:00", "lang": "EN", "action": "wp_post", "id": 93, "status": "future", "t": "2026-11-09T20:07:40+00:00", "group": "EN"}
+{"slot": "2026-11-11 00:00", "lang": "FR", "page": "1202025962997153", "action": "fb_schedule", "photo_id": "122121163467409328", "post_id": "1202025962997153_122121163497409328", "t": "2026-11-09T20:07:45+00:00", "group": "FR"}
+{"slot": "2026-11-11 00:00", "lang": "EN", "page": "1235940142932696", "action": "fb_schedule", "photo_id": "122118309225408404", "post_id": "1235940142932696_122118309255408404", "t": "2026-11-09T20:07:45+00:00", "group": "EN"}
+{"slot": "2026-11-11 00:00", "lang": "NL", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-09T20:07:46+00:00", "group": "NL"}
+{"slot": "2026-11-11 00:00", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-09T20:07:46+00:00", "group": "NL"}
+{"slot": "2026-11-11 00:00", "lang": "NL", "action": "wp_post", "id": 94, "status": "future", "t": "2026-11-09T20:07:47+00:00", "group": "NL"}
+{"slot": "2026-11-11 00:00", "lang": "FR", "page": "1250374694822508", "action": "fb_schedule", "photo_id": "122123060871415639", "post_id": "1250374694822508_122123060913415639", "t": "2026-11-09T20:07:48+00:00", "group": "FR"}
+{"slot": "2026-11-11 00:00", "lang": "EN", "page": "1167352663135230", "action": "fb_schedule", "photo_id": "122145771141384760", "post_id": "1167352663135230_122145771171384760", "t": "2026-11-09T20:07:49+00:00", "group": "EN"}
+{"slot": "2026-11-11 00:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-09T20:07:49+00:00", "group": "EN2"}
+{"slot": "2026-11-11 00:00", "lang": "DE", "action": "wp_post", "id": 95, "status": "future", "t": "2026-11-09T20:07:49+00:00", "group": "NL"}

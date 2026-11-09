@@ -13,10 +13,12 @@
   "88fe935e5a83ce556184": "2026-11-09T19:59:42+00:00",
   "8df4cd808be1716777ea": "2026-11-09T20:02:27+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
+  "a373ece8d16ef871e0a9": "2026-11-09T20:07:46+00:00",
   "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
   "ba5124bf926776f201e6": "2026-11-09T13:25:52+00:00",
   "caa9ee0aac3ceacdcbc5": "2026-11-09T20:02:27+00:00",
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
+  "ebc91716c611bd42ee20": "2026-11-09T20:07:46+00:00",
   "ec07586e4e7c5fa4e396": "2026-11-01T10:36:58+00:00",
   "f3c8eaafc0e1dc9038f5": "2026-11-09T13:26:40+00:00",
   "f5bea5f3ca119019e8c7": "2026-11-09T19:59:42+00:00",
@@ -1687,7 +1689,55 @@
    }
   },
   "2026-11-11 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Fünf Minuten nach der Scheidung sagte er: „Nimm die Mädchen, ich bekomme jetzt einen Sohn“ – Stunden später stellte der Arzt eine Frage, die seiner Familie das Lächeln nahm",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 95,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vijf minuten na onze scheiding zei mijn ex: \"Neem de meisjes maar mee, ik krijg een zoon.\" Ik verliet het land met onze dochters, en uren later verstomde zijn hele familie door één vraag van de dokter",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 94,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/887033681_1661873051982776_3710970684402398263_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dH1XsmxFlAAQ7kNvwHA4mPO&_nc_oc=Adouf4MOWVIl-zzjmqKS9K3crkObue4cDqLzH-WprfQLR2enL9_vw_hMvheS--AWN7w&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=2I0wc1EUJJOtQ63rjdyHeQ&_nc_tpa=Q5bMBQIC5ke9U_WBNXgTqDy3fTE2w5XCt4jkJ8wg63x1kPQYf14xVyLI1k1pPiUY_RzPR1jGx-gBjjRHbg&oh=00_AQQMOgrpMbL8ed56nIh-bJJP-XLK0aem0bdsLU0rx-hLIg&oe=6AF80BB1",
@@ -1699,7 +1749,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-0000-nl.jpg"
    },
    "source_key": "post:100044802900629_1662788041891277",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -1776,7 +1826,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-11 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698998888285470": {
    "fingerprint": "82ad13dcc80155984bd8",
