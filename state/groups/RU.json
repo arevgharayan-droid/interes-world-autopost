@@ -11,8 +11,10 @@
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
+  "6a9dc74cd9fef54c67d7": "2026-11-10T22:03:12+00:00",
   "6ad19445c3c2f9ca584e": "2026-11-09T20:00:50+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
+  "76d5322eded92004a16e": "2026-11-10T22:03:12+00:00",
   "78229d059b1f03d27989": "2026-11-09T20:08:16+00:00",
   "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
@@ -24,6 +26,7 @@
   "959c0a3855f5dc48d671": "2026-11-09T20:03:21+00:00",
   "9f68477819cc7f2b978d": "2026-11-09T20:02:09+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
+  "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
@@ -2364,7 +2367,66 @@
    }
   },
   "2026-11-11 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ela deixou a mãe de 82 anos congelando em casa, mas no domingo de Páscoa chegou com uma caixa e uma lata de café que calaram a família inteira",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 115,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Каждую осень мы отдавали сестре деньги на отопление для мамы, а в январе я нашла её в ледяном доме в зимнем пальто",
+     "warnings": [
+      "длина текста FB 1652 слов (исходник 1989, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 113,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Annem Montuyla Uyuyordu, Ablam Paskalya'da Eski Bir Kahve Kutusuyla Çıkageldi",
+     "warnings": [
+      "длина текста FB 1449 слов (исходник 1989, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 114,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/855830357_1709005500618142_3696457224403441818_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=55-5xrPwiZEQ7kNvwHoSwg9&_nc_oc=Adr6VbcxTZ9K0Z6FoRtLQGqAlhTXELxO75cy7i-jSoSEmUlPiNlVPMCqjpXAynKUgYY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=poQGFQTDJNXSL1d4bRAzjg&_nc_tpa=Q5bMBQJsjcuHyF4cFI9MHs55dDhzoOOQ7UHGOZyjf1xfOJheOzGUVYp31JXquX7BJXxjYCZixVJtpXIZ3g&oh=00_AQQlHr9xwYbRzEG2kB5Z54jCeIEY30VpRxIc7ffJRkTk4A&oe=6AF96FD3",
@@ -2376,7 +2438,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-1200-ru.jpg"
    },
    "source_key": "post:100045261260562_1709005990618093",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2509,7 +2571,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-11 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1605697694922092": {
    "fingerprint": "7aa9a9d1f00ac27915f6",

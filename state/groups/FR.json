@@ -2735,7 +2735,23 @@
   "2026-11-11 15:00": {
    "langs": {},
    "slot_iso": "2026-11-11T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/848043729_122151177789350229_1301300259445847788_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8liXLlicKp0Q7kNvwEv14hh&_nc_oc=AdqEpvpcPsNDKoCrzc6PGAyf1Jgni7T-HAoZTCyaGDgnN7PahUFmRHY_nuLLsnwiXXc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=l6_rsK6RJc-OOCareEioFQ&_nc_tpa=Q5bMBQIXwnjsKkn_MDA0nE42oEVqJPvZAqNqoOs7FlAQ6Q60-_wF1mZVmWqCrkQB7Fr5o-eK5Zq4LnEYGA&oh=00_AQTjeyenxX-s9FbpyauAvSAU-1uPa5pzyYHAl-grsSi9Sg&oe=6AF972CC",
+    "link": "https://www.facebook.com/share/p/1A8sNQX4zc/",
+    "origin": "manual",
+    "page_id": "61590506886446",
+    "text": "Two police cars pulled up outside my house just hours after my twelve-year-old son finished mowing an elderly woman's lawn for free. When the officers asked whether he'd been visiting a blue house on Hawthorne Street, my hands started shaking, but what terrified me most was the way my son hesitated before answering their next question. Three weeks before seventh grade, I suddenly wondered whether the summer I'd been so proud of had been hiding something I knew nothing about.\n\nMy son, Ethan, isn't a perfect child. He forgets homework, leaves wet towels on the floor, and somehow thinks putting an empty cereal box back in the pantry is perfectly reasonable.\n\nBut he has a heart bigger than most adults I know.\n\nI discovered that shortly after school ended, when I spotted him pushing our old lawn mower down the sidewalk.\n\n\"Where are you going?\" I called.\n\n\"Mrs. Hall needs help!\"\n\nMrs. Hall was seventy-eight and lived four houses away. Ethan had apparently seen her struggling to mow her grass in ninety-degree heat.\n\nAn hour later, he returned drenched in sweat.\n\n\"She tried giving me twenty dollars,\" he announced.\n\n\"Did you take it?\"\n\nHe looked offended.\n\n\"Mom, she needed help.\"\n\nThe next morning, he appeared at breakfast with another question.\n\n\"Do you think other old people around here need their lawns done?\"\n\n\"Probably,\" I answered.\n\nThat was all the encouragement he needed.\n\nWithin weeks, Ethan had become our neighborhood's unofficial lawn-care kid. Two or three times a week, he pushed our ancient mower from house to house, helping elderly neighbors without charging a penny.\n\nI established three rules: never enter strangers' homes, keep his phone charged, and always tell me where he was going.\n\nHe agreed, although remembering the phone rule wasn't exactly his greatest talent.\n\nPeople began recognizing him everywhere.\n\nI couldn't have been prouder.\n\nThen August arrived, and summer vacation was nearly over.\n\nOne Thursday morning, Ethan tied his sneakers and announced he had one final yard to finish.\n\n\"Whose house?\" I asked.\n\n\"Evelyn's.\"\n\nI vaguely recognized the name.\n\n\"Where does she live?\"\n\n\"The little blue house near the end of Hawthorne Street.\"\n\n\"Be home by lunch.\"\n\n\"Yes, commander!\"\n\nHe saluted dramatically before disappearing through the door.\n\nAbout an hour later, he returned looking completely normal. He showered, made himself two grilled cheese sandwiches, and complained when I reminded him to organize his school supplies.\n\nNothing seemed unusual.\n\nUntil I glanced through the kitchen window.\n\nTwo police cars had stopped directly outside our house.\n\nMy stomach dropped.\n\nI grabbed the counter to steady myself.\n\n\"Ethan, stay here.\"\n\n\"Why, Mom?\"\n\nI couldn't answer.\n\nI hurried to the front door and opened it before the officers knocked.\n\n\"Can I help you?\"\n\nBoth officers looked serious.\n\nThe older one stepped forward.\n\n\"Ma'am, is your son the boy who's been mowing lawns around this neighborhood?\"\n\nMy heart began pounding.\n\n\"Yes. Is something wrong?\"\n\nEthan appeared beside me.\n\n\"I haven't broken anything,\" he blurted.\n\nThe officer studied him.\n\n\"What's your name, son?\"\n\n\"Ethan.\"\n\n\"Have you been visiting a small blue house near the end of Hawthorne Street?\"\n\nI felt my blood turn cold.\n\nEthan nodded.\n\n\"Evelyn's house?\"\n\nThe second officer exchanged a glance with his partner.\n\n\"How well do you know Evelyn?\"\n\nEthan shrugged.\n\n\"I mow her yard.\"\n\n\"Anything else?\"\n\nMy son opened his mouth, then stopped.\n\nI had never seen him look so uncertain.\n\n\"Ethan?\" I whispered.\n\nHe glanced at me, then back at the officers.\n\nAnd when the older officer reached into his pocket, I realized this visit wasn't simply about mowing lawns.\n\nNEXT PART and the FULL ENDING are coming. Type ‘YES’ and press ‘LIKE’ so we can post full story. Your [LIKE] helps these honest stories reach the people who need them most. Thank you for the support.",
+    "wp_media_id": 144,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1500-fr.jpg"
+   },
+   "source_key": "post:61590506886446_122151177831350229",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-11 18:00": {
    "langs": {},
@@ -2915,6 +2931,14 @@
    "page_id": "61590456964686",
    "slot": "2026-11-03 18:00",
    "status": "failed"
+  },
+  "post:61590506886446_122151177831350229": {
+   "fingerprint": "6aa7471bdc49e45c47e2",
+   "link": "https://www.facebook.com/share/p/1A8sNQX4zc/",
+   "origin": "manual",
+   "page_id": "61590506886446",
+   "slot": "2026-11-11 15:00",
+   "status": "reserved"
   },
   "post:61591284134933_122129895657376137": {
    "fingerprint": "b4e28466f8fcf0a7f638",

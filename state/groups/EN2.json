@@ -4118,7 +4118,23 @@
   "2026-11-11 15:00": {
    "langs": {},
    "slot_iso": "2026-11-11T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/820196091_122145142725350229_3496508931759518841_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lMzPPNNh7t0Q7kNvwEookYy&_nc_oc=AdqshnxeRf9FwpB6sbRdC9RmXr4c-Kx1XRAB3Fz_6g7cTzGYJgV9_OkFDg-jXwSzNbE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=LGgJWmLrlfipwju2szdybA&_nc_tpa=Q5bMBQLC3XQjjnfRUfP08PGpvJvLBrfnafzWxPbFepyKa2h-lThv17NPyq0l6s895YtTk_kvN4xnrsuNhA&oh=00_AQQ2Q2ikv_LRr4gZ2Yb69Q1reWW_z5HW9TezgYZNaNDE4A&oe=6AF95A79",
+    "link": "https://www.facebook.com/share/p/1H32MP7xR2/",
+    "origin": "manual",
+    "page_id": "61590506886446",
+    "text": "“Dad, stop the car!” my five-year-old son screamed as he pointed toward two barefoot boys sleeping beside a pile of garbage in New York City. Seconds later, I was kneeling in filthy rainwater staring at their faces, because both looked exactly like my son, and one had the unmistakable green-and-gold eyes of my dead wife.\n\nMy name is Devin Mallory. I’m a real estate developer, hotel owner, and the kind of man whose face appears on business magazines, yet that evening none of my money prepared me for what waited outside my Mercedes.\n\nVictor pressed his hand against the window. “Dad, those boys... they look like me.”\n\nAt first, I saw only wet cardboard, trash bags, a closed corner store, and steam rising from a sewer grate. Then one cardboard bundle moved.\n\nTwo little boys were curled together beside the garbage, barefoot, filthy, and painfully thin. The older one lifted his face, and my chest tightened at the familiar curls, dimpled chin, and exact shape of Victor’s mouth.\n\nThen the younger boy opened his eyes.\n\nThey were Priya’s eyes.\n\nMy wife had been dead for five years.\n\nI stumbled from the car, my expensive shoes landing in muddy water. The boys immediately jumped up, and the older child pushed the younger behind him.\n\n“Don’t hit us, sir,” he pleaded. “We’re leaving. We didn’t steal anything.”\n\nVictor climbed out before I could stop him and approached them with his kindergarten backpack still on. He pulled out chocolate cookies and held them forward.\n\n“My dad can buy more.”\n\nThe older boy carefully took one cookie, broke it in half, and gave the larger piece to his brother.\n\n“What are your names?” I asked.\n\n“I’m Aaron. He’s Aiden.”\n\nMy stomach dropped.\n\nAaron and Aiden were the names Priya and I had chosen during her pregnancy when a doctor told us there might be twins. Priya had laughed and said if there were three babies, God would have to give us a bigger house.\n\nFive years earlier, she went into labor.\n\nHer mother eventually came from the operating room sobbing and told me Priya was dead. Then I was told only one baby had survived.\n\nVictor.\n\nI buried my wife, held my newborn son, and signed documents I barely understood because grief had hollowed me out.\n\nNow two boys who looked exactly like him were standing beside a garbage pile.\n\n“Where are your parents?” I asked.\n\nAaron lowered his eyes. “We don’t have any.”\n\n“Maya Auntie left us here,” Aiden whispered.\n\nMy blood turned cold.\n\nMaya was Priya’s younger sister. She disappeared after Priya’s funeral with hospital documents she claimed were needed for death paperwork, and my in-laws later told me grief had caused her to lose control.\n\n“What did Maya tell you?”\n\n“She said to wait,” Aaron answered. “Someone would come.”\n\n“How long have you been waiting?”\n\n“Two days.”\n\nVictor stepped beside me and stared at them like he was seeing himself reflected twice.\n\n“Dad, why do they have my face?”\n\nI couldn’t answer.\n\nMy mind had returned to that hospital corridor, to the doctor who avoided my eyes, Priya’s mother refusing to let me see the babies, and a nurse who tried to speak privately with me before mysteriously disappearing the next morning.\n\nAaron tightened his fingers around the empty cookie wrapper. “Why are you looking at us like that?”\n\n“Because you look like my son.”\n\nThen Aiden slowly stepped from behind his brother.\n\nSomething hung from his tiny fist.\n\nA dirty black thread.\n\nAttached to it was a small gold locket.\n\nI recognized it instantly.\n\nI had given that locket to Priya on our first wedding anniversary.\n\nAnd when Aiden opened it, my dead wife’s photograph was still inside.\n\nEveryone, please type YES in the comments so Facebook can boost this post and we can share the FULL STORY in the comments. ⬇️💬 Thank you, everyone. ❤️",
+    "wp_media_id": 145,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1500-en2.jpg"
+   },
+   "source_key": "post:61590506886446_122145142785350229",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-11 18:00": {
    "langs": {},
@@ -4306,6 +4322,14 @@
    "page_id": "61590456964686",
    "slot": "2026-11-03 18:00",
    "status": "failed"
+  },
+  "post:61590506886446_122145142785350229": {
+   "fingerprint": "0b6ab4d2243eb3b8ea66",
+   "link": "https://www.facebook.com/share/p/1H32MP7xR2/",
+   "origin": "manual",
+   "page_id": "61590506886446",
+   "slot": "2026-11-11 15:00",
+   "status": "reserved"
   },
   "post:61593333781016_122122669659444459": {
    "fingerprint": "95faf49810d3f389d8f3",
