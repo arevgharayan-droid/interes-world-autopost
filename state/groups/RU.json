@@ -172,7 +172,7 @@
   "1448441201677530_122118391437505599": "2026-11-10T11:07:46+00:00",
   "1448441201677530_122118392127505599": "2026-11-10T14:10:04+00:00",
   "1448441201677530_122118392913505599": "2026-11-10T17:07:23+00:00",
-  "1448441201677530_122118393861505599": "2026-11-09T20:08:38+00:00",
+  "1448441201677530_122118393861505599": "2026-11-10T20:07:05+00:00",
   "988042774402200_122133057194733774": "2026-10-29T17:26:06+00:00",
   "988042774402200_122133074582733774": "2026-10-29T20:17:07+00:00",
   "988042774402200_122133075518733774": "2026-10-30T08:16:25+00:00",
@@ -2229,21 +2229,24 @@
       "1338630212673029": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122115195825471857_1449662410684090",
        "error": null,
        "last_attempt": "2026-11-10T00:08:38+04:00",
        "mode": "schedule",
        "photo_id": "122115195795471857",
        "post_id": "1338630212673029_122115195825471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118393861505599_2458230378342387",
        "error": null,
        "last_attempt": "2026-11-10T00:08:35+04:00",
        "mode": "schedule",
        "photo_id": "122118393831505599",
        "post_id": "1448441201677530_122118393861505599",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Ele entrou na casa secreta que comprei após o divórcio com a nova esposa e um caminhão de mudança, mas a pessoa que ligou para mim naquele momento era quem mais doía",
@@ -2352,7 +2355,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-0000-ru.jpg"
    },
    "source_key": "post:100044802900629_1663568758479872",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
