@@ -4,6 +4,7 @@
   "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
   "15762788a9c71b2165b1": "2026-11-09T19:59:18+00:00",
   "1d9175966e062556cf08": "2026-11-09T20:02:35+00:00",
+  "1e5353b2a2e832230c83": "2026-11-10T22:07:10+00:00",
   "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
   "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
@@ -3163,7 +3164,48 @@
    }
   },
   "2026-11-12 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle a surpris son mari en train d'embrasser une autre femme au port, avec leurs jumelles de 3 mois dans les bras, et sa réaction l'a laissé sans voix",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 182,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-12T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/863414171_1448770537357284_8810729550831045392_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RWvPrZdFiUoQ7kNvwFDLmIu&_nc_oc=AdogNutHdfsnhGiXx6RSwrbqGim4vGkHeVjaVYr_2_2vTuMT7PbMGaYRS_8Owa6tobg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=9jOVy0JEZnpmisYVTCAYqQ&_nc_tpa=Q5bMBQIZqXMVgLEJKBtz6-ynzAr7EP3ztIDCTIHrPVD-CMrM3gS8U0Fh9wdptx72NkspzxrTuC-RW5o1xw&oh=00_AQReu7XD8t7td2jwPMk0acQyA-gOX8GgX8XL3vZI1GaaSg&oe=6AF97455",
@@ -3175,7 +3217,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-0000-fr.jpg"
    },
    "source_key": "post:100066730531753_1451741083726896",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3312,7 +3354,7 @@
    "origin": "manual",
    "page_id": "100066730531753",
    "slot": "2026-11-12 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122101879646536431": {
    "fingerprint": "b5ed31862cee3216b94b",
