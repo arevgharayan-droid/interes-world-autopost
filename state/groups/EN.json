@@ -4695,7 +4695,23 @@
   "2026-11-12 00:00": {
    "langs": {},
    "slot_iso": "2026-11-12T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/890671894_1458047556429582_7163877032761495315_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oud1mMECr7MQ7kNvwFVkMBJ&_nc_oc=Adq3bMmOq67HKZS3sXRJnchd-7AivMC52mvN8bDkwQ05L6Dxzj7Gewj2aESWbbTP4k0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=XLqET8n7uB7rlnkaqWT_Fg&_nc_tpa=Q5bMBQK4j-JymVvEcfXdFEeogNt-umNvCperDKK8XH8phRy26PwjbU0RKwiL2XjEwFJzhBRG1xNFIbsgSg&oh=00_AQQtF5zWzP91X2lS0enCjVu4_o4hL3oe58noY4d34gcgJg&oe=6AF9722D",
+    "link": "https://www.facebook.com/share/p/1AMWRyX52T/",
+    "origin": "manual",
+    "page_id": "100066730531753",
+    "text": "Mes deux nouveau-nés étaient atteints de trisomie 21, alors je les ai laissés à l’hôpital. Mais avant que j’atteigne ma voiture, une infirmière s’est précipitée vers moi en criant : « ATTENDEZ ! Ce qu’on vous a dit au sujet de vos bébés n’est pas toute la vérité ! » 😱💔\n\nJ’avais vingt-quatre ans lorsque j’ai donné naissance à des jumeaux.\n\nPendant des mois, j’avais imaginé le moment où l’on déposerait mes bébés sur ma poitrine. J’imaginais deux petits visages, deux petits cris, mon mari me tenant la main tandis que nous ririons tous les deux à travers nos larmes.\n\nMais lorsque la salle d’accouchement est soudainement devenue silencieuse, j’ai compris que quelque chose n’allait pas.\n\nLe médecin regarda l’infirmière.\n\nL’infirmière détourna les yeux.\n\nPuis vinrent les mots auxquels je n’étais absolument pas préparée.\n\nMes deux nouveau-nés étaient atteints de trisomie 21.\n\nJ’eus l’impression que la pièce se mettait à tourner autour de moi.\n\nMon mari ne disait rien. Ma mère se mit à pleurer. Le médecin continuait de parler, m’expliquant des choses que je comprenais à peine, mais je n’entendais qu’une seule pensée, terrifiante, qui se répétait sans cesse dans ma tête :\n\nJe ne peux pas faire ça.\n\nJ’avais peur.\n\nPeur de l’avenir. Peur de cette responsabilité. Peur que toute ma vie ait changé en un seul instant.\n\nEt avant que quiconque puisse m’arrêter, j’ai pris une décision que j’allais presque immédiatement regretter.\n\nJ’ai signé les papiers.\n\nJe leur ai dit que je ne pouvais pas ramener les bébés à la maison.\n\nPuis j’ai quitté l’hôpital.\n\n💔\n\nJe me souviens encore de leurs pleurs derrière moi tandis que je parcourais le couloir.\n\nChaque pas vers la sortie me semblait plus lourd que le précédent.\n\nLorsque j’ai enfin atteint le parking, mes mains tremblaient tellement que j’arrivais à peine à tenir mes clés de voiture.\n\nJe me suis dit de ne pas me retourner.\n\nJe me suis dit que l’hôpital leur trouverait une famille.\n\nJe me suis convaincue qu’ils seraient mieux sans une mère qui avait trop peur de les élever.\n\nPuis j’ai entendu quelqu’un crier derrière moi.\n\n« ATTENDEZ ! »\n\nJe me suis figée.\n\nUne infirmière traversait le parking en courant vers moi, essoufflée, agitant un bras.\n\nPendant un instant, j’ai pensé qu’elle allait me supplier de revenir sur ma décision.\n\nMais lorsqu’elle m’a rejointe, son visage était livide.\n\nSes yeux étaient remplis de panique.\n\nEt les premiers mots qu’elle prononça me glacèrent le sang.\n\n« Il y a quelque chose qu’on ne vous a jamais dit. »\n\nJe la regardai, complètement déconcertée.\n\n« De quoi parlez-vous ? »\n\nElle jeta un regard vers l’hôpital, puis m’attrapa par le poignet.\n\n« Ce qu’on vous a dit au sujet de vos jumeaux… »\n\nElle déglutit difficilement.\n\n« …ce n’était pas toute la vérité. » 😱\n\nLa suite dans le premier commentaire 👇👇‼️",
+    "wp_media_id": 175,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-0000-en.jpg"
+   },
+   "source_key": "post:100066730531753_1458965616337776",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-10-29T16:37:24+00:00",
@@ -4811,6 +4827,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-11 12:00",
    "status": "used"
+  },
+  "post:100066730531753_1458965616337776": {
+   "fingerprint": "10c994645baddcf5d072",
+   "link": "https://www.facebook.com/share/p/1AMWRyX52T/",
+   "origin": "manual",
+   "page_id": "100066730531753",
+   "slot": "2026-11-12 00:00",
+   "status": "reserved"
   },
   "post:1011074408765807_122102410994536431": {
    "fingerprint": "1a77d3e2c5b7922c89dd",
