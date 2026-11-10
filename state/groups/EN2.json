@@ -3222,12 +3222,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122138270750776189_1668549294849500",
        "error": null,
        "last_attempt": "2026-11-10T00:00:36+04:00",
        "mode": "schedule",
        "photo_id": "122138270714776189",
        "post_id": "994273113779575_122138270750776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "A Maid's 3-Year-Old Walked Into a Room of Twelve Men and Told Northern Italy's Most Feared Mafia Boss He Was Getting a Bath",
@@ -3276,7 +3277,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1500-en2.jpg"
    },
    "source_key": "post:100044599086455_1659035848926369",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
