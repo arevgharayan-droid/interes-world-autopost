@@ -14,6 +14,7 @@
   "91248c595505f5090bae": "2026-11-09T20:07:39+00:00",
   "9f27064d4760d4ec7129": "2026-11-09T13:24:35+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
+  "b120e497dba6ca6aff31": "2026-11-10T22:02:37+00:00",
   "dfc264e5088ceb9596c5": "2026-10-29T20:16:43+00:00",
   "e19444e6413ef867631a": "2026-10-29T20:24:35+00:00"
  },
@@ -2589,7 +2590,51 @@
    }
   },
   "2026-11-11 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ils s'étaient rasé la tête pour leur ami malade : 17 ans plus tard, il les invite à dîner et leur révèle un secret qui les fait tous pleurer",
+     "warnings": [
+      "длина текста FB 1529 слов (исходник 1267, цель ±10%)",
+      "длина статьи 955 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 140,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/895024659_1710175800501112_8119155768032504582_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eHHIaSu7NUcQ7kNvwF9-P6k&_nc_oc=AdqqNQF0oXZNhELvHyDj4S06jv2nGxzqXM2RM_-v4RZOmcbokNgzCEpkhS81PFkA5sQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=zsTEO5SKgw3OpjgqtchasQ&_nc_tpa=Q5bMBQKncX4xaBawXVPjKS5S0NS9hzvjeHM885ApxpnMgpOw5xHSoVKXtMcJYLKG-anSe-95Pj8aGopcGQ&oh=00_AQSjVBnRh6p9521Ph_tpZMxQCsnnlpxTJ4Yiy_1f9wQFUw&oe=6AF950CC",
@@ -2601,7 +2646,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1200-fr.jpg"
    },
    "source_key": "post:100045261260562_1710176497167709",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2734,7 +2779,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-11 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
