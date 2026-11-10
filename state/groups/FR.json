@@ -2104,12 +2104,13 @@
       "1260826840455724": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128241187441679_1159534406596292",
        "error": null,
        "last_attempt": "2026-11-10T00:00:43+04:00",
        "mode": "schedule",
        "photo_id": "122128241139441679",
        "post_id": "1260826840455724_122128241187441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Une fillette de cinq ans a reconnu la bague du portrait dans le bureau d'un chef mafieux : sa mère la cachait depuis douze ans",
@@ -2152,7 +2153,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1500-fr.jpg"
    },
    "source_key": "post:100044599086455_1660056672157620",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
