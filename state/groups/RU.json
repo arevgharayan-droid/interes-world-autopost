@@ -11,6 +11,7 @@
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
+  "5d014620f15f95df1195": "2026-11-10T22:05:49+00:00",
   "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
   "5fe659aaf3f073ce93ab": "2026-11-10T22:04:30+00:00",
   "6a9dc74cd9fef54c67d7": "2026-11-10T22:03:12+00:00",
@@ -18,6 +19,7 @@
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
   "76d5322eded92004a16e": "2026-11-10T22:03:12+00:00",
   "78229d059b1f03d27989": "2026-11-09T20:08:16+00:00",
+  "788e0e4a8634b7c3a3a3": "2026-11-10T22:05:49+00:00",
   "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
   "8d212afd28041fbd462e": "2026-11-09T20:00:50+00:00",
@@ -35,6 +37,7 @@
   "e19af41ca961271a3c24": "2026-11-01T14:04:10+00:00",
   "e264befb548c9459d95b": "2026-11-10T22:04:30+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
+  "e84337ab74e96356bcfe": "2026-11-10T22:05:49+00:00",
   "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00"
  },
  "outputs": {
@@ -2689,7 +2692,67 @@
    }
   },
   "2026-11-11 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha irmã me empurrou na piscina do próprio casamento e, na manhã seguinte, me acusou de destruir a família",
+     "warnings": [
+      "длина текста FB 722 слов (исходник 604, цель ±10%)",
+      "длина статьи 975 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 123,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Сестра столкнула меня в бассейн на своей свадьбе, а утром обвинила в разрушении семьи, пока её муж не перестал улыбаться",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 121,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Düğünde Kız Kardeşim Beni Havuza İtti, Sabah Ailemi Yıktığımı Söyledi, Ta Ki Kocası Gülmeyi Bırakana Kadar",
+     "warnings": [
+      "длина текста FB 499 слов (исходник 604, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 122,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/897192500_122142084879234406_1396011642332917938_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3csMDkiRTAwQ7kNvwF3UZif&_nc_oc=AdqI-_0vTuk1EWrTAaS0gac30S474rpbqGgrY3_3FYl_Myv0e2UY0YhJSGaMvqNSIfU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GmhkhjZskgW76HFTp8YOwg&_nc_tpa=Q5bMBQJMVBBt9tFkWaUFJtdL3QjUUm_lduGxCypce0c__Rtn-Sc0FvkMBs-Ld7pMMGPYOIQHEiBo0L9llg&oh=00_AQQ9Ap9XoKYA_c6zj0bpfjYqa3erP53QBanpE9W4IsK2Tg&oe=6AF95E5E",
@@ -2701,7 +2764,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-1800-ru.jpg"
    },
    "source_key": "post:61587032195586_122142084927234406",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2888,7 +2951,7 @@
    "origin": "manual",
    "page_id": "61587032195586",
    "slot": "2026-11-11 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122148448257348565": {
    "error": "слот пропущен",
