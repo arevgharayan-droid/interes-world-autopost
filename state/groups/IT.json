@@ -2477,12 +2477,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112786260437662_1447727640803026",
        "error": null,
        "last_attempt": "2026-11-10T00:01:06+04:00",
        "mode": "schedule",
        "photo_id": "122112786230437662",
        "post_id": "997772916762884_122112786260437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Una bambina di sette anni sussurrò al boss più temuto della città che sotto la sua scrivania c'era un registratore nascosto dalla donna che stava per sposare",
@@ -2521,7 +2522,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1500-it.jpg"
    },
    "source_key": "post:100044599086455_1658995595597061",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
