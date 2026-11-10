@@ -2747,7 +2747,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-11T02:03:46+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Deux voitures de police devant chez nous après que mon fils de 12 ans a tondu gratuitement la pelouse d'une dame âgée",
      "warnings": [
       "длина текста FB 763 слов (исходник 649, цель ±10%)",
