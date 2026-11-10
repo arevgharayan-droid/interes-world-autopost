@@ -2529,12 +2529,13 @@
       "1260826840455724": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128243647441679_1117734551042070",
        "error": null,
        "last_attempt": "2026-11-10T00:08:01+04:00",
        "mode": "schedule",
        "photo_id": "122128243617441679",
        "post_id": "1260826840455724_122128243647441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Le parrain le plus craint de Chicago a promis d'épouser sa femme de ménage si elle dansait le tango avec lui, mais sa grand-mère de 83 ans a reconnu ses pas et l'homme qui les lui avait appris",
@@ -2579,7 +2580,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-0000-fr.jpg"
    },
    "source_key": "post:100044802900629_1665425358294212",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
