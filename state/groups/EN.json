@@ -3624,12 +3624,13 @@
       "975714512286925": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122149310583209153_1508661238993217",
        "error": null,
        "last_attempt": "2026-11-10T00:03:12+04:00",
        "mode": "schedule",
        "photo_id": "122149310553209153",
        "post_id": "975714512286925_122149310583209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "She Left Me With Our Three Blind Baby Girls, but 18 Years Later She Showed Up at Their Graduation in Diamonds",
@@ -3678,7 +3679,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-en.jpg"
    },
    "source_key": "post:61576792898556_122130239486893096",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
