@@ -15,10 +15,12 @@
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
+  "7b147e020095c6199d1d": "2026-11-10T22:05:36+00:00",
   "81de3c9a0a991fc9bf6a": "2026-11-09T20:03:33+00:00",
   "88fe935e5a83ce556184": "2026-11-09T19:59:42+00:00",
   "8df4cd808be1716777ea": "2026-11-09T20:02:27+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
+  "98ed0f869b67d7d406ea": "2026-11-10T22:05:36+00:00",
   "a373ece8d16ef871e0a9": "2026-11-09T20:07:46+00:00",
   "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
   "ba5124bf926776f201e6": "2026-11-09T13:25:52+00:00",
@@ -2213,7 +2215,55 @@
    }
   },
   "2026-11-11 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sie wurde grundlos gestoppt und in Handschellen gelegt – doch was in ihrer Hosentasche steckte, ließ beide Polizisten erstarren",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 169,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Twee agenten deden een jonge vrouw zonder reden handboeien om, maar toen ze in haar zak grepen, verstijfden ze allebei",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 168,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/886770543_122130695732893096_1861246166854463743_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=605esj_fG0sQ7kNvwHyB8Sd&_nc_oc=AdoDnnCDRmVS80BQQQ15l3mtRmgUnbaFx8NbV7mt5yuimmQ8GTph8AeeZqIujtXw80s&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=CyKL8hcyHxBEHNYjo3sbww&_nc_tpa=Q5bMBQJ3MJ2hh8UGbFN4e1xV1RCBp23gZN0U5uOqRygG_R9t_deo-m1thUe0S8qxJKXJ_skUFCqjTIV8SQ&oh=00_AQQsr8g0kbmdQPfaTVMGQeeiHpEHfP941f5LvgOeK4Kmzw&oe=6AF97B6A",
@@ -2225,7 +2275,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-2100-nl.jpg"
    },
    "source_key": "post:61576792898556_122130695810893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2383,7 +2433,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-11 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130758852893096": {
    "fingerprint": "70b2b5adc4ce4ff4c245",
