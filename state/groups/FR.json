@@ -11,6 +11,7 @@
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
   "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
   "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
+  "7a8b9787a9038db6d1c3": "2026-11-10T22:06:09+00:00",
   "82146aa95a8c25effbbd": "2026-11-10T22:03:44+00:00",
   "8660e8f9c6f8d691b287": "2026-11-09T13:25:53+00:00",
   "91248c595505f5090bae": "2026-11-09T20:07:39+00:00",
@@ -3020,7 +3021,50 @@
    }
   },
   "2026-11-11 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Pour exaucer le dernier vœu de son fils de 10 ans, atteint d'un cancer, elle l'emmène au stade, mais quand l'écran géant s'allume, le visage de son mari devient livide",
+     "warnings": [
+      "длина текста FB 1782 слов (исходник 1548, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 174,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/892513496_1706170267568332_6284855466217322892_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=U89eG0lzU18Q7kNvwFDHHq5&_nc_oc=AdrWfhN6bk3s1r2h3QErpyLkBa1Q2lI2QtFkc9vcQrXBGDrDInfZQFi2OicKYerI5eo&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KEuvmvCKvP3_VP-bscnzhg&_nc_tpa=Q5bMBQKPM8ULt14NXR4cpj6lBdN0GDjgknciTaBjXnMaGGxzZGUK8cRs86NKAWW8peLvT1izoDeiN1ecGA&oh=00_AQSIJzZS11lCVxnOeAjt9-rOvbuQCjDL8ac6aEU7gsa4Gg&oe=6AF96CAE",
@@ -3032,7 +3076,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-2100-fr.jpg"
    },
    "source_key": "post:100045261260562_1706170314234994",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3150,7 +3194,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-11 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1710176497167709": {
    "fingerprint": "b3bf9cdbb9e93b3a6ac3",
