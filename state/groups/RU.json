@@ -2529,7 +2529,23 @@
   "2026-11-11 15:00": {
    "langs": {},
    "slot_iso": "2026-11-11T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/855062537_122152554189350229_26230297110276495_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jTyMSdz7M98Q7kNvwG_F__e&_nc_oc=Ado2wZIt_kUtzzb2OJPeij-wb2RpkVb1jkRnVbyMIT28nmZpRkSwpFgfACmreohA02E&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KJj2Kc9pr2QVgwiCkTNqsg&_nc_tpa=Q5bMBQIhU-um9D-rdv7qcjWiyNRW0O_rJ_1-13Pd8wAEOX_hBtZucSEoKdhlHdIs-jxSDC6Q2pb-OHkYaw&oh=00_AQRnyM1lRlXuAxntN-Lsc7AdRUH39qCLu3sO2NA7XuhW2A&oe=6AF95211",
+    "link": "https://www.facebook.com/share/p/1PnB9xsFTL/",
+    "origin": "manual",
+    "page_id": "61590506886446",
+    "text": "Fourteen years old, homeless, and starving, I was digging through garbage behind a restaurant when a stranger in an expensive suit called my name. Nine days earlier, my father had thrown me out after stealing the $3,000 I'd saved from working odd jobs. But what the stranger revealed about my supposedly dead grandfather made me realize my father had been hiding something far worse than money.\n\nMy name is Caleb Vance, and my fourteenth birthday was the day my family decided I no longer belonged.\n\nThere was no cake waiting in our kitchen that Tuesday morning. My father sat beside his wife while my stepbrother ate breakfast, smiling as though he knew what was coming.\n\n“Sit down, Caleb,” Dad ordered. “You're old enough to start taking responsibility for yourself.”\n\nI stared at him, confused.\n\n“What does that mean?”\n\n“It means you're leaving today.”\n\nI thought he was joking until his wife pointed toward three plastic bags beside the front door.\n\n“We packed your things,” she said pleasantly.\n\nMy stomach dropped.\n\n“Dad, I'm fourteen! I still have school!”\n\nHe shrugged.\n\n“You'll figure something out.”\n\nThen I remembered my savings.\n\nFor nearly two years, I'd mowed lawns, washed dishes, and worked weekends whenever anyone would hire me. I'd saved a little over $3,000, hoping someday it might help me escape that house.\n\n“Where's my money?” I demanded.\n\nDad barely glanced up.\n\n“Gone. Your brother needed things, and feeding you isn't free.”\n\nI couldn't believe what I was hearing.\n\n“You stole everything?”\n\n“Watch your mouth,” he snapped.\n\nTen minutes later, I stood outside holding three garbage bags containing everything I owned.\n\nI climbed into my old sedan, which had been sitting in our driveway and which I'd practiced driving around the property. I knew I couldn't legally drive it alone, but I was terrified of staying anywhere near my father.\n\nI cried until my chest hurt.\n\nFor nine nights, that car became my bedroom.\n\nI kept attending school because I was afraid someone would discover what had happened. Before sunrise, I'd sneak into the locker room to shower, then spend the day pretending I wasn't hungry.\n\nMy classmates complained about homework and cafeteria food.\n\nI smiled along, secretly saving half my lunch for dinner.\n\nBy the ninth night, my fuel gauge was nearly empty.\n\nThen the engine died behind a row of restaurants.\n\nI turned the key repeatedly, praying it would start.\n\nNothing.\n\nAfter an hour, hunger finally defeated my pride.\n\nI climbed out and approached the dumpsters, hoping to find unopened food someone had thrown away.\n\nThat's when a voice stopped me.\n\n“Caleb Vance?”\n\nI froze.\n\nA tall man stood several feet away, wearing a spotless suit and carrying a leather briefcase.\n\n“Who's asking?”\n\n“Arthur Kingsley,” he replied. “I've been searching everywhere for you.”\n\nHe handed me a business card.\n\n“I represent the estate of Edward Vance.”\n\nMy heart skipped.\n\n“My grandfather?”\n\nArthur nodded.\n\nI shook my head.\n\n“That's impossible. My grandfather died before I was born.”\n\nHis expression hardened.\n\n“Caleb, your grandfather died three weeks ago.”\n\nFor fourteen years, my father had insisted Edward Vance was dead.\n\nNo photographs.\n\nNo birthday cards.\n\nNo explanation.\n\nArthur opened his briefcase.\n\n“Your grandfather instructed us to find you immediately.”\n\n“Why?”\n\n“Because he left his entire estate to you.”\n\nI stared at him.\n\nArthur explained that Edward had owned a beautiful house, several bank accounts, and a successful company called Vance Holdings.\n\nEverything had been left in my name.\n\nNothing had been left to my father.\n\nMinutes earlier, I'd been searching for scraps of food.\n\nNow someone was telling me I might inherit millions.\n\nBut Arthur wasn't smiling.\n\n“There's a condition, Caleb.”\n\nHe removed a thick brown envelope bearing my full name.\n\nMy hands trembled as I accepted it.\n\n“What condition?”\n\nArthur looked toward my broken car, then back at me.\n\n“Your grandfather left instructions you must read before anything happens.”\n\nI gripped the envelope.\n\nThen Arthur lowered his voice.\n\n“And once you open it, Caleb, you'll understand why your father spent fourteen years making sure you believed your grandfather was dead.”\n\nI stared at my name written across the envelope, terrified of what I was about to discover.\n\nNEXT PART and the FULL ENDING are coming. Type ‘YES’ and press ‘LIKE’ so we can post full story. Your [LIKE] helps these honest stories reach the people who need them most. Thank you for the support.",
+    "wp_media_id": 116,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-1500-ru.jpg"
+   },
+   "source_key": "post:61590506886446_122152554351350229",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-11 18:00": {
    "langs": {},
@@ -2717,6 +2733,14 @@
    "page_id": "61590456964686",
    "slot": "2026-11-03 18:00",
    "status": "failed"
+  },
+  "post:61590506886446_122152554351350229": {
+   "fingerprint": "448280b6b5e89557c25a",
+   "link": "https://www.facebook.com/share/p/1PnB9xsFTL/",
+   "origin": "manual",
+   "page_id": "61590506886446",
+   "slot": "2026-11-11 15:00",
+   "status": "reserved"
   },
   "post:61593333781016_122122770705444459": {
    "fingerprint": "7323f41399e582be5a4c",

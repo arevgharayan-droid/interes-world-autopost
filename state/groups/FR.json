@@ -10,6 +10,7 @@
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
   "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
   "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
+  "82146aa95a8c25effbbd": "2026-11-10T22:03:44+00:00",
   "8660e8f9c6f8d691b287": "2026-11-09T13:25:53+00:00",
   "91248c595505f5090bae": "2026-11-09T20:07:39+00:00",
   "9f27064d4760d4ec7129": "2026-11-09T13:24:35+00:00",
@@ -2733,7 +2734,51 @@
    }
   },
   "2026-11-11 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Deux voitures de police devant chez nous après que mon fils de 12 ans a tondu gratuitement la pelouse d'une dame âgée",
+     "warnings": [
+      "длина текста FB 763 слов (исходник 649, цель ±10%)",
+      "длина статьи 1037 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 151,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/848043729_122151177789350229_1301300259445847788_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8liXLlicKp0Q7kNvwEv14hh&_nc_oc=AdqEpvpcPsNDKoCrzc6PGAyf1Jgni7T-HAoZTCyaGDgnN7PahUFmRHY_nuLLsnwiXXc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=l6_rsK6RJc-OOCareEioFQ&_nc_tpa=Q5bMBQIXwnjsKkn_MDA0nE42oEVqJPvZAqNqoOs7FlAQ6Q60-_wF1mZVmWqCrkQB7Fr5o-eK5Zq4LnEYGA&oh=00_AQTjeyenxX-s9FbpyauAvSAU-1uPa5pzyYHAl-grsSi9Sg&oe=6AF972CC",
@@ -2745,7 +2790,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1500-fr.jpg"
    },
    "source_key": "post:61590506886446_122151177831350229",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2938,7 +2983,7 @@
    "origin": "manual",
    "page_id": "61590506886446",
    "slot": "2026-11-11 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61591284134933_122129895657376137": {
    "fingerprint": "b4e28466f8fcf0a7f638",
