@@ -3187,7 +3187,15 @@
   "2026-11-11 15:00": {
    "langs": {},
    "slot_iso": "2026-11-11T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/855970066_122153490639350229_351842089428615932_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=q9FROk1mVq8Q7kNvwFUuQa9&_nc_oc=AdoeYKixXSgZaqeZ5PMHFmYFxokrxbzSYSHR1qU5R7bw7CTJA6FrSFI8qPJ3ItUdEuo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hhlXG8RS5NG4FlAljsREFA&_nc_tpa=Q5bMBQKkfZJGKE85yg5cHTa5xTBVh2ylYp04qsyFHWJJ1zEf7Kvtd3uMfOLLpzueBgTB3Nxu1vm2TMMq1Q&oh=00_AQSsQcip-5-s550T6smv6ICoVwRscuNyN7Ds9_ai1OltwA&oe=6AF95B64",
+    "link": "https://www.facebook.com/share/p/1FAmb3vR2h/",
+    "origin": "manual",
+    "page_id": "61590506886446",
+    "text": "A ten-year-old boy saved a dying woman on the roadside, but when he arrived late for his part-time job, his boss fired him in front of everyone. The little boy begged for another chance, explaining that he'd only stopped because the woman couldn't breathe. His boss laughed and told him he should have walked away. But when the boy returned to collect his belongings, someone was waiting who would change his life forever.\n\nMy name is Julian Parker, and I'm ten years old.\n\nFor almost three years, I'd helped out at a small marketing agency after school, doing simple tasks to earn money for my struggling family.\n\nThat morning, I was supposed to help prepare the conference room for an important client presentation.\n\nBut on my way there, something terrible happened.\n\nA woman suddenly collapsed beside the sidewalk, clutching her chest and struggling to breathe.\n\nPeople hurried past without stopping.\n\nI dropped my backpack and ran toward her.\n\n\"Ma'am! Can you hear me?\"\n\nHer lips trembled, but she couldn't answer.\n\nI grabbed my phone and called 911, then knelt beside her while the dispatcher told me what to do.\n\n\"Please don't die,\" I whispered, holding her trembling hand. \"Help is coming.\"\n\nWhen the ambulance finally arrived, I was already forty minutes late.\n\nI ran the rest of the way to work.\n\nThe moment I stepped inside, my boss, Caleb Morgan, stormed toward me.\n\n\"Where the hell have you been?\"\n\nEveryone stopped working.\n\n\"I'm sorry, sir,\" I gasped. \"A lady collapsed on the sidewalk. She couldn't breathe, so I called an ambulance.\"\n\nCaleb stared at me.\n\n\"Was she your mother?\"\n\n\"No, sir.\"\n\n\"Your grandmother?\"\n\n\"No.\"\n\nHe laughed coldly.\n\n\"So you missed the biggest client meeting of the year because some stranger got sick?\"\n\nMy cheeks burned.\n\n\"She wasn't just sick, sir. She fell right in front of me. I thought she was dying.\"\n\nCaleb slammed his hand against a desk.\n\n\"Because you weren't here to help set everything up, we lost the account!\"\n\nI looked toward the empty conference room.\n\nThe presentation still glowed on the wall monitor, but the clients were gone.\n\n\"I'm really sorry,\" I whispered. \"But I couldn't leave her there.\"\n\n\"Yes, you could have!\"\n\nThe entire office fell silent.\n\n\"You should've kept walking, Julian! This is a business, not a charity!\"\n\nMy eyes filled with tears.\n\nFor years, I'd tried my hardest to be useful.\n\nI'd carried supplies, organized papers, cleaned desks, and stayed late whenever someone needed help.\n\nI never complained because every dollar mattered at home.\n\n\"Please, Mr. Morgan,\" I begged. \"My family needs this job.\"\n\nHe didn't even blink.\n\n\"I don't care.\"\n\nThen he pointed toward the door.\n\n\"You're fired. Get out.\"\n\nI looked around desperately.\n\nSeveral employees lowered their heads, while others pretended they hadn't heard.\n\nNobody defended me.\n\nI picked up my backpack and walked outside, trying desperately not to cry.\n\nBut the moment I reached the empty bus stop, I broke down.\n\nI didn't know how to tell my family I'd lost the little income I brought home.\n\nI kept remembering the woman's frightened eyes and wondering whether she'd survived.\n\nWhat I didn't know was that she was already searching for the boy who had saved her life.\n\nThe following morning, I returned to the agency to collect my belongings.\n\nBut as I approached Caleb's office, I heard him speaking nervously.\n\n\"Please, ma'am. I had no idea who that boy was.\"\n\nThen a woman's familiar voice answered.\n\n\"That's exactly why you should be ashamed.\"\n\nMy heart nearly stopped.\n\nI slowly pushed open the door...\n\nNEXT PART and the FULL ENDING are coming. Type ‘YES’ and press ‘LIKE’ so we can post full story. Your [LIKE] helps these honest stories reach the people who need them most. Thank you for the support."
+   },
+   "source_key": "post:61590506886446_122153490723350229",
+   "status": "preparing"
   },
   "2026-11-11 18:00": {
    "langs": {},
@@ -3375,6 +3383,14 @@
    "page_id": "61590456964686",
    "slot": "2026-11-03 18:00",
    "status": "failed"
+  },
+  "post:61590506886446_122153490723350229": {
+   "fingerprint": "9e58bd537be9bb58c3ed",
+   "link": "https://www.facebook.com/share/p/1FAmb3vR2h/",
+   "origin": "manual",
+   "page_id": "61590506886446",
+   "slot": "2026-11-11 15:00",
+   "status": "reserved"
   },
   "post:61591284134933_122129839845376137": {
    "fingerprint": "240cc9b5013b05c6ac43",

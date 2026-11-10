@@ -4092,7 +4092,15 @@
   "2026-11-11 15:00": {
    "langs": {},
    "slot_iso": "2026-11-11T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/825599015_122145983883350229_9030759166051636041_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xcgmdOF9NlQQ7kNvwG7bvdT&_nc_oc=AdrfXZ6CiHvdV10LOXcyS5atdWJXaXsCMlZZXj0tfq3Q3OcWARn4hzD3enRrjmRYp8M&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=VNY9ZqAgciQiTl55w2iZ2g&_nc_tpa=Q5bMBQKrhhsYg0KC_Ty0I4Rqun65eZjWunXL3MFYQUc06XyA4WltsMRDlGJoyIhv2xzhzCrVCKTYSDv3WA&oh=00_AQTpzHyoKNLLZ2VoYX6QKSVqXpPNatIVumJNvG_Li3UoJQ&oe=6AF96660",
+    "link": "https://www.facebook.com/share/p/19i6hebzXB/",
+    "origin": "manual",
+    "page_id": "61590506886446",
+    "text": "Five years after an accident stole the feeling from my legs, I sat outside my own Seattle restaurant convinced that no surgeon, fortune, or prayer could ever make me walk again. Then a barefoot five-year-old girl asked for our leftover food, looked straight at my wheelchair, and said something so simple that it cracked open a part of me I thought had died years ago.\n\nMy name is Daniel Whitaker, and at thirty-six, I owned the kind of life people assumed must feel extraordinary. My company had grown from a small Seattle tech startup into an empire of hotels, restaurants, and glass towers across the country.\n\nBut money couldn't give me back my legs.\n\nFive years earlier, a terrible accident on a mountain road nearly killed me. Doctors saved my life, but when I woke up, I learned I might never walk again.\n\nAt first, I fought that verdict with everything I had. I hired renowned surgeons, met respected neurologists, and paid for every promising treatment I could find.\n\nNothing worked.\n\nEventually, hope became more painful than acceptance.\n\nOne of the few people who never treated me like a tragedy was my housekeeper, Elena Morales. She had worked in my home for three years, cooking simple meals, keeping the mansion organized, and somehow making its enormous empty rooms feel less lonely.\n\nElena never pitied me or acted impressed by my wealth. When she spoke to me, I wasn't a billionaire or a disabled man, just Daniel.\n\nThat winter evening, we were finishing dinner at one of my restaurants in downtown Seattle. The dining room was almost empty, and frost had begun forming along the sidewalk outside.\n\nThen a tiny voice came from near the entrance.\n\n“Sir... do you have any food left?”\n\nI turned my wheelchair, expecting an adult.\n\nInstead, I saw a little girl.\n\nShe couldn't have been older than five, with tangled hair, a thin worn dress, and bare feet touching the freezing pavement. Yet her eyes weren't demanding or bitter.\n\nThey were bright.\n\nBefore I could speak, Elena packed the untouched portion of her meal into a takeout container. She crouched beside the girl and handed it to her.\n\n“Here you go, sweetheart. Eat slowly, okay?”\n\n“Thank you.”\n\nI watched the girl sit outside and carefully begin eating. After only a few bites, however, she closed the container and slipped it into a worn cloth bag.\n\nElena followed her outside. “Aren't you still hungry?”\n\nThe girl nodded. “I am.”\n\nThen she pointed toward a small park across the street.\n\n“But other kids are hungry too. We share.”\n\nShe lowered her eyes shyly.\n\n“If I eat everything and they get nothing, my heart hurts.”\n\nThose words cut deeper than I expected.\n\nHere was a child who barely had shoes, food, or warmth, yet she was worried about someone else's empty stomach. Meanwhile, I'd spent five years surrounded by everything money could buy, thinking almost entirely about everything I'd lost.\n\nThe girl took another bite, then approached me.\n\nHer eyes dropped toward my wheelchair.\n\n“Sir... why don't you walk?”\n\nElena glanced at me nervously, but I wasn't offended. Adults had spent years carefully avoiding that question, while this child simply wanted to understand.\n\n“I had an accident,” I said. “My legs stopped working.”\n\n“Doctors can't fix them?”\n\nI swallowed. “They say nothing can be done.”\n\nShe tilted her head, studying me as though my answer made no sense.\n\nThen she shrugged.\n\n“But God can do something.”\n\nI stared at her.\n\nShe stepped closer and placed one tiny, freezing hand over mine.\n\n“I'll pray for you every day,” she whispered. “Until you walk again.”\n\nFor five years, I'd stopped believing my life could change.\n\nBut as that barefoot little girl smiled at me in the cold, I suddenly realized something far more frightening than hopelessness.\n\nFor the first time since my accident, a part of me wanted to believe her.\n\nEveryone, please type YES in the comments so Facebook can boost this post and we can share the FULL STORY in the comments. ⬇️💬 Thank you, everyone. ❤️"
+   },
+   "source_key": "post:61590506886446_122145983931350229",
+   "status": "preparing"
   },
   "2026-11-11 18:00": {
    "langs": {},
@@ -4280,6 +4288,14 @@
    "page_id": "61590456964686",
    "slot": "2026-11-03 18:00",
    "status": "failed"
+  },
+  "post:61590506886446_122145983931350229": {
+   "fingerprint": "1675f9f33fc2a8f6ae87",
+   "link": "https://www.facebook.com/share/p/19i6hebzXB/",
+   "origin": "manual",
+   "page_id": "61590506886446",
+   "slot": "2026-11-11 15:00",
+   "status": "reserved"
   },
   "post:61591096808475_122137727733369893": {
    "fingerprint": "ca7bf67e115b13f3a522",
