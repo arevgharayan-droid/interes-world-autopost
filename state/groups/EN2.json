@@ -3757,12 +3757,13 @@
       "1220745651126185": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122126215875439195_1462408436027446",
        "error": null,
        "last_attempt": "2026-11-10T00:08:32+04:00",
        "mode": "schedule",
        "photo_id": "122126215845439195",
        "post_id": "1220745651126185_122126215875439195",
-       "status": "published"
+       "status": "done"
       },
       "233545296514172": {
        "attempts": 1,
