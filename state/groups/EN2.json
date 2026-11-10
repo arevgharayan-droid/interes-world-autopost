@@ -439,7 +439,7 @@
   "994273113779575_122138270750776189": "2026-11-10T11:08:09+00:00",
   "994273113779575_122138271116776189": "2026-11-10T14:10:28+00:00",
   "994273113779575_122138271458776189": "2026-11-10T17:07:41+00:00",
-  "994273113779575_122138271794776189": "2026-11-09T20:08:01+00:00"
+  "994273113779575_122138271794776189": "2026-11-10T20:07:35+00:00"
  },
  "slots": {
   "2026-10-29 21:00": {
@@ -3834,21 +3834,24 @@
       "892503027289970": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122142664539219808_2199995907579492",
        "error": null,
        "last_attempt": "2026-11-10T00:08:19+04:00",
        "mode": "schedule",
        "photo_id": "122142664509219808",
        "post_id": "892503027289970_122142664539219808",
-       "status": "published"
+       "status": "done"
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138271794776189_1127250896722951",
        "error": null,
        "last_attempt": "2026-11-10T00:07:59+04:00",
        "mode": "schedule",
        "photo_id": "122138271764776189",
        "post_id": "994273113779575_122138271794776189",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "I Asked My Husband to Watch Our Four Kids for 20 Minutes While I Showered, and What the Camera Showed Me Changed Everything",
@@ -3895,7 +3898,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-0000-en2.jpg"
    },
    "source_key": "post:100044802900629_1663836241786457",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
