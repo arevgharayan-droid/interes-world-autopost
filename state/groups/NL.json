@@ -2102,7 +2102,10 @@
      "generated": true,
      "pages": {},
      "title": "Ich ließ einen Deal über 600 Millionen Dollar platzen, weil meine Ex-Frau kein Geld fürs Essen hatte – als meine Mutter die Wahrheit sah, wurde sie blass",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 160,
+     "wp_status": "future"
     },
     "EN": {
      "pages": {},
@@ -2125,7 +2128,10 @@
      "warnings": [
       "длина текста FB 682 слов (исходник 553, цель ±10%)",
       "длина статьи 964 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 159,
+     "wp_status": "future"
     },
     "PT": {
      "pages": {},
@@ -2140,6 +2146,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-11T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/897151574_122142009789234406_1908418497777032413_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wWBj1Tp49tEQ7kNvwGhS6cp&_nc_oc=Adqn161QdKK3OnoiGxDsbU_wYL873pHLizTV0VEBHLS3GLr12AmMr3q5CFxWES-xweQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0h3lPQHkKA3vVFUHIrQZCA&_nc_tpa=Q5bMBQKCmByDyMW6yMAZ2zlW_Ov5QLen0kBEfc_s3wyGS1-JBfWeJ0vTEm4tjgLZboSdy8jkQyzAIZH31g&oh=00_AQSfNRZRsrYFt9nsQ8mxU8lhJ1UfHuf5zvZm-_99jYfR6g&oe=6AF95806",
@@ -2151,7 +2158,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1800-nl.jpg"
    },
    "source_key": "post:61587032195586_122142009807234406",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2346,7 +2353,7 @@
    "origin": "manual",
    "page_id": "61587032195586",
    "slot": "2026-11-11 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122145763221348565": {
    "error": "слот пропущен",
