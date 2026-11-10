@@ -3786,6 +3786,11 @@
     "url": "https://hetaqrqir.com",
     "wp_auth": "make_connector"
    }
+  },
+  "2026-11-11 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-11T12:00:00+04:00",
+   "status": "no_source"
   }
  },
  "source_cutoff": "2026-10-29T16:37:24+00:00",
