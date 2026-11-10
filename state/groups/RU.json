@@ -2249,6 +2249,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 96,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RU": {
@@ -2318,12 +2319,13 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122126380041307134_1941506966866800",
        "error": null,
        "last_attempt": "2026-11-10T00:08:31+04:00",
        "mode": "schedule",
        "photo_id": "122126380011307134",
        "post_id": "1164575726728296_122126380041307134",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Boşandıktan Sonra Gizlice Aldığı Eve Eski Kocası Yeni Karısıyla Kamyonla Geldi, Kapıyı da Şifreyle Açtı",
