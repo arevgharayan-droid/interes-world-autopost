@@ -3,7 +3,9 @@
  "output_fps": {
   "0d1837969ae0e3704a2b": "2026-11-09T20:00:55+00:00",
   "122da30c84d729a1b892": "2026-11-09T20:00:55+00:00",
+  "12a6e95bcd0629af0097": "2026-11-10T22:02:31+00:00",
   "13db4df12dcefc769231": "2026-11-09T13:24:24+00:00",
+  "15be0b388fcdf33795f9": "2026-11-10T22:02:31+00:00",
   "3b17ef7d9630be534518": "2026-11-01T18:14:37+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
@@ -1854,7 +1856,55 @@
    }
   },
   "2026-11-11 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wir wollten, dass unsere Babys miteinander verwandt sind – doch als der Arzt die Gentests sah, fragte er uns etwas, das alles veränderte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 139,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn beste vriendin en ik kozen dezelfde donor, maar toen de arts onze genetische uitslagen zag, stelde hij een vraag die alles op zijn kop zette",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 138,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/897215791_1708415654010460_7226574939522419984_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YYaHUM3amlIQ7kNvwEHpPLm&_nc_oc=AdopdnKynsiq2SSUvfjQ7l48MgqS8Yo_w6tg5KurumfTDt8_wEwZT0v-jka1FBPhTdc&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=kO0JPtoB0-MMtDZrp9RIQA&_nc_tpa=Q5bMBQImwpkuBhTkICX7pLV3V8Jy5NmXo9tZkDCfwZ3Qh8XgnkjmqGzZ3s-wsVVat6euaY4vhOH1vP4QhA&oh=00_AQRSvGZPg3aaDbt8r8V4nXZPermTCP4vPCz4dvhDggOEEg&oe=6AF9536A",
@@ -1866,7 +1916,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1200-nl.jpg"
    },
    "source_key": "post:100045261260562_1708415680677124",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -1999,7 +2049,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-11 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1599735255518336": {
    "fingerprint": "c319c595abd42758fc88",
