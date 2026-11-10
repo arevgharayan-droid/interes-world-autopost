@@ -3015,12 +3015,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122138270288776189_2148594455795952",
        "error": null,
        "last_attempt": "2026-11-09T23:59:17+04:00",
        "mode": "schedule",
        "photo_id": "122138270258776189",
        "post_id": "994273113779575_122138270288776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "He Handed Me $12 Five Days After My C-Section and Told Me to Take the Bus Home With Our Newborn, Not Knowing My \"Retired Civil Servant\" Father Was a Four-Star General",
@@ -3067,7 +3068,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1200-en2.jpg"
    },
    "source_key": "post:61586759032853_122141685909225301",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
