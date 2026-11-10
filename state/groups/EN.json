@@ -423,7 +423,7 @@
   "975714512286925_122149266759209153": "2026-11-09T20:07:05+00:00",
   "975714512286925_122149309881209153": "2026-11-10T08:08:25+00:00",
   "975714512286925_122149310061209153": "2026-11-10T11:08:05+00:00",
-  "975714512286925_122149310367209153": "2026-11-09T20:02:13+00:00",
+  "975714512286925_122149310367209153": "2026-11-10T14:10:20+00:00",
   "975714512286925_122149310583209153": "2026-11-09T20:03:14+00:00",
   "975714512286925_122149311213209153": "2026-11-09T20:08:05+00:00"
  },
@@ -3413,21 +3413,24 @@
       "921611111039858": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122143750671200344_1540876807877422",
        "error": null,
        "last_attempt": "2026-11-10T00:02:06+04:00",
        "mode": "schedule",
        "photo_id": "122143750635200344",
        "post_id": "921611111039858_122143750671200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122149310367209153_1665344395388558",
        "error": null,
        "last_attempt": "2026-11-10T00:02:12+04:00",
        "mode": "schedule",
        "photo_id": "122149310337209153",
        "post_id": "975714512286925_122149310367209153",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "My Boss Asked Me to Take His Daughter to Prom, but Before We Got Out of the Car She Whispered a Secret",
@@ -3474,7 +3477,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1800-en.jpg"
    },
    "source_key": "post:61593412202747_122123421777447073",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
