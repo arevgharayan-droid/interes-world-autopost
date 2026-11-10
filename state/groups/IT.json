@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
+  "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
   "2116a560bb8b542f0caf": "2026-11-01T18:14:23+00:00",
   "24ef5b43174759b5cb24": "2026-10-29T20:16:50+00:00",
   "27cf43d3866fe7568230": "2026-10-29T20:24:35+00:00",
@@ -3185,7 +3186,48 @@
    }
   },
   "2026-11-11 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Salva una donna in strada e arriva tardi al lavoro: a 10 anni viene licenziato davanti a tutti, ma il giorno dopo qualcuno lo aspetta",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 150,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/855970066_122153490639350229_351842089428615932_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=q9FROk1mVq8Q7kNvwFUuQa9&_nc_oc=AdoeYKixXSgZaqeZ5PMHFmYFxokrxbzSYSHR1qU5R7bw7CTJA6FrSFI8qPJ3ItUdEuo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hhlXG8RS5NG4FlAljsREFA&_nc_tpa=Q5bMBQKkfZJGKE85yg5cHTa5xTBVh2ylYp04qsyFHWJJ1zEf7Kvtd3uMfOLLpzueBgTB3Nxu1vm2TMMq1Q&oh=00_AQSsQcip-5-s550T6smv6ICoVwRscuNyN7Ds9_ai1OltwA&oe=6AF95B64",
@@ -3197,7 +3239,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1500-it.jpg"
    },
    "source_key": "post:61590506886446_122153490723350229",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3398,7 +3440,7 @@
    "origin": "manual",
    "page_id": "61590506886446",
    "slot": "2026-11-11 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61591284134933_122129839845376137": {
    "fingerprint": "240cc9b5013b05c6ac43",
