@@ -1614,3 +1614,5 @@
 {"slot": "2026-11-11 21:00", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-10T22:05:36+00:00", "group": "NL"}
 {"slot": "2026-11-11 21:00", "lang": "NL", "action": "wp_post", "id": 168, "status": "future", "t": "2026-11-10T22:05:37+00:00", "group": "NL"}
 {"slot": "2026-11-11 21:00", "lang": "DE", "action": "wp_post", "id": 169, "status": "future", "t": "2026-11-10T22:05:38+00:00", "group": "NL"}
+{"slot": "2026-11-11 21:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-10T22:05:38+00:00", "group": "EN"}
+{"slot": "2026-11-11 21:00", "lang": "EN", "action": "wp_post", "id": 170, "status": "future", "t": "2026-11-10T22:05:38+00:00", "group": "EN"}

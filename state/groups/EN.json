@@ -18,7 +18,8 @@
   "cad5cdd2ed73c48ea1dc": "2026-11-09T20:01:56+00:00",
   "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
   "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00",
-  "f87c8c178aeaa21eef02": "2026-11-10T22:04:28+00:00"
+  "f87c8c178aeaa21eef02": "2026-11-10T22:04:28+00:00",
+  "feb1dde7e2dbbf5351ce": "2026-11-10T22:05:38+00:00"
  },
  "outputs": {
   "1016419758218222_122145316869204972": "2026-10-29T17:25:54+00:00",
@@ -4493,7 +4494,48 @@
    }
   },
   "2026-11-11 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Shoved His Wife Off the Red Carpet for Another Woman, Until Her Billionaire Father Revealed She Owned Everything Around Them",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 170,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/885667629_1660773162092765_7935809235762139652_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=auOMBEILrecQ7kNvwFi2xiL&_nc_oc=AdpdaNQDEqYlLCJWZ5eJoQgDknM8VLZ4v6HPvUZ9kMN0wTe3y0iUKkSfbU35yZW8RwY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=J_K4vlouWeZxTURw5EH1jA&_nc_tpa=Q5bMBQKT-Y9PSeq_yJ6nYBetthMKyXjQq4CX6cUIdhPO_aCVOkov_bJLcj1BYePelxzThNGsYgUj1DM27g&oh=00_AQRDUboUTo1nLCzqmQ6ZUKmU87mdinIdWB_N980LAW-vyQ&oe=6AF97C99",
@@ -4505,7 +4547,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-2100-en.jpg"
    },
    "source_key": "post:100044802900629_1661889575314457",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4607,7 +4649,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-11 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100044802900629_1664001105103304": {
    "fingerprint": "af44af161a18d38a9357",
