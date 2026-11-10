@@ -1755,6 +1755,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 84,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RU": {
@@ -1825,12 +1826,13 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122126378751307134_1386960493278764",
        "error": null,
        "last_attempt": "2026-11-10T00:01:04+04:00",
        "mode": "schedule",
        "photo_id": "122126378721307134",
        "post_id": "1164575726728296_122126378751307134",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Otel Odasının Kapısını Çocuklarımla Açtığımda Kocamın Yüzüğünü Komodinin Üstünde Gördüm",
