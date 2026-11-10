@@ -3898,7 +3898,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-11-11T02:02:15+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Twenty-Seven Minutes After My C-Section, My Mother-in-Law Ordered Me to Cook Dinner, and One Phone Call to Dad Changed Everything",
      "warnings": [
       "длина статьи 968 слов"

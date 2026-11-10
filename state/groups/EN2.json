@@ -7,6 +7,7 @@
   "405a9e8158205d645adc": "2026-11-09T20:00:27+00:00",
   "54f4ed5345b19326f5b3": "2026-11-09T20:02:52+00:00",
   "639e26827f29271e89c3": "2026-11-09T19:59:07+00:00",
+  "64cee77292ce0f9e523e": "2026-11-10T22:02:16+00:00",
   "86822eab2c3504add2f2": "2026-11-09T13:26:02+00:00",
   "90f752e134f7f161178f": "2026-11-01T14:03:51+00:00",
   "96662a0e4435c54bf499": "2026-10-31T10:14:42+00:00",
@@ -3907,7 +3908,50 @@
    }
   },
   "2026-11-11 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "They Forced Their Pregnant Widow Daughter Into a Freezing Garage on Thanksgiving, Then Three Black Military SUVs Pulled Into the Driveway",
+     "warnings": [
+      "длина текста FB 1163 слов (исходник 1587, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 136,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/901919753_1710674127117946_1118976466303608096_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=q4m0xBlXockQ7kNvwHVQYJ5&_nc_oc=AdpH775mtsnGJB7-VfGyKpwSaYzI1ihvXQAgwPKxJWljhAAd_KZtbreYeqE22FEhW8E&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=3f1U_ZmpzBNR_oi9NH3vLA&_nc_tpa=Q5bMBQKvUTaH70A6ZEGYv8P__Dxz8N7gtwJ4uE3SeDPmespxdMZ_Qv4zk--UCevjV9lN0rH2dZCj3OmdmA&oh=00_AQT9XGrx-LbN69PninQl5FfiSjUuqVdzGxH4Sz88eVIFLg&oe=6AF95E87",
@@ -3919,7 +3963,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1200-en2.jpg"
    },
    "source_key": "post:100045261260562_1710674163784609",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4052,7 +4096,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-11 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122102295536536431": {
    "fingerprint": "abe1f9853a8335e60c0e",
