@@ -1922,6 +1922,7 @@
      ],
      "wp_error": null,
      "wp_id": 88,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RU": {
@@ -1991,12 +1992,13 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122126379081307134_1789809685624639",
        "error": null,
        "last_attempt": "2026-11-10T00:02:24+04:00",
        "mode": "schedule",
        "photo_id": "122126379051307134",
        "post_id": "1164575726728296_122126379081307134",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Yeni Yıl Gecesi Sürpriz Yapıp Eve Döndüm: Sezaryenli Karım Soğuk Mutfakta Hazır Noodle Yiyordu, Bebeğim Soğuktan Ağlıyordu",
