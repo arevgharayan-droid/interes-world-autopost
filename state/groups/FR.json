@@ -7,6 +7,7 @@
   "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
   "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
+  "5475522c07f16a70e1ac": "2026-11-10T22:04:58+00:00",
   "5f1cae432679c9b4a5ea": "2026-10-29T16:36:05+00:00",
   "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
   "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
@@ -2877,7 +2878,50 @@
    }
   },
   "2026-11-11 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle roulait trop vite, mais après le contrôle des papiers, le policier m'a demandé de sortir, et son sourire a disparu",
+     "warnings": [
+      "длина статьи 955 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 163,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/886588741_122141556489234406_3785053663350567206_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qrzgLNL_mJgQ7kNvwEvCU2y&_nc_oc=AdpsfYzWX14aN6iC8lRgitT1tvjfdVAMpmboH7oAg5TCMLd7hziLheSDQ5xZFJfbu2A&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=IId2OTAwruYN-7osT5jZYg&_nc_tpa=Q5bMBQLVt5JKPBX6yrQPc_czWhqF78OOVMHUcyWb-z_cMIdYDYfr-iies4CCW3jk289xXUhvnnQ6YTo8PA&oh=00_AQSanN3Cnky7mlLxscKDk0HouJ-NIv-yY4uHLLFndLxJ_Q&oe=6AF96EEF",
@@ -2889,7 +2933,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1800-fr.jpg"
    },
    "source_key": "post:61587032195586_122141556543234406",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3068,7 +3112,7 @@
    "origin": "manual",
    "page_id": "61587032195586",
    "slot": "2026-11-11 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122146579899348565": {
    "error": "слот пропущен",
