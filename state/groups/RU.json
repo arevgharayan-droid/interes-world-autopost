@@ -168,7 +168,7 @@
   "1338630212673029_122115195825471857": "2026-11-09T20:08:42+00:00",
   "1448441201677530_122118336303505599": "2026-11-09T17:07:27+00:00",
   "1448441201677530_122118337287505599": "2026-11-09T20:06:55+00:00",
-  "1448441201677530_122118391035505599": "2026-11-09T19:59:56+00:00",
+  "1448441201677530_122118391035505599": "2026-11-10T08:08:01+00:00",
   "1448441201677530_122118391437505599": "2026-11-09T20:01:09+00:00",
   "1448441201677530_122118392127505599": "2026-11-09T20:02:29+00:00",
   "1448441201677530_122118392913505599": "2026-11-09T20:03:42+00:00",
@@ -1570,21 +1570,24 @@
       "1338630212673029": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122115193353471857_2383130145761340",
        "error": null,
        "last_attempt": "2026-11-09T23:59:56+04:00",
        "mode": "schedule",
        "photo_id": "122115193323471857",
        "post_id": "1338630212673029_122115193353471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118391035505599_1144459201640775",
        "error": null,
        "last_attempt": "2026-11-09T23:59:53+04:00",
        "mode": "schedule",
        "photo_id": "122118391005505599",
        "post_id": "1448441201677530_122118391035505599",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Depois de quatro filhas, ele finalmente teve o filho que sonhava, mas a primeira frase que disse ao segurá-lo gelou o sangue da esposa",
@@ -1694,7 +1697,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-1200-ru.jpg"
    },
    "source_key": "post:61586759032853_122141673735225301",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
