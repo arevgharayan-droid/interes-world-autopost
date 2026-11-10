@@ -421,7 +421,7 @@
   "975714512286925_122149266087209153": "2026-11-09T14:10:23+00:00",
   "975714512286925_122149266327209153": "2026-11-09T17:07:46+00:00",
   "975714512286925_122149266759209153": "2026-11-09T20:07:05+00:00",
-  "975714512286925_122149309881209153": "2026-11-09T19:59:33+00:00",
+  "975714512286925_122149309881209153": "2026-11-10T08:08:25+00:00",
   "975714512286925_122149310061209153": "2026-11-09T20:00:51+00:00",
   "975714512286925_122149310367209153": "2026-11-09T20:02:13+00:00",
   "975714512286925_122149310583209153": "2026-11-09T20:03:14+00:00",
@@ -3011,21 +3011,24 @@
       "921611111039858": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122143749915200344_979207518115979",
        "error": null,
        "last_attempt": "2026-11-09T23:59:26+04:00",
        "mode": "schedule",
        "photo_id": "122143749885200344",
        "post_id": "921611111039858_122143749915200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122149309881209153_2239084297001485",
        "error": null,
        "last_attempt": "2026-11-09T23:59:31+04:00",
        "mode": "schedule",
        "photo_id": "122149309851209153",
        "post_id": "975714512286925_122149309881209153",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "My 14-Year-Old Grew His Hair Out for a Classmate Fighting Cancer, but the Next Day I Was Summoned to School Where Her Father Said, \"You Have No Idea What Your Son Did",
@@ -3074,7 +3077,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1200-en.jpg"
    },
    "source_key": "post:61586759032853_122141650209225301",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
