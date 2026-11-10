@@ -2496,12 +2496,13 @@
       "1145306638657445": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125231269303172_1114664521411176",
        "error": null,
        "last_attempt": "2026-11-10T00:07:53+04:00",
        "mode": "schedule",
        "photo_id": "122125231233303172",
        "post_id": "1145306638657445_122125231269303172",
-       "status": "published"
+       "status": "done"
       },
       "1202025962997153": {
        "attempts": 1,
