@@ -7,6 +7,7 @@
   "3e2f2c99735b21275480": "2026-11-09T13:27:19+00:00",
   "4e1d50075aba4f7e15de": "2026-10-29T16:37:54+00:00",
   "4ec66c0e7d13beb9615d": "2026-11-09T20:00:31+00:00",
+  "5524aef86b90361cca7b": "2026-11-10T22:03:23+00:00",
   "5a1a23c72fc75013e47d": "2026-10-31T10:14:39+00:00",
   "655ea8557dcca7162d6c": "2026-11-01T14:03:59+00:00",
   "887a17b48cf1dabf9df6": "2026-10-29T20:16:49+00:00",
@@ -4090,7 +4091,48 @@
    }
   },
   "2026-11-11 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A Barefoot Little Girl Asked a Billionaire in a Wheelchair for Leftovers, Then Said Something He Never Forgot",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 146,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/825599015_122145983883350229_9030759166051636041_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xcgmdOF9NlQQ7kNvwG7bvdT&_nc_oc=AdrfXZ6CiHvdV10LOXcyS5atdWJXaXsCMlZZXj0tfq3Q3OcWARn4hzD3enRrjmRYp8M&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=VNY9ZqAgciQiTl55w2iZ2g&_nc_tpa=Q5bMBQKrhhsYg0KC_Ty0I4Rqun65eZjWunXL3MFYQUc06XyA4WltsMRDlGJoyIhv2xzhzCrVCKTYSDv3WA&oh=00_AQTpzHyoKNLLZ2VoYX6QKSVqXpPNatIVumJNvG_Li3UoJQ&oe=6AF96660",
@@ -4102,7 +4144,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1500-en.jpg"
    },
    "source_key": "post:61590506886446_122145983931350229",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4303,7 +4345,7 @@
    "origin": "manual",
    "page_id": "61590506886446",
    "slot": "2026-11-11 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61591096808475_122137727733369893": {
    "fingerprint": "ca7bf67e115b13f3a522",
