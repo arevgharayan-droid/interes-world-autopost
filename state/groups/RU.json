@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
+  "04468dcabed0743dca47": "2026-11-10T22:08:57+00:00",
   "0475676f7d35cf5ec822": "2026-10-29T20:24:32+00:00",
   "049be09d5ae08dc8389a": "2026-11-09T20:02:09+00:00",
   "04da7545de52af7eefa9": "2026-11-10T22:04:30+00:00",
@@ -22,12 +23,14 @@
   "76d5322eded92004a16e": "2026-11-10T22:03:12+00:00",
   "78229d059b1f03d27989": "2026-11-09T20:08:16+00:00",
   "788e0e4a8634b7c3a3a3": "2026-11-10T22:05:49+00:00",
+  "8985ae5cfef71c642a06": "2026-11-10T22:08:57+00:00",
   "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
   "8d212afd28041fbd462e": "2026-11-09T20:00:50+00:00",
   "8d9c5dde4968ee4bd37e": "2026-11-09T20:03:21+00:00",
   "8e4386a701b76151555b": "2026-11-01T18:14:18+00:00",
   "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
+  "9080b378741e8f08ec4a": "2026-11-10T22:08:57+00:00",
   "950641cc5f0ddd9580f6": "2026-11-09T20:08:16+00:00",
   "959c0a3855f5dc48d671": "2026-11-09T20:03:21+00:00",
   "9f68477819cc7f2b978d": "2026-11-09T20:02:09+00:00",
@@ -118,6 +121,7 @@
   "122115603945471857": "2026-11-10T22:03:39+00:00",
   "122115604677471857": "2026-11-10T22:04:54+00:00",
   "122115605031471857": "2026-11-10T22:06:22+00:00",
+  "122115605595471857": "2026-11-10T22:07:53+00:00",
   "122117186594640467": "2026-10-29T16:41:31+00:00",
   "122117195474640467": "2026-10-29T20:16:57+00:00",
   "122117196014640467": "2026-10-29T20:24:37+00:00",
@@ -224,6 +228,7 @@
   "1338630212673029_122115603981471857": "2026-11-10T22:03:39+00:00",
   "1338630212673029_122115604707471857": "2026-11-10T22:04:54+00:00",
   "1338630212673029_122115605061471857": "2026-11-10T22:06:22+00:00",
+  "1338630212673029_122115605625471857": "2026-11-10T22:07:53+00:00",
   "1448441201677530_122118336303505599": "2026-11-09T17:07:27+00:00",
   "1448441201677530_122118337287505599": "2026-11-09T20:06:55+00:00",
   "1448441201677530_122118391035505599": "2026-11-10T08:08:01+00:00",
@@ -2896,9 +2901,12 @@
      "pages": {
       "1338630212673029": {
        "attempts": 1,
+       "error": null,
        "last_attempt": "2026-11-11T02:07:50+04:00",
        "mode": "schedule",
-       "status": "sending"
+       "photo_id": "122115605595471857",
+       "post_id": "1338630212673029_122115605625471857",
+       "status": "scheduled"
       },
       "1448441201677530": {
        "attempts": 1,
@@ -3003,7 +3011,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-2100-ru.jpg"
    },
    "source_key": "post:100044802900629_1660558355447579",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3012,9 +3020,84 @@
    }
   },
   "2026-11-12 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu filho de 13 anos vendeu a guitarra que mais amava para comprar uma cadeira de rodas para uma colega — na manhã seguinte, dois policiais bateram à nossa porta",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 131,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Сын тайком продал любимую гитару ради одноклассницы, а наутро в дверь постучали двое полицейских",
+     "warnings": [
+      "длина текста FB 1040 слов (исходник 1419, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 129,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "13 Yaşındaki Oğlum Gitarını Sınıf Arkadaşının Tekerlekli Sandalyesi İçin Sattı, Ertesi Sabah Kapımıza İki Polis Geldi",
+     "warnings": [
+      "длина текста FB 879 слов (исходник 1419, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 130,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-12T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/870354904_1448938400673831_3089014154971671288_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1l6N6YeiSPMQ7kNvwE437WK&_nc_oc=Adr_DAbemsUKPLOZkC3vMtXEoYTTedyh8sp-f4iR3C-Ei1XS7SGYksGDeLEVtDTO-vU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=CJ5zr1rJQwIIQH77VIEP5w&_nc_tpa=Q5bMBQJxb2jaMC9jYiZsQZvllhAAhHpQaPeYP4dzSiSIwHrZKRKQENeIXGlplewwBvuGp9jQsdEm0hsBOQ&oh=00_AQT2lagQwsbNflKaFNMwAs-GKNtjN4SV3wd927ssQrthNg&oe=6AF97697",
+    "link": "https://www.facebook.com/share/p/1FHUSznZ8Q/",
+    "origin": "manual",
+    "page_id": "100066730531753",
+    "text": "Mon fils de 13 ans a vendu sa guitare préférée pour acheter un fauteuil roulant à une camarade de classe. Le lendemain matin, deux policiers ont frappé à notre porte… et m’ont révélé quelque chose que je n’aurais jamais imaginé.\n\nMon fils de treize ans avait vendu en secret sa précieuse guitare électrique pour aider Léa, une camarade de classe, à obtenir un nouveau fauteuil roulant. J’essayais encore de comprendre son geste lorsque, à sept heures le lendemain matin, deux policiers en uniforme se sont présentés devant notre porte.\n\n— Madame Moreau, nous devons vous parler de votre fils, a annoncé l’un d’eux.\n\nJ’ai aussitôt saisi la main de Lucas.\n\n— Que s’est-il passé ? A-t-il fait quelque chose de mal ?\n\nLe policier a regardé mon fils, puis s’est tourné vers moi.\n\n— Madame, il y a quelque chose concernant la journée d’hier que vous ignorez encore.\n\nJe me suis tournée vers Lucas. Son visage était devenu livide.\n\nÀ cet instant, j’ai compris que la disparition de sa guitare n’était peut-être qu’une partie de l’histoire.\n\nLucas adorait sa Fender Stratocaster depuis le jour où nous la lui avions offerte. Son père et moi avions économisé pendant des mois pour lui acheter cet instrument. C’était le cadeau d’anniversaire le plus cher que nous lui ayons jamais offert, mais voir son visage s’illuminer en découvrant la guitare avait rendu tous nos sacrifices insignifiants.\n\nIl en prenait soin comme d’un véritable trésor. Presque chaque après-midi, les notes de ses mélodies résonnaient dans toute la maison tandis qu’il répétait inlassablement dans sa chambre.\n\nAlors, lorsque je suis entrée chez lui avec un panier de linge propre et que j’ai découvert le support de guitare vide à côté de son bureau, je me suis immédiatement arrêtée.\n\nLe support était toujours là, mais la guitare avait disparu.\n\nJ’ai vérifié dans le placard, sous son lit et derrière la porte. Rien.\n\nQuelques minutes plus tard, Lucas est rentré de l’école.\n\n— Mon chéri, où est ta Fender ?\n\nIl s’est immobilisé dans le couloir, les yeux baissés vers ses baskets.\n\n— Maman… je l’ai vendue.\n\nJ’ai failli laisser tomber mon panier.\n\n— Tu as vendu ta guitare ? Pourquoi ?\n\nIl a dégluti nerveusement.\n\n— Parce que Léa avait besoin d’un nouveau fauteuil roulant.\n\nJe suis restée sans voix.\n\nLéa était une camarade de classe de Lucas. Je l’avais croisée plusieurs fois à la sortie de l’école et je savais qu’elle se déplaçait en fauteuil roulant depuis l’école primaire. C’était une jeune fille souriante et sympathique.\n\nMais Lucas m’a raconté des choses auxquelles je n’avais jamais vraiment prêté attention.\n\n— Son fauteuil est très vieux, maman. Les roues avant se bloquent sans arrêt et elle a de plus en plus de mal à se déplacer entre les salles de classe.\n\nIl a marqué une pause avant de poursuivre :\n\n— La semaine dernière, elle a presque manqué toute sa pause déjeuner parce que son fauteuil n’avançait plus correctement. En plus, le siège est usé et certains élèves se moquent du bruit qu’il fait.\n\nIl a relevé les yeux vers moi.\n\n— Léa fait semblant de ne pas être blessée, mais je vois bien que ça lui fait de la peine.\n\nJe me suis assise au bord de son lit.\n\n— Ses parents ne savent-ils pas qu’elle a besoin d’un nouveau fauteuil ?\n\n— Si, mais ils ont déjà beaucoup de factures médicales à payer. Le fauteuil qu’il lui faut coûte très cher. Elle m’a dit qu’ils essayaient d’économiser pour pouvoir lui en acheter un.\n\nJ’ai regardé le support vide.\n\n— Alors, tu as décidé de vendre ta guitare ?\n\nLucas a hoché la tête.\n\n— Elle valait beaucoup d’argent. Je me suis dit que je pouvais m’en servir pour l’aider.\n\nJe l’ai regardé avec stupéfaction. Il n’avait que treize ans et venait de renoncer à quelque chose dont il rêvait depuis des années pour faciliter la vie d’une camarade.\n\n— Pourquoi ne m’en as-tu pas parlé avant ?\n\nSes yeux se sont remplis de larmes.\n\n— Je pensais que tu me dirais qu’on devrait attendre et organiser une collecte. Mais Léa a besoin d’un fauteuil maintenant.\n\nIl a pris une inspiration tremblante.\n\n— Je sais que j’aurais dû vous demander. Je suis désolé.\n\nJe l’ai attiré contre moi et serré dans mes bras.\n\n— Tu as un cœur merveilleux, Lucas. La prochaine fois, nous chercherons ensemble une solution pour aider.\n\nPuis je lui ai posé une question qui me préoccupait.\n\n— As-tu obtenu assez d’argent pour acheter le fauteuil ?\n\nIl a hésité.\n\n— Presque.\n\n— Comment ça, presque ?\n\nLucas a ouvert le tiroir de son bureau. À l’intérieur se trouvait sa petite boîte à économies.\n\nElle était vide.\n\n— J’ai aussi utilisé l’argent que j’avais économisé pour mon anniversaire, a-t-il avoué.\n\nJe l’ai regardé, incrédule.\n\n— Tout l’argent ?\n\nIl a hoché la tête.\n\n— Et j’ai vendu ma PlayStation et mes jeux. Il me manquait encore un peu d’argent. Le fauteuil coûtait 1 400 dollars.\n\nJ’ai regardé autour de moi. Le support de guitare était vide, son étagère de jeux vidéo aussi, et sa boîte à économies ne contenait plus rien.\n\nMon fils avait renoncé à presque tout ce qu’il possédait pour aider Léa.\n\n— Lucas, pourquoi as-tu fait tout ça ?\n\nSa réponse m’a mis les larmes aux yeux.\n\n— Parce que je pourrai économiser pour acheter une autre guitare un jour, maman. Mais Léa a besoin de pouvoir se déplacer confortablement à l’école dès maintenant.\n\nJe l’ai serré de nouveau dans mes bras.\n\nCe soir-là, il m’a expliqué que le fauteuil avait déjà été acheté et que sa livraison était organisée. Il espérait faire une surprise à Léa et à ses parents.\n\nJe me suis couchée le cœur rempli de fierté et d’émotion. Je pensais que la plus grande surprise était de découvrir à quel point mon fils était généreux.\n\nMais je me trompais.\n\nLe lendemain matin, à sept heures précises, quelqu’un a frappé fermement à notre porte.\n\nJ’ai dévalé les escaliers et ouvert. Deux policiers se tenaient sur le seuil, leur voiture garée le long du trottoir.\n\n— Bonjour, madame. Êtes-vous Sophie Moreau ? a demandé le plus grand.\n\n— Oui. Tout va bien ?\n\n— Je suis l’agent Daniels et voici l’agent Cooper. Nous souhaiterions parler avec vous et votre fils, Lucas.\n\nMon estomac s’est noué.\n\nLucas est apparu derrière moi.\n\n— Maman ? Qu’est-ce qui se passe ?\n\nEn apercevant les policiers, son visage est devenu livide. J’ai posé une main rassurante sur son épaule.\n\n— Messieurs, pourriez-vous m’expliquer ce qui se passe ?\n\nL’agent Daniels a regardé Lucas.\n\n— Votre fils est-il scolarisé au collège Westbrook ?\n\n— Oui.\n\n— A-t-il récemment acheté un fauteuil roulant pour une camarade prénommée Léa ?\n\nJ’ai lentement hoché la tête.\n\n— Oui, c’est exact.\n\nLes deux policiers ont échangé un regard.\n\nPuis l’agent Daniels a prononcé des mots qui m’ont glacé le sang.\n\n— Madame Moreau, je ne pense pas que l’on vous ait raconté tout ce qui s’est passé hier.\n\nMon cœur s’est mis à battre à toute vitesse.\n\nJe me suis tournée vers Lucas.\n\n— Mon chéri, y a-t-il autre chose que tu dois me dire ?\n\nIl a secoué la tête.\n\n— Je ne sais pas, maman.\n\nL’agent Cooper a fait un pas en avant.\n\n— Votre fils n’a aucun ennui. Mais quelqu’un a contacté notre service hier soir, et nous avons une raison très importante de venir vous voir.\n\n— Quelle raison ? ai-je demandé, complètement perdue.\n\nLe policier a jeté un regard vers leur voiture avant de se tourner de nouveau vers Lucas.\n\n— Quelqu’un souhaite rencontrer votre fils. Et cette personne nous a demandé de vous accompagner tous les deux.\n\nJe ne comprenais plus rien.\n\n— Qui veut le rencontrer ?\n\nL’agent a marqué une pause, puis a prononcé le nom du père de Léa.\n\nLorsqu’il m’a expliqué ce qui s’était passé après que Léa avait reçu son nouveau fauteuil roulant, j’ai enfin compris pourquoi deux policiers s’étaient présentés chez nous si tôt le matin.\n\nMais rien n’aurait pu préparer Lucas à ce qui l’attendait lorsque nous sommes arrivés sur place…\n\nDécouvrez la suite de cette histoire dans le premier commentaire. 👇👇",
+    "wp_media_id": 128,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261112-0000-ru.jpg"
+   },
+   "source_key": "post:100066730531753_1449183097316028",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-10-29T16:40:38+00:00",
@@ -3137,6 +3220,14 @@
    "origin": "manual",
    "page_id": "100064456312444",
    "slot": "2026-11-01 15:00",
+   "status": "used"
+  },
+  "post:100066730531753_1449183097316028": {
+   "fingerprint": "4d0ffc15e7187ded193f",
+   "link": "https://www.facebook.com/share/p/1FHUSznZ8Q/",
+   "origin": "manual",
+   "page_id": "100066730531753",
+   "slot": "2026-11-12 00:00",
    "status": "used"
   },
   "post:1011074408765807_122102285582536431": {
