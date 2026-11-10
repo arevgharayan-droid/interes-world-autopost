@@ -2256,12 +2256,13 @@
       "1114015015119414": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122140562210811401_2043764902993980",
        "error": null,
        "last_attempt": "2026-11-09T23:59:51+04:00",
        "mode": "schedule",
        "photo_id": "122140562180811401",
        "post_id": "1114015015119414_122140562210811401",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
