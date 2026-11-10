@@ -302,7 +302,7 @@
   "997772916762884_122112786050437662": "2026-11-10T08:08:17+00:00",
   "997772916762884_122112786260437662": "2026-11-10T11:07:54+00:00",
   "997772916762884_122112786656437662": "2026-11-10T14:10:11+00:00",
-  "997772916762884_122112787010437662": "2026-11-09T20:08:05+00:00",
+  "997772916762884_122112787010437662": "2026-11-10T17:07:27+00:00",
   "997772916762884_122112787256437662": "2026-11-09T20:09:20+00:00"
  },
  "slots": {
@@ -2794,21 +2794,24 @@
       "1191480207389219": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125080285405175_1463369145969213",
        "error": null,
        "last_attempt": "2026-11-10T00:08:18+04:00",
        "mode": "schedule",
        "photo_id": "122125080255405175",
        "post_id": "1191480207389219_122125080285405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112787010437662_1753472972391975",
        "error": null,
        "last_attempt": "2026-11-10T00:08:02+04:00",
        "mode": "schedule",
        "photo_id": "122112786980437662",
        "post_id": "997772916762884_122112787010437662",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "A sei anni promisi al mio migliore amico di andare al ballo con lui. Il giorno in cui dovevo mantenerla, mia madre chiuse la porta a chiave",
@@ -2847,7 +2850,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-it.jpg"
    },
    "source_key": "post:61576792898556_122130758852893096",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

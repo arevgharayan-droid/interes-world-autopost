@@ -2076,12 +2076,13 @@
       "1448441201677530": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122118392913505599_2134670893816131",
        "error": null,
        "last_attempt": "2026-11-10T00:03:40+04:00",
        "mode": "schedule",
        "photo_id": "122118392883505599",
        "post_id": "1448441201677530_122118392913505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Aos 73 anos, Michael Bolton é chamado por um nome que vale mais do que qualquer Grammy",
@@ -2190,7 +2191,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-2100-ru.jpg"
    },
    "source_key": "post:61576792898556_122130707162893096",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
