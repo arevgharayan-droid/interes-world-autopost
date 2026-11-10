@@ -10,6 +10,7 @@
   "5524aef86b90361cca7b": "2026-11-10T22:03:23+00:00",
   "5a1a23c72fc75013e47d": "2026-10-31T10:14:39+00:00",
   "655ea8557dcca7162d6c": "2026-11-01T14:03:59+00:00",
+  "6dfa0fbc6e60232c2ca8": "2026-11-10T22:06:51+00:00",
   "887a17b48cf1dabf9df6": "2026-10-29T20:16:49+00:00",
   "8f759366031b2b8b0675": "2026-11-01T10:36:39+00:00",
   "97674e3e8b0598bc24b5": "2026-11-09T20:07:40+00:00",
@@ -4693,7 +4694,48 @@
    }
   },
   "2026-11-12 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Left My Newborn Twins With Down Syndrome at the Hospital, But Before I Reached My Car, a Nurse Came Running and Screamed, \"Wait!",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 181,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-12T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/890671894_1458047556429582_7163877032761495315_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oud1mMECr7MQ7kNvwFVkMBJ&_nc_oc=Adq3bMmOq67HKZS3sXRJnchd-7AivMC52mvN8bDkwQ05L6Dxzj7Gewj2aESWbbTP4k0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=XLqET8n7uB7rlnkaqWT_Fg&_nc_tpa=Q5bMBQK4j-JymVvEcfXdFEeogNt-umNvCperDKK8XH8phRy26PwjbU0RKwiL2XjEwFJzhBRG1xNFIbsgSg&oh=00_AQQtF5zWzP91X2lS0enCjVu4_o4hL3oe58noY4d34gcgJg&oe=6AF9722D",
@@ -4705,7 +4747,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-0000-en.jpg"
    },
    "source_key": "post:100066730531753_1458965616337776",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4834,7 +4876,7 @@
    "origin": "manual",
    "page_id": "100066730531753",
    "slot": "2026-11-12 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122102410994536431": {
    "fingerprint": "1a77d3e2c5b7922c89dd",
