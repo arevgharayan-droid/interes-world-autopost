@@ -303,7 +303,7 @@
   "997772916762884_122112786260437662": "2026-11-10T11:07:54+00:00",
   "997772916762884_122112786656437662": "2026-11-10T14:10:11+00:00",
   "997772916762884_122112787010437662": "2026-11-10T17:07:27+00:00",
-  "997772916762884_122112787256437662": "2026-11-09T20:09:20+00:00"
+  "997772916762884_122112787256437662": "2026-11-10T20:07:12+00:00"
  },
  "slots": {
   "2026-10-29 21:00": {
@@ -2957,12 +2957,13 @@
       "1191480207389219": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125080627405175_1014020905054990",
        "error": null,
        "last_attempt": "2026-11-10T00:09:30+04:00",
        "mode": "schedule",
        "photo_id": "122125080597405175",
        "post_id": "1191480207389219_122125080627405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
@@ -2971,7 +2972,7 @@
        "mode": "schedule",
        "photo_id": "122112787226437662",
        "post_id": "997772916762884_122112787256437662",
-       "status": "scheduled"
+       "status": "published"
       }
      },
      "title": "Ho sposato il mio primo amore 45 anni dopo per esaudire il suo ultimo desiderio, ma dopo il funerale suo figlio mi ha consegnato una busta che ha cambiato tutto",
