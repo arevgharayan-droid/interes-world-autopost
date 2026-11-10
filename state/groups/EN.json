@@ -17,7 +17,8 @@
   "b49b03bb1b007b0a80de": "2026-11-09T20:02:56+00:00",
   "cad5cdd2ed73c48ea1dc": "2026-11-09T20:01:56+00:00",
   "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
-  "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00"
+  "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00",
+  "f87c8c178aeaa21eef02": "2026-11-10T22:04:28+00:00"
  },
  "outputs": {
   "1016419758218222_122145316869204972": "2026-10-29T17:25:54+00:00",
@@ -4290,7 +4291,51 @@
    }
   },
   "2026-11-11 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Refused to Host My Sister-in-Law's Birthday for 40 Guests, Then Found a Brown Folder With My Name on It",
+     "warnings": [
+      "длина текста FB 728 слов (исходник 574, цель ±10%)",
+      "длина статьи 1048 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 157,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/896103976_122141985273234406_174307935495147552_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W6pwSh5dBEUQ7kNvwFDpu_o&_nc_oc=AdrqirojlIZyPACnEEm4ZdjU-FC9MGZLCOCK_4Ew0hFMxKriHyDEdzF9vWlOYr0u3VY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=MWdpuhE78HhrRySMFQXQOQ&_nc_tpa=Q5bMBQKPvcAle53mtu7p0cUxN8TWTUDtHZsHLe80-fMINQvHr_tHK_QrDZL9TeLe27NYE5_yaElfO890OQ&oh=00_AQQq_TAX_-AolSEwVmJSD2vopEYOsEjEUordN94Hz0KmnQ&oe=6AF95325",
@@ -4302,7 +4347,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1800-en.jpg"
    },
    "source_key": "post:61587032195586_122141985327234406",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4481,7 +4526,7 @@
    "origin": "manual",
    "page_id": "61587032195586",
    "slot": "2026-11-11 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587324730850_122143561461244157": {
    "fingerprint": "41b0aed5ae696b79ad95",
