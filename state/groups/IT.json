@@ -299,7 +299,7 @@
   "997772916762884_122112767180437662": "2026-11-09T14:10:14+00:00",
   "997772916762884_122112767384437662": "2026-11-09T17:07:37+00:00",
   "997772916762884_122112767648437662": "2026-11-09T20:07:00+00:00",
-  "997772916762884_122112786050437662": "2026-11-09T19:59:35+00:00",
+  "997772916762884_122112786050437662": "2026-11-10T08:08:17+00:00",
   "997772916762884_122112786260437662": "2026-11-09T20:01:08+00:00",
   "997772916762884_122112786656437662": "2026-11-09T20:02:17+00:00",
   "997772916762884_122112787010437662": "2026-11-09T20:08:05+00:00",
@@ -2300,21 +2300,24 @@
       "1191480207389219": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125078797405175_1865249721567511",
        "error": null,
        "last_attempt": "2026-11-09T23:59:47+04:00",
        "mode": "schedule",
        "photo_id": "122125078767405175",
        "post_id": "1191480207389219_122125078797405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112786050437662_1131043906450285",
        "error": null,
        "last_attempt": "2026-11-09T23:59:33+04:00",
        "mode": "schedule",
        "photo_id": "122112786020437662",
        "post_id": "997772916762884_122112786050437662",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Per due ore la bambina ha preso a calci il mio sedile e sua madre mi ha detto «Se ne faccia una ragione»: quando sono andate in bagno, ho messo in atto il mio piano",
@@ -2356,7 +2359,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1200-it.jpg"
    },
    "source_key": "post:61586759032853_122141477115225301",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
