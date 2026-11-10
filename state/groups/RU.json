@@ -3,6 +3,7 @@
  "output_fps": {
   "0475676f7d35cf5ec822": "2026-10-29T20:24:32+00:00",
   "049be09d5ae08dc8389a": "2026-11-09T20:02:09+00:00",
+  "04da7545de52af7eefa9": "2026-11-10T22:04:30+00:00",
   "151eb58f03724b2a8ed0": "2026-11-09T20:03:21+00:00",
   "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
   "30660871dadba458ebbe": "2026-11-09T20:02:09+00:00",
@@ -11,6 +12,7 @@
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
+  "5fe659aaf3f073ce93ab": "2026-11-10T22:04:30+00:00",
   "6a9dc74cd9fef54c67d7": "2026-11-10T22:03:12+00:00",
   "6ad19445c3c2f9ca584e": "2026-11-09T20:00:50+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
@@ -31,6 +33,7 @@
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
   "e19af41ca961271a3c24": "2026-11-01T14:04:10+00:00",
+  "e264befb548c9459d95b": "2026-11-10T22:04:30+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
   "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00"
  },
@@ -2527,7 +2530,65 @@
    }
   },
   "2026-11-11 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Aos 14 anos, meu pai me expulsou e roubou minhas economias. Nove dias depois, um estranho de terno me encontrou no lixo e revelou o que ele escondia sobre meu avô",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 119,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Бездомного подростка, который рылся в мусоре за рестораном, окликнул незнакомец в дорогом костюме и сообщил: его «умерший» дед оставил ему всё",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 117,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "14 Yaşındaki Çocuk Çöp Konteynerinde Yemek Ararken Takım Elbiseli Bir Adam Adını Seslendi: \"Dedenin Ölmediğini Babanın Neden Gizlediğini Öğreneceksin",
+     "warnings": [
+      "длина текста FB 538 слов (исходник 755, цель ±10%)",
+      "длина статьи 520 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 118,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/855062537_122152554189350229_26230297110276495_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jTyMSdz7M98Q7kNvwG_F__e&_nc_oc=Ado2wZIt_kUtzzb2OJPeij-wb2RpkVb1jkRnVbyMIT28nmZpRkSwpFgfACmreohA02E&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KJj2Kc9pr2QVgwiCkTNqsg&_nc_tpa=Q5bMBQIhU-um9D-rdv7qcjWiyNRW0O_rJ_1-13Pd8wAEOX_hBtZucSEoKdhlHdIs-jxSDC6Q2pb-OHkYaw&oh=00_AQRnyM1lRlXuAxntN-Lsc7AdRUH39qCLu3sO2NA7XuhW2A&oe=6AF95211",
@@ -2539,7 +2600,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-1500-ru.jpg"
    },
    "source_key": "post:61590506886446_122152554351350229",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2740,7 +2801,7 @@
    "origin": "manual",
    "page_id": "61590506886446",
    "slot": "2026-11-11 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61593333781016_122122770705444459": {
    "fingerprint": "7323f41399e582be5a4c",

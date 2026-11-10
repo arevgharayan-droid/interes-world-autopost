@@ -4300,7 +4300,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-11-11T02:04:30+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "I Refused to Host My Sister-in-Law's Birthday for 40 Guests, Then Found a Brown Folder With My Name on It",
      "warnings": [
       "длина текста FB 728 слов (исходник 574, цель ±10%)",
