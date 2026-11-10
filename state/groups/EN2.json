@@ -3790,12 +3790,13 @@
       "625664190627160": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122183719388820020_2178423472713691",
        "error": null,
        "last_attempt": "2026-11-10T00:08:05+04:00",
        "mode": "schedule",
        "photo_id": "122183719358820020",
        "post_id": "625664190627160_122183719388820020",
-       "status": "published"
+       "status": "done"
       },
       "648976361631351": {
        "attempts": 1,
