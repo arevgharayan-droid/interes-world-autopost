@@ -1703,3 +1703,5 @@
 {"slot": "2026-11-12 00:00", "lang": "EN", "page": "921611111039858", "action": "fb_schedule", "photo_id": "122143873557200344", "post_id": "921611111039858_122143873587200344", "t": "2026-11-10T22:07:05+00:00", "group": "EN"}
 {"slot": "2026-11-12 00:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-10T22:07:10+00:00", "group": "FR"}
 {"slot": "2026-11-12 00:00", "lang": "FR", "action": "wp_post", "id": 182, "status": "future", "t": "2026-11-10T22:07:11+00:00", "group": "FR"}
+{"slot": "2026-11-12 00:00", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-10T22:07:11+00:00", "group": "IT"}
+{"slot": "2026-11-12 00:00", "lang": "IT", "action": "wp_post", "id": 183, "status": "future", "t": "2026-11-10T22:07:12+00:00", "group": "IT"}
