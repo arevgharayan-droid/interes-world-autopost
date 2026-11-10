@@ -7,8 +7,10 @@
   "12a6e95bcd0629af0097": "2026-11-10T22:02:31+00:00",
   "13db4df12dcefc769231": "2026-11-09T13:24:24+00:00",
   "15be0b388fcdf33795f9": "2026-11-10T22:02:31+00:00",
+  "16dff82487a20e2b89e6": "2026-11-10T22:04:40+00:00",
   "282775455f9afac79cda": "2026-11-10T22:03:35+00:00",
   "3b17ef7d9630be534518": "2026-11-01T18:14:37+00:00",
+  "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
@@ -2093,7 +2095,51 @@
    }
   },
   "2026-11-11 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ich ließ einen Deal über 600 Millionen Dollar platzen, weil meine Ex-Frau kein Geld fürs Essen hatte – als meine Mutter die Wahrheit sah, wurde sie blass",
+     "warnings": []
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Hij kwam uit een deal van 600 miljoen en zag zijn ex-vrouw in een bakkerij om 80 cent verlegen zitten",
+     "warnings": [
+      "длина текста FB 682 слов (исходник 553, цель ±10%)",
+      "длина статьи 964 слов"
+     ]
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-11T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/897151574_122142009789234406_1908418497777032413_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wWBj1Tp49tEQ7kNvwGhS6cp&_nc_oc=Adqn161QdKK3OnoiGxDsbU_wYL873pHLizTV0VEBHLS3GLr12AmMr3q5CFxWES-xweQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0h3lPQHkKA3vVFUHIrQZCA&_nc_tpa=Q5bMBQKCmByDyMW6yMAZ2zlW_Ov5QLen0kBEfc_s3wyGS1-JBfWeJ0vTEm4tjgLZboSdy8jkQyzAIZH31g&oh=00_AQSfNRZRsrYFt9nsQ8mxU8lhJ1UfHuf5zvZm-_99jYfR6g&oe=6AF95806",

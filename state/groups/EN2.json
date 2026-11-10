@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
+  "04d6e76bc141df2ccb55": "2026-11-10T22:04:40+00:00",
   "0802407a599099da93c3": "2026-11-09T13:27:37+00:00",
   "10148b6a82229cc06f82": "2026-11-10T22:03:30+00:00",
   "3015169f17e68b6fd1bf": "2026-11-09T13:24:29+00:00",
@@ -4323,7 +4324,50 @@
    }
   },
   "2026-11-11 18:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Thirteen Years After He Abandoned Me and Our Twin Sons, My Ex Demanded to Know How I Dared Show Up, Until Our Boys Walked On Stage With Gold Medals",
+     "warnings": [
+      "длина текста FB 790 слов (исходник 976, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 158,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/896978841_122124549321447073_1624589888176302699_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jekieYLmSlMQ7kNvwFg51Yz&_nc_oc=Adr4NL2kCYQHxUnAGe9JYp_9rZZXOJ8-NjlzJ1DmSAD34TjsJYHajHrwg5yIfIPNYSY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2gVdvM-HtUx9fvHtWRw8OQ&_nc_tpa=Q5bMBQIPRMvf5dFghAt4YpqjgDZTxJGa_921I7tk2wCr-tX6Xs2TxVTwQpgQ_ZQgrnuotH-o-fRsGTWtQg&oh=00_AQQupJ7KgaLoGGd85Wl4BwqlKhmlVTHiNh76UVq5Pmlp8w&oe=6AF964DD",
@@ -4335,7 +4379,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1800-en2.jpg"
    },
    "source_key": "post:61593412202747_122124549417447073",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4555,7 +4599,7 @@
    "origin": "manual",
    "page_id": "61593412202747",
    "slot": "2026-11-11 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61593721215501_122125242561457373": {
    "fingerprint": "8ab0ac0568bb9dc26faf",
