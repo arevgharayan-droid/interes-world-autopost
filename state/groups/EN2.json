@@ -437,7 +437,7 @@
   "994273113779575_122138232716776189": "2026-11-09T20:07:14+00:00",
   "994273113779575_122138270288776189": "2026-11-10T08:08:24+00:00",
   "994273113779575_122138270750776189": "2026-11-10T11:08:09+00:00",
-  "994273113779575_122138271116776189": "2026-11-09T20:01:54+00:00",
+  "994273113779575_122138271116776189": "2026-11-10T14:10:28+00:00",
   "994273113779575_122138271458776189": "2026-11-09T20:03:04+00:00",
   "994273113779575_122138271794776189": "2026-11-09T20:08:01+00:00"
  },
@@ -3420,21 +3420,24 @@
       "892503027289970": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122142663981219808_1491274342870074",
        "error": null,
        "last_attempt": "2026-11-10T00:02:08+04:00",
        "mode": "schedule",
        "photo_id": "122142663951219808",
        "post_id": "892503027289970_122142663981219808",
-       "status": "published"
+       "status": "done"
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138271116776189_1933382544312653",
        "error": null,
        "last_attempt": "2026-11-10T00:01:51+04:00",
        "mode": "schedule",
        "photo_id": "122138271086776189",
        "post_id": "994273113779575_122138271116776189",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "A Deployed Soldier Got a Call from a Doctor: \"Your 9-Year-Old Says Her Stepmother Broke Her Fingers for Trying to Phone You",
@@ -3481,7 +3484,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1800-en2.jpg"
    },
    "source_key": "post:61593412202747_122123421045447073",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
