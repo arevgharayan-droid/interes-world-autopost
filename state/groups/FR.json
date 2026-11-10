@@ -234,7 +234,7 @@
   "1260826840455724_122128240743441679": "2026-11-10T08:08:02+00:00",
   "1260826840455724_122128241187441679": "2026-11-10T11:07:45+00:00",
   "1260826840455724_122128241853441679": "2026-11-10T14:10:03+00:00",
-  "1260826840455724_122128242399441679": "2026-11-09T20:02:52+00:00",
+  "1260826840455724_122128242399441679": "2026-11-10T17:07:20+00:00",
   "1260826840455724_122128243647441679": "2026-11-09T20:08:04+00:00"
  },
  "slots": {
@@ -2385,12 +2385,14 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128242399441679_2147251259208179",
        "error": null,
        "last_attempt": "2026-11-10T00:02:50+04:00",
        "mode": "schedule",
        "photo_id": "122128242369441679",
        "post_id": "1260826840455724_122128242399441679",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Quelques heures avant d'annoncer mes fiançailles, quatre fillettes sont entrées dans les toilettes du restaurant : elles avaient les yeux de la femme que j'aimais",
@@ -2435,7 +2437,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-fr.jpg"
    },
    "source_key": "post:61576792898556_122130803336893096",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
