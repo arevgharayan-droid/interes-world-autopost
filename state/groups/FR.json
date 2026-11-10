@@ -1941,12 +1941,13 @@
       "1202025962997153": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122121161967409328_1170603262168835",
        "error": null,
        "last_attempt": "2026-11-09T23:59:20+04:00",
        "mode": "schedule",
        "photo_id": "122121161931409328",
        "post_id": "1202025962997153_122121161967409328",
-       "status": "published"
+       "status": "done"
       },
       "1250374694822508": {
        "attempts": 1,
