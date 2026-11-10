@@ -9,6 +9,7 @@
   "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
   "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
+  "84db3c73ebdd880ee5e3": "2026-11-10T22:02:27+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
@@ -3022,7 +3023,48 @@
    }
   },
   "2026-11-11 12:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Io ed Emily abbiamo scelto lo stesso donatore per i nostri bambini, ma il medico ci ha chiesto: «Siete sicure di non essere parenti?",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 137,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/897215791_1708415654010460_7226574939522419984_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YYaHUM3amlIQ7kNvwEHpPLm&_nc_oc=AdopdnKynsiq2SSUvfjQ7l48MgqS8Yo_w6tg5KurumfTDt8_wEwZT0v-jka1FBPhTdc&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=e7yy7QOA1mLN6HYroqXXCA&_nc_tpa=Q5bMBQJr8t-9U1TkJh2pxxq4ZAWa3HwpLIhsxWMZkXWIT5qNz3o9UeMmHN8dgI-JMTmGaQ3tXE-khii_tA&oh=00_AQQw6R5kpUupR-bkHuqe8TZ242oXWBAt0sXT0qvAYdywKg&oe=6AF9536A",
@@ -3034,7 +3076,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1200-it.jpg"
    },
    "source_key": "post:100045261260562_1708415680677124",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3175,7 +3217,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-11 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100092328442705_1078152595272345": {
    "fingerprint": "364e0f21d006d36fc581",
