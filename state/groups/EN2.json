@@ -10,6 +10,7 @@
   "54f4ed5345b19326f5b3": "2026-11-09T20:02:52+00:00",
   "639e26827f29271e89c3": "2026-11-09T19:59:07+00:00",
   "64cee77292ce0f9e523e": "2026-11-10T22:02:16+00:00",
+  "77874addb91478399153": "2026-11-10T22:06:03+00:00",
   "86822eab2c3504add2f2": "2026-11-09T13:26:02+00:00",
   "90f752e134f7f161178f": "2026-11-01T14:03:51+00:00",
   "96662a0e4435c54bf499": "2026-10-31T10:14:42+00:00",
@@ -4532,7 +4533,48 @@
    }
   },
   "2026-11-11 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Millionaire Ex Used My Son's Stained Shirt to Take Him Away, Until Our 8-Year-Old Stood Up and Lifted It in Court",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 172,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-11T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/892559783_1706065437578815_7821961973004621803_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5wRYt4oAD38Q7kNvwFLuOOF&_nc_oc=AdpcBxUTSmkr8BxBORzPTWdZi5dxjJxGftF-YjtYaP-8-rtsxODTsPEMuvMnHOPXGro&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=uVJJ_bgZhEJ-vIziCgOxFQ&_nc_tpa=Q5bMBQKpI_N7QVpRqN-SZJl1GBlPZWs8iPA4zeifbZh4a1t8Yfxy11GBlRNd2wo4J4hKOvTZLAAt4v8UiA&oh=00_AQShjAG_utQHKESpGctuaJ1vHHq4bMgYWPpM3o1TCXbdDA&oe=6AF97533",
@@ -4544,7 +4586,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-2100-en2.jpg"
    },
    "source_key": "post:100045261260562_1706066414245384",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4662,7 +4704,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-11 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1710674163784609": {
    "fingerprint": "e3175e95653e8ec4666b",
