@@ -2640,12 +2640,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112786656437662_29050701611264074",
        "error": null,
        "last_attempt": "2026-11-10T00:02:15+04:00",
        "mode": "schedule",
        "photo_id": "122112786626437662",
        "post_id": "997772916762884_122112786656437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Per undici anni ho creduto che mio marito salvasse vite in ospedale, ma quel martedì il suo collega è sbiancato e ha detto: «Owen non ti ha detto niente?",
@@ -2686,7 +2687,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1800-it.jpg"
    },
    "source_key": "post:61593412202747_122124401043447073",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
