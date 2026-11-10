@@ -3049,9 +3049,17 @@
  },
  "source_cutoff": "2026-10-29T16:36:25+00:00",
  "sources": {
+  "link:1151e9df87dad7647350": {
+   "link": "https://www.facebook.com/share/p/18TYMGMswu/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1450160977218240&id=100066730531753"
+  },
   "link:11557777ed2e7e5368fa": {
    "link": "https://www.facebook.com/share/p/1FZUADaT5a/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1654999892663298&id=100044599086455"
+  },
+  "link:2d2e0eebdad45758246b": {
+   "link": "https://www.facebook.com/share/p/18de8q2K3z/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1662788041891277&id=100044802900629"
   },
   "link:44b5ab26dee8ff2cdc7c": {
    "link": "https://www.facebook.com/share/p/1Cca2o9F6f/",
@@ -3061,13 +3069,25 @@
    "link": "https://www.facebook.com/share/p/1CJNoNzdfY/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122124401043447073&id=61593412202747"
   },
+  "link:5c33073fa391ab7bf9e7": {
+   "link": "https://www.facebook.com/share/p/1CAbg3ZHvn/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1708415680677124&id=100045261260562"
+  },
   "link:6266f7f1c923540de30f": {
    "link": "https://www.facebook.com/share/p/1KNyEpnxag/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122145778227178982&id=61585369480106"
   },
+  "link:7c01ae6726cba7fb0938": {
+   "link": "https://www.facebook.com/share/p/1UY9LEzHXQ/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122141597781234406&id=61587032195586"
+  },
   "link:8d7282a1be7ebfab7443": {
    "link": "https://www.facebook.com/share/p/154dyHtpHLG/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122150034885348565&id=61590456964686"
+  },
+  "link:ace605e62034c42ff87a": {
+   "link": "https://www.facebook.com/share/p/1FAmb3vR2h/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122153490723350229&id=61590506886446"
   },
   "link:c40dc0ab960045b040fe": {
    "link": "https://www.facebook.com/share/p/1DTVGjCVAQ/",

@@ -1881,6 +1881,22 @@
  },
  "source_cutoff": "2026-10-29T16:39:48+00:00",
  "sources": {
+  "link:06ae1461e7dee953daa5": {
+   "link": "https://www.facebook.com/share/p/1HyUsvbdEW/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122141365077234406&id=61587032195586"
+  },
+  "link:397601c5cb45bd375d4c": {
+   "link": "https://www.facebook.com/share/p/1F7UJmfCM9/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122130695810893096&id=61576792898556"
+  },
+  "link:3b471f96d5cc3d644549": {
+   "link": "https://www.facebook.com/share/p/1FwBkJ6oyp/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122142009807234406&id=61587032195586"
+  },
+  "link:5c33073fa391ab7bf9e7": {
+   "link": "https://www.facebook.com/share/p/1CAbg3ZHvn/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1708415680677124&id=100045261260562"
+  },
   "link:616b7671489e3996f068": {
    "link": "https://www.facebook.com/share/p/1L9zpubwMv/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122121657273444459&id=61593333781016"
@@ -1912,6 +1928,10 @@
   "link:c330ef23fa76de6dbfed": {
    "link": "https://www.facebook.com/share/p/1ZKeA1fh2S/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122139776786778984&id=61573369523860"
+  },
+  "link:c6d8f0e54e0b56bf1148": {
+   "link": "https://www.facebook.com/share/p/1M7vsrvPM9/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1123799307066684&id=100083098754330"
   },
   "link:e9b4926da6d66e6f6dd2": {
    "link": "https://www.facebook.com/share/p/1CWWRnyJUL/",

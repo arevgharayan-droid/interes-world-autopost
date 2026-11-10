@@ -3934,6 +3934,14 @@
  },
  "source_cutoff": "2026-10-29T16:38:32+00:00",
  "sources": {
+  "link:051648a90cac0bbd9eb4": {
+   "link": "https://www.facebook.com/share/p/1E6nBKDPNr/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1710674163784609&id=100045261260562"
+  },
+  "link:2fe730ef97286d6001d0": {
+   "link": "https://www.facebook.com/share/p/1H32MP7xR2/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122145142785350229&id=61590506886446"
+  },
   "link:32351889019eb29ee085": {
    "link": "https://www.facebook.com/share/p/1DTghKt42J/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122143953849210709&id=61586321290305"
@@ -3942,6 +3950,10 @@
    "link": "https://www.facebook.com/share/p/19S9QPWYDp/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122130738032893096&id=61576792898556"
   },
+  "link:55832bf0fbd11899fbf3": {
+   "link": "https://www.facebook.com/share/p/1CDgarDTED/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1706066414245384&id=100045261260562"
+  },
   "link:624688cd776a78b574a0": {
    "link": "https://www.facebook.com/share/p/1Gz15B4yyy/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122141685909225301&id=61586759032853"
@@ -3949,6 +3961,10 @@
   "link:6248c920012f1bdb9295": {
    "link": "https://www.facebook.com/share/p/1DWTcPCFSy/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122122669659444459&id=61593333781016"
+  },
+  "link:62d8fdcdd73fe2da9028": {
+   "link": "https://www.facebook.com/share/p/1FFqm2QmgG/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1458749583026046&id=100066730531753"
   },
   "link:6e0cedba874d6a3627c7": {
    "link": "https://www.facebook.com/share/p/14ubzzTD7h7/",
@@ -3969,6 +3985,10 @@
   "link:972f17872c73014169f0": {
    "link": "https://www.facebook.com/share/p/1bW2oFG9au/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122144532279170333&id=61585110014040"
+  },
+  "link:a6c2da0a48ded3d21529": {
+   "link": "https://www.facebook.com/share/p/1JPmUuyguo/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122124549417447073&id=61593412202747"
   },
   "link:bbb2818b76cf705281a1": {
    "link": "https://www.facebook.com/share/p/18hKHvx3ZX/",
