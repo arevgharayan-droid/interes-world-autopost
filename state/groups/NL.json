@@ -2003,7 +2003,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "633031599904551": {
+       "attempts": 1,
+       "last_attempt": "2026-11-11T02:03:37+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Ik kwam thuis van een zakenreis en zag mijn dochter in een bebloede pyjama, mijn vrouw glimlachte, maar de buurvrouw werd lijkbleek",
      "warnings": [
       "длина текста FB 600 слов (исходник 486, цель ±10%)",
