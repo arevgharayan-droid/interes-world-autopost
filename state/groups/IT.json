@@ -3676,7 +3676,23 @@
   "2026-11-12 00:00": {
    "langs": {},
    "slot_iso": "2026-11-12T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/870286626_1449304267303911_8131396768782745790_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JbFDV9gBYboQ7kNvwELe_CS&_nc_oc=AdqMCzQTtdBPedhZnkW24YCzjRVbdyJHTP0s3noYkGkLLnpSuGKRHiHOKC196B5M9ko&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=rBPHIKwJlKE06spB9enCSg&_nc_tpa=Q5bMBQKgDlQsFi5AI4BLBSI8OMNfyXKAUbqa90vG-G5qG-rCe6lK0xJxPfR5MuZHbqfohm9009BXvu4IZw&oh=00_AQSrSXSQNHaV6j_W_2XGIrdP6ml9wM5WvP7Z_6GWG_jNYQ&oe=6AF94EF8",
+    "link": "https://www.facebook.com/share/p/18TYMGMswu/",
+    "origin": "manual",
+    "page_id": "100066730531753",
+    "text": "😱J’ai épousé ma patiente en sachant qu’il ne lui restait que trois jours à vivre… Après ses funérailles, sa sœur m’a remis une boîte renfermant un secret bouleversant\n\nJ’ai épousé ma patiente alors que je savais qu’il ne lui restait que trois jours à vivre. Après ses funérailles, sa sœur s’est approchée de moi avec une boîte et m’a dit : « Elle m’a demandé de ne te remettre ceci qu’après son départ. »\n\nJe m’appelle Lucas, j’ai 30 ans et, depuis toujours, mon plus grand rêve était de devenir médecin.\n\nMes parents n’avaient pas les moyens de financer entièrement mes études. J’ai donc passé des années à étudier toute la semaine et à travailler chaque week-end pour payer mes factures.\n\nC’est à cette époque que j’ai rencontré Alicia.\n\nElle avait 18 ans, elle était magnifique et, d’une manière inexplicable, c’était aussi la personne la plus drôle de tout le service.\n\nMême lorsque les traitements la laissaient épuisée, elle trouvait toujours le moyen de plaisanter avec les infirmières, de se moquer de mon air trop sérieux ou de me raconter une nouvelle histoire complètement absurde dès que je franchissais la porte de sa chambre.\n\n« Docteur Lucas, vous savez que sourire ne coûte rien, n’est-ce pas ? »\n\nJe levais les yeux au ciel.\n\nElle éclatait de rire.\n\nPuis un jour, nous avons appris que le traitement ne fonctionnait plus.\n\nLes médecins avaient tout essayé. Il n’y avait désormais plus rien à faire, et les jours d’Alicia étaient comptés.\n\nUn peu plus tard, elle m’a regardé droit dans les yeux et m’a dit :\n\n« J’ai un dernier souhait. »\n\n« Lequel ? »\n\n« Je veux t’épouser. »\n\nSur le moment, j’ai cru qu’elle plaisantait.\n\nElle m’a adressé un faible sourire.\n\n« Allez, voyons ! Je ne veux quand même pas arriver au paradis sans avoir été mariée. »\n\nLe lendemain, nous avons organisé le plus petit mariage imaginable, directement à l’hôpital.\n\nJ’avais remplacé ma blouse et mon stéthoscope par une simple cravate.\n\nUne infirmière avait tressé de fines bandes de pansement propre pour en faire deux alliances improvisées.\n\nAlicia portait un doux foulard blanc sur sa tête chauve, comme un voile de mariée.\n\nSa sœur avait apporté des fleurs.\n\nEt tout au long de la cérémonie, Alicia n’avait cessé de sourire.\n\nDeux jours plus tard, elle nous a quittés.\n\nAprès les funérailles, je suis resté près de ma voiture, incapable de réaliser tout ce qui venait de se passer. J’avais l’impression de vivre un cauchemar dont je ne parvenais pas à me réveiller.\n\nC’est alors que la sœur d’Alicia s’est précipitée vers moi, une petite boîte entre les mains.\n\n« Elle m’a demandé de ne te remettre ceci qu’après son départ. »\n\nJe l’ai prise sans savoir quoi dire.\n\nSur le couvercle, mon prénom était inscrit de la main d’Alicia.\n\nJ’ai soulevé le couvercle.\n\nLa première chose que j’ai aperçue à l’intérieur m’a coupé le souffle...\n\nRetrouvez l’histoire complète dans le premier commentaire 👇👇",
+    "wp_media_id": 179,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-0000-it.jpg"
+   },
+   "source_key": "post:100066730531753_1450160977218240",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-10-29T16:36:25+00:00",
@@ -3800,6 +3816,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-11 12:00",
    "status": "used"
+  },
+  "post:100066730531753_1450160977218240": {
+   "fingerprint": "68ee500f66d9ec24283c",
+   "link": "https://www.facebook.com/share/p/18TYMGMswu/",
+   "origin": "manual",
+   "page_id": "100066730531753",
+   "slot": "2026-11-12 00:00",
+   "status": "reserved"
   },
   "post:100092328442705_1078152595272345": {
    "fingerprint": "364e0f21d006d36fc581",
