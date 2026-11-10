@@ -3366,7 +3366,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-11T02:04:55+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Mia figlia ha chiesto al capo più temuto dell'azienda di diventare il suo papà, e il suo sorriso è svanito nel mezzo dell'ufficio",
      "warnings": [],
      "wp_error": null,
