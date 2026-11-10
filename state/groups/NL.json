@@ -2362,7 +2362,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "633031599904551": {
+       "attempts": 1,
+       "last_attempt": "2026-11-11T02:06:35+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Ik trouwde met een oudere weduwe voor haar geld, maar na haar uitvaart legde haar advocaat een oude naaimachine en een brief voor me neer",
      "warnings": [
       "длина текста FB 714 слов (исходник 868, цель ±10%)"
