@@ -3637,12 +3637,14 @@
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138271458776189_2017711225585151",
        "error": null,
        "last_attempt": "2026-11-10T00:03:02+04:00",
        "mode": "schedule",
        "photo_id": "122138271428776189",
        "post_id": "994273113779575_122138271458776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Daughter Ran Into a Homeless Woman's Arms in the Rain and Called Her Mommy, but My Wife Had Been Dead for Three Years",
@@ -3689,7 +3691,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-en2.jpg"
    },
    "source_key": "post:61576792898556_122130738032893096",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
