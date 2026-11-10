@@ -2968,12 +2968,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112787256437662_989910553639501",
        "error": null,
        "last_attempt": "2026-11-10T00:09:17+04:00",
        "mode": "schedule",
        "photo_id": "122112787226437662",
        "post_id": "997772916762884_122112787256437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ho sposato il mio primo amore 45 anni dopo per esaudire il suo ultimo desiderio, ma dopo il funerale suo figlio mi ha consegnato una busta che ha cambiato tutto",
@@ -3012,7 +3013,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-0000-it.jpg"
    },
    "source_key": "post:100044802900629_1665048941665187",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
