@@ -249,7 +249,7 @@
   "1448441201677530_122118392913505599": "2026-11-10T17:07:23+00:00",
   "1448441201677530_122118393861505599": "2026-11-10T20:07:05+00:00",
   "1448441201677530_122118763755505599": "2026-11-11T08:07:13+00:00",
-  "1448441201677530_122118764415505599": "2026-11-10T22:04:51+00:00",
+  "1448441201677530_122118764415505599": "2026-11-11T11:14:44+00:00",
   "1448441201677530_122118764841505599": "2026-11-10T22:06:18+00:00",
   "1448441201677530_122118765399505599": "2026-11-10T22:07:50+00:00",
   "1448441201677530_122118766011505599": "2026-11-10T22:09:19+00:00",
@@ -2641,21 +2641,24 @@
       "1338630212673029": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122115604707471857_1829954804821754",
        "error": null,
        "last_attempt": "2026-11-11T02:04:51+04:00",
        "mode": "schedule",
        "photo_id": "122115604677471857",
        "post_id": "1338630212673029_122115604707471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118764415505599_1795436811681304",
        "error": null,
        "last_attempt": "2026-11-11T02:04:49+04:00",
        "mode": "schedule",
        "photo_id": "122118764385505599",
        "post_id": "1448441201677530_122118764415505599",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Aos 14 anos, meu pai me expulsou e roubou minhas economias. Nove dias depois, um estranho de terno me encontrou no lixo e revelou o que ele escondia sobre meu avô",
@@ -2762,7 +2765,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-1500-ru.jpg"
    },
    "source_key": "post:61590506886446_122152554351350229",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
