@@ -2728,12 +2728,13 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122126492937307134_1113765481500958",
        "error": null,
        "last_attempt": "2026-11-11T02:04:46+04:00",
        "mode": "schedule",
        "photo_id": "122126492907307134",
        "post_id": "1164575726728296_122126492937307134",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "14 Yaşındaki Çocuk Çöp Konteynerinde Yemek Ararken Takım Elbiseli Bir Adam Adını Seslendi: \"Dedenin Ölmediğini Babanın Neden Gizlediğini Öğreneceksin",
