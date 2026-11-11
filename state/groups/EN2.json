@@ -4812,12 +4812,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122138444540776189_1699144718502350",
        "error": null,
        "last_attempt": "2026-11-11T02:06:12+04:00",
        "mode": "schedule",
        "photo_id": "122138444510776189",
        "post_id": "994273113779575_122138444540776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Millionaire Ex Used My Son's Stained Shirt to Take Him Away, Until Our 8-Year-Old Stood Up and Lifted It in Court",
@@ -4864,7 +4865,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-2100-en2.jpg"
    },
    "source_key": "post:100045261260562_1706066414245384",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
