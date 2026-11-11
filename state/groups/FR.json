@@ -3024,12 +3024,13 @@
       "1250374694822508": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122123212365415639_1170357262197119",
        "error": null,
        "last_attempt": "2026-11-11T02:05:04+04:00",
        "mode": "schedule",
        "photo_id": "122123212335415639",
        "post_id": "1250374694822508_122123212365415639",
-       "status": "published"
+       "status": "done"
       },
       "1260826840455724": {
        "attempts": 1,
