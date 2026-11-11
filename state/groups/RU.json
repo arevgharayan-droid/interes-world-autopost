@@ -3142,12 +3142,13 @@
       "1448441201677530": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122118766011505599_1418639840054267",
        "error": null,
        "last_attempt": "2026-11-11T02:09:15+04:00",
        "mode": "schedule",
        "photo_id": "122118765969505599",
        "post_id": "1448441201677530_122118766011505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Meu filho de 13 anos vendeu a guitarra que mais amava para comprar uma cadeira de rodas para uma colega — na manhã seguinte, dois policiais bateram à nossa porta",
@@ -3255,7 +3256,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261112-0000-ru.jpg"
    },
    "source_key": "post:100066730531753_1449183097316028",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
