@@ -4151,12 +4151,13 @@
       "975714512286925": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122149445121209153_2282833205900333",
        "error": null,
        "last_attempt": "2026-11-11T02:02:39+04:00",
        "mode": "schedule",
        "photo_id": "122149445091209153",
        "post_id": "975714512286925_122149445121209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Twenty-Seven Minutes After My C-Section, My Mother-in-Law Ordered Me to Cook Dinner, and One Phone Call to Dad Changed Everything",
@@ -4205,7 +4206,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1200-en.jpg"
    },
    "source_key": "post:100045261260562_1710718950446797",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4915,6 +4916,11 @@
     "url": "https://hetaqrqir.com",
     "wp_auth": "make_connector"
    }
+  },
+  "2026-11-12 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-12T12:00:00+04:00",
+   "status": "no_source"
   }
  },
  "source_cutoff": "2026-10-29T16:37:24+00:00",
