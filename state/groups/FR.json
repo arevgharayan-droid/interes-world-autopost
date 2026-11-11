@@ -2891,12 +2891,13 @@
       "1260826840455724": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128427283441679_1444723877816222",
        "error": null,
        "last_attempt": "2026-11-11T02:03:59+04:00",
        "mode": "schedule",
        "photo_id": "122128427253441679",
        "post_id": "1260826840455724_122128427283441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Deux voitures de police devant chez nous après que mon fils de 12 ans a tondu gratuitement la pelouse d'une dame âgée",
@@ -2942,7 +2943,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1500-fr.jpg"
    },
    "source_key": "post:61590506886446_122151177831350229",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
