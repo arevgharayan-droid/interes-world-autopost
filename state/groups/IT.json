@@ -394,7 +394,7 @@
   "997772916762884_122112786656437662": "2026-11-10T14:10:11+00:00",
   "997772916762884_122112787010437662": "2026-11-10T17:07:27+00:00",
   "997772916762884_122112787256437662": "2026-11-10T20:07:12+00:00",
-  "997772916762884_122112843098437662": "2026-11-10T22:02:37+00:00",
+  "997772916762884_122112843098437662": "2026-11-11T08:07:21+00:00",
   "997772916762884_122112843332437662": "2026-11-10T22:03:47+00:00",
   "997772916762884_122112843530437662": "2026-11-10T22:05:02+00:00",
   "997772916762884_122112843758437662": "2026-11-10T22:06:17+00:00",
@@ -3215,21 +3215,24 @@
       "1191480207389219": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125206297405175_1441798954778288",
        "error": null,
        "last_attempt": "2026-11-11T02:02:49+04:00",
        "mode": "schedule",
        "photo_id": "122125206267405175",
        "post_id": "1191480207389219_122125206297405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112843098437662_1022783524192048",
        "error": null,
        "last_attempt": "2026-11-11T02:02:34+04:00",
        "mode": "schedule",
        "photo_id": "122112843068437662",
        "post_id": "997772916762884_122112843098437662",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Io ed Emily abbiamo scelto lo stesso donatore per i nostri bambini, ma il medico ci ha chiesto: «Siete sicure di non essere parenti?",
@@ -3268,7 +3271,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1200-it.jpg"
    },
    "source_key": "post:100045261260562_1708415680677124",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
