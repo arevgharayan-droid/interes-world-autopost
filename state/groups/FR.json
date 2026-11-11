@@ -3321,12 +3321,13 @@
       "1260826840455724": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128428345441679_2264507791141989",
        "error": null,
        "last_attempt": "2026-11-11T02:07:27+04:00",
        "mode": "schedule",
        "photo_id": "122128428315441679",
        "post_id": "1260826840455724_122128428345441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Elle a surpris son mari en train d'embrasser une autre femme au port, avec leurs jumelles de 3 mois dans les bras, et sa réaction l'a laissé sans voix",
@@ -3369,7 +3370,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-0000-fr.jpg"
    },
    "source_key": "post:100066730531753_1451741083726896",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
