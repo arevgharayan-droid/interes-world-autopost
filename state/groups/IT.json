@@ -3878,12 +3878,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112844010437662_1481776283848088",
        "error": null,
        "last_attempt": "2026-11-11T02:07:18+04:00",
        "mode": "schedule",
        "photo_id": "122112843974437662",
        "post_id": "997772916762884_122112844010437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ho sposato la mia paziente sapendo che le restavano tre giorni di vita: dopo il funerale, sua sorella mi ha consegnato una scatola con un segreto che mi ha spezzato il cuore",
@@ -3922,7 +3923,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-0000-it.jpg"
    },
    "source_key": "post:100066730531753_1450160977218240",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
