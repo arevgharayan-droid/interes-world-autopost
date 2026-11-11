@@ -2978,12 +2978,13 @@
       "1448441201677530": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122118765399505599_2194086428130953",
        "error": null,
        "last_attempt": "2026-11-11T02:07:47+04:00",
        "mode": "schedule",
        "photo_id": "122118765369505599",
        "post_id": "1448441201677530_122118765399505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "O motorista fechou as portas na minha frente e partiu com minha filha de 9 anos dentro do ônibus, mas havia algo atrás de mim que eu não tinha visto",
@@ -3092,7 +3093,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-2100-ru.jpg"
    },
    "source_key": "post:100044802900629_1660558355447579",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",

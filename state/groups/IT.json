@@ -397,7 +397,7 @@
   "997772916762884_122112843098437662": "2026-11-11T08:07:21+00:00",
   "997772916762884_122112843332437662": "2026-11-11T11:14:48+00:00",
   "997772916762884_122112843530437662": "2026-11-11T14:08:51+00:00",
-  "997772916762884_122112843758437662": "2026-11-10T22:06:17+00:00",
+  "997772916762884_122112843758437662": "2026-11-11T17:07:22+00:00",
   "997772916762884_122112844010437662": "2026-11-10T22:07:21+00:00"
  },
  "slots": {
@@ -3704,21 +3704,23 @@
       "1191480207389219": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125207023405175_1714202433463076",
        "error": null,
        "last_attempt": "2026-11-11T02:06:29+04:00",
        "mode": "schedule",
        "photo_id": "122125206993405175",
        "post_id": "1191480207389219_122125207023405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-11T02:06:14+04:00",
        "mode": "schedule",
        "photo_id": "122112843728437662",
        "post_id": "997772916762884_122112843758437662",
-       "status": "scheduled"
+       "status": "published"
       }
      },
      "title": "Cinque minuti dopo il divorzio mi disse \"Prenditi le bambine, aspetto un figlio maschio\": poche ore dopo, una domanda del medico gelò tutta la sua famiglia",
