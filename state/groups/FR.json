@@ -3035,12 +3035,13 @@
       "1260826840455724": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128427619441679_2385819941825076",
        "error": null,
        "last_attempt": "2026-11-11T02:05:14+04:00",
        "mode": "schedule",
        "photo_id": "122128427589441679",
        "post_id": "1260826840455724_122128427619441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Elle roulait trop vite, mais après le contrôle des papiers, le policier m'a demandé de sortir, et son sourire a disparu",
@@ -3085,7 +3086,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1800-fr.jpg"
    },
    "source_key": "post:61587032195586_122141556543234406",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
