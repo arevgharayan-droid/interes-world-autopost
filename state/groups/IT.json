@@ -398,7 +398,7 @@
   "997772916762884_122112843332437662": "2026-11-11T11:14:48+00:00",
   "997772916762884_122112843530437662": "2026-11-11T14:08:51+00:00",
   "997772916762884_122112843758437662": "2026-11-11T17:07:22+00:00",
-  "997772916762884_122112844010437662": "2026-11-10T22:07:21+00:00"
+  "997772916762884_122112844010437662": "2026-11-11T20:06:40+00:00"
  },
  "slots": {
   "2026-10-29 21:00": {
@@ -3867,21 +3867,23 @@
       "1191480207389219": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125207335405175_1489163489766507",
        "error": null,
        "last_attempt": "2026-11-11T02:07:30+04:00",
        "mode": "schedule",
        "photo_id": "122125207305405175",
        "post_id": "1191480207389219_122125207335405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-11T02:07:18+04:00",
        "mode": "schedule",
        "photo_id": "122112843974437662",
        "post_id": "997772916762884_122112844010437662",
-       "status": "scheduled"
+       "status": "published"
       }
      },
      "title": "Ho sposato la mia paziente sapendo che le restavano tre giorni di vita: dopo il funerale, sua sorella mi ha consegnato una scatola con un segreto che mi ha spezzato il cuore",
