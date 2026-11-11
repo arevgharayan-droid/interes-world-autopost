@@ -3389,12 +3389,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112843332437662_1126430713530011",
        "error": null,
        "last_attempt": "2026-11-11T02:03:44+04:00",
        "mode": "schedule",
        "photo_id": "122112843302437662",
        "post_id": "997772916762884_122112843332437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Salva una donna in strada e arriva tardi al lavoro: a 10 anni viene licenziato davanti a tutti, ma il giorno dopo qualcuno lo aspetta",
@@ -3433,7 +3434,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1500-it.jpg"
    },
    "source_key": "post:61590506886446_122153490723350229",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
