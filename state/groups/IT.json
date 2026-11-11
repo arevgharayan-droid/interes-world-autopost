@@ -396,7 +396,7 @@
   "997772916762884_122112787256437662": "2026-11-10T20:07:12+00:00",
   "997772916762884_122112843098437662": "2026-11-11T08:07:21+00:00",
   "997772916762884_122112843332437662": "2026-11-11T11:14:48+00:00",
-  "997772916762884_122112843530437662": "2026-11-10T22:05:02+00:00",
+  "997772916762884_122112843530437662": "2026-11-11T14:08:51+00:00",
   "997772916762884_122112843758437662": "2026-11-10T22:06:17+00:00",
   "997772916762884_122112844010437662": "2026-11-10T22:07:21+00:00"
  },
@@ -3541,21 +3541,24 @@
       "1191480207389219": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125206801405175_1482615623717930",
        "error": null,
        "last_attempt": "2026-11-11T02:05:11+04:00",
        "mode": "schedule",
        "photo_id": "122125206771405175",
        "post_id": "1191480207389219_122125206801405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112843530437662_1126725186437864",
        "error": null,
        "last_attempt": "2026-11-11T02:05:00+04:00",
        "mode": "schedule",
        "photo_id": "122112843500437662",
        "post_id": "997772916762884_122112843530437662",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Mia figlia ha chiesto al capo più temuto dell'azienda di diventare il suo papà, e il suo sorriso è svanito nel mezzo dell'ufficio",
@@ -3594,7 +3597,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1800-it.jpg"
    },
    "source_key": "post:61587032195586_122141597781234406",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
