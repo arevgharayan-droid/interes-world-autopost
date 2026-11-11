@@ -248,7 +248,7 @@
   "1448441201677530_122118392127505599": "2026-11-10T14:10:04+00:00",
   "1448441201677530_122118392913505599": "2026-11-10T17:07:23+00:00",
   "1448441201677530_122118393861505599": "2026-11-10T20:07:05+00:00",
-  "1448441201677530_122118763755505599": "2026-11-10T22:03:35+00:00",
+  "1448441201677530_122118763755505599": "2026-11-11T08:07:13+00:00",
   "1448441201677530_122118764415505599": "2026-11-10T22:04:51+00:00",
   "1448441201677530_122118764841505599": "2026-11-10T22:06:18+00:00",
   "1448441201677530_122118765399505599": "2026-11-10T22:07:50+00:00",
@@ -2478,21 +2478,24 @@
       "1338630212673029": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122115603981471857_897571563365948",
        "error": null,
        "last_attempt": "2026-11-11T02:03:35+04:00",
        "mode": "schedule",
        "photo_id": "122115603945471857",
        "post_id": "1338630212673029_122115603981471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118763755505599_1156324723580939",
        "error": null,
        "last_attempt": "2026-11-11T02:03:32+04:00",
        "mode": "schedule",
        "photo_id": "122118763719505599",
        "post_id": "1448441201677530_122118763755505599",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Ela deixou a mãe de 82 anos congelando em casa, mas no domingo de Páscoa chegou com uma caixa e uma lata de café que calaram a família inteira",
@@ -2600,7 +2603,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-1200-ru.jpg"
    },
    "source_key": "post:100045261260562_1709005990618093",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
