@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
   "04468dcabed0743dca47": "2026-11-10T22:08:57+00:00",
+  "0474e7d1c3adb78e01d1": "2026-11-12T20:02:43+00:00",
   "0475676f7d35cf5ec822": "2026-10-29T20:24:32+00:00",
   "049be09d5ae08dc8389a": "2026-11-09T20:02:09+00:00",
   "04da7545de52af7eefa9": "2026-11-10T22:04:30+00:00",
@@ -12,6 +13,7 @@
   "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
   "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
   "30660871dadba458ebbe": "2026-11-09T20:02:09+00:00",
+  "33582b0afea138144804": "2026-11-12T20:02:43+00:00",
   "34f5d1ae4690346695c5": "2026-11-12T17:48:06+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
@@ -19,6 +21,7 @@
   "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
+  "5b204109299ad4dcd429": "2026-11-12T20:02:43+00:00",
   "5d014620f15f95df1195": "2026-11-10T22:05:49+00:00",
   "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
   "5fe659aaf3f073ce93ab": "2026-11-10T22:04:30+00:00",
@@ -3771,7 +3774,65 @@
    }
   },
   "2026-11-13 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Aos 6 anos prometi ir ao baile com meu melhor amigo, mas na noite do baile minha mãe trancou a porta e revelou um segredo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 171,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я обещала лучшему другу пойти с ним на выпускной, а в тот самый вечер мама заперла мою дверь и назвала одно условие",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 169,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Balo gecesi annem odamın kapısını kilitledi: Noah'la gitmem için tek bir şartı vardı",
+     "warnings": [
+      "длина текста FB 582 слов (исходник 788, цель ±10%)",
+      "длина статьи 566 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 170,
+     "wp_status": "publish"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/893314343_122130758798893096_8174679336900274044_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=V4yc2eQJWaQQ7kNvwENB3Pz&_nc_oc=AdpwLLGckR2uJ_sOOP7AuwTYKlNsXyV-wXkJFY2aT1llop21UAhrpzo56e-d5avhLj0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=E659lMEXD5yHoV-4DminFA&_nc_tpa=Q5bMBQKfkspV2lBwhpi-lTDKM0y0Ca8mm3DwLl4kcN5yNbT2eDt-pLBrupGuo_moLFc8gt5uClUObWrPCA&oh=00_AQRO6F2Kq-8kdTIvkAj_QP9pEToRVOMp0kJIPW5lOy33mg&oe=6AFBE15A",
@@ -3783,7 +3844,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-0000-ru-1.jpg"
    },
    "source_key": "post:61576792898556_122130758852893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4012,7 +4073,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-13 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122143810737210709": {
    "fingerprint": "5b16116dc7df14500fc7",
