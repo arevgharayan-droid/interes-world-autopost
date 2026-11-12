@@ -3635,12 +3635,13 @@
       "1338630212673029": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122116336017471857_1143054768656362",
        "error": null,
        "last_attempt": "2026-11-12T21:55:18+04:00",
        "mode": "immediate",
        "photo_id": "122116335975471857",
        "post_id": "1338630212673029_122116336017471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
@@ -3761,13 +3762,18 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-0000-ru.jpg"
    },
    "source_key": "post:100045261260562_1713109740207718",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
     "url": "https://peakproductions.co",
     "wp_auth": "make_connector"
    }
+  },
+  "2026-11-13 00:00": {
+   "langs": {},
+   "slot_iso": "2026-11-13T00:00:00+04:00",
+   "status": "no_source"
   },
   "2026-11-13 12:00": {
    "langs": {},
