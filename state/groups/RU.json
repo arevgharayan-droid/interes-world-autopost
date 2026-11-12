@@ -3509,7 +3509,9 @@
      "pages": {},
      "title": "Minha irmã me humilhou diante de 400 convidados no seu gala, até o homem mais esperado da noite passar direto por ela e me perguntar: \"Querida, você está pronta para ir embora?",
      "warnings": [],
-     "wp_status": "publish"
+     "wp_error": null,
+     "wp_id": 157,
+     "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
@@ -3535,10 +3537,12 @@
       "длина текста FB 438 слов (исходник 776, цель ±10%)",
       "длина статьи 597 слов"
      ],
-     "wp_status": "publish"
+     "wp_error": null,
+     "wp_id": 156,
+     "wp_status": "future"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/897251463_122109777411521979_5054926246481478911_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NQtJf0s4-DEQ7kNvwE0OXtH&_nc_oc=AdoNBdLgoztOLhAeIwzt60att-ZUWW5--Q3CNGE9vqkHwEgut6wu4axFlPz8CuTLQfA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6NakhzXSEBIsTFNiwz-_sA&_nc_tpa=Q5bMBQJ_AWRc9IvnYqYccF9cT8712WUStHRHUv7lC_enaLWL6xI2AAbWqfBW4taO2382THLx0MNgoAeGcw&oh=00_AQSMaE1qBY0eK8JqHGTA3IeId1qXjy24w968HYSzftCVpw&oe=6AFB51EA",
@@ -3550,7 +3554,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261112-1500-ru-1.jpg"
    },
    "source_key": "post:61595659383273_122109822993521979",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",

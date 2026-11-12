@@ -3586,7 +3586,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-12T14:35:27+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Le parrain de la mafia s'est agenouillé devant une femme de chambre humiliée, mais les points jaunes de sa robe ont révélé un secret enfoui depuis seize ans",
      "warnings": [
       "длина текста FB 945 слов (исходник 786, цель ±10%)"
