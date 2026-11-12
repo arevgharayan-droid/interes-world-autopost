@@ -1,75 +1,75 @@
 ## Отложенные посты на страницах
 
-Всего отложенных постов: **0**
+Всего отложенных постов: **52**
 
 ### FR
 
-- Au Cœur des Vies: нет
-- Le Fil de la Vie: нет
-- Destins Touchants: нет
-- Larmes de Vie: нет
-- La Vie Telle Qu’elle Est: нет
-- Visages de la Vie: нет
-- Moments Français | Paris: нет
+- Au Cœur des Vies: 12.11 15:00
+- Le Fil de la Vie: 12.11 15:00
+- Destins Touchants: 12.11 15:00
+- Larmes de Vie: 12.11 15:00
+- La Vie Telle Qu’elle Est: 12.11 15:00
+- Visages de la Vie: 12.11 15:00
+- Moments Français | Paris: 12.11 15:00
 
 ### IT
 
-- Quand Tout Bascule: нет
-- Vite in Primo Piano: нет
-- Storie Vere | Lion: нет
-- Voci di Vita | Paris: нет
-- Racconti Quotidiani | Monaco: нет
-- Vita Virale | Paris: нет
-- Vite da Raccontare: нет
-- Frammenti di Vita: нет
-- Una Storia che Ti Toccherà: нет
+- Quand Tout Bascule: 12.11 15:00
+- Vite in Primo Piano: 12.11 15:00
+- Storie Vere | Lion: 12.11 15:00
+- Voci di Vita | Paris: 12.11 15:00
+- Racconti Quotidiani | Monaco: 12.11 15:00
+- Vita Virale | Paris: 12.11 15:00
+- Vite da Raccontare: 12.11 15:00
+- Frammenti di Vita: 12.11 15:00
+- Una Storia che Ti Toccherà: 12.11 15:00
 
 ### EN-1
 
-- The Daily Report: нет
-- Human Life Stories: нет
-- Behind Her Smile: нет
-- Life’s Echo: нет
-- Beyond the Mask: нет
-- Whispers of Fate: нет
-- Heartfelt Lessons: нет
-- The Golden Touch: нет
+- The Daily Report: 12.11 15:00
+- Human Life Stories: 12.11 15:00
+- Behind Her Smile: 12.11 15:00
+- Life’s Echo: 12.11 15:00
+- Beyond the Mask: 12.11 15:00
+- Whispers of Fate: 12.11 15:00
+- Heartfelt Lessons: 12.11 15:00
+- The Golden Touch: 12.11 15:00
 - Amazing: нет доступа
-- Pet Lover: нет
-- Sweet Paws #1: нет
-- Sweet Paws #2: нет
-- Love This World: нет
+- Pet Lover: 12.11 15:00
+- Sweet Paws #1: 12.11 15:00
+- Sweet Paws #2: 12.11 15:00
+- Love This World: 12.11 15:00
 
 ### EN-2
 
-- Cute Stories: нет
-- Sunny Days: нет
-- Fragments of Life: нет
-- Your Daily Drama: нет
-- Musical Devotee: нет
-- Talent Spotlight: нет
-- Kids in Motion: нет
-- Little Legends Live: нет
-- Deepest Lessons: нет
-- Cute Animals: нет
-- Baby Lovers: нет
-- Fine Baby: нет
-- Life Between Moments: нет
+- Cute Stories: 12.11 15:00
+- Sunny Days: 12.11 15:00
+- Fragments of Life: 12.11 15:00
+- Your Daily Drama: 12.11 15:00
+- Musical Devotee: 12.11 15:00
+- Talent Spotlight: 12.11 15:00
+- Kids in Motion: 12.11 15:00
+- Little Legends Live: 12.11 15:00
+- Deepest Lessons: 12.11 15:00
+- Cute Animals: 12.11 15:00
+- Baby Lovers: 12.11 15:00
+- Fine Baby: 12.11 15:00
+- Life Between Moments: 12.11 15:00
 
 ### NL+DE
 
-- Het is interessant: нет
-- Mooie kinderen: нет
-- Geschichten des Lebens: нет
-- Lebenswege: нет
+- Het is interessant: 12.11 15:00
+- Mooie kinderen: 12.11 15:00
+- Geschichten des Lebens: 12.11 15:00
+- Lebenswege: 12.11 15:00
 
 ### RU+TR+PT
 
-- Из глубины сердца: нет
-- Из глубины души: нет
-- Моменты жизни: нет
-- Hayatın Anları: нет
-- Kalpten Hikayeler: нет
-- Segredos que a Vida Guarda: нет
-- Histórias que Ninguém Esquece: нет
+- Из глубины сердца: 12.11 15:00
+- Из глубины души: 12.11 15:00
+- Моменты жизни: 12.11 15:00
+- Hayatın Anları: 12.11 15:00
+- Kalpten Hikayeler: 12.11 15:00
+- Segredos que a Vida Guarda: 12.11 15:00
+- Histórias que Ninguém Esquece: 12.11 15:00
 
