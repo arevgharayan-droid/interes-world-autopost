@@ -4246,12 +4246,14 @@
      "pages": {
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140382162808945_2171119843797126",
        "error": null,
        "last_attempt": "2026-11-12T21:55:30+04:00",
        "mode": "immediate",
        "photo_id": "122140382138808945",
        "post_id": "1030877436782212_122140382162808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
@@ -4277,22 +4279,25 @@
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140964042811401_1268061172207524",
        "error": null,
        "last_attempt": "2026-11-12T21:55:25+04:00",
        "mode": "immediate",
        "photo_id": "122140964018811401",
        "post_id": "1114015015119414_122140964042811401",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122110195802543006_1614148746478231",
        "error": null,
        "last_attempt": "2026-11-12T21:55:14+04:00",
        "mode": "immediate",
        "photo_id": "122110195778543006",
        "post_id": "1140835409106424_122110195802543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -4318,12 +4323,14 @@
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125401855405175_2165687384064790",
        "error": null,
        "last_attempt": "2026-11-12T21:55:19+04:00",
        "mode": "immediate",
        "photo_id": "122125401831405175",
        "post_id": "1191480207389219_122125401855405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
@@ -4374,7 +4381,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-it.jpg"
    },
    "source_key": "post:100044802900629_1669678661202215",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
