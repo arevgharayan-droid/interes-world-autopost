@@ -10,6 +10,7 @@
   "0febb3e08517debf9ca4": "2026-11-12T09:04:38+00:00",
   "151eb58f03724b2a8ed0": "2026-11-09T20:03:21+00:00",
   "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
+  "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
   "30660871dadba458ebbe": "2026-11-09T20:02:09+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
@@ -19,6 +20,7 @@
   "5d014620f15f95df1195": "2026-11-10T22:05:49+00:00",
   "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
   "5fe659aaf3f073ce93ab": "2026-11-10T22:04:30+00:00",
+  "66da1067d99e1be59d56": "2026-11-12T10:26:34+00:00",
   "6a9dc74cd9fef54c67d7": "2026-11-10T22:03:12+00:00",
   "6ad19445c3c2f9ca584e": "2026-11-09T20:00:50+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
@@ -41,6 +43,7 @@
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
   "b704adc12a8d3775fd71": "2026-11-12T09:04:38+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
+  "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
   "e19af41ca961271a3c24": "2026-11-01T14:04:10+00:00",
@@ -3464,7 +3467,68 @@
    }
   },
   "2026-11-12 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha irmã me humilhou diante de 400 convidados no seu gala, até o homem mais esperado da noite passar direto por ela e me perguntar: \"Querida, você está pronta para ir embora?",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 150,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Сестра при 400 гостях назвала меня 36-летней неудачницей, но тут в зал вошёл тот, кого все ждали, и сказал мне всего одну фразу",
+     "warnings": [
+      "длина текста FB 545 слов (исходник 776, цель ±10%)",
+      "длина статьи 558 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 148,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ablam Beni Gala Gecesinde Herkesin Önünde \"Hâlâ Seçilmeyi Bekleyen Kız Kardeşim\" Diye Tanıttı, Sonra Salonun Kapıları Açıldı",
+     "warnings": [
+      "длина текста FB 438 слов (исходник 776, цель ±10%)",
+      "длина статьи 597 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 149,
+     "wp_status": "publish"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/897251463_122109777411521979_5054926246481478911_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NQtJf0s4-DEQ7kNvwE0OXtH&_nc_oc=AdoNBdLgoztOLhAeIwzt60att-ZUWW5--Q3CNGE9vqkHwEgut6wu4axFlPz8CuTLQfA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6NakhzXSEBIsTFNiwz-_sA&_nc_tpa=Q5bMBQJ_AWRc9IvnYqYccF9cT8712WUStHRHUv7lC_enaLWL6xI2AAbWqfBW4taO2382THLx0MNgoAeGcw&oh=00_AQSMaE1qBY0eK8JqHGTA3IeId1qXjy24w968HYSzftCVpw&oe=6AFB51EA",
@@ -3476,7 +3540,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261112-1500-ru.jpg"
    },
    "source_key": "post:61595659383273_122109822993521979",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3754,7 +3818,7 @@
    "origin": "manual",
    "page_id": "61595659383273",
    "slot": "2026-11-12 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122140150959225301": {
    "fingerprint": "772a34aefdef827462f8",

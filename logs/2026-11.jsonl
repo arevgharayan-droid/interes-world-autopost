@@ -2221,3 +2221,6 @@
 {"slot": "2026-11-12 15:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 945 слов (исходник 786, цель ±10%)"], "t": "2026-11-12T10:26:33+00:00", "group": "FR"}
 {"slot": "2026-11-12 15:00", "lang": "EN", "page": "530022363528890", "action": "fb_schedule", "photo_id": "122175411254720509", "post_id": "530022363528890_122175411290720509", "t": "2026-11-12T10:26:33+00:00", "group": "EN2"}
 {"slot": "2026-11-12 15:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 776 слов (исходник 962, цель ±10%)"], "t": "2026-11-12T10:26:33+00:00", "group": "EN"}
+{"slot": "2026-11-12 15:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 545 слов (исходник 776, цель ±10%)", "длина статьи 558 слов"], "t": "2026-11-12T10:26:34+00:00", "group": "RU"}
+{"slot": "2026-11-12 15:00", "lang": "TR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 438 слов (исходник 776, цель ±10%)", "длина статьи 597 слов"], "t": "2026-11-12T10:26:34+00:00", "group": "RU"}
+{"slot": "2026-11-12 15:00", "lang": "PT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-12T10:26:34+00:00", "group": "RU"}
