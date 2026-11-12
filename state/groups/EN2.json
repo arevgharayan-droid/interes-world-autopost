@@ -5152,6 +5152,7 @@
      "pages": {
       "100633729330404": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-12T13:14:47+04:00",
        "mode": "immediate",
@@ -5266,12 +5267,13 @@
       "892503027289970": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122142959997219808_1493097932681081",
        "error": null,
        "last_attempt": "2026-11-12T13:14:44+04:00",
        "mode": "immediate",
        "photo_id": "122142959973219808",
        "post_id": "892503027289970_122142959997219808",
-       "status": "published"
+       "status": "done"
       },
       "994273113779575": {
        "attempts": 1,
