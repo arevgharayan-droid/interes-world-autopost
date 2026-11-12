@@ -3688,15 +3688,17 @@
       "1202025962997153": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122121535173409328_2133855853888708",
        "error": null,
        "last_attempt": "2026-11-12T21:54:48+04:00",
        "mode": "immediate",
        "photo_id": "122121535149409328",
        "post_id": "1202025962997153_122121535173409328",
-       "status": "published"
+       "status": "done"
       },
       "1250374694822508": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-12T21:54:53+04:00",
        "mode": "immediate",
