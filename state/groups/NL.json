@@ -2718,36 +2718,19 @@
    "slot_iso": "2026-11-12T21:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-13 00:00": {
+  "2026-11-12 21:53": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1208422892355505": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122130692205418602",
-       "post_id": "1208422892355505_122130692235418602",
-       "status": "scheduled"
-      },
-      "1268633826332790": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122132721219436382",
-       "post_id": "1268633826332790_122132721249436382",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Vier Wochen vor seinem Abschluss sagte mein Enkel, er wolle mich nicht mehr in seinem Leben – doch dann trat er ans Mikrofon",
      "warnings": [],
      "wp_error": null,
      "wp_id": 257,
+     "wp_live": true,
      "wp_status": "future"
     },
     "EN": {
@@ -2766,30 +2749,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "633031599904551": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:31+04:00",
-       "mode": "schedule",
-       "photo_id": "122222396726930012",
-       "post_id": "633031599904551_122222396756930012",
-       "status": "scheduled"
-      },
-      "715935674934966": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:36+04:00",
-       "mode": "schedule",
-       "photo_id": "122202424040922316",
-       "post_id": "715935674934966_122202424070922316",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Vier weken voor zijn afstuderen wilde mijn kleinzoon me niet meer zien, maar toen hij op het podium de microfoon pakte, veranderde alles",
      "warnings": [],
      "wp_error": null,
      "wp_id": 256,
+     "wp_live": true,
      "wp_status": "future"
     },
     "PT": {
@@ -2805,8 +2770,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-13 00:00",
    "prepared": true,
-   "slot_iso": "2026-11-13T00:00:00+04:00",
+   "slot_iso": "2026-11-12T21:53:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/903701848_1669675707869177_4287408516357275736_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0z1gUwZhJHMQ7kNvwG9aMyH&_nc_oc=AdosSR0IW8Jc1RrSdcbPJhzVr_jpyEXAK0xJgy3x_oFMRxFr90db2HFyI0DHoTGmfqY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=3He3Soutt5oCWTKlDPfsmg&_nc_tpa=Q5bMBQJedrPMBduIw8BxHU8ygr5Iyzk2TmDmn7peIy1DgFmDetySM6gYMWjBa0cxr7HMINrs2HMX1i5hFw&oh=00_AQTzTPaodG89hhv2jjEbXkolUfSHTOLy2BEyXVJFQKj97g&oe=6AFBDBBC",
     "link": "https://www.facebook.com/share/p/1CUJ9DYMcW/",
@@ -2817,7 +2783,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-nl.jpg"
    },
    "source_key": "post:100044802900629_1669675741202507",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

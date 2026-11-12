@@ -3619,7 +3619,8 @@
    "slot_iso": "2026-11-12T21:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-13 00:00": {
+  "2026-11-12 21:49": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -3633,77 +3634,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:48:06+04:00",
-       "mode": "schedule",
-       "photo_id": "122117404628633539",
-       "post_id": "1032441206625600_122117404658633539",
-       "status": "scheduled"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:48:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122109141902457428",
-       "post_id": "1058598924006917_122109141932457428",
-       "status": "scheduled"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:59+04:00",
-       "mode": "schedule",
-       "photo_id": "122122853073299008",
-       "post_id": "1079295351933311_122122853103299008",
-       "status": "scheduled"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:48:01+04:00",
-       "mode": "schedule",
-       "photo_id": "122125743441303172",
-       "post_id": "1145306638657445_122125743471303172",
-       "status": "scheduled"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:50+04:00",
-       "mode": "schedule",
-       "photo_id": "122121534663409328",
-       "post_id": "1202025962997153_122121534693409328",
-       "status": "scheduled"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122123440977415639",
-       "post_id": "1250374694822508_122123441007415639",
-       "status": "scheduled"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:48:10+04:00",
-       "mode": "schedule",
-       "photo_id": "122128774989441679",
-       "post_id": "1260826840455724_122128775019441679",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Mon fils m'a portée sur la scène de sa remise de diplôme, puis il a pris le micro pour avouer le secret qu'il me cachait depuis des années",
      "warnings": [
       "длина текста FB 963 слов (исходник 816, цель ±10%)"
      ],
      "wp_error": null,
      "wp_id": 259,
+     "wp_live": true,
      "wp_status": "future"
     },
     "IT": {
@@ -3727,8 +3665,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-13 00:00",
    "prepared": true,
-   "slot_iso": "2026-11-13T00:00:00+04:00",
+   "slot_iso": "2026-11-12T21:49:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/902020022_1712756713576354_4446485433351264893_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9GnfSVLpQz0Q7kNvwEW2rkh&_nc_oc=Adp2HrAYAFx6T0lcYbWYmy5yC8XgKje97-M7-o70aJ0k9DJYvons1puSbesVT8jP-hA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=mmvTnVKYI7ljhQlYorPAJA&_nc_tpa=Q5bMBQIcCYjJ26WaYEzAZT3jX0GGn1B-L1c9vX8H4iwY3WtYcu_PNDBLfoACYokY4KY53itmLZk7dd5apA&oh=00_AQSJtzf0mxfkBU7zy2mGn2buGZkbPNE9zo2neVaSGQJmcA&oe=6AFBD3DF",
     "link": "https://www.facebook.com/share/p/1E59TEazMz/",
@@ -3739,7 +3678,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-fr.jpg"
    },
    "source_key": "post:100045261260562_1712756896909669",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

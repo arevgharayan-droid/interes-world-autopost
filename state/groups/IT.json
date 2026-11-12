@@ -4206,7 +4206,8 @@
    "slot_iso": "2026-11-12T21:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-13 00:00": {
+  "2026-11-12 21:49": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -4224,93 +4225,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1030877436782212": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122140381148808945",
-       "post_id": "1030877436782212_122140381178808945",
-       "status": "scheduled"
-      },
-      "1064982806700854": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:30+04:00",
-       "mode": "schedule",
-       "photo_id": "122111544194456562",
-       "post_id": "1064982806700854_122111544224456562",
-       "status": "scheduled"
-      },
-      "1079964265201139": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:26+04:00",
-       "mode": "schedule",
-       "photo_id": "122108202770506427",
-       "post_id": "1079964265201139_122108202800506427",
-       "status": "scheduled"
-      },
-      "1114015015119414": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122140963484811401",
-       "post_id": "1114015015119414_122140963514811401",
-       "status": "scheduled"
-      },
-      "1140835409106424": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:35+04:00",
-       "mode": "schedule",
-       "photo_id": "122110195190543006",
-       "post_id": "1140835409106424_122110195220543006",
-       "status": "scheduled"
-      },
-      "1142735408923607": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122138298885311525",
-       "post_id": "1142735408923607_122138298915311525",
-       "status": "scheduled"
-      },
-      "1160223747182678": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:21+04:00",
-       "mode": "schedule",
-       "photo_id": "122135930523400586",
-       "post_id": "1160223747182678_122135930553400586",
-       "status": "scheduled"
-      },
-      "1191480207389219": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122125400991405175",
-       "post_id": "1191480207389219_122125401075405175",
-       "status": "scheduled"
-      },
-      "997772916762884": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:24+04:00",
-       "mode": "schedule",
-       "photo_id": "122112936770437662",
-       "post_id": "997772916762884_122112936806437662",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Dopo dieci anni in una roulotte per 18.000 dollari l'anno, ci siamo licenziati: la mattina dopo mio suocero ha fatto una sola domanda al nostro nuovo capo",
      "warnings": [],
      "wp_error": null,
      "wp_id": 254,
+     "wp_live": true,
      "wp_status": "future"
     },
     "NL": {
@@ -4330,8 +4250,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-13 00:00",
    "prepared": true,
-   "slot_iso": "2026-11-13T00:00:00+04:00",
+   "slot_iso": "2026-11-12T21:49:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/903439178_1669678634535551_7387078380230654889_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dT_vM5Z9wjAQ7kNvwEhYO35&_nc_oc=Ado-XtoAd-Eh52xeLQW3e_G6dLv4K6x_WUsKW1fmz2fkYYkOc8TtG_i-1J2QMu7ooVY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=O94L7aJRIfaegB06b4faVw&_nc_tpa=Q5bMBQLuAQP5Vo4UzSfXZ3PIJgrfcgvBvLApu-jDNalTDYNefIKILPz3L_K1o16rdwnpyPhYlY4Ds-rESg&oh=00_AQRvMC6bbZBoQSWp2AExuYfo30mKgJCpwHICYdq4onTqzg&oe=6AFBCCF3",
     "link": "https://www.facebook.com/share/p/1ESjvTbjpz/",
@@ -4342,7 +4263,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-it.jpg"
    },
    "source_key": "post:100044802900629_1669678661202215",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

@@ -5433,7 +5433,8 @@
    "slot_iso": "2026-11-12T21:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-13 00:00": {
+  "2026-11-12 21:51": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -5443,129 +5444,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "100633729330404": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:55+04:00",
-       "mode": "schedule",
-       "photo_id": "1140182582043596",
-       "post_id": "100633729330404_1140182622043592",
-       "status": "scheduled"
-      },
-      "104114086037068": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:48:01+04:00",
-       "mode": "schedule",
-       "photo_id": "1039587759162936",
-       "post_id": "104114086037068_1039587789162933",
-       "status": "scheduled"
-      },
-      "1060733217128705": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:35+04:00",
-       "mode": "schedule",
-       "photo_id": "122144072684777362",
-       "post_id": "1060733217128705_122144072714777362",
-       "status": "scheduled"
-      },
-      "106713875762456": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:58+04:00",
-       "mode": "schedule",
-       "photo_id": "1027439843707621",
-       "post_id": "106713875762456_1027439873707618",
-       "status": "scheduled"
-      },
-      "1220745651126185": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:48:04+04:00",
-       "mode": "schedule",
-       "photo_id": "122126768835439195",
-       "post_id": "1220745651126185_122126768865439195",
-       "status": "scheduled"
-      },
-      "233545296514172": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:25+04:00",
-       "mode": "schedule",
-       "photo_id": "122336049560241259",
-       "post_id": "233545296514172_122336049590241259",
-       "status": "scheduled"
-      },
-      "530022363528890": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:28+04:00",
-       "mode": "schedule",
-       "photo_id": "122175433028720509",
-       "post_id": "530022363528890_122175433058720509",
-       "status": "scheduled"
-      },
-      "625664190627160": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122184054764820020",
-       "post_id": "625664190627160_122184054800820020",
-       "status": "scheduled"
-      },
-      "648976361631351": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122194256858829482",
-       "post_id": "648976361631351_122194256888829482",
-       "status": "scheduled"
-      },
-      "673710079162922": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122244099986895613",
-       "post_id": "673710079162922_122244100016895613",
-       "status": "scheduled"
-      },
-      "714226118434052": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122205224738902657",
-       "post_id": "714226118434052_122205224828902657",
-       "status": "scheduled"
-      },
-      "892503027289970": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:52+04:00",
-       "mode": "schedule",
-       "photo_id": "122142999429219808",
-       "post_id": "892503027289970_122142999459219808",
-       "status": "scheduled"
-      },
-      "994273113779575": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T21:47:32+04:00",
-       "mode": "schedule",
-       "photo_id": "122138701658776189",
-       "post_id": "994273113779575_122138701688776189",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "My Husband's Aunt Was Loading Our Entire Wedding Supper Into Her Tahoe, Then My Husband Walked Up and Said Something That Stopped Me Cold",
      "warnings": [],
      "wp_error": null,
      "wp_id": 255,
+     "wp_live": true,
      "wp_status": "future"
     },
     "FR": {
@@ -5593,8 +5477,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-13 00:00",
    "prepared": true,
-   "slot_iso": "2026-11-13T00:00:00+04:00",
+   "slot_iso": "2026-11-12T21:51:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/902249569_1669670154536399_3787602123956904465_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=P8Z1rbtPXXMQ7kNvwF8H7Hj&_nc_oc=Ado0ZrD5IW-RwDgiSkyM0cl9yfz9JTn2K4OhSGRXS8LGh7HTQ8Xm7W1K-fNi6yKUITE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=O6pro6AIy7Y4r1CBiIIX0A&_nc_tpa=Q5bMBQIGEfjXhg9yn3Jeiv5VHqU4LFJCf4vE4rYj4NUl1b_44X8clkJ9SshcLGWUOp6Z7cpRruf7MZjR8Q&oh=00_AQRnUdj9exzRQQuRuBXnFL4RzHrWdon2-74I6qRO9uvqiQ&oe=6AFBDF34",
     "link": "https://www.facebook.com/share/p/1EQHkvskHQ/",
@@ -5605,7 +5490,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-en2.jpg"
    },
    "source_key": "post:100044802900629_1669670201203061",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
