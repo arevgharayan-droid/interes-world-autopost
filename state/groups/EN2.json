@@ -5679,7 +5679,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-11-13T00:02:25+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "My Millionaire Ex Used a Photo of Our Daughter's Stained Shirt to Call Me Unfit, Then She Stood Up and Lifted It",
      "warnings": [],
      "wp_error": null,

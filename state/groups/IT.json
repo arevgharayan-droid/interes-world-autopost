@@ -20,6 +20,7 @@
   "c3a669114cbd1e96b360": "2026-11-12T10:26:53+00:00",
   "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
   "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00",
+  "f0ab5dd9f979bb237bc0": "2026-11-12T20:02:25+00:00",
   "f472d77cd9283f9c86cc": "2026-11-10T22:06:07+00:00",
   "f5c0e175c68a336e3e47": "2026-11-09T20:09:08+00:00",
   "ff177c2141f7f0364278": "2026-11-09T13:24:27+00:00"
@@ -4390,7 +4391,48 @@
    }
   },
   "2026-11-13 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Stavo per annunciare il fidanzamento con un'altra, ma in un bagno di ristorante ho incontrato quattro bambine con gli occhi della donna che amavo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 272,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/892134299_122130803252893096_3136072222672117577_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=J93-LarMET0Q7kNvwEvHfll&_nc_oc=Adq8oeyVdShQsWZmG1AT_izLLleEF27JpArxoE3CqPUSom-vk7K_m423MmIYB6wdp2g&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=pqDhHIj2x1IEmbi5PtAiZw&_nc_tpa=Q5bMBQJpQknwCwkAO0Y6605RD-U0Di4zlIv98ndRBwaAcNOrhAykawDYQVfJHHMK_oiOAt5ZIvO8luaZWg&oh=00_AQRtK_h3nWjaJCZfKopVeM7Gjznv5q8L44KX4O37gVwdcg&oe=6AFC0634",
@@ -4402,7 +4444,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-it-1.jpg"
    },
    "source_key": "post:61576792898556_122130803336893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4631,7 +4673,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-13 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",
