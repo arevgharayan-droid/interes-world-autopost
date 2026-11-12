@@ -3613,7 +3613,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1008693642337213": {
+       "attempts": 1,
+       "last_attempt": "2026-11-12T21:48:09+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Он бросил жену и пятерых новорождённых детей в 1995 году, но спустя 30 лет тайна его семьи потрясла всех",
      "warnings": [
       "длина текста FB 327 слов (исходник 394, цель ±10%)"
