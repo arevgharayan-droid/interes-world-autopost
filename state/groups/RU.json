@@ -3330,21 +3330,25 @@
      "pages": {
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116158399471857_3096769667349733",
        "error": null,
        "last_attempt": "2026-11-12T13:14:35+04:00",
        "mode": "immediate",
        "photo_id": "122116158375471857",
        "post_id": "1338630212673029_122116158399471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119293063505599_983035177760313",
        "error": null,
        "last_attempt": "2026-11-12T13:14:30+04:00",
        "mode": "immediate",
        "photo_id": "122119293027505599",
        "post_id": "1448441201677530_122119293063505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ela ligou quatro vezes enquanto ele estava com a amante, e a última chamada guardava um segredo que ele jamais imaginaria",
@@ -3372,22 +3376,25 @@
       },
       "1125676667286378": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139973976737651_1142656432081356",
        "error": null,
        "last_attempt": "2026-11-12T13:14:19+04:00",
        "mode": "immediate",
        "photo_id": "122139973946737651",
        "post_id": "1125676667286378_122139973976737651",
-       "status": "published"
+       "status": "done"
       },
       "988042774402200": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122135098010733774_1634237311027224",
        "error": null,
        "last_attempt": "2026-11-12T13:14:15+04:00",
        "mode": "immediate",
        "photo_id": "122135097986733774",
        "post_id": "988042774402200_122135098010733774",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Жена звонила мне четыре раза, пока я был с любовницей. Когда я наконец узнал, что случилось той ночью, мне стало страшно",
@@ -3404,21 +3411,25 @@
      "pages": {
       "1129620776897151": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127471615311884_2235413660336757",
        "error": null,
        "last_attempt": "2026-11-12T13:14:22+04:00",
        "mode": "immediate",
        "photo_id": "122127471591311884",
        "post_id": "1129620776897151_122127471615311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126656221307134_1154405430462871",
        "error": null,
        "last_attempt": "2026-11-12T13:14:26+04:00",
        "mode": "immediate",
        "photo_id": "122126656197307134",
        "post_id": "1164575726728296_122126656221307134",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Karım beni dört kez aradı, ben otel odasında metresimle birlikteydim; dördüncü aramada telefonu o açtı ve asıl korkunç gerçek hastanede ortaya çıktı",
@@ -3444,7 +3455,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261112-1500-ru.jpg"
    },
    "source_key": "post:61560353781750_122118837386345126",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
