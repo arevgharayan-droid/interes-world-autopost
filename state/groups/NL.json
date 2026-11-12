@@ -2663,7 +2663,9 @@
      "warnings": [
       "длина текста FB 693 слов (исходник 944, цель ±10%)"
      ],
-     "wp_status": "publish"
+     "wp_error": null,
+     "wp_id": 242,
+     "wp_status": "future"
     },
     "EN": {
      "pages": {},
@@ -2703,7 +2705,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/874186374_122105901507521979_1025025309766736629_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Szme4rs8w0oQ7kNvwEcaWoL&_nc_oc=AdoFoBgPabm8kBwShnMHIHPSQ7C3lWVRf4-WBn3CFL3QB92mHBUxGtXAU87PBLKS-W0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fW2Tz1uJirdlOwY-CrLl8Q&_nc_tpa=Q5bMBQLYTXoQi6ZM8IxvqO9iuC20OvlbCc69q7BYLc3ASsU5K4VDJG8n2XcndqQIpZ3R51SCK4qfci6L8w&oh=00_AQQJm0FLCl2P7dPkeSdMqcw639X9SWBmRoJSWTIAT7AgHw&oe=6AFB66FA",
@@ -2715,7 +2717,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-nl-1.jpg"
    },
    "source_key": "post:61595659383273_122105901873521979",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

@@ -4175,7 +4175,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-12T14:35:25+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Il boss mafioso paralizzato si svegliò con la sua cameriera nel letto: quello che fece dopo lasciò tutti senza parole",
      "warnings": [],
      "wp_error": null,

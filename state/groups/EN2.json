@@ -5387,7 +5387,9 @@
      "pages": {},
      "title": "My Husband Laughed When I Asked for a Divorce, But Hours Later a Nurse Handed Him My Letter",
      "warnings": [],
-     "wp_status": "publish"
+     "wp_error": null,
+     "wp_id": 241,
+     "wp_status": "future"
     },
     "FR": {
      "pages": {},
@@ -5414,7 +5416,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/861563118_122105956647521979_7071842477737641443_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1ePgTW1aeacQ7kNvwH8hImj&_nc_oc=Adr9OUPIFq7Xhoeby7Q7po_lwPsPdz_uyuPzlqUgnmhEEZERZk8dUcLfsaafp9Oe9Nk&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=Ll9w_3hFLQLOXbQ_5iHa9w&_nc_tpa=Q5bMBQJygoqYPY1aCyRwyGE7o32BbLLhq1agtV4pdENLyDT_t27F0HwMLNBjGuqW0QJcnsyygskue1-Sjg&oh=00_AQRelJ1l-x4aop4rc3sBv3p-7ejxR5zNTNuCKLdFgbnoyw&oe=6AFB8180",
@@ -5426,7 +5428,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-en2-1.jpg"
    },
    "source_key": "post:61595659383273_122105956707521979",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

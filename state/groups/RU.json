@@ -3521,7 +3521,9 @@
       "длина текста FB 545 слов (исходник 776, цель ±10%)",
       "длина статьи 558 слов"
      ],
-     "wp_status": "publish"
+     "wp_error": null,
+     "wp_id": 155,
+     "wp_status": "future"
     },
     "TR": {
      "backend": "subscription",
