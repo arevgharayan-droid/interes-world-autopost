@@ -2292,3 +2292,4 @@
 {"slot": "2026-11-12 15:00", "lang": "RU", "action": "wp_post", "id": 155, "status": "future", "t": "2026-11-12T10:35:25+00:00", "group": "RU"}
 {"slot": "2026-11-12 15:00", "lang": "TR", "action": "wp_post", "id": 156, "status": "future", "t": "2026-11-12T10:35:26+00:00", "group": "RU"}
 {"slot": "2026-11-12 15:00", "lang": "PT", "action": "wp_post", "id": 157, "status": "future", "t": "2026-11-12T10:35:27+00:00", "group": "RU"}
+{"slot": "2026-11-12 15:00", "lang": "IT", "page": "1142735408923607", "action": "fb_schedule", "photo_id": "122138255205311525", "post_id": "1142735408923607_122138255235311525", "t": "2026-11-12T10:35:27+00:00", "group": "IT"}

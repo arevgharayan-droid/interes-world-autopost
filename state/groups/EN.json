@@ -5308,7 +5308,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-11-12T14:35:28+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "I Offered a Little Girl $1 Million to Stop Dancing at My Mafia Engagement Party, Then Her Strange Dance Brought Me to My Knees",
      "warnings": [
       "длина текста FB 776 слов (исходник 962, цель ±10%)"
