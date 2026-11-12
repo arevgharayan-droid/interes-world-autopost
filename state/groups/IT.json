@@ -14,6 +14,7 @@
   "8af2ac126626c3379771": "2026-11-10T22:07:11+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
+  "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "bb0ddf4fdb82f7b2d023": "2026-11-10T22:04:53+00:00",
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00",
@@ -3937,7 +3938,48 @@
    "status": "missed"
   },
   "2026-11-12 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mio marito ha dimenticato di riattaccare: ciò che ho sentito mi ha spinta a preparare una sorpresa per il nostro anniversario",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 222,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/861826601_122118228716345126_6461632473972053313_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OJSisULIozkQ7kNvwHa28mx&_nc_oc=AdqyK2DbM7jW0S-990qfPSJK5ZiNozaxwE0dkRC_BHBJKKeJMMTzkNi-cgUk87Pxj9c&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=7CP_n8oAENlv88ppAiSTkQ&_nc_tpa=Q5bMBQLTL7uua6f_Chv7eoG2R9TWjQbcZyKjXYCCsAt7S87IuvDErjRebYaY9nVzpAcDnV9tHOqcGJprZg&oh=00_AQQcp6EKYbOXTxH0taHckLPWpQM02RsMbrYJBxjYSlGnkA&oe=6AFB66E8",
@@ -3949,7 +3991,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-it.jpg"
    },
    "source_key": "post:61560353781750_122118289148345126",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4142,7 +4184,7 @@
    "origin": "manual",
    "page_id": "61560353781750",
    "slot": "2026-11-12 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130758852893096": {
    "fingerprint": "70b2b5adc4ce4ff4c245",
