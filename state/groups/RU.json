@@ -3634,6 +3634,7 @@
      "pages": {
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-12T21:55:18+04:00",
        "mode": "immediate",
@@ -3643,12 +3644,14 @@
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119455597505599_2338891463570932",
        "error": null,
        "last_attempt": "2026-11-12T21:55:12+04:00",
        "mode": "immediate",
        "photo_id": "122119455573505599",
        "post_id": "1448441201677530_122119455597505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Em 1995, ele abandonou a esposa e os cinco bebês recém-nascidos por serem negros. 30 anos depois, um segredo de família deixou todos sem palavras",
@@ -3676,22 +3679,25 @@
       },
       "1125676667286378": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140029290737651_1835732044291831",
        "error": null,
        "last_attempt": "2026-11-12T21:54:57+04:00",
        "mode": "immediate",
        "photo_id": "122140029266737651",
        "post_id": "1125676667286378_122140029290737651",
-       "status": "published"
+       "status": "done"
       },
       "988042774402200": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122135147570733774_1768381020922085",
        "error": null,
        "last_attempt": "2026-11-12T21:54:53+04:00",
        "mode": "immediate",
        "photo_id": "122135147546733774",
        "post_id": "988042774402200_122135147570733774",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Он бросил жену и пятерых новорождённых детей в 1995 году, но спустя 30 лет тайна его семьи потрясла всех",
@@ -3710,21 +3716,25 @@
      "pages": {
       "1129620776897151": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127520083311884_1152473593916367",
        "error": null,
        "last_attempt": "2026-11-12T21:55:01+04:00",
        "mode": "immediate",
        "photo_id": "122127520059311884",
        "post_id": "1129620776897151_122127520083311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126706177307134_1509376451249891",
        "error": null,
        "last_attempt": "2026-11-12T21:55:07+04:00",
        "mode": "immediate",
        "photo_id": "122126706153307134",
        "post_id": "1164575726728296_122126706177307134",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "1995'te Eşini ve Beş Siyah Yenidoğan Bebeğini Terk Etti, 30 Yıl Sonra Ortaya Çıkan Aile Sırrı Herkesi Dilsiz Bıraktı",

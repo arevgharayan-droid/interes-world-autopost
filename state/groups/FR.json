@@ -3651,40 +3651,47 @@
      "pages": {
       "1032441206625600": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117404886633539_1644871194001046",
        "error": null,
        "last_attempt": "2026-11-12T21:55:07+04:00",
        "mode": "immediate",
        "photo_id": "122117404862633539",
        "post_id": "1032441206625600_122117404886633539",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109142214457428_2223296671917813",
        "error": null,
        "last_attempt": "2026-11-12T21:55:18+04:00",
        "mode": "immediate",
        "photo_id": "122109142190457428",
        "post_id": "1058598924006917_122109142214457428",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122122853703299008_2144050266210011",
        "error": null,
        "last_attempt": "2026-11-12T21:54:57+04:00",
        "mode": "immediate",
        "photo_id": "122122853673299008",
        "post_id": "1079295351933311_122122853703299008",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125743921303172_1131872349472053",
        "error": null,
        "last_attempt": "2026-11-12T21:55:03+04:00",
        "mode": "immediate",
        "photo_id": "122125743897303172",
        "post_id": "1145306638657445_122125743921303172",
-       "status": "published"
+       "status": "done"
       },
       "1202025962997153": {
        "attempts": 1,
@@ -3710,12 +3717,14 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128775895441679_1455584006542494",
        "error": null,
        "last_attempt": "2026-11-12T21:55:12+04:00",
        "mode": "immediate",
        "photo_id": "122128775871441679",
        "post_id": "1260826840455724_122128775895441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mon fils m'a portée sur la scène de sa remise de diplôme, puis il a pris le micro pour avouer le secret qu'il me cachait depuis des années",
@@ -3761,7 +3770,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-fr.jpg"
    },
    "source_key": "post:100045261260562_1712756896909669",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
