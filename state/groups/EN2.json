@@ -5681,7 +5681,10 @@
      "generated": true,
      "pages": {},
      "title": "My Millionaire Ex Used a Photo of Our Daughter's Stained Shirt to Call Me Unfit, Then She Stood Up and Lifted It",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 271,
+     "wp_status": "publish"
     },
     "FR": {
      "pages": {},
@@ -5708,6 +5711,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-13T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/897372242_122130849770893096_4547664729307995083_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gCtDg2BsFVUQ7kNvwF8QGfH&_nc_oc=AdoHNtRHXgVLqQHz9CeYjSvQTZsVlQfYJWqSj-_h9clg0osmH70CjXNEKQjFI4O12uI&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=LC_9E-otNjfeHJwhJNXccg&_nc_tpa=Q5bMBQLpXBJlAAzPv9CtBcY_3s6I9CW0GqnQl7v5MxsSp7O6MVH_rwLRf8lRZ4D1ufaFfc24V5Mh6t2amA&oh=00_AQQkdtOUcPAyUhp0l3Lpl1wpWMMHejKA3jVr0OO9Q7OAqw&oe=6AFC02D3",
@@ -5719,7 +5723,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-en2-1.jpg"
    },
    "source_key": "post:61576792898556_122130849854893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5932,7 +5936,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-13 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585110014040_122144532279170333": {
    "fingerprint": "41111c047dd387eafe2b",
