@@ -8,6 +8,7 @@
   "4ec66c0e7d13beb9615d": "2026-11-09T20:00:31+00:00",
   "5524aef86b90361cca7b": "2026-11-10T22:03:23+00:00",
   "5a1a23c72fc75013e47d": "2026-10-31T10:14:39+00:00",
+  "5e336a9c8f71c9075c40": "2026-11-12T17:47:39+00:00",
   "655ea8557dcca7162d6c": "2026-11-01T14:03:59+00:00",
   "6dfa0fbc6e60232c2ca8": "2026-11-10T22:06:51+00:00",
   "76b6de784429bf75aead": "2026-11-12T10:26:33+00:00",
@@ -5318,7 +5319,48 @@
    "status": "missed"
   },
   "2026-11-13 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Six Years After My Husband and Three Sons Vanished on a Fishing Trip, My Daughter Found a Hidden Phone and Whispered, \"Mom, I Finally Know What Happened",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 258,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/895363596_1669680501202031_7572058276207106327_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CYR2loXcUPcQ7kNvwEBcIqg&_nc_oc=Adpz64d1g8Qdw2am1B7jSF3dOWXgvqOZkAX7-BxsNxR8jF-dj1db4_qdCxlc_K4Lts0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=OE4yrQZLmFbId_pmtbyjFA&_nc_tpa=Q5bMBQJO8-xTT6hTrDkNHmKjGzDq_O5y1oKl9FxG00Ex3ih0YKjtUiBkeN5mLU0jPSiUk7WSOW9iTG0uyg&oh=00_AQTcj9mc3E6KFQH5WizkCEe8d1qTboJ3_bQRa4FHz0uc3w&oe=6AFBD617",
@@ -5330,7 +5372,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-en.jpg"
    },
    "source_key": "post:100044802900629_1669680564535358",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5475,7 +5517,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-13 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699289931589699": {
    "fingerprint": "947d4507699df6d24615",
