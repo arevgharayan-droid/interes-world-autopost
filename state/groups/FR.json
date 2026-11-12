@@ -19,6 +19,7 @@
   "91248c595505f5090bae": "2026-11-09T20:07:39+00:00",
   "9f27064d4760d4ec7129": "2026-11-09T13:24:35+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
+  "b094df1fc1c2da2733f6": "2026-11-12T10:26:33+00:00",
   "b120e497dba6ca6aff31": "2026-11-10T22:02:37+00:00",
   "dfc264e5088ceb9596c5": "2026-10-29T20:16:43+00:00",
   "e19444e6413ef867631a": "2026-10-29T20:24:35+00:00"
@@ -3558,7 +3559,50 @@
    }
   },
   "2026-11-12 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Le parrain de la mafia s'est agenouillé devant une femme de chambre humiliée, mais les points jaunes de sa robe ont révélé un secret enfoui depuis seize ans",
+     "warnings": [
+      "длина текста FB 945 слов (исходник 786, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 223,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/893166024_122116369083489203_3560772467047859553_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=l-A7I25TLzkQ7kNvwEEe4UU&_nc_oc=AdoA2-JTlAzUL6O-WOik1lpZa1fgqobsENhrupxwAbl5R7bxD9kIEA7pQR8PypqmAj0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=-693ix4nZA2A-9I1yZIlcg&_nc_tpa=Q5bMBQIl6s2_sCSPUQRpWeFdN08m7TgjVt6dAuju86u3oXuBNg5vx3jnZQwZbNqXung5oX0P35TBNX8XUw&oh=00_AQRNI47B9k_uIFrWAoCvokTxTH3_gqCThp9d9X1SNxhdGA&oe=6AFB7649",
@@ -3570,7 +3614,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-fr.jpg"
    },
    "source_key": "post:61594676105166_122116453251489203",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3840,7 +3884,7 @@
    "origin": "manual",
    "page_id": "61594676105166",
    "slot": "2026-11-12 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61595030999436_122115257253501033": {
    "fingerprint": "de46d84948ebb5b49d96",
