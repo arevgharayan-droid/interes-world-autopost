@@ -5491,6 +5491,7 @@
       },
       "1060733217128705": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-12T21:55:02+04:00",
        "mode": "immediate",
@@ -5586,12 +5587,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122138702606776189_2208915506502232",
        "error": null,
        "last_attempt": "2026-11-12T21:54:57+04:00",
        "mode": "immediate",
        "photo_id": "122138702582776189",
        "post_id": "994273113779575_122138702606776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Husband's Aunt Was Loading Our Entire Wedding Supper Into Her Tahoe, Then My Husband Walked Up and Said Something That Stopped Me Cold",
