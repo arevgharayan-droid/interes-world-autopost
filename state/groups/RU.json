@@ -3300,7 +3300,10 @@
      "generated": true,
      "pages": {},
      "title": "Ela ligou quatro vezes enquanto ele estava com a amante, e a última chamada guardava um segredo que ele jamais imaginaria",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 150,
+     "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
@@ -3327,6 +3330,7 @@
      "wp_status": "future"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/864891224_122118799442345126_6453460605186795521_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gBeF2YOocJ4Q7kNvwGU8q-x&_nc_oc=AdqbKR0beZjOpoEehbie2nF77eYZr8pzMPR5UVFa0j_t8BVmyZBFVZTmERM-y5CEMpw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=slqU2MHdOIr-dy1xobHlqQ&_nc_tpa=Q5bMBQJfX25X2gtWOtTNlosn7m5JPpQm13UjfxgNeCJWzkhR_X197r7fyM53crQ2QKMQDc_6_P6WHM02GA&oh=00_AQS_paUZ9VKSHleqDOCK5UzpQNes3hgRHpqjsABzfHQ0RA&oe=6AFB4FF0",
@@ -3338,7 +3342,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261112-1500-ru.jpg"
    },
    "source_key": "post:61560353781750_122118837386345126",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3523,7 +3527,7 @@
    "origin": "manual",
    "page_id": "61560353781750",
    "slot": "2026-11-12 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61574270220252_122137345892809007": {
    "fingerprint": "0143d65d9c5e6d4d21d0",
