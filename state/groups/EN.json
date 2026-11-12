@@ -5085,12 +5085,14 @@
      "pages": {
       "1016419758218222": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122146980525204972_2150497302169811",
        "error": null,
        "last_attempt": "2026-11-12T13:14:30+04:00",
        "mode": "immediate",
        "photo_id": "122146980501204972",
        "post_id": "1016419758218222_122146980525204972",
-       "status": "published"
+       "status": "done"
       },
       "104239205742669": {
        "attempts": 0,
@@ -5158,6 +5160,7 @@
       },
       "236129656261330": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-12T13:14:38+04:00",
        "mode": "immediate",
@@ -5177,30 +5180,35 @@
       "914823471720372": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122148417273209718_1500773322184087",
        "error": null,
        "last_attempt": "2026-11-12T13:14:23+04:00",
        "mode": "immediate",
        "photo_id": "122148417249209718",
        "post_id": "914823471720372_122148417273209718",
-       "status": "published"
+       "status": "done"
       },
       "921611111039858": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144059395200344_3291208494600959",
        "error": null,
        "last_attempt": "2026-11-12T13:14:27+04:00",
        "mode": "immediate",
        "photo_id": "122144059371200344",
        "post_id": "921611111039858_122144059395200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122149655745209153_1611503617324277",
        "error": null,
        "last_attempt": "2026-11-12T13:14:34+04:00",
        "mode": "immediate",
        "photo_id": "122149655721209153",
        "post_id": "975714512286925_122149655745209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Accept Her Or Get Out,\" My Husband Told Me While I Was Seven Months Pregnant. I Said \"All Right\" And Walked Out With One Folder He Never Read",

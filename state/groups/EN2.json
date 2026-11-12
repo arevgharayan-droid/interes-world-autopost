@@ -5170,12 +5170,14 @@
       },
       "1060733217128705": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144021324777362_2352996438800275",
        "error": null,
        "last_attempt": "2026-11-12T13:14:23+04:00",
        "mode": "immediate",
        "photo_id": "122144021300777362",
        "post_id": "1060733217128705_122144021324777362",
-       "status": "published"
+       "status": "done"
       },
       "106713875762456": {
        "attempts": 1,
@@ -5208,15 +5210,18 @@
       },
       "530022363528890": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122175407462720509_1123660923607979",
        "error": null,
        "last_attempt": "2026-11-12T13:14:15+04:00",
        "mode": "immediate",
        "photo_id": "122175407438720509",
        "post_id": "530022363528890_122175407462720509",
-       "status": "published"
+       "status": "done"
       },
       "625664190627160": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-12T13:14:27+04:00",
        "mode": "immediate",
@@ -5262,12 +5267,14 @@
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138650058776189_1886335852800791",
        "error": null,
        "last_attempt": "2026-11-12T13:14:19+04:00",
        "mode": "immediate",
        "photo_id": "122138650034776189",
        "post_id": "994273113779575_122138650058776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "He Never Knew His Ex-Wife Had Their Son — Until She Walked Onto a Harvard Stage",
