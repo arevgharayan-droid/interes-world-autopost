@@ -5789,15 +5789,17 @@
       "648976361631351": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122194267580829482_1110954831567982",
        "error": null,
        "last_attempt": "2026-11-13T00:02:48+04:00",
        "mode": "immediate",
        "photo_id": "122194267556829482",
        "post_id": "648976361631351_122194267580829482",
-       "status": "published"
+       "status": "done"
       },
       "673710079162922": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-13T00:02:53+04:00",
        "mode": "immediate",
