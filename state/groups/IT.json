@@ -4285,12 +4285,13 @@
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122112923102437662_2979952752366546",
        "error": null,
        "last_attempt": "2026-11-12T14:35:31+04:00",
        "mode": "schedule",
        "photo_id": "122112923072437662",
        "post_id": "997772916762884_122112923102437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Il boss mafioso paralizzato si svegliò con la sua cameriera nel letto: quello che fece dopo lasciò tutti senza parole",
@@ -4329,7 +4330,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-it-1.jpg"
    },
    "source_key": "post:61594676105166_122115760053489203",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
