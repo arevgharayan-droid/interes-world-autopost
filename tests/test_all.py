@@ -601,6 +601,54 @@ class ReworkSlotTests(unittest.TestCase):
         self.assertEqual(State(st_path).slots["2030-05-01 09:00"]["status"], "done")
 
 
+class PublishNowTests(unittest.TestCase):
+    """«Опубликуй сейчас»: подготовленный выпуск выходит немедленно, его время освобождается для других ссылок."""
+
+    def test_publish_now_moves_release_and_frees_slot(self):
+        from autopost.cli import publish_now
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        tz = ZoneInfo(cfg.tz)
+        clock = {"now": datetime(2030, 5, 1, 7, 1, tzinfo=tz)}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        _queue_story(graph, cfg, tmp, "NL", 931, "Story A.")
+        st_path = tmp / "state/groups/NL.json"
+
+        def tick():
+            gcfg = group_view(cfg, "NL")
+            Pipeline(gcfg, State(st_path), graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+        tick()                                                        # готовит 09:00
+        pages = {p.page_id for p in cfg.pages if p.group == "NL"}
+        self.assertEqual(len(graph.posts), len(pages))
+        self.assertTrue(all(not p["published"] for p in graph.posts.values()))
+        clock["now"] = clock["now"].replace(minute=3)
+        res = publish_now(cfg, "NL", "2030-05-01 09:00", services=(graph, wp, FakeHTTP()), tokens=tokens,
+                          now=clock["now"])
+        self.assertIn("2030-05-01 07:03", res)
+        self.assertEqual(graph.posts, {})                             # отложенные на 09:00 удалены
+        self.assertTrue(all(p["status"] == "publish" for p in wp.posts.values()))
+        st = State(st_path)
+        self.assertNotIn("2030-05-01 09:00", st.slots)
+        _queue_story(graph, cfg, tmp, "NL", 932, "Story B.")         # другие ссылки — на 09:00
+        for mm in (4, 20, 40):
+            clock["now"] = clock["now"].replace(minute=mm)
+            tick()
+        live = [p for p in graph.posts.values() if p["published"]]
+        self.assertEqual(len(live), len(pages))                       # вышло сразу
+        self.assertTrue(all(len(graph.comments_by.get(pid, [])) == 1 for pid, p in graph.posts.items()
+                            if p["published"]))
+        st = State(st_path)
+        self.assertEqual(st.slots["2030-05-01 07:03"]["status"], "done")
+        nine = st.slots["2030-05-01 09:00"]
+        self.assertTrue(nine.get("prepared"))
+        self.assertNotEqual(nine["source_key"], st.slots["2030-05-01 07:03"]["source_key"])
+        sched = [p for p in graph.posts.values() if not p["published"]]
+        self.assertEqual(len(sched), len(pages))                      # новый выпуск 09:00 — в отложенных
+
+
 class LateLinkTests(unittest.TestCase):
     def test_link_sent_after_release_goes_to_next_release(self):
         """Выпуск 09:00 прошёл без истории; ссылка пришла в 09:45 — она идёт в 12:00, а не «догоняет» 09:00."""

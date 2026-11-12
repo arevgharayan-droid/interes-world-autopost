@@ -5,6 +5,7 @@ import argparse
 import copy
 import json
 import os
+import shutil
 import sys
 import tempfile
 from concurrent.futures import ThreadPoolExecutor
@@ -654,6 +655,15 @@ def cmd_ops(cfg, args) -> int:
             if (not only or g in only) and a.get("slot", "") in st.slots:
                 rc |= cmd_cancel_slot(config_mod.group_view(cfg, g), a.get("slot", ""), state=st)
         return rc
+    if cmd == "publish-now":
+        out = [f"## Опубликовать сейчас: выпуск {a.get('slot', '')}", ""]
+        for g, st in _group_states(cfg).items():
+            if a.get("groups") and g not in a["groups"]:
+                continue
+            if a.get("slot", "") in st.slots:
+                out.append(f"- {cfg.group_label(g)}: {publish_now(cfg, g, a.get('slot', ''))}")
+        summary("\n".join(out) + "\n", "previews/publish-now.md", cfg)
+        return 0
     if cmd == "rework-slot":
         out = ["## Переподготовка выпусков", ""]
         for g in a.get("groups") or []:
@@ -709,6 +719,84 @@ def cmd_repost(cfg, from_key: str, to_key: str) -> int:
         out.append(f"- {cfg.group_label(g)}: {repost_slot(cfg, st, g, from_key, to_key)}")
     summary("\n".join(out) + "\n", "previews/repost.md", cfg)
     return 0
+
+
+def publish_now(cfg, g: str, from_key: str, services=None, tokens=None, now=None) -> str:
+    """Подготовленный выпуск выходит сейчас, а не в своё время: отложенные посты Facebook этого выпуска
+    удаляются, тот же выпуск (тексты, статьи) ставится на текущую минуту и публикуется следующим запуском,
+    статьи на сайте открываются сразу. Слот from_key освобождается — в него можно поставить другие ссылки."""
+    st = State(config_mod.group_state_path(cfg, g))
+    old = st.slots.get(from_key)
+    if not old or not old.get("prepared"):
+        return "выпуск не подготовлен"
+    if old.get("status") in ("done", "done_with_errors", "missed", "cancelled"):
+        return f"выпуск уже закрыт ({old.get('status')})"
+    tz = ZoneInfo(cfg.tz)
+    now = (now or datetime.now(tz)).astimezone(tz)
+    dt_old = datetime.fromisoformat(old["slot_iso"]).astimezone(tz)
+    if dt_old <= now + timedelta(minutes=5):
+        return "до выхода меньше 5 минут — пусть выходит как есть"
+    dt_new = now.replace(second=0, microsecond=0)
+    while Pipeline.key(dt_new) in st.slots:
+        dt_new -= timedelta(minutes=1)
+    to_key = Pipeline.key(dt_new)
+    gcfg = config_mod.group_view(cfg, g)
+    if services is None:
+        services = real_services(gcfg)
+        if old.get("wp_site"):
+            services = (services[0], real_wp(old["wp_site"]), services[2])
+    graph, wp, _http = services
+    tokens = tokens or load_tokens(cfg)
+    ts = int(dt_old.timestamp())
+    removed, errors = 0, []
+    for lang, L in (old.get("langs") or {}).items():
+        try:
+            txt = json.loads(cfg.path(f"content/{dt_old:%Y-%m-%d}/{g}/{dt_old:%H%M}-{lang}.json")
+                             .read_text(encoding="utf-8"))["fb_text"]
+        except (OSError, KeyError, ValueError):
+            txt = ""
+        for pid, e in (L.get("pages") or {}).items():
+            if e.get("status") not in ("scheduled", "sending"):
+                continue
+            tok = tokens.get(pid)
+            if not tok:
+                continue
+            try:
+                gone = False
+                for sp in graph.scheduled_posts(pid, tok):
+                    if int(sp.get("scheduled_publish_time") or 0) == ts and (
+                            not txt or (sp.get("message") or "")[:60] == txt[:60]):
+                        graph.delete(sp["id"], tok)
+                        gone = True
+                if not gone and e.get("post_id"):
+                    graph.delete(e["post_id"], tok)
+                    gone = True
+                removed += gone
+            except FacebookError as err:
+                errors.append(f"{cfg.page(pid).name if cfg.page(pid) else pid}: {err.short()}")
+    new = copy.deepcopy(old)
+    new.update({"slot_iso": dt_new.isoformat(), "status": "prepared", "prepared": True, "adhoc": True,
+                "moved_from": from_key})
+    for lang, L in (new.get("langs") or {}).items():
+        if L.get("generated"):
+            L["pages"] = {}
+            src = cfg.path(f"content/{dt_old:%Y-%m-%d}/{g}/{dt_old:%H%M}-{lang}.json")
+            dst = cfg.path(f"content/{dt_new:%Y-%m-%d}/{g}/{dt_new:%H%M}-{lang}.json")
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            if src.exists():
+                shutil.move(src, dst)   # перенос, а не копия: иначе старый слот «восстановит» историю из файла
+            if L.get("wp_id"):
+                try:
+                    wp.update_post(L["wp_id"], status="publish",
+                                   date_gmt=dt_new.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S"))
+                    L["wp_live"] = True
+                except WordPressError as err:
+                    errors.append(f"статья {lang} ({L['wp_id']}): {err}")
+    st.slots[to_key] = new
+    del st.slots[from_key]
+    st.save()
+    return (f"→ {to_key}: удалено отложенных постов {removed}"
+            + (f"; ошибки: {'; '.join(errors[:4])}" if errors else "") + " — публикуется следующим запуском")
 
 
 def cmd_site_check(cfg, url: str) -> int:

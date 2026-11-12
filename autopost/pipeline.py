@@ -189,7 +189,11 @@ class Pipeline:
         self.state.save()
         enabled_since = datetime.fromisoformat(st["enabled_since"]) if st.get("enabled_since") else None
         days = [(now - timedelta(days=1)).date(), now.date(), (now + timedelta(days=1)).date()]
-        dts = sorted({self.slot_dt(d, s) for d in days for s in self.cfg.slots})
+        dts = {self.slot_dt(d, s) for d in days for s in self.cfg.slots}
+        # внеочередные выпуски («опубликовать сейчас») — в своё время, вне сетки расписания
+        dts |= {datetime.fromisoformat(x["slot_iso"]) for x in self.state.slots.values()
+                if x.get("adhoc") and x.get("slot_iso") and x.get("status") not in FINAL_SLOT}
+        dts = sorted(dts)
         for dt in dts:
             key = self.key(dt)
             existing = self.state.slots.get(key)
