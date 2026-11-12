@@ -214,6 +214,12 @@ class FakeWP:
         self._maybe_fail("find_by_slug")
         return [dict(p) for p in self.posts.values() if p.get("slug") == slug]
 
+    def update_media(self, media_id, **fields):
+        if "slug" in fields:
+            ext = self.media[media_id].rsplit(".", 1)[-1]
+            self.media[media_id] = f"{fields['slug']}.{ext}"
+        return {"id": media_id}
+
     def find_media_by_slug(self, slug):
         return [{"id": mid, "source_url": f"https://interes-world.com/wp-content/uploads/{fn}"}
                 for mid, fn in self.media.items() if fn.rsplit(".", 1)[0] == slug]

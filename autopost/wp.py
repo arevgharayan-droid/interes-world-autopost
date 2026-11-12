@@ -110,6 +110,9 @@ class WordPress:
     def delete_post(self, post_id, force=True) -> dict:
         return self._req("DELETE", f"posts/{post_id}", params={"force": "true" if force else "false"})
 
+    def update_media(self, media_id, **fields) -> dict:
+        return self._req("POST", f"media/{media_id}", json=fields)
+
     def delete_media(self, media_id) -> dict:
         return self._req("DELETE", f"media/{media_id}", params={"force": "true"})
 

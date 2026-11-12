@@ -647,6 +647,11 @@ class PublishNowTests(unittest.TestCase):
         self.assertNotEqual(nine["source_key"], st.slots["2030-05-01 07:03"]["source_key"])
         sched = [p for p in graph.posts.values() if not p["published"]]
         self.assertEqual(len(sched), len(pages))                      # новый выпуск 09:00 — в отложенных
+        moved = st.slots["2030-05-01 07:03"]
+        for lg, L in nine["langs"].items():                           # у нового выпуска — свои статьи и фото
+            if L.get("generated"):
+                self.assertNotEqual(L["wp_id"], moved["langs"][lg]["wp_id"])
+        self.assertNotEqual(nine["source"]["wp_media_id"], moved["source"]["wp_media_id"])
 
 
 class LateLinkTests(unittest.TestCase):

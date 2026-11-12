@@ -657,6 +657,15 @@ def cmd_ops(cfg, args) -> int:
         return rc
     if cmd == "scheduled":
         return cmd_scheduled(cfg)
+    if cmd == "redo-slot":
+        out = [f"## Заново подготовить выпуск {a.get('slot', '')}", ""]
+        for g, st in _group_states(cfg).items():
+            if a.get("groups") and g not in a["groups"]:
+                continue
+            if a.get("slot", "") in st.slots:
+                out.append(f"- {cfg.group_label(g)}: {redo_slot(cfg, g, a.get('slot', ''))}")
+        summary("\n".join(out) + "\n", "previews/redo.md", cfg)
+        return 0
     if cmd == "publish-now":
         out = [f"## Опубликовать сейчас: выпуск {a.get('slot', '')}", ""]
         for g, st in _group_states(cfg).items():
@@ -752,6 +761,95 @@ def cmd_scheduled(cfg) -> int:
     return 0
 
 
+def _rename_slot_slugs(cfg, g, s, dt, wp) -> list:
+    """Статьи и фото перенесённого выпуска получают адрес по новому времени — иначе выпуск, который потом
+    займёт прежнее время, найдёт их по адресу и возьмёт чужие статью и фото."""
+    gcfg = config_mod.group_view(cfg, g)
+    multi = len({p.lang for p in gcfg.pages}) > 1
+    errors = []
+    for lang, L in (s.get("langs") or {}).items():
+        if L.get("wp_id"):
+            slug = f"iw-{dt:%Y%m%d-%H%M}-{g.lower()}" + (f"-{lang.lower()}" if multi else "")
+            try:
+                wp.update_post(L["wp_id"], slug=slug)
+            except WordPressError as err:
+                errors.append(f"адрес статьи {lang}: {err}")
+    src = s.get("source") or {}
+    if src.get("wp_media_id"):
+        try:
+            wp.update_media(src["wp_media_id"], slug=f"interes-{dt:%Y%m%d-%H%M}-{g.lower()}")
+        except WordPressError as err:
+            errors.append(f"адрес фото: {err}")
+    return errors
+
+
+def redo_slot(cfg, g: str, key: str, services=None, tokens=None) -> str:
+    """Выпуск ошибочно взял фото и статьи другого выпуска (тот же адрес на сайте): отложенные посты удаляются,
+    у перенесённого выпуска адреса меняются, этот выпуск заново получает своё фото, статьи и посты (тексты те же)."""
+    st = State(config_mod.group_state_path(cfg, g))
+    s = st.slots.get(key)
+    if not s or not s.get("prepared"):
+        return "выпуск не подготовлен"
+    tz = ZoneInfo(cfg.tz)
+    dt = datetime.fromisoformat(s["slot_iso"]).astimezone(tz)
+    gcfg = config_mod.group_view(cfg, g)
+    if services is None:
+        services = real_services(gcfg)
+        if s.get("wp_site"):
+            services = (services[0], real_wp(s["wp_site"]), services[2])
+    graph, wp, _http = services
+    tokens = tokens or load_tokens(cfg)
+    errors = []
+    for k2, s2 in st.slots.items():          # освобождаем адреса: выпуск, перенесённый из этого времени
+        if s2.get("moved_from") == key:
+            errors += _rename_slot_slugs(cfg, g, s2, datetime.fromisoformat(s2["slot_iso"]).astimezone(tz), wp)
+    removed, errs = _delete_slot_posts(cfg, g, s, dt, graph, tokens)
+    errors += errs
+    for L in (s.get("langs") or {}).values():
+        if L.get("generated"):
+            L["pages"] = {}
+            for k in ("wp_id", "wp_live", "wp_error"):
+                L.pop(k, None)
+    for k in ("wp_media_id", "wp_media_url"):
+        (s.get("source") or {}).pop(k, None)
+    s["prepared"] = False
+    s["status"] = "preparing"
+    st.save()
+    return (f"удалено отложенных постов {removed}" + (f"; ошибки: {'; '.join(errors[:4])}" if errors else "")
+            + " — следующий запуск подготовит заново (фото, статьи, посты)")
+
+
+def _delete_slot_posts(cfg, g, s, dt, graph, tokens) -> tuple:
+    ts = int(dt.timestamp())
+    removed, errors = 0, []
+    for lang, L in (s.get("langs") or {}).items():
+        try:
+            txt = json.loads(cfg.path(f"content/{dt:%Y-%m-%d}/{g}/{dt:%H%M}-{lang}.json")
+                             .read_text(encoding="utf-8"))["fb_text"]
+        except (OSError, KeyError, ValueError):
+            txt = ""
+        for pid, e in (L.get("pages") or {}).items():
+            if e.get("status") not in ("scheduled", "sending"):
+                continue
+            tok = tokens.get(pid)
+            if not tok:
+                continue
+            try:
+                gone = False
+                for sp in graph.scheduled_posts(pid, tok):
+                    if int(sp.get("scheduled_publish_time") or 0) == ts and (
+                            not txt or (sp.get("message") or "")[:60] == txt[:60]):
+                        graph.delete(sp["id"], tok)
+                        gone = True
+                if not gone and e.get("post_id"):
+                    graph.delete(e["post_id"], tok)
+                    gone = True
+                removed += gone
+            except FacebookError as err:
+                errors.append(f"{cfg.page(pid).name if cfg.page(pid) else pid}: {err.short()}")
+    return removed, errors
+
+
 def publish_now(cfg, g: str, from_key: str, services=None, tokens=None, now=None) -> str:
     """Подготовленный выпуск выходит сейчас, а не в своё время: отложенные посты Facebook этого выпуска
     удаляются, тот же выпуск (тексты, статьи) ставится на текущую минуту и публикуется следующим запуском,
@@ -823,6 +921,7 @@ def publish_now(cfg, g: str, from_key: str, services=None, tokens=None, now=None
                     L["wp_live"] = True
                 except WordPressError as err:
                     errors.append(f"статья {lang} ({L['wp_id']}): {err}")
+    errors += _rename_slot_slugs(cfg, g, new, dt_new, wp)
     st.slots[to_key] = new
     del st.slots[from_key]
     st.save()
