@@ -3535,12 +3535,13 @@
       "1448441201677530": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122119311477505599_1652453872997310",
        "error": null,
        "last_attempt": "2026-11-12T14:35:50+04:00",
        "mode": "schedule",
        "photo_id": "122119311447505599",
        "post_id": "1448441201677530_122119311477505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Minha irmã me humilhou diante de 400 convidados no seu gala, até o homem mais esperado da noite passar direto por ela e me perguntar: \"Querida, você está pronta para ir embora?",
@@ -3650,7 +3651,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261112-1500-ru-1.jpg"
    },
    "source_key": "post:61595659383273_122109822993521979",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
