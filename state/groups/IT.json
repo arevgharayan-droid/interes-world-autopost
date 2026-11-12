@@ -18,6 +18,7 @@
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "bb0ddf4fdb82f7b2d023": "2026-11-10T22:04:53+00:00",
   "c3a669114cbd1e96b360": "2026-11-12T10:26:53+00:00",
+  "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
   "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00",
   "f472d77cd9283f9c86cc": "2026-11-10T22:06:07+00:00",
   "f5c0e175c68a336e3e47": "2026-11-09T20:09:08+00:00",
@@ -4188,9 +4189,66 @@
    "status": "missed"
   },
   "2026-11-13 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Dopo dieci anni in una roulotte per 18.000 dollari l'anno, ci siamo licenziati: la mattina dopo mio suocero ha fatto una sola domanda al nostro nuovo capo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 254,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/903439178_1669678634535551_7387078380230654889_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dT_vM5Z9wjAQ7kNvwEhYO35&_nc_oc=Ado-XtoAd-Eh52xeLQW3e_G6dLv4K6x_WUsKW1fmz2fkYYkOc8TtG_i-1J2QMu7ooVY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=O94L7aJRIfaegB06b4faVw&_nc_tpa=Q5bMBQLuAQP5Vo4UzSfXZ3PIJgrfcgvBvLApu-jDNalTDYNefIKILPz3L_K1o16rdwnpyPhYlY4Ds-rESg&oh=00_AQRvMC6bbZBoQSWp2AExuYfo30mKgJCpwHICYdq4onTqzg&oe=6AFBCCF3",
+    "link": "https://www.facebook.com/share/p/1ESjvTbjpz/",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "For ten years, my husband and I worked on his parents' 1,200-acre farm, receiving only $18,000 a year while living in a trailer next to the equipment shed. When we requested a modest raise, his father claimed there wasn't enough money. Yet three months later, he spent $60,000 on his daughter's wedding. So once the fall harvest was complete, we resigned and accepted positions with the farmer across the road. The next morning, my father-in-law came over and asked our new employer a single question.\n\nVern stood near the grain bin while we loaded our pickup.\n\nHe didn't say anything.\n\nNate lifted another cardboard box into the truck, avoiding his father's gaze.\n\nI brought another box down the steps of our single-wide trailer.\n\nThat trailer had been our home for ten years.\n\nTogether, we made $1,500 every month.\n\nNot once during that entire decade had our pay increased.\n\nI knew exactly what the numbers were because I managed the farm's financial records.\n\nWe'd never signed an official employment contract.\n\nOur arrangement was simply a family agreement made with a handshake.\n\nNeither of us wanted to sue Nate's parents.\n\nBut we were finally ready to stop living under those terms.\n\nIn March, I'd approached Vern about increasing our monthly pay by $500.\n\nThe furnace in our trailer had stopped working twice that winter.\n\n\"Can't afford it this year, Holly,\" he'd answered.\n\nThen June came.\n\nFourteen thousand bushels of corn were sold from the storage bins.\n\nThat money paid for Tiffany's wedding.\n\nSixty thousand dollars in total.\n\nI was the person who processed every payment.\n\nThe wedding tent.\n\nThe band of musicians.\n\nThe decorative lighting suspended from the barn rafters.\n\nVern signed each check without even reviewing it.\n\nHe had complete confidence in the bookkeeping I handled.\n\nAnd somehow, that made the disappointment even more painful.\n\nAt the reception, Judy came over to me beside the dessert table.\n\n\"Tiffany only gets one wedding,\" she explained.\n\nVern offered Nate a similar justification.\n\n\"Your mother had every right to spend that money.\"\n\nNate didn't argue with him.\n\nInstead, he waited patiently.\n\nHe wasn't willing to leave his father without help in the middle of harvest season.\n\nSo we kept working the entire 1,200 acres.\n\nI drove the grain cart beside Nate until we'd completed the last eighty acres.\n\nIt was a Thursday in October.\n\nAfter supper, Nate laid a piece of paper on his parents' kitchen table.\n\nI'd prepared our written resignation.\n\nBoth of us had signed it at the bottom.\n\n\"Paul Engstrom offered us positions on his farm,\" Nate explained. \"We've accepted.\"\n\nJudy raised her hand over her mouth.\n\nVern went through the letter twice.\n\n\"My father didn't pay me anything until I turned forty,\" he said.\n\nNate looked directly at him.\n\n\"I understand, Dad. But I'm not going to wait until I'm forty.\"\n\nVern folded the letter and tucked it into his shirt pocket.\n\nThen he went outside toward the workshop.\n\nWe remained for one additional week to leave everything in proper order.\n\nWe cleaned the combine and applied fresh grease.\n\nWe leveled the grain still stored inside the bins.\n\nI balanced ten years' worth of financial records to the final penny and left the books for Vern.\n\nPaul came by and personally informed Vern that he'd employed us.\n\nThe two farmers exchanged a handshake.\n\nEventually, our last evening arrived.\n\nWith the daylight fading, we placed our remaining possessions in the truck.\n\nVern appeared beside the grain bin and watched us without speaking.\n\nI turned toward Nate.\n\n\"Would you like to speak with your dad?\"\n\n\"Not tonight,\" he answered. \"I'd rather finish loading.\"\n\nHe shut the tailgate.\n\nThat night, we stayed on the other side of the road.\n\nPaul had already switched on the heating in our new home.\n\nBy six the next morning, Nate's pickup was outside Paul's workshop.\n\nAt 6:45, I noticed Vern making his way across the road.\n\nNate went outside and waited, his body tense.\n\nBut his father walked right past him.\n\nInstead, Vern headed directly toward Paul.\n\nPaul placed his coffee cup on the pickup's tailgate.\n\nVern took off his feed cap and held it in both hands.\n\nThen he faced our new boss.\n\n\"Paul,\" he began, \"how much are you paying my son?\"\n\n…PART 2 👇👇👇",
+    "wp_media_id": 250,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-it.jpg"
+   },
+   "source_key": "post:100044802900629_1669678661202215",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-13 12:00": {
    "langs": {},
@@ -4271,6 +4329,10 @@
    "link": "https://www.facebook.com/share/p/1Cx3LZwxDc/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1658995595597061&id=100044599086455"
   },
+  "link:e4d807f47eafa537fa82": {
+   "link": "https://www.facebook.com/share/p/1ESjvTbjpz/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1669678661202215&id=100044802900629"
+  },
   "link:eb3792799b947b043f6d": {
    "link": "https://www.facebook.com/share/p/1VtoptvDFM/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122108569407501033&id=61595030999436"
@@ -4325,6 +4387,14 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-11 00:00",
+   "status": "used"
+  },
+  "post:100044802900629_1669678661202215": {
+   "fingerprint": "982a6eaf5ed057e90d86",
+   "link": "https://www.facebook.com/share/p/1ESjvTbjpz/",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-13 00:00",
    "status": "used"
   },
   "post:100045261260562_1698682471650445": {

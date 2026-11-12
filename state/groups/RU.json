@@ -3576,7 +3576,23 @@
   "2026-11-13 00:00": {
    "langs": {},
    "slot_iso": "2026-11-13T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/903470931_1713109686874390_845311200057586299_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lxwxMIp9CxoQ7kNvwEv_Mcf&_nc_oc=AdrpXzpokNQWUotVHRbiVkU1uoWwsjIhAiftHHKADXH0zE5HJ9CO3gOtcjr23ZPl0nI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=297dcxTqrbV88dr-MtZBCw&_nc_tpa=Q5bMBQIDFZBZcupM3JfoclGvBwk_CrPWKhm92suW66kfMDf5_6fe8ra2hC_NyLgyDl-keAFMpbTPSrZWtQ&oh=00_AQQxBJDmFjlO9XfL9F1O8TOnmzHst1-4fQSC0cl-xfN6hQ&oe=6AFBBAC4",
+    "link": "https://www.facebook.com/share/p/19wfvQSe4Q/",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "\"In 1995, He Abandoned His Wife and Five Black Newborns—30 Years Later, a Hidden Family Secret Left Everyone Speechless.\n\nThe cries of five newborn babies echoed through the maternity ward. Their exhausted mother looked down at her quintuplets, overwhelmed with love and relief.\n\nBut her happiness disappeared the moment her husband approached their bassinets.\n\nHe stared at the babies in disbelief.\n\n“They're... Black,” he whispered, his expression turning cold.\n\nShe looked up at him, confused and exhausted.\n\n“Yes, Richard. They're our babies. All five of them are yours.”\n\nBut he refused to believe her.\n\n“No! You've been unfaithful to me!” he shouted, stepping away from the bassinets.\n\nShe begged him to listen, explaining that a child's appearance alone couldn't determine biological parentage.\n\nHe wouldn't hear another word.\n\nInstead, he turned toward the door and walked away, leaving his wife alone with five newborn children.\n\nFor Richard, his wealthy family's reputation mattered more than trusting the woman he'd promised to love.\n\nThat evening, as she gently rocked her babies, she whispered through her tears:\n\n“Whatever happens, I promise you'll never have to face this world alone. I'll always be here for you.”\n\nThe following years were filled with hardship.\n\nNeighbors spread rumors. Strangers stared. Several landlords refused to rent to a single mother raising five children.\n\nBut Emily refused to give up.\n\nShe cleaned offices late into the night, repaired clothes for extra income, and sacrificed nearly every personal comfort to keep her children fed, clothed, and safe.\n\nSome nights, she barely slept.\n\nOther days, she wondered how she would afford their next meal.\n\nYet she never allowed her children to believe they were unwanted.\n\nShe filled their modest home with encouragement, laughter, and unconditional love.\n\nThe years passed, and the five children grew into remarkable adults.\n\nBut thirty years after Richard abandoned them, an unexpected discovery brought their painful past back to life.\n\nHidden medical documents, a long-concealed family history, and a multimillion-dollar inheritance were about to reveal why Richard's mother had been so determined to keep those five babies out of the family.\n\nAnd when the truth finally emerged, Richard discovered that the children he'd rejected were the very people who could expose his family's darkest secret.\n\nTHE REST OF THE STORY CONTINUES IN THE FIRST COMMENT. 👇\"",
+    "wp_media_id": 161,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-0000-ru.jpg"
+   },
+   "source_key": "post:100045261260562_1713109740207718",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-13 12:00": {
    "langs": {},
@@ -3669,6 +3685,10 @@
    "link": "https://www.facebook.com/share/p/1CGgzVSe9K/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1663568758479872&id=100044802900629"
   },
+  "link:e5c4cbd895cfb7c99abf": {
+   "link": "https://www.facebook.com/share/p/19wfvQSe4Q/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1713109740207718&id=100045261260562"
+  },
   "link:ee122dad3e212553b07d": {
    "link": "https://www.facebook.com/share/p/1WCxvo95CW/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1660558355447579&id=100044802900629"
@@ -3720,6 +3740,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-11 12:00",
    "status": "used"
+  },
+  "post:100045261260562_1713109740207718": {
+   "fingerprint": "08f0ffa840e29aca0c4b",
+   "link": "https://www.facebook.com/share/p/19wfvQSe4Q/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-13 00:00",
+   "status": "reserved"
   },
   "post:100064456312444_1605697694922092": {
    "fingerprint": "7aa9a9d1f00ac27915f6",
