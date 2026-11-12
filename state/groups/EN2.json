@@ -7,6 +7,7 @@
   "3015169f17e68b6fd1bf": "2026-11-09T13:24:29+00:00",
   "35f4dc18fe1b6e9d863f": "2026-11-09T20:07:49+00:00",
   "405a9e8158205d645adc": "2026-11-09T20:00:27+00:00",
+  "457a0c3996dd22980ee2": "2026-11-12T17:47:23+00:00",
   "53b05b31b74f795cfe89": "2026-11-10T22:07:12+00:00",
   "54f4ed5345b19326f5b3": "2026-11-09T20:02:52+00:00",
   "5c4acd980a05247257c2": "2026-11-12T09:03:52+00:00",
@@ -5407,7 +5408,48 @@
    "status": "missed"
   },
   "2026-11-13 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Husband's Aunt Was Loading Our Entire Wedding Supper Into Her Tahoe, Then My Husband Walked Up and Said Something That Stopped Me Cold",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 255,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/902249569_1669670154536399_3787602123956904465_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=P8Z1rbtPXXMQ7kNvwF8H7Hj&_nc_oc=Ado0ZrD5IW-RwDgiSkyM0cl9yfz9JTn2K4OhSGRXS8LGh7HTQ8Xm7W1K-fNi6yKUITE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=O6pro6AIy7Y4r1CBiIIX0A&_nc_tpa=Q5bMBQIGEfjXhg9yn3Jeiv5VHqU4LFJCf4vE4rYj4NUl1b_44X8clkJ9SshcLGWUOp6Z7cpRruf7MZjR8Q&oh=00_AQRnUdj9exzRQQuRuBXnFL4RzHrWdon2-74I6qRO9uvqiQ&oe=6AFBDF34",
@@ -5419,7 +5461,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-en2.jpg"
    },
    "source_key": "post:100044802900629_1669670201203061",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5556,7 +5598,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-13 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699156498269709": {
    "fingerprint": "cffc519128617c7dc49f",
