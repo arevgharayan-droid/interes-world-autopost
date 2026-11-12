@@ -5571,7 +5571,15 @@
   "2026-11-13 00:00": {
    "langs": {},
    "slot_iso": "2026-11-13T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/898710979_122130930020893096_8353686739619633245_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tQ7gCkOJ2uQQ7kNvwE6myHA&_nc_oc=AdqaTyxz7Qy0h9lF1AhOVLbtZ4ZK3mtKtzVfdblOyQyXprcbhI9fbHBzbeinMhrCjKI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=lyA9DQ8qBuYJEnbgR8aluw&_nc_tpa=Q5bMBQIMhhoNV8oveEG2vTBtqnHt42SeCg0UrcxzNUPLvazEFxnFM3u6c5oq8EMXo-DK2RLQwgill7jdPw&oh=00_AQR01mZiVdVCqOziubLxYdmaiITqMcyUN4aZ3Zq7udsKdg&oe=6AFBE551",
+    "link": "https://www.facebook.com/share/p/1GviBTFyur/",
+    "origin": "manual",
+    "page_id": "61576792898556",
+    "text": "My husband cooked dinner, and right after my son and I ate, we collapsed Pretending to be unconscious, I heard him on the phone saying, \"It's done... soon they will both be gone.\"\nAfter he left the room, I whispered to my son, \"Don't move yet...\"\nWhat happened next went far beyond anything I could have ever imagined...\n\nI kept my cheek pressed against the cold kitchen tile and forced my breathing to stay slow.\n\nA few feet away, my son Noah lay beside his chair, one arm twisted beneath him. I watched the faint rise and fall of his ribs and counted three breaths before I dared look toward the hallway where Daniel had disappeared.\n\nHis voice drifted from the den.\n\nI missed several words, but then I heard him clearly.\n\n\"They won't be a problem after tonight.\"\n\nFootsteps came back toward the kitchen.\n\nI shut my eyes.\n\nDaniel stopped beside me. Every muscle in my body wanted to tighten when his fingers closed around my wrist, but I stayed limp as he checked my pulse and lowered my hand carefully back to the floor.\n\nThen he crossed to Noah.\n\nI heard him touch my son's shoulder.\n\n\"This will be easier for everybody,\" he said softly.\n\nThat almost broke me.\n\nBut I didn't move.\n\nDaniel picked something up from the table and walked away. A moment later, the door to the garage shut.\n\nI opened my eyes.\n\nNoah's were already open.\n\nI raised one finger to my lips.\n\n\"Phones,\" he whispered.\n\nMine was gone. So was his.\n\nThen I noticed my blue dinner plate still sitting on the table with several bites untouched.\n\nI didn't know what Daniel had put in our food, or whether the plate could prove anything. I only knew I wasn't leaving it entirely in his control.\n\nI pulled open the freezer drawer, grabbed a clean freezer bag, and scraped some of the untouched food inside. Noah held the drawer steady while I sealed the bag and hid it behind a half-empty package of frozen peas.\n\nThen I put the blue plate back exactly where Daniel had left it.\n\nAlmost exactly.\n\nMy hands were shaking so badly that I couldn't tell whether I'd moved it an inch or two.\n\nWe still needed help.\n\nThen I remembered the corded phone Daniel had complained about for years.\n\nIt was hidden in the narrow cabinet beside the pantry, behind a stack of old takeout menus.\n\nI picked it up.\n\nThere was a dial tone.\n\nI called 911.\n\nI gave the dispatcher our address first. Then I told her my son and I had both collapsed after eating the same dinner and that my husband had spoken as though he expected us never to wake up.\n\nShe asked where Daniel was.\n\n\"I think he's outside,\" I whispered. \"But I don't know if he actually left.\"\n\nNoah crawled to the window and lifted one corner of the blind.\n\nHe looked back at me and shook his head.\n\nNo car leaving. No sign of Daniel.\n\nThe dispatcher told me help was coming.\n\nNoah wanted to run for the back door immediately, but I stopped him.\n\nFirst I opened the freezer again, took out the sealed bag of food, and tucked it inside the waistband of my sweatpants beneath my shirt.\n\nThen I helped Noah stand.\n\nHis knees buckled once, and I caught him against the refrigerator until he could support himself.\n\nWe crossed the kitchen slowly, Noah gripping my wrist while I kept one hand against the counter.\n\nI unlocked the back door.\n\nHeadlights suddenly swept across the blinds.\n\nI slammed the deadbolt back into place and pulled Noah away from the window.\n\n\"Floor,\" I whispered.\n\nHe understood immediately.\n\nNoah dropped beside his chair. I lowered myself onto the tile and helped arrange his arm close to the position it had been in before.\n\nThen I flattened my palm beside my face and shut my eyes.\n\nA car door closed outside.\n\nKeys scraped against the lock.\n\nNoah stopped moving.\n\nSo did I.\n\nThe back door opened.\n\nDaniel stepped into the kitchen.\n\n──────────────────────\nType PLATE and I'll continue.\n(I know you're curious about the next part, so please be patient and read on in the comments below.)"
+   },
+   "source_key": "post:61576792898556_122130930068893096",
+   "status": "preparing"
   },
   "2026-11-13 12:00": {
    "langs": {},
@@ -5779,6 +5787,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-10 21:00",
    "status": "used"
+  },
+  "post:61576792898556_122130930068893096": {
+   "fingerprint": "f5487de6522e9d13e57a",
+   "link": "https://www.facebook.com/share/p/1GviBTFyur/",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-13 00:00",
+   "status": "reserved"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",

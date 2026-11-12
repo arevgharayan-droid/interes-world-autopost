@@ -3773,7 +3773,15 @@
   "2026-11-13 00:00": {
    "langs": {},
    "slot_iso": "2026-11-13T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/893314343_122130758798893096_8174679336900274044_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=V4yc2eQJWaQQ7kNvwENB3Pz&_nc_oc=AdpwLLGckR2uJ_sOOP7AuwTYKlNsXyV-wXkJFY2aT1llop21UAhrpzo56e-d5avhLj0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=E659lMEXD5yHoV-4DminFA&_nc_tpa=Q5bMBQKfkspV2lBwhpi-lTDKM0y0Ca8mm3DwLl4kcN5yNbT2eDt-pLBrupGuo_moLFc8gt5uClUObWrPCA&oh=00_AQRO6F2Kq-8kdTIvkAj_QP9pEToRVOMp0kJIPW5lOy33mg&oe=6AFBE15A",
+    "link": "https://www.facebook.com/share/p/19khzY3N2d/",
+    "origin": "manual",
+    "page_id": "61576792898556",
+    "text": "At six years old, I promised my best friend we would go to prom together. Twelve years later, on the night we were finally supposed to keep that promise, Mom locked my bedroom door and told me I could only go with him under **one condition**.\n\nThen she revealed a secret that changed the way I saw our entire friendship.,,\n\nNoah and I became best friends in first grade for two very important reasons: we both hated raisins, and we both loved dinosaurs.\n\nNoah had Down syndrome, but that was never the thing I thought about when I looked at him.\n\nTo me, he was the kid who could remember baseball statistics from years earlier, argued about dinosaurs as if his life depended on it, and brutally criticized my drawings.\n\nOne day, he studied one of my pictures for several seconds before announcing,\n\n“It looks like a potato with arms.”\n\nI was furious.\n\nHe laughed until he nearly fell out of his chair.\n\nThat was Noah.\n\nOne afternoon, our teacher told the class she was getting married.\n\nEveryone immediately started talking about weddings, dresses, music and cake.\n\nNoah proudly announced that his future wedding would have chocolate cake and absolutely no “slow boring songs.”\n\nA boy sitting across from us laughed.\n\n“Who would marry you? Nobody.”\n\nThe room suddenly felt different.\n\nI didn’t fully understand why the comment was so cruel, but I saw Noah’s smile disappear.\n\n“That’s stupid,” I snapped. “Someone will love Noah.”\n\nNoah turned toward me.\n\n“Would you?”\n\nAt six, I didn’t understand the weight of the question.\n\nSo I shrugged.\n\n“Maybe. But first we have to go to prom.”\n\nHis forehead wrinkled.\n\n“What’s prom?”\n\n“It’s a big dance when we’re almost grown up.”\n\nNoah immediately held out his pinkie.\n\n“Promise?”\n\nI hooked mine around his.\n\n“Promise.”\n\nI forgot about the conversation not long afterward.\n\nNoah remembered every word.\n\nOver the next twelve years, our friendship survived almost everything childhood could throw at us.\n\nDifferent classes.\n\nDifferent interests.\n\nAwkward teenage years.\n\nMy parents’ divorce.\n\nHis endless attempts to make me understand baseball.\n\nMy complete failure to make him appreciate art.\n\nAnd eventually, my first heartbreak.\n\nThe night my first boyfriend dumped me, Noah arrived at my house carrying two containers of ice cream.\n\nHe handed one to me and smiled.\n\n“I told you that guy was an idiot.”\n\nI laughed even though I had been crying five minutes earlier.\n\nThat was what Noah did.\n\nHe never had the perfect speech.\n\nHe never tried to solve my problems.\n\nHe simply stayed until things hurt less.\n\nSo when senior prom finally came around, going with Noah didn’t feel like honoring some childish promise out of sympathy.\n\nHe was my best friend.\n\nThere was genuinely nobody else I wanted beside me.\n\nThat evening, Noah arrived wearing a dark suit and a bow tie he had apparently chosen months earlier.\n\nHe stood on our front porch holding my corsage and smiling like he had just won the World Series.\n\nMom answered the door.\n\nThe moment she saw him, her expression changed.\n\nHer smile disappeared.\n\nFor several seconds, she simply stared at Noah.\n\nThen she forced herself to smile again.\n\n“Christina’s almost ready.”\n\nShe turned and hurried upstairs.\n\nI was standing in front of my mirror putting on my earrings when Mom entered my bedroom.\n\nBefore I could ask what was wrong, she shut the door.\n\nThen she locked it.\n\nI stared at her reflection in the mirror.\n\n“Mom?”\n\nShe turned toward me.\n\n“You can still go to prom with Noah tonight.”\n\nI laughed nervously.\n\n“Okay…”\n\n“But only under one condition.”\n\nI assumed she was about to give me the usual parent speech.\n\n“No drinking? Home by midnight?”\n\n“No.”\n\nHer hands were trembling.\n\nMy smile faded.\n\n“Then what?”\n\nMom walked over and sat on the edge of my bed.\n\n“You have to hear something first.”\n\n“Hear what?”\n\n“The truth.”\n\nMy stomach tightened.\n\n“What truth?”\n\nShe reached for both of my hands.\n\n“Something about Noah.”\n\nShe paused.\n\n“And something about me.”\n\nI stared at her.\n\nHer eyes suddenly filled with tears.\n\n“Mom, what happened?”\n\nFor several seconds, she couldn’t answer.\n\nThen she took a shaky breath.\n\n“There’s something I should have told you years ago.”\n\nMy heart began pounding.\n\nDownstairs, I could faintly hear Noah laughing with my aunt, completely unaware of what was happening above him.\n\nMom squeezed my hands tighter.\n\nThen she began to confess what had really happened during the darkest year of my childhood—and why Noah had made her a promise I had never known about.\n\nBy the time she finished the first sentence, the blood drained from my face. Full story in 1st comment 👇"
+   },
+   "source_key": "post:61576792898556_122130758852893096",
+   "status": "preparing"
   },
   "2026-11-13 12:00": {
    "langs": {},
@@ -3989,6 +3997,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-10 21:00",
    "status": "used"
+  },
+  "post:61576792898556_122130758852893096": {
+   "fingerprint": "70b2b5adc4ce4ff4c245",
+   "link": "https://www.facebook.com/share/p/19khzY3N2d/",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-13 00:00",
+   "status": "reserved"
   },
   "post:61586321290305_122143810737210709": {
    "fingerprint": "5b16116dc7df14500fc7",

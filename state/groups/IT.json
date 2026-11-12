@@ -4392,7 +4392,15 @@
   "2026-11-13 00:00": {
    "langs": {},
    "slot_iso": "2026-11-13T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/892134299_122130803252893096_3136072222672117577_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=J93-LarMET0Q7kNvwEvHfll&_nc_oc=Adq8oeyVdShQsWZmG1AT_izLLleEF27JpArxoE3CqPUSom-vk7K_m423MmIYB6wdp2g&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=pqDhHIj2x1IEmbi5PtAiZw&_nc_tpa=Q5bMBQJpQknwCwkAO0Y6605RD-U0Di4zlIv98ndRBwaAcNOrhAykawDYQVfJHHMK_oiOAt5ZIvO8luaZWg&oh=00_AQRtK_h3nWjaJCZfKopVeM7Gjznv5q8L44KX4O37gVwdcg&oe=6AFC0634",
+    "link": "https://www.facebook.com/share/p/19MbcPmJ8B/",
+    "origin": "manual",
+    "page_id": "61576792898556",
+    "text": "Just hours before I was set to announce my engagement to another woman, four little girls walked into the restaurant restroom. They all looked exactly like the woman I had loved seven years earlier. Then their mother stepped inside. It was the woman my family had told me had abandoned me, while she had spent seven years believing I was the one who left her...\n\nPART 1\n\nBy eight that night, I was supposed to propose to Margot Ashford in my family’s glass conservatory overlooking Central Park. Nearly 150 guests were expected, including powerful executives, wealthy relatives, and people who cared more about our family name than my happiness.\n\nMy charcoal suit was custom-tailored, and my grandfather’s cuff links gleamed at my wrists. A diamond ring rested inside my jacket, chosen with advice from my mother, our family advisers, and practically everyone except me.\n\nIt wasn’t love.\n\nIt was a business alliance disguised as romance.\n\nThen I stepped toward the restaurant restroom and saw four little girls, around six years old, standing near the sinks in matching navy-blue dresses. They were giggling and arguing over whose turn it was to use the hand dryer.\n\nOne girl brushed her long brown hair behind her ear, tilted her head, and pressed her lips together. The other three immediately copied her, laughing at their reflections.\n\nMy heart nearly stopped.\n\nIsla used to make that exact expression whenever she was nervous.\n\nOne little girl caught me staring.\n\n“Why are you looking at us, mister?”\n\nI swallowed hard. “You just remind me of someone.”\n\nShe smiled, revealing a tiny dimple in her left cheek.\n\nIsla’s dimple.\n\n“I’m Willa,” she announced proudly. “Those are Tessa, Josie, and Penny. We’re quadruplets!”\n\nMy chest tightened as I studied their faces. The same green eyes, delicate noses, and soft brown hair I’d once loved more than anything in the world.\n\n“Where’s your mother?” I managed to ask.\n\n“She works here,” Willa answered. “But we’re not supposed to bother her.”\n\nI followed them into the dining room, and stopped dead.\n\nIsla Brennan stood beside the kitchen wearing a faded server’s apron. Her manager was angrily telling her she couldn’t keep her children in the storage room overnight.\n\n“Please,” she whispered. “It’s freezing outside. I just need somewhere safe for them until morning.”\n\nThen she turned.\n\nHer green eyes met mine.\n\n“Isla?”\n\nHer face went white.\n\n“Girls. Get your coats. We’re leaving.”\n\nOutside, four little girls huddled beside two battered duffel bags in the freezing February wind. Their tiny hands trembled as Isla desperately tried to zip their thin jackets.\n\nI couldn’t bear watching them shiver.\n\nI handed Isla the key card to my empty SoHo apartment.\n\n“Take them somewhere warm. No questions tonight.”\n\nShe shook her head immediately.\n\n“We don’t need anything from you, Graham.”\n\nThen Penny tugged at her sleeve.\n\n“Mommy, I’m cold. Can we please go somewhere warm?”\n\nIsla’s expression crumbled.\n\nBefore climbing into my SUV, she turned toward me, tears shining in her eyes.\n\n“You don’t get to disappear for seven years and suddenly decide you want to be their father.”\n\nMy stomach dropped.\n\n“Isla, I didn’t disappear. You left me.”\n\nHer anger vanished.\n\nBehind her stood four little girls who looked so much like the woman I’d never stopped loving.\n\n“Then somebody lied to both of us,” she whispered.\n\nAt 5:12 p.m., I called my assistant.\n\n“Cancel tonight.”\n\n“The engagement announcement, sir?”\n\n“Everything.”\n\nMy phone rang almost immediately.\n\nMy mother’s name flashed across the screen.\n\nSuddenly, the diamond ring in my pocket felt like evidence of something terrible.\n\nI didn’t yet know whether those four girls were mine. But I knew I wasn’t proposing to Margot until I discovered who had stolen seven years from Isla and me.\n\nThen Isla grabbed my arm.\n\n“Graham, there’s something you need to know about your mother.”\n\nHer voice trembled.\n\n“Seven years ago, she paid me to disappear. But when I refused, she did something much worse.”\n\nBefore I could ask what she meant, my phone buzzed with a message from my mother.\n\nDO NOT TAKE THOSE CHILDREN TO YOUR APARTMENT. YOU HAVE NO IDEA WHAT YOU’RE GETTING YOURSELF INTO.\n\nMy blood ran cold.\n\nPart 2 is already in the first comment 😉 Type “NEXT” and press LIKE if you want to continue reading till the end of this story 👇"
+   },
+   "source_key": "post:61576792898556_122130803336893096",
+   "status": "preparing"
   },
   "2026-11-13 12:00": {
    "langs": {},
@@ -4608,6 +4616,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-10 21:00",
    "status": "used"
+  },
+  "post:61576792898556_122130803336893096": {
+   "fingerprint": "73438ab2de4d3a1891d4",
+   "link": "https://www.facebook.com/share/p/19MbcPmJ8B/",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-13 00:00",
+   "status": "reserved"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",

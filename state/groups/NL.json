@@ -2848,7 +2848,15 @@
   "2026-11-13 00:00": {
    "langs": {},
    "slot_iso": "2026-11-13T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/903977864_1669691287867619_4381782680714876791_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZbDtNLcS8zkQ7kNvwFVFo71&_nc_oc=AdrIljT1TpqUBveL1YEw_0c718tQo017-IkmpZ8EGP3YhfVpZ_Ykm6W8DNHaLSs5oe0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=o3U6tAyx8qkqGvFDnLEzug&_nc_tpa=Q5bMBQKcjLOwJD7r0vJPDCCRH_1hA6vXXPOXj0m4Ida86KSswEckalBZeXDeSjuy4RbFep6eg9qe1E9M-w&oh=00_AQQvVb9zvoTddn8kMKCyIaA_WDR1VI4i9BhEo_MKVKS8yA&oe=6AFBE9B1",
+    "link": "https://www.facebook.com/share/p/14vMCmh1tmy/",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "My mother-in-law strapped a watermelon to my husband after he made fun of my pregnancy. But when I woke up the following morning, what I discovered left me gasping.\n\nAt thirty-six weeks pregnant, a single sock brought me to tears.\n\nIt had slipped behind the dryer. My back was aching, and my husband was standing near enough to pick it up without any trouble.\n\n\"Could you get that?\"\n\nHe lifted his eyes from his phone.\n\n\"You're pregnant, Maren. You haven't lost your arms.\"\n\nWe both had full-time jobs. Yet somehow, he was the only one who got to relax after work.\n\nWhen his mother, Della, came over on Saturday, I was balancing a basket of laundry against my hip.\n\nI asked my husband to carry it upstairs.\n\n\"What exactly have you done all morning?\" he asked from the sofa.\n\nI began naming everything I'd already finished. Making breakfast. Washing the dishes. Taking care of the towels.\n\nDella quietly took the basket from my hands.\n\n\"Why are you making her prove she's tired?\"\n\n\"Mom, you raised three kids. You never acted this helpless.\"\n\nHer expression immediately changed.\n\n\"You remember being taken care of. You don't remember what it cost me.\"\n\nShe grabbed her purse and walked out.\n\nA quarter of an hour later, she came back carrying a watermelon and two small cantaloupes.\n\nMy husband laughed when she told him what she intended to do.\n\n\"You think I can't handle a little extra weight?\"\n\n\"Then wear it while you do everything you expected her to do today.\"\n\nHe rose from the couch.\n\n\"Fine. Let's settle this.\"\n\nDella positioned the watermelon against his belly and wrapped plastic around his shirt to hold it in place. Then she attached the two cantaloupes to his chest in the same way.\n\nHe struck a pose for me.\n\n\"Still think you're special?\"\n\nDella placed the laundry basket in his hands.\n\n\"Upstairs.\"\n\nBy the time he was dealing with the dishwasher's lower rack, the smile had disappeared from his face.\n\nTrying to replace the fitted sheet ended with him sitting down on the mattress. Then a sock fell to the floor.\n\nHe simply stared at it.\n\nI expected another sarcastic remark.\n\nBut he said nothing.\n\nDuring lunch, he reached toward the plastic wrap.\n\n\"I need a break.\"\n\n\"So did she,\" Della said.\n\nHe looked in my direction. I lowered my eyes to my bowl.\n\nThat evening, once the fruit had been removed, he said almost nothing. He climbed into bed and turned away before I had the chance to wish him good night.\n\nI remained awake, wondering just how upset he was.\n\nThe following morning, the sound of a zipper woke me.\n\nI discovered him kneeling in the hallway beside two open suitcases.\n\nMy stomach sank.\n\n\"You're leaving? Because of yesterday?\"\n\nHe paused and raised his head.\n\nThat was when I noticed he wasn't putting clothes into the cases.\n\nI moved nearer.\n\nThe contents of those suitcases—and the words he spoke afterward—made me cover my mouth as tears filled my eyes.\n\n…PART 2 👇👇👇"
+   },
+   "source_key": "post:100044802900629_1669691307867617",
+   "status": "preparing"
   },
   "2026-11-13 12:00": {
    "langs": {},
@@ -2984,6 +2992,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-13 00:00",
    "status": "used"
+  },
+  "post:100044802900629_1669691307867617": {
+   "fingerprint": "4cafa5bbd7a1aae33c82",
+   "link": "https://www.facebook.com/share/p/14vMCmh1tmy/",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-13 00:00",
+   "status": "reserved"
   },
   "post:100045261260562_1698998888285470": {
    "fingerprint": "82ad13dcc80155984bd8",
