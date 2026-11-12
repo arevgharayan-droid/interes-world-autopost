@@ -3619,7 +3619,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-12T21:47:50+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Mon fils m'a portée sur la scène de sa remise de diplôme, puis il a pris le micro pour avouer le secret qu'il me cachait depuis des années",
      "warnings": [
       "длина текста FB 963 слов (исходник 816, цель ±10%)"
