@@ -3604,7 +3604,10 @@
      "generated": true,
      "pages": {},
      "title": "Em 1995, ele abandonou a esposa e os cinco bebês recém-nascidos por serem negros. 30 anos depois, um segredo de família deixou todos sem palavras",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 164,
+     "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
@@ -3634,6 +3637,7 @@
      "wp_status": "future"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-13T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/903470931_1713109686874390_845311200057586299_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lxwxMIp9CxoQ7kNvwEv_Mcf&_nc_oc=AdrpXzpokNQWUotVHRbiVkU1uoWwsjIhAiftHHKADXH0zE5HJ9CO3gOtcjr23ZPl0nI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=297dcxTqrbV88dr-MtZBCw&_nc_tpa=Q5bMBQIDFZBZcupM3JfoclGvBwk_CrPWKhm92suW66kfMDf5_6fe8ra2hC_NyLgyDl-keAFMpbTPSrZWtQ&oh=00_AQQxBJDmFjlO9XfL9F1O8TOnmzHst1-4fQSC0cl-xfN6hQ&oe=6AFBBAC4",
@@ -3645,7 +3649,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-0000-ru.jpg"
    },
    "source_key": "post:100045261260562_1713109740207718",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3806,7 +3810,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-13 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1605697694922092": {
    "fingerprint": "7aa9a9d1f00ac27915f6",
