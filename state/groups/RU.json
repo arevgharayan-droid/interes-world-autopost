@@ -3506,121 +3506,47 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1338630212673029": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:56+04:00",
-       "mode": "schedule",
-       "photo_id": "122116170093471857",
-       "post_id": "1338630212673029_122116170123471857",
-       "status": "scheduled"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:53+04:00",
-       "mode": "schedule",
-       "photo_id": "122119308603505599",
-       "post_id": "1448441201677530_122119308633505599",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Minha irmã me humilhou diante de 400 convidados no seu gala, até o homem mais esperado da noite passar direto por ela e me perguntar: \"Querida, você está pronta para ir embora?",
      "warnings": [],
-     "wp_error": null,
-     "wp_id": 150,
      "wp_status": "publish"
     },
     "RU": {
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:37+04:00",
-       "mode": "schedule",
-       "photo_id": "122118244142640467",
-       "post_id": "1008693642337213_122118244172640467",
-       "status": "scheduled"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122139980780737651",
-       "post_id": "1125676667286378_122139980810737651",
-       "status": "scheduled"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122135106608733774",
-       "post_id": "988042774402200_122135106638733774",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Сестра при 400 гостях назвала меня 36-летней неудачницей, но тут в зал вошёл тот, кого все ждали, и сказал мне всего одну фразу",
      "warnings": [
       "длина текста FB 545 слов (исходник 776, цель ±10%)",
       "длина статьи 558 слов"
      ],
-     "wp_error": null,
-     "wp_id": 148,
      "wp_status": "publish"
     },
     "TR": {
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1129620776897151": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122127476763311884",
-       "post_id": "1129620776897151_122127476793311884",
-       "status": "scheduled"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122126661699307134",
-       "post_id": "1164575726728296_122126661729307134",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Ablam Beni Gala Gecesinde Herkesin Önünde \"Hâlâ Seçilmeyi Bekleyen Kız Kardeşim\" Diye Tanıttı, Sonra Salonun Kapıları Açıldı",
      "warnings": [
       "длина текста FB 438 слов (исходник 776, цель ±10%)",
       "длина статьи 597 слов"
      ],
-     "wp_error": null,
-     "wp_id": 149,
      "wp_status": "publish"
     }
    },
-   "prepared": true,
+   "prepared": false,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/897251463_122109777411521979_5054926246481478911_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NQtJf0s4-DEQ7kNvwE0OXtH&_nc_oc=AdoNBdLgoztOLhAeIwzt60att-ZUWW5--Q3CNGE9vqkHwEgut6wu4axFlPz8CuTLQfA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6NakhzXSEBIsTFNiwz-_sA&_nc_tpa=Q5bMBQJ_AWRc9IvnYqYccF9cT8712WUStHRHUv7lC_enaLWL6xI2AAbWqfBW4taO2382THLx0MNgoAeGcw&oh=00_AQSMaE1qBY0eK8JqHGTA3IeId1qXjy24w968HYSzftCVpw&oe=6AFB51EA",
     "link": "https://www.facebook.com/share/p/16NPRXs4vLJ/",
     "origin": "manual",
     "page_id": "61595659383273",
-    "text": "« Ma sœur a passé des années à raconter à tout le monde que j'étais toujours célibataire à 36 ans. Lors de son prestigieux gala, elle m'a présentée en disant : “Voici ma petite sœur, qui attend toujours que quelqu'un daigne la remarquer.” Les invités ont éclaté de rire. Pas moi. Alors, l'homme que tout le monde attendait est passé devant elle sans même s'arrêter et m'a entourée de son bras. “Chérie, tu es prête à partir ?” Ma sœur est devenue livide. »\n\n« Et bien sûr, je ne peux pas oublier ma petite sœur Mary... Trente-six ans et toujours en train d'attendre qu'un homme daigne enfin la choisir ! »\n\nVoilà les mots qu'Alyssa, ma sœur, a prononcés dans un micro devant quatre cents invités, lors d'un gala privé et exclusif.\n\nL'immense salle de réception a éclaté de rire.\n\nLa personne qui riait le plus fort était mon propre père.\n\nSon rire était si bruyant que les autres invités se sont sentis libres de se joindre à lui, comme si humilier sa fille constituait le meilleur divertissement de la soirée.\n\nMa mère, en revanche, est restée assise à côté de moi, affichant un sourire parfaitement serein.\n\nSous la nappe, elle a tapoté deux fois le dos de ma main.\n\nJe connaissais parfaitement ce signal.\n\n« Reste silencieuse. Ne fais pas honte à la famille. »\n\nPendant trente-six ans, j'avais appris à garder le silence chaque fois qu'Alyssa décidait de faire de moi la cible de ses humiliations.\n\nÀ ses yeux, je serais toujours la petite sœur ratée, la femme qu'aucun homme n'avait jamais voulu choisir.\n\nMais il y avait une chose qu'aucun d'eux ne savait.\n\nCela faisait très longtemps que j'avais cessé d'attendre.\n\nDepuis la scène, Alyssa continuait de savourer l'attention des invités.\n\n« Et maintenant, accueillons chaleureusement l'entraîneur Wade Larkin ! »\n\nLes immenses portes de la salle s'ouvrirent lentement.\n\nWade apparut, vêtu d'un élégant costume gris anthracite. Sa grande stature et son assurance attirèrent immédiatement tous les regards.\n\nAlyssa s'avança vers lui avec un sourire éblouissant.\n\nElle tendit le bras, s'attendant à ce que Wade le prenne pour l'accompagner jusqu'à la table d'honneur.\n\nElle avait même fait placer leurs noms côte à côte sur les sièges réservés.\n\nMais ce qui se produisit ensuite laissa tout le monde stupéfait.\n\nWade ne s'arrêta même pas.\n\nIl passa directement devant la main tendue d'Alyssa, comme si elle était totalement invisible.\n\nLe sourire de ma sœur se figea.\n\nWade quitta l'allée centrale et se dirigea droit vers la table numéro deux.\n\nLa table où mes parents et moi étions assis.\n\nDes murmures commencèrent à se répandre dans toute la salle.\n\nJe restai calme en le regardant s'approcher.\n\nWade s'arrêta juste derrière ma chaise.\n\nIl posa doucement sa main sur mon épaule et se pencha vers moi.\n\nPuis, de sa voix grave, il demanda :\n\n« Chérie, tu es prête à partir ? »\n\nUn silence absolu envahit la salle.\n\nAu milieu de l'allée, Alyssa restait figée, le visage complètement livide.\n\nMon père cessa de rire.\n\nMa mère tenta de briser la tension avec un rire nerveux.\n\n« Oh, entraîneur Wade ! Quel sens de l'humour ! Vous participez même à notre petite plaisanterie familiale ! »\n\nMais Wade ne sourit pas.\n\nIl la regarda droit dans les yeux et répondit fermement :\n\n« Non, madame. Je ne plaisante pas. »\n\nL'atmosphère devint insupportablement tendue.\n\nQuatre cents personnes nous observaient sans prononcer un mot.\n\nLentement, je passai les mains derrière mon cou et détachai la chaîne que je gardais cachée sous mes vêtements.\n\nUne magnifique bague ornée d'un saphir tomba dans la paume de ma main.\n\nJe la soulevai délicatement et la glissai à mon annulaire gauche.\n\nCette bague aurait dû se trouver à cet endroit depuis cinq mois déjà.\n\nMais j'avais décidé de garder notre relation secrète.\n\nJusqu'à ce soir.\n\nAlyssa regarda la bague, puis releva les yeux vers Wade.\n\nSes lèvres commencèrent à trembler, comme si elle voulait poser une question, mais qu'elle était incapable de prononcer le moindre mot.\n\nJe soutins son regard.\n\nAprès trente-six années passées à supporter ses moqueries, je souris enfin.\n\nEt je lui posai à voix basse une question dont les quatre cents invités attendaient désespérément la réponse...\n❤️ Merci de nous accompagner et de consacrer quelques minutes à cette histoire ! 🙏📖. Ce n’est que le début. La deuxième partie et le dénouement sont déjà disponibles dans les commentaires. 👇\nS’ils n’apparaissent pas immédiatement, appuyez sur « Voir tous les commentaires » et cherchez-les pour découvrir comment se termine cette histoire bouleversante. 💬✨",
-    "wp_media_id": 147,
-    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261112-1500-ru.jpg"
+    "text": "« Ma sœur a passé des années à raconter à tout le monde que j'étais toujours célibataire à 36 ans. Lors de son prestigieux gala, elle m'a présentée en disant : “Voici ma petite sœur, qui attend toujours que quelqu'un daigne la remarquer.” Les invités ont éclaté de rire. Pas moi. Alors, l'homme que tout le monde attendait est passé devant elle sans même s'arrêter et m'a entourée de son bras. “Chérie, tu es prête à partir ?” Ma sœur est devenue livide. »\n\n« Et bien sûr, je ne peux pas oublier ma petite sœur Mary... Trente-six ans et toujours en train d'attendre qu'un homme daigne enfin la choisir ! »\n\nVoilà les mots qu'Alyssa, ma sœur, a prononcés dans un micro devant quatre cents invités, lors d'un gala privé et exclusif.\n\nL'immense salle de réception a éclaté de rire.\n\nLa personne qui riait le plus fort était mon propre père.\n\nSon rire était si bruyant que les autres invités se sont sentis libres de se joindre à lui, comme si humilier sa fille constituait le meilleur divertissement de la soirée.\n\nMa mère, en revanche, est restée assise à côté de moi, affichant un sourire parfaitement serein.\n\nSous la nappe, elle a tapoté deux fois le dos de ma main.\n\nJe connaissais parfaitement ce signal.\n\n« Reste silencieuse. Ne fais pas honte à la famille. »\n\nPendant trente-six ans, j'avais appris à garder le silence chaque fois qu'Alyssa décidait de faire de moi la cible de ses humiliations.\n\nÀ ses yeux, je serais toujours la petite sœur ratée, la femme qu'aucun homme n'avait jamais voulu choisir.\n\nMais il y avait une chose qu'aucun d'eux ne savait.\n\nCela faisait très longtemps que j'avais cessé d'attendre.\n\nDepuis la scène, Alyssa continuait de savourer l'attention des invités.\n\n« Et maintenant, accueillons chaleureusement l'entraîneur Wade Larkin ! »\n\nLes immenses portes de la salle s'ouvrirent lentement.\n\nWade apparut, vêtu d'un élégant costume gris anthracite. Sa grande stature et son assurance attirèrent immédiatement tous les regards.\n\nAlyssa s'avança vers lui avec un sourire éblouissant.\n\nElle tendit le bras, s'attendant à ce que Wade le prenne pour l'accompagner jusqu'à la table d'honneur.\n\nElle avait même fait placer leurs noms côte à côte sur les sièges réservés.\n\nMais ce qui se produisit ensuite laissa tout le monde stupéfait.\n\nWade ne s'arrêta même pas.\n\nIl passa directement devant la main tendue d'Alyssa, comme si elle était totalement invisible.\n\nLe sourire de ma sœur se figea.\n\nWade quitta l'allée centrale et se dirigea droit vers la table numéro deux.\n\nLa table où mes parents et moi étions assis.\n\nDes murmures commencèrent à se répandre dans toute la salle.\n\nJe restai calme en le regardant s'approcher.\n\nWade s'arrêta juste derrière ma chaise.\n\nIl posa doucement sa main sur mon épaule et se pencha vers moi.\n\nPuis, de sa voix grave, il demanda :\n\n« Chérie, tu es prête à partir ? »\n\nUn silence absolu envahit la salle.\n\nAu milieu de l'allée, Alyssa restait figée, le visage complètement livide.\n\nMon père cessa de rire.\n\nMa mère tenta de briser la tension avec un rire nerveux.\n\n« Oh, entraîneur Wade ! Quel sens de l'humour ! Vous participez même à notre petite plaisanterie familiale ! »\n\nMais Wade ne sourit pas.\n\nIl la regarda droit dans les yeux et répondit fermement :\n\n« Non, madame. Je ne plaisante pas. »\n\nL'atmosphère devint insupportablement tendue.\n\nQuatre cents personnes nous observaient sans prononcer un mot.\n\nLentement, je passai les mains derrière mon cou et détachai la chaîne que je gardais cachée sous mes vêtements.\n\nUne magnifique bague ornée d'un saphir tomba dans la paume de ma main.\n\nJe la soulevai délicatement et la glissai à mon annulaire gauche.\n\nCette bague aurait dû se trouver à cet endroit depuis cinq mois déjà.\n\nMais j'avais décidé de garder notre relation secrète.\n\nJusqu'à ce soir.\n\nAlyssa regarda la bague, puis releva les yeux vers Wade.\n\nSes lèvres commencèrent à trembler, comme si elle voulait poser une question, mais qu'elle était incapable de prononcer le moindre mot.\n\nJe soutins son regard.\n\nAprès trente-six années passées à supporter ses moqueries, je souris enfin.\n\nEt je lui posai à voix basse une question dont les quatre cents invités attendaient désespérément la réponse...\n❤️ Merci de nous accompagner et de consacrer quelques minutes à cette histoire ! 🙏📖. Ce n’est que le début. La deuxième partie et le dénouement sont déjà disponibles dans les commentaires. 👇\nS’ils n’apparaissent pas immédiatement, appuyez sur « Voir tous les commentaires » et cherchez-les pour découvrir comment se termine cette histoire bouleversante. 💬✨"
    },
    "source_key": "post:61595659383273_122109822993521979",
-   "status": "in_progress",
+   "status": "preparing",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",

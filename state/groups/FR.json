@@ -3586,77 +3586,11 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122117383730633539",
-       "post_id": "1032441206625600_122117383760633539",
-       "status": "scheduled"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122109128108457428",
-       "post_id": "1058598924006917_122109128138457428",
-       "status": "scheduled"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:40+04:00",
-       "mode": "schedule",
-       "photo_id": "122122824471299008",
-       "post_id": "1079295351933311_122122824507299008",
-       "status": "scheduled"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122125626171303172",
-       "post_id": "1145306638657445_122125626201303172",
-       "status": "scheduled"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:34+04:00",
-       "mode": "schedule",
-       "photo_id": "122121495999409328",
-       "post_id": "1202025962997153_122121496035409328",
-       "status": "scheduled"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:37+04:00",
-       "mode": "schedule",
-       "photo_id": "122123408229415639",
-       "post_id": "1250374694822508_122123408259415639",
-       "status": "scheduled"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T14:26:48+04:00",
-       "mode": "schedule",
-       "photo_id": "122128707327441679",
-       "post_id": "1260826840455724_122128707357441679",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Le parrain de la mafia s'est agenouillé devant une femme de chambre humiliée, mais les points jaunes de sa robe ont révélé un secret enfoui depuis seize ans",
      "warnings": [
       "длина текста FB 945 слов (исходник 786, цель ±10%)"
      ],
-     "wp_error": null,
-     "wp_id": 223,
      "wp_status": "publish"
     },
     "IT": {
@@ -3680,19 +3614,17 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": true,
+   "prepared": false,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/893166024_122116369083489203_3560772467047859553_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=l-A7I25TLzkQ7kNvwEEe4UU&_nc_oc=AdoA2-JTlAzUL6O-WOik1lpZa1fgqobsENhrupxwAbl5R7bxD9kIEA7pQR8PypqmAj0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=-693ix4nZA2A-9I1yZIlcg&_nc_tpa=Q5bMBQIl6s2_sCSPUQRpWeFdN08m7TgjVt6dAuju86u3oXuBNg5vx3jnZQwZbNqXung5oX0P35TBNX8XUw&oh=00_AQRNI47B9k_uIFrWAoCvokTxTH3_gqCThp9d9X1SNxhdGA&oe=6AFB7649",
     "link": "https://www.facebook.com/share/p/1YT3Sz6ez7/",
     "origin": "manual",
     "page_id": "61594676105166",
-    "text": "THE MAFIA BOSS KNEELED BEFORE A HUMILIATED MAID—BUT THE YELLOW STITCHES ON HER DRESS EXPOSED A SECRET HIDDEN FOR SIXTEEN YEARS\n\n\"Who stitched these yellow threads?\"\n\nDaniel Carter, Chicago's most feared mafia boss, was kneeling before a trembling hotel maid, examining the hem of her worn black dress. When I whispered my mother's name, his face turned pale—and the elegant woman in red standing behind him suddenly looked desperate to escape.\n\n\"Claire Bennett,\" I answered.\n\nDaniel's fingers froze against the fabric.\n\n\"Where is she?\"\n\n\"I don't know. She disappeared sixteen years ago.\"\n\nFor several seconds, he said nothing.\n\nThen he whispered something that made my heart stop.\n\n\"I've been searching for her all this time.\"\n\nMy name is Emma Bennett, and until that night, I believed my mother's disappearance was a mystery nobody cared enough to solve.\n\nI worked at the Carter Grand Hotel, one of Chicago's most luxurious establishments, earning barely enough to support myself and my younger brother, Noah.\n\nMy uniform was old, but always clean.\n\nAlong its hem ran a crooked line of yellow stitches my mother had sewn years earlier.\n\nWhenever I complained about the mismatched thread, she would smile.\n\n\"Good things deserve to be kept, sweetheart. Even when others think they're worthless.\"\n\nThose stitches were one of the few things I had left of her.\n\nThat evening, the hotel hosted a glamorous charity gala.\n\nCrystal chandeliers illuminated the marble ballroom. Wealthy guests laughed over champagne while an orchestra played beneath enormous arrangements of red and white roses.\n\nI was collecting empty glasses when Victoria Ashford approached.\n\nVictoria was Daniel Carter's wealthy, influential companion, a woman whose diamond necklace probably cost more than everything I owned.\n\nHer eyes traveled down my uniform.\n\n\"Emma, darling. Surely you aren't wearing that dreadful dress again?\"\n\nI lowered my head.\n\n\"It's my work uniform, ma'am.\"\n\nShe pinched the repaired hem between two fingers.\n\n\"Yellow stitching? How embarrassing. Can't you afford proper clothes?\"\n\nSeveral nearby guests laughed.\n\n\"My mother repaired it,\" I said quietly.\n\nVictoria's smile sharpened.\n\n\"How touching. Perhaps your mother should have taught you that people like you don't belong among people like us.\"\n\nMy cheeks burned.\n\nI wanted to disappear.\n\nThen a deep voice came from behind her.\n\n\"Where exactly does she belong, Victoria?\"\n\nThe laughter stopped.\n\nDaniel Carter stood beneath the golden chandeliers, his dark eyes fixed on Victoria.\n\nTall, broad-shouldered, and dressed in an immaculate black suit, he carried the quiet authority of a man nobody dared challenge.\n\n\"Daniel, darling,\" Victoria said quickly. \"We're only joking.\"\n\nHe ignored her.\n\n\"Emma, did she humiliate you?\"\n\nI hesitated.\n\nVictoria watched me with a warning in her eyes.\n\n\"She said my uniform was embarrassing, sir.\"\n\nDaniel's expression hardened.\n\n\"This hotel belongs to me. Nobody working here should be ashamed of earning an honest living.\"\n\nVictoria opened her mouth, but Daniel was no longer looking at her.\n\nHis attention had fallen to my dress.\n\nMore precisely, to the yellow stitching.\n\nHe stepped closer.\n\n\"Emma, may I see that?\"\n\nConfused, I nodded.\n\nHe lowered himself onto one knee and carefully examined the uneven thread.\n\nThe entire ballroom fell silent.\n\n\"Who repaired this?\"\n\n\"My mother.\"\n\n\"What was her name?\"\n\n\"Claire Bennett.\"\n\nDaniel's face drained of color.\n\nHe studied the stitches as though they were something impossibly precious.\n\n\"Claire always used yellow thread,\" he murmured.\n\nI stared at him.\n\n\"You knew my mother?\"\n\nHis eyes lifted toward mine.\n\n\"Sixteen years ago, she disappeared after something happened that changed several lives. I've been trying to find her ever since.\"\n\nBehind him, Victoria suddenly stepped backward.\n\n\"Daniel,\" she whispered. \"Please. Not here.\"\n\nHe turned slowly.\n\n\"Why not, Victoria?\"\n\nShe said nothing.\n\nFor the first time that evening, the confident woman in the red gown looked genuinely frightened.\n\nDaniel rose, then glanced back at my dress.\n\n\"Emma, your mother didn't sew those stitches simply to repair the fabric.\"\n\nA cold feeling spread through my chest.\n\n\"What do you mean?\"\n\nHe lowered his voice.\n\n\"Claire once told me that if anything happened to her, she would leave something where only someone who knew her sewing could find it.\"\n\nMy hands instinctively gripped the hem.\n\nDaniel looked directly at Victoria.\n\n\"And judging by your reaction, I believe you already know what she hid there.\"\n\nVictoria's champagne glass slipped from her fingers.\n\nIt shattered against the marble floor.\n\nAnd when Daniel reached toward the folded lining of my dress, Victoria suddenly cried out:\n\n\"Don't open it!\"\n\n...I know you're all very curious about what happens next, so if you want to read on, leave \"YES\" in the comments below! 👇",
-    "wp_media_id": 217,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-fr.jpg"
+    "text": "THE MAFIA BOSS KNEELED BEFORE A HUMILIATED MAID—BUT THE YELLOW STITCHES ON HER DRESS EXPOSED A SECRET HIDDEN FOR SIXTEEN YEARS\n\n\"Who stitched these yellow threads?\"\n\nDaniel Carter, Chicago's most feared mafia boss, was kneeling before a trembling hotel maid, examining the hem of her worn black dress. When I whispered my mother's name, his face turned pale—and the elegant woman in red standing behind him suddenly looked desperate to escape.\n\n\"Claire Bennett,\" I answered.\n\nDaniel's fingers froze against the fabric.\n\n\"Where is she?\"\n\n\"I don't know. She disappeared sixteen years ago.\"\n\nFor several seconds, he said nothing.\n\nThen he whispered something that made my heart stop.\n\n\"I've been searching for her all this time.\"\n\nMy name is Emma Bennett, and until that night, I believed my mother's disappearance was a mystery nobody cared enough to solve.\n\nI worked at the Carter Grand Hotel, one of Chicago's most luxurious establishments, earning barely enough to support myself and my younger brother, Noah.\n\nMy uniform was old, but always clean.\n\nAlong its hem ran a crooked line of yellow stitches my mother had sewn years earlier.\n\nWhenever I complained about the mismatched thread, she would smile.\n\n\"Good things deserve to be kept, sweetheart. Even when others think they're worthless.\"\n\nThose stitches were one of the few things I had left of her.\n\nThat evening, the hotel hosted a glamorous charity gala.\n\nCrystal chandeliers illuminated the marble ballroom. Wealthy guests laughed over champagne while an orchestra played beneath enormous arrangements of red and white roses.\n\nI was collecting empty glasses when Victoria Ashford approached.\n\nVictoria was Daniel Carter's wealthy, influential companion, a woman whose diamond necklace probably cost more than everything I owned.\n\nHer eyes traveled down my uniform.\n\n\"Emma, darling. Surely you aren't wearing that dreadful dress again?\"\n\nI lowered my head.\n\n\"It's my work uniform, ma'am.\"\n\nShe pinched the repaired hem between two fingers.\n\n\"Yellow stitching? How embarrassing. Can't you afford proper clothes?\"\n\nSeveral nearby guests laughed.\n\n\"My mother repaired it,\" I said quietly.\n\nVictoria's smile sharpened.\n\n\"How touching. Perhaps your mother should have taught you that people like you don't belong among people like us.\"\n\nMy cheeks burned.\n\nI wanted to disappear.\n\nThen a deep voice came from behind her.\n\n\"Where exactly does she belong, Victoria?\"\n\nThe laughter stopped.\n\nDaniel Carter stood beneath the golden chandeliers, his dark eyes fixed on Victoria.\n\nTall, broad-shouldered, and dressed in an immaculate black suit, he carried the quiet authority of a man nobody dared challenge.\n\n\"Daniel, darling,\" Victoria said quickly. \"We're only joking.\"\n\nHe ignored her.\n\n\"Emma, did she humiliate you?\"\n\nI hesitated.\n\nVictoria watched me with a warning in her eyes.\n\n\"She said my uniform was embarrassing, sir.\"\n\nDaniel's expression hardened.\n\n\"This hotel belongs to me. Nobody working here should be ashamed of earning an honest living.\"\n\nVictoria opened her mouth, but Daniel was no longer looking at her.\n\nHis attention had fallen to my dress.\n\nMore precisely, to the yellow stitching.\n\nHe stepped closer.\n\n\"Emma, may I see that?\"\n\nConfused, I nodded.\n\nHe lowered himself onto one knee and carefully examined the uneven thread.\n\nThe entire ballroom fell silent.\n\n\"Who repaired this?\"\n\n\"My mother.\"\n\n\"What was her name?\"\n\n\"Claire Bennett.\"\n\nDaniel's face drained of color.\n\nHe studied the stitches as though they were something impossibly precious.\n\n\"Claire always used yellow thread,\" he murmured.\n\nI stared at him.\n\n\"You knew my mother?\"\n\nHis eyes lifted toward mine.\n\n\"Sixteen years ago, she disappeared after something happened that changed several lives. I've been trying to find her ever since.\"\n\nBehind him, Victoria suddenly stepped backward.\n\n\"Daniel,\" she whispered. \"Please. Not here.\"\n\nHe turned slowly.\n\n\"Why not, Victoria?\"\n\nShe said nothing.\n\nFor the first time that evening, the confident woman in the red gown looked genuinely frightened.\n\nDaniel rose, then glanced back at my dress.\n\n\"Emma, your mother didn't sew those stitches simply to repair the fabric.\"\n\nA cold feeling spread through my chest.\n\n\"What do you mean?\"\n\nHe lowered his voice.\n\n\"Claire once told me that if anything happened to her, she would leave something where only someone who knew her sewing could find it.\"\n\nMy hands instinctively gripped the hem.\n\nDaniel looked directly at Victoria.\n\n\"And judging by your reaction, I believe you already know what she hid there.\"\n\nVictoria's champagne glass slipped from her fingers.\n\nIt shattered against the marble floor.\n\nAnd when Daniel reached toward the folded lining of my dress, Victoria suddenly cried out:\n\n\"Don't open it!\"\n\n...I know you're all very curious about what happens next, so if you want to read on, leave \"YES\" in the comments below! 👇"
    },
    "source_key": "post:61594676105166_122116453251489203",
-   "status": "in_progress",
+   "status": "preparing",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
