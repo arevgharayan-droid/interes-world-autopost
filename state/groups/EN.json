@@ -3,6 +3,7 @@
  "output_fps": {
   "2c1881200804eda0b026": "2026-11-01T18:14:02+00:00",
   "30516d0029d7a2aa8337": "2026-11-09T19:59:12+00:00",
+  "3798fd4c18a181248af5": "2026-11-12T20:02:21+00:00",
   "3b1bd09f3324c9ccaad0": "2026-11-10T22:02:12+00:00",
   "3e2f2c99735b21275480": "2026-11-09T13:27:19+00:00",
   "4ec66c0e7d13beb9615d": "2026-11-09T20:00:31+00:00",
@@ -5569,7 +5570,48 @@
    }
   },
   "2026-11-13 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Heard My Husband Whisper \"Soon They Will Both Be Gone\" While My Son and I Lay on the Kitchen Floor",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 270,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/898710979_122130930020893096_8353686739619633245_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tQ7gCkOJ2uQQ7kNvwE6myHA&_nc_oc=AdqaTyxz7Qy0h9lF1AhOVLbtZ4ZK3mtKtzVfdblOyQyXprcbhI9fbHBzbeinMhrCjKI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=lyA9DQ8qBuYJEnbgR8aluw&_nc_tpa=Q5bMBQIMhhoNV8oveEG2vTBtqnHt42SeCg0UrcxzNUPLvazEFxnFM3u6c5oq8EMXo-DK2RLQwgill7jdPw&oh=00_AQR01mZiVdVCqOziubLxYdmaiITqMcyUN4aZ3Zq7udsKdg&oe=6AFBE551",
@@ -5581,7 +5623,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-en-1.jpg"
    },
    "source_key": "post:61576792898556_122130930068893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5802,7 +5844,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-13 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
