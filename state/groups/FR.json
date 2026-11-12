@@ -3398,7 +3398,8 @@
    "slot_iso": "2026-11-12T12:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-12 15:00": {
+  "2026-11-12 13:08": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -3412,77 +3413,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:19+04:00",
-       "mode": "schedule",
-       "photo_id": "122117377946633539",
-       "post_id": "1032441206625600_122117377976633539",
-       "status": "scheduled"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:25+04:00",
-       "mode": "schedule",
-       "photo_id": "122109124304457428",
-       "post_id": "1058598924006917_122109124334457428",
-       "status": "scheduled"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122122816071299008",
-       "post_id": "1079295351933311_122122816119299008",
-       "status": "scheduled"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:16+04:00",
-       "mode": "schedule",
-       "photo_id": "122125602783303172",
-       "post_id": "1145306638657445_122125602825303172",
-       "status": "scheduled"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:07+04:00",
-       "mode": "schedule",
-       "photo_id": "122121490167409328",
-       "post_id": "1202025962997153_122121490203409328",
-       "status": "scheduled"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:11+04:00",
-       "mode": "schedule",
-       "photo_id": "122123400045415639",
-       "post_id": "1250374694822508_122123400075415639",
-       "status": "scheduled"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:22+04:00",
-       "mode": "schedule",
-       "photo_id": "122128696137441679",
-       "post_id": "1260826840455724_122128696167441679",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Enceinte de sept semaines, enfermée par mon mari mafieux pendant qu'il fêtait l'anniversaire de son premier amour, j'ai dû sauter du deuxième étage d'une maison en flammes",
      "warnings": [
       "длина текста FB 1176 слов (исходник 978, цель ±10%)"
      ],
      "wp_error": null,
      "wp_id": 223,
+     "wp_live": true,
      "wp_status": "future"
     },
     "IT": {
@@ -3506,8 +3444,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-12 15:00",
    "prepared": true,
-   "slot_iso": "2026-11-12T15:00:00+04:00",
+   "slot_iso": "2026-11-12T13:08:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/864787883_122118682970345126_3498497767440678131_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oS4w-QyK8zIQ7kNvwGzjjfK&_nc_oc=AdoxpT8bXFj2tIHUAsmDF3y0XyZN8SuC1J7ccroOVUrh9euNVQ1RXRaiQi8CkdPc4pU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=VSIaZXu9znFlX9GoxhZqmA&_nc_tpa=Q5bMBQJ8ENV68UMEzl8sMpzqIyloQTTymOpyY2tAdsJyq_df057OHK3iH4ehZ2lXQUlDStC29zkMOeAtvQ&oh=00_AQQqPBV4K2dkNesQCmsLuDMaO5SjSpco7KhTT2m0kEoyYw&oe=6AFB603F",
     "link": "https://www.facebook.com/share/p/1CMaEaNX3R/",
@@ -3518,7 +3457,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-fr.jpg"
    },
    "source_key": "post:61560353781750_122118732104345126",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

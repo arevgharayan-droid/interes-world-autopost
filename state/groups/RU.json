@@ -3286,7 +3286,8 @@
    "slot_iso": "2026-11-12T12:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-12 15:00": {
+  "2026-11-12 13:12": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -3312,106 +3313,44 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1338630212673029": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:05:01+04:00",
-       "mode": "schedule",
-       "photo_id": "122116156437471857",
-       "post_id": "1338630212673029_122116156467471857",
-       "status": "scheduled"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:58+04:00",
-       "mode": "schedule",
-       "photo_id": "122119291473505599",
-       "post_id": "1448441201677530_122119291503505599",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Ela ligou quatro vezes enquanto ele estava com a amante, e a última chamada guardava um segredo que ele jamais imaginaria",
      "warnings": [],
      "wp_error": null,
      "wp_id": 150,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122118239696640467",
-       "post_id": "1008693642337213_122118239726640467",
-       "status": "scheduled"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:47+04:00",
-       "mode": "schedule",
-       "photo_id": "122139973274737651",
-       "post_id": "1125676667286378_122139973304737651",
-       "status": "scheduled"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:44+04:00",
-       "mode": "schedule",
-       "photo_id": "122135097314733774",
-       "post_id": "988042774402200_122135097344733774",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Жена звонила мне четыре раза, пока я был с любовницей. Когда я наконец узнал, что случилось той ночью, мне стало страшно",
      "warnings": [],
      "wp_error": null,
      "wp_id": 148,
+     "wp_live": true,
      "wp_status": "future"
     },
     "TR": {
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1129620776897151": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122127470655311884",
-       "post_id": "1129620776897151_122127470685311884",
-       "status": "scheduled"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122126655189307134",
-       "post_id": "1164575726728296_122126655225307134",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Karım beni dört kez aradı, ben otel odasında metresimle birlikteydim; dördüncü aramada telefonu o açtı ve asıl korkunç gerçek hastanede ortaya çıktı",
      "warnings": [
       "длина текста FB 1012 слов (исходник 1451, цель ±10%)"
      ],
      "wp_error": null,
      "wp_id": 149,
+     "wp_live": true,
      "wp_status": "future"
     }
    },
+   "moved_from": "2026-11-12 15:00",
    "prepared": true,
-   "slot_iso": "2026-11-12T15:00:00+04:00",
+   "slot_iso": "2026-11-12T13:12:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/864891224_122118799442345126_6453460605186795521_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gBeF2YOocJ4Q7kNvwGU8q-x&_nc_oc=AdqbKR0beZjOpoEehbie2nF77eYZr8pzMPR5UVFa0j_t8BVmyZBFVZTmERM-y5CEMpw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=slqU2MHdOIr-dy1xobHlqQ&_nc_tpa=Q5bMBQJfX25X2gtWOtTNlosn7m5JPpQm13UjfxgNeCJWzkhR_X197r7fyM53crQ2QKMQDc_6_P6WHM02GA&oh=00_AQS_paUZ9VKSHleqDOCK5UzpQNes3hgRHpqjsABzfHQ0RA&oe=6AFB4FF0",
     "link": "https://www.facebook.com/share/p/1LkZ5wPXrU/",
@@ -3422,7 +3361,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261112-1500-ru.jpg"
    },
    "source_key": "post:61560353781750_122118837386345126",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",

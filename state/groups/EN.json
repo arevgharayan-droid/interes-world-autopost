@@ -5047,7 +5047,8 @@
    "slot_iso": "2026-11-12T12:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-12 15:00": {
+  "2026-11-12 13:10": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -5057,124 +5058,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1016419758218222": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:10+04:00",
-       "mode": "schedule",
-       "photo_id": "122146980081204972",
-       "post_id": "1016419758218222_122146980111204972",
-       "status": "scheduled"
-      },
-      "104239205742669": {
-       "attempts": 0,
-       "status": "no_access"
-      },
-      "108881571809093": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:23+04:00",
-       "mode": "schedule",
-       "photo_id": "1157397753633844",
-       "post_id": "108881571809093_1157397783633841",
-       "status": "scheduled"
-      },
-      "1165836896614851": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122144172405384677",
-       "post_id": "1165836896614851_122144172435384677",
-       "status": "scheduled"
-      },
-      "1167352663135230": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:00+04:00",
-       "mode": "schedule",
-       "photo_id": "122146315713384760",
-       "post_id": "1167352663135230_122146315749384760",
-       "status": "scheduled"
-      },
-      "1235940142932696": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:03:57+04:00",
-       "mode": "schedule",
-       "photo_id": "122118605211408404",
-       "post_id": "1235940142932696_122118605241408404",
-       "status": "scheduled"
-      },
-      "162144310308183": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:20+04:00",
-       "mode": "schedule",
-       "photo_id": "122261754584093350",
-       "post_id": "162144310308183_122261754614093350",
-       "status": "scheduled"
-      },
-      "220697507802568": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122342273438237583",
-       "post_id": "220697507802568_122342273474237583",
-       "status": "scheduled"
-      },
-      "236129656261330": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122229871142294596",
-       "post_id": "236129656261330_122229871172294596",
-       "status": "scheduled"
-      },
-      "237939756073256": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:26+04:00",
-       "mode": "schedule",
-       "photo_id": "122355088862234096",
-       "post_id": "237939756073256_122355088892234096",
-       "status": "scheduled"
-      },
-      "914823471720372": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:04+04:00",
-       "mode": "schedule",
-       "photo_id": "122148416175209718",
-       "post_id": "914823471720372_122148416205209718",
-       "status": "scheduled"
-      },
-      "921611111039858": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:08+04:00",
-       "mode": "schedule",
-       "photo_id": "122144058345200344",
-       "post_id": "921611111039858_122144058375200344",
-       "status": "scheduled"
-      },
-      "975714512286925": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:13+04:00",
-       "mode": "schedule",
-       "photo_id": "122149655037209153",
-       "post_id": "975714512286925_122149655067209153",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Accept Her Or Get Out,\" My Husband Told Me While I Was Seven Months Pregnant. I Said \"All Right\" And Walked Out With One Folder He Never Read",
      "warnings": [],
      "wp_error": null,
      "wp_id": 221,
+     "wp_live": true,
      "wp_status": "future"
     },
     "FR": {
@@ -5202,8 +5091,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-12 15:00",
    "prepared": true,
-   "slot_iso": "2026-11-12T15:00:00+04:00",
+   "slot_iso": "2026-11-12T13:10:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/890719054_122119481912345126_4321576970635815822_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BYJ45ZAsDLAQ7kNvwFnWsFH&_nc_oc=Ado7TdL6u5N4YU4H8HPLG_u0qhg_5n5OtnBm4wZe_8CL3kmeqKtThjNyqX6gl4xxzG8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=rVHklvOrUq4ewtgxzvqAVw&_nc_tpa=Q5bMBQItgCYBfVc-mW8ozkyeMyheqln1WmdZEYJaa0QUxMX0RCHmQUmXN5yeYZWreWB_OBTV_LCEtuOrMg&oh=00_AQQ9CwmwRz12BKTd6IuZBidaZK8Hjgk5yLIAvmmRh5EaFA&oe=6AFB5761",
     "link": "https://www.facebook.com/share/p/1E5joFWaiw/",
@@ -5214,7 +5104,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-en.jpg"
    },
    "source_key": "post:61560353781750_122119517852345126",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

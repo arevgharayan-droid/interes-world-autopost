@@ -5112,7 +5112,8 @@
    "slot_iso": "2026-11-12T12:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-12 15:00": {
+  "2026-11-12 13:11": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -5122,129 +5123,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "100633729330404": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:25+04:00",
-       "mode": "schedule",
-       "photo_id": "1139769418751579",
-       "post_id": "100633729330404_1139769455418242",
-       "status": "scheduled"
-      },
-      "104114086037068": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:30+04:00",
-       "mode": "schedule",
-       "photo_id": "1039145122540533",
-       "post_id": "104114086037068_1039145142540531",
-       "status": "scheduled"
-      },
-      "1060733217128705": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:05+04:00",
-       "mode": "schedule",
-       "photo_id": "122144018708777362",
-       "post_id": "1060733217128705_122144018738777362",
-       "status": "scheduled"
-      },
-      "106713875762456": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:27+04:00",
-       "mode": "schedule",
-       "photo_id": "1027026980415574",
-       "post_id": "106713875762456_1027027003748905",
-       "status": "scheduled"
-      },
-      "1220745651126185": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:32+04:00",
-       "mode": "schedule",
-       "photo_id": "122126693199439195",
-       "post_id": "1220745651126185_122126693229439195",
-       "status": "scheduled"
-      },
-      "233545296514172": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:03:55+04:00",
-       "mode": "schedule",
-       "photo_id": "122335981172241259",
-       "post_id": "233545296514172_122335981202241259",
-       "status": "scheduled"
-      },
-      "530022363528890": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:03:57+04:00",
-       "mode": "schedule",
-       "photo_id": "122175406838720509",
-       "post_id": "530022363528890_122175406868720509",
-       "status": "scheduled"
-      },
-      "625664190627160": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:08+04:00",
-       "mode": "schedule",
-       "photo_id": "122184014366820020",
-       "post_id": "625664190627160_122184014396820020",
-       "status": "scheduled"
-      },
-      "648976361631351": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:13+04:00",
-       "mode": "schedule",
-       "photo_id": "122194220096829482",
-       "post_id": "648976361631351_122194220126829482",
-       "status": "scheduled"
-      },
-      "673710079162922": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:16+04:00",
-       "mode": "schedule",
-       "photo_id": "122244052886895613",
-       "post_id": "673710079162922_122244052916895613",
-       "status": "scheduled"
-      },
-      "714226118434052": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:18+04:00",
-       "mode": "schedule",
-       "photo_id": "122205171860902657",
-       "post_id": "714226118434052_122205171890902657",
-       "status": "scheduled"
-      },
-      "892503027289970": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:21+04:00",
-       "mode": "schedule",
-       "photo_id": "122142959127219808",
-       "post_id": "892503027289970_122142959157219808",
-       "status": "scheduled"
-      },
-      "994273113779575": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-12T13:04:01+04:00",
-       "mode": "schedule",
-       "photo_id": "122138648600776189",
-       "post_id": "994273113779575_122138648630776189",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "He Never Knew His Ex-Wife Had Their Son — Until She Walked Onto a Harvard Stage",
      "warnings": [],
      "wp_error": null,
      "wp_id": 220,
+     "wp_live": true,
      "wp_status": "future"
     },
     "FR": {
@@ -5272,8 +5156,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-12 15:00",
    "prepared": true,
-   "slot_iso": "2026-11-12T15:00:00+04:00",
+   "slot_iso": "2026-11-12T13:11:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/873996027_122118904070345126_386356534934792965_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X7OitXUKAZ0Q7kNvwHmKjOL&_nc_oc=AdoFbcrgCMTs6CBomideSakHDsWIXzs6cV5W_p0kfF6aNYawK9wxP9dLmhbvoXasVz4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hXd1upScVlyGq55un6wKpw&_nc_tpa=Q5bMBQJJ98Ox8NpZ8rFuOoDPBSuR7lu74pAqpqfxJ_XZ1eXVPaYn3y-OA-E0MRvWiQ9UNgQ-wnaOGGQArw&oh=00_AQRsouDkdvQX-aqKR8wu_0w-htJaclVeNc0TpLLqGMxTbg&oe=6AFB5B77",
     "link": "https://www.facebook.com/share/p/1Hb3e5zKnV/",
@@ -5284,7 +5169,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-en2.jpg"
    },
    "source_key": "post:61560353781750_122118934838345126",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
