@@ -3955,7 +3955,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-12T13:04:05+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Mio marito ha dimenticato di riattaccare: ciò che ho sentito mi ha spinta a preparare una sorpresa per il nostro anniversario",
      "warnings": [],
      "wp_error": null,

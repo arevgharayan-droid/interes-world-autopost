@@ -15,6 +15,7 @@
   "7a8b9787a9038db6d1c3": "2026-11-10T22:06:09+00:00",
   "82146aa95a8c25effbbd": "2026-11-10T22:03:44+00:00",
   "8660e8f9c6f8d691b287": "2026-11-09T13:25:53+00:00",
+  "87d1e0f4518d99214498": "2026-11-12T09:04:05+00:00",
   "91248c595505f5090bae": "2026-11-09T20:07:39+00:00",
   "9f27064d4760d4ec7129": "2026-11-09T13:24:35+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
@@ -3384,7 +3385,50 @@
    "status": "missed"
   },
   "2026-11-12 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Enceinte de sept semaines, enfermée par mon mari mafieux pendant qu'il fêtait l'anniversaire de son premier amour, j'ai dû sauter du deuxième étage d'une maison en flammes",
+     "warnings": [
+      "длина текста FB 1176 слов (исходник 978, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 223,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/864787883_122118682970345126_3498497767440678131_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oS4w-QyK8zIQ7kNvwGzjjfK&_nc_oc=AdoxpT8bXFj2tIHUAsmDF3y0XyZN8SuC1J7ccroOVUrh9euNVQ1RXRaiQi8CkdPc4pU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=VSIaZXu9znFlX9GoxhZqmA&_nc_tpa=Q5bMBQJ8ENV68UMEzl8sMpzqIyloQTTymOpyY2tAdsJyq_df057OHK3iH4ehZ2lXQUlDStC29zkMOeAtvQ&oh=00_AQQqPBV4K2dkNesQCmsLuDMaO5SjSpco7KhTT2m0kEoyYw&oe=6AFB603F",
@@ -3396,7 +3440,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-fr.jpg"
    },
    "source_key": "post:61560353781750_122118732104345126",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3581,7 +3625,7 @@
    "origin": "manual",
    "page_id": "61560353781750",
    "slot": "2026-11-12 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573369523860_122140459448778984": {
    "fingerprint": "0aa82445e13515402f28",
