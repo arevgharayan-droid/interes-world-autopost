@@ -655,6 +655,8 @@ def cmd_ops(cfg, args) -> int:
             if (not only or g in only) and a.get("slot", "") in st.slots:
                 rc |= cmd_cancel_slot(config_mod.group_view(cfg, g), a.get("slot", ""), state=st)
         return rc
+    if cmd == "scheduled":
+        return cmd_scheduled(cfg)
     if cmd == "publish-now":
         out = [f"## Опубликовать сейчас: выпуск {a.get('slot', '')}", ""]
         for g, st in _group_states(cfg).items():
@@ -718,6 +720,35 @@ def cmd_repost(cfg, from_key: str, to_key: str) -> int:
     for g, st in _group_states(cfg).items():
         out.append(f"- {cfg.group_label(g)}: {repost_slot(cfg, st, g, from_key, to_key)}")
     summary("\n".join(out) + "\n", "previews/repost.md", cfg)
+    return 0
+
+
+def cmd_scheduled(cfg) -> int:
+    """Отложенные посты на всех подключённых страницах: время выхода и начало текста."""
+    graph = Graph(cfg.graph_version)
+    tokens = load_tokens(cfg)
+    tz = ZoneInfo(cfg.tz)
+    out = ["## Отложенные посты на страницах", ""]
+    total = 0
+    for g in cfg.groups():
+        out += [f"### {cfg.group_label(g)}", ""]
+        for p in config_mod.group_view(cfg, g).pages:
+            tok = tokens.get(p.page_id)
+            if not tok:
+                out.append(f"- {p.name}: нет доступа")
+                continue
+            try:
+                sp = sorted(graph.scheduled_posts(p.page_id, tok), key=lambda x: int(x.get("scheduled_publish_time") or 0))
+            except FacebookError as e:
+                out.append(f"- {p.name}: ошибка {e.short()}")
+                continue
+            total += len(sp)
+            times = ", ".join(datetime.fromtimestamp(int(x.get("scheduled_publish_time") or 0), tz).strftime("%d.%m %H:%M")
+                              for x in sp) or "нет"
+            out.append(f"- {p.name}: {times}")
+        out.append("")
+    out.insert(2, f"Всего отложенных постов: **{total}**\n")
+    summary("\n".join(out) + "\n", "previews/scheduled.md", cfg)
     return 0
 
 
