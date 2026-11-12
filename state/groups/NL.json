@@ -21,6 +21,7 @@
   "7b147e020095c6199d1d": "2026-11-10T22:05:36+00:00",
   "81de3c9a0a991fc9bf6a": "2026-11-09T20:03:33+00:00",
   "82d6245bac03a32fa117": "2026-11-12T10:26:46+00:00",
+  "84b43238bfda7c42ae10": "2026-11-12T17:47:29+00:00",
   "88fe935e5a83ce556184": "2026-11-09T19:59:42+00:00",
   "8df4cd808be1716777ea": "2026-11-09T20:02:27+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
@@ -34,6 +35,7 @@
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "ebc91716c611bd42ee20": "2026-11-09T20:07:46+00:00",
   "ec07586e4e7c5fa4e396": "2026-11-01T10:36:58+00:00",
+  "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
   "f3c8eaafc0e1dc9038f5": "2026-11-09T13:26:40+00:00",
   "f5bea5f3ca119019e8c7": "2026-11-09T19:59:42+00:00"
  },
@@ -2709,7 +2711,55 @@
    "status": "missed"
   },
   "2026-11-13 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vier Wochen vor seinem Abschluss sagte mein Enkel, er wolle mich nicht mehr in seinem Leben – doch dann trat er ans Mikrofon",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 257,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vier weken voor zijn afstuderen wilde mijn kleinzoon me niet meer zien, maar toen hij op het podium de microfoon pakte, veranderde alles",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 256,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/903701848_1669675707869177_4287408516357275736_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0z1gUwZhJHMQ7kNvwG9aMyH&_nc_oc=AdosSR0IW8Jc1RrSdcbPJhzVr_jpyEXAK0xJgy3x_oFMRxFr90db2HFyI0DHoTGmfqY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=3He3Soutt5oCWTKlDPfsmg&_nc_tpa=Q5bMBQJedrPMBduIw8BxHU8ygr5Iyzk2TmDmn7peIy1DgFmDetySM6gYMWjBa0cxr7HMINrs2HMX1i5hFw&oh=00_AQTzTPaodG89hhv2jjEbXkolUfSHTOLy2BEyXVJFQKj97g&oe=6AFBDBBC",
@@ -2721,7 +2771,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-nl.jpg"
    },
    "source_key": "post:100044802900629_1669675741202507",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2858,7 +2908,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-13 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698998888285470": {
    "fingerprint": "82ad13dcc80155984bd8",
