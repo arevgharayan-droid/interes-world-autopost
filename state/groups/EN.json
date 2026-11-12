@@ -5681,6 +5681,7 @@
       },
       "236129656261330": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-13T00:03:01+04:00",
        "mode": "immediate",
@@ -5722,12 +5723,13 @@
       "975714512286925": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122149710723209153_1140608815224861",
        "error": null,
        "last_attempt": "2026-11-13T00:02:55+04:00",
        "mode": "immediate",
        "photo_id": "122149710699209153",
        "post_id": "975714512286925_122149710723209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "I Heard My Husband Whisper \"Soon They Will Both Be Gone\" While My Son and I Lay on the Kitchen Floor",
