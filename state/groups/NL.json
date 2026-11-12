@@ -16,9 +16,11 @@
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
   "6a5fb8d3a145316fa770": "2026-11-12T09:04:19+00:00",
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
+  "76987c00bbd404e3cd24": "2026-11-12T10:26:46+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
   "7b147e020095c6199d1d": "2026-11-10T22:05:36+00:00",
   "81de3c9a0a991fc9bf6a": "2026-11-09T20:03:33+00:00",
+  "82d6245bac03a32fa117": "2026-11-12T10:26:46+00:00",
   "88fe935e5a83ce556184": "2026-11-09T19:59:42+00:00",
   "8df4cd808be1716777ea": "2026-11-09T20:02:27+00:00",
   "9382de5f4c8dec2a5dbd": "2026-10-29T20:17:04+00:00",
@@ -2643,7 +2645,59 @@
    }
   },
   "2026-11-12 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ein fünfjähriges Mädchen nannte den gefürchteten Mafiaboss „Herr Griesgram“ – dann zog sie den Ring seines vor acht Jahren verschwundenen Bruders aus der Tasche",
+     "warnings": [
+      "длина текста FB 693 слов (исходник 944, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 225,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Een meisje van vijf noemde de gevreesde maffiabaas \"meneer Chagrijn\", maar met de zilveren ring van zijn verdwenen broer veranderde alles",
+     "warnings": [
+      "длина текста FB 742 слов (исходник 944, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 224,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/874186374_122105901507521979_1025025309766736629_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Szme4rs8w0oQ7kNvwEcaWoL&_nc_oc=AdoFoBgPabm8kBwShnMHIHPSQ7C3lWVRf4-WBn3CFL3QB92mHBUxGtXAU87PBLKS-W0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fW2Tz1uJirdlOwY-CrLl8Q&_nc_tpa=Q5bMBQLYTXoQi6ZM8IxvqO9iuC20OvlbCc69q7BYLc3ASsU5K4VDJG8n2XcndqQIpZ3R51SCK4qfci6L8w&oh=00_AQQJm0FLCl2P7dPkeSdMqcw639X9SWBmRoJSWTIAT7AgHw&oe=6AFB66FA",
@@ -2655,7 +2709,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-nl.jpg"
    },
    "source_key": "post:61595659383273_122105901873521979",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2933,7 +2987,7 @@
    "origin": "manual",
    "page_id": "61595659383273",
    "slot": "2026-11-12 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_122139981021225301": {
    "fingerprint": "c33c1a3930fd423f2761",
