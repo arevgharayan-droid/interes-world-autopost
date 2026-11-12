@@ -5576,15 +5576,17 @@
       "714226118434052": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122205225422902657_1846309130133287",
        "error": null,
        "last_attempt": "2026-11-12T21:55:19+04:00",
        "mode": "immediate",
        "photo_id": "122205225392902657",
        "post_id": "714226118434052_122205225422902657",
-       "status": "published"
+       "status": "done"
       },
       "892503027289970": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-12T21:55:22+04:00",
        "mode": "immediate",
