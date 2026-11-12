@@ -1,1 +1,1 @@
-{"id": "cq-1211", "cmd": "check-queue", "args": {}}
+{"id": "publish-now-1211", "cmd": "publish-now", "args": {"slot": "2026-11-12 15:00"}}
