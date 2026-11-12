@@ -4429,85 +4429,102 @@
      "pages": {
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140394150808945_971619715668100",
        "error": null,
        "last_attempt": "2026-11-13T00:03:09+04:00",
        "mode": "immediate",
        "photo_id": "122140394126808945",
        "post_id": "1030877436782212_122140394150808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111547110456562_1168276392196647",
        "error": null,
        "last_attempt": "2026-11-13T00:02:48+04:00",
        "mode": "immediate",
        "photo_id": "122111547086456562",
        "post_id": "1064982806700854_122111547110456562",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108205860506427_1107259278803965",
        "error": null,
        "last_attempt": "2026-11-13T00:02:42+04:00",
        "mode": "immediate",
        "photo_id": "122108205836506427",
        "post_id": "1079964265201139_122108205860506427",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140971434811401_1972803147010560",
        "error": null,
        "last_attempt": "2026-11-13T00:03:04+04:00",
        "mode": "immediate",
        "photo_id": "122140971410811401",
        "post_id": "1114015015119414_122140971434811401",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110204490543006_2748750215543739",
        "error": null,
        "last_attempt": "2026-11-13T00:02:54+04:00",
        "mode": "immediate",
        "photo_id": "122110204466543006",
        "post_id": "1140835409106424_122110204490543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122138335851311525_1122135097198449",
        "error": null,
        "last_attempt": "2026-11-13T00:02:28+04:00",
        "mode": "immediate",
        "photo_id": "122138335821311525",
        "post_id": "1142735408923607_122138335851311525",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135955501400586_1161662696423030",
        "error": null,
        "last_attempt": "2026-11-13T00:02:33+04:00",
        "mode": "immediate",
        "photo_id": "122135955477400586",
        "post_id": "1160223747182678_122135955501400586",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125411869405175_2027595588199679",
        "error": null,
        "last_attempt": "2026-11-13T00:02:59+04:00",
        "mode": "immediate",
        "photo_id": "122125411845405175",
        "post_id": "1191480207389219_122125411869405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112940016437662_1145519004653922",
        "error": null,
        "last_attempt": "2026-11-13T00:02:37+04:00",
        "mode": "immediate",
        "photo_id": "122112939992437662",
        "post_id": "997772916762884_122112940016437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Stavo per annunciare il fidanzamento con un'altra, ma in un bagno di ristorante ho incontrato quattro bambine con gli occhi della donna che amavo",
@@ -4546,7 +4563,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-it-1.jpg"
    },
    "source_key": "post:61576792898556_122130803336893096",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
