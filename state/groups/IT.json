@@ -17,6 +17,7 @@
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "bb0ddf4fdb82f7b2d023": "2026-11-10T22:04:53+00:00",
+  "c3a669114cbd1e96b360": "2026-11-12T10:26:53+00:00",
   "cc23a87a57ecc0a4a0f2": "2026-10-29T16:36:56+00:00",
   "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00",
   "f472d77cd9283f9c86cc": "2026-11-10T22:06:07+00:00",
@@ -4139,7 +4140,48 @@
    }
   },
   "2026-11-12 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il boss mafioso paralizzato si svegliò con la sua cameriera nel letto: quello che fece dopo lasciò tutti senza parole",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 222,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/884873707_122115677973489203_7094605626039150821_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WpyOcXdcHhwQ7kNvwGBD3BS&_nc_oc=Adp0957woXZG7F45TJmWrFqksu0mG4HABiQDtV32mNpZlaNX6DwW32lDI6t9vEARIAM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Ku5O9yBDox4unL-u8RBILQ&_nc_tpa=Q5bMBQI74p2w8gPKcwILgMd9jVjNrGC65aP1WWlBtfK4GnU9FID9W7OesuUTHx7H0UIXZZT-HQEZ1FoJ8g&oh=00_AQTjbTa1Fa3LMKw_oLoe6beDGjctJwlbLH1FIDkse_n4tw&oe=6AFB6A9F",
@@ -4151,7 +4193,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-it.jpg"
    },
    "source_key": "post:61594676105166_122115760053489203",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4421,7 +4463,7 @@
    "origin": "manual",
    "page_id": "61594676105166",
    "slot": "2026-11-12 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61595030999436_122108569407501033": {
    "fingerprint": "8145e536fe4b7bb8b4b4",
