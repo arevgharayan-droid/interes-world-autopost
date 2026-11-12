@@ -3576,6 +3576,12 @@
        "photo_id": "122127477399311884",
        "post_id": "1129620776897151_122127477429311884",
        "status": "scheduled"
+      },
+      "1164575726728296": {
+       "attempts": 1,
+       "last_attempt": "2026-11-12T14:35:46+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "Ablam Beni Gala Gecesinde Herkesin Önünde \"Hâlâ Seçilmeyi Bekleyen Kız Kardeşim\" Diye Tanıttı, Sonra Salonun Kapıları Açıldı",
