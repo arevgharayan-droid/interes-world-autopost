@@ -5404,6 +5404,12 @@
        "post_id": "1235940142932696_122118652365408404",
        "status": "published"
       },
+      "236129656261330": {
+       "attempts": 1,
+       "last_attempt": "2026-11-12T21:55:27+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "914823471720372": {
        "attempts": 1,
        "error": null,
