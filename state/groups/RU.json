@@ -7,11 +7,13 @@
   "04da7545de52af7eefa9": "2026-11-10T22:04:30+00:00",
   "0be0bfc1cc6b59ac3e3b": "2026-11-10T22:07:29+00:00",
   "0ddb611a8e43cef9f763": "2026-11-10T22:07:29+00:00",
+  "0febb3e08517debf9ca4": "2026-11-12T09:04:38+00:00",
   "151eb58f03724b2a8ed0": "2026-11-09T20:03:21+00:00",
   "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
   "30660871dadba458ebbe": "2026-11-09T20:02:09+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
+  "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5d014620f15f95df1195": "2026-11-10T22:05:49+00:00",
@@ -37,6 +39,7 @@
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
   "a55d1b7c34e29b885b6a": "2026-10-29T20:16:50+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
+  "b704adc12a8d3775fd71": "2026-11-12T09:04:38+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "d3478efad2a62c68f73f": "2026-10-29T16:41:26+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
@@ -3270,7 +3273,57 @@
    "status": "missed"
   },
   "2026-11-12 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ela ligou quatro vezes enquanto ele estava com a amante, e a última chamada guardava um segredo que ele jamais imaginaria",
+     "warnings": []
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Жена звонила мне четыре раза, пока я был с любовницей. Когда я наконец узнал, что случилось той ночью, мне стало страшно",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 148,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Karım beni dört kez aradı, ben otel odasında metresimle birlikteydim; dördüncü aramada telefonu o açtı ve asıl korkunç gerçek hastanede ortaya çıktı",
+     "warnings": [
+      "длина текста FB 1012 слов (исходник 1451, цель ±10%)"
+     ]
+    }
+   },
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/864891224_122118799442345126_6453460605186795521_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gBeF2YOocJ4Q7kNvwGU8q-x&_nc_oc=AdqbKR0beZjOpoEehbie2nF77eYZr8pzMPR5UVFa0j_t8BVmyZBFVZTmERM-y5CEMpw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=slqU2MHdOIr-dy1xobHlqQ&_nc_tpa=Q5bMBQJfX25X2gtWOtTNlosn7m5JPpQm13UjfxgNeCJWzkhR_X197r7fyM53crQ2QKMQDc_6_P6WHM02GA&oh=00_AQS_paUZ9VKSHleqDOCK5UzpQNes3hgRHpqjsABzfHQ0RA&oe=6AFB4FF0",
