@@ -10,6 +10,7 @@
   "16dff82487a20e2b89e6": "2026-11-10T22:04:40+00:00",
   "282775455f9afac79cda": "2026-11-10T22:03:35+00:00",
   "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
+  "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
   "3b17ef7d9630be534518": "2026-11-01T18:14:37+00:00",
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
@@ -30,6 +31,7 @@
   "98ed0f869b67d7d406ea": "2026-11-10T22:05:36+00:00",
   "a373ece8d16ef871e0a9": "2026-11-09T20:07:46+00:00",
   "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
+  "b924e8960efa86262e90": "2026-11-12T20:02:32+00:00",
   "ba5124bf926776f201e6": "2026-11-09T13:25:52+00:00",
   "caa9ee0aac3ceacdcbc5": "2026-11-09T20:02:27+00:00",
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
@@ -2846,7 +2848,55 @@
    }
   },
   "2026-11-13 00:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Schwiegermutter schnallte meinem Mann eine Wassermelone um – am nächsten Morgen kniete er vor zwei Koffern im Flur",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 274,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn schoonmoeder bond een watermeloen op de buik van mijn man nadat hij mijn zwangerschap belachelijk maakte, en de volgende ochtend liet wat ik ontdekte me naar adem snakken",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 273,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/903977864_1669691287867619_4381782680714876791_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZbDtNLcS8zkQ7kNvwFVFo71&_nc_oc=AdrIljT1TpqUBveL1YEw_0c718tQo017-IkmpZ8EGP3YhfVpZ_Ykm6W8DNHaLSs5oe0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=o3U6tAyx8qkqGvFDnLEzug&_nc_tpa=Q5bMBQKcjLOwJD7r0vJPDCCRH_1hA6vXXPOXj0m4Ida86KSswEckalBZeXDeSjuy4RbFep6eg9qe1E9M-w&oh=00_AQQvVb9zvoTddn8kMKCyIaA_WDR1VI4i9BhEo_MKVKS8yA&oe=6AFBE9B1",
@@ -2858,7 +2908,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-nl-1.jpg"
    },
    "source_key": "post:100044802900629_1669691307867617",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3007,7 +3057,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-13 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698998888285470": {
    "fingerprint": "82ad13dcc80155984bd8",
