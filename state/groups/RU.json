@@ -3516,7 +3516,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1448441201677530": {
+       "attempts": 1,
+       "last_attempt": "2026-11-12T14:35:50+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Minha irmã me humilhou diante de 400 convidados no seu gala, até o homem mais esperado da noite passar direto por ela e me perguntar: \"Querida, você está pronta para ir embora?",
      "warnings": [],
      "wp_error": null,
