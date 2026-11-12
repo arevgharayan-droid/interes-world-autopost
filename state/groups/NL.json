@@ -2508,7 +2508,23 @@
   "2026-11-12 15:00": {
    "langs": {},
    "slot_iso": "2026-11-12T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/864787846_122118682898345126_3144163089212524012_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=K9bgFYag_sIQ7kNvwGXF3h6&_nc_oc=AdoRaHmlzOHEGJe6hrfrC70krnm12fJblokTC-uvu4ZNK_eCdKYIh_f9Zy6bYm2t2j0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=HFIJCb_0SPeZCHm5yb5L-Q&_nc_tpa=Q5bMBQKG_yrJp8F9C6i110MycMrjJ8WUjS0orV4fjaT-dO6Y_wtei_cK7okA91yoQFzVsxdj9kry_TR0QA&oh=00_AQQAfFVBWzpzHuNOBKAaw9i5N0LCe759C_Ac5hellS1pKA&oe=6AFB65E7",
+    "link": "https://www.facebook.com/share/p/1EMn6UHAMN/",
+    "origin": "manual",
+    "page_id": "61560353781750",
+    "text": "\"After three years of marriage, my Mafia Boss husband divorced me the moment his first love returned to Chicago. He offered me millions to disappear quietly, but I refused every dollar and asked for only one thing: a favor he would owe me someday. Three days later, I left his mansion with two suitcases, a plane ticket, and a secret growing inside me that Vincent Moretti knew absolutely nothing about.\n\nMy name is Claire Bennett, and for three years I was married to one of Chicago’s most feared Mafia Bosses.\n\nVincent Moretti had money, power, and enough influence to make dangerous men hesitate before crossing him.\n\nBut none of that mattered when he placed our divorce agreement in front of me.\n\n“You married me because your grandmother wanted to see you settle down before she died,” I said. “Now she’s gone, and Sophia Reynolds is back.”\n\nVincent said nothing.\n\nThat silence told me enough.\n\nI pushed the settlement documents toward him.\n\n“The money isn’t enough.”\n\nHis eyes lifted.\n\n“How much do you want?”\n\n“I don’t want your money.”\n\nI met his gaze.\n\n“I want one favor. Someday, when I ask, you owe me.”\n\nFor the first time, surprise crossed his face.\n\nThen he nodded.\n\n“Deal.”\n\nI signed.\n\nThree years of marriage ended with one stroke of a pen.\n\nThree days later, everything I wanted from Vincent’s mansion fit into two suitcases.\n\nThe housekeeper offered me an expensive coat and unopened gifts.\n\n“Leave them for his next wife,” I said.\n\nAt the front gates, Vincent’s car pulled in.\n\n“Where are you going?” he asked.\n\n“Somewhere else.”\n\nHe frowned. “I’ll drive you.”\n\n“No.”\n\nThen something inside me finally broke loose.\n\n“Would it have looked better if I pretended not to notice you moved into a hotel after your grandmother died? Or that your mother never thought I was good enough? Or that Sophia came back and suddenly our marriage became disposable?”\n\nHis face tightened.\n\n“I was only Sophia’s replacement, wasn’t I?”\n\nVincent stared at me strangely.\n\n“You think the person you replaced was Sophia?”\n\nI froze.\n\n“What does that mean?”\n\nHe looked at me for a long moment.\n\nThen he said quietly, “Forget it.”\n\nAnd drove away.\n\nThe next day, I called my best friend, Madison.\n\n“My flight is still tomorrow?”\n\n“Three in the afternoon,” she confirmed.\n\nBefore leaving Chicago, however, I had one final person to see.\n\nSophia.\n\nWe met at an upscale café downtown.\n\nShe tried to look sympathetic.\n\n“I heard about the divorce. I’m so sorry.”\n\nI almost laughed.\n\nInstead, I slid a red envelope across the table.\n\n“A wedding gift.”\n\nHer smile vanished when she opened it.\n\nThere was no money inside.\n\nOnly one document.\n\nSophia read it.\n\nThen all the color drained from her face.\n\n“How did you get this?”\n\nI stood.\n\n“I’m not here to fight over Vincent. I just wanted you to understand something.”\n\nShe stared at me.\n\n“The man you worked so hard to take from me is a man I no longer want.”\n\nThen I walked away.\n\nLater, I learned Sophia went straight to Vincent.\n\nShe told him she was leaving.\n\nThen she confessed the secret exposed by the document I had given her.\n\nWhatever she admitted changed everything.\n\nThat evening, while I sat alone in my hotel room preparing to leave Chicago forever, Vincent texted me.\n\n“You left your divorce certificate in my car.”\n\nI stared at the message.\n\nOnce, our marriage certificate had felt priceless.\n\nNow it meant nothing.\n\n“Throw it away,” I replied.\n\nSeconds later, another message appeared.\n\n“I want to see you. Can I?”\n\nI froze.\n\nThe man who had signed our divorce without hesitation suddenly wanted to see me.\n\nI didn’t know what Sophia had confessed.\n\nI didn’t know what Vincent now understood.\n\nBut there was still one truth neither of them knew.\n\nMy hand slowly moved to my stomach.\n\nThen I whispered into the silence,\n\n“Baby… do you want to see your daddy?”\n\nThe story is too long to post in the caption, so just say you \"\"\"\"Yes\"\"\"\". The full story will be in the comments below.👇👇 \"",
+    "wp_media_id": 216,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-nl.jpg"
+   },
+   "source_key": "post:61560353781750_122118713858345126",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-12 18:00": {
    "langs": {},
@@ -2672,6 +2688,14 @@
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
    "status": "used"
+  },
+  "post:61560353781750_122118713858345126": {
+   "fingerprint": "5884cb21f7124cdb4a71",
+   "link": "https://www.facebook.com/share/p/1EMn6UHAMN/",
+   "origin": "manual",
+   "page_id": "61560353781750",
+   "slot": "2026-11-12 15:00",
+   "status": "reserved"
   },
   "post:61573369523860_122139776786778984": {
    "fingerprint": "db054e7e2e20fbf4d5f1",

@@ -3939,7 +3939,23 @@
   "2026-11-12 15:00": {
    "langs": {},
    "slot_iso": "2026-11-12T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/861826601_122118228716345126_6461632473972053313_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OJSisULIozkQ7kNvwHa28mx&_nc_oc=AdqyK2DbM7jW0S-990qfPSJK5ZiNozaxwE0dkRC_BHBJKKeJMMTzkNi-cgUk87Pxj9c&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=7CP_n8oAENlv88ppAiSTkQ&_nc_tpa=Q5bMBQLTL7uua6f_Chv7eoG2R9TWjQbcZyKjXYCCsAt7S87IuvDErjRebYaY9nVzpAcDnV9tHOqcGJprZg&oh=00_AQQcp6EKYbOXTxH0taHckLPWpQM02RsMbrYJBxjYSlGnkA&oe=6AFB66E8",
+    "link": "https://www.facebook.com/share/p/1E5utT7Hic/",
+    "origin": "manual",
+    "page_id": "61560353781750",
+    "text": "\"My husband forgot to hang up after yelling at me for asking when he'd be home with our newborn daughter. Seconds later, I heard him tell another woman he hated me, couldn't stand touching me, and planned to divorce me so he could marry her. He came home that night with flowers, pretending to be a loving husband. I pretended to believe him. Six days later, I invited both our families to our anniversary dinner and prepared a surprise he'd never forget.\n\nJulian and I had been married for two years.\n\nOur daughter, Maya, was still a newborn.\n\nWhile I spent sleepless nights feeding her, Julian was always “working late.”\n\nOne afternoon, I called him.\n\n“Will you be home for dinner?”\n\n“Stop checking up on me!” he snapped. “I'm working.”\n\n“Okay. Love you.”\n\nHe didn't answer.\n\nI set my phone beside Maya's bottle.\n\nThen I noticed the call hadn't ended.\n\nA woman laughed.\n\nJulian's voice followed.\n\n“She's driving me insane. Always sending baby pictures, asking when I'll be home.”\n\nI froze.\n\nThe woman whispered something.\n\nJulian laughed again.\n\n“Of course I hate her. I barely touch her anymore. I'll divorce her and marry you.”\n\nThen I heard a kiss.\n\nI looked at Maya sleeping peacefully beside me.\n\n**The man I'd married had just called our little family a burden.**\n\nI quietly disconnected.\n\nThat evening, Julian walked through our door carrying grocery-store flowers.\n\n“Missed my girls,” he said, kissing my forehead.\n\nI smiled.\n\n“We missed you too.”\n\nFor six days, I said nothing.\n\nI watched him change his passcode, hide his phone, and spray cologne before his late meetings.\n\nMeanwhile, I changed our anniversary plans.\n\nInstead of dinner for three, I invited both families.\n\nSunday evening, our table was filled with roast chicken, mashed potatoes, green beans, and pumpkin pie.\n\nJulian laughed with everyone.\n\nHe had no idea what I knew.\n\nAfter dessert, I stood and raised my water glass.\n\n“I'd like to make a toast.”\n\nThe room fell silent.\n\nJulian looked up.\n\nHis smile faltered.\n\nI looked directly into his eyes.\n\n**“To my dear husband, Julian…”**\n\nI cleared my throat.\n\nAnd every person at that table waited for my next words.\n\nNEXT PART and the FULL ENDING are coming. Type ‘YES’ and press ‘LIKE’ so we can post full story. Your [LIKE] helps these honest stories reach the people who need them most. Thank you for the support.\"",
+    "wp_media_id": 218,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-it.jpg"
+   },
+   "source_key": "post:61560353781750_122118289148345126",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-12 18:00": {
    "langs": {},
@@ -4119,6 +4135,14 @@
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
    "status": "used"
+  },
+  "post:61560353781750_122118289148345126": {
+   "fingerprint": "18fdf02041a09e2fbb81",
+   "link": "https://www.facebook.com/share/p/1E5utT7Hic/",
+   "origin": "manual",
+   "page_id": "61560353781750",
+   "slot": "2026-11-12 15:00",
+   "status": "reserved"
   },
   "post:61576792898556_122130758852893096": {
    "fingerprint": "70b2b5adc4ce4ff4c245",
