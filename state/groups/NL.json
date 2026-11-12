@@ -9,10 +9,12 @@
   "15be0b388fcdf33795f9": "2026-11-10T22:02:31+00:00",
   "16dff82487a20e2b89e6": "2026-11-10T22:04:40+00:00",
   "282775455f9afac79cda": "2026-11-10T22:03:35+00:00",
+  "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
   "3b17ef7d9630be534518": "2026-11-01T18:14:37+00:00",
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "6565c342e673c543f029": "2026-10-31T10:15:07+00:00",
+  "6a5fb8d3a145316fa770": "2026-11-12T09:04:19+00:00",
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
   "79f0624dc5837eda2ae1": "2026-10-29T20:24:41+00:00",
   "7b147e020095c6199d1d": "2026-11-10T22:05:36+00:00",
@@ -2506,7 +2508,55 @@
    "status": "missed"
   },
   "2026-11-12 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Er bot mir Millionen für mein Schweigen, doch ich verlangte nur einen Gefallen – und verschwieg ihm, was ich unter dem Herzen trug",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 225,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Hij bood me miljoenen om te verdwijnen, maar ik vroeg om één gunst en nam een geheim mee dat hij nog niet kende",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 224,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-12T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/864787846_122118682898345126_3144163089212524012_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=K9bgFYag_sIQ7kNvwGXF3h6&_nc_oc=AdoRaHmlzOHEGJe6hrfrC70krnm12fJblokTC-uvu4ZNK_eCdKYIh_f9Zy6bYm2t2j0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=HFIJCb_0SPeZCHm5yb5L-Q&_nc_tpa=Q5bMBQKG_yrJp8F9C6i110MycMrjJ8WUjS0orV4fjaT-dO6Y_wtei_cK7okA91yoQFzVsxdj9kry_TR0QA&oh=00_AQQAfFVBWzpzHuNOBKAaw9i5N0LCe759C_Ac5hellS1pKA&oe=6AFB65E7",
@@ -2518,7 +2568,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-nl.jpg"
    },
    "source_key": "post:61560353781750_122118713858345126",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -2695,7 +2745,7 @@
    "origin": "manual",
    "page_id": "61560353781750",
    "slot": "2026-11-12 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573369523860_122139776786778984": {
    "fingerprint": "db054e7e2e20fbf4d5f1",
