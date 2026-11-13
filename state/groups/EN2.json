@@ -22,6 +22,7 @@
   "ab12b39c82a984be6a9e": "2026-11-12T10:26:25+00:00",
   "bf3e5716d0c3c6dde7f4": "2026-11-01T10:36:35+00:00",
   "d90f86068fb546dde052": "2026-11-09T20:01:42+00:00",
+  "e94ee160cd92603444dc": "2026-11-13T14:37:33+00:00",
   "f15ba75fe4f0719457b0": "2026-11-01T18:14:03+00:00"
  },
  "outputs": {
@@ -5721,7 +5722,50 @@
    "status": "missed"
   },
   "2026-11-13 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Carried a Baby for My Brother, but the Moment He Saw His Newborn Daughter, He Refused to Take Her Home",
+     "warnings": [
+      "длина статьи 982 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 299,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/813320859_122120660481316334_155542596990678192_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lukLc9w-5CQQ7kNvwEb2mwO&_nc_oc=Adrjp9mfF-LTGkxqOPQJPnazIi6B-l7o8Wggfj0F17NTLYAcSIoixyPLknEj27njNDc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=peoJF-pU6YeWETmz2eTp4w&_nc_tpa=Q5bMBQLfqu8O8CUGIDqPjd_Kicl8lzUB2PrxPH23mhvMSGRRTxrzoKDPo_ZNpSfDae3V74EI4Wyd_d-OUQ&oh=00_AQSzedWWi_9CWVM12Ddw8TdGMq0UPmxoey0jdylhGTRtTA&oe=6AFCE399",
@@ -5733,7 +5777,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-en2.jpg"
    },
    "source_key": "post:61589490035610_122120660541316334",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5997,7 +6041,7 @@
    "origin": "manual",
    "page_id": "61589490035610",
    "slot": "2026-11-13 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122149403805348565": {
    "error": "слот пропущен",
