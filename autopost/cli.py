@@ -5,6 +5,7 @@ import argparse
 import copy
 import json
 import os
+import re
 import shutil
 import sys
 import tempfile
@@ -655,6 +656,8 @@ def cmd_ops(cfg, args) -> int:
             if (not only or g in only) and a.get("slot", "") in st.slots:
                 rc |= cmd_cancel_slot(config_mod.group_view(cfg, g), a.get("slot", ""), state=st)
         return rc
+    if cmd == "match-pages":
+        return cmd_match_pages(cfg, a.get("pages") or [])
     if cmd == "start-now":
         # «сейчас»: внеочередной выпуск на текущую минуту — следующий запуск берёт ссылки из очередей и
         # публикует сразу, без отложенных постов (не создаём, чтобы потом удалять: Facebook это не любит)
@@ -870,6 +873,48 @@ def _delete_slot_posts(cfg, g, s, dt, graph, tokens) -> tuple:
             except FacebookError as err:
                 errors.append(f"{cfg.page(pid).name if cfg.page(pid) else pid}: {err.short()}")
     return removed, errors
+
+
+def cmd_match_pages(cfg, wanted: list) -> int:
+    """Какие из присланных страниц (профиль или ссылка + название) доступны системному пользователю:
+    ищем по id профиля в ссылке страницы, затем по названию."""
+    import unicodedata
+    graph = Graph(cfg.graph_version)
+    token = os.environ.get("FB_USER_TOKEN", "")
+    acc = graph.paged("me/accounts", token, fields="id,name,link,tasks", limit=100)
+    norm = lambda x: unicodedata.normalize("NFC", (x or "")).strip().casefold()   # noqa: E731
+    by_prof, by_name = {}, {}
+    for pg in acc:
+        m = re.search(r"id=(\d+)", pg.get("link") or "")
+        if m:
+            by_prof[m.group(1)] = pg
+        by_name.setdefault(norm(pg.get("name")), []).append(pg)
+    known = {p.page_id for p in cfg.all_pages}
+    out, found = ["## Новые страницы: доступ", ""], []
+    for w in wanted:
+        prof, name = str(w.get("profile_id") or ""), w.get("name", "")
+        pg = by_prof.get(prof) if prof else None
+        how = "по профилю"
+        if not pg:
+            cands = by_name.get(norm(name)) or []
+            pg = cands[0] if len(cands) == 1 else None
+            how = "по названию" if pg else ("несколько с таким названием" if cands else "")
+        if pg:
+            tasks = set(pg.get("tasks") or [])
+            ok = {"CREATE_CONTENT", "MODERATE"} <= tasks or "MANAGE" in tasks
+            already = " (уже подключена)" if pg["id"] in known else ""
+            out.append(f"- ✅ {name}: page_id {pg['id']} «{pg.get('name')}» ({how}){already}"
+                       + ("" if ok else f" — мало прав: {', '.join(sorted(tasks))}"))
+            found.append({"name": name, "page_id": pg["id"], "fb_name": pg.get("name"), "profile_id": prof,
+                          "lang": w.get("lang"), "rights_ok": ok, "known": pg["id"] in known})
+        else:
+            out.append(f"- ❌ {name} ({prof or w.get('link', '')}): нет доступа"
+                       + (f" — {how}" if how and how != "по профилю" else ""))
+    out.insert(2, f"Доступно: **{len(found)} из {len(wanted)}** · всего страниц у autopost: {len(acc)}\n")
+    cfg.path("previews").mkdir(exist_ok=True)
+    cfg.path("previews/match-pages.json").write_text(json.dumps(found, ensure_ascii=False, indent=1), encoding="utf-8")
+    summary("\n".join(out) + "\n", "previews/match-pages.md", cfg)
+    return 0
 
 
 def start_now(cfg, g: str, now=None) -> str:
