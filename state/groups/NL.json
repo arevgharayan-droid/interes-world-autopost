@@ -2954,7 +2954,22 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1208422892355505": {
+       "attempts": 1,
+       "error": "публикация: FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
+       "last_attempt": "2026-11-13T18:44:10+04:00",
+       "mode": "immediate",
+       "status": "failed"
+      },
+      "1268633826332790": {
+       "attempts": 1,
+       "error": "публикация: FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
+       "last_attempt": "2026-11-13T18:44:12+04:00",
+       "mode": "immediate",
+       "status": "failed"
+      }
+     },
      "title": "Im Landeanflug hörte ich plötzlich meinen Namen aus dem Cockpit – 55 Jahre nach dem Verschwinden des Mannes, den ich liebte",
      "warnings": [
       "длина текста FB 631 слов (исходник 751, цель ±10%)"
@@ -2980,7 +2995,22 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "633031599904551": {
+       "attempts": 1,
+       "error": "публикация: FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
+       "last_attempt": "2026-11-13T18:44:07+04:00",
+       "mode": "immediate",
+       "status": "failed"
+      },
+      "715935674934966": {
+       "attempts": 1,
+       "error": "публикация: FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
+       "last_attempt": "2026-11-13T18:44:09+04:00",
+       "mode": "immediate",
+       "status": "failed"
+      }
+     },
      "title": "55 jaar na zijn verdwijning klonk vlak voor de landing mijn naam door de cockpitluidspreker, en wat de piloot daarna zei, joeg me de stuipen op het lijf",
      "warnings": [],
      "wp_error": null,
@@ -3014,7 +3044,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-nl.jpg"
    },
    "source_key": "post:61589490035610_122125985943316334",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
