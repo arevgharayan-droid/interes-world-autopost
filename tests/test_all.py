@@ -654,6 +654,83 @@ class PublishNowTests(unittest.TestCase):
         self.assertNotEqual(nine["source"]["wp_media_id"], moved["source"]["wp_media_id"])
 
 
+class StartNowTests(unittest.TestCase):
+    """«Сейчас»: внеочередной выпуск на текущую минуту, без отложенных постов, расписание не трогается."""
+
+    def test_start_now_publishes_immediately(self):
+        from autopost.cli import start_now
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 7, 1, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        st_path = tmp / "state/groups/FR.json"
+
+        def tick():
+            gcfg = group_view(cfg, "FR")
+            Pipeline(gcfg, State(st_path), graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+        tick()                                                        # расписание включено, очередь пуста
+        _queue_story(graph, cfg, tmp, "FR", 951, "Story S.")
+        clock["now"] = clock["now"].replace(minute=3)
+        start_now(cfg, "FR", now=clock["now"])
+        for mm in (4, 20, 40):
+            clock["now"] = clock["now"].replace(minute=mm)
+            tick()
+        st = State(st_path)
+        self.assertEqual(st.slots["2030-05-01 07:03"]["status"], "done")
+        self.assertTrue(graph.posts and all(p["published"] for p in graph.posts.values()))   # ни одного отложенного
+        self.assertTrue(all(len(graph.comments_by.get(pid, [])) == 1 for pid in graph.posts))
+        self.assertFalse(st.slots.get("2030-05-01 09:00", {}).get("prepared"))
+
+
+class RateLimitTests(unittest.TestCase):
+    """Facebook ответил 368 «ограничиваем частоту»: остальные страницы не дёргаем, ждём паузу, потом публикуем."""
+
+    def test_rate_limit_pauses_and_retries(self):
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        _queue_story(graph, cfg, tmp, "IT", 941, "Story L.")
+        st_path = tmp / "state/groups/IT.json"
+        pages = [p for p in cfg.pages if p.group == "IT"]
+        calls = []
+        orig = graph.create_photo_post
+
+        def counting(*a, **k):
+            calls.append(a[0])
+            return orig(*a, **k)
+        graph.create_photo_post = counting
+        graph.fail_next.append(("create_photo_post", None,
+                                FacebookError("Мы ограничиваем частоту", code=368, subcode=1390008)))
+
+        def tick():
+            gcfg = group_view(cfg, "IT")
+            Pipeline(gcfg, State(st_path), graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+        tick()                                   # 06:07 — готовим 09:00; первый же пост — 368
+        self.assertEqual(len(calls), 1)          # остальные страницы не трогали
+        self.assertEqual(graph.posts, {})
+        clock["now"] = clock["now"].replace(minute=30)
+        tick()                                   # пауза 60 минут — не публикуем
+        self.assertEqual(len(calls), 1)
+        clock["now"] = clock["now"].replace(hour=7, minute=10)
+        tick()                                   # пауза прошла — ставим все
+        self.assertEqual(len(graph.posts), len(pages))
+        for hh, mm in ((9, 7), (9, 37)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            tick()
+        self.assertTrue(all(len(graph.comments_by.get(pid, [])) == 1 for pid in graph.posts))
+        st = State(st_path)
+        self.assertTrue(all(e["attempts"] <= 1 for L in st.slots["2030-05-01 09:00"]["langs"].values()
+                            for e in L["pages"].values()))
+        self.assertNotIn("fb_block_minutes", st.data)
+
+
 class LateLinkTests(unittest.TestCase):
     def test_link_sent_after_release_goes_to_next_release(self):
         """Выпуск 09:00 прошёл без истории; ссылка пришла в 09:45 — она идёт в 12:00, а не «догоняет» 09:00."""

@@ -655,6 +655,28 @@ def cmd_ops(cfg, args) -> int:
             if (not only or g in only) and a.get("slot", "") in st.slots:
                 rc |= cmd_cancel_slot(config_mod.group_view(cfg, g), a.get("slot", ""), state=st)
         return rc
+    if cmd == "start-now":
+        # «сейчас»: внеочередной выпуск на текущую минуту — следующий запуск берёт ссылки из очередей и
+        # публикует сразу, без отложенных постов (не создаём, чтобы потом удалять: Facebook это не любит)
+        out = ["## Внеочередной выпуск", ""]
+        for g in cfg.groups():
+            out.append(f"- {cfg.group_label(g)}: {start_now(cfg, g)}")
+        summary("\n".join(out) + "\n", "previews/start-now.md", cfg)
+        return 0
+    if cmd == "fb-pause":
+        # пауза публикаций во всех группах (Facebook ограничил частоту): minutes=0 — снять паузу
+        mins = int(a.get("minutes", 60))
+        until = (datetime.now(ZoneInfo(cfg.tz)) + timedelta(minutes=mins)).isoformat(timespec="seconds")
+        for g, st in _all_group_states(cfg).items():
+            if mins > 0:
+                st.data["fb_block_until"] = until
+                st.data["fb_block_minutes"] = max(mins, int(st.data.get("fb_block_minutes") or 0))
+            else:
+                st.data.pop("fb_block_until", None)
+                st.data.pop("fb_block_minutes", None)
+            st.save()
+        summary(f"## Пауза публикаций\n\n{'до ' + until if mins > 0 else 'снята'}\n", "previews/fb-pause.md", cfg)
+        return 0
     if cmd == "scheduled":
         return cmd_scheduled(cfg)
     if cmd == "redo-slot":
@@ -848,6 +870,17 @@ def _delete_slot_posts(cfg, g, s, dt, graph, tokens) -> tuple:
             except FacebookError as err:
                 errors.append(f"{cfg.page(pid).name if cfg.page(pid) else pid}: {err.short()}")
     return removed, errors
+
+
+def start_now(cfg, g: str, now=None) -> str:
+    st = State(config_mod.group_state_path(cfg, g))
+    tz = ZoneInfo(cfg.tz)
+    dt = (now or datetime.now(tz)).astimezone(tz).replace(second=0, microsecond=0)
+    while Pipeline.key(dt) in st.slots:
+        dt -= timedelta(minutes=1)
+    st.slots[Pipeline.key(dt)] = {"status": "new", "langs": {}, "slot_iso": dt.isoformat(), "adhoc": True}
+    st.save()
+    return f"выпуск {Pipeline.key(dt)} — следующий запуск возьмёт ссылку из очереди и опубликует сразу"
 
 
 def publish_now(cfg, g: str, from_key: str, services=None, tokens=None, now=None) -> str:

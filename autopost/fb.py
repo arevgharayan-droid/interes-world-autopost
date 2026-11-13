@@ -33,6 +33,11 @@ class FacebookError(Exception):
         return self.code in TRANSIENT_CODES or (self.status or 0) >= 500 or self.code is None
 
     @property
+    def rate_limited(self) -> bool:
+        """368 — Facebook временно ограничил частоту публикаций («Мы ограничиваем частоту…»)."""
+        return self.code == 368
+
+    @property
     def auth(self) -> bool:
         return self.code in AUTH_CODES
 

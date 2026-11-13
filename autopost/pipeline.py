@@ -75,6 +75,7 @@ class Pipeline:
         # даже если сайт группы с тех пор поменяли
         self.wp_factory = wp_factory
         self._wps = {}
+        self.fb_blocked = False   # в этом запуске Facebook уже ответил «ограничиваем частоту»
         self.tokens = tokens
         self.tz = ZoneInfo(cfg.tz)
         self.now_fn = now_fn or (lambda: datetime.now(self.tz))
@@ -457,6 +458,11 @@ class Pipeline:
         else:
             mode = "expired"
         skip_src = self.cfg.sources.get("skip_source_page", True)
+        until = self.state.data.get("fb_block_until")
+        if until and now < datetime.fromisoformat(until):
+            self.r.info(f"{key}: Facebook временно ограничил публикации — пауза до "
+                        f"{datetime.fromisoformat(until).astimezone(self.tz):%H:%M}, потом повторю")
+            return
         for lang in LANG_ORDER:
             L = s["langs"].setdefault(lang, {"pages": {}})
             if not L.get("generated"):
@@ -491,6 +497,8 @@ class Pipeline:
                     self.r.error(f"{key} {lang} «{page.name}»: пост не опубликован: {e.get('error')}", final=True)
                     self.state.save()
                     continue
+                if self.fb_blocked:
+                    continue          # Facebook ограничил частоту — остальные страницы не дёргаем
                 if mode == "immediate" and e.get("last_attempt"):
                     # лента страницы обновляется с задержкой — не спешим с повтором
                     if now - datetime.fromisoformat(e["last_attempt"]) < timedelta(minutes=5):
@@ -544,12 +552,27 @@ class Pipeline:
                 page.page_id, tok, data, f"story{mimetypes.guess_extension(mime) or '.jpg'}",
                 text["fb_text"], scheduled_ts=int(dt.timestamp()) if mode == "schedule" else None, mime=mime)
         except FacebookError as err:
+            if err.rate_limited:
+                # не попытка, а пауза: ждём и повторяем, каждый новый отказ удваивает паузу (до 8 часов)
+                e["status"] = "failed"
+                e["attempts"] = max(0, e["attempts"] - 1)
+                self.fb_blocked = True
+                prev = int(self.state.data.get("fb_block_minutes") or 0)
+                last = self.state.data.get("fb_block_until")
+                recent = last and self.now() - datetime.fromisoformat(last) < timedelta(hours=6)
+                minutes = min(480, prev * 2) if (prev and recent) else 60
+                self.state.data["fb_block_minutes"] = minutes
+                self.state.data["fb_block_until"] = (self.now() + timedelta(minutes=minutes)).isoformat(timespec="seconds")
+                self.page_error(key, f"{lang} {page.name}", e, err,
+                                f"публикация (Facebook ограничил частоту — пауза {minutes} мин)")
+                return
             # при временной ошибке пост мог создаться — следующий запуск сначала проверит страницу
             e["status"] = "sending" if err.transient else "failed"
             self.page_error(key, f"{lang} {page.name}", e, err, "публикация")
             return
         e.update(photo_id=res.get("id"), post_id=res.get("post_id"), error=None,
                  status="scheduled" if mode == "schedule" else "published")
+        self.state.data.pop("fb_block_minutes", None)   # публикации снова проходят — пауза сбрасывается
         self.state.remember_output(res.get("post_id"))
         self.state.remember_output(res.get("id"))
         self.r.counts["fb_scheduled" if mode == "schedule" else "fb_published"] += 1
