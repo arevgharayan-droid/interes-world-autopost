@@ -3820,12 +3820,13 @@
       "1448441201677530": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122119665765505599_2585050388669601",
        "error": null,
        "last_attempt": "2026-11-13T14:15:41+04:00",
        "mode": "schedule",
        "photo_id": "122119665735505599",
        "post_id": "1448441201677530_122119665765505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Gastei 86 mil dólares num bracelete para a amante enquanto minha esposa lutava para sobreviver à pior nevasca do Colorado em 32 anos — e eu tinha desligado o telefone que ela não parava de ligar",
@@ -3931,7 +3932,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-1500-ru.jpg"
    },
    "source_key": "post:61590177596600_122131115925339253",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
