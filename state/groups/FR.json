@@ -20,7 +20,8 @@
   "9f27064d4760d4ec7129": "2026-11-09T13:24:35+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
   "b094df1fc1c2da2733f6": "2026-11-12T10:26:33+00:00",
-  "b120e497dba6ca6aff31": "2026-11-10T22:02:37+00:00"
+  "b120e497dba6ca6aff31": "2026-11-10T22:02:37+00:00",
+  "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00"
  },
  "outputs": {
   "1032441206625600_122116476728633539": "2026-10-31T10:15:11+00:00",
@@ -3523,7 +3524,51 @@
    "status": "missed"
   },
   "2026-11-13 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ma fille de 6 ans saignait dans le bureau de son père, et sa maîtresse de rien du tout me faisait la leçon : un seul appel a tout fait basculer",
+     "warnings": [
+      "длина текста FB 857 слов (исходник 710, цель ±10%)",
+      "длина статьи 958 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 282,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/839936589_122130279165339253_8299544938448718705_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sBZ3Yf5imtUQ7kNvwFz3slc&_nc_oc=Adp71q_0yStm2SQNuvODtroEHDPHl_-F7EYDnS1NCtFGn52I20rI00vB82jkENe7KLM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=pBUyvaCi8MlEQaCijsTLyA&_nc_tpa=Q5bMBQI9F6lNSc6cvgetOIVAvrAJBHujfdk4nQ-NsFHTbkUmYszxwpoluLutTmtYs_Doenidp6W6S_sG8w&oh=00_AQRrxQoTp42plp5u_mCtU2slkuJGA7wgaWWwH8Q_mvacVQ&oe=6AFCBD18",
@@ -3535,7 +3580,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-1500-fr.jpg"
    },
    "source_key": "post:61590177596600_122130279231339253",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3784,7 +3829,7 @@
    "origin": "manual",
    "page_id": "61590177596600",
    "slot": "2026-11-13 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122146579899348565": {
    "error": "слот пропущен",
