@@ -4471,7 +4471,7 @@
      "pages": {
       "1012250151981057": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1030877436782212": {
        "attempts": 1,
@@ -4489,7 +4489,7 @@
       },
       "1068567606345452": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -4500,15 +4500,15 @@
       },
       "1086658774532679": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1087342844462554": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1099258949937246": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1114015015119414": {
        "attempts": 1,
@@ -4519,7 +4519,7 @@
       },
       "1128937866962526": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1140835409106424": {
        "attempts": 1,
@@ -4537,7 +4537,7 @@
       },
       "1149681171551323": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -4548,7 +4548,7 @@
       },
       "1160240797163045": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1191480207389219": {
        "attempts": 1,
