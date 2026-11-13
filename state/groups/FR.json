@@ -373,7 +373,7 @@
   "1260826840455724_122128708587441679": "2026-11-12T11:07:47+00:00",
   "1260826840455724_122128775019441679": "2026-11-12T17:48:14+00:00",
   "1260826840455724_122128775895441679": "2026-11-12T17:55:17+00:00",
-  "1260826840455724_122128889895441679": "2026-11-13T10:15:20+00:00"
+  "1260826840455724_122128889895441679": "2026-11-13T11:07:56+00:00"
  },
  "slots": {
   "2026-10-30 15:00": {
@@ -3610,21 +3610,23 @@
       "1250374694822508": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122123540469415639_1460991319471575",
        "error": null,
        "last_attempt": "2026-11-13T14:14:59+04:00",
        "mode": "schedule",
        "photo_id": "122123540439415639",
        "post_id": "1250374694822508_122123540469415639",
-       "status": "published"
+       "status": "done"
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-13T14:15:18+04:00",
        "mode": "schedule",
        "photo_id": "122128889865441679",
        "post_id": "1260826840455724_122128889895441679",
-       "status": "scheduled"
+       "status": "published"
       }
      },
      "title": "Ma fille de 6 ans saignait dans le bureau de son père, et sa maîtresse de rien du tout me faisait la leçon : un seul appel a tout fait basculer",
