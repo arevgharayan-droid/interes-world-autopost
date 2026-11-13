@@ -2947,38 +2947,21 @@
    "slot_iso": "2026-11-13T18:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-13 21:00": {
+  "2026-11-13 18:42": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1208422892355505": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122130810891418602",
-       "post_id": "1208422892355505_122130810921418602",
-       "status": "scheduled"
-      },
-      "1268633826332790": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:48+04:00",
-       "mode": "schedule",
-       "photo_id": "122132870361436382",
-       "post_id": "1268633826332790_122132870391436382",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Im Landeanflug hörte ich plötzlich meinen Namen aus dem Cockpit – 55 Jahre nach dem Verschwinden des Mannes, den ich liebte",
      "warnings": [
       "длина текста FB 631 слов (исходник 751, цель ±10%)"
      ],
      "wp_error": null,
      "wp_id": 302,
+     "wp_live": true,
      "wp_status": "future"
     },
     "EN": {
@@ -2997,30 +2980,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "633031599904551": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122222556278930012",
-       "post_id": "633031599904551_122222556308930012",
-       "status": "scheduled"
-      },
-      "715935674934966": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122202538160922316",
-       "post_id": "715935674934966_122202538190922316",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "55 jaar na zijn verdwijning klonk vlak voor de landing mijn naam door de cockpitluidspreker, en wat de piloot daarna zei, joeg me de stuipen op het lijf",
      "warnings": [],
      "wp_error": null,
      "wp_id": 301,
+     "wp_live": true,
      "wp_status": "future"
     },
     "PT": {
@@ -3036,8 +3001,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-13 21:00",
    "prepared": true,
-   "slot_iso": "2026-11-13T21:00:00+04:00",
+   "slot_iso": "2026-11-13T18:42:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/856375602_122125985793316334_4772693663104884552_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1J8cT8bxMqoQ7kNvwEMSBtX&_nc_oc=AdqTXyfd-mscYJOsIvdvfJU-597yqZPI_yVaGYY7g21witYLTMm4sTqJajbRmQc9XBs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ClaYbde5EMN_dx91QeOUsg&_nc_tpa=Q5bMBQJ1WX_Ys5pQg2YmFTNTjcGOvCRuQg0osKqHMS8QCr3YlPLheozxbn9ko2tnutomkXwl7LYRBLjHCQ&oh=00_AQRaYQe-aPGndecn1XrTpe0pW9ytwn1dYBXUoQiLjuA-hQ&oe=6AFCF647",
     "link": "https://www.facebook.com/share/p/1DNRaBvcfp/",
@@ -3048,7 +3014,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-nl.jpg"
    },
    "source_key": "post:61589490035610_122125985943316334",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

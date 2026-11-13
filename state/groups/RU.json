@@ -3952,7 +3952,8 @@
    "slot_iso": "2026-11-13T18:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-13 21:00": {
+  "2026-11-13 18:43": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -3978,99 +3979,35 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1338630212673029": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:38:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122116702713471857",
-       "post_id": "1338630212673029_122116702743471857",
-       "status": "scheduled"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:59+04:00",
-       "mode": "schedule",
-       "photo_id": "122119763727505599",
-       "post_id": "1448441201677530_122119763757505599",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Casei com um pai solteiro em fase terminal para criar a filha dele, mas um ano depois a menina me entregou uma caixa que me fez gritar",
      "warnings": [
       "длина текста FB 673 слов (исходник 835, цель ±10%)"
      ],
      "wp_error": null,
      "wp_id": 183,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122118321194640467",
-       "post_id": "1008693642337213_122118321224640467",
-       "status": "scheduled"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122140152860737651",
-       "post_id": "1125676667286378_122140152890737651",
-       "status": "scheduled"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122135253536733774",
-       "post_id": "988042774402200_122135253566733774",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Я вышла замуж за смертельно больного отца-одиночки, чтобы вырастить его дочь, но через год девочка протянула мне коробку",
      "warnings": [
       "длина текста FB 589 слов (исходник 835, цель ±10%)"
      ],
      "wp_error": null,
      "wp_id": 181,
+     "wp_live": true,
      "wp_status": "future"
     },
     "TR": {
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1129620776897151": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:52+04:00",
-       "mode": "schedule",
-       "photo_id": "122127612477311884",
-       "post_id": "1129620776897151_122127612507311884",
-       "status": "scheduled"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:55+04:00",
-       "mode": "schedule",
-       "photo_id": "122126799609307134",
-       "post_id": "1164575726728296_122126799639307134",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Ölümcül Hasta Bir Babayla Evlendim, Çünkü Küçük Kızına Bakmam İçin Yalvarmıştı; Bir Yıl Sonra Kızı Elime Bir Kutu Tutuşturdu",
      "warnings": [
       "длина текста FB 484 слов (исходник 835, цель ±10%)",
@@ -4078,11 +4015,13 @@
      ],
      "wp_error": null,
      "wp_id": 182,
+     "wp_live": true,
      "wp_status": "future"
     }
    },
+   "moved_from": "2026-11-13 21:00",
    "prepared": true,
-   "slot_iso": "2026-11-13T21:00:00+04:00",
+   "slot_iso": "2026-11-13T18:43:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/837092063_122123131929316334_5574680002152408049_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VbB7MWAqFmYQ7kNvwEnHhLx&_nc_oc=AdrnislCSwB7qP4J6nQqUxVpQcAupZNq0cz5eRjS5ibvCVyiYZYz3bSbD_4zo4QXoqE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=crbC1snq24xb6RUr14plTQ&_nc_tpa=Q5bMBQJy_-F19ofTkWKnzDsuQ6d69IQ3dRSibNsuQCCYDmAdINzSi6ZefJhGeBIEjTMcmnNg5bIvSaEWhA&oh=00_AQTE9EhFAhvzybw1zBDNPMDyJ4Qxb7egG_YQdtgemKmQ6w&oe=6AFD0D05",
     "link": "https://www.facebook.com/share/p/1A367CdjjT/",
@@ -4093,7 +4032,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-2100-ru.jpg"
    },
    "source_key": "post:61589490035610_122123132091316334",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",

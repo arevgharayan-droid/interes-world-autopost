@@ -3691,7 +3691,8 @@
    "slot_iso": "2026-11-13T18:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-13 21:00": {
+  "2026-11-13 18:38": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -3705,75 +3706,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:47+04:00",
-       "mode": "schedule",
-       "photo_id": "122117453126633539",
-       "post_id": "1032441206625600_122117453156633539",
-       "status": "scheduled"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:53+04:00",
-       "mode": "schedule",
-       "photo_id": "122109182630457428",
-       "post_id": "1058598924006917_122109182660457428",
-       "status": "scheduled"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122122925553299008",
-       "post_id": "1079295351933311_122122925583299008",
-       "status": "scheduled"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122125907733303172",
-       "post_id": "1145306638657445_122125907763303172",
-       "status": "scheduled"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:34+04:00",
-       "mode": "schedule",
-       "photo_id": "122121642717409328",
-       "post_id": "1202025962997153_122121642747409328",
-       "status": "scheduled"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122123583435415639",
-       "post_id": "1250374694822508_122123583465415639",
-       "status": "scheduled"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122128924887441679",
-       "post_id": "1260826840455724_122128924917441679",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Mon fils est mort après avoir donné son foie à sa petite sœur, mais le jour de ses 18 ans, elle a reçu une carte signée de lui",
      "warnings": [],
      "wp_error": null,
      "wp_id": 298,
+     "wp_live": true,
      "wp_status": "future"
     },
     "IT": {
@@ -3797,8 +3735,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-13 21:00",
    "prepared": true,
-   "slot_iso": "2026-11-13T21:00:00+04:00",
+   "slot_iso": "2026-11-13T18:38:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/809876085_122121550137316334_7860525627705603160_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zR3mzWbfYKQQ7kNvwEFWkxO&_nc_oc=AdqGBGd9A07Fknpugdux0fmhZsRCPLOsHNR_95xat7Fri-1GgriMB8mECQ16uAFknb4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=vCGET48Iahh-gk6eG2UgmA&_nc_tpa=Q5bMBQK8hNQlIf2BbQp4hE9y6br-5Stf1InOy51FZkR0xxYW2CSPptXGnoHSMDzLHnq9ZNxplnej-JU3vA&oh=00_AQSajD6QNLe6Iys6V7I2ptJ--TSWXWjUVUTKcWmy4oHphg&oe=6AFD0857",
     "link": "https://www.facebook.com/share/p/1CcGnwgpin/",
@@ -3809,7 +3748,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-fr.jpg"
    },
    "source_key": "post:61589490035610_122121550203316334",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

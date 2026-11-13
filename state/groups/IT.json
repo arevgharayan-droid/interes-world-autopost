@@ -4454,7 +4454,8 @@
    "slot_iso": "2026-11-13T18:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-13 21:00": {
+  "2026-11-13 18:39": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -4472,93 +4473,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1030877436782212": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:38:09+04:00",
-       "mode": "schedule",
-       "photo_id": "122140503104808945",
-       "post_id": "1030877436782212_122140503134808945",
-       "status": "scheduled"
-      },
-      "1064982806700854": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:56+04:00",
-       "mode": "schedule",
-       "photo_id": "122111580632456562",
-       "post_id": "1064982806700854_122111580662456562",
-       "status": "scheduled"
-      },
-      "1079964265201139": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:52+04:00",
-       "mode": "schedule",
-       "photo_id": "122108238434506427",
-       "post_id": "1079964265201139_122108238464506427",
-       "status": "scheduled"
-      },
-      "1114015015119414": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:38:07+04:00",
-       "mode": "schedule",
-       "photo_id": "122141073326811401",
-       "post_id": "1114015015119414_122141073356811401",
-       "status": "scheduled"
-      },
-      "1140835409106424": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:38:00+04:00",
-       "mode": "schedule",
-       "photo_id": "122110247168543006",
-       "post_id": "1140835409106424_122110247198543006",
-       "status": "scheduled"
-      },
-      "1142735408923607": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:44+04:00",
-       "mode": "schedule",
-       "photo_id": "122138453301311525",
-       "post_id": "1142735408923607_122138453337311525",
-       "status": "scheduled"
-      },
-      "1160223747182678": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122136098469400586",
-       "post_id": "1160223747182678_122136098499400586",
-       "status": "scheduled"
-      },
-      "1191480207389219": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:38:04+04:00",
-       "mode": "schedule",
-       "photo_id": "122125505457405175",
-       "post_id": "1191480207389219_122125505487405175",
-       "status": "scheduled"
-      },
-      "997772916762884": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:50+04:00",
-       "mode": "schedule",
-       "photo_id": "122112977618437662",
-       "post_id": "997772916762884_122112977648437662",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "La sera del nostro primo anniversario l'ho sentito dire al telefono: «Ha creduto alle mie bugie fin dal liceo. Stasera finisco quello che ho iniziato",
      "warnings": [],
      "wp_error": null,
      "wp_id": 303,
+     "wp_live": true,
      "wp_status": "future"
     },
     "NL": {
@@ -4578,8 +4498,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-13 21:00",
    "prepared": true,
-   "slot_iso": "2026-11-13T21:00:00+04:00",
+   "slot_iso": "2026-11-13T18:39:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/811303784_122120428119316334_8894539177146381374_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2FGO94QZqeUQ7kNvwFCH7-2&_nc_oc=AdoLiCmoe9AFQmv_7JmXHT-3UmserY9lBv7ervpbkQTvxEgH9QNoI_t3dy7OLvP6OzI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=5WThqbZ-T_DjQRZbODzYcA&_nc_tpa=Q5bMBQJVa87zrM6FBKJ-9Q8-ubu15iS0OO9knA7ssH7TiqWskS1jztpixWjuhAk64zubfxQ_gQbGsNp4PQ&oh=00_AQSIk5E1VsL_muPg0uBmzpwR-RxeZbXwL003_sYSMQrNfA&oe=6AFCEE26",
     "link": "https://www.facebook.com/share/p/1D4J2nyb5j/",
@@ -4590,7 +4511,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-it.jpg"
    },
    "source_key": "post:61589490035610_122120428167316334",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

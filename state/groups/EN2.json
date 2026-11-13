@@ -5742,7 +5742,8 @@
    "slot_iso": "2026-11-13T18:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-13 21:00": {
+  "2026-11-13 18:41": {
+   "adhoc": true,
    "langs": {
     "DE": {
      "pages": {},
@@ -5752,131 +5753,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "100633729330404": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:38:05+04:00",
-       "mode": "schedule",
-       "photo_id": "1141025258625995",
-       "post_id": "100633729330404_1141025278625993",
-       "status": "scheduled"
-      },
-      "104114086037068": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:38:10+04:00",
-       "mode": "schedule",
-       "photo_id": "1040489155739463",
-       "post_id": "104114086037068_1040489182406127",
-       "status": "scheduled"
-      },
-      "1060733217128705": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:47+04:00",
-       "mode": "schedule",
-       "photo_id": "122144198264777362",
-       "post_id": "1060733217128705_122144198294777362",
-       "status": "scheduled"
-      },
-      "106713875762456": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:38:07+04:00",
-       "mode": "schedule",
-       "photo_id": "1028289463622659",
-       "post_id": "106713875762456_1028289493622656",
-       "status": "scheduled"
-      },
-      "1220745651126185": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:38:13+04:00",
-       "mode": "schedule",
-       "photo_id": "122126917977439195",
-       "post_id": "1220745651126185_122126918007439195",
-       "status": "scheduled"
-      },
-      "233545296514172": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:35+04:00",
-       "mode": "schedule",
-       "photo_id": "122336203730241259",
-       "post_id": "233545296514172_122336203760241259",
-       "status": "scheduled"
-      },
-      "530022363528890": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122175502244720509",
-       "post_id": "530022363528890_122175502274720509",
-       "status": "scheduled"
-      },
-      "625664190627160": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122184146024820020",
-       "post_id": "625664190627160_122184146054820020",
-       "status": "scheduled"
-      },
-      "648976361631351": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122194358102829482",
-       "post_id": "648976361631351_122194358132829482",
-       "status": "scheduled"
-      },
-      "673710079162922": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:57+04:00",
-       "mode": "schedule",
-       "photo_id": "122244224444895613",
-       "post_id": "673710079162922_122244224474895613",
-       "status": "scheduled"
-      },
-      "714226118434052": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:59+04:00",
-       "mode": "schedule",
-       "photo_id": "122205358460902657",
-       "post_id": "714226118434052_122205358490902657",
-       "status": "scheduled"
-      },
-      "892503027289970": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:38:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122143082343219808",
-       "post_id": "892503027289970_122143082373219808",
-       "status": "scheduled"
-      },
-      "994273113779575": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-13T18:37:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122138835764776189",
-       "post_id": "994273113779575_122138835794776189",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "I Carried a Baby for My Brother, but the Moment He Saw His Newborn Daughter, He Refused to Take Her Home",
      "warnings": [
       "длина статьи 982 слов"
      ],
      "wp_error": null,
      "wp_id": 299,
+     "wp_live": true,
      "wp_status": "future"
     },
     "FR": {
@@ -5904,8 +5788,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-13 21:00",
    "prepared": true,
-   "slot_iso": "2026-11-13T21:00:00+04:00",
+   "slot_iso": "2026-11-13T18:41:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/813320859_122120660481316334_155542596990678192_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lukLc9w-5CQQ7kNvwEb2mwO&_nc_oc=Adrjp9mfF-LTGkxqOPQJPnazIi6B-l7o8Wggfj0F17NTLYAcSIoixyPLknEj27njNDc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=peoJF-pU6YeWETmz2eTp4w&_nc_tpa=Q5bMBQLfqu8O8CUGIDqPjd_Kicl8lzUB2PrxPH23mhvMSGRRTxrzoKDPo_ZNpSfDae3V74EI4Wyd_d-OUQ&oh=00_AQSzedWWi_9CWVM12Ddw8TdGMq0UPmxoey0jdylhGTRtTA&oe=6AFCE399",
     "link": "https://www.facebook.com/share/p/1KK6gnrtPS/",
@@ -5916,7 +5801,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-en2.jpg"
    },
    "source_key": "post:61589490035610_122120660541316334",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
