@@ -9,9 +9,9 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-LANG_ORDER = ["FR", "IT", "EN", "NL", "RU", "TR", "DE", "PT"]
+LANG_ORDER = ["FR", "IT", "EN", "NL", "RU", "TR", "DE", "PT", "PL", "CS"]
 LANG_NAMES = {"FR": "French", "IT": "Italian", "EN": "English", "NL": "Dutch",
-              "RU": "Russian", "TR": "Turkish", "DE": "German", "PT": "Portuguese"}
+              "RU": "Russian", "TR": "Turkish", "DE": "German", "PT": "Portuguese", "PL": "Polish", "CS": "Czech"}
 # Страницы, перенесённые из Make (у них есть make_post_module), — проверка точного переноса.
 # (Moments Français | Paris в Make стояла среди IT; 29.10.2026 владелец уточнила — это французская страница)
 EXPECTED_COUNTS = {"FR": 8, "IT": 8, "EN": 16, "NL": 2}

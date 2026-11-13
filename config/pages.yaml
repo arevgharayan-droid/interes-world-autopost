@@ -16,6 +16,8 @@ languages:
       - {page_id: "1011074408765807", name: "Émotions Virales | Paris", profile_id: "61566092952750", make_post_module: 110, disabled: true}  # отключена 29.10.2026
       - {page_id: "106591088255968", name: "Soleil et Amour", profile_id: "100067782307867", make_post_module: 112, disabled: true}  # отключена 29.10.2026
       - {page_id: "1260826840455724", name: "Visages de la Vie", profile_id: "61593250385737", added: "2026-11-09"}
+      - {page_id: "1103884436136482", name: "Vie en Stories", profile_id: "61566106633253", added: "2026-11-13"}
+      - {page_id: "1041497042386258", name: "Une Histoire Qui Vous Touchera", profile_id: "61572142269665", added: "2026-11-13"}
   IT:
     name: Italian
     make_modules: "claude 522, wordpress 20"
@@ -30,6 +32,14 @@ languages:
       - {page_id: "1191480207389219", name: "Vite da Raccontare", profile_id: "61592155259651", added: "2026-11-09"}
       - {page_id: "1114015015119414", name: "Frammenti di Vita", profile_id: "61574342054808", make_post_module: 214}
       - {page_id: "1030877436782212", name: "Una Storia che Ti Toccherà", profile_id: "61574268372445", make_post_module: 216}
+      - {page_id: "1160240797163045", name: "Cuori in Storia", profile_id: "61589028676397", added: "2026-11-13"}
+      - {page_id: "1087342844462554", name: "Lacrime di Vita", profile_id: "61588900503246", added: "2026-11-13"}
+      - {page_id: "1012250151981057", name: "Vite Spezzate", profile_id: "61589067502142", added: "2026-11-13"}
+      - {page_id: "1086658774532679", name: "Storie Che Toccano", profile_id: "61589256456418", added: "2026-11-13"}
+      - {page_id: "1068567606345452", name: "Vita e Sentimenti", profile_id: "61589183979392", added: "2026-11-13"}
+      - {page_id: "1149681171551323", name: "Racconti Emozionanti", profile_id: "61589438907076", added: "2026-11-13"}
+      - {page_id: "1128937866962526", name: "Momenti di Vita", profile_id: "61565990951843", added: "2026-11-13"}
+      - {page_id: "1099258949937246", name: "Éclats de vie", profile_id: "61568051218619", added: "2026-11-13"}
   EN:
     name: English
     make_modules: "claude 532, wordpress 30"
@@ -64,12 +74,17 @@ languages:
       - {page_id: "106713875762456", name: "Baby Lovers", profile_id: "100093248444414", added: "2026-10-25", group: EN2}
       - {page_id: "104114086037068", name: "Fine Baby", profile_id: "100093351638986", added: "2026-10-25", group: EN2}
       - {page_id: "1220745651126185", name: "Life Between Moments", profile_id: "61593175856853", added: "2026-11-09", group: EN2}
+      - {page_id: "353293117873308", name: "Talent The Best", profile_id: "61562487617993", added: "2026-11-13"}
+      - {page_id: "708817825659143", name: "Exciting stories", profile_id: "61580326080211", added: "2026-11-13"}
+      - {page_id: "1210639158790064", name: "True American Tales", profile_id: "61590392286522", added: "2026-11-13"}
   NL:
     name: Dutch
     make_modules: "claude 542, wordpress 40"
     pages:   # 2
       - {page_id: "633031599904551", name: "Het is interessant", profile_id: "61577900372290", make_post_module: 400}
       - {page_id: "715935674934966", name: "Mooie kinderen", profile_id: "61577669504867", make_post_module: 402}
+      - {page_id: "1210451145474950", name: "Levensmomenten Nederland", profile_id: "61589185122398", added: "2026-11-13"}
+      - {page_id: "1144269682096701", name: "Verhalen uit het Hart", profile_id: "61589136614352", added: "2026-11-13"}
   RU:
     name: Russian
     pages:   # добавлены 25.10.2026
@@ -90,6 +105,10 @@ languages:
       - {page_id: "444776585382502", name: "Schöne Welt", profile_id: "61566315690409", added: "2026-10-25", disabled: true}  # отключена 29.10.2026
       - {page_id: "1208422892355505", name: "Geschichten des Lebens", profile_id: "61592558064466", added: "2026-11-09", group: NL}
       - {page_id: "1268633826332790", name: "Lebenswege", profile_id: "61593091482615", added: "2026-11-09", group: NL}
+      - {page_id: "1102464712951594", name: "Momente aus der Schweiz", profile_id: "61589270979795", added: "2026-11-13", group: NL}
+      - {page_id: "1129908326870761", name: "Geschichten aus Österreich", profile_id: "61589481059697", added: "2026-11-13", group: NL}
+      - {page_id: "1028964020310052", name: "Momente des Lebens", profile_id: "61589308206601", added: "2026-11-13", group: NL}
+      - {page_id: "1089186904280406", name: "Herzgeschichten Deutschland", profile_id: "61589640981859", added: "2026-11-13", group: NL}
 
   PT:
     name: Portuguese
@@ -97,6 +116,19 @@ languages:
     pages:   # добавлены 09.11.2026
       - {page_id: "1448441201677530", name: "Segredos que a Vida Guarda", profile_id: "61595167986420", added: "2026-11-09", group: RU}
       - {page_id: "1338630212673029", name: "Histórias que Ninguém Esquece", profile_id: "61594155721036", added: "2026-11-09", group: RU}
+  PL:
+    name: Polish
+    # группа NL (одна история на NL + DE + PL + CS)
+    pages:   # добавлены 13.11.2026
+      - {page_id: "1083785318156771", name: "Serca i Sekrety", profile_id: "61560792371463", added: "2026-11-13", group: NL}
+      - {page_id: "1089456087587677", name: "Historie z Życia", profile_id: "61589084236835", added: "2026-11-13", group: NL}
+      - {page_id: "1107966229066828", name: "Historie, które zostają w sercu", profile_id: "61589404443231", added: "2026-11-13", group: NL}
+      - {page_id: "1079800528556354", name: "Życie, które porusza", profile_id: "61589143814163", added: "2026-11-13", group: NL}
+  CS:
+    name: Czech
+    # группа NL
+    pages:   # добавлены 13.11.2026
+      - {page_id: "1106793902521611", name: "Příběhy ze Srdce", profile_id: "61589846932566", added: "2026-11-13", group: NL}
 
 # Страница, токеном которой Make читал «чужие» публичные посты (fallback в модуле 2).
 fallback_source_page_id: "1011074408765807"  # Émotions Virales | Paris (публикация на неё отключена, но через неё читаются ссылки)

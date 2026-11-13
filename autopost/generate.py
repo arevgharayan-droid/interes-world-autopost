@@ -34,6 +34,11 @@ STOPWORDS = {
     "DE": "der die das und ist nicht ein eine ich sie er zu mit den von auf es war aber dass sich".split(),
     "PT": ("não os um uma do da dos das em no na nos nas ele ela eu seu foi ao pelo pela isso esta quando mais "
            "para com minha meu você tinha estava então muito").split(),
+    # польский и чешский похожи — только слова, которых нет в другом языке
+    "PL": ("się nie jest był była który która kiedy tylko ponieważ przez już jego mnie dla też jej "
+           "jak ale tak był było wszystko bardzo jeszcze mój moja").split(),
+    "CS": ("není je byl byla který která když jen protože také už pro jsem jsou mě jí jeho "
+           "jako ale tak bylo všechno velmi ještě můj moje se že").split(),
 }
 
 
@@ -275,6 +280,10 @@ _MOCK = {
            "Devamı ilk yorumda 👇"),
     "PT": ("Um encontro que mudou tudo", "Ela não sabia que aquele dia ia mudar a sua vida, e foi muito bom. ",
            "Continue lendo no primeiro comentário 👇"),
+    "PL": ("Spotkanie, które zmieniło wszystko", "Nie wiedziała, że ten dzień zmieni jej życie, i było to bardzo dobre. ",
+           "Czytaj dalej w pierwszym komentarzu 👇"),
+    "CS": ("Setkání, které všechno změnilo", "Nevěděla, že ten den jí změní život, a bylo to velmi dobré. ",
+           "Pokračování v prvním komentáři 👇"),
     "DE": ("Eine Begegnung, die alles veränderte", "Sie wusste nicht, dass dieser Tag ihr Leben verändern würde, und es war gut. ",
            "Weiterlesen im ersten Kommentar 👇"),
 }

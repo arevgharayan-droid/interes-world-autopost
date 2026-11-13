@@ -408,7 +408,7 @@ class GroupQueueTests(unittest.TestCase):
         groups = cfg.groups()
         self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU"])
         self.assertEqual(cfg.group_label("RU"), "RU+TR+PT")
-        self.assertEqual(cfg.group_label("NL"), "NL+DE")
+        self.assertEqual(cfg.group_label("NL"), "NL+DE+PL+CS")
         n_articles = sum(len(cfg.group_langs(g)) for g in groups)   # в группе из нескольких языков — статья на язык
         # «чужая» страница-источник для каждой группы — истории читаются через запасную страницу
         fb = cfg.fallback_source_page_id
@@ -530,7 +530,7 @@ class SiteSwitchTests(unittest.TestCase):
         gcfg = group_view(cfg, "NL")
         Pipeline(gcfg, st, graph, wp_a, Generator(gcfg, backend="mock"), tokens,
                  now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
-        self.assertEqual(len(wp_a.posts), 2)                         # NL и DE
+        self.assertEqual(len(wp_a.posts), len(cfg.group_langs("NL")))   # статья на каждый язык группы
         cfg.settings["group_sites"] = {"NL": {"url": "https://b.example",
                                               "comment_link_format": "https://b.example/?p={wp_id}"}}
         made = []
@@ -574,9 +574,11 @@ class ReworkSlotTests(unittest.TestCase):
         gcfg = group_view(cfg, "NL")
         Pipeline(gcfg, State(st_path), graph, wp_a, Generator(gcfg, backend="mock"), tokens,
                  now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
-        self.assertEqual(len(wp_a.posts), 1)
+        n_before = len(cfg.group_langs("NL"))
+        self.assertEqual(len(wp_a.posts), n_before)
         first_posts = dict(graph.posts)
-        self.assertEqual({p["page"] for p in first_posts.values()}, {p.page_id for p in nl})
+        self.assertEqual({p["page"] for p in first_posts.values()},
+                         {p.page_id for p in cfg.pages if p.group == "NL"})
         # новая настройка: DE в группе NL, у группы другой сайт
         for p in de:
             p.group = "NL"
@@ -591,8 +593,8 @@ class ReworkSlotTests(unittest.TestCase):
             Pipeline(gcfg, State(st_path), graph, wp_b, Generator(gcfg, backend="mock"), tokens,
                      now_fn=lambda: clock["now"], http=FakeHTTP(), wp_factory=factory).tick()
         self.assertEqual(wp_a.posts, {})                              # старая статья удалена
-        self.assertEqual(len(wp_b.posts), 2)                          # NL и DE на новом сайте
-        self.assertEqual(len({p["slug"] for p in wp_b.posts.values()}), 2)
+        self.assertEqual(len(wp_b.posts), n_before + 1)               # все языки группы + DE на новом сайте
+        self.assertEqual(len({p["slug"] for p in wp_b.posts.values()}), n_before + 1)
         new_posts = {k: v for k, v in graph.posts.items() if k not in first_posts}
         self.assertEqual({p["page"] for p in new_posts.values()}, {p.page_id for p in de})  # NL — без вторых постов
         msgs = [c["message"] for cs in graph.comments_by.values() for c in cs]
