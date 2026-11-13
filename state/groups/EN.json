@@ -5475,12 +5475,13 @@
       "220697507802568": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122342472902237583_3152420811760860",
        "error": null,
        "last_attempt": "2026-11-13T14:15:06+04:00",
        "mode": "schedule",
        "photo_id": "122342472872237583",
        "post_id": "220697507802568_122342472902237583",
-       "status": "published"
+       "status": "done"
       },
       "236129656261330": {
        "attempts": 1,
