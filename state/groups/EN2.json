@@ -5656,12 +5656,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122138792444776189_2227721234817308",
        "error": null,
        "last_attempt": "2026-11-13T14:14:42+04:00",
        "mode": "schedule",
        "photo_id": "122138792414776189",
        "post_id": "994273113779575_122138792444776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Husband Left Me Stranded at O'Hare After a Secret Phone Call, but His Face Changed When I Answered the Fifteenth Call",
@@ -5711,7 +5712,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-1500-en2.jpg"
    },
    "source_key": "post:61587032195586_122142538017234406",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
