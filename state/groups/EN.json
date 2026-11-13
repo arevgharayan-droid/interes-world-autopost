@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "output_fps": {
+  "1422a482f54759518464": "2026-11-13T10:14:30+00:00",
   "2c1881200804eda0b026": "2026-11-01T18:14:02+00:00",
   "30516d0029d7a2aa8337": "2026-11-09T19:59:12+00:00",
   "3798fd4c18a181248af5": "2026-11-12T20:02:21+00:00",
@@ -5367,7 +5368,50 @@
    "status": "missed"
   },
   "2026-11-13 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Dad Left Me on a Dark Highway So My Sister Could Stretch Her Legs, But One Message the Next Morning Made My Mother Go Pale",
+     "warnings": [
+      "длина текста FB 712 слов (исходник 592, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 281,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/903240115_122142411381234406_4606808189023471176_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NSu9h6SvjJkQ7kNvwGblMcR&_nc_oc=Adpxp3KxYHmzvPw6CU4_g4kwKM2_ZChc8-_5DE5f8qIumk1R3mZ8HTty7xAmNgaC8DI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=5eo_6WP05SnKoAXEP7qaKA&_nc_tpa=Q5bMBQIT9BhukTmoBRICw-ysrM2Gv4Gu-2jWlqz3H9hIYbfSyRqFToopbZitEDZSIuhDMmrZKP9aornX3w&oh=00_AQRy5BVU5e_pTtc91n9lg_iAN4XVNC-gGsZBsX3HKtcVGg&oe=6AFCAB2F",
@@ -5379,7 +5423,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-1500-en.jpg"
    },
    "source_key": "post:61587032195586_122142411429234406",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5636,7 +5680,7 @@
    "origin": "manual",
    "page_id": "61587032195586",
    "slot": "2026-11-13 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587324730850_122143561461244157": {
    "fingerprint": "41b0aed5ae696b79ad95",
