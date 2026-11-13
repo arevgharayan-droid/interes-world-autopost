@@ -1,31 +1,10 @@
 ## Новые страницы: доступ
 
-Доступно: **0 из 60** · всего страниц у autopost: 59
+Доступно: **12 из 30** · всего страниц у autopost: 70
 
-- ❌ Истории (61589024974833): нет доступа
-- ❌ Правда жизни (61573215017921): нет доступа
-- ❌ Тайны Судьбы (61589338191315): нет доступа
-- ❌ Сердце Помнит (61588862892247): нет доступа
-- ❌ Сердце помнит (61568703778153): нет доступа
-- ❌ Между строк жизни (61567646184420): нет доступа
-- ❌ Жизненные истории (61568016626752): нет доступа
-- ❌ Осколки жизни (61572001388145): нет доступа
-- ❌ Судьбы и слёзы (61589008798166): нет доступа
-- ❌ Судьбы людей (61567908267368): нет доступа
-- ❌ То, что трогает душу (61566699021161): нет доступа
-- ❌ Судьба Расскажет (61589233375779): нет доступа
-- ❌ Линии судьбы (61568859027957): нет доступа
-- ❌ Истории сердца (61588921048429): нет доступа
-- ❌ Жизнь без масок (61560319896770): нет доступа
-- ❌ Эхо души (61569262621928): нет доступа
-- ❌ Тени Прошлого (61588844773235): нет доступа
-- ❌ Жизнь как она есть (61573250146814): нет доступа
-- ❌ Следы судьбы (61589110610079): нет доступа
-- ❌ Там, де говорить серце (61568061105858): нет доступа
-- ❌ Життя без прикрас (61564596804533): нет доступа
-- ❌ Nel Cuore dei Segreti (https://www.facebook.com/share/1FPiavSh6M/): нет доступа
+- ❌ Nel Cuore dei Segreti (61594728091417): нет доступа
 - ❌ Racconti del Destino (61589551851796): нет доступа
-- ❌ Cuori in Storia (61589028676397): нет доступа
+- ✅ Cuori in Storia: page_id 1160240797163045 «Cuori in Storia» (по названию)
 - ❌ Lacrime di Vita (61588900503246): нет доступа
 - ❌ Vite Spezzate (61589067502142): нет доступа
 - ❌ Storie del Cuore (61589044483722): нет доступа
@@ -33,32 +12,23 @@
 - ❌ Storie Che Toccano (61589256456418): нет доступа
 - ❌ Vita e Sentimenti (61589183979392): нет доступа
 - ❌ Racconti Emozionanti (61589438907076): нет доступа
-- ❌ Momenti di Vita (61565990951843): нет доступа
+- ✅ Momenti di Vita: page_id 1128937866962526 «Momenti di Vita» (по названию)
 - ❌ Éclats de vie (61568051218619): нет доступа
-- ❌ Momenti di Vita (61589167538572): нет доступа
+- ✅ Momenti di Vita: page_id 1128937866962526 «Momenti di Vita» (по названию)
 - ❌ Talent The Best (61562487617993): нет доступа
-- ❌ Exciting stories (61580326080211): нет доступа
+- ✅ Exciting stories: page_id 708817825659143 «Exciting stories» (по названию)
 - ❌ True American Tales (61590392286522): нет доступа
 - ❌ Amazing (100084767654198): нет доступа
 - ❌ Momente aus der Schweiz (61589270979795): нет доступа
-- ❌ Geschichten aus Österreich (61589481059697): нет доступа
+- ✅ Geschichten aus Österreich: page_id 1129908326870761 «Geschichten aus Österreich» (по названию)
 - ❌ Momente des Lebens (61589308206601): нет доступа
-- ❌ Herzgeschichten Deutschland (61589640981859): нет доступа
+- ✅ Herzgeschichten Deutschland: page_id 1089186904280406 «Herzgeschichten Deutschland» (по названию)
 - ❌ Serca i Sekrety (61560792371463): нет доступа
-- ❌ Historie z Życia (61589084236835): нет доступа
-- ❌ Historie, które zostają w sercu (61589404443231): нет доступа
+- ✅ Historie z Życia: page_id 1089456087587677 «Historie z Życia» (по названию)
+- ✅ Historie, które zostają w sercu: page_id 1107966229066828 « Historie, które zostają w sercu» (по названию)
 - ❌ Życie, które porusza (61589143814163): нет доступа
-- ❌ Vie en Stories (61566106633253): нет доступа
-- ❌ Une Histoire Qui Vous Touchera (61572142269665): нет доступа
-- ❌ Secretos del Destino (61589209137857): нет доступа
-- ❌ Lágrimas de la Vida (61588963358918): нет доступа
-- ❌ Vidas em História (61589189490980): нет доступа
-- ❌ Povești care Ating Inima (61589502950390): нет доступа
-- ❌ Momente din Viață (61589054979500): нет доступа
-- ❌ Levensmomenten Nederland (61589185122398): нет доступа
-- ❌ Verhalen uit het Hart (61589136614352): нет доступа
-- ❌ Hayatın Saklı Yüzü (61589139011747): нет доступа
-- ❌ Kalpte Kalan Hikayeler (61589166879771): нет доступа
-- ❌ لحظات الحياة (61589513333922): нет доступа
-- ❌ قصص من القلب (61589310932189): нет доступа
+- ✅ Vie en Stories: page_id 1103884436136482 «Vie en Stories» (по названию)
+- ✅ Une Histoire Qui Vous Touchera: page_id 1041497042386258 «Une Histoire Qui Vous Touchera» (по названию)
+- ✅ Levensmomenten Nederland: page_id 1210451145474950 «Levensmomenten Nederland» (по названию)
+- ✅ Verhalen uit het Hart: page_id 1144269682096701 «Verhalen uit het Hart» (по названию)
 - ❌ Příběhy ze Srdce (61589846932566): нет доступа
