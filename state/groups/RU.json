@@ -3847,7 +3847,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1129620776897151": {
+       "attempts": 1,
+       "last_attempt": "2026-11-13T14:15:32+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Karım Colorado'daki kar fırtınasında ölümle savaşırken ben metresime 86.000 dolarlık bileklik alıyordum",
      "warnings": [
       "длина текста FB 608 слов (исходник 725, цель ±10%)"
