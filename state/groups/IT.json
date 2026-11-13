@@ -4,6 +4,7 @@
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
   "2116a560bb8b542f0caf": "2026-11-01T18:14:23+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
+  "59ba199024c504005873": "2026-11-13T10:14:50+00:00",
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
   "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
@@ -4259,7 +4260,48 @@
    "status": "missed"
   },
   "2026-11-13 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ero all'ottavo mese quando ho trovato un'altra donna nel mio letto, ma lui non sapeva che stavo già preparando la mia fuga",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 283,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/846504915_122131078473339253_4543964611959907653_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sD-97-ZJI8IQ7kNvwGFKPpm&_nc_oc=AdrfUlWNpjGtwznW76n6WZDVv7EzfjPrvWfjfLm3GDuAeKeo2b1FXJ7fIopgLzGuEUE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=e4bPgYvnFhT5WuIjHG3I4A&_nc_tpa=Q5bMBQKL4uhxVByQ9BBjpsNgutOVFWrFksoTuNm9QJyWiH5oGKitPI7tryxbjaWxIO04q7Ee1IlTpAIz3A&oh=00_AQSp9dk6EqTW-8Xhk58jgvhFU_YP17sgvSMAEoyO78nRfA&oe=6AFCB463",
@@ -4271,7 +4313,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-1500-it.jpg"
    },
    "source_key": "post:61590177596600_122131078545339253",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4536,7 +4578,7 @@
    "origin": "manual",
    "page_id": "61590177596600",
    "slot": "2026-11-13 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122150034885348565": {
    "error": "слот пропущен",

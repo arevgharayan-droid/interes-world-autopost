@@ -3537,7 +3537,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-13T14:14:48+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Ma fille de 6 ans saignait dans le bureau de son père, et sa maîtresse de rien du tout me faisait la leçon : un seul appel a tout fait basculer",
      "warnings": [
       "длина текста FB 857 слов (исходник 710, цель ±10%)",
