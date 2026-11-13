@@ -18,7 +18,7 @@ from . import config as config_mod
 from .config import LANG_ORDER
 from .fb import FacebookError, Graph, redact
 from .generate import GenerationError, Generator
-from .pipeline import AuthProblem, Pipeline, Report
+from .pipeline import AuthProblem, Pacer, Pipeline, Report
 from .sources import (SourceError, fetch_post, google_sheet_links, link_key, manual_links, normalize_link, parse_link,
                       pick_source, resolve_share_link, sheet_baseline, source_key)
 from .state import State
@@ -502,12 +502,14 @@ def cmd_tick(cfg, args) -> int:
         with lock:
             _checkpoint()
 
+    pacer = Pacer(float(cfg.settings.get("fb_pacing_seconds", 2)))   # один темп на все группы
+
     def run_group(g):
         gcfg = views[g]
         g_graph, g_wp, g_http = real_services(gcfg)  # своё соединение у каждой группы, сайт группы
         try:
             rep = Pipeline(gcfg, states[g], g_graph, g_wp, Generator(gcfg), tokens, http=g_http,
-                           checkpoint=checkpoint, wp_factory=real_wp).tick()
+                           checkpoint=checkpoint, wp_factory=real_wp, pacer=pacer).tick()
         except Exception as e:  # noqa: BLE001 — сбой одной группы не останавливает остальные
             rep = Report()
             rep.error(f"группа {cfg.group_label(g)}: непредвиденная ошибка {type(e).__name__}: {e}", final=True)

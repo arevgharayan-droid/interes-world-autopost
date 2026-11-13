@@ -11,6 +11,9 @@ from __future__ import annotations
 import html
 import json
 import mimetypes
+import random
+import threading
+import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -67,15 +70,35 @@ class Report:
         return "\n".join(out) + "\n"
 
 
+class Pacer:
+    """Ровный темп записей в Facebook (посты, комментарии) — общий для всех групп одного запуска:
+    не чаще одной записи в `seconds` секунд (+ немного случайности), чтобы не было всплеска."""
+
+    def __init__(self, seconds: float = 0.0):
+        self.seconds = float(seconds or 0)
+        self._lock = threading.Lock()
+        self._last = 0.0
+
+    def wait(self):
+        if self.seconds <= 0:
+            return
+        with self._lock:
+            gap = self._last + self.seconds + random.uniform(0, self.seconds * 0.3) - time.monotonic()
+            if gap > 0:
+                time.sleep(gap)
+            self._last = time.monotonic()
+
+
 class Pipeline:
     def __init__(self, cfg, state, graph, wp, gen, tokens: dict, now_fn=None, http=None, report=None,
-                 checkpoint=None, wp_factory=None):
+                 checkpoint=None, wp_factory=None, pacer=None):
         self.cfg, self.state, self.graph, self.wp, self.gen = cfg, state, graph, wp, gen
         # wp_factory(site) — клиент другого сайта: выпуск, начатый на одном сайте, там и заканчивается,
         # даже если сайт группы с тех пор поменяли
         self.wp_factory = wp_factory
         self._wps = {}
         self.fb_blocked = False   # в этом запуске Facebook уже ответил «ограничиваем частоту»
+        self.pacer = pacer or Pacer(0)
         self.tokens = tokens
         self.tz = ZoneInfo(cfg.tz)
         self.now_fn = now_fn or (lambda: datetime.now(self.tz))
@@ -548,6 +571,7 @@ class Pipeline:
         e["last_attempt"] = self.now().isoformat(timespec="seconds")
         self.state.save()
         try:
+            self.pacer.wait()
             res = self.graph.create_photo_post(
                 page.page_id, tok, data, f"story{mimetypes.guess_extension(mime) or '.jpg'}",
                 text["fb_text"], scheduled_ts=int(dt.timestamp()) if mode == "schedule" else None, mime=mime)
@@ -641,6 +665,7 @@ class Pipeline:
                         continue
                     e["comment_attempts"] = e.get("comment_attempts", 0) + 1
                     self.state.save()
+                    self.pacer.wait()
                     c = self.graph.comment(target, tok, link)
                     e.update(comment_id=c.get("id"), status="done", error=None)
                     self.r.counts["comments"] += 1

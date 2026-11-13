@@ -21,7 +21,7 @@ permissions:
 jobs:
   tick:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v6
         with:
@@ -34,7 +34,7 @@ jobs:
       - name: Свежее состояние
         run: git pull -q --ff-only origin "${{ github.ref_name }}" || true
       - name: Публикация
-        timeout-minutes: 22
+        timeout-minutes: 45
         env:
           AUTOPOST_CHECKPOINT: "1"
           FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
