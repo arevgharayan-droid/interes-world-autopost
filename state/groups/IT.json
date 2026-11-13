@@ -4461,7 +4461,10 @@
      "generated": true,
      "pages": {},
      "title": "La sera del nostro primo anniversario l'ho sentito dire al telefono: «Ha creduto alle mie bugie fin dal liceo. Stasera finisco quello che ho iniziato",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 303,
+     "wp_status": "future"
     },
     "NL": {
      "pages": {},
@@ -4480,6 +4483,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-13T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/811303784_122120428119316334_8894539177146381374_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2FGO94QZqeUQ7kNvwFCH7-2&_nc_oc=AdoLiCmoe9AFQmv_7JmXHT-3UmserY9lBv7ervpbkQTvxEgH9QNoI_t3dy7OLvP6OzI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=5WThqbZ-T_DjQRZbODzYcA&_nc_tpa=Q5bMBQJVa87zrM6FBKJ-9Q8-ubu15iS0OO9knA7ssH7TiqWskS1jztpixWjuhAk64zubfxQ_gQbGsNp4PQ&oh=00_AQSIk5E1VsL_muPg0uBmzpwR-RxeZbXwL003_sYSMQrNfA&oe=6AFCEE26",
@@ -4491,7 +4495,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-it.jpg"
    },
    "source_key": "post:61589490035610_122120428167316334",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4755,7 +4759,7 @@
    "origin": "manual",
    "page_id": "61589490035610",
    "slot": "2026-11-13 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590177596600_122131078545339253": {
    "fingerprint": "576c1cb6a19bf2e1f75d",
