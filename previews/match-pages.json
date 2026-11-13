@@ -9,10 +9,64 @@
   "known": false
  },
  {
+  "name": "Lacrime di Vita",
+  "page_id": "1087342844462554",
+  "fb_name": "Lacrime di Vita",
+  "profile_id": "61588900503246",
+  "lang": "IT",
+  "rights_ok": true,
+  "known": false
+ },
+ {
+  "name": "Vite Spezzate",
+  "page_id": "1012250151981057",
+  "fb_name": "Vite Spezzate",
+  "profile_id": "61589067502142",
+  "lang": "IT",
+  "rights_ok": true,
+  "known": false
+ },
+ {
+  "name": "Storie Che Toccano",
+  "page_id": "1086658774532679",
+  "fb_name": "Storie Che Toccano",
+  "profile_id": "61589256456418",
+  "lang": "IT",
+  "rights_ok": true,
+  "known": false
+ },
+ {
+  "name": "Vita e Sentimenti",
+  "page_id": "1068567606345452",
+  "fb_name": "Vita e Sentimenti",
+  "profile_id": "61589183979392",
+  "lang": "IT",
+  "rights_ok": true,
+  "known": false
+ },
+ {
+  "name": "Racconti Emozionanti",
+  "page_id": "1149681171551323",
+  "fb_name": " Racconti Emozionanti",
+  "profile_id": "61589438907076",
+  "lang": "IT",
+  "rights_ok": true,
+  "known": false
+ },
+ {
   "name": "Momenti di Vita",
   "page_id": "1128937866962526",
   "fb_name": "Momenti di Vita",
   "profile_id": "61565990951843",
+  "lang": "IT",
+  "rights_ok": true,
+  "known": false
+ },
+ {
+  "name": "Éclats de vie",
+  "page_id": "1099258949937246",
+  "fb_name": "    Éclats de vie",
+  "profile_id": "61568051218619",
   "lang": "IT",
   "rights_ok": true,
   "known": false
@@ -27,11 +81,38 @@
   "known": false
  },
  {
+  "name": "Talent The Best",
+  "page_id": "353293117873308",
+  "fb_name": "Talent The Best",
+  "profile_id": "61562487617993",
+  "lang": "EN",
+  "rights_ok": true,
+  "known": false
+ },
+ {
   "name": "Exciting stories",
   "page_id": "708817825659143",
   "fb_name": "Exciting stories",
   "profile_id": "61580326080211",
   "lang": "EN",
+  "rights_ok": true,
+  "known": false
+ },
+ {
+  "name": "True American Tales",
+  "page_id": "1210639158790064",
+  "fb_name": "True American Tales",
+  "profile_id": "61590392286522",
+  "lang": "EN",
+  "rights_ok": true,
+  "known": false
+ },
+ {
+  "name": "Momente aus der Schweiz",
+  "page_id": "1102464712951594",
+  "fb_name": "Momente aus der Schweiz",
+  "profile_id": "61589270979795",
+  "lang": "DE",
   "rights_ok": true,
   "known": false
  },
@@ -45,11 +126,29 @@
   "known": false
  },
  {
+  "name": "Momente des Lebens",
+  "page_id": "1028964020310052",
+  "fb_name": "Momente des Lebens",
+  "profile_id": "61589308206601",
+  "lang": "DE",
+  "rights_ok": true,
+  "known": false
+ },
+ {
   "name": "Herzgeschichten Deutschland",
   "page_id": "1089186904280406",
   "fb_name": "Herzgeschichten Deutschland",
   "profile_id": "61589640981859",
   "lang": "DE",
+  "rights_ok": true,
+  "known": false
+ },
+ {
+  "name": "Serca i Sekrety",
+  "page_id": "1083785318156771",
+  "fb_name": "Serca i Sekrety",
+  "profile_id": "61560792371463",
+  "lang": "PL",
   "rights_ok": true,
   "known": false
  },
@@ -67,6 +166,15 @@
   "page_id": "1107966229066828",
   "fb_name": " Historie, które zostają w sercu",
   "profile_id": "61589404443231",
+  "lang": "PL",
+  "rights_ok": true,
+  "known": false
+ },
+ {
+  "name": "Życie, które porusza",
+  "page_id": "1079800528556354",
+  "fb_name": " Życie, które porusza ",
+  "profile_id": "61589143814163",
   "lang": "PL",
   "rights_ok": true,
   "known": false
@@ -104,6 +212,15 @@
   "fb_name": "Verhalen uit het Hart",
   "profile_id": "61589136614352",
   "lang": "NL",
+  "rights_ok": true,
+  "known": false
+ },
+ {
+  "name": "Příběhy ze Srdce",
+  "page_id": "1106793902521611",
+  "fb_name": "Příběhy ze Srdce\n\n",
+  "profile_id": "61589846932566",
+  "lang": "CS",
   "rights_ok": true,
   "known": false
  }
