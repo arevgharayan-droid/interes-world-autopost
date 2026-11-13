@@ -4443,7 +4443,23 @@
   "2026-11-13 21:00": {
    "langs": {},
    "slot_iso": "2026-11-13T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/811303784_122120428119316334_8894539177146381374_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2FGO94QZqeUQ7kNvwFCH7-2&_nc_oc=AdoLiCmoe9AFQmv_7JmXHT-3UmserY9lBv7ervpbkQTvxEgH9QNoI_t3dy7OLvP6OzI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=5WThqbZ-T_DjQRZbODzYcA&_nc_tpa=Q5bMBQJVa87zrM6FBKJ-9Q8-ubu15iS0OO9knA7ssH7TiqWskS1jztpixWjuhAk64zubfxQ_gQbGsNp4PQ&oh=00_AQSIk5E1VsL_muPg0uBmzpwR-RxeZbXwL003_sYSMQrNfA&oe=6AFCEE26",
+    "link": "https://www.facebook.com/share/p/1D4J2nyb5j/",
+    "origin": "manual",
+    "page_id": "61589490035610",
+    "text": "J’ai épousé mon amour de lycée, mais le soir de notre premier anniversaire de mariage, je l’ai surpris au téléphone en train de dire : « Elle a cru à tous mes mensonges depuis le lycée. Ce soir, je vais enfin terminer ce que j’ai commencé. » 😰😨\n\nMon mari et moi étions ensemble depuis quinze ans lorsqu’il m’a finalement demandé en mariage.\n\nÀ la Saint-Valentin, à Noël ou lors d’autres occasions importantes, j’espérais souvent le voir sortir une petite boîte contenant une bague.\n\nChaque fois que nous abordions le sujet, il me rassurait :\n\n— Une bague, ce n’est pas le plus important. Je mets de l’argent de côté. Je veux que tout soit parfait. Je veux t’offrir la vie que tu mérites.\n\nAutour de moi, tout le monde semblait avancer. Mes amies étaient fiancées et même ma jeune cousine était déjà mariée.\n\nUn jour, lors d’un repas de Thanksgiving en famille, sa mère plaisanta devant tout le monde en disant que j’étais « la petite amie qui n’arrivait jamais à aller jusqu’au mariage ».\n\nMalgré tout, je lui faisais confiance.\n\nJe le connaissais depuis l’âge de seize ans. À l’époque, nous étions assis sur la balançoire du porche de la maison de ma grand-mère, et je lui racontais tous mes rêves.\n\nLorsqu’il m’a enfin demandé en mariage, j’étais bouleversée.\n\nAprès toutes ces années d’attente, toutes ses excuses et tous ses « pas encore », j’avais enfin obtenu le moment que j’espérais tant.\n\nVendredi dernier, nous fêtions notre premier anniversaire de mariage.\n\nIl avait soigneusement préparé la soirée, allumé des bougies et m’avait demandé de servir le vin pendant qu’il allait se changer pour mettre une tenue plus élégante.\n\nJe traversais le couloir pieds nus, le sourire aux lèvres, lorsque j’ai soudain entendu sa voix venant de la chambre.\n\nIl parlait d’un ton calme et à voix basse. Ce n’était pas du tout la voix que je connaissais.\n\n— Oui… elle a cru à tous mes mensonges pendant toutes ces années. Je joue ce jeu depuis le lycée. Ce soir, je vais enfin terminer ce que j’ai commencé.\n\nMes jambes se sont dérobées sous moi.\n\nIl avait raison.\n\nJe n’avais absolument aucune idée de ce qui se passait réellement.\n\nJe ne connaissais pas ses véritables intentions. Je ne comprenais pas pourquoi il m’avait menti pendant toutes ces années ni ce qu’il m’avait caché.\n\nMais j’ai décidé de faire comme si je n’avais rien entendu.\n\nJ’ai essuyé mes larmes, suis retournée dans la cuisine et, lorsqu’il est revenu, je lui ai souri comme si tout était normal.\n\nÀ son retour, j’ai remarqué qu’il cachait quelque chose derrière son dos.\n\nÀ cet instant, une voiture s’est arrêtée devant la maison.\n\nQuelques secondes plus tard, quelqu’un a frappé à la porte.\n\nIl a souri et m’a dit :\n\n— C’est drôle. Tu pensais vraiment que je suis resté avec toi toutes ces années par amour ?\n\nLa porte s’est ouverte.\n\nEt l’homme qui est entré était celui dont l’apparition allait enfin expliquer toutes ces années que nous avions passées ensemble…\n\nVous pouvez lire la suite dans le premier commentaire. 👇👇👇",
+    "wp_media_id": 295,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-it.jpg"
+   },
+   "source_key": "post:61589490035610_122120428167316334",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-14 00:00": {
    "langs": {},
@@ -4470,6 +4486,10 @@
   "link:11557777ed2e7e5368fa": {
    "link": "https://www.facebook.com/share/p/1FZUADaT5a/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1654999892663298&id=100044599086455"
+  },
+  "link:27d38128f5e0404b5bfb": {
+   "link": "https://www.facebook.com/share/p/1D4J2nyb5j/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122120428167316334&id=61589490035610"
   },
   "link:2d2e0eebdad45758246b": {
    "link": "https://www.facebook.com/share/p/18de8q2K3z/",
@@ -4690,6 +4710,14 @@
    "page_id": "61587032195586",
    "slot": "2026-11-11 18:00",
    "status": "used"
+  },
+  "post:61589490035610_122120428167316334": {
+   "fingerprint": "9f4bdc3942bd4331066f",
+   "link": "https://www.facebook.com/share/p/1D4J2nyb5j/",
+   "origin": "manual",
+   "page_id": "61589490035610",
+   "slot": "2026-11-13 21:00",
+   "status": "reserved"
   },
   "post:61590177596600_122131078545339253": {
    "fingerprint": "576c1cb6a19bf2e1f75d",

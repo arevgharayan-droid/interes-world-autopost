@@ -5723,7 +5723,23 @@
   "2026-11-13 21:00": {
    "langs": {},
    "slot_iso": "2026-11-13T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/813320859_122120660481316334_155542596990678192_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lukLc9w-5CQQ7kNvwEb2mwO&_nc_oc=Adrjp9mfF-LTGkxqOPQJPnazIi6B-l7o8Wggfj0F17NTLYAcSIoixyPLknEj27njNDc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=peoJF-pU6YeWETmz2eTp4w&_nc_tpa=Q5bMBQLfqu8O8CUGIDqPjd_Kicl8lzUB2PrxPH23mhvMSGRRTxrzoKDPo_ZNpSfDae3V74EI4Wyd_d-OUQ&oh=00_AQSzedWWi_9CWVM12Ddw8TdGMq0UPmxoey0jdylhGTRtTA&oe=6AFCE399",
+    "link": "https://www.facebook.com/share/p/1KK6gnrtPS/",
+    "origin": "manual",
+    "page_id": "61589490035610",
+    "text": "J’ai été mère porteuse pour mon frère, mais lorsqu’il a vu sa fille nouveau-née, il l’a rejetée. Et la raison pour laquelle il a fait cela m’a horrifiée. 😰😨\n\nMon frère et sa femme essayaient d’avoir un enfant depuis des années. Lorsqu’ils m’ont finalement demandé d’être leur mère porteuse, j’ai accepté.\n\nMon frère avait toujours été la personne la plus proche de moi et mon meilleur ami. Il m’avait toujours soutenue et avait toujours été là pour moi dans les moments difficiles. J’avais déjà un fils et je comprenais le genre d’amour qu’ils rêvaient de connaître. Je voulais les aider.\n\nSurtout, chaque fois que je voyais mon frère passer du temps avec mon fils, il semblait plus heureux que jamais.\n\nLorsqu’ils ont appris que ce serait une fille, ils ont commencé à acheter de petites robes et des jouets. Ils ont même peint la chambre du bébé en rose.\n\nLorsque j’ai enfin accouché, ils sont immédiatement venus à l’hôpital.\n\nLa femme a fondu en larmes de joie lorsqu’elle a vu son bébé pour la première fois.\n\nPuis mon frère a pris le bébé dans ses bras.\n\nIl l’a regardée en silence pendant quelques secondes.\n\nSoudain, son visage est devenu livide.\n\nLorsque je lui ai demandé si tout allait bien, il m’a répondu d’une voix tremblante :\n\n— Je suis désolé, mais… je ne peux pas la prendre.\n\nJ’ai cru avoir mal entendu.\n\n— C’est ta fille. Qu’est-ce que tu racontes ?\n\nIl a regardé sa femme droit dans les yeux.\n\nPuis il m’a regardée et m’a dit :\n\n— Je suis désolé, mais je ne la ramènerai pas à la maison.\n\nEt il a remis le bébé dans mes bras.\n\nEn larmes, sa femme a exigé de savoir pourquoi ils ne pouvaient pas ramener leur fille chez eux.\n\nMon frère a poussé un profond soupir. Son visage était devenu rouge, puis il a dit :\n\n— Regarde son dos. On ne peut pas faire ça. Elle ne peut pas être notre fille.\n\nJ’ai regardé le dos du bébé et j’ai failli m’évanouir.\n\nSa femme a crié si fort que tout l’étage l’a entendue. Le personnel de l’hôpital s’est immédiatement précipité pour comprendre ce qui s’était passé.\n\nVous pouvez lire la suite dans le premier commentaire. 👇 👇 👇",
+    "wp_media_id": 294,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-en2.jpg"
+   },
+   "source_key": "post:61589490035610_122120660541316334",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-14 00:00": {
    "langs": {},
@@ -5814,6 +5830,10 @@
   "link:a6c2da0a48ded3d21529": {
    "link": "https://www.facebook.com/share/p/1JPmUuyguo/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122124549417447073&id=61593412202747"
+  },
+  "link:afe5f7ec4ec8ba774a2a": {
+   "link": "https://www.facebook.com/share/p/1KK6gnrtPS/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122120660541316334&id=61589490035610"
   },
   "link:ba4f0ea7a5c75c693c4f": {
    "link": "https://www.facebook.com/share/p/1FcTvqzMLq/",
@@ -5970,6 +5990,14 @@
    "page_id": "61587324730850",
    "slot": "2026-11-01 15:00",
    "status": "used"
+  },
+  "post:61589490035610_122120660541316334": {
+   "fingerprint": "463eef85f1d00f4b8859",
+   "link": "https://www.facebook.com/share/p/1KK6gnrtPS/",
+   "origin": "manual",
+   "page_id": "61589490035610",
+   "slot": "2026-11-13 21:00",
+   "status": "reserved"
   },
   "post:61590456964686_122149403805348565": {
    "error": "слот пропущен",
