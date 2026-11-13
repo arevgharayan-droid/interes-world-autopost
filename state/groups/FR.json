@@ -3709,9 +3709,10 @@
      "pages": {
       "1032441206625600": {
        "attempts": 1,
+       "error": "публикация: FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
        "last_attempt": "2026-11-13T18:44:15+04:00",
        "mode": "immediate",
-       "status": "sending"
+       "status": "failed"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -3740,6 +3741,12 @@
        "last_attempt": "2026-11-13T18:44:09+04:00",
        "mode": "immediate",
        "status": "failed"
+      },
+      "1260826840455724": {
+       "attempts": 1,
+       "last_attempt": "2026-11-13T18:44:17+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "Mon fils est mort après avoir donné son foie à sa petite sœur, mais le jour de ses 18 ans, elle a reçu une carte signée de lui",

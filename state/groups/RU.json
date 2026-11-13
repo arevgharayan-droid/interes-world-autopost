@@ -3979,7 +3979,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1448441201677530": {
+       "attempts": 1,
+       "last_attempt": "2026-11-13T18:44:16+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Casei com um pai solteiro em fase terminal para criar a filha dele, mas um ano depois a menina me entregou uma caixa que me fez gritar",
      "warnings": [
       "длина текста FB 673 слов (исходник 835, цель ±10%)"
@@ -4039,9 +4046,10 @@
       },
       "1164575726728296": {
        "attempts": 1,
+       "error": "публикация: FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
        "last_attempt": "2026-11-13T18:44:14+04:00",
        "mode": "immediate",
-       "status": "sending"
+       "status": "failed"
       }
      },
      "title": "Ölümcül Hasta Bir Babayla Evlendim, Çünkü Küçük Kızına Bakmam İçin Yalvarmıştı; Bir Yıl Sonra Kızı Elime Bir Kutu Tutuşturdu",
