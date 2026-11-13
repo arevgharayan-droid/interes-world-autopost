@@ -3621,12 +3621,13 @@
       "1260826840455724": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128889895441679_1578452040983110",
        "error": null,
        "last_attempt": "2026-11-13T14:15:18+04:00",
        "mode": "schedule",
        "photo_id": "122128889865441679",
        "post_id": "1260826840455724_122128889895441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ma fille de 6 ans saignait dans le bureau de son père, et sa maîtresse de rien du tout me faisait la leçon : un seul appel a tout fait basculer",
@@ -3672,7 +3673,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-1500-fr.jpg"
    },
    "source_key": "post:61590177596600_122130279231339253",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
