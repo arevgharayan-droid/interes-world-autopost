@@ -46,14 +46,17 @@
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
   "b704adc12a8d3775fd71": "2026-11-12T09:04:38+00:00",
+  "be38faec6f9e0849079a": "2026-11-13T10:15:12+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
   "e19af41ca961271a3c24": "2026-11-01T14:04:10+00:00",
   "e264befb548c9459d95b": "2026-11-10T22:04:30+00:00",
+  "e2f11ad134f9c6c0943e": "2026-11-13T10:15:12+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
   "e84337ab74e96356bcfe": "2026-11-10T22:05:49+00:00",
-  "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00"
+  "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00",
+  "fd395eead654da158a14": "2026-11-13T10:15:12+00:00"
  },
  "outputs": {
   "1008693642337213_122117314700640467": "2026-10-31T10:15:20+00:00",
@@ -3763,7 +3766,64 @@
    "status": "missed"
   },
   "2026-11-13 15:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Gastei 86 mil dólares num bracelete para a amante enquanto minha esposa lutava para sobreviver à pior nevasca do Colorado em 32 anos — e eu tinha desligado o telefone que ela não parava de ligar",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 175,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Он выключил телефон ради браслета за $86 000, пока жена боролась за жизнь в метель, а потом услышал её последнюю запись",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 173,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Karım Colorado'daki kar fırtınasında ölümle savaşırken ben metresime 86.000 dolarlık bileklik alıyordum",
+     "warnings": [
+      "длина текста FB 608 слов (исходник 725, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 174,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/845363607_122131115853339253_4788742773186504706_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Txtk8_IqPZMQ7kNvwFUdkZU&_nc_oc=AdrUtiMje-GCYAFq_L6aq6jayq3lJUDhOuFX3weNK5l7Db0leLPUd1BqxtUg1T0cdy0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=pEHqHHHFRvr_u34eJ_-4Fw&_nc_tpa=Q5bMBQLxKrOYOEvRr1IVwTOibi52p5x_dSzjgtdqYa_VwnQ038ZXIBRX2Lpj_1XnbuKdGLt_hW9aMjJadw&oh=00_AQQgsAUfW8CaFdyIIZG-hHEGTeIWQJSU_bKctO79_RDItw&oe=6AFCA585",
@@ -3775,7 +3835,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-1500-ru.jpg"
    },
    "source_key": "post:61590177596600_122131115925339253",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4040,7 +4100,7 @@
    "origin": "manual",
    "page_id": "61590177596600",
    "slot": "2026-11-13 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122148448257348565": {
    "error": "слот пропущен",
