@@ -3592,6 +3592,12 @@
        "photo_id": "122123540439415639",
        "post_id": "1250374694822508_122123540469415639",
        "status": "scheduled"
+      },
+      "1260826840455724": {
+       "attempts": 1,
+       "last_attempt": "2026-11-13T14:15:18+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "Ma fille de 6 ans saignait dans le bureau de son père, et sa maîtresse de rien du tout me faisait la leçon : un seul appel a tout fait basculer",
