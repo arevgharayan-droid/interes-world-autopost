@@ -672,7 +672,7 @@
   "975714512286925_122149699425209153": "2026-11-12T17:48:06+00:00",
   "975714512286925_122149699863209153": "2026-11-12T17:55:26+00:00",
   "975714512286925_122149710723209153": "2026-11-12T20:03:00+00:00",
-  "975714512286925_122149776555209153": "2026-11-13T10:15:01+00:00"
+  "975714512286925_122149776555209153": "2026-11-13T11:08:17+00:00"
  },
  "slots": {
   "2026-10-30 15:00": {
@@ -5519,21 +5519,24 @@
       "921611111039858": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122144191095200344_4724518391204970",
        "error": null,
        "last_attempt": "2026-11-13T14:14:51+04:00",
        "mode": "schedule",
        "photo_id": "122144191065200344",
        "post_id": "921611111039858_122144191095200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122149776555209153_1674303147428756",
        "error": null,
        "last_attempt": "2026-11-13T14:14:58+04:00",
        "mode": "schedule",
        "photo_id": "122149776525209153",
        "post_id": "975714512286925_122149776555209153",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "My Dad Left Me on a Dark Highway So My Sister Could Stretch Her Legs, But One Message the Next Morning Made My Mother Go Pale",
@@ -5582,7 +5585,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-1500-en.jpg"
    },
    "source_key": "post:61587032195586_122142411429234406",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
