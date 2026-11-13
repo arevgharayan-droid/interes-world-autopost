@@ -3716,9 +3716,10 @@
       },
       "1058598924006917": {
        "attempts": 1,
+       "error": "публикация: FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
        "last_attempt": "2026-11-13T18:44:18+04:00",
        "mode": "immediate",
-       "status": "sending"
+       "status": "failed"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -3797,13 +3798,18 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-fr.jpg"
    },
    "source_key": "post:61589490035610_122121550203316334",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
     "url": "https://hetaqrqir.com",
     "wp_auth": "make_connector"
    }
+  },
+  "2026-11-13 21:00": {
+   "langs": {},
+   "slot_iso": "2026-11-13T21:00:00+04:00",
+   "status": "no_source"
   },
   "2026-11-14 00:00": {
    "langs": {},
