@@ -1,1 +1,1 @@
-{"id": "publish-now-1311", "cmd": "publish-now", "args": {"slot": "2026-11-13 21:00"}}
+{"id": "fb-pause-1311", "cmd": "fb-pause", "args": {"minutes": 60}}
