@@ -2954,7 +2954,10 @@
      "title": "Im Landeanflug hörte ich plötzlich meinen Namen aus dem Cockpit – 55 Jahre nach dem Verschwinden des Mannes, den ich liebte",
      "warnings": [
       "длина текста FB 631 слов (исходник 751, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 302,
+     "wp_status": "future"
     },
     "EN": {
      "pages": {},
@@ -2972,7 +2975,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "633031599904551": {
+       "attempts": 1,
+       "last_attempt": "2026-11-13T18:37:39+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "55 jaar na zijn verdwijning klonk vlak voor de landing mijn naam door de cockpitluidspreker, en wat de piloot daarna zei, joeg me de stuipen op het lijf",
      "warnings": [],
      "wp_error": null,
@@ -2992,6 +3002,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-13T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/856375602_122125985793316334_4772693663104884552_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1J8cT8bxMqoQ7kNvwEMSBtX&_nc_oc=AdqTXyfd-mscYJOsIvdvfJU-597yqZPI_yVaGYY7g21witYLTMm4sTqJajbRmQc9XBs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ClaYbde5EMN_dx91QeOUsg&_nc_tpa=Q5bMBQJ1WX_Ys5pQg2YmFTNTjcGOvCRuQg0osKqHMS8QCr3YlPLheozxbn9ko2tnutomkXwl7LYRBLjHCQ&oh=00_AQRaYQe-aPGndecn1XrTpe0pW9ytwn1dYBXUoQiLjuA-hQ&oe=6AFCF647",
@@ -3003,7 +3014,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-nl.jpg"
    },
    "source_key": "post:61589490035610_122125985943316334",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3275,7 +3286,7 @@
    "origin": "manual",
    "page_id": "61589490035610",
    "slot": "2026-11-13 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590177596600_122135497227339253": {
    "fingerprint": "e077c7a58c101e053564",

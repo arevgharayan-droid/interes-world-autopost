@@ -16,6 +16,7 @@
   "34f5d1ae4690346695c5": "2026-11-12T17:48:06+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
+  "511f35f875db7d4a056d": "2026-11-13T14:37:39+00:00",
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
   "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
@@ -27,11 +28,13 @@
   "66da1067d99e1be59d56": "2026-11-12T10:26:34+00:00",
   "6a9dc74cd9fef54c67d7": "2026-11-10T22:03:12+00:00",
   "6ad19445c3c2f9ca584e": "2026-11-09T20:00:50+00:00",
+  "70f1397700ba9303490e": "2026-11-13T14:37:39+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
   "76d5322eded92004a16e": "2026-11-10T22:03:12+00:00",
   "78229d059b1f03d27989": "2026-11-09T20:08:16+00:00",
   "788e0e4a8634b7c3a3a3": "2026-11-10T22:05:49+00:00",
   "822b3e6fa186814bd262": "2026-11-12T17:48:06+00:00",
+  "872c066fea909c2bfe8d": "2026-11-13T14:37:39+00:00",
   "8985ae5cfef71c642a06": "2026-11-10T22:08:57+00:00",
   "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
   "8cbbb2f4ef9dac4322bc": "2026-10-31T10:15:11+00:00",
@@ -3941,7 +3944,69 @@
    "status": "missed"
   },
   "2026-11-13 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Casei com um pai solteiro em fase terminal para criar a filha dele, mas um ano depois a menina me entregou uma caixa que me fez gritar",
+     "warnings": [
+      "длина текста FB 673 слов (исходник 835, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 183,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я вышла замуж за смертельно больного отца-одиночки, чтобы вырастить его дочь, но через год девочка протянула мне коробку",
+     "warnings": [
+      "длина текста FB 589 слов (исходник 835, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 181,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ölümcül Hasta Bir Babayla Evlendim, Çünkü Küçük Kızına Bakmam İçin Yalvarmıştı; Bir Yıl Sonra Kızı Elime Bir Kutu Tutuşturdu",
+     "warnings": [
+      "длина текста FB 484 слов (исходник 835, цель ±10%)",
+      "длина статьи 547 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 182,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/837092063_122123131929316334_5574680002152408049_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VbB7MWAqFmYQ7kNvwEnHhLx&_nc_oc=AdrnislCSwB7qP4J6nQqUxVpQcAupZNq0cz5eRjS5ibvCVyiYZYz3bSbD_4zo4QXoqE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=crbC1snq24xb6RUr14plTQ&_nc_tpa=Q5bMBQJy_-F19ofTkWKnzDsuQ6d69IQ3dRSibNsuQCCYDmAdINzSi6ZefJhGeBIEjTMcmnNg5bIvSaEWhA&oh=00_AQTE9EhFAhvzybw1zBDNPMDyJ4Qxb7egG_YQdtgemKmQ6w&oe=6AFD0D05",
@@ -3953,7 +4018,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-2100-ru.jpg"
    },
    "source_key": "post:61589490035610_122123132091316334",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4217,7 +4282,7 @@
    "origin": "manual",
    "page_id": "61589490035610",
    "slot": "2026-11-13 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590177596600_122131115925339253": {
    "fingerprint": "898fbc5ebcff61765aa0",
