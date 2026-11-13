@@ -3802,7 +3802,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1008693642337213": {
+       "attempts": 1,
+       "last_attempt": "2026-11-13T14:15:17+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Он выключил телефон ради браслета за $86 000, пока жена боролась за жизнь в метель, а потом услышал её последнюю запись",
      "warnings": [],
      "wp_error": null,
