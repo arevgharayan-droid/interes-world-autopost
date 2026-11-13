@@ -8,6 +8,7 @@
   "3b1bd09f3324c9ccaad0": "2026-11-10T22:02:12+00:00",
   "3e2f2c99735b21275480": "2026-11-09T13:27:19+00:00",
   "4ec66c0e7d13beb9615d": "2026-11-09T20:00:31+00:00",
+  "4f46145168db4906b417": "2026-11-13T14:37:34+00:00",
   "5524aef86b90361cca7b": "2026-11-10T22:03:23+00:00",
   "5a1a23c72fc75013e47d": "2026-10-31T10:14:39+00:00",
   "5e336a9c8f71c9075c40": "2026-11-12T17:47:39+00:00",
@@ -5594,7 +5595,48 @@
    "status": "missed"
   },
   "2026-11-13 21:00": {
-   "langs": {},
+   "langs": {
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Wife Left Me Alone With Our Blind Twin Daughters. 18 Years Later, She Knocked on Our Door With a Strange Demand",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 300,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-13T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/843169587_122124253389316334_3307143297891876835_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-4N41--Q-NwQ7kNvwHd6YN4&_nc_oc=AdpeQiTcQSOa1vye2AeQ-v5E2jJ5Cp3Jb-n8mF2l81HPylHjX2PDB4YAf9LXkq4WIXs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=8NkuT1TvMl-UrpmDGuMrVA&_nc_tpa=Q5bMBQLfuchL9wxorJS0csUG1A80xjC52do3ZiXdDLcnsqAd-ndy_ehFHOvdMx0yEhSZ0akiW-XsZKDwNA&oh=00_AQQoRwBnI3c3dZZtaRyIntXLZ-wJiLCp-guyh85j8wqcIQ&oe=6AFCFED9",
@@ -5606,7 +5648,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-en.jpg"
    },
    "source_key": "post:61589490035610_122124253473316334",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5878,7 +5920,7 @@
    "origin": "manual",
    "page_id": "61589490035610",
    "slot": "2026-11-13 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590456964686_122149883583348565": {
    "error": "слот пропущен",
