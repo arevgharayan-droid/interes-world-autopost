@@ -5669,9 +5669,10 @@
       },
       "975714512286925": {
        "attempts": 1,
+       "error": "публикация: FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
        "last_attempt": "2026-11-13T18:44:17+04:00",
        "mode": "immediate",
-       "status": "sending"
+       "status": "failed"
       }
      },
      "title": "My Wife Left Me Alone With Our Blind Twin Daughters. 18 Years Later, She Knocked on Our Door With a Strange Demand",

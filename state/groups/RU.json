@@ -3980,11 +3980,18 @@
      "gen_error": null,
      "generated": true,
      "pages": {
-      "1448441201677530": {
+      "1338630212673029": {
        "attempts": 1,
-       "last_attempt": "2026-11-13T18:44:16+04:00",
+       "last_attempt": "2026-11-13T18:44:18+04:00",
        "mode": "immediate",
        "status": "sending"
+      },
+      "1448441201677530": {
+       "attempts": 1,
+       "error": "публикация: FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
+       "last_attempt": "2026-11-13T18:44:16+04:00",
+       "mode": "immediate",
+       "status": "failed"
       }
      },
      "title": "Casei com um pai solteiro em fase terminal para criar a filha dele, mas um ano depois a menina me entregou uma caixa que me fez gritar",
