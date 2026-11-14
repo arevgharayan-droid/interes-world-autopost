@@ -5948,6 +5948,7 @@
    }
   },
   "2026-11-14 21:00": {
+   "cancel_note": "история перенесена на 00:00 (15.11)",
    "langs": {
     "CS": {
      "pages": {},
@@ -6072,14 +6073,11 @@
     "key_secret": "WP_API_KEY_HETAQRQIR",
     "url": "https://hetaqrqir.com",
     "wp_auth": "make_connector"
-   },
-   "cancel_note": "история перенесена на 00:00 (15.11)"
+   }
   },
   "2026-11-15 00:00": {
    "langs": {},
    "slot_iso": "2026-11-15T00:00:00+04:00",
-   "status": "preparing",
-   "source_key": "post:100064502274900_1602304875262906",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/905937806_1601428685350525_4639891170701548226_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KBXX2EOLoHMQ7kNvwEM1S32&_nc_oc=AdpOkrrfUj3zvLdnRC_JCbdLyiBXqPw-HT8Wjnr09iihKQoq9opTZMAWQ586vEXUAKk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Jb-7fwt2JQaTUgCsu3CP9g&_nc_tpa=Q5bMBQJ42vIXeqlAGzn8suEVv0K8uqJtD5gHOGKghuezFeZGNYhTNwkUxJfQdZqhDhYXQdXQHeY6vbIgiA&oh=00_AQTfoHKmgp8_Q1HK4mKwtxJGT-EeOiBy2LIBbWFHPUZvIA&oe=6AFE28ED",
     "link": "https://www.facebook.com/share/p/1PfpawPzEf/",
@@ -6089,6 +6087,8 @@
     "wp_media_id": 334,
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-2100-en.jpg"
    },
+   "source_key": "post:100064502274900_1602304875262906",
+   "status": "preparing",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
