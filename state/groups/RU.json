@@ -21,11 +21,13 @@
   "511f35f875db7d4a056d": "2026-11-13T14:37:39+00:00",
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
   "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
+  "5579983a5a4919598caf": "2026-11-14T09:18:33+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5b204109299ad4dcd429": "2026-11-12T20:02:43+00:00",
   "5d014620f15f95df1195": "2026-11-10T22:05:49+00:00",
   "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
+  "5efa9fb5844a5d5a2b35": "2026-11-14T09:18:33+00:00",
   "5fe659aaf3f073ce93ab": "2026-11-10T22:04:30+00:00",
   "66da1067d99e1be59d56": "2026-11-12T10:26:34+00:00",
   "6a9dc74cd9fef54c67d7": "2026-11-10T22:03:12+00:00",
@@ -51,6 +53,7 @@
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
   "b704adc12a8d3775fd71": "2026-11-12T09:04:38+00:00",
+  "ba8f3a95256fb1f89569": "2026-11-14T09:18:33+00:00",
   "be38faec6f9e0849079a": "2026-11-13T10:15:12+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
@@ -4134,7 +4137,75 @@
   },
   "2026-11-14 16:00": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Coloquei laxante no café do meu marido antes do encontro com a amante, mas o que encontrei em casa duas horas depois mudou tudo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 190,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я подсыпала мужу слабительное в кофе перед встречей с любовницей, но вернувшись домой, увидела открытую дверь и сообщение, после которого забыла о мести",
+     "warnings": [
+      "длина текста FB 638 слов (исходник 776, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 188,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kocamın Kahvesine Gizlice Müshil Kattım, Ama İki Saat Sonra Evde Gördüğüm Şey Her İntikam Fikrimi Yok Etti",
+     "warnings": [
+      "длина текста FB 544 слов (исходник 776, цель ±10%)",
+      "длина статьи 560 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 189,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-14T16:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/903799638_1670817167755031_7548437479981603739_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0FwChiga6r8Q7kNvwGbBUuh&_nc_oc=AdrWae4QS6joZYWWw9dnPH7Gw2qS6LdyBmG6ttoqQEf-cfDCUwWEohAFpLuu3RcbaQ8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=gE5rN-Qnq8m_gDo6IZAf7A&_nc_tpa=Q5bMBQJtw1Bg-vOzNVPH8Mhzatc0DUW3ttFByNUVuaSZa9Rq4DpRQMRWoVsz_UpSG-YZeaBByYj96HarCA&oh=00_AQQpeFl320AHpce9_2R_jpbaohxfmDlp9q2gjP3S6HYwdg&oe=6AFDE9EB",
@@ -4146,7 +4217,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261114-1600-ru.jpg"
    },
    "source_key": "post:100044802900629_1670817227755025",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4307,7 +4378,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-14 16:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699103431608349": {
    "fingerprint": "72333163c518fa427e98",
