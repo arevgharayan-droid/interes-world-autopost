@@ -672,6 +672,19 @@ def cmd_ops(cfg, args) -> int:
         return rc
     if cmd == "match-pages":
         return cmd_match_pages(cfg, a.get("pages") or [])
+    if cmd == "retry-sources":
+        # ссылки, которые не прочитались (например, не было страницы-«читателя»), снова в очередь
+        out = ["## Повторить непрочитанные ссылки", ""]
+        needle = a.get("error_contains", "нет доступа к странице")
+        for g, st in _group_states(cfg).items():
+            keys = [k for k, v in st.sources.items() if v.get("status") == "failed" and needle in (v.get("error") or "")]
+            for k in keys:
+                del st.sources[k]
+            if keys:
+                st.save()
+            out.append(f"- {cfg.group_label(g)}: {len(keys)}")
+        summary("\n".join(out) + "\n", "previews/retry-sources.md", cfg)
+        return 0
     if cmd == "move-slot":
         out = [f"## Перенос выпуска {a.get('from', '')} → {a.get('to', '')}", ""]
         for g, st in _group_states(cfg).items():
