@@ -1,6 +1,88 @@
-## Проба публикации
+## Доступ к страницам
 
-Токенов в наборе: 83 · страница: Cute Stories · токен есть: True
-- ✅ публикация разрешена: отложенный пост создан (233545296514172_122336370956241259)
-- пробный пост удалён
+- **FR**
+  - Au Cœur des Vies [FR] — старый autopost
+  - Le Fil de la Vie [FR] — старый autopost
+  - Destins Touchants [FR] — старый autopost
+  - Larmes de Vie [FR] — старый autopost
+  - La Vie Telle Qu’elle Est [FR] — старый autopost
+  - Visages de la Vie [FR] — autopost2
+  - Vie en Stories [FR] — autopost2
+  - Une Histoire Qui Vous Touchera [FR] — autopost2
+  - Moments Français | Paris [FR] — старый autopost
+- **IT+PL+CS**
+  - Quand Tout Bascule [IT] — autopost2
+  - Vite in Primo Piano [IT] — autopost2
+  - Storie Vere | Lion [IT] — autopost2
+  - Voci di Vita | Paris [IT] — autopost2
+  - Racconti Quotidiani | Monaco [IT] — autopost2
+  - Vita Virale | Paris [IT] — autopost2
+  - Vite da Raccontare [IT] — autopost2
+  - Frammenti di Vita [IT] — старый autopost
+  - Una Storia che Ti Toccherà [IT] — старый autopost
+  - Cuori in Storia [IT] — старый autopost
+  - Lacrime di Vita [IT] — autopost2
+  - Vite Spezzate [IT] — autopost2
+  - Storie Che Toccano [IT] — autopost2
+  - Vita e Sentimenti [IT] — старый autopost
+  - Racconti Emozionanti [IT] — autopost2
+  - Momenti di Vita [IT] — autopost2
+  - Éclats de vie [IT] — autopost2
+  - Serca i Sekrety [PL] — autopost2
+  - Historie z Życia [PL] — autopost2
+  - Historie, które zostają w sercu [PL] — autopost2
+  - Życie, które porusza [PL] — autopost2
+  - Příběhy ze Srdce [CS] — autopost2
+- **EN-1**
+  - The Daily Report [EN] — старый autopost
+  - Human Life Stories [EN] — старый autopost
+  - Behind Her Smile [EN] — старый autopost
+  - Life’s Echo [EN] — старый autopost
+  - Beyond the Mask [EN] — старый autopost
+  - Whispers of Fate [EN] — старый autopost
+  - Heartfelt Lessons [EN] — старый autopost
+  - The Golden Touch [EN] — старый autopost
+  - Amazing [EN] — нет доступа
+  - Pet Lover [EN] — старый autopost
+  - Sweet Paws #1 [EN] — старый autopost
+  - Sweet Paws #2 [EN] — старый autopost
+  - Love This World [EN] — старый autopost
+  - Talent The Best [EN] — старый autopost
+  - Exciting stories [EN] — старый autopost
+  - True American Tales [EN] — старый autopost
+- **EN-2**
+  - Cute Stories [EN] — старый autopost
+  - Sunny Days [EN] — старый autopost
+  - Fragments of Life [EN] — старый autopost
+  - Your Daily Drama [EN] — старый autopost
+  - Musical Devotee [EN] — старый autopost
+  - Talent Spotlight [EN] — старый autopost
+  - Kids in Motion [EN] — старый autopost
+  - Little Legends Live [EN] — старый autopost
+  - Deepest Lessons [EN] — старый autopost
+  - Cute Animals [EN] — старый autopost
+  - Baby Lovers [EN] — старый autopost
+  - Fine Baby [EN] — старый autopost
+  - Life Between Moments [EN] — старый autopost
+- **NL+DE**
+  - Het is interessant [NL] — autopost2
+  - Mooie kinderen [NL] — старый autopost
+  - Levensmomenten Nederland [NL] — autopost2
+  - Verhalen uit het Hart [NL] — autopost2
+  - Geschichten des Lebens [DE] — autopost2
+  - Lebenswege [DE] — autopost2
+  - Momente aus der Schweiz [DE] — autopost2
+  - Geschichten aus Österreich [DE] — autopost2
+  - Momente des Lebens [DE] — autopost2
+  - Herzgeschichten Deutschland [DE] — autopost2
+- **RU+TR+PT**
+  - Из глубины сердца [RU] — старый autopost
+  - Из глубины души [RU] — старый autopost
+  - Моменты жизни [RU] — старый autopost
+  - Hayatın Anları [TR] — старый autopost
+  - Kalpten Hikayeler [TR] — autopost2
+  - Segredos que a Vida Guarda [PT] — старый autopost
+  - Histórias que Ninguém Esquece [PT] — autopost2
+
+Итого: autopost2: 32 · старый autopost: 44 · нет доступа: 1 · токен не работает: 0
 
