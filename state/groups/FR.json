@@ -5,6 +5,7 @@
   "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
   "15762788a9c71b2165b1": "2026-11-09T19:59:18+00:00",
   "1d9175966e062556cf08": "2026-11-09T20:02:35+00:00",
+  "1de1978484aefe0b2b8a": "2026-11-14T11:39:11+00:00",
   "1e5353b2a2e832230c83": "2026-11-10T22:07:10+00:00",
   "3c0aa1063bd6821f66ae": "2026-11-01T14:04:10+00:00",
   "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
@@ -3960,7 +3961,56 @@
    }
   },
   "2026-11-14 21:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Le soir de ses 18 ans, elle a mis ses 3 millions de dollars à l'abri : le lendemain, ses parents lui ont ordonné de quitter la maison avant midi",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 338,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-14T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/906380982_1600185955474798_7985866547823647098_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LP0jhSV1yqIQ7kNvwHNYqnv&_nc_oc=AdrW_poBcxBQcr1BiFwbtBJAGv3XHwcFFKPT5JYbH7LyTnwPpmIWhKlvRdbrVAbgiFU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=73pZB0C6z27RThFvBEUpvw&_nc_tpa=Q5bMBQK9cT8VJ5oEAwL2psw4jwAHQYeoTf1bW1dIrPZmt-cve02_EQiHt2siCgA79Us2iLu3lzwvPVwlhg&oh=00_AQQcqu5NzI6EwMH7It7GAzb1WYv0Tv-2uVSDKdtl7ZxJ3g&oe=6AFE22C2",
@@ -3972,7 +4022,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-2100-fr.jpg"
    },
    "source_key": "post:100064502274900_1600934388733288",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4172,7 +4222,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-14 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1451741083726896": {
    "fingerprint": "cc0f3f6f57f54e4fac09",
