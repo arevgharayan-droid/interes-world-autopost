@@ -674,6 +674,8 @@ def cmd_ops(cfg, args) -> int:
         return cmd_match_pages(cfg, a.get("pages") or [])
     if cmd == "fb-probe":
         return cmd_fb_probe(cfg, a.get("tokens_file", ""), a.get("page", ""))
+    if cmd == "tokens-status":
+        return cmd_tokens_status(cfg, check=a.get("check", True))
     if cmd == "retry-sources":
         # ссылки, которые не прочитались (например, не было страницы-«читателя»), снова в очередь
         out = ["## Повторить непрочитанные ссылки", ""]
@@ -1000,6 +1002,39 @@ def cmd_match_pages(cfg, wanted: list) -> int:
     cfg.path("previews").mkdir(exist_ok=True)
     cfg.path("previews/match-pages.json").write_text(json.dumps(found, ensure_ascii=False, indent=1), encoding="utf-8")
     summary("\n".join(out) + "\n", "previews/match-pages.md", cfg)
+    return 0
+
+
+def cmd_tokens_status(cfg, check=True) -> int:
+    """По группам: какая страница через кого публикуется (autopost2 / старый autopost / нет доступа).
+    check — проверить каждый токен чтением имени страницы (ничего не публикует)."""
+    from .tokens import token_origins
+    tokens = load_tokens(cfg)
+    origins = token_origins(cfg)
+    label = {"main": "autopost2"}
+    graph = Graph(cfg.graph_version) if check else None
+    out = ["## Доступ к страницам", ""]
+    total = {"autopost2": 0, "старый autopost": 0, "нет доступа": 0, "токен не работает": 0}
+    for g in cfg.groups():
+        rows = []
+        for lang in cfg.languages:
+            for p in cfg.pages_for(lang):
+                if (p.group or p.lang) != g or p.disabled:
+                    continue
+                o = origins.get(p.page_id)
+                who = label.get(o, "старый autopost") if o else "нет доступа"
+                note = ""
+                if o and graph:
+                    try:
+                        graph.get(p.page_id, tokens[p.page_id], fields="name")
+                    except FacebookError as e:
+                        who, note = "токен не работает", f" ({e.short()})"
+                total[who] += 1
+                rows.append(f"  - {p.name} [{lang}] — {who}{note}")
+        out.append(f"- **{cfg.group_label(g)}**")
+        out += rows
+    out += ["", "Итого: " + " · ".join(f"{k}: {v}" for k, v in total.items())]
+    summary("\n".join(out) + "\n", "previews/tokens-status.md", cfg)
     return 0
 
 

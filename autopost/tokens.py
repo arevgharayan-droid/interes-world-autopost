@@ -38,16 +38,48 @@ def save_tokens(cfg, app_secret: str, tokens: dict, meta: dict) -> None:
     p.write_bytes(_fernet(app_secret).encrypt(blob))
 
 
+def extra_token_files(cfg) -> list:
+    """Дополнительные наборы токенов (например, старого системного пользователя autopost):
+    settings.yaml → facebook.extra_token_files. Из них берутся только страницы, которых нет в основном наборе."""
+    return [str(x) for x in ((cfg.settings.get("facebook") or {}).get("extra_token_files") or []) if x]
+
+
+def _read_tokens_file(cfg, rel: str, app_secret: str) -> dict:
+    data = json.loads(_fernet(app_secret).decrypt(cfg.path(rel).read_bytes()))
+    return data["tokens"]
+
+
+def token_origins(cfg, app_secret: str | None = None) -> dict:
+    """page_id → какой набор даёт токен ('main' или имя доп. файла)."""
+    app_secret = app_secret if app_secret is not None else os.environ.get("FB_APP_SECRET", "")
+    out = {pid: "main" for pid in _read_tokens_file(cfg, TOKENS_FILE, app_secret)}
+    for rel in extra_token_files(cfg):
+        try:
+            for pid in _read_tokens_file(cfg, rel, app_secret):
+                out.setdefault(pid, rel)
+        except (OSError, InvalidToken, ValueError, KeyError):
+            continue
+    return out
+
+
 def load_tokens(cfg, app_secret: str | None = None) -> dict:
     app_secret = app_secret if app_secret is not None else os.environ.get("FB_APP_SECRET", "")
     p = cfg.path(TOKENS_FILE)
     if not p.exists():
         raise TokenError("токены страниц ещё не получены — запустите workflow «2 · Подключить Facebook»")
     try:
-        data = json.loads(_fernet(app_secret).decrypt(p.read_bytes()))
+        tokens = _read_tokens_file(cfg, TOKENS_FILE, app_secret)
     except InvalidToken:
         raise TokenError("не удаётся расшифровать токены: FB_APP_SECRET изменился — повторите «2 · Подключить Facebook»")
-    return data["tokens"]
+    # страницы, которых нет у основного пользователя, — из дополнительных наборов (первый найденный)
+    for rel in extra_token_files(cfg):
+        try:
+            for pid, tok in _read_tokens_file(cfg, rel, app_secret).items():
+                if tok and not tokens.get(pid):
+                    tokens[pid] = tok
+        except (OSError, InvalidToken, ValueError, KeyError):
+            continue   # повреждённый или чужой доп. набор не мешает основному
+    return tokens
 
 
 def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token) -> dict:

@@ -126,6 +126,17 @@ class TokenTests(unittest.TestCase):
         with self.assertRaises(TokenError):
             load_tokens(cfg, "other")
 
+    def test_extra_token_file_fills_only_missing_pages(self):
+        from autopost.tokens import _fernet, token_origins
+        cfg, _ = temp_cfg()
+        save_tokens(cfg, "s3cret", {"1": "main1", "2": "main2"}, {})
+        blob = json.dumps({"tokens": {"2": "old2", "3": "old3"}, "meta": {}}).encode()
+        cfg.path("state/old.enc").write_bytes(_fernet("s3cret").encrypt(blob))
+        self.assertEqual(load_tokens(cfg, "s3cret"), {"1": "main1", "2": "main2"})   # без настройки — как раньше
+        cfg.settings.setdefault("facebook", {})["extra_token_files"] = ["state/old.enc", "state/missing.enc"]
+        self.assertEqual(load_tokens(cfg, "s3cret"), {"1": "main1", "2": "main2", "3": "old3"})
+        self.assertEqual(token_origins(cfg, "s3cret"), {"1": "main", "2": "main", "3": "state/old.enc"})
+
 
 class GraphClientTests(unittest.TestCase):
     class Sess:
