@@ -3024,3 +3024,7 @@
 {"slot": "2026-11-14 21:00", "action": "wp_media", "id": 334, "t": "2026-11-14T11:38:23+00:00", "group": "EN"}
 {"slot": "2026-11-14 21:00", "action": "wp_media", "id": 333, "t": "2026-11-14T11:38:23+00:00", "group": "EN2"}
 {"slot": "2026-11-14 21:00", "action": "wp_media", "id": 335, "t": "2026-11-14T11:38:24+00:00", "group": "NL"}
+{"slot": "2026-11-14 21:00", "lang": "NL", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 461 слов (исходник 576, цель ±10%)"], "t": "2026-11-14T11:39:08+00:00", "group": "NL"}
+{"slot": "2026-11-14 21:00", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 460 слов (исходник 576, цель ±10%)"], "t": "2026-11-14T11:39:08+00:00", "group": "NL"}
+{"slot": "2026-11-14 21:00", "lang": "NL", "action": "wp_post", "id": 336, "status": "future", "t": "2026-11-14T11:39:09+00:00", "group": "NL"}
+{"slot": "2026-11-14 21:00", "lang": "DE", "action": "wp_post", "id": 337, "status": "future", "t": "2026-11-14T11:39:10+00:00", "group": "NL"}
