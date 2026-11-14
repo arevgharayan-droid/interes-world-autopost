@@ -1,9 +1,10 @@
 ## Подключение Facebook
 
-✅ Получены токены страниц: **76 из 77**
+✅ Получены токены страниц: **32 из 77**
 Срок действия токенов страниц: бессрочно
 Разрешения: pages_show_list, business_management, pages_read_engagement, pages_read_user_content, pages_manage_posts, pages_manage_engagement, public_profile
-❌ Нет доступа к страницам (добавьте их в портфолио Interes World и назначьте системному пользователю autopost): Amazing
+❌ Нет доступа к страницам (добавьте их в портфолио Interes World и назначьте системному пользователю autopost): Au Cœur des Vies; Le Fil de la Vie; Destins Touchants; Larmes de Vie; La Vie Telle Qu’elle Est; Moments Français | Paris; Frammenti di Vita; Una Storia che Ti Toccherà; Cuori in Storia; Vita e Sentimenti; The Daily Report; Human Life Stories; Behind Her Smile; Life’s Echo; Beyond the Mask; Whispers of Fate; Heartfelt Lessons; The Golden Touch; Amazing; Pet Lover; Sweet Paws #1; Sweet Paws #2; Love This World; Cute Stories; Sunny Days; Fragments of Life; Your Daily Drama; Musical Devotee; Talent Spotlight; Kids in Motion; Little Legends Live; Deepest Lessons; Cute Animals; Baby Lovers; Fine Baby; Life Between Moments; Talent The Best; Exciting stories; True American Tales; Mooie kinderen; Из глубины сердца; Из глубины души; Моменты жизни; Hayatın Anları; Segredos que a Vida Guarda
+ℹ️ Доступны и другие страницы (пока не в config/pages.yaml):  Momenti di Vita (page_id 1078100405390763); Emozioni Italiane (page_id 1093003583899107); Racconti del Destino (page_id 1159996950522974)
 
 Новыми историями считаются посты, опубликованные на ваших страницах ПОСЛЕ этого момента (старые посты и всё, что публиковал Make, не берутся).
 Секрет FB_USER_TOKEN не удаляйте: когда в портфолио добавятся новые страницы, этот шаг можно просто запустить ещё раз.
