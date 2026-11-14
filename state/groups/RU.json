@@ -11,6 +11,8 @@
   "0febb3e08517debf9ca4": "2026-11-12T09:04:38+00:00",
   "151eb58f03724b2a8ed0": "2026-11-09T20:03:21+00:00",
   "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
+  "17291d408906d44b96db": "2026-11-14T11:40:46+00:00",
+  "1955c9dccca6e5edee35": "2026-11-14T11:40:46+00:00",
   "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
   "30660871dadba458ebbe": "2026-11-09T20:02:09+00:00",
   "33582b0afea138144804": "2026-11-12T20:02:43+00:00",
@@ -4276,7 +4278,80 @@
    }
   },
   "2026-11-14 21:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ele riu da ex-mulher na estrada com dois bebês no peito, mas a pergunta dela o levou a uma verdade que ele nunca imaginou",
+     "warnings": [
+      "длина текста FB 798 слов (исходник 941, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 196,
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {
+      "1008693642337213": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "1125676667286378": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "988042774402200": {
+       "attempts": 0,
+       "status": "no_access"
+      }
+     },
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Eski Karımı İki Bebekle Yolda Görüp Güldüm, Nişanlım Yüzüne Para Fırlattı; O Gece Evrakları Açınca Gerçek Kanımı Dondurdu",
+     "warnings": [
+      "длина текста FB 608 слов (исходник 941, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 195,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-14T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/885276976_1589246489902078_7696548232305581821_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iIbCxkwEm_wQ7kNvwGC14L6&_nc_oc=AdqrUsfyIOwYr0zR5j2Feiz-2uNNqvHNv0EdktNOFes940hj-Qny6qX6pNuRf0sw4yc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=oZRB4slM64XsTBdy2O3kUw&_nc_tpa=Q5bMBQJycG6_x75O97JYs_hAr4IfqINwsaRCFHOQx_EYJP-SJAglvTyXiTwCscgCSLGaX0w2MxYpmUZfyA&oh=00_AQSDqCNyO8lg-L05bcg_4mqhwmUQa9sWBEIP6B4WdhQqRA&oe=6AFE33B8",
@@ -4288,7 +4363,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261114-2100-ru.jpg"
    },
    "source_key": "post:100064502274900_1589246626568731",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4488,7 +4563,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-14 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1449183097316028": {
    "fingerprint": "4d0ffc15e7187ded193f",
