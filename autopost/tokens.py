@@ -50,16 +50,24 @@ def load_tokens(cfg, app_secret: str | None = None) -> dict:
     return data["tokens"]
 
 
-def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token: str) -> dict:
-    """Получает и сохраняет токены страниц. Возвращает отчёт для пользователя."""
-    if not (app_id and app_secret and user_token):
+def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token) -> dict:
+    """Получает и сохраняет токены страниц. Возвращает отчёт для пользователя.
+
+    user_token — один токен или список: несколько системных пользователей (autopost2, autopost3…) делят страницы
+    между собой; страница берётся у первого, кому она назначена."""
+    user_tokens = [t for t in ([user_token] if isinstance(user_token, str) else list(user_token)) if t]
+    if not (app_id and app_secret and user_tokens):
         raise TokenError("нужны секреты FB_APP_ID, FB_APP_SECRET и FB_USER_TOKEN")
-    try:
-        long_user = graph.exchange_long_lived(app_id, app_secret, user_token)
-    except Exception:  # noqa: BLE001 — токен системного пользователя обменивать не нужно, он бессрочный
-        long_user = user_token
-    pages = graph.my_pages(long_user)
-    by_id = {p["id"]: p for p in pages}
+    by_id, per_user = {}, []
+    for ut in user_tokens:
+        try:
+            long_user = graph.exchange_long_lived(app_id, app_secret, ut)
+        except Exception:  # noqa: BLE001 — токен системного пользователя обменивать не нужно, он бессрочный
+            long_user = ut
+        pages = graph.my_pages(long_user)
+        per_user.append(len(pages))
+        for p in pages:
+            by_id.setdefault(p["id"], p)
     tokens, missing, no_rights, ok = {}, [], [], []
     for page in cfg.all_pages:
         got = by_id.get(page.page_id)
@@ -92,5 +100,5 @@ def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token: str) ->
     if tokens:
         save_tokens(cfg, app_secret, tokens, meta)
     extra = sorted(set(by_id) - {p.page_id for p in cfg.all_pages})
-    return {"ok": ok, "missing": missing, "no_rights": no_rights, "expires_at": expires,
+    return {"ok": ok, "missing": missing, "no_rights": no_rights, "expires_at": expires, "per_user": per_user,
             "scopes": scopes, "extra_pages": [(i, by_id[i].get("name")) for i in extra]}

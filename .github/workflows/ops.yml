@@ -31,6 +31,7 @@ jobs:
           FB_APP_ID: ${{ secrets.FB_APP_ID }}
           FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
           FB_USER_TOKEN: ${{ secrets.FB_USER_TOKEN }}
+          FB_USER_TOKEN_2: ${{ secrets.FB_USER_TOKEN_2 }}
           WP_USER: ${{ secrets.WP_USER }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
           WP_API_KEY: ${{ secrets.WP_API_KEY }}

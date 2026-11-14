@@ -164,7 +164,7 @@ def cmd_setup_facebook(cfg, args) -> int:
     graph = Graph(cfg.graph_version)
     try:
         rep = setup_facebook(cfg, graph, os.environ.get("FB_APP_ID", ""), os.environ.get("FB_APP_SECRET", ""),
-                             os.environ.get("FB_USER_TOKEN", ""))
+                             [os.environ.get("FB_USER_TOKEN", ""), os.environ.get("FB_USER_TOKEN_2", "")])
     except (TokenError, FacebookError) as e:
         msg = e.short() if isinstance(e, FacebookError) else str(e)
         summary(f"## Подключение Facebook\n\n❌ {msg}\n\nЧастая причина: токен из Graph API Explorer действует "
@@ -174,6 +174,9 @@ def cmd_setup_facebook(cfg, args) -> int:
     st.ensure_source_cutoff(datetime.now(timezone.utc))
     st.save()
     lines = ["## Подключение Facebook", "", f"✅ Получены токены страниц: **{len(rep['ok'])} из {len(cfg.pages)}**"]
+    if len(rep.get("per_user") or []) > 1:
+        lines.append("Системные пользователи (FB_USER_TOKEN, FB_USER_TOKEN_2): видят страниц — "
+                     + ", ".join(str(n) for n in rep["per_user"]))
     lines.append("Срок действия токенов страниц: " + ("бессрочно" if not rep["expires_at"] else
                  datetime.fromtimestamp(rep["expires_at"], timezone.utc).strftime("%Y-%m-%d")))
     if rep["scopes"]:
@@ -669,6 +672,30 @@ def cmd_ops(cfg, args) -> int:
         return rc
     if cmd == "match-pages":
         return cmd_match_pages(cfg, a.get("pages") or [])
+    if cmd == "reopen-pages":
+        # страницы, которые были без доступа, когда готовился выпуск, а теперь подключены, — получают его пост
+        out = ["## Повторно для новых подключённых страниц", ""]
+        tokens = load_tokens(cfg)
+        for g, st in _group_states(cfg).items():
+            for key in a.get("slots") or []:
+                s = st.slots.get(key)
+                if not s or not s.get("prepared"):
+                    continue
+                n = 0
+                for L in (s.get("langs") or {}).values():
+                    if not L.get("generated"):
+                        continue
+                    for pid in [pid for pid, e in (L.get("pages") or {}).items()
+                                if e.get("status") == "no_access" and tokens.get(pid)]:
+                        del L["pages"][pid]
+                        n += 1
+                if n:
+                    if s.get("status") in ("done", "done_with_errors"):
+                        s["status"] = "prepared"
+                    st.save()
+                out.append(f"- {cfg.group_label(g)} {key}: страниц к публикации — {n}")
+        summary("\n".join(out) + "\n", "previews/reopen.md", cfg)
+        return 0
     if cmd == "fb-diag":
         return cmd_fb_diag(cfg)
     if cmd == "repost-now":
