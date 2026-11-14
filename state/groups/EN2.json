@@ -5740,12 +5740,60 @@
     "EN": {
      "generated": true,
      "pages": {
+      "100633729330404": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "104114086037068": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1060733217128705": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "106713875762456": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1220745651126185": {
+       "attempts": 0,
+       "status": "new"
+      },
       "233545296514172": {
        "attempts": 0,
        "error": "публикация (Facebook ограничил частоту — пауза 60 мин): FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
        "last_attempt": "2026-11-14T13:14:24+04:00",
        "mode": "immediate",
        "status": "failed"
+      },
+      "530022363528890": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "625664190627160": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "648976361631351": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "673710079162922": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "714226118434052": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "892503027289970": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "994273113779575": {
+       "attempts": 0,
+       "status": "new"
       }
      },
      "title": "I Carried a Baby for My Brother, but the Moment He Saw His Newborn Daughter, He Refused to Take Her Home",
@@ -5794,7 +5842,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-en2.jpg"
    },
    "source_key": "post:61589490035610_122120660541316334",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
