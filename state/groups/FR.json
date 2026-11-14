@@ -4036,12 +4036,13 @@
       "1260826840455724": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122129102643441679_1609623313814909",
        "error": null,
        "last_attempt": "2026-11-14T15:39:13+04:00",
        "mode": "schedule",
        "photo_id": "122129102613441679",
        "post_id": "1260826840455724_122129102643441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Le soir de ses 18 ans, elle a mis ses 3 millions de dollars à l'abri : le lendemain, ses parents lui ont ordonné de quitter la maison avant midi",
@@ -4088,7 +4089,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-2100-fr.jpg"
    },
    "source_key": "post:100064502274900_1600934388733288",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
