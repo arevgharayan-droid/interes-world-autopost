@@ -4536,12 +4536,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116059177328231_1294836312798085",
        "error": null,
        "last_attempt": "2026-11-14T14:25:10+04:00",
        "mode": "immediate",
        "photo_id": "122116059141328231",
        "post_id": "1106793902521611_122116059177328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Na první výročí svatby jsem slyšela manžela říct: „Věřila všem mým lžím od střední školy.\" Pak se otevřely dveře",
@@ -4550,6 +4552,7 @@
      ],
      "wp_error": null,
      "wp_id": 311,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -4633,12 +4636,13 @@
       "1099258949937246": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122114399336601707_1076796758716761",
        "error": null,
        "last_attempt": "2026-11-14T14:24:37+04:00",
        "mode": "immediate",
        "photo_id": "122114399306601707",
        "post_id": "1099258949937246_122114399336601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 0,
@@ -4646,48 +4650,58 @@
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122104899410533031_1141731478450984",
        "error": null,
        "last_attempt": "2026-11-14T14:24:28+04:00",
        "mode": "immediate",
        "photo_id": "122104899380533031",
        "post_id": "1128937866962526_122104899410533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110310990543006_1139944418447399",
        "error": null,
        "last_attempt": "2026-11-14T14:23:42+04:00",
        "mode": "immediate",
        "photo_id": "122110310966543006",
        "post_id": "1140835409106424_122110310990543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138546535311525_1614680144037961",
        "error": null,
        "last_attempt": "2026-11-14T14:23:00+04:00",
        "mode": "immediate",
        "photo_id": "122138546511311525",
        "post_id": "1142735408923607_122138546535311525",
-       "status": "published"
+       "status": "done"
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129897115314630_2693622441068695",
        "error": null,
        "last_attempt": "2026-11-14T14:24:23+04:00",
        "mode": "immediate",
        "photo_id": "122129897091314630",
        "post_id": "1149681171551323_122129897115314630",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136279399400586_1621266042308036",
        "error": null,
        "last_attempt": "2026-11-14T14:23:04+04:00",
        "mode": "immediate",
        "photo_id": "122136279375400586",
        "post_id": "1160223747182678_122136279399400586",
-       "status": "published"
+       "status": "done"
       },
       "1160240797163045": {
        "attempts": 0,
@@ -4695,21 +4709,25 @@
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125594263405175_4580482535570266",
        "error": null,
        "last_attempt": "2026-11-14T14:23:52+04:00",
        "mode": "immediate",
        "photo_id": "122125594233405175",
        "post_id": "1191480207389219_122125594263405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113017002437662_1545334244317634",
        "error": null,
        "last_attempt": "2026-11-14T14:23:14+04:00",
        "mode": "immediate",
        "photo_id": "122113016978437662",
        "post_id": "997772916762884_122113017002437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "La sera del nostro primo anniversario l'ho sentito dire al telefono: «Ha creduto alle mie bugie fin dal liceo. Stasera finisco quello che ho iniziato",
@@ -4727,39 +4745,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126121639304793_1811639940106020",
        "error": null,
        "last_attempt": "2026-11-14T14:25:06+04:00",
        "mode": "immediate",
        "photo_id": "122126121615304793",
        "post_id": "1079800528556354_122126121639304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113974494359745_1646556267208426",
        "error": null,
        "last_attempt": "2026-11-14T14:24:47+04:00",
        "mode": "immediate",
        "photo_id": "122113974464359745",
        "post_id": "1083785318156771_122113974494359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122617963302807_2662697410912108",
        "error": null,
        "last_attempt": "2026-11-14T14:24:53+04:00",
        "mode": "immediate",
        "photo_id": "122122617933302807",
        "post_id": "1089456087587677_122122617963302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140841907313481_1129891423207521",
        "error": null,
        "last_attempt": "2026-11-14T14:24:59+04:00",
        "mode": "immediate",
        "photo_id": "122140841883313481",
        "post_id": "1107966229066828_122140841907313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "W pierwszą rocznicę ślubu usłyszałam, jak mój mąż mówi przez telefon: „Wierzyła w moje kłamstwa od liceum. Dziś to skończę",
@@ -4768,6 +4794,7 @@
      ],
      "wp_error": null,
      "wp_id": 310,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -4796,7 +4823,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-it.jpg"
    },
    "source_key": "post:61589490035610_122120428167316334",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
