@@ -669,6 +669,8 @@ def cmd_ops(cfg, args) -> int:
         return rc
     if cmd == "match-pages":
         return cmd_match_pages(cfg, a.get("pages") or [])
+    if cmd == "fb-diag":
+        return cmd_fb_diag(cfg)
     if cmd == "repost-now":
         out = ["## Повтор выпусков — сейчас", ""]
         for g, fk in (a.get("from_by_group") or {}).items():
@@ -949,6 +951,43 @@ def cmd_match_pages(cfg, wanted: list) -> int:
     cfg.path("previews").mkdir(exist_ok=True)
     cfg.path("previews/match-pages.json").write_text(json.dumps(found, ensure_ascii=False, indent=1), encoding="utf-8")
     summary("\n".join(out) + "\n", "previews/match-pages.md", cfg)
+    return 0
+
+
+def cmd_fb_diag(cfg) -> int:
+    """Что Facebook говорит о лимитах: заголовки использования (приложение, страница, бизнес), токен autopost,
+    состояние приложения. Только чтение, ничего не публикует."""
+    import requests
+    base = f"https://graph.facebook.com/{cfg.graph_version}"
+    tokens = load_tokens(cfg)
+    app_id, app_secret = os.environ.get("FB_APP_ID", ""), os.environ.get("FB_APP_SECRET", "")
+    app_token = f"{app_id}|{app_secret}"
+    user_token = os.environ.get("FB_USER_TOKEN", "")
+    out = ["## Диагностика Facebook (только чтение)", ""]
+
+    def show(label, r):
+        hdr = {k: v for k, v in r.headers.items() if k.lower() in (
+            "x-app-usage", "x-business-use-case-usage", "x-page-usage", "x-ad-account-usage")}
+        try:
+            body = r.json()
+        except ValueError:
+            body = r.text[:200]
+        if isinstance(body, dict):
+            body = {k: v for k, v in body.items() if k not in ("access_token",)}
+        out.append(f"- **{label}**: HTTP {r.status_code} · {json.dumps(body, ensure_ascii=False)[:600]}")
+        for k, v in hdr.items():
+            out.append(f"  - {k}: {v[:600]}")
+    pages = [p for p in cfg.pages if tokens.get(p.page_id)][:3]
+    for p in pages:
+        show(f"страница {p.name} (чтение)", requests.get(f"{base}/{p.page_id}", params={
+            "fields": "name,is_published,verification_status", "access_token": tokens[p.page_id]}, timeout=30))
+    if user_token:
+        show("токен autopost (debug_token)", requests.get(f"{base}/debug_token", params={
+            "input_token": user_token, "access_token": app_token}, timeout=30))
+        show("autopost /me", requests.get(f"{base}/me", params={"fields": "id,name", "access_token": user_token}, timeout=30))
+    show("приложение", requests.get(f"{base}/{app_id}", params={
+        "fields": "name,restrictions,app_domains,link", "access_token": app_token}, timeout=30))
+    summary("\n".join(out) + "\n", "previews/fb-diag.md", cfg)
     return 0
 
 
