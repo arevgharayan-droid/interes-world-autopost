@@ -3434,7 +3434,15 @@
   "2026-11-14 21:00": {
    "langs": {},
    "slot_iso": "2026-11-14T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/892060001_122141650143225301_2140939651042190403_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eovb-9bj4YkQ7kNvwGJZHV4&_nc_oc=Ado7ZP8bvjo6e9SHJDPmjkWSwaUsy-DzTrEJFuBgFa3cYFcO4u840V0s9EK3miXmBVU&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=sks176-JMONSYIrUHq8mrQ&_nc_tpa=Q5bMBQKlov9OJIzbRsjnqg4mDC4Zzk62wpOb9jifrp9Lelo6666rvybWD1r8SwZEEgJnP3VHepFRS4LBMA&oh=00_AQTwCYIHij8AjoQVSRzI6RYgLl419PqYV44YAy9nAXZFWw&oe=6AFE185C",
+    "link": "https://www.facebook.com/share/p/1PWwmMhrEc/",
+    "origin": "manual",
+    "page_id": "61586759032853",
+    "text": "Mon fils de 14 ans a laissé pousser ses cheveux pour faire fabriquer une perruque à sa camarade de classe, qui avait perdu les siens à cause d’un cancer. Mais le lendemain, j’ai été convoquée à l’école, où son père m’attendait. Dès qu’il m’a vue, il m’a dit : **« Vous n’avez pas la moindre idée de ce que votre fils a fait, n’est-ce pas ? »**\n\nMon fils Ethan et Lily étaient meilleurs amis depuis l’école primaire. Même à l’adolescence, ils étaient toujours inséparables.\n\nMalheureusement, l’année dernière, Lily a été diagnostiquée d’un cancer.\n\nJe voyais à quel point Ethan s’inquiétait pour elle.\n\nPuis, un jour, Ethan a refusé de se faire couper les cheveux.\n\nIl n’arrêtait pas de me répéter :\n\n« Maman, je vais laisser pousser mes cheveux pour que Lily puisse enfin se sentir à nouveau elle-même. »\n\nJe ne peux même pas vous décrire à quel point j’étais fière de mon fils.\n\nLily avait perdu tous ses cheveux à cause de la chimiothérapie et, malgré les moqueries qu’Ethan subissait à l’école, il avait réussi à laisser pousser les siens suffisamment longtemps pour pouvoir les donner.\n\nJ’ai donc contacté une association spécialisée dans la fabrication de perruques et, un matin, j’ai accompagné Ethan pour qu’on lui coupe les cheveux.\n\nQuand Ethan a offert la perruque à Lily, elle a éclaté en sanglots en la découvrant.\n\nJe pensais que l’histoire s’arrêtait là.\n\nMais le lendemain matin, j’ai reçu un appel de l’école d’Ethan.\n\nC’était le directeur, M. Harrison.\n\nIl s’est raclé la gorge avant de me dire :\n\n« Madame, je suis désolé, mais vous devez venir immédiatement à l’école. Le père de Lily est ici et exige de vous parler sur-le-champ. »\n\nJ’ai senti mes jambes se mettre à trembler.\n\nJe n’avais aucune idée de ce qui se passait, mais dix minutes plus tard, j’étais déjà à l’école.\n\nLe fait est que je parlais très peu aux parents de Lily. Je ne saurais même pas vraiment expliquer pourquoi. C’étaient simplement des personnes très discrètes et distantes.\n\nEt puis, même si je ne pouvais pas en être certaine, j’avais toujours eu l’impression qu’ils n’appréciaient pas particulièrement Ethan.\n\nLorsque je suis entrée dans le bureau du directeur, Ethan était assis là.\n\nIl était pâle comme un linge.\n\nLe père de Lily était assis à côté de lui.\n\nJ’ai esquissé un sourire gêné.\n\n« Alors… qu’est-ce qui se passe ? C’est à propos de la perruque ou quelque chose comme ça ? »\n\nL’homme m’a fixée pendant quelques instants, puis s’est tourné vers Ethan.\n\n« Tu ne lui as vraiment rien dit ? »\n\nMon sourire s’est immédiatement effacé.\n\n« Rien dit à propos de quoi ? »\n\nLe père de Lily m’a regardée droit dans les yeux et a déclaré :\n\n**« Vous n’avez pas la moindre idée de ce que votre fils a fait, n’est-ce pas ? »**\n\nPuis il s’est adressé à Ethan :\n\n**« S’il te plaît, dis immédiatement la vérité à ta mère. Sinon, je serai obligé de le faire moi-même. »**\n\nJ’ai regardé Ethan.\n\nIl n’osait même pas croiser mon regard.\n\nL’histoire est trop longue pour être racontée entièrement dans cette publication, alors écrivez simplement **« Oui »**.\n\n**L’histoire complète se trouve dans le premier commentaire ci-dessous. 👇**"
+   },
+   "source_key": "post:61586759032853_122141650209225301",
+   "status": "preparing"
   },
   "2026-11-15 00:00": {
    "langs": {},
@@ -3693,6 +3701,14 @@
    "page_id": "61586759032853",
    "slot": "2026-11-10 12:00",
    "status": "used"
+  },
+  "post:61586759032853_122141650209225301": {
+   "fingerprint": "492d4863217c03a17fb3",
+   "link": "https://www.facebook.com/share/p/1PWwmMhrEc/",
+   "origin": "manual",
+   "page_id": "61586759032853",
+   "slot": "2026-11-14 21:00",
+   "status": "reserved"
   },
   "post:61587032195586_122141365077234406": {
    "fingerprint": "b49bf9fc69c4e7f1f77b",

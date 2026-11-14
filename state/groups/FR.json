@@ -3962,7 +3962,23 @@
   "2026-11-14 21:00": {
    "langs": {},
    "slot_iso": "2026-11-14T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/906380982_1600185955474798_7985866547823647098_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LP0jhSV1yqIQ7kNvwHNYqnv&_nc_oc=AdrW_poBcxBQcr1BiFwbtBJAGv3XHwcFFKPT5JYbH7LyTnwPpmIWhKlvRdbrVAbgiFU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=73pZB0C6z27RThFvBEUpvw&_nc_tpa=Q5bMBQK9cT8VJ5oEAwL2psw4jwAHQYeoTf1bW1dIrPZmt-cve02_EQiHt2siCgA79Us2iLu3lzwvPVwlhg&oh=00_AQQcqu5NzI6EwMH7It7GAzb1WYv0Tv-2uVSDKdtl7ZxJ3g&oe=6AFE22C2",
+    "link": "https://www.facebook.com/share/p/1Hvdxhuu2i/",
+    "origin": "manual",
+    "page_id": "100064502274900",
+    "text": "At my 18th birthday party, I quietly moved my $3 million inheritance into a trust, just in case my family ever tried to touch it. Everyone laughed and said I was being dramatic. But by the next morning, my parents said the words that proved I had just saved my entire future.\nOn the night I turned eighteen, my father raised a crystal glass in the ballroom of the Graystone Hotel and told two hundred guests I was “finally ready to become a woman.”\nEveryone clapped.\nI smiled because that was what Kingsley daughters did in public.\nMy name is Evelyn Kingsley. My grandfather, Robert Hale, had passed away six months earlier and left me a $3 million inheritance in my own name. He had always said, “Money doesn’t make you safe, Evie. Control does.”\nSo two hours before my birthday party, I sat in a lawyer’s office in downtown Chicago with my hands folded over my black dress while Nora Whitman, my grandfather’s old attorney, slid papers across a polished table.\n“You’re sure?” she asked. “Once the trust is executed, neither of your parents can access the principal. Only you and the independent trustee can authorize distributions under the terms we discussed.”\n“I’m sure,” I said.\nBy seven that evening, my inheritance was no longer sitting in an account my parents could pressure me to touch. It was inside the Hale Education and Independence Trust, protected for tuition, housing, medical needs, and future investments. My mother called it dramatic. My father laughed when he heard.\n“At eighteen?” he said, squeezing my shoulder too hard as we posed for photos. “Sweetheart, you’ve been watching too many legal dramas.”\nMy mother, Cynthia, tilted her champagne glass toward me. “You’ve embarrassed us. Nora should know better than to encourage childish paranoia.”\nBut my older brother, Grant, didn’t laugh. He stared at me from across the room like I had locked a door he had been planning to walk through.\nThe party continued. The cake was served. My father gave a speech about family loyalty. My mother cried pretty tears for the cameras. Grant disappeared before midnight with his girlfriend, Paige, who wore my grandmother’s diamond bracelet without asking.\nAt 1:10 a.m., I found my father in the hotel corridor arguing into his phone.\n“She moved it,” he hissed. “All of it. No, I can’t reverse it. It’s locked.”\nHe turned and saw me. His face changed instantly, from panic to performance.\n“Go to bed, Evelyn,” he said.\nThe next morning, I came downstairs to find my parents waiting in the breakfast room. No coffee. No smiles. No servants.\nMy mother’s eyes were red, but not from sadness.\nMy father stood at the head of the table and said the words that proved I had saved my entire future.\n“Since you clearly don’t trust this family,” he said coldly, “you can pack your things and leave this house by noon.”\nComment \"YES\" now and don't forget to LIKE — PART 2 + FULL ENDING is unbelievable!",
+    "wp_media_id": 331,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-2100-fr.jpg"
+   },
+   "source_key": "post:100064502274900_1600934388733288",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-15 00:00": {
    "langs": {},
@@ -4149,6 +4165,14 @@
    "page_id": "100064456312444",
    "slot": "2026-11-01 15:00",
    "status": "used"
+  },
+  "post:100064502274900_1600934388733288": {
+   "fingerprint": "21b1e6694bc454cb9d08",
+   "link": "https://www.facebook.com/share/p/1Hvdxhuu2i/",
+   "origin": "manual",
+   "page_id": "100064502274900",
+   "slot": "2026-11-14 21:00",
+   "status": "reserved"
   },
   "post:100066730531753_1451741083726896": {
    "fingerprint": "cc0f3f6f57f54e4fac09",
