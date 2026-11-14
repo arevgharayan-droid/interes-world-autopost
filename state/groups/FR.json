@@ -3762,8 +3762,10 @@
        "status": "no_access"
       },
       "1260826840455724": {
-       "attempts": 0,
-       "status": "new"
+       "attempts": 1,
+       "last_attempt": "2026-11-14T14:23:00+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "Mon fils est mort après avoir donné son foie à sa petite sœur, mais le jour de ses 18 ans, elle a reçu une carte signée de lui",

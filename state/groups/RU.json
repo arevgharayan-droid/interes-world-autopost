@@ -4099,8 +4099,10 @@
        "status": "no_access"
       },
       "1164575726728296": {
-       "attempts": 0,
-       "status": "new"
+       "attempts": 1,
+       "last_attempt": "2026-11-14T14:23:00+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "Ölümcül Hasta Bir Babayla Evlendim, Çünkü Küçük Kızına Bakmam İçin Yalvarmıştı; Bir Yıl Sonra Kızı Elime Bir Kutu Tutuşturdu",
