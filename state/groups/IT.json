@@ -1,7 +1,7 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
- "fb_block_minutes": 240,
- "fb_block_until": "2026-11-14T02:17:00+04:00",
+ "fb_block_minutes": 60,
+ "fb_block_until": "2026-11-14T14:15:14+04:00",
  "output_fps": {
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
   "2116a560bb8b542f0caf": "2026-11-01T18:14:23+00:00",
@@ -4495,7 +4495,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1106793902521611": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "Na první výročí svatby jsem slyšela manžela říct: „Věřila všem mým lžím od střední školy.\" Pak se otevřely dveře",
      "warnings": [
       "длина текста FB 390 слов (исходник 550, цель ±10%)"
@@ -4518,7 +4523,79 @@
     },
     "IT": {
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1012250151981057": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1030877436782212": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1064982806700854": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1068567606345452": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1079964265201139": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1086658774532679": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1087342844462554": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1099258949937246": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1114015015119414": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1128937866962526": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1140835409106424": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1142735408923607": {
+       "attempts": 0,
+       "error": "публикация (Facebook ограничил частоту — пауза 60 мин): FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
+       "last_attempt": "2026-11-14T13:15:12+04:00",
+       "mode": "immediate",
+       "status": "failed"
+      },
+      "1149681171551323": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1160223747182678": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1160240797163045": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1191480207389219": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "997772916762884": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "La sera del nostro primo anniversario l'ho sentito dire al telefono: «Ha creduto alle mie bugie fin dal liceo. Stasera finisco quello che ho iniziato",
      "wp_id": 303,
      "wp_live": true
@@ -4531,7 +4608,24 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1079800528556354": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1083785318156771": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1089456087587677": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1107966229066828": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "W pierwszą rocznicę ślubu usłyszałam, jak mój mąż mówi przez telefon: „Wierzyła w moje kłamstwa od liceum. Dziś to skończę",
      "warnings": [
       "длина текста FB 375 слов (исходник 550, цель ±10%)"
@@ -4566,7 +4660,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-it.jpg"
    },
    "source_key": "post:61589490035610_122120428167316334",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
