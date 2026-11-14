@@ -5134,7 +5134,10 @@
      "title": "Přijel jsem domů ve 2:15 ráno a našel dceru spát na podlaze u chůvy. Vyhodil jsem ji, ale pak mlčící dcera po jedenácti měsících vykřikla a všechno se změnilo",
      "warnings": [
       "длина текста FB 880 слов (исходник 1051, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 341,
+     "wp_status": "future"
     },
     "DE": {
      "pages": {},
@@ -5189,6 +5192,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-14T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/904731935_1714946360024056_2963356643675418289_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Lrnm19Hq010Q7kNvwFD39rz&_nc_oc=AdqVr8ac330yzUgkaUrQLemHUY-wVvRCdoLCCNOvCIEHPPk2uiybXPl3ojthdK5a6Lg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=dLHyL78RgIdZuljhs3IFUQ&_nc_tpa=Q5bMBQJ6-tDxXYYIWZLotuE0dI1dfxngFs1MtAn5EVwbW1xMqxLwhAJfeeeZRYj1mABKeRQXHTBvEj8KRw&oh=00_AQR2x8EEm3KnbasRaH5AtmeyvXswYQaDSsmpROd2hmHWUA&oe=6AFE1BF4",
@@ -5200,7 +5204,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-2100-it.jpg"
    },
    "source_key": "post:100045261260562_1714946496690709",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5400,7 +5404,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-14 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1450160977218240": {
    "fingerprint": "68ee500f66d9ec24283c",
