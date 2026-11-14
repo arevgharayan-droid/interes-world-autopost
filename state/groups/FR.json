@@ -1,7 +1,7 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
- "fb_block_minutes": 240,
- "fb_block_until": "2026-11-14T02:17:00+04:00",
+ "fb_block_minutes": 60,
+ "fb_block_until": "2026-11-14T14:14:30+04:00",
  "output_fps": {
   "0d4df88eccac95382eba": "2026-11-01T10:36:55+00:00",
   "15762788a9c71b2165b1": "2026-11-09T19:59:18+00:00",
@@ -3726,10 +3726,11 @@
      "generated": true,
      "pages": {
       "1202025962997153": {
-       "attempts": 1,
+       "attempts": 0,
+       "error": "публикация (Facebook ограничил частоту — пауза 60 мин): FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
        "last_attempt": "2026-11-14T13:14:24+04:00",
        "mode": "immediate",
-       "status": "sending"
+       "status": "failed"
       }
      },
      "title": "Mon fils est mort après avoir donné son foie à sa petite sœur, mais le jour de ses 18 ans, elle a reçu une carte signée de lui",
