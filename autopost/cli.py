@@ -393,7 +393,7 @@ def _all_group_states(cfg) -> dict:
     return out
 
 
-def rework_slot(cfg, g: str, key: str, move_site=False, wp_factory=None) -> str:
+def rework_slot(cfg, g: str, key: str, move_site=False, wp_factory=None, force=False) -> str:
     """Подготовленный, но ещё не вышедший выпуск группы готовится заново по нынешней настройке:
     языки, которые добавились в группу, получают тексты, статьи и посты (уже готовые тексты и посты
     остаются); move_site — статьи переносятся на нынешний сайт группы (старые удаляются). Посты Facebook
@@ -404,7 +404,7 @@ def rework_slot(cfg, g: str, key: str, move_site=False, wp_factory=None) -> str:
         return "выпуск не подготовлен — нечего переделывать"
     if s.get("status") in ("done", "done_with_errors", "missed", "cancelled"):
         return f"выпуск уже закрыт ({s.get('status')})"
-    if datetime.fromisoformat(s["slot_iso"]) <= datetime.now(timezone.utc) + timedelta(minutes=20):
+    if not force and datetime.fromisoformat(s["slot_iso"]) <= datetime.now(timezone.utc) + timedelta(minutes=20):
         return "до выхода меньше 20 минут — не трогаю"
     gcfg = config_mod.group_view(cfg, g)
     notes = []
@@ -646,6 +646,15 @@ def cmd_ops(cfg, args) -> int:
     if cmd == "peek-links":
         return cmd_peek_links(cfg, a.get("links") or [])
     if cmd == "repost":
+        if a.get("from_by_group"):          # у каждой группы свой исходный выпуск (например, внеочередные)
+            out = [f"## Повтор выпусков → {a.get('to', '')}", ""]
+            states = _group_states(cfg)
+            for g, fk in a["from_by_group"].items():
+                st = states.get(g)
+                out.append(f"- {cfg.group_label(g)}: {fk} → "
+                           + (repost_slot(cfg, st, g, fk, a.get("to", "")) if st else "нет такой группы"))
+            summary("\n".join(out) + "\n", "previews/repost.md", cfg)
+            return 0
         return cmd_repost(cfg, a.get("from", ""), a.get("to", ""))
     if cmd == "inspect-posts":
         return cmd_inspect_posts(cfg, a.get("page", ""), a.get("posts") or [])
@@ -660,12 +669,36 @@ def cmd_ops(cfg, args) -> int:
         return rc
     if cmd == "match-pages":
         return cmd_match_pages(cfg, a.get("pages") or [])
+    if cmd == "repost-now":
+        out = ["## Повтор выпусков — сейчас", ""]
+        for g, fk in (a.get("from_by_group") or {}).items():
+            out.append(f"- {cfg.group_label(g)}: {repost_now(cfg, g, fk)}")
+        summary("\n".join(out) + "\n", "previews/repost.md", cfg)
+        return 0
+    if cmd == "skip-slot":
+        # выпуск по расписанию пропускается (ещё не подготовленный): ссылки из очереди его не займут
+        out = [f"## Пропустить выпуск {a.get('slot', '')}", ""]
+        tz = ZoneInfo(cfg.tz)
+        for g, st in _group_states(cfg).items():
+            if a.get("groups") and g not in a["groups"]:
+                continue
+            key = a.get("slot", "")
+            s = st.slots.get(key)
+            if s and (s.get("prepared") or s.get("source_key")):
+                out.append(f"- {cfg.group_label(g)}: уже подготовлен — не трогаю")
+                continue
+            dt = datetime.strptime(key, "%Y-%m-%d %H:%M").replace(tzinfo=tz)
+            st.slots[key] = {"status": "cancelled", "langs": {}, "slot_iso": dt.isoformat(), "note": "пропущен по просьбе"}
+            st.save()
+            out.append(f"- {cfg.group_label(g)}: пропущен")
+        summary("\n".join(out) + "\n", "previews/skip-slot.md", cfg)
+        return 0
     if cmd == "start-now":
         # «сейчас»: внеочередной выпуск на текущую минуту — следующий запуск берёт ссылки из очередей и
         # публикует сразу, без отложенных постов (не создаём, чтобы потом удалять: Facebook это не любит)
         out = ["## Внеочередной выпуск", ""]
         for g in cfg.groups():
-            out.append(f"- {cfg.group_label(g)}: {start_now(cfg, g)}")
+            out.append(f"- {cfg.group_label(g)}: {start_now(cfg, g, at=a.get('at', ''))}")
         summary("\n".join(out) + "\n", "previews/start-now.md", cfg)
         return 0
     if cmd == "fb-pause":
@@ -919,15 +952,43 @@ def cmd_match_pages(cfg, wanted: list) -> int:
     return 0
 
 
-def start_now(cfg, g: str, now=None) -> str:
+def start_now(cfg, g: str, now=None, at: str = "") -> str:
+    """Внеочередной выпуск: сейчас или к заданному времени (at — «YYYY-MM-DD HH:MM», вне сетки расписания)."""
     st = State(config_mod.group_state_path(cfg, g))
     tz = ZoneInfo(cfg.tz)
+    if at:
+        dt = datetime.strptime(at, "%Y-%m-%d %H:%M").replace(tzinfo=tz)
+        if Pipeline.key(dt) in st.slots:
+            return f"выпуск {at} уже есть"
+        st.slots[at] = {"status": "new", "langs": {}, "slot_iso": dt.isoformat(), "adhoc": True}
+        st.save()
+        return f"выпуск {at} — возьмёт ссылку из очереди и выйдет в {at[-5:]}"
     dt = (now or datetime.now(tz)).astimezone(tz).replace(second=0, microsecond=0)
     while Pipeline.key(dt) in st.slots:
         dt -= timedelta(minutes=1)
     st.slots[Pipeline.key(dt)] = {"status": "new", "langs": {}, "slot_iso": dt.isoformat(), "adhoc": True}
     st.save()
     return f"выпуск {Pipeline.key(dt)} — следующий запуск возьмёт ссылку из очереди и опубликует сразу"
+
+
+def repost_now(cfg, g: str, from_key: str, now=None) -> str:
+    """Повтор уже подготовленного выпуска прямо сейчас (те же тексты и статьи); языки, которых в нём не было,
+    но которые теперь есть в группе, получают тексты и статьи."""
+    tz = ZoneInfo(cfg.tz)
+    path = config_mod.group_state_path(cfg, g)
+    st = State(path)
+    dt = (now or datetime.now(tz)).astimezone(tz).replace(second=0, microsecond=0)
+    while Pipeline.key(dt) in st.slots:
+        dt -= timedelta(minutes=1)
+    to_key = Pipeline.key(dt)
+    r = repost_slot(cfg, st, g, from_key, to_key)
+    if r != "поставлен":
+        return r
+    st = State(path)
+    st.slots[to_key]["adhoc"] = True
+    st.save()
+    r2 = rework_slot(cfg, g, to_key, force=True)
+    return f"{from_key} → {to_key}: поставлен" + ("" if r2 == "менять нечего" else f"; {r2}")
 
 
 def publish_now(cfg, g: str, from_key: str, services=None, tokens=None, now=None) -> str:

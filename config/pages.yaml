@@ -118,17 +118,17 @@ languages:
       - {page_id: "1338630212673029", name: "Histórias que Ninguém Esquece", profile_id: "61594155721036", added: "2026-11-09", group: RU}
   PL:
     name: Polish
-    # группа NL (одна история на NL + DE + PL + CS)
+    # группа IT (одна история на IT + PL + CS) — с 14.11.2026
     pages:   # добавлены 13.11.2026
-      - {page_id: "1083785318156771", name: "Serca i Sekrety", profile_id: "61560792371463", added: "2026-11-13", group: NL}
-      - {page_id: "1089456087587677", name: "Historie z Życia", profile_id: "61589084236835", added: "2026-11-13", group: NL}
-      - {page_id: "1107966229066828", name: "Historie, które zostają w sercu", profile_id: "61589404443231", added: "2026-11-13", group: NL}
-      - {page_id: "1079800528556354", name: "Życie, które porusza", profile_id: "61589143814163", added: "2026-11-13", group: NL}
+      - {page_id: "1083785318156771", name: "Serca i Sekrety", profile_id: "61560792371463", added: "2026-11-13", group: IT}
+      - {page_id: "1089456087587677", name: "Historie z Życia", profile_id: "61589084236835", added: "2026-11-13", group: IT}
+      - {page_id: "1107966229066828", name: "Historie, które zostają w sercu", profile_id: "61589404443231", added: "2026-11-13", group: IT}
+      - {page_id: "1079800528556354", name: "Życie, które porusza", profile_id: "61589143814163", added: "2026-11-13", group: IT}
   CS:
     name: Czech
-    # группа NL
+    # группа IT — с 14.11.2026
     pages:   # добавлены 13.11.2026
-      - {page_id: "1106793902521611", name: "Příběhy ze Srdce", profile_id: "61589846932566", added: "2026-11-13", group: NL}
+      - {page_id: "1106793902521611", name: "Příběhy ze Srdce", profile_id: "61589846932566", added: "2026-11-13", group: IT}
 
 # Страница, токеном которой Make читал «чужие» публичные посты (fallback в модуле 2).
 fallback_source_page_id: "1011074408765807"  # Émotions Virales | Paris (публикация на неё отключена, но через неё читаются ссылки)

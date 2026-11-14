@@ -408,7 +408,8 @@ class GroupQueueTests(unittest.TestCase):
         groups = cfg.groups()
         self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU"])
         self.assertEqual(cfg.group_label("RU"), "RU+TR+PT")
-        self.assertEqual(cfg.group_label("NL"), "NL+DE+PL+CS")
+        self.assertEqual(cfg.group_label("NL"), "NL+DE")
+        self.assertEqual(cfg.group_label("IT"), "IT+PL+CS")
         n_articles = sum(len(cfg.group_langs(g)) for g in groups)   # в группе из нескольких языков — статья на язык
         # «чужая» страница-источник для каждой группы — истории читаются через запасную страницу
         fb = cfg.fallback_source_page_id
@@ -687,6 +688,47 @@ class StartNowTests(unittest.TestCase):
         self.assertFalse(st.slots.get("2030-05-01 09:00", {}).get("prepared"))
 
 
+class RepostNowTests(unittest.TestCase):
+    """Невышедший выпуск повторяется сейчас; языки, добавленные в группу позже, получают тексты и посты."""
+
+    def test_repost_now_adds_new_group_languages(self):
+        from autopost.cli import repost_now
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        tz = ZoneInfo(cfg.tz)
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=tz)}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        extra = [p for p in cfg.pages if p.group == "IT" and p.lang != "IT"]
+        self.assertTrue(extra)
+        for p in extra:
+            p.group = "X"                        # до перегруппировки: в группе IT только итальянские
+        _queue_story(graph, cfg, tmp, "IT", 961, "Story P.")
+        st_path = tmp / "state/groups/IT.json"
+
+        def tick():
+            gcfg = group_view(cfg, "IT")
+            Pipeline(gcfg, State(st_path), graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+        tick()
+        first = {k for k in graph.posts}
+        for k in first:                         # будто Facebook их так и не опубликовал
+            graph.posts.pop(k)
+        for p in extra:
+            p.group = "IT"
+        clock["now"] = datetime(2030, 5, 1, 13, 10, tzinfo=tz)
+        res = repost_now(cfg, "IT", "2030-05-01 09:00", now=clock["now"])
+        self.assertIn("2030-05-01 13:10", res)
+        for mm in (11, 30):
+            clock["now"] = clock["now"].replace(minute=mm)
+            tick()
+        live = [p for p in graph.posts.values() if p["published"]]
+        self.assertEqual({p["page"] for p in live}, {p.page_id for p in cfg.pages if p.group == "IT"})
+        self.assertTrue(all(len(graph.comments_by.get(pid, [])) == 1 for pid in graph.posts))
+        self.assertEqual(State(st_path).slots["2030-05-01 13:10"]["status"], "done")
+
+
 class RateLimitTests(unittest.TestCase):
     """Facebook ответил 368 «ограничиваем частоту»: остальные страницы не дёргаем, ждём паузу, потом публикуем."""
 
@@ -790,7 +832,7 @@ class RepostTests(unittest.TestCase):
         clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
         graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
         tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
-        g = "IT"   # группа одного языка: одна статья на выпуск
+        g = "FR"   # группа одного языка: одна статья на выпуск
         gcfg = group_view(cfg, g)
         st = State(tmp / f"state/groups/{g}.json")
         (tmp / "queue").mkdir(exist_ok=True)
