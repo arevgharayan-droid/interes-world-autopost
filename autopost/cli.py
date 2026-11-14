@@ -505,7 +505,14 @@ def cmd_tick(cfg, args) -> int:
         with lock:
             _checkpoint()
 
-    pacer = Pacer(float(cfg.settings.get("fb_pacing_seconds", 2)))   # один темп на все группы
+    # один темп на все группы; паузы Facebook — по системным пользователям (autopost2 / старый autopost)
+    from .tokens import token_origins
+    try:
+        owners = {pid: ("autopost2" if o == "main" else "autopost") for pid, o in token_origins(cfg).items()}
+    except Exception:  # noqa: BLE001 — без карты все страницы считаются одним пользователем
+        owners = {}
+    pacer = Pacer(float(cfg.settings.get("fb_pacing_seconds", 2)), owners=owners,
+                  path=cfg.path("state/fb_guard.json"))
 
     def run_group(g):
         gcfg = views[g]

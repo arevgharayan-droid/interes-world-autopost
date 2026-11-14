@@ -72,12 +72,58 @@ class Report:
 
 class Pacer:
     """Ровный темп записей в Facebook (посты, комментарии) — общий для всех групп одного запуска:
-    не чаще одной записи в `seconds` секунд (+ немного случайности), чтобы не было всплеска."""
+    не чаще одной записи в `seconds` секунд (+ немного случайности), чтобы не было всплеска.
 
-    def __init__(self, seconds: float = 0.0):
+    Плюс «предохранитель» по системным пользователям (owners: page_id → кто публикует): если Facebook
+    ответил одному пользователю «ограничиваем частоту», останавливается только он — во всех группах сразу,
+    на паузу 60 мин (каждый новый отказ удваивает, до 8 ч); другой пользователь продолжает.
+    path — общий файл пауз (state/fb_guard.json); без него паузы хранятся в состоянии группы."""
+
+    def __init__(self, seconds: float = 0.0, owners: dict | None = None, path=None):
         self.seconds = float(seconds or 0)
         self._lock = threading.Lock()
         self._last = 0.0
+        self.owners = dict(owners or {})
+        self.path = path
+        self.blocks = {}
+        self.stopped = set()      # кому в этом запуске Facebook уже отказал
+        if path is not None and path.exists():
+            try:
+                self.blocks = json.loads(path.read_text(encoding="utf-8")) or {}
+            except ValueError:
+                self.blocks = {}
+
+    def owner(self, page_id) -> str:
+        return self.owners.get(page_id, "main")
+
+    def blocked_until(self, owner, now):
+        u = (self.blocks.get(owner) or {}).get("until")
+        if u and now < datetime.fromisoformat(u):
+            return datetime.fromisoformat(u)
+        return None
+
+    def block(self, owner, now) -> int:
+        with self._lock:
+            self.stopped.add(owner)
+            b = self.blocks.setdefault(owner, {})
+            prev, last = int(b.get("minutes") or 0), b.get("until")
+            recent = last and now - datetime.fromisoformat(last) < timedelta(hours=6)
+            minutes = min(480, prev * 2) if (prev and recent) else 60
+            b.update(minutes=minutes, until=(now + timedelta(minutes=minutes)).isoformat(timespec="seconds"))
+            self._save()
+            return minutes
+
+    def ok(self, owner):
+        b = self.blocks.get(owner)
+        if b and b.get("minutes"):
+            with self._lock:
+                b.pop("minutes", None)   # записи снова проходят — следующая пауза снова с 60 мин
+                self._save()
+
+    def _save(self):
+        if self.path is not None:
+            self.path.parent.mkdir(parents=True, exist_ok=True)
+            self.path.write_text(json.dumps(self.blocks, ensure_ascii=False, indent=1), encoding="utf-8")
 
     def wait(self):
         if self.seconds <= 0:
@@ -97,8 +143,11 @@ class Pipeline:
         # даже если сайт группы с тех пор поменяли
         self.wp_factory = wp_factory
         self._wps = {}
-        self.fb_blocked = False   # в этом запуске Facebook уже ответил «ограничиваем частоту»
         self.pacer = pacer or Pacer(0)
+        if self.pacer.path is None:
+            # без общего файла паузы живут в состоянии группы (сохраняются вместе с ним)
+            self.pacer.blocks = state.data.setdefault("fb_blocks", {})
+        self._told_block = set()
         self.tokens = tokens
         self.tz = ZoneInfo(cfg.tz)
         self.now_fn = now_fn or (lambda: datetime.now(self.tz))
@@ -510,6 +559,8 @@ class Pipeline:
                     self.r.info(f"{key} {lang} «{page.name}»: страница пока не подключена — пропущена")
                     self.state.save()
                     continue
+                if self._owner_paused(key, page.page_id, now):
+                    continue          # этому системному пользователю Facebook ограничил частоту — ждём
                 # 1) сначала проверяем площадку: может, пост уже есть (прошлый запуск оборвался)
                 found = self.find_existing_post(dt, page, e, text, tok)
                 if found in ("found", "unknown"):
@@ -520,8 +571,8 @@ class Pipeline:
                     self.r.error(f"{key} {lang} «{page.name}»: пост не опубликован: {e.get('error')}", final=True)
                     self.state.save()
                     continue
-                if self.fb_blocked:
-                    continue          # Facebook ограничил частоту — остальные страницы не дёргаем
+                if self.pacer.owner(page.page_id) in self.pacer.stopped:
+                    continue          # Facebook ограничил частоту — страницы этого пользователя не дёргаем
                 if mode == "immediate" and e.get("last_attempt"):
                     # лента страницы обновляется с задержкой — не спешим с повтором
                     if now - datetime.fromisoformat(e["last_attempt"]) < timedelta(minutes=5):
@@ -580,13 +631,7 @@ class Pipeline:
                 # не попытка, а пауза: ждём и повторяем, каждый новый отказ удваивает паузу (до 8 часов)
                 e["status"] = "failed"
                 e["attempts"] = max(0, e["attempts"] - 1)
-                self.fb_blocked = True
-                prev = int(self.state.data.get("fb_block_minutes") or 0)
-                last = self.state.data.get("fb_block_until")
-                recent = last and self.now() - datetime.fromisoformat(last) < timedelta(hours=6)
-                minutes = min(480, prev * 2) if (prev and recent) else 60
-                self.state.data["fb_block_minutes"] = minutes
-                self.state.data["fb_block_until"] = (self.now() + timedelta(minutes=minutes)).isoformat(timespec="seconds")
+                minutes = self._owner_block(page.page_id)
                 self.page_error(key, f"{lang} {page.name}", e, err,
                                 f"публикация (Facebook ограничил частоту — пауза {minutes} мин)")
                 return
@@ -597,6 +642,7 @@ class Pipeline:
         e.update(photo_id=res.get("id"), post_id=res.get("post_id"), error=None,
                  status="scheduled" if mode == "schedule" else "published")
         self.state.data.pop("fb_block_minutes", None)   # публикации снова проходят — пауза сбрасывается
+        self.pacer.ok(self.pacer.owner(page.page_id))
         self.state.remember_output(res.get("post_id"))
         self.state.remember_output(res.get("id"))
         self.r.counts["fb_scheduled" if mode == "schedule" else "fb_published"] += 1
@@ -634,6 +680,8 @@ class Pipeline:
                 if not tok:
                     self.page_error(key, name, e, "нет токена страницы", "комментарий")
                     continue
+                if self.pacer.owner(pid) in self.pacer.stopped or self._owner_paused(key, pid, now):
+                    continue          # пауза у этого системного пользователя — комментарий позже
                 try:
                     if not e.get("post_id") and e.get("photo_id"):
                         e["post_id"] = self.graph.page_story_id(e["photo_id"], tok)
@@ -669,10 +717,31 @@ class Pipeline:
                     c = self.graph.comment(target, tok, link)
                     e.update(comment_id=c.get("id"), status="done", error=None)
                     self.r.counts["comments"] += 1
+                    self.pacer.ok(self.pacer.owner(pid))
                     self.log_event(slot=key, lang=lang, page=pid, action="comment", id=c.get("id"))
                     self.state.save()
                 except FacebookError as err:
+                    if err.rate_limited:
+                        minutes = self._owner_block(pid)
+                        self.page_error(key, name, e, err, f"комментарий (Facebook ограничил частоту — пауза {minutes} мин)")
+                        continue
                     self.page_error(key, name, e, err, "комментарий")
+
+    def _owner_block(self, page_id) -> int:
+        owner = self.pacer.owner(page_id)
+        minutes = self.pacer.block(owner, self.now())
+        self.state.save()
+        self.r.error(f"Facebook ограничил частоту для «{owner}» — его страницы на паузе {minutes} мин, "
+                     f"остальные продолжают")
+        return minutes
+
+    def _owner_paused(self, key, page_id, now) -> bool:
+        owner = self.pacer.owner(page_id)
+        until = self.pacer.blocked_until(owner, now)
+        if until and owner not in self._told_block:
+            self._told_block.add(owner)
+            self.r.info(f"{key}: «{owner}» — пауза Facebook до {until.astimezone(self.tz):%H:%M}, потом повторю")
+        return bool(until)
 
     def close_slot(self, dt, final=False):
         key = self.key(dt)

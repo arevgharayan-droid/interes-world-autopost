@@ -838,6 +838,51 @@ class RateLimitTests(unittest.TestCase):
         self.assertTrue(all(e["attempts"] <= 1 for L in st.slots["2030-05-01 09:00"]["langs"].values()
                             for e in L["pages"].values()))
         self.assertNotIn("fb_block_minutes", st.data)
+        self.assertFalse(st.data["fb_blocks"]["main"].get("minutes"))
+
+    def test_rate_limit_stops_only_that_user(self):
+        """Отказ 368 у старого autopost: его страницы на паузе (во всех группах, через общий файл),
+        страницы autopost2 публикуются как обычно."""
+        from autopost.config import group_view
+        from autopost.pipeline import Pacer
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        _queue_story(graph, cfg, tmp, "IT", 942, "Story M.")
+        st_path = tmp / "state/groups/IT.json"
+        pages = [p.page_id for p in cfg.pages if p.group == "IT"]
+        old = set(pages[:2])
+        owners = {pid: ("autopost" if pid in old else "autopost2") for pid in pages}
+        orig = graph.create_photo_post
+        calls = []
+
+        def picky(page_id, *a, **k):
+            calls.append(page_id)
+            if page_id in old:
+                raise FacebookError("Мы ограничиваем частоту", code=368, subcode=1390008)
+            return orig(page_id, *a, **k)
+        graph.create_photo_post = picky
+        guard = tmp / "state/fb_guard.json"
+
+        def tick():
+            gcfg = group_view(cfg, "IT")
+            Pipeline(gcfg, State(st_path), graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP(),
+                     pacer=Pacer(0, owners=owners, path=guard)).tick()
+        tick()
+        self.assertEqual({k.split('_')[0] for k in graph.posts}, set(pages) - old)   # autopost2 — все свои страницы
+        self.assertEqual(sum(1 for c in calls if c in old), 1)          # старый — одна попытка и стоп
+        self.assertEqual(json.loads(guard.read_text())["autopost"]["minutes"], 60)
+        clock["now"] = clock["now"].replace(minute=30)
+        tick()                                                          # пауза — старого не трогаем
+        self.assertEqual(sum(1 for c in calls if c in old), 1)
+        graph.create_photo_post = orig
+        clock["now"] = clock["now"].replace(hour=7, minute=10)
+        tick()                                                          # пауза прошла — ставим и его страницы
+        self.assertEqual({k.split('_')[0] for k in graph.posts}, set(pages))
+        self.assertFalse(json.loads(guard.read_text())["autopost"].get("minutes"))
 
 
 class LateLinkTests(unittest.TestCase):
