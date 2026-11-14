@@ -672,6 +672,13 @@ def cmd_ops(cfg, args) -> int:
         return rc
     if cmd == "match-pages":
         return cmd_match_pages(cfg, a.get("pages") or [])
+    if cmd == "move-slot":
+        out = [f"## Перенос выпуска {a.get('from', '')} → {a.get('to', '')}", ""]
+        for g, st in _group_states(cfg).items():
+            if a.get("from", "") in st.slots:
+                out.append(f"- {cfg.group_label(g)}: {move_slot(cfg, g, a.get('from', ''), a.get('to', ''))}")
+        summary("\n".join(out) + "\n", "previews/move-slot.md", cfg)
+        return 0
     if cmd == "reopen-pages":
         # страницы, которые были без доступа, когда готовился выпуск, а теперь подключены, — получают его пост
         out = ["## Повторно для новых подключённых страниц", ""]
@@ -1055,6 +1062,98 @@ def repost_now(cfg, g: str, from_key: str, now=None) -> str:
     st.save()
     r2 = rework_slot(cfg, g, to_key, force=True)
     return f"{from_key} → {to_key}: поставлен" + ("" if r2 == "менять нечего" else f"; {r2}")
+
+
+def move_slot(cfg, g: str, from_key: str, to_key: str, services=None, tokens=None, pace=None) -> str:
+    """Подготовленный, ещё не вышедший выпуск переносится на другое (будущее) время: отложенные посты
+    получают новое время публикации (без удаления), статьи — новую дату и адрес, тексты — новое место."""
+    st = State(config_mod.group_state_path(cfg, g))
+    old = st.slots.get(from_key)
+    if not old or not old.get("prepared"):
+        return "выпуск не подготовлен"
+    if old.get("status") in ("done", "done_with_errors", "missed", "cancelled"):
+        return f"выпуск уже закрыт ({old.get('status')})"
+    tz = ZoneInfo(cfg.tz)
+    dt_old = datetime.fromisoformat(old["slot_iso"]).astimezone(tz)
+    dt_new = datetime.strptime(to_key, "%Y-%m-%d %H:%M").replace(tzinfo=tz)
+    now = datetime.now(tz)
+    if dt_old <= now + timedelta(minutes=12):
+        return "до выхода меньше 12 минут — пусть выходит как есть"
+    if dt_new <= now + timedelta(minutes=20):
+        return "новое время слишком близко — нужно хотя бы 20 минут"
+    cur = st.slots.get(to_key)
+    if cur and (cur.get("prepared") or cur.get("source_key")):
+        return f"выпуск {to_key} уже занят"
+    if services is None:
+        services = real_services(config_mod.group_view(cfg, g))
+        if old.get("wp_site"):
+            services = (services[0], real_wp(old["wp_site"]), services[2])
+    graph, wp, _http = services
+    tokens = tokens or load_tokens(cfg)
+    pacer = pace or Pacer(float(cfg.settings.get("fb_pacing_seconds", 2)))
+    ts = int(dt_new.timestamp())
+    moved, redo, errors = 0, 0, []
+    new = copy.deepcopy(old)
+    new.update({"slot_iso": dt_new.isoformat(), "status": "prepared", "moved_from": from_key})
+    regular = dt_new.strftime("%H:%M") in [str(x) for x in cfg.slots]
+    if regular:
+        new.pop("adhoc", None)
+    else:
+        new["adhoc"] = True
+    for lang, L in (new.get("langs") or {}).items():
+        if not L.get("generated"):
+            continue
+        for pid, e in list((L.get("pages") or {}).items()):
+            if e.get("status") == "no_access":
+                del L["pages"][pid]          # вдруг к новому времени страница уже подключена
+                continue
+            if e.get("status") != "scheduled":
+                continue
+            tok = tokens.get(pid)
+            try:
+                ids = [e["post_id"]] if e.get("post_id") else [
+                    sp["id"] for sp in graph.scheduled_posts(pid, tok)
+                    if int(sp.get("scheduled_publish_time") or 0) == int(dt_old.timestamp())]
+                if not ids:
+                    raise KeyError("отложенный пост не найден")
+                for post_id in ids:
+                    pacer.wait()
+                    graph.reschedule_post(post_id, tok, ts)
+                moved += 1
+            except (FacebookError, AssertionError, KeyError) as err:
+                if moved == 0 and redo == 0 and isinstance(err, FacebookError):
+                    # Facebook вообще не даёт переносить время — ничего не трогаем (удалять и ставить заново
+                    # десятки постов подряд — то, что вызвало блокировку)
+                    return (f"Facebook не дал перенести время отложенного поста ({err.short()}) — "
+                            f"выпуск оставлен на {from_key[-5:]}")
+                # не переносится — удаляем, следующий запуск поставит заново на новое время
+                if e.get("post_id"):
+                    try:
+                        graph.delete(e["post_id"], tok)
+                    except FacebookError:
+                        pass
+                del L["pages"][pid]
+                redo += 1
+                errors.append(f"{cfg.page(pid).name if cfg.page(pid) else pid}: "
+                              f"{err.short() if isinstance(err, FacebookError) else err}")
+        src = cfg.path(f"content/{dt_old:%Y-%m-%d}/{g}/{dt_old:%H%M}-{lang}.json")
+        dst = cfg.path(f"content/{dt_new:%Y-%m-%d}/{g}/{dt_new:%H%M}-{lang}.json")
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        if src.exists():
+            shutil.move(src, dst)
+        if L.get("wp_id"):
+            try:
+                wp.update_post(L["wp_id"], status="future",
+                               date_gmt=dt_new.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S"))
+            except WordPressError as err:
+                errors.append(f"статья {lang}: {err}")
+    errors += _rename_slot_slugs(cfg, g, new, dt_new, wp)
+    st.slots[to_key] = new
+    del st.slots[from_key]
+    st.save()
+    return (f"{from_key} → {to_key}: перенесено отложенных постов {moved}"
+            + (f", поставятся заново {redo}" if redo else "")
+            + (f"; замечания: {'; '.join(errors[:3])}" if errors else ""))
 
 
 def publish_now(cfg, g: str, from_key: str, services=None, tokens=None, now=None) -> str:

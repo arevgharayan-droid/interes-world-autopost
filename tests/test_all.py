@@ -729,6 +729,60 @@ class RepostNowTests(unittest.TestCase):
         self.assertEqual(State(st_path).slots["2030-05-01 13:10"]["status"], "done")
 
 
+class MoveSlotTests(unittest.TestCase):
+    """Перенос подготовленного выпуска на другое время: отложенные посты получают новое время, без удаления."""
+
+    def test_move_slot_reschedules_posts(self):
+        from unittest import mock
+        from autopost.cli import move_slot, start_now
+        from autopost.config import group_view
+        from autopost.pipeline import Pacer
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        tz = ZoneInfo(cfg.tz)
+        clock = {"now": datetime(2030, 5, 1, 13, 0, tzinfo=tz)}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        st_path = tmp / "state/groups/FR.json"
+
+        def tick():
+            gcfg = group_view(cfg, "FR")
+            Pipeline(gcfg, State(st_path), graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+        tick()
+        st = State(st_path)                                       # 15:00 пропущен, как в жизни
+        st.slots["2030-05-01 15:00"] = {"status": "cancelled", "langs": {},
+                                        "slot_iso": datetime(2030, 5, 1, 15, 0, tzinfo=tz).isoformat()}
+        st.save()
+        start_now(cfg, "FR", at="2030-05-01 16:00")
+        _queue_story(graph, cfg, tmp, "FR", 971, "Story M.")
+        tick()                                                    # 16:00 готов, посты отложены на 16:00
+        st = State(st_path)
+        self.assertTrue(st.slots["2030-05-01 16:00"]["prepared"])
+        n = len(graph.posts)
+        self.assertTrue(n > 0)
+        with mock.patch("autopost.cli.datetime") as dtm:
+            dtm.now.return_value = clock["now"]
+            dtm.strptime = datetime.strptime
+            dtm.fromisoformat = datetime.fromisoformat
+            res = move_slot(cfg, "FR", "2030-05-01 16:00", "2030-05-01 18:00",
+                            services=(graph, wp, FakeHTTP()), tokens=tokens, pace=Pacer(0))
+        self.assertIn("перенесено отложенных постов", res)
+        self.assertEqual(len(graph.posts), n)                     # ничего не удалено и не создано заново
+        ts18 = int(datetime(2030, 5, 1, 18, 0, tzinfo=tz).timestamp())
+        self.assertTrue(all(p["scheduled_ts"] == ts18 for p in graph.posts.values()))
+        st = State(st_path)
+        self.assertNotIn("2030-05-01 16:00", st.slots)
+        self.assertFalse(st.slots["2030-05-01 18:00"].get("adhoc"))
+        for hh, mm in ((16, 5), (18, 7), (18, 37)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            tick()
+        self.assertEqual(len(graph.posts), n)
+        self.assertTrue(all(p["published"] for p in graph.posts.values()))
+        self.assertTrue(all(len(graph.comments_by.get(pid, [])) == 1 for pid in graph.posts))
+        self.assertEqual(State(st_path).slots["2030-05-01 18:00"]["status"], "done")
+
+
 class RateLimitTests(unittest.TestCase):
     """Facebook ответил 368 «ограничиваем частоту»: остальные страницы не дёргаем, ждём паузу, потом публикуем."""
 

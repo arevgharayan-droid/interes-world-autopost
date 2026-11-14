@@ -145,6 +145,12 @@ class FakeGraph:
     def comments(self, obj_id, token):
         return self.comments_by.get(obj_id, [])
 
+    def reschedule_post(self, post_id, token, ts):
+        p = self.posts[post_id]
+        assert not p["published"], "уже опубликован"
+        p["scheduled_ts"] = int(ts)
+        return {"success": True}
+
     def delete(self, obj_id, token):
         for pid, p in list(self.posts.items()):
             if obj_id in (pid, p["photo_id"]):

@@ -140,6 +140,10 @@ class Graph:
         body = self.get(post_id, token, fields="id,is_published")
         return body.get("is_published") is True
 
+    def reschedule_post(self, post_id, token, ts: int) -> dict:
+        """Перенести отложенный пост на другое время (без удаления и повторной публикации)."""
+        return self.post(post_id, token, data={"scheduled_publish_time": str(int(ts))})
+
     def scheduled_posts(self, page_id, token) -> list:
         return self.paged(f"{page_id}/scheduled_posts", token,
                           fields="id,message,scheduled_publish_time", limit=100)
