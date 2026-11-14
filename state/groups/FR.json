@@ -3888,12 +3888,13 @@
       "1103884436136482": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122105321192536887_2018617008817219",
        "error": null,
        "last_attempt": "2026-11-14T14:24:02+04:00",
        "mode": "schedule",
        "photo_id": "122105321162536887",
        "post_id": "1103884436136482_122105321192536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 0,
