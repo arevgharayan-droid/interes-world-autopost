@@ -5968,7 +5968,60 @@
     },
     "EN": {
      "generated": true,
-     "pages": {},
+     "pages": {
+      "100633729330404": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "104114086037068": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "1060733217128705": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "106713875762456": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "1220745651126185": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "233545296514172": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "530022363528890": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "625664190627160": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "648976361631351": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "673710079162922": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "714226118434052": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "892503027289970": {
+       "attempts": 0,
+       "status": "no_access"
+      },
+      "994273113779575": {
+       "attempts": 0,
+       "status": "no_access"
+      }
+     },
      "title": "I Raised My Granddaughter for 11 Years After Losing My Daughter, Then Her Father Demanded Custody, and She Stood Up in Court With a Secret",
      "wp_id": 318,
      "wp_live": true
@@ -6015,7 +6068,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-1600-en2.jpg"
    },
    "source_key": "post:100045261260562_1714169616768397",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

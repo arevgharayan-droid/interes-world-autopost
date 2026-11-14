@@ -3386,6 +3386,10 @@
        "photo_id": "122222698478930012",
        "post_id": "633031599904551_122222698508930012",
        "status": "scheduled"
+      },
+      "715935674934966": {
+       "attempts": 0,
+       "status": "no_access"
       }
      },
      "title": "Mijn moeder stierf in Afghanistan, maar op mijn bruiloft verscheen haar legervriend in een rode jurk met een envelop die alles veranderde",
@@ -3424,7 +3428,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-1600-nl.jpg"
    },
    "source_key": "post:100045261260562_1714202370098455",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
