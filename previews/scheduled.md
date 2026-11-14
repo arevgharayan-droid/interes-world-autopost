@@ -1,75 +1,99 @@
 ## Отложенные посты на страницах
 
-Всего отложенных постов: **52**
+Всего отложенных постов: **32**
 
 ### FR
 
-- Au Cœur des Vies: 12.11 15:00
-- Le Fil de la Vie: 12.11 15:00
-- Destins Touchants: 12.11 15:00
-- Larmes de Vie: 12.11 15:00
-- La Vie Telle Qu’elle Est: 12.11 15:00
-- Visages de la Vie: 12.11 15:00
-- Moments Français | Paris: 12.11 15:00
+- Au Cœur des Vies: нет доступа
+- Le Fil de la Vie: нет доступа
+- Destins Touchants: нет доступа
+- Larmes de Vie: нет доступа
+- La Vie Telle Qu’elle Est: нет доступа
+- Visages de la Vie: 14.11 18:00
+- Vie en Stories: 14.11 18:00
+- Une Histoire Qui Vous Touchera: 14.11 18:00
+- Moments Français | Paris: нет доступа
 
-### IT
+### IT+PL+CS
 
-- Quand Tout Bascule: 12.11 15:00
-- Vite in Primo Piano: 12.11 15:00
-- Storie Vere | Lion: 12.11 15:00
-- Voci di Vita | Paris: 12.11 15:00
-- Racconti Quotidiani | Monaco: 12.11 15:00
-- Vita Virale | Paris: 12.11 15:00
-- Vite da Raccontare: 12.11 15:00
-- Frammenti di Vita: 12.11 15:00
-- Una Storia che Ti Toccherà: 12.11 15:00
+- Quand Tout Bascule: 14.11 18:00
+- Vite in Primo Piano: 14.11 18:00
+- Storie Vere | Lion: 14.11 18:00
+- Voci di Vita | Paris: 14.11 18:00
+- Racconti Quotidiani | Monaco: 14.11 18:00
+- Vita Virale | Paris: 14.11 18:00
+- Vite da Raccontare: 14.11 18:00
+- Frammenti di Vita: нет доступа
+- Una Storia che Ti Toccherà: нет доступа
+- Cuori in Storia: нет доступа
+- Lacrime di Vita: 14.11 18:00
+- Vite Spezzate: 14.11 18:00
+- Storie Che Toccano: 14.11 18:00
+- Vita e Sentimenti: нет доступа
+- Racconti Emozionanti: 14.11 18:00
+- Momenti di Vita: 14.11 18:00
+- Éclats de vie: 14.11 18:00
+- Serca i Sekrety: 14.11 18:00
+- Historie z Życia: 14.11 18:00
+- Historie, które zostają w sercu: 14.11 18:00
+- Życie, które porusza: 14.11 18:00
+- Příběhy ze Srdce: 14.11 18:00
 
 ### EN-1
 
-- The Daily Report: 12.11 15:00
-- Human Life Stories: 12.11 15:00
-- Behind Her Smile: 12.11 15:00
-- Life’s Echo: 12.11 15:00
-- Beyond the Mask: 12.11 15:00
-- Whispers of Fate: 12.11 15:00
-- Heartfelt Lessons: 12.11 15:00
-- The Golden Touch: 12.11 15:00
+- The Daily Report: нет доступа
+- Human Life Stories: нет доступа
+- Behind Her Smile: нет доступа
+- Life’s Echo: нет доступа
+- Beyond the Mask: нет доступа
+- Whispers of Fate: нет доступа
+- Heartfelt Lessons: нет доступа
+- The Golden Touch: нет доступа
 - Amazing: нет доступа
-- Pet Lover: 12.11 15:00
-- Sweet Paws #1: 12.11 15:00
-- Sweet Paws #2: 12.11 15:00
-- Love This World: 12.11 15:00
+- Pet Lover: нет доступа
+- Sweet Paws #1: нет доступа
+- Sweet Paws #2: нет доступа
+- Love This World: нет доступа
+- Talent The Best: нет доступа
+- Exciting stories: нет доступа
+- True American Tales: нет доступа
 
 ### EN-2
 
-- Cute Stories: 12.11 15:00
-- Sunny Days: 12.11 15:00
-- Fragments of Life: 12.11 15:00
-- Your Daily Drama: 12.11 15:00
-- Musical Devotee: 12.11 15:00
-- Talent Spotlight: 12.11 15:00
-- Kids in Motion: 12.11 15:00
-- Little Legends Live: 12.11 15:00
-- Deepest Lessons: 12.11 15:00
-- Cute Animals: 12.11 15:00
-- Baby Lovers: 12.11 15:00
-- Fine Baby: 12.11 15:00
-- Life Between Moments: 12.11 15:00
+- Cute Stories: нет доступа
+- Sunny Days: нет доступа
+- Fragments of Life: нет доступа
+- Your Daily Drama: нет доступа
+- Musical Devotee: нет доступа
+- Talent Spotlight: нет доступа
+- Kids in Motion: нет доступа
+- Little Legends Live: нет доступа
+- Deepest Lessons: нет доступа
+- Cute Animals: нет доступа
+- Baby Lovers: нет доступа
+- Fine Baby: нет доступа
+- Life Between Moments: нет доступа
 
 ### NL+DE
 
-- Het is interessant: 12.11 15:00
-- Mooie kinderen: 12.11 15:00
-- Geschichten des Lebens: 12.11 15:00
-- Lebenswege: 12.11 15:00
+- Het is interessant: 14.11 18:00
+- Mooie kinderen: нет доступа
+- Levensmomenten Nederland: 14.11 18:00
+- Verhalen uit het Hart: 14.11 18:00
+- Geschichten des Lebens: 14.11 18:00
+- Lebenswege: 14.11 18:00
+- Momente aus der Schweiz: 14.11 18:00
+- Geschichten aus Österreich: 14.11 18:00
+- Momente des Lebens: 14.11 18:00
+- Herzgeschichten Deutschland: 14.11 18:00
 
 ### RU+TR+PT
 
-- Из глубины сердца: 12.11 15:00
-- Из глубины души: 12.11 15:00
-- Моменты жизни: 12.11 15:00
-- Hayatın Anları: 12.11 15:00
-- Kalpten Hikayeler: 12.11 15:00
-- Segredos que a Vida Guarda: 12.11 15:00
-- Histórias que Ninguém Esquece: 12.11 15:00
+- Из глубины сердца: нет доступа
+- Из глубины души: нет доступа
+- Моменты жизни: нет доступа
+- Hayatın Anları: нет доступа
+- Kalpten Hikayeler: 14.11 18:00
+- Segredos que a Vida Guarda: нет доступа
+- Histórias que Ninguém Esquece: 14.11 18:00
 
