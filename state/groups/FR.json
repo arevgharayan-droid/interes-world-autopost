@@ -3843,7 +3843,10 @@
      "generated": true,
      "pages": {},
      "title": "Je lui ai donné 50 dollars pour la kermesse de son école, et sa maîtresse m'a appelée en larmes : « Venez vite, vous devez voir ce qu'il en a fait",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 319,
+     "wp_status": "future"
     },
     "IT": {
      "pages": {},
@@ -3870,6 +3873,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-14T16:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/904379721_1713897146795644_8190802420543744685_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=o64ofO2hAfgQ7kNvwHq6ZhJ&_nc_oc=AdozfYMu8w7XJjgauV58gD9mydXEPHfgFt6-zrmtwBdjLS4ZZac0I3zsDjzNdCbeSpg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=giINWIhSYtFaHBkMvKZfGQ&_nc_tpa=Q5bMBQJDhtNRxYjl27jcJWpYn1-ow8i71_XbHnGBYdsmtpseCs7GzNYQUZm4yx2bzdcGZMIRA22dgDwhtA&oh=00_AQTH_u00oLGeHvBNInPHmNU3gXzCEJN93UHYkWXgWn3JAA&oe=6AFDE8A6",
@@ -3881,7 +3885,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-1600-fr.jpg"
    },
    "source_key": "post:100045261260562_1713898153462210",
-   "status": "preparing",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4066,7 +4070,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-14 16:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
