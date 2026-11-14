@@ -3049,7 +3049,32 @@
     },
     "DE": {
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1028964020310052": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1089186904280406": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1102464712951594": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1129908326870761": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1208422892355505": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1268633826332790": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "Im Landeanflug hörte ich plötzlich meinen Namen aus dem Cockpit – 55 Jahre nach dem Verschwinden des Mannes, den ich liebte",
      "wp_id": 302,
      "wp_live": true
@@ -3069,12 +3094,24 @@
     "NL": {
      "generated": true,
      "pages": {
+      "1144269682096701": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1210451145474950": {
+       "attempts": 0,
+       "status": "new"
+      },
       "633031599904551": {
        "attempts": 0,
        "error": "публикация (Facebook ограничил частоту — пауза 60 мин): FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
        "last_attempt": "2026-11-14T13:14:24+04:00",
        "mode": "immediate",
        "status": "failed"
+      },
+      "715935674934966": {
+       "attempts": 0,
+       "status": "new"
       }
      },
      "title": "55 jaar na zijn verdwijning klonk vlak voor de landing mijn naam door de cockpitluidspreker, en wat de piloot daarna zei, joeg me de stuipen op het lijf",
@@ -3128,7 +3165,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-nl.jpg"
    },
    "source_key": "post:61589490035610_122125985943316334",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
