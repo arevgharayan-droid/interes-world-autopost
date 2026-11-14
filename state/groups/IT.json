@@ -5154,7 +5154,10 @@
      "generated": true,
      "pages": {},
      "title": "Ho licenziato la tata dopo aver trovato mia figlia addormentata sul pavimento, ma poi lei, muta da undici mesi, ha urlato",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 339,
+     "wp_status": "future"
     },
     "NL": {
      "pages": {},
@@ -5168,7 +5171,10 @@
      "title": "Wyrzuciłem nianię o drugiej w nocy, a wtedy moja milcząca od 11 miesięcy córka krzyknęła",
      "warnings": [
       "длина текста FB 865 слов (исходник 1051, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 340,
+     "wp_status": "future"
     },
     "PT": {
      "pages": {},
