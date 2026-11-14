@@ -48,6 +48,7 @@
  },
  "outputs": {
   "1028964020310052_122131712493310273": "2026-11-14T10:24:13+00:00",
+  "1089186904280406_122129676597321366": "2026-11-14T10:24:19+00:00",
   "1102464712951594_122127339291309032": "2026-11-14T10:23:57+00:00",
   "1129908326870761_122125601745316035": "2026-11-14T10:24:05+00:00",
   "1144269682096701_122125053921304553": "2026-11-14T10:23:27+00:00",
@@ -77,6 +78,7 @@
   "122125053891304553": "2026-11-14T10:23:27+00:00",
   "122125601715316035": "2026-11-14T10:24:05+00:00",
   "122127339255309032": "2026-11-14T10:23:57+00:00",
+  "122129676567321366": "2026-11-14T10:24:19+00:00",
   "122130180519418602": "2026-11-09T16:00:11+00:00",
   "122130180657418602": "2026-11-09T16:00:53+00:00",
   "122130230967418602": "2026-11-09T19:59:54+00:00",
@@ -3069,54 +3071,69 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131712493310273_2674864436295385",
        "error": null,
        "last_attempt": "2026-11-14T14:24:06+04:00",
        "mode": "immediate",
        "photo_id": "122131712463310273",
        "post_id": "1028964020310052_122131712493310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129676597321366_1442006158143475",
+       "error": null,
        "last_attempt": "2026-11-14T14:24:13+04:00",
        "mode": "immediate",
-       "status": "sending"
+       "photo_id": "122129676567321366",
+       "post_id": "1089186904280406_122129676597321366",
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127339291309032_1913411309625169",
        "error": null,
        "last_attempt": "2026-11-14T14:23:48+04:00",
        "mode": "immediate",
        "photo_id": "122127339255309032",
        "post_id": "1102464712951594_122127339291309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125601745316035_1129799100022892",
        "error": null,
        "last_attempt": "2026-11-14T14:23:57+04:00",
        "mode": "immediate",
        "photo_id": "122125601715316035",
        "post_id": "1129908326870761_122125601745316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130946107418602_1119960930938154",
        "error": null,
        "last_attempt": "2026-11-14T14:23:27+04:00",
        "mode": "immediate",
        "photo_id": "122130946083418602",
        "post_id": "1208422892355505_122130946107418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133047427436382_1571010035072863",
        "error": null,
        "last_attempt": "2026-11-14T14:23:38+04:00",
        "mode": "immediate",
        "photo_id": "122133047403436382",
        "post_id": "1268633826332790_122133047427436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Im Landeanflug hörte ich plötzlich meinen Namen aus dem Cockpit – 55 Jahre nach dem Verschwinden des Mannes, den ich liebte",
@@ -3140,30 +3157,36 @@
      "pages": {
       "1144269682096701": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125053921304553_1861314301836476",
        "error": null,
        "last_attempt": "2026-11-14T14:23:19+04:00",
        "mode": "immediate",
        "photo_id": "122125053891304553",
        "post_id": "1144269682096701_122125053921304553",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134474917306170_1449161007326881",
        "error": null,
        "last_attempt": "2026-11-14T14:23:10+04:00",
        "mode": "immediate",
        "photo_id": "122134474887306170",
        "post_id": "1210451145474950_122134474917306170",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122222698070930012_1851658279324791",
        "error": null,
        "last_attempt": "2026-11-14T14:23:00+04:00",
        "mode": "immediate",
        "photo_id": "122222698046930012",
        "post_id": "633031599904551_122222698070930012",
-       "status": "published"
+       "status": "done"
       },
       "715935674934966": {
        "attempts": 0,
@@ -3221,7 +3244,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-nl.jpg"
    },
    "source_key": "post:61589490035610_122125985943316334",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
