@@ -3825,7 +3825,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-14T16:00:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/904379721_1713897146795644_8190802420543744685_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=o64ofO2hAfgQ7kNvwHq6ZhJ&_nc_oc=AdozfYMu8w7XJjgauV58gD9mydXEPHfgFt6-zrmtwBdjLS4ZZac0I3zsDjzNdCbeSpg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=giINWIhSYtFaHBkMvKZfGQ&_nc_tpa=Q5bMBQJDhtNRxYjl27jcJWpYn1-ow8i71_XbHnGBYdsmtpseCs7GzNYQUZm4yx2bzdcGZMIRA22dgDwhtA&oh=00_AQTH_u00oLGeHvBNInPHmNU3gXzCEJN93UHYkWXgWn3JAA&oe=6AFDE8A6",
+    "link": "https://www.facebook.com/share/p/19cub3mcyS/",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "I gave my eleven-year-old son fifty dollars to enjoy at his school fair. Before the afternoon ended, his teacher called me, crying. “Please come as quickly as you can,” she said. “You need to see what he’s done with that money.” For years, Morgan and I had been a team of two.\n\nHe still hugged me goodbye each morning, then glanced over his shoulder to check whether his friends had caught him being affectionate.\n\nAt dinner, we always shared the best and hardest moments of our day.\n\nMorgan usually tried to sneak in two good ones.\n\n“Those aren’t the rules,” I’d remind him.\n\n“You’re the parent. Make better rules.”\n\nI could never keep a straight face.\n\nFor the past two weeks, his school fair had dominated our conversations.\n\n“Pizza, games, prizes—and enormous cookies, Mom. Not regular cookies. Enormous ones.”\n\n“Clearly an essential part of your education.”\n\n“Probably the most important part.”\n\nThe evening before the fair, I found him on his bedroom floor, carefully counting twelve dollars.\n\nI reached into my wallet and held out a fifty-dollar bill.\n\nHe stopped counting.\n\n“You’re kidding.”\n\n“It’s for you.”\n\n“The whole thing?”\n\n“Every dollar. Spend it on something that makes you happy.”\n\nHe looked from the money to my face.\n\n“What if I buy something ridiculous?”\n\n“Then you’ll have paid fifty dollars for a valuable lesson.”\n\nHe hugged me.\n\n“Best mom ever.”\n\n“You don’t have another one to compare me with.”\n\n“Doesn’t mean I’m wrong.”\n\nThe next morning, he slipped the bill into his backpack with extraordinary care.\n\nAs he climbed out of the car, I called after him.\n\n“Leave some money for things that aren’t cookies!”\n\nHe flashed a grin.\n\n“I’m not making any promises!”\n\nI watched him hurry toward the entrance, then drove to work.\n\nBy lunchtime, the fifty dollars had slipped my mind.\n\nAt 2:18 p.m., my phone rang.\n\nMorgan’s teacher.\n\n“Ms. Khloe?”\n\nHer tone made me straighten in my chair.\n\n“Is my son all right?”\n\n“He’s safe. He’s perfectly fine.”\n\nThen her voice cracked.\n\nShe was crying.\n\nMy pulse quickened.\n\n“What’s happened?”\n\n“Forgive me. I wasn’t prepared for this.”\n\nA brief silence followed.\n\n“Did Morgan bring fifty dollars to the fair?”\n\n“Yes. I gave it to him.”\n\nShe drew an uneven breath.\n\n“Please come to the school as soon as possible. You should see what he chose to do with it.”\n\nTwenty minutes later, I hurried through the school entrance.\n\nHis teacher stood outside the gym, dabbing at her eyes.\n\n“Where is he?” I asked.\n\nShe pointed toward the doors.\n\n“In there.”\n\nI pushed them open.\n\nAnd whatever I had imagined during that drive, it hadn’t prepared me for what I saw. See more in 1st comment 👇",
+    "wp_media_id": 313,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-1600-fr.jpg"
+   },
+   "source_key": "post:100045261260562_1713898153462210",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-14 18:00": {
    "langs": {},
@@ -3914,6 +3930,10 @@
    "link": "https://www.facebook.com/share/p/19k78khQhV/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122129895657376137&id=61591284134933"
   },
+  "link:a8d0a5242171272ad59f": {
+   "link": "https://www.facebook.com/share/p/19cub3mcyS/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1713898153462210&id=100045261260562"
+  },
   "link:ab7c79eb0e51d035d95f": {
    "link": "https://www.facebook.com/share/p/1Bx7o7GVXq/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122125210629457373&id=61593721215501"
@@ -3993,6 +4013,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-13 00:00",
    "status": "used"
+  },
+  "post:100045261260562_1713898153462210": {
+   "fingerprint": "39bf06f4f27ba2e1b768",
+   "link": "https://www.facebook.com/share/p/19cub3mcyS/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-14 16:00",
+   "status": "reserved"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
