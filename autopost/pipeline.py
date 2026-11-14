@@ -79,10 +79,14 @@ class Pacer:
     на паузу 60 мин (каждый новый отказ удваивает, до 8 ч); другой пользователь продолжает.
     path — общий файл пауз (state/fb_guard.json); без него паузы хранятся в состоянии группы."""
 
-    def __init__(self, seconds: float = 0.0, owners: dict | None = None, path=None):
+    def __init__(self, seconds: float = 0.0, owners: dict | None = None, path=None, per_owner: dict | None = None):
         self.seconds = float(seconds or 0)
         self._lock = threading.Lock()
         self._last = 0.0
+        # свой, более медленный темп для отдельных пользователей (например, старому autopost — раз в 45 с)
+        self.per_owner = {k: float(v) for k, v in (per_owner or {}).items() if v}
+        self._olocks = {k: threading.Lock() for k in self.per_owner}
+        self._olast = {}
         self.owners = dict(owners or {})
         self.path = path
         self.blocks = {}
@@ -104,8 +108,11 @@ class Pacer:
 
     def block(self, owner, now) -> int:
         with self._lock:
-            self.stopped.add(owner)
             b = self.blocks.setdefault(owner, {})
+            if owner in self.stopped:
+                # другие группы этого же запуска получили отказ одновременно — это один и тот же отказ
+                return int(b.get("minutes") or 60)
+            self.stopped.add(owner)
             prev, last = int(b.get("minutes") or 0), b.get("until")
             recent = last and now - datetime.fromisoformat(last) < timedelta(hours=6)
             minutes = min(480, prev * 2) if (prev and recent) else 60
@@ -125,7 +132,14 @@ class Pacer:
             self.path.parent.mkdir(parents=True, exist_ok=True)
             self.path.write_text(json.dumps(self.blocks, ensure_ascii=False, indent=1), encoding="utf-8")
 
-    def wait(self):
+    def wait(self, owner: str | None = None):
+        og = self.per_owner.get(owner) if owner else None
+        if og:
+            with self._olocks[owner]:
+                gap = self._olast.get(owner, 0.0) + og + random.uniform(0, og * 0.3) - time.monotonic()
+                if gap > 0:
+                    time.sleep(gap)
+                self._olast[owner] = time.monotonic()
         if self.seconds <= 0:
             return
         with self._lock:
@@ -535,7 +549,9 @@ class Pipeline:
             self.r.info(f"{key}: Facebook временно ограничил публикации — пауза до "
                         f"{datetime.fromisoformat(until).astimezone(self.tz):%H:%M}, потом повторю")
             return
-        for lang in LANG_ORDER:
+        # два прохода: сначала страницы обычного темпа, потом медленного пользователя — чтобы он их не задерживал
+        for slow_pass in (False, True):
+          for lang in LANG_ORDER:
             L = s["langs"].setdefault(lang, {"pages": {}})
             if not L.get("generated"):
                 # язык не готовился в этом слоте (страницы подключили позже) — его страницы ждут следующего слота
@@ -545,6 +561,8 @@ class Pipeline:
             text = None
             for page in self.cfg.pages_for(lang):
                 if only_page and page.page_id != only_page:
+                    continue
+                if self._slow(page.page_id) != slow_pass:
                     continue
                 e = L["pages"].setdefault(page.page_id, {"status": "new", "attempts": 0})
                 if e["status"] in DONE_PAGE or e["status"] in LIVE_PAGE:
@@ -616,13 +634,16 @@ class Pipeline:
             e.update(status="failed", error=str(err))
             self.r.error(f"{key}: {err}")
             return
+        owner = self.pacer.owner(page.page_id)
+        self.pacer.wait(owner)
+        if owner in self.pacer.stopped:
+            return            # пока ждали очереди, Facebook отказал этому пользователю в другой группе
         e["status"] = "sending"
         e["attempts"] = e.get("attempts", 0) + 1
         e["mode"] = mode
         e["last_attempt"] = self.now().isoformat(timespec="seconds")
         self.state.save()
         try:
-            self.pacer.wait()
             res = self.graph.create_photo_post(
                 page.page_id, tok, data, f"story{mimetypes.guess_extension(mime) or '.jpg'}",
                 text["fb_text"], scheduled_ts=int(dt.timestamp()) if mode == "schedule" else None, mime=mime)
@@ -656,10 +677,12 @@ class Pipeline:
         now = self.now()
         fmt = self.slot_site(s).get("comment_link_format") or self.cfg.site.get("comment_link_format")
         wp = self.wp_of(s)
-        for lang in LANG_ORDER:
+        for slow_pass in (False, True):   # сначала обычный темп, потом медленный пользователь
+          for lang in LANG_ORDER:
             L = s["langs"].get(lang) or {}
             pending = [(pid, e) for pid, e in L.get("pages", {}).items()
-                       if e["status"] in LIVE_PAGE or (e["status"] == "sending" and e.get("post_id"))]
+                       if (e["status"] in LIVE_PAGE or (e["status"] == "sending" and e.get("post_id")))
+                       and self._slow(pid) == slow_pass]
             if not pending or not L.get("wp_id"):
                 continue
             if not L.get("wp_live"):
@@ -711,9 +734,12 @@ class Pipeline:
                         e.update(comment_id=existing[0]["id"], status="done", error=None)
                         self.state.save()
                         continue
+                    owner = self.pacer.owner(pid)
+                    self.pacer.wait(owner)
+                    if owner in self.pacer.stopped:
+                        continue      # пока ждали очереди, этому пользователю отказали — комментарий позже
                     e["comment_attempts"] = e.get("comment_attempts", 0) + 1
                     self.state.save()
-                    self.pacer.wait()
                     c = self.graph.comment(target, tok, link)
                     e.update(comment_id=c.get("id"), status="done", error=None)
                     self.r.counts["comments"] += 1
@@ -726,6 +752,9 @@ class Pipeline:
                         self.page_error(key, name, e, err, f"комментарий (Facebook ограничил частоту — пауза {minutes} мин)")
                         continue
                     self.page_error(key, name, e, err, "комментарий")
+
+    def _slow(self, page_id) -> bool:
+        return self.pacer.owner(page_id) in self.pacer.per_owner
 
     def _owner_block(self, page_id) -> int:
         owner = self.pacer.owner(page_id)

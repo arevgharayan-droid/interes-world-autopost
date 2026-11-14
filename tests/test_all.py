@@ -885,6 +885,20 @@ class RateLimitTests(unittest.TestCase):
         self.assertFalse(json.loads(guard.read_text())["autopost"].get("minutes"))
 
 
+    def test_one_refusal_per_run_and_slow_user_pace(self):
+        import time as _t
+        from autopost.pipeline import Pacer
+        now = datetime(2030, 5, 1, 0, 0, tzinfo=ZoneInfo("Asia/Yerevan"))
+        p = Pacer(0, owners={"a": "autopost"}, per_owner={"autopost": 0.2})
+        self.assertEqual(p.block("autopost", now), 60)
+        self.assertEqual(p.block("autopost", now), 60)       # вторая группа того же запуска — не удваиваем
+        p2 = Pacer(0, per_owner={"autopost": 0.2})
+        p2.blocks = p.blocks
+        self.assertEqual(p2.block("autopost", now + timedelta(minutes=61)), 120)   # новый запуск — удваиваем
+        t0 = _t.monotonic()
+        p.wait("autopost"); p.wait("autopost"); p.wait("autopost2")
+        self.assertGreaterEqual(_t.monotonic() - t0, 0.2)     # медленный — не чаще раза в 0,2 с; другой не ждёт
+
 class LateLinkTests(unittest.TestCase):
     def test_link_sent_after_release_goes_to_next_release(self):
         """Выпуск 09:00 прошёл без истории; ссылка пришла в 09:45 — она идёт в 12:00, а не «догоняет» 09:00."""

@@ -512,7 +512,7 @@ def cmd_tick(cfg, args) -> int:
     except Exception:  # noqa: BLE001 — без карты все страницы считаются одним пользователем
         owners = {}
     pacer = Pacer(float(cfg.settings.get("fb_pacing_seconds", 2)), owners=owners,
-                  path=cfg.path("state/fb_guard.json"))
+                  path=cfg.path("state/fb_guard.json"), per_owner=cfg.settings.get("fb_pacing_by_user") or {})
 
     def run_group(g):
         gcfg = views[g]
