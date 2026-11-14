@@ -11,8 +11,10 @@
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
   "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
   "747f0f2d2bfe1c57bf45": "2026-10-31T10:14:49+00:00",
+  "8010f06d690dbd6a283e": "2026-11-14T09:15:08+00:00",
   "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
   "84db3c73ebdd880ee5e3": "2026-11-10T22:02:27+00:00",
+  "89c6b9a751ed3bd87da5": "2026-11-14T09:15:08+00:00",
   "8af2ac126626c3379771": "2026-11-10T22:07:11+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
@@ -4490,7 +4492,17 @@
    "adhoc": true,
    "langs": {
     "CS": {
-     "pages": {}
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na první výročí svatby jsem slyšela manžela říct: „Věřila všem mým lžím od střední školy.\" Pak se otevřely dveře",
+     "warnings": [
+      "длина текста FB 390 слов (исходник 550, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 311,
+     "wp_status": "publish"
     },
     "DE": {
      "pages": {},
@@ -4516,7 +4528,17 @@
      "skipped": "не повторяется"
     },
     "PL": {
-     "pages": {}
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "W pierwszą rocznicę ślubu usłyszałam, jak mój mąż mówi przez telefon: „Wierzyła w moje kłamstwa od liceum. Dziś to skończę",
+     "warnings": [
+      "длина текста FB 375 слов (исходник 550, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 310,
+     "wp_status": "publish"
     },
     "PT": {
      "pages": {},
@@ -4531,7 +4553,7 @@
      "skipped": "не повторяется"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "repost_of": "2026-11-13 18:39",
    "slot_iso": "2026-11-14T13:13:00+04:00",
    "source": {
@@ -4544,7 +4566,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-it.jpg"
    },
    "source_key": "post:61589490035610_122120428167316334",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4817,7 +4839,7 @@
    "link": "https://www.facebook.com/share/p/1D4J2nyb5j/",
    "origin": "manual",
    "page_id": "61589490035610",
-   "slot": "2026-11-13 21:00",
+   "slot": "2026-11-14 13:13",
    "status": "used"
   },
   "post:61590177596600_122131078545339253": {
