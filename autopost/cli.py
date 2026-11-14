@@ -672,6 +672,8 @@ def cmd_ops(cfg, args) -> int:
         return rc
     if cmd == "match-pages":
         return cmd_match_pages(cfg, a.get("pages") or [])
+    if cmd == "fb-probe":
+        return cmd_fb_probe(cfg, a.get("tokens_file", ""), a.get("page", ""))
     if cmd == "retry-sources":
         # ссылки, которые не прочитались (например, не было страницы-«читателя»), снова в очередь
         out = ["## Повторить непрочитанные ссылки", ""]
@@ -998,6 +1000,60 @@ def cmd_match_pages(cfg, wanted: list) -> int:
     cfg.path("previews").mkdir(exist_ok=True)
     cfg.path("previews/match-pages.json").write_text(json.dumps(found, ensure_ascii=False, indent=1), encoding="utf-8")
     summary("\n".join(out) + "\n", "previews/match-pages.md", cfg)
+    return 0
+
+
+def cmd_fb_probe(cfg, tokens_file: str, page_id: str) -> int:
+    """Проверка, публикует ли набор токенов (например, старого autopost): один скрытый отложенный пост
+    на +3 дня на одной странице — и сразу удаляется."""
+    import requests
+    from cryptography.fernet import InvalidToken
+    from .tokens import _fernet
+    out = ["## Проба публикации", ""]
+    try:
+        data = json.loads(_fernet(os.environ.get("FB_APP_SECRET", "")).decrypt(cfg.path(tokens_file).read_bytes()))
+        toks = data["tokens"]
+    except (OSError, InvalidToken, ValueError, KeyError) as e:
+        summary(f"## Проба публикации\n\nне удалось прочитать токены: {e}\n", "previews/fb-probe.md", cfg)
+        return 1
+    tok = toks.get(page_id)
+    p = cfg.page(page_id)
+    out.append(f"Токенов в наборе: {len(toks)} · страница: {p.name if p else page_id} · токен есть: {bool(tok)}")
+    if not tok:
+        summary("\n".join(out) + "\n", "previews/fb-probe.md", cfg)
+        return 1
+    img = None
+    for gst in _group_states(cfg).values():
+        for s in sorted(gst.slots.values(), key=lambda x: x.get("slot_iso", ""), reverse=True):
+            u = (s.get("source") or {}).get("wp_media_url") or (s.get("source") or {}).get("image_url")
+            if u:
+                try:
+                    r = requests.get(u, timeout=30)
+                    if r.ok and len(r.content) > 5000:
+                        img = r.content
+                        break
+                except requests.RequestException:
+                    pass
+        if img:
+            break
+    graph = Graph(cfg.graph_version)
+    ts = int((datetime.now(timezone.utc) + timedelta(days=3)).timestamp())
+    try:
+        res = graph.create_photo_post(page_id, tok, img, "probe.jpg", "Проверка (будет удалена)", scheduled_ts=ts)
+        out.append(f"- ✅ публикация разрешена: отложенный пост создан ({res.get('post_id') or res.get('id')})")
+        for oid in (res.get("post_id"), res.get("id")):
+            if oid:
+                try:
+                    graph.delete(oid, tok)
+                except FacebookError:
+                    pass
+        left = [sp for sp in graph.scheduled_posts(page_id, tok) if int(sp.get("scheduled_publish_time") or 0) == ts]
+        for sp in left:
+            graph.delete(sp["id"], tok)
+        out.append("- пробный пост удалён")
+    except FacebookError as e:
+        out.append(f"- ❌ Facebook отказал: {e.short()}")
+    summary("\n".join(out) + "\n", "previews/fb-probe.md", cfg)
     return 0
 
 
