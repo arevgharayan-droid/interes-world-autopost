@@ -14,11 +14,14 @@
   "8010f06d690dbd6a283e": "2026-11-14T09:15:08+00:00",
   "83da0d2522536727a0cd": "2026-11-01T10:36:57+00:00",
   "84db3c73ebdd880ee5e3": "2026-11-10T22:02:27+00:00",
+  "885f2e137e5a0835d33e": "2026-11-14T09:18:15+00:00",
   "89c6b9a751ed3bd87da5": "2026-11-14T09:15:08+00:00",
   "8af2ac126626c3379771": "2026-11-10T22:07:11+00:00",
+  "8d6dd84f3fd108530c61": "2026-11-14T09:18:15+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
+  "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "bb0ddf4fdb82f7b2d023": "2026-11-10T22:04:53+00:00",
   "c3a669114cbd1e96b360": "2026-11-12T10:26:53+00:00",
@@ -4676,7 +4679,74 @@
   },
   "2026-11-14 16:00": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Maminka padla v Afghánistánu. Na mé svatbě se objevil její přítel v červených šatech a podal mi obálku, kterou měl odevzdat právě dnes",
+     "warnings": [
+      "длина текста FB 471 слов (исходник 587, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 324,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mia madre è morta in Afghanistan, ma al mio matrimonio il suo amico si è presentato con un vestito rosso e una busta che ha cambiato tutto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 322,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Moja mama zginęła w Afganistanie, a na moje wesele przyszedł jej przyjaciel w czerwonej sukience i wręczył mi kopertę",
+     "warnings": [
+      "длина текста FB 453 слов (исходник 587, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 323,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-14T16:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/906162347_1714202316765127_3461572704261040591_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=xFA6LIJYXp8Q7kNvwEpbx-6&_nc_oc=AdrBiV_71oHcxloYKGMgJOWAJCXcmWBWNQURXepx6S6RAs2GCPIWKOzAKfxPXf4Not8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ig725DFqKHHBHTxkQ2LP9w&_nc_tpa=Q5bMBQJy9sUmEE4UGHKpUJuUinVfTHy98qTrCKjRfyrlBZvtgXRtwnFKiajvb0pnSn5STeW3PMsXP38rMw&oh=00_AQREh-DuTE-z9arMyEYZpsZ79FcD_HUb-kbubImbTkty7Q&oe=6AFE117B",
@@ -4688,7 +4758,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-1600-it.jpg"
    },
    "source_key": "post:100045261260562_1714202370098455",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4881,7 +4951,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-14 16:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1450160977218240": {
    "fingerprint": "68ee500f66d9ec24283c",
