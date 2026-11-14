@@ -3841,8 +3841,7 @@
    "slot_iso": "2026-11-14T15:00:00+04:00",
    "status": "cancelled"
   },
-  "2026-11-14 16:00": {
-   "adhoc": true,
+  "2026-11-14 18:00": {
    "langs": {
     "CS": {
      "pages": {},
@@ -3861,10 +3860,6 @@
      "gen_error": null,
      "generated": true,
      "pages": {
-      "1032441206625600": {
-       "attempts": 0,
-       "status": "no_access"
-      },
       "1041497042386258": {
        "attempts": 1,
        "error": null,
@@ -3874,14 +3869,6 @@
        "post_id": "1041497042386258_122143026944738075",
        "status": "scheduled"
       },
-      "1058598924006917": {
-       "attempts": 0,
-       "status": "no_access"
-      },
-      "1079295351933311": {
-       "attempts": 0,
-       "status": "no_access"
-      },
       "1103884436136482": {
        "attempts": 1,
        "error": null,
@@ -3890,18 +3877,6 @@
        "photo_id": "122105321162536887",
        "post_id": "1103884436136482_122105321192536887",
        "status": "scheduled"
-      },
-      "1145306638657445": {
-       "attempts": 0,
-       "status": "no_access"
-      },
-      "1202025962997153": {
-       "attempts": 0,
-       "status": "no_access"
-      },
-      "1250374694822508": {
-       "attempts": 0,
-       "status": "no_access"
       },
       "1260826840455724": {
        "attempts": 1,
@@ -3944,8 +3919,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-14 16:00",
    "prepared": true,
-   "slot_iso": "2026-11-14T16:00:00+04:00",
+   "slot_iso": "2026-11-14T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/904379721_1713897146795644_8190802420543744685_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=o64ofO2hAfgQ7kNvwHq6ZhJ&_nc_oc=AdozfYMu8w7XJjgauV58gD9mydXEPHfgFt6-zrmtwBdjLS4ZZac0I3zsDjzNdCbeSpg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=giINWIhSYtFaHBkMvKZfGQ&_nc_tpa=Q5bMBQJDhtNRxYjl27jcJWpYn1-ow8i71_XbHnGBYdsmtpseCs7GzNYQUZm4yx2bzdcGZMIRA22dgDwhtA&oh=00_AQTH_u00oLGeHvBNInPHmNU3gXzCEJN93UHYkWXgWn3JAA&oe=6AFDE8A6",
     "link": "https://www.facebook.com/share/p/19cub3mcyS/",
@@ -3956,18 +3932,13 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-1600-fr.jpg"
    },
    "source_key": "post:100045261260562_1713898153462210",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
     "url": "https://hetaqrqir.com",
     "wp_auth": "make_connector"
    }
-  },
-  "2026-11-14 18:00": {
-   "langs": {},
-   "slot_iso": "2026-11-14T18:00:00+04:00",
-   "status": "no_source"
   },
   "2026-11-14 21:00": {
    "langs": {},

@@ -3271,8 +3271,7 @@
    "slot_iso": "2026-11-14T15:00:00+04:00",
    "status": "cancelled"
   },
-  "2026-11-14 16:00": {
-   "adhoc": true,
+  "2026-11-14 18:00": {
    "langs": {
     "CS": {
      "pages": {},
@@ -3387,10 +3386,6 @@
        "photo_id": "122222698478930012",
        "post_id": "633031599904551_122222698508930012",
        "status": "scheduled"
-      },
-      "715935674934966": {
-       "attempts": 0,
-       "status": "no_access"
       }
      },
      "title": "Mijn moeder stierf in Afghanistan, maar op mijn bruiloft verscheen haar legervriend in een rode jurk met een envelop die alles veranderde",
@@ -3416,8 +3411,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-14 16:00",
    "prepared": true,
-   "slot_iso": "2026-11-14T16:00:00+04:00",
+   "slot_iso": "2026-11-14T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/906162347_1714202316765127_3461572704261040591_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=xFA6LIJYXp8Q7kNvwEpbx-6&_nc_oc=AdrBiV_71oHcxloYKGMgJOWAJCXcmWBWNQURXepx6S6RAs2GCPIWKOzAKfxPXf4Not8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=74npPNHNQA60MVDJFIf11A&_nc_tpa=Q5bMBQKUPQSYlEd1Xf5U-GyguGqT2mvmM0w8-KI2BelWcKaIbaaei2e9wu6FY-PZ7E3jS-IMV7GP-7C3DA&oh=00_AQSu_YsL_HBvIxFMx_jI9eurJiA1hWt0ZEKWp6spIkMCWw&oe=6AFE117B",
     "link": "https://www.facebook.com/share/p/1DwW8G4ma5/",
@@ -3428,18 +3424,13 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-1600-nl.jpg"
    },
    "source_key": "post:100045261260562_1714202370098455",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
     "url": "https://hetaqrqir.com",
     "wp_auth": "make_connector"
    }
-  },
-  "2026-11-14 18:00": {
-   "langs": {},
-   "slot_iso": "2026-11-14T18:00:00+04:00",
-   "status": "no_source"
   },
   "2026-11-14 21:00": {
    "langs": {},
