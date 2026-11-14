@@ -6084,6 +6084,10 @@
    "link": "https://www.facebook.com/share/p/1J5SLi8Lh4/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1654901516006469&id=100044599086455"
   },
+  "link:e51324bc48eb600c0763": {
+   "link": "https://www.facebook.com/share/p/1PfpawPzEf/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1602304875262906&id=100064502274900"
+  },
   "link:eacf021b539343c19abd": {
    "link": "https://www.facebook.com/share/p/19hbYL13qt/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122125458423457373&id=61593721215501"
@@ -6159,6 +6163,11 @@
    "page_id": "100045261260562",
    "slot": "2026-11-14 16:00",
    "status": "used"
+  },
+  "post:100064502274900_1602304875262906": {
+   "error": "нет доступа к странице 100064502274900 (она не среди подключённых)",
+   "link": "https://www.facebook.com/share/p/1PfpawPzEf/",
+   "status": "failed"
   },
   "post:100066730531753_1458965616337776": {
    "fingerprint": "10c994645baddcf5d072",
