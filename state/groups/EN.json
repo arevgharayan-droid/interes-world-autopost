@@ -5613,7 +5613,14 @@
     },
     "EN": {
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-11-14T13:14:24+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "My Wife Left Me Alone With Our Blind Twin Daughters. 18 Years Later, She Knocked on Our Door With a Strange Demand",
      "wp_id": 300,
      "wp_live": true

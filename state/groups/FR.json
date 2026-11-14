@@ -3724,7 +3724,14 @@
     },
     "FR": {
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-14T13:14:24+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Mon fils est mort après avoir donné son foie à sa petite sœur, mais le jour de ses 18 ans, elle a reçu une carte signée de lui",
      "wp_id": 298,
      "wp_live": true

@@ -1,7 +1,7 @@
 {
  "enabled_since": "2026-11-09T17:05:32+04:00",
- "fb_block_minutes": 240,
- "fb_block_until": "2026-11-14T02:17:00+04:00",
+ "fb_block_minutes": 60,
+ "fb_block_until": "2026-11-14T14:14:26+04:00",
  "output_fps": {
   "04468dcabed0743dca47": "2026-11-10T22:08:57+00:00",
   "0474e7d1c3adb78e01d1": "2026-11-12T20:02:43+00:00",
@@ -4051,21 +4051,55 @@
     },
     "PT": {
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1338630212673029": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1448441201677530": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "Casei com um pai solteiro em fase terminal para criar a filha dele, mas um ano depois a menina me entregou uma caixa que me fez gritar",
      "wp_id": 183,
      "wp_live": true
     },
     "RU": {
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1008693642337213": {
+       "attempts": 0,
+       "error": "публикация (Facebook ограничил частоту — пауза 60 мин): FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
+       "last_attempt": "2026-11-14T13:14:24+04:00",
+       "mode": "immediate",
+       "status": "failed"
+      },
+      "1125676667286378": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "988042774402200": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "Я вышла замуж за смертельно больного отца-одиночки, чтобы вырастить его дочь, но через год девочка протянула мне коробку",
      "wp_id": 181,
      "wp_live": true
     },
     "TR": {
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1129620776897151": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1164575726728296": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "Ölümcül Hasta Bir Babayla Evlendim, Çünkü Küçük Kızına Bakmam İçin Yalvarmıştı; Bir Yıl Sonra Kızı Elime Bir Kutu Tutuşturdu",
      "wp_id": 182,
      "wp_live": true
@@ -4084,7 +4118,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-2100-ru.jpg"
    },
    "source_key": "post:61589490035610_122123132091316334",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",

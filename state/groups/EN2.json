@@ -5739,7 +5739,14 @@
     },
     "EN": {
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-11-14T13:14:24+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "I Carried a Baby for My Brother, but the Moment He Saw His Newborn Daughter, He Refused to Take Her Home",
      "wp_id": 299,
      "wp_live": true
