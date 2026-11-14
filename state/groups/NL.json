@@ -18,6 +18,8 @@
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
+  "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
+  "69fca282f43c87f63475": "2026-11-14T19:42:34+00:00",
   "6a5fb8d3a145316fa770": "2026-11-12T09:04:19+00:00",
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
   "76987c00bbd404e3cd24": "2026-11-12T10:26:46+00:00",
@@ -3650,7 +3652,63 @@
    }
   },
   "2026-11-15 00:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sie verließ die dunkle Villa ihres Milliardärs-Mannes still – und er zitterte, als er ihr Video sah",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 355,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Hij kwam thuis met zijn jonge stagiaire en mijn orchidee, maar het huis was donker en ik was voorgoed vertrokken",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 354,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/897811917_122139490208778778_1775912470461898752_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sRoKyybqvM4Q7kNvwEZcu4W&_nc_oc=Adqhe1Yn3rYeU8IUhrQsyoGnzTR8nvr7ECwhwpx0eNfKEeew5vhxvQVSvebtQwbTpcM&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=yWi_uDhrUalwr1JQzfdhHg&_nc_tpa=Q5bMBQLoKITxAFpQByv85QQZL2Sz0bCE__11x5NT0cQ8Ojhxxmi9LkX6SIUJhl-LAkLR3ifniwVAtQ7bEw&oh=00_AQQTFH8OZxuopmMdm_ojVgmluuQOTJMmG_NIDE_FIorT7Q&oe=6AFE9691",
@@ -3662,7 +3720,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-0000-nl.jpg"
    },
    "source_key": "post:61573363363721_122139490280778778",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -3903,7 +3961,7 @@
    "origin": "manual",
    "page_id": "61573363363721",
    "slot": "2026-11-15 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573369523860_122139776786778984": {
    "fingerprint": "db054e7e2e20fbf4d5f1",
