@@ -12,6 +12,7 @@
   "3e2f2c99735b21275480": "2026-11-09T13:27:19+00:00",
   "4ec66c0e7d13beb9615d": "2026-11-09T20:00:31+00:00",
   "4f46145168db4906b417": "2026-11-13T14:37:34+00:00",
+  "53b4e246a9a9b3c56bf8": "2026-11-14T19:47:22+00:00",
   "5524aef86b90361cca7b": "2026-11-10T22:03:23+00:00",
   "5e336a9c8f71c9075c40": "2026-11-12T17:47:39+00:00",
   "655ea8557dcca7162d6c": "2026-11-01T14:03:59+00:00",
@@ -6076,7 +6077,56 @@
    }
   },
   "2026-11-15 00:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Found My 9-Year-Old Unconscious in the Rain at Her Father's Door, and a Hidden Note in Her Backpack Revealed the Truth",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 359,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/905937806_1601428685350525_4639891170701548226_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KBXX2EOLoHMQ7kNvwEM1S32&_nc_oc=AdpOkrrfUj3zvLdnRC_JCbdLyiBXqPw-HT8Wjnr09iihKQoq9opTZMAWQ586vEXUAKk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Jb-7fwt2JQaTUgCsu3CP9g&_nc_tpa=Q5bMBQJ42vIXeqlAGzn8suEVv0K8uqJtD5gHOGKghuezFeZGNYhTNwkUxJfQdZqhDhYXQdXQHeY6vbIgiA&oh=00_AQTfoHKmgp8_Q1HK4mKwtxJGT-EeOiBy2LIBbWFHPUZvIA&oe=6AFE28ED",
@@ -6088,7 +6138,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-2100-en.jpg"
    },
    "source_key": "post:100064502274900_1602304875262906",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6285,7 +6335,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-15 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1458965616337776": {
    "fingerprint": "10c994645baddcf5d072",
