@@ -3757,12 +3757,13 @@
       "1103884436136482": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122105320982536887_4263564170601444",
        "error": null,
        "last_attempt": "2026-11-14T14:23:08+04:00",
        "mode": "immediate",
        "photo_id": "122105320958536887",
        "post_id": "1103884436136482_122105320982536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 0,
@@ -3781,12 +3782,14 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129090331441679_2044072079842449",
        "error": null,
        "last_attempt": "2026-11-14T14:23:00+04:00",
        "mode": "immediate",
        "photo_id": "122129090295441679",
        "post_id": "1260826840455724_122129090331441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mon fils est mort après avoir donné son foie à sa petite sœur, mais le jour de ses 18 ans, elle a reçu une carte signée de lui",
@@ -3831,7 +3834,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-2100-fr.jpg"
    },
    "source_key": "post:61589490035610_122121550203316334",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
