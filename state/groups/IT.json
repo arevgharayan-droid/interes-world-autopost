@@ -4,6 +4,7 @@
  "output_fps": {
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
   "2116a560bb8b542f0caf": "2026-11-01T18:14:23+00:00",
+  "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "59ba199024c504005873": "2026-11-13T10:14:50+00:00",
@@ -21,8 +22,10 @@
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
+  "ba5f05202837b2fb860d": "2026-11-14T11:39:45+00:00",
   "bb0ddf4fdb82f7b2d023": "2026-11-10T22:04:53+00:00",
   "c3a669114cbd1e96b360": "2026-11-12T10:26:53+00:00",
+  "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
   "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
   "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00",
   "f0ab5dd9f979bb237bc0": "2026-11-12T20:02:25+00:00",
@@ -5122,7 +5125,64 @@
    }
   },
   "2026-11-14 21:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Přijel jsem domů ve 2:15 ráno a našel dceru spát na podlaze u chůvy. Vyhodil jsem ji, ale pak mlčící dcera po jedenácti měsících vykřikla a všechno se změnilo",
+     "warnings": [
+      "длина текста FB 880 слов (исходник 1051, цель ±10%)"
+     ]
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ho licenziato la tata dopo aver trovato mia figlia addormentata sul pavimento, ma poi lei, muta da undici mesi, ha urlato",
+     "warnings": []
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wyrzuciłem nianię o drugiej w nocy, a wtedy moja milcząca od 11 miesięcy córka krzyknęła",
+     "warnings": [
+      "длина текста FB 865 слов (исходник 1051, цель ±10%)"
+     ]
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-14T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/904731935_1714946360024056_2963356643675418289_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Lrnm19Hq010Q7kNvwFD39rz&_nc_oc=AdqVr8ac330yzUgkaUrQLemHUY-wVvRCdoLCCNOvCIEHPPk2uiybXPl3ojthdK5a6Lg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=dLHyL78RgIdZuljhs3IFUQ&_nc_tpa=Q5bMBQJ6-tDxXYYIWZLotuE0dI1dfxngFs1MtAn5EVwbW1xMqxLwhAJfeeeZRYj1mABKeRQXHTBvEj8KRw&oh=00_AQR2x8EEm3KnbasRaH5AtmeyvXswYQaDSsmpROd2hmHWUA&oe=6AFE1BF4",
