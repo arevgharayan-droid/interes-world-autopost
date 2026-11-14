@@ -3151,3 +3151,12 @@
 {"slot": "2026-11-15 00:00", "lang": "NL", "action": "wp_post", "id": 354, "status": "future", "t": "2026-11-14T19:42:34+00:00", "group": "NL"}
 {"slot": "2026-11-15 00:00", "lang": "FR", "page": "1145306638657445", "action": "fb_schedule", "photo_id": "122126016285303172", "post_id": "1145306638657445_122126016321303172", "t": "2026-11-14T19:42:35+00:00", "group": "FR"}
 {"slot": "2026-11-15 00:00", "lang": "DE", "action": "wp_post", "id": 355, "status": "future", "t": "2026-11-14T19:42:35+00:00", "group": "NL"}
+{"slot": "2026-11-15 00:00", "lang": "FR", "page": "1032441206625600", "action": "fb_schedule", "photo_id": "122117524376633539", "post_id": "1032441206625600_122117524406633539", "t": "2026-11-14T19:42:37+00:00", "group": "FR"}
+{"slot": "2026-11-15 00:00", "lang": "FR", "page": "1260826840455724", "action": "fb_schedule", "photo_id": "122129179077441679", "post_id": "1260826840455724_122129179107441679", "t": "2026-11-14T19:42:40+00:00", "group": "FR"}
+{"slot": "2026-11-15 00:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 657 слов (исходник 821, цель ±10%)"], "t": "2026-11-14T19:42:40+00:00", "group": "RU"}
+{"slot": "2026-11-15 00:00", "lang": "TR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 603 слов (исходник 821, цель ±10%)"], "t": "2026-11-14T19:42:40+00:00", "group": "RU"}
+{"slot": "2026-11-15 00:00", "lang": "PT", "action": "generated", "backend": "subscription", "warnings": ["длина статьи 998 слов"], "t": "2026-11-14T19:42:40+00:00", "group": "RU"}
+{"slot": "2026-11-15 00:00", "lang": "RU", "action": "wp_post", "id": 200, "status": "future", "t": "2026-11-14T19:42:41+00:00", "group": "RU"}
+{"slot": "2026-11-15 00:00", "lang": "TR", "action": "wp_post", "id": 201, "status": "future", "t": "2026-11-14T19:42:42+00:00", "group": "RU"}
+{"slot": "2026-11-15 00:00", "lang": "NL", "page": "633031599904551", "action": "fb_schedule", "photo_id": "122222801690930012", "post_id": "633031599904551_122222801720930012", "t": "2026-11-14T19:42:42+00:00", "group": "NL"}
+{"slot": "2026-11-15 00:00", "lang": "PT", "action": "wp_post", "id": 202, "status": "future", "t": "2026-11-14T19:42:43+00:00", "group": "RU"}

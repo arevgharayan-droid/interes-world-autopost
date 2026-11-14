@@ -6,6 +6,7 @@
   "0474e7d1c3adb78e01d1": "2026-11-12T20:02:43+00:00",
   "049be09d5ae08dc8389a": "2026-11-09T20:02:09+00:00",
   "04da7545de52af7eefa9": "2026-11-10T22:04:30+00:00",
+  "0ac40c9da1b87690b6f9": "2026-11-14T19:42:40+00:00",
   "0be0bfc1cc6b59ac3e3b": "2026-11-10T22:07:29+00:00",
   "0ddb611a8e43cef9f763": "2026-11-10T22:07:29+00:00",
   "0febb3e08517debf9ca4": "2026-11-12T09:04:38+00:00",
@@ -18,6 +19,7 @@
   "33582b0afea138144804": "2026-11-12T20:02:43+00:00",
   "34f5d1ae4690346695c5": "2026-11-12T17:48:06+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
+  "430a2b7c726cdc7d25cd": "2026-11-14T19:42:40+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
   "511f35f875db7d4a056d": "2026-11-13T14:37:39+00:00",
   "51f54481d87e6d7e66e6": "2026-11-01T10:36:49+00:00",
@@ -54,6 +56,7 @@
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
   "b704adc12a8d3775fd71": "2026-11-12T09:04:38+00:00",
   "ba8f3a95256fb1f89569": "2026-11-14T09:18:33+00:00",
+  "be23e984142f21e3c44a": "2026-11-14T19:42:40+00:00",
   "be38faec6f9e0849079a": "2026-11-13T10:15:12+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
@@ -4406,7 +4409,76 @@
    }
   },
   "2026-11-15 00:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Encontrei minha mãe de 82 anos dormindo de casaco dentro de casa, e o que minha irmã pôs sobre a mesa na Páscoa mudou tudo",
+     "warnings": [
+      "длина статьи 998 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 202,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Каждую осень мы скидывались сестре на отопление для мамы, но в январе я нашёл 82-летнюю мать спящей в пальто у остывшей печи",
+     "warnings": [
+      "длина текста FB 657 слов (исходник 821, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 200,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Her Ekim Kız Kardeşimize Annemizin Yakıt Parasını Gönderirdik, Ocakta Annemi Montuyla Uyurken Bulunca Hesabı Kendi Adıma Aldım",
+     "warnings": [
+      "длина текста FB 603 слов (исходник 821, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 201,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/909703581_1715264339992258_9133790973833204834_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=M0n8uJaPAToQ7kNvwErkNso&_nc_oc=Ado0MzGcjx8xzNq2Hez3KNWTl7yjoxB2jHytL_tPv0GB1FZWwDYAMxSDqwirD2AbNxw&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=F-Ioa1RlIVnIeQLDwqgNQA&_nc_tpa=Q5bMBQIWmbxSHM_HhLqXLjENVdBbVoAJ6DtCWn6AEBJeUsvstlRC9iv7jaGiC3WFAg33ruyg-55ZFQ-fWA&oh=00_AQTNxs_dZQU-sgFyI9nDHrvXEmORKxSiP8KhEaDrB7RAGg&oe=6AFE8B98",
@@ -4418,7 +4490,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261115-0000-ru.jpg"
    },
    "source_key": "post:100045261260562_1715264366658922",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4619,7 +4691,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-15 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1605697694922092": {
    "fingerprint": "7aa9a9d1f00ac27915f6",
