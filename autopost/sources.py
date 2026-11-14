@@ -182,7 +182,9 @@ def _has_photo(post: dict) -> bool:
 def fetch_post(graph, link_info: dict, tokens: dict, fallback_page_id: str) -> dict:
     """Читает текст и фото поста. Нужен токен страницы-владельца (ваши страницы)."""
     own = tokens.get(link_info["page_id"])
-    token = own or tokens.get(fallback_page_id)
+    # чужие публичные посты читаем токеном страницы-«читателя»; если её нет у системного пользователя —
+    # любой из подключённых страниц (у autopost2/autopost3 может не быть Émotions Virales)
+    token = own or tokens.get(fallback_page_id) or next(iter(tokens.values()), None)
     if not token:
         raise SourceError(f"нет доступа к странице {link_info['page_id']} (она не среди подключённых)")
     # ссылка на фото без ID страницы (photo/?fbid=…&set=a.…): пробуем запасную страницу, затем все свои
