@@ -1,1 +1,1 @@
-{"id": "probe-old-autopost", "cmd": "fb-probe", "args": {"tokens_file": "state/page_tokens_autopost1.enc", "page": "233545296514172"}}
+{"id": "tokens-status-20261114235103", "cmd": "tokens-status", "args": {"check": true}}
