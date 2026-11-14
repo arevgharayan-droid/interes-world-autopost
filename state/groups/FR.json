@@ -4202,12 +4202,13 @@
       "1260826840455724": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122129179107441679_2342087046592576",
        "error": null,
        "last_attempt": "2026-11-14T23:42:37+04:00",
        "mode": "schedule",
        "photo_id": "122129179077441679",
        "post_id": "1260826840455724_122129179107441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mon mari a gelé ma carte alors que notre bébé n'avait presque plus de lait, mais un seul appel a tout changé",
