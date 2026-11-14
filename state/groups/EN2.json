@@ -23,6 +23,7 @@
   "9991f589010d4cbe9a56": "2026-11-14T09:18:00+00:00",
   "ab12b39c82a984be6a9e": "2026-11-12T10:26:25+00:00",
   "bf3e5716d0c3c6dde7f4": "2026-11-01T10:36:35+00:00",
+  "d82c6f49086c806cd686": "2026-11-14T19:47:28+00:00",
   "d90f86068fb546dde052": "2026-11-09T20:01:42+00:00",
   "e94ee160cd92603444dc": "2026-11-13T14:37:33+00:00",
   "f15ba75fe4f0719457b0": "2026-11-01T18:14:03+00:00"
@@ -6154,7 +6155,56 @@
    }
   },
   "2026-11-15 00:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Cheating Husband Smirked When I Gave Up Everything in Court, Until Our 6-Year-Old Held Up a Drawing",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 360,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/906946116_1714796660039026_2192701326090322602_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=i2Gwb8CSjukQ7kNvwEseLN9&_nc_oc=AdrwSuWpgzRQlUhDtNCLMjHgHT0TNIZvc68bZ8Q2cUSTBfGH7U9aC3mfPuAY0XDNux0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=d4VHkS8V9XrjSXlBU5GwmQ&_nc_tpa=Q5bMBQJSWnMIK2gV9s1bow3_eeTVmsm0KnMeZCg-UFgStdblOQO98sUP3IALsYvJqf1J8K47_bTYjEhPrQ&oh=00_AQTXxcoqMPjgyVN1-76nzVk1WSWa_Go7nZE1ft2r7yc_Bg&oe=6AFE1CF0",
@@ -6166,7 +6216,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261114-2100-en2.jpg"
    },
    "source_key": "post:100045261260562_1714796810039011",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6363,7 +6413,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-15 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1458749583026046": {
    "fingerprint": "7054a17b16072531704b",
