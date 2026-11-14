@@ -20,6 +20,7 @@
   "87d1e0f4518d99214498": "2026-11-12T09:04:05+00:00",
   "91248c595505f5090bae": "2026-11-09T20:07:39+00:00",
   "9f27064d4760d4ec7129": "2026-11-09T13:24:35+00:00",
+  "aa503d9655a302d21d57": "2026-11-14T09:18:04+00:00",
   "b08dc50f7b41b9d96ec3": "2026-10-31T10:14:47+00:00",
   "b094df1fc1c2da2733f6": "2026-11-12T10:26:33+00:00",
   "b120e497dba6ca6aff31": "2026-11-10T22:02:37+00:00",
@@ -3823,7 +3824,52 @@
   },
   "2026-11-14 16:00": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Je lui ai donné 50 dollars pour la kermesse de son école, et sa maîtresse m'a appelée en larmes : « Venez vite, vous devez voir ce qu'il en a fait",
+     "warnings": []
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-14T16:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/904379721_1713897146795644_8190802420543744685_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=o64ofO2hAfgQ7kNvwHq6ZhJ&_nc_oc=AdozfYMu8w7XJjgauV58gD9mydXEPHfgFt6-zrmtwBdjLS4ZZac0I3zsDjzNdCbeSpg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=giINWIhSYtFaHBkMvKZfGQ&_nc_tpa=Q5bMBQJDhtNRxYjl27jcJWpYn1-ow8i71_XbHnGBYdsmtpseCs7GzNYQUZm4yx2bzdcGZMIRA22dgDwhtA&oh=00_AQTH_u00oLGeHvBNInPHmNU3gXzCEJN93UHYkWXgWn3JAA&oe=6AFDE8A6",

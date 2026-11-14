@@ -2905,3 +2905,4 @@
 {"slot": "2026-11-14 16:00", "lang": "EN", "action": "wp_post", "id": 317, "status": "future", "t": "2026-11-14T09:17:59+00:00", "group": "EN"}
 {"slot": "2026-11-14 16:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-14T09:18:00+00:00", "group": "EN2"}
 {"slot": "2026-11-14 16:00", "lang": "EN", "action": "wp_post", "id": 318, "status": "future", "t": "2026-11-14T09:18:01+00:00", "group": "EN2"}
+{"slot": "2026-11-14 16:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-14T09:18:04+00:00", "group": "FR"}
