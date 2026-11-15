@@ -11,6 +11,7 @@
   "405a9e8158205d645adc": "2026-11-09T20:00:27+00:00",
   "457a0c3996dd22980ee2": "2026-11-12T17:47:23+00:00",
   "53b05b31b74f795cfe89": "2026-11-10T22:07:12+00:00",
+  "5435b8c4e88447b49542": "2026-11-15T10:15:18+00:00",
   "54f4ed5345b19326f5b3": "2026-11-09T20:02:52+00:00",
   "5c4acd980a05247257c2": "2026-11-12T09:03:52+00:00",
   "5e14d1dd2e2aaba85e6e": "2026-11-12T20:02:22+00:00",
@@ -5926,7 +5927,56 @@
    "status": "missed"
   },
   "2026-11-15 15:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Adoptive Mother Laughed That She'd Fooled Us for 20 Years, and What I Overheard in Her Kitchen Changed Everything",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 380,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/899629085_122143702683234210_4682623422236613813_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4uPYY9RhB5sQ7kNvwEPL8kB&_nc_oc=AdqNceKyhEB6zL6HS15ks7iZ1c0JdiZK5AdcEX0ga8DdfBeCgYsL7qp_FL2ZiirZQvo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=1TratOpILH3VqgHXPloQ-A&_nc_tpa=Q5bMBQK79cadPmuLZbWmuwcu0Cs3hR_mD6Zx3xuUXY87g3hTAx-NjnbBCz_QXcW4r4Q5Fk1lvwvN7VJerQ&oh=00_AQQM4haOfjTczCCQsvFDGbgo98sdleuTrm-PR7K3r5TEmA&oe=6AFF66ED",
@@ -5938,7 +5988,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-1500-en2.jpg"
    },
    "source_key": "post:61587026316282_122143702713234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6219,7 +6269,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-15 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587032195586_122142538017234406": {
    "fingerprint": "7535d76001c49b59ebe4",
