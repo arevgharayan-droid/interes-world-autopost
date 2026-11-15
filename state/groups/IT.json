@@ -5817,12 +5817,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116182045328231_1275853688091221",
        "error": null,
        "last_attempt": "2026-11-15T18:15:25+04:00",
        "mode": "immediate",
        "photo_id": "122116182021328231",
        "post_id": "1106793902521611_122116182045328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mafiánský boss se na plese před dvěma sty hosty vysmál své uklízečce: „Zatancuj se mnou tango a vezmu si tě.“ Když začala hudba, jeho babička zbledla",
@@ -5831,6 +5833,7 @@
      ],
      "wp_error": null,
      "wp_id": 398,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -5852,12 +5855,14 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132249433302250_2270054130299596",
        "error": null,
        "last_attempt": "2026-11-15T18:14:24+04:00",
        "mode": "immediate",
        "photo_id": "122132249409302250",
        "post_id": "1012250151981057_122132249433302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 0,
@@ -5865,12 +5870,14 @@
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111678420456562_3743509819129887",
        "error": null,
        "last_attempt": "2026-11-15T18:13:54+04:00",
        "mode": "immediate",
        "photo_id": "122111678396456562",
        "post_id": "1064982806700854_122111678420456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 0,
@@ -5878,39 +5885,47 @@
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108321828506427_3417609435212422",
        "error": null,
        "last_attempt": "2026-11-15T18:13:48+04:00",
        "mode": "immediate",
        "photo_id": "122108321804506427",
        "post_id": "1079964265201139_122108321828506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133039675308548_2222839721973211",
        "error": null,
        "last_attempt": "2026-11-15T18:14:30+04:00",
        "mode": "immediate",
        "photo_id": "122133039639308548",
        "post_id": "1086658774532679_122133039675308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122734537296683_1737494881490456",
        "error": null,
        "last_attempt": "2026-11-15T18:14:18+04:00",
        "mode": "immediate",
        "photo_id": "122122734501296683",
        "post_id": "1087342844462554_122122734537296683",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114462372601707_1695266565448458",
        "error": null,
        "last_attempt": "2026-11-15T18:14:46+04:00",
        "mode": "immediate",
        "photo_id": "122114462348601707",
        "post_id": "1099258949937246_122114462372601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 0,
@@ -5918,21 +5933,25 @@
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122104948418533031_1671521633967813",
        "error": null,
        "last_attempt": "2026-11-15T18:14:40+04:00",
        "mode": "immediate",
        "photo_id": "122104948394533031",
        "post_id": "1128937866962526_122104948418533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110383314543006_954555227520145",
        "error": null,
        "last_attempt": "2026-11-15T18:14:00+04:00",
        "mode": "immediate",
        "photo_id": "122110383290543006",
        "post_id": "1140835409106424_122110383314543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -5947,12 +5966,14 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130019017314630_1142772328235661",
        "error": null,
        "last_attempt": "2026-11-15T18:14:35+04:00",
        "mode": "immediate",
        "photo_id": "122130018993314630",
        "post_id": "1149681171551323_122130019017314630",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -5971,21 +5992,25 @@
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125723995405175_1501263478625962",
        "error": null,
        "last_attempt": "2026-11-15T18:14:07+04:00",
        "mode": "immediate",
        "photo_id": "122125723971405175",
        "post_id": "1191480207389219_122125723995405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113075742437662_1787908155842294",
        "error": null,
        "last_attempt": "2026-11-15T18:13:42+04:00",
        "mode": "immediate",
        "photo_id": "122113075718437662",
        "post_id": "997772916762884_122113075742437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Il boss più temuto di Chicago le tese la mano davanti a duecento ospiti: «Balla questo tango con me e ti sposo». Poi la nonna riconobbe il suo passo",
@@ -6006,39 +6031,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126229681304793_1659238005613271",
        "error": null,
        "last_attempt": "2026-11-15T18:15:15+04:00",
        "mode": "immediate",
        "photo_id": "122126229657304793",
        "post_id": "1079800528556354_122126229681304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114031086359745_1116565940989313",
        "error": null,
        "last_attempt": "2026-11-15T18:14:52+04:00",
        "mode": "immediate",
        "photo_id": "122114031062359745",
        "post_id": "1083785318156771_122114031086359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122740297302807_1859997891863504",
        "error": null,
        "last_attempt": "2026-11-15T18:14:58+04:00",
        "mode": "immediate",
        "photo_id": "122122740273302807",
        "post_id": "1089456087587677_122122740297302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140964649313481_1885834112601729",
        "error": null,
        "last_attempt": "2026-11-15T18:15:09+04:00",
        "mode": "immediate",
        "photo_id": "122140964625313481",
        "post_id": "1107966229066828_122140964649313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Szef mafii z Chicago zakpił przy dwustu gościach: „Zatańcz ze mną tango, a się z tobą ożenię\". Sprzątaczka zdjęła fartuch, a jego babcia zbladła",
@@ -6047,6 +6080,7 @@
      ],
      "wp_error": null,
      "wp_id": 397,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -6074,7 +6108,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-1800-it.jpg"
    },
    "source_key": "post:61587026316282_122143876245234210",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
