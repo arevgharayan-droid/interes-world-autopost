@@ -5,6 +5,12 @@ set -euo pipefail
 BRANCH="${GITHUB_REF_NAME:-main}"
 git config user.name "autopost-bot"
 git config user.email "autopost-bot@users.noreply.github.com"
+git config gc.auto 0          # фоновая уборка git держала index.lock и роняла сохранение (15.11 15:05)
+# дождаться, пока другой git (промежуточное сохранение) освободит индекс; брошенный замок — убрать
+for _ in $(seq 1 30); do [ -e .git/index.lock ] || break; sleep 1; done
+if [ -e .git/index.lock ] && ! pgrep -x git >/dev/null; then
+  echo "Убираю брошенный .git/index.lock"; rm -f .git/index.lock
+fi
 
 paths=()
 for p in state content logs previews queue ops config/settings.yaml; do
