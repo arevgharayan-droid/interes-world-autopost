@@ -5932,6 +5932,13 @@
        "post_id": "1167352663135230_122146987335384760",
        "status": "scheduled"
       },
+      "1210639158790064": {
+       "attempts": 1,
+       "error": "публикация: FB 100/None: (#100) The specified scheduled publish time is invalid.",
+       "last_attempt": "2026-11-15T14:53:06+04:00",
+       "mode": "schedule",
+       "status": "failed"
+      },
       "1235940142932696": {
        "attempts": 1,
        "error": null,
@@ -5976,6 +5983,20 @@
        "photo_id": "122355844442234096",
        "post_id": "237939756073256_122355844478234096",
        "status": "scheduled"
+      },
+      "353293117873308": {
+       "attempts": 1,
+       "error": "публикация: FB 100/None: (#100) The specified scheduled publish time is invalid.",
+       "last_attempt": "2026-11-15T14:51:23+04:00",
+       "mode": "schedule",
+       "status": "failed"
+      },
+      "708817825659143": {
+       "attempts": 1,
+       "error": "публикация: FB 100/None: (#100) The specified scheduled publish time is invalid.",
+       "last_attempt": "2026-11-15T14:52:16+04:00",
+       "mode": "schedule",
+       "status": "failed"
       },
       "914823471720372": {
        "attempts": 1,
@@ -6052,7 +6073,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-1500-en.jpg"
    },
    "source_key": "post:61587026316282_122143702713234210",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
