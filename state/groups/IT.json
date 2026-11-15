@@ -7,6 +7,8 @@
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
+  "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
+  "5925113003b25213dc5b": "2026-11-15T14:13:20+00:00",
   "59ba199024c504005873": "2026-11-13T10:14:50+00:00",
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
   "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
@@ -30,6 +32,7 @@
   "c3a669114cbd1e96b360": "2026-11-12T10:26:53+00:00",
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
   "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
+  "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
   "e3865a47ceab05931f72": "2026-11-01T14:04:10+00:00",
   "efd0f2e108b8fe01d1c7": "2026-11-14T19:42:43+00:00",
   "f0ab5dd9f979bb237bc0": "2026-11-12T20:02:25+00:00",
@@ -5770,9 +5773,92 @@
    }
   },
   "2026-11-15 18:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mafiánský boss se na plese před dvěma sty hosty vysmál své uklízečce: „Zatancuj se mnou tango a vezmu si tě.“ Když začala hudba, jeho babička zbledla",
+     "warnings": [
+      "длина текста FB 631 слов (исходник 828, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 398,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il boss più temuto di Chicago le tese la mano davanti a duecento ospiti: «Balla questo tango con me e ti sposo». Poi la nonna riconobbe il suo passo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 396,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Szef mafii z Chicago zakpił przy dwustu gościach: „Zatańcz ze mną tango, a się z tobą ożenię\". Sprzątaczka zdjęła fartuch, a jego babcia zbladła",
+     "warnings": [
+      "длина текста FB 606 слов (исходник 828, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 397,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/896706891_122143876215234210_5920044152459142046_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=f5eZTCPD-6oQ7kNvwHEjcMw&_nc_oc=AdpszBIwauY2yQX7NtmUOj4fHNGTitK-KiBl2TZ5dgSP0npoq84zEWWfwOupX4lpJqM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=rqfSEuOc0CbqNvhlS9taQQ&_nc_tpa=Q5bMBQLbJP-vLzejMjFFAdmcoGJUGsk46JIdAcihBdwfpIRVjuvsPlx5560gE4J4rvr-Eh6OXIFKQwzX1A&oh=00_AQSSyYnBxt_m23kKsHbKpTfeM9dRP3-QtdNIfmkR9SQRww&oe=6AFF8661",
+    "link": "https://www.facebook.com/share/1MDNAZmp5S/",
+    "origin": "manual",
+    "page_id": "61587026316282",
+    "text": "À 23 h 17, le chef mafieux le plus redouté de Chicago tendit la main à sa femme de ménage devant deux cents invités fortunés et éclata de rire : « Si tu arrives à danser ce tango avec moi, je t’épouse. » Sa magnifique fiancée partit d’un grand éclat de rire, tandis que les invités sortaient leurs téléphones pour filmer mon humiliation. Je me tenais là, vêtue de mon uniforme taché de vin, les pieds douloureux et les mains tremblantes. Mais lorsque l’orchestre commença à jouer, sa grand-mère de quatre-vingt-trois ans blêmit. Elle venait de reconnaître ma façon de bouger… et l’homme qui me l’avait enseignée.\n\nJe m’appelle Emily Brooks. J’ai trente-deux ans et cela fait presque deux ans que je travaille comme femme de ménage dans la propriété des Whitmore, à Lake Forest, dans l’Illinois.\n\nGrant Whitmore avait quarante et un ans. Beau, dangereusement séduisant, il était le chef mafieux dont l’organisation contrôlait la distribution de whisky, des compagnies maritimes, des clubs privés et certains des biens immobiliers les plus précieux de Chicago.\n\nLes hommes puissants le craignaient.\n\nSa fiancée, Vanessa Hale, quant à elle, n’avait peur de rien.\n\nSurtout pas de faire du mal à quelqu’un qui ne pouvait pas se défendre.\n\nCe soir-là, le manoir accueillait une somptueuse réception pour célébrer les quarante ans de la fondation de Whitmore Reserve par le père de Grant, Thomas Whitmore.\n\nLa salle de bal scintillait sous les lustres en cristal.\n\nDeux cents invités portaient des diamants et des costumes de créateurs.\n\nMoi, je portais mon uniforme gris de femme de ménage.\n\nTrois heures avant le bal, Vanessa renversa volontairement un verre de cabernet.\n\n« Nettoyez-moi ça avant que quelqu’un ne ruine ses chaussures. »\n\nJe m’agenouillai près de sa chaise.\n\n« Bien sûr, mademoiselle Hale. »\n\nPuis elle versa le reste de son vin dans mon dos, le long de mon uniforme.\n\nSes amies éclatèrent de rire.\n\n« Oh mon Dieu ! » s’exclama Vanessa d’un ton faussement innocent. « Je suis tellement maladroite ce soir. »\n\nJe fermai les yeux.\n\nJ’avais besoin de ce travail.\n\nMa petite sœur Rachel élevait seule ses deux garçons après un divorce difficile, et la moitié de mon salaire l’aidait à payer le loyer et les courses.\n\nAlors je me relevai sans protester.\n\nPuis une voix douce prononça mon nom.\n\n« Emily, viens ici. »\n\nEleanor Whitmore, la grand-mère de Grant, était assise près des fenêtres.\n\nElle me tendit une serviette propre.\n\n« Enlève-moi ce vin de ton cou. »\n\n« Merci, madame Whitmore. »\n\nEleanor lança un regard en direction de Vanessa.\n\n« Cette fille porte des bijoux hors de prix, mais ses manières ne valent pas grand-chose. »\n\nJ’eus presque envie de rire.\n\nEleanor était la seule personne de cette famille qui se souvenait des prénoms de mes neveux et qui me demandait régulièrement comment allait ma sœur.\n\nElle me traitait comme un être humain.\n\nPas comme un meuble.\n\nPlus tard, Grant prononça un discours en hommage à son défunt père.\n\nPuis l’orchestre commença à jouer.\n\nEt j’entendis quelque chose qui me serra le cœur.\n\nUn bandonéon.\n\nUn tango.\n\nC’était exactement le même arrangement que mon père jouait chaque samedi matin au Brooks Dance Studio.\n\nSoudain, j’eus presque l’impression de le revoir.\n\nDaniel Brooks.\n\nChemise blanche. Manches retroussées. Sourire bienveillant.\n\n« Un bon tango ne consiste pas à contrôler sa partenaire, ma chérie. Il consiste à faire en sorte qu’elle ne perde jamais l’équilibre. »\n\nSans même y penser, je déplaçai mes pieds.\n\nTalon.\n\nPointe.\n\nPause.\n\nVanessa le remarqua.\n\n« Regardez-moi ça ! La femme de ménage se prend pour une danseuse ! »\n\nTout le monde se retourna.\n\nMes joues s’empourprèrent.\n\nJ’essayai de partir.\n\nMais Grant se plaça devant moi, une coupe de champagne à la main.\n\n« Attends. Comment tu t’appelles déjà ? »\n\n« Emily, monsieur. »\n\nIl sourit aux invités.\n\nPuis me tendit la main.\n\n« Danse ce tango avec moi, Emily, et je t’épouserai. »\n\nLa salle de bal éclata de rire.\n\nVanessa s’accrocha à son épaule, riant plus fort que tout le monde.\n\nQuelqu’un cria : « Allez, ma belle ! C’est ta chance de devenir riche ! »\n\nJe fixai la main tendue de Grant.\n\nIl s’attendait à ce que je parte en pleurant.\n\nOu que je trébuche sur la piste pour leur donner une raison supplémentaire de se moquer de moi.\n\nMais je regardai Eleanor.\n\nElle ne riait pas.\n\nElle fixait mes pieds.\n\nSes yeux étaient remplis de larmes.\n\nLentement, je retirai mon tablier taché et le déposai sur une chaise.\n\nPuis je regardai droit dans les yeux l’homme le plus redouté de la mafia de Chicago.\n\n« Êtes-vous certain de vouloir faire une telle promesse, monsieur Whitmore ? »\n\nSon sourire s’effaça peu à peu.\n\nEt de l’autre côté de la salle, Eleanor murmura un nom que je n’avais entendu prononcer par personne en dehors de ma famille depuis des années.\n\n« Daniel Brooks… »",
+    "wp_media_id": 395,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-1800-it.jpg"
+   },
+   "source_key": "post:61587026316282_122143876245234210",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-15 21:00": {
    "langs": {},
@@ -5844,6 +5930,10 @@
   "link:70cf7d519a136e6ba880": {
    "link": "https://www.facebook.com/share/p/19MbcPmJ8B/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122130803336893096&id=61576792898556"
+  },
+  "link:73cf4e984f4bae435d64": {
+   "link": "https://www.facebook.com/share/1MDNAZmp5S/",
+   "resolved": "https://www.facebook.com/61587026316282/posts/122143876245234210/?rdid=jnXVA14flif4Vhkv&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MDNAZmp5S%2F"
   },
   "link:7c01ae6726cba7fb0938": {
    "link": "https://www.facebook.com/share/p/1UY9LEzHXQ/",
@@ -6067,6 +6157,14 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-15 15:00",
+   "status": "used"
+  },
+  "post:61587026316282_122143876245234210": {
+   "fingerprint": "a7c160e8f16d506255b1",
+   "link": "https://www.facebook.com/share/1MDNAZmp5S/",
+   "origin": "manual",
+   "page_id": "61587026316282",
+   "slot": "2026-11-15 18:00",
    "status": "used"
   },
   "post:61587032195586_122141597781234406": {
