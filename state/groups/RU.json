@@ -16,6 +16,7 @@
   "17291d408906d44b96db": "2026-11-14T11:40:46+00:00",
   "1955c9dccca6e5edee35": "2026-11-14T11:40:46+00:00",
   "285546559f89fcbaefe2": "2026-11-15T10:15:20+00:00",
+  "2918f58ba47afcae805f": "2026-11-15T14:15:11+00:00",
   "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
   "30660871dadba458ebbe": "2026-11-09T20:02:09+00:00",
   "33582b0afea138144804": "2026-11-12T20:02:43+00:00",
@@ -45,6 +46,7 @@
   "822b3e6fa186814bd262": "2026-11-12T17:48:06+00:00",
   "872c066fea909c2bfe8d": "2026-11-13T14:37:39+00:00",
   "8985ae5cfef71c642a06": "2026-11-10T22:08:57+00:00",
+  "89cadb48fbfb54415a59": "2026-11-15T14:15:11+00:00",
   "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
   "8d212afd28041fbd462e": "2026-11-09T20:00:50+00:00",
   "8d9c5dde4968ee4bd37e": "2026-11-09T20:03:21+00:00",
@@ -53,6 +55,7 @@
   "9080b378741e8f08ec4a": "2026-11-10T22:08:57+00:00",
   "950641cc5f0ddd9580f6": "2026-11-09T20:08:16+00:00",
   "959c0a3855f5dc48d671": "2026-11-09T20:03:21+00:00",
+  "9d236a06f2c553cf0edc": "2026-11-15T14:15:11+00:00",
   "9f68477819cc7f2b978d": "2026-11-09T20:02:09+00:00",
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
@@ -4507,7 +4510,74 @@
    }
   },
   "2026-11-15 18:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Flagrei meu marido num hotel com outra mulher quando ele deveria estar viajando a trabalho, mas na manhã seguinte o destino chegou antes de mim",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 217,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я увидела мужа в отеле с другой, хотя он «уехал в командировку». Назавтра мне позвонили из больницы",
+     "warnings": [
+      "длина текста FB 842 слов (исходник 1036, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 215,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kocamı İş Seyahatindeyken Başka Bir Kadınla Otele Giriş Yaparken Yakaladım, Ama Ertesi Sabah Hastaneden Gelen Telefon Her Şeyi Değiştirdi",
+     "warnings": [
+      "длина текста FB 750 слов (исходник 1036, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 216,
+     "wp_status": "publish"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/909703905_1716215516563807_2615493207850083789_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nnMTr7-yySUQ7kNvwHhIHrV&_nc_oc=Adquqb6suaruaEIpGdkmDWul4Tm6x8CJ5VaX_4zHzcOMggtcY1sMHE4ohRJDuRzAdz4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=jYCAyPU2nkHLNJ6s4UQCeQ&_nc_tpa=Q5bMBQIK4INgfTpnjjXU0KT27NihA_RSwrp-5uW_9CgxtX_81dQ7p6XvQafrUSSSmCfdYiohwJAWNbF6wA&oh=00_AQSDnufH_vKTmfcl_WT6d_y0rSX4ZiODzY9DVJmBCF-V4g&oe=6AFFA14A",
@@ -4519,7 +4589,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261115-1800-ru.jpg"
    },
    "source_key": "post:100045261260562_1716215553230470",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4736,7 +4806,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-15 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1605697694922092": {
    "fingerprint": "7aa9a9d1f00ac27915f6",
