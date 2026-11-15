@@ -3719,13 +3719,14 @@
       },
       "715935674934966": {
        "attempts": 1,
-       "comment_attempts": 1,
-       "error": "комментарий (Facebook ограничил частоту — пауза 240 мин): FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
+       "comment_attempts": 2,
+       "comment_id": "122202763010922316_2643107926137749",
+       "error": null,
        "last_attempt": "2026-11-15T14:21:19+04:00",
        "mode": "schedule",
        "photo_id": "122202762968922316",
        "post_id": "715935674934966_122202763010922316",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ik kwam om 5.42 uur thuis na 36 uur bij mijn minnares: op ons bed lag de echo van het kind waar mijn vrouw zes jaar op had gewacht",
@@ -3764,7 +3765,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-1500-nl.jpg"
    },
    "source_key": "post:61587026316282_122142218985234210",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
