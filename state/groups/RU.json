@@ -4566,6 +4566,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 217,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RU": {
@@ -4606,12 +4607,13 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127015285307134_1666391934864589",
        "error": null,
        "last_attempt": "2026-11-15T18:15:20+04:00",
        "mode": "immediate",
        "photo_id": "122127015261307134",
        "post_id": "1164575726728296_122127015285307134",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Kocamı İş Seyahatindeyken Başka Bir Kadınla Otele Giriş Yaparken Yakaladım, Ama Ertesi Sabah Hastaneden Gelen Telefon Her Şeyi Değiştirdi",
