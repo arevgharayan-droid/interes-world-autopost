@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "fb_block_until": "2026-11-14T14:14:35+04:00",
  "output_fps": {
+  "13f592d7784f33684a59": "2026-11-15T14:15:49+00:00",
   "1422a482f54759518464": "2026-11-13T10:14:30+00:00",
   "2c1881200804eda0b026": "2026-11-01T18:14:02+00:00",
   "30516d0029d7a2aa8337": "2026-11-09T19:59:12+00:00",
@@ -5866,7 +5867,56 @@
    }
   },
   "2026-11-15 18:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Petted a Stranger's Dog in a Manhattan Restaurant, and the Whole Room Froze in Fear",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 402,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/885716141_122161439127362943_1612465323876825157_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sddH2KhCRaMQ7kNvwGFBcSR&_nc_oc=Adp2wx_daEZeslpBA8lj7jsuVpzHR-1va9fF2DHBQYccyLtIcDCV_Cvi7HIBGv3rRwc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Nw86Bu7YJpj7dkT-IYNbvw&_nc_tpa=Q5bMBQKdVivA2NLwemdswQKEQTIc89Ln6RZc8s7VgaqfJWrXKMFIYg8EWAbEQfCXeYUO5gELQu6HMWUGTg&oh=00_AQROETHDktOHzkLnSe9uov2Nnp0x67slu2UppSUSjzy98w&oe=6AFFA012",
@@ -5878,7 +5928,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-1800-en.jpg"
    },
    "source_key": "post:61590888316979_122161439355362943",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6220,7 +6270,7 @@
    "origin": "manual",
    "page_id": "61590888316979",
    "slot": "2026-11-15 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61591096808475_122137727733369893": {
    "fingerprint": "ca7bf67e115b13f3a522",
