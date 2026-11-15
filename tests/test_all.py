@@ -126,6 +126,24 @@ class TokenTests(unittest.TestCase):
         with self.assertRaises(TokenError):
             load_tokens(cfg, "other")
 
+    def test_two_users_split_pages_and_owners_saved(self):
+        from autopost.tokens import setup_facebook, token_origins
+        cfg, _ = temp_cfg()
+        graph = FakeGraph(cfg, lambda: None)
+        ids = [p.page_id for p in cfg.pages]
+        first, second = set(ids[:3]), set(ids[3:])
+        full = graph.my_pages
+
+        def mine(user_token):
+            want = first if "U1" in user_token else second
+            return [p for p in full(user_token) if p["id"] in want]
+        graph.my_pages = mine
+        rep = setup_facebook(cfg, graph, "app", "s3cret", ["U1", "U2"])
+        self.assertEqual(rep["per_user"], [len(first), len(second)])
+        o = token_origins(cfg, "s3cret")
+        self.assertEqual({k for k, v in o.items() if v == "autopost2"}, first)
+        self.assertEqual({k for k, v in o.items() if v == "autopost3"}, second)
+
     def test_extra_token_file_fills_only_missing_pages(self):
         from autopost.tokens import _fernet, token_origins
         cfg, _ = temp_cfg()
@@ -136,6 +154,8 @@ class TokenTests(unittest.TestCase):
         cfg.settings.setdefault("facebook", {})["extra_token_files"] = ["state/old.enc", "state/missing.enc"]
         self.assertEqual(load_tokens(cfg, "s3cret"), {"1": "main1", "2": "main2", "3": "old3"})
         self.assertEqual(token_origins(cfg, "s3cret"), {"1": "main", "2": "main", "3": "state/old.enc"})
+        save_tokens(cfg, "s3cret", {"1": "main1", "2": "main2"}, {"owners": {"1": "autopost2", "2": "autopost3"}})
+        self.assertEqual(token_origins(cfg, "s3cret"), {"1": "autopost2", "2": "autopost3", "3": "state/old.enc"})
 
 
 class GraphClientTests(unittest.TestCase):

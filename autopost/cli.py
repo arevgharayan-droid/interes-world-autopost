@@ -508,7 +508,7 @@ def cmd_tick(cfg, args) -> int:
     # один темп на все группы; паузы Facebook — по системным пользователям (autopost2 / старый autopost)
     from .tokens import token_origins
     try:
-        owners = {pid: ("autopost2" if o == "main" else "autopost") for pid, o in token_origins(cfg).items()}
+        owners = {pid: _owner_name(cfg, o) for pid, o in token_origins(cfg).items()}
     except Exception:  # noqa: BLE001 — без карты все страницы считаются одним пользователем
         owners = {}
     pacer = Pacer(float(cfg.settings.get("fb_pacing_seconds", 2)), owners=owners,
@@ -1012,16 +1012,26 @@ def cmd_match_pages(cfg, wanted: list) -> int:
     return 0
 
 
+def _owner_name(cfg, origin: str) -> str:
+    """Источник токена → имя системного пользователя для пауз и отчётов."""
+    if origin == "main":
+        return "autopost2"
+    from .tokens import extra_token_files
+    if origin in extra_token_files(cfg):
+        return "autopost"      # старый системный пользователь
+    return origin              # autopost2 / autopost3 из основного набора
+
+
 def cmd_tokens_status(cfg, check=True) -> int:
     """По группам: какая страница через кого публикуется (autopost2 / старый autopost / нет доступа).
     check — проверить каждый токен чтением имени страницы (ничего не публикует)."""
     from .tokens import token_origins
     tokens = load_tokens(cfg)
     origins = token_origins(cfg)
-    label = {"main": "autopost2"}
     graph = Graph(cfg.graph_version) if check else None
     out = ["## Доступ к страницам", ""]
-    total = {"autopost2": 0, "старый autopost": 0, "нет доступа": 0, "токен не работает": 0}
+    from collections import Counter
+    total = Counter()
     for g in cfg.groups():
         rows = []
         for lang in cfg.languages:
@@ -1029,7 +1039,7 @@ def cmd_tokens_status(cfg, check=True) -> int:
                 if (p.group or p.lang) != g or p.disabled:
                     continue
                 o = origins.get(p.page_id)
-                who = label.get(o, "старый autopost") if o else "нет доступа"
+                who = _owner_name(cfg, o) if o else "нет доступа"
                 note = ""
                 if o and graph:
                     try:

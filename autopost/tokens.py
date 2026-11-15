@@ -44,15 +44,18 @@ def extra_token_files(cfg) -> list:
     return [str(x) for x in ((cfg.settings.get("facebook") or {}).get("extra_token_files") or []) if x]
 
 
-def _read_tokens_file(cfg, rel: str, app_secret: str) -> dict:
+def _read_tokens_file(cfg, rel: str, app_secret: str, with_meta: bool = False):
     data = json.loads(_fernet(app_secret).decrypt(cfg.path(rel).read_bytes()))
-    return data["tokens"]
+    return (data["tokens"], data.get("meta") or {}) if with_meta else data["tokens"]
 
 
 def token_origins(cfg, app_secret: str | None = None) -> dict:
     """page_id → какой набор даёт токен ('main' или имя доп. файла)."""
     app_secret = app_secret if app_secret is not None else os.environ.get("FB_APP_SECRET", "")
-    out = {pid: "main" for pid in _read_tokens_file(cfg, TOKENS_FILE, app_secret)}
+    main, meta = _read_tokens_file(cfg, TOKENS_FILE, app_secret, with_meta=True)
+    owners = meta.get("owners") or {}
+    # основной набор: кто именно из пользователей (autopost2 / autopost3) дал токен; по-старому — "main"
+    out = {pid: owners.get(pid) or "main" for pid in main}
     for rel in extra_token_files(cfg):
         try:
             for pid in _read_tokens_file(cfg, rel, app_secret):
@@ -90,8 +93,9 @@ def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token) -> dict
     user_tokens = [t for t in ([user_token] if isinstance(user_token, str) else list(user_token)) if t]
     if not (app_id and app_secret and user_tokens):
         raise TokenError("нужны секреты FB_APP_ID, FB_APP_SECRET и FB_USER_TOKEN")
-    by_id, per_user = {}, []
-    for ut in user_tokens:
+    by_id, per_user, owner_of = {}, [], {}
+    labels = list(((cfg.settings.get("facebook") or {}).get("user_labels")) or ["autopost2", "autopost3"])
+    for idx, ut in enumerate(user_tokens):
         try:
             long_user = graph.exchange_long_lived(app_id, app_secret, ut)
         except Exception:  # noqa: BLE001 — токен системного пользователя обменивать не нужно, он бессрочный
@@ -99,7 +103,9 @@ def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token) -> dict
         pages = graph.my_pages(long_user)
         per_user.append(len(pages))
         for p in pages:
-            by_id.setdefault(p["id"], p)
+            if p["id"] not in by_id:
+                by_id[p["id"]] = p
+                owner_of[p["id"]] = labels[idx] if idx < len(labels) else f"user{idx + 1}"
     tokens, missing, no_rights, ok = {}, [], [], []
     for page in cfg.all_pages:
         got = by_id.get(page.page_id)
@@ -128,7 +134,8 @@ def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token) -> dict
     else:
         scopes = []
     meta = {"created": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-            "pages": len(tokens), "expires_at": expires}
+            "pages": len(tokens), "expires_at": expires,
+            "owners": {pid: owner_of.get(pid) for pid in tokens if owner_of.get(pid)}}
     if tokens:
         save_tokens(cfg, app_secret, tokens, meta)
     extra = sorted(set(by_id) - {p.page_id for p in cfg.all_pages})
