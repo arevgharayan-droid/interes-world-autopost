@@ -253,7 +253,6 @@
   "1268633826332790_122133047805436382": "2026-11-14T14:07:14+00:00",
   "1268633826332790_122133057027436382": "2026-11-14T17:07:03+00:00",
   "1268633826332790_122133132933436382": "2026-11-14T20:04:06+00:00",
-  "633031599904551_122219727098930012": "2026-11-01T08:06:09+00:00",
   "633031599904551_122219877218930012": "2026-11-01T11:06:12+00:00",
   "633031599904551_122219900048930012": "2026-11-01T14:04:32+00:00",
   "633031599904551_122219995568930012": "2026-11-01T20:06:14+00:00",
@@ -312,78 +311,6 @@
   "715935674934966_122202688112922316": "2026-11-14T20:01:47+00:00"
  },
  "slots": {
-  "2026-11-01 12:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "NL": {
-     "generated": true,
-     "pages": {
-      "633031599904551": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122219727098930012_2308202286692455",
-       "error": null,
-       "last_attempt": "2026-10-31T22:33:52+04:00",
-       "mode": "schedule",
-       "photo_id": "122219727068930012",
-       "post_id": "633031599904551_122219727098930012",
-       "status": "done"
-      },
-      "715935674934966": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122200577786922316_2255916775353322",
-       "error": null,
-       "last_attempt": "2026-10-31T22:33:55+04:00",
-       "mode": "schedule",
-       "photo_id": "122200577756922316",
-       "post_id": "715935674934966_122200577786922316",
-       "status": "done"
-      }
-     },
-     "title": "Iedereen lachte om de jonge moeder met baby op het podium, tot de rector het woord nam en het doodstil werd",
-     "wp_id": 7202,
-     "wp_live": true
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "не повторяется"
-    }
-   },
-   "prepared": true,
-   "repost_of": "2026-10-30 12:00",
-   "slot_iso": "2026-11-01T12:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/780472060_122101695620536431_2069304066720149855_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LwLYsJA91ewQ7kNvwEyicnm&_nc_oc=AdoqQE72oc9K_1NIi2BbAeOcots9E0my5aGT_pJM6R9X0fNWC_K2zrhYY_qBsbjMf9A&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=-7FpBSbnZNBxyMm7CzmDWA&_nc_tpa=Q5bMBQLvfXhN8aXbKAQTizER27tzvWTxfALkvtIHwoY9qXyeQKZzQvwcOHgiX3B078MIlDMN8_AkgnddBw&oh=00_AQSy04KF2gsclHKDXqwmxMLifIMB9tmWfcfx4lIBYqZvCg&oe=6AE96D03",
-    "link": "https://www.facebook.com/story.php?story_fbid=122101695644536431&id=61566092952750",
-    "origin": "manual",
-    "page_id": "1011074408765807",
-    "text": "Toute la salle s’est moquée de la jeune mère qui montait sur scène avec son bébé dans les bras. Puis le président de l’université a pris le micro, et plus personne n’a osé rire…\n\nL’amphithéâtre était rempli de familles venues célébrer la remise des diplômes. Les téléphones filmaient chaque instant, les étudiants ajustaient nerveusement leur toque et les applaudissements accompagnaient chaque nom.\n\nLorsque celui de Valéria Moreau fut annoncé, une jeune femme de vingt-deux ans apparut dans l’allée. Sous sa robe universitaire, elle portait sa fille de six mois, profondément endormie contre sa poitrine.\n\nLes murmures commencèrent aussitôt.\n\n— Elle n’a trouvé personne pour garder son enfant ?\n\n— Elle veut seulement attirer l’attention.\n\nUne étudiante leva même son téléphone pour filmer ce qu’elle imaginait déjà être une scène embarrassante.\n\nValéria entendit chaque remarque, mais ne baissa pas les yeux.\n\nLorsqu’elle avait annoncé sa grossesse, sa propre mère lui avait conseillé d’abandonner ses études. Le père du bébé, lui, avait disparu après avoir envoyé un simple message : « Je ne suis pas prêt pour cette vie. »\n\nValéria avait pourtant continué.\n\nElle assistait aux cours le matin, travaillait dans une pharmacie l’après-midi et nettoyait des bureaux plusieurs soirs par semaine. Elle économisait sur ses repas pour payer le loyer, le lait et les couches.\n\nQuand sa fille avait été hospitalisée à la veille d’un examen, Valéria avait révisé assise près de son berceau. Le lendemain, après une nuit sans sommeil, elle avait obtenu la meilleure note de sa promotion.\n\nLe jour de la cérémonie, la personne qui devait garder le bébé annula au dernier moment. Valéria hésita, puis regarda sa fille.\n\n— Tu as traversé tout cela avec moi. Tu seras donc là quand je recevrai mon diplôme.\n\nSur scène, elle tendit la main vers le précieux document. Mais le président de l’université le posa de côté et saisit le micro.\n\nLe silence tomba immédiatement.\n\n— Beaucoup pensent que cette jeune femme cherche aujourd’hui à se faire remarquer, déclara-t-il. Pourtant, personne ici ne connaît la véritable raison pour laquelle elle a failli ne jamais obtenir son diplôme.\n\nIl sortit une enveloppe scellée.\n\n— Une enquête indépendante vient de se terminer. Elle prouve que les résultats de Valéria ont été volontairement modifiés et que son nom a été retiré trois fois de la liste des diplômés.\n\nUn document officiel apparut sur l’écran derrière lui.\n\nPlusieurs enseignants pâlirent. Une femme assise au premier rang se leva brusquement pour partir.\n\n— Restez, madame, ordonna le président. Car je vais maintenant révéler qui a tenté de détruire l’avenir de Valéria… et pourquoi.\n\nLorsqu’il prononça le nom, Valéria serra son bébé contre elle. La femme qui s’était moquée le plus fort cacha alors son visage entre ses mains.\n\nRegardez la suite dans les commentaires👇\n\nSi tu as lu\njusqu’à ce moment,\nécris « COURAGE »",
-    "wp_media_id": 7196,
-    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/10/interes-20261030-1200-nl.jpg"
-   },
-   "source_key": "post:1011074408765807_122101695644536431",
-   "status": "done"
-  },
   "2026-11-01 15:00": {
    "langs": {
     "DE": {
