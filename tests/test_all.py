@@ -899,6 +899,24 @@ class RateLimitTests(unittest.TestCase):
         p.wait("autopost"); p.wait("autopost"); p.wait("autopost2")
         self.assertGreaterEqual(_t.monotonic() - t0, 0.2)     # медленный — не чаще раза в 0,2 с; другой не ждёт
 
+    def test_no_late_post_after_next_release_started(self):
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        tz = ZoneInfo(cfg.tz)
+        st = State(tmp / "state/groups/IT.json")
+        st.data.setdefault("slots", {}).update({
+            "2030-05-01 21:00": {"status": "prepared", "source": {"link": "a"}},
+            "2030-05-02 00:00": {"status": "prepared", "source": {"link": "b"}},
+            "2030-05-02 03:00": {"status": "no_source"}})
+        gcfg = group_view(cfg, "IT")
+        pl = Pipeline(gcfg, st, FakeGraph(cfg, lambda: None), FakeWP(), Generator(gcfg, backend="mock"), {},
+                      now_fn=lambda: datetime(2030, 5, 2, 0, 7, tzinfo=tz), http=FakeHTTP())
+        d21 = datetime(2030, 5, 1, 21, 0, tzinfo=tz)
+        self.assertTrue(pl._newer_release_started(d21, datetime(2030, 5, 2, 0, 7, tzinfo=tz)))
+        self.assertFalse(pl._newer_release_started(d21, datetime(2030, 5, 1, 22, 10, tzinfo=tz)))
+        self.assertFalse(pl._newer_release_started(datetime(2030, 5, 2, 0, 0, tzinfo=tz),
+                                                   datetime(2030, 5, 2, 3, 30, tzinfo=tz)))   # без истории не в счёт
+
 class LateLinkTests(unittest.TestCase):
     def test_link_sent_after_release_goes_to_next_release(self):
         """Выпуск 09:00 прошёл без истории; ссылка пришла в 09:45 — она идёт в 12:00, а не «догоняет» 09:00."""

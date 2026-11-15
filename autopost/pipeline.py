@@ -543,6 +543,8 @@ class Pipeline:
             return  # слишком поздно ставить в отложенные, слишком рано публиковать — ждём
         else:
             mode = "expired"
+        if mode == "immediate" and self._newer_release_started(dt, now):
+            mode = "expired"   # следующий выпуск уже начался — старую историю поверх новой не публикуем
         skip_src = self.cfg.sources.get("skip_source_page", True)
         until = self.state.data.get("fb_block_until")
         if until and now < datetime.fromisoformat(until):
@@ -754,6 +756,18 @@ class Pipeline:
                         self.page_error(key, name, e, err, f"комментарий (Facebook ограничил частоту — пауза {minutes} мин)")
                         continue
                     self.page_error(key, name, e, err, "комментарий")
+
+    def _newer_release_started(self, dt, now) -> bool:
+        for k, s2 in (self.state.data.get("slots") or {}).items():
+            if not s2.get("source") or s2.get("status") in ("cancelled", "no_source", "missed", "skipped"):
+                continue
+            try:
+                d2 = datetime.strptime(k[:16], "%Y-%m-%d %H:%M").replace(tzinfo=self.tz)
+            except ValueError:
+                continue
+            if dt < d2 <= now:
+                return True
+        return False
 
     def _slow(self, page_id) -> bool:
         return self.pacer.owner(page_id) in self.pacer.per_owner
