@@ -19,6 +19,7 @@
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
+  "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
   "69fca282f43c87f63475": "2026-11-14T19:42:34+00:00",
   "6a5fb8d3a145316fa770": "2026-11-12T09:04:19+00:00",
   "6a85eda399aa1c821d08": "2026-11-01T14:04:24+00:00",
@@ -39,6 +40,7 @@
   "b924e8960efa86262e90": "2026-11-12T20:02:32+00:00",
   "ba5124bf926776f201e6": "2026-11-09T13:25:52+00:00",
   "c45432e6978031cef601": "2026-11-13T14:37:35+00:00",
+  "c7f5d2b135602dc721d7": "2026-11-15T10:15:33+00:00",
   "caa9ee0aac3ceacdcbc5": "2026-11-09T20:02:27+00:00",
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
@@ -3716,7 +3718,63 @@
    "status": "missed"
   },
   "2026-11-15 15:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "36 Stunden bei meiner Geliebten – als ich heimkam, war meine Frau verschwunden und auf dem Bett lag ein Schwangerschaftstest",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 383,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ik kwam om 5.42 uur thuis na 36 uur bij mijn minnares: op ons bed lag de echo van het kind waar mijn vrouw zes jaar op had gewacht",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 382,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/862039912_122142218961234210_6967233826671807232_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=uYGpYBoi_u4Q7kNvwGE9ZGs&_nc_oc=AdotGT190BlZoBPyZrnGm3JNGsVBQ9lcL8y6H4k9YtwPyrUNEgPbynMxZO3Cx3poLHE&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ijQ3i72wxWLHv7RFpF8sXg&_nc_tpa=Q5bMBQLCJFZ_DUb8A93Tj8_xW9AzFgT0VI5SYK9ZgLOO3JTV_OzwdlIaNJQReG_ZIcF2IY77oaaGEmZhSA&oh=00_AQQznFCQdNHxc5yDKkb0QcP_rdJOxjYb8CdvUtoeS_nrHg&oe=6AFF46E4",
@@ -3728,7 +3786,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-1500-nl.jpg"
    },
    "source_key": "post:61587026316282_122142218985234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4029,7 +4087,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-15 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587032195586_122141365077234406": {
    "fingerprint": "b49bf9fc69c4e7f1f77b",

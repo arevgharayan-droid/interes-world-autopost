@@ -5940,7 +5940,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-11-15T14:15:32+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "My Adoptive Mother Laughed That She'd Fooled Us for 20 Years, and What I Overheard in Her Kitchen Changed Everything",
      "warnings": [],
      "wp_error": null,
