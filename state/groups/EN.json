@@ -15,7 +15,6 @@
   "53b4e246a9a9b3c56bf8": "2026-11-14T19:47:22+00:00",
   "5524aef86b90361cca7b": "2026-11-10T22:03:23+00:00",
   "5e336a9c8f71c9075c40": "2026-11-12T17:47:39+00:00",
-  "655ea8557dcca7162d6c": "2026-11-01T14:03:59+00:00",
   "6dfa0fbc6e60232c2ca8": "2026-11-10T22:06:51+00:00",
   "76b6de784429bf75aead": "2026-11-12T10:26:33+00:00",
   "97674e3e8b0598bc24b5": "2026-11-09T20:07:40+00:00",
@@ -29,7 +28,6 @@
   "feb1dde7e2dbbf5351ce": "2026-11-10T22:05:38+00:00"
  },
  "outputs": {
-  "1016419758218222_122145751509204972": "2026-11-01T14:04:33+00:00",
   "1016419758218222_122145788703204972": "2026-11-01T20:06:14+00:00",
   "1016419758218222_122146657737204972": "2026-11-09T14:09:45+00:00",
   "1016419758218222_122146658121204972": "2026-11-09T17:06:58+00:00",
@@ -54,7 +52,6 @@
   "1016419758218222_122147092293204972": "2026-11-13T11:07:33+00:00",
   "1016419758218222_122147111295204972": "2026-11-13T14:37:56+00:00",
   "1016419758218222_122147295909204972": "2026-11-15T10:38:33+00:00",
-  "108881571809093_1146095714764048": "2026-11-01T14:04:55+00:00",
   "108881571809093_1146304478076505": "2026-11-01T20:06:21+00:00",
   "108881571809093_1154379360602350": "2026-11-09T14:09:51+00:00",
   "108881571809093_1154380750602211": "2026-11-09T17:07:06+00:00",
@@ -79,7 +76,6 @@
   "108881571809093_1158568773516742": "2026-11-13T11:07:39+00:00",
   "108881571809093_1158810000159286": "2026-11-13T14:38:09+00:00",
   "108881571809093_1160696393303980": "2026-11-15T10:48:01+00:00",
-  "1146095694764050": "2026-11-01T14:04:55+00:00",
   "1146304441409842": "2026-11-01T18:14:44+00:00",
   "1154379323935687": "2026-11-09T13:25:15+00:00",
   "1154380717268881": "2026-11-09T13:26:45+00:00",
@@ -104,7 +100,6 @@
   "1158568736850079": "2026-11-13T10:15:19+00:00",
   "1158809956825957": "2026-11-13T14:38:09+00:00",
   "1160696369970649": "2026-11-15T10:48:01+00:00",
-  "1165836896614851_122141803851384677": "2026-11-01T14:04:17+00:00",
   "1165836896614851_122141842113384677": "2026-11-01T20:06:23+00:00",
   "1165836896614851_122143562127384677": "2026-11-09T14:09:54+00:00",
   "1165836896614851_122143562415384677": "2026-11-09T17:07:10+00:00",
@@ -130,7 +125,6 @@
   "1165836896614851_122144439639384677": "2026-11-13T14:37:46+00:00",
   "1165836896614851_122144706339384677": "2026-11-14T20:01:35+00:00",
   "1165836896614851_122144812539384677": "2026-11-15T10:24:51+00:00",
-  "1167352663135230_122143928973384760": "2026-11-01T14:04:13+00:00",
   "1167352663135230_122143970691384760": "2026-11-01T20:06:26+00:00",
   "1167352663135230_122145710343384760": "2026-11-09T14:09:58+00:00",
   "1167352663135230_122145710673384760": "2026-11-09T17:07:14+00:00",
@@ -156,7 +150,6 @@
   "1167352663135230_122146587435384760": "2026-11-13T14:37:44+00:00",
   "1167352663135230_122146849875384760": "2026-11-14T20:01:02+00:00",
   "1167352663135230_122146987335384760": "2026-11-15T10:19:33+00:00",
-  "122117318265408404": "2026-11-01T14:04:07+00:00",
   "122117347539408404": "2026-11-01T18:14:08+00:00",
   "122118266055408404": "2026-11-09T13:24:28+00:00",
   "122118266295408404": "2026-11-09T13:26:01+00:00",
@@ -182,9 +175,7 @@
   "122118756909408404": "2026-11-13T14:37:41+00:00",
   "122118894165408404": "2026-11-14T20:00:26+00:00",
   "122118958779408404": "2026-11-15T10:16:21+00:00",
-  "122141803827384677": "2026-11-01T14:04:17+00:00",
   "122141842083384677": "2026-11-01T18:14:16+00:00",
-  "122142760173200344": "2026-11-01T14:04:28+00:00",
   "122142786063200344": "2026-11-01T18:14:23+00:00",
   "122143562097384677": "2026-11-09T13:24:38+00:00",
   "122143562379384677": "2026-11-09T13:26:11+00:00",
@@ -212,7 +203,6 @@
   "122143891941384677": "2026-11-10T22:04:37+00:00",
   "122143892223384677": "2026-11-10T22:05:48+00:00",
   "122143892589384677": "2026-11-10T22:07:00+00:00",
-  "122143928949384760": "2026-11-01T14:04:13+00:00",
   "122143970655384760": "2026-11-01T18:14:12+00:00",
   "122144058345200344": "2026-11-12T09:04:10+00:00",
   "122144059371200344": "2026-11-12T09:14:30+00:00",
@@ -238,7 +228,6 @@
   "122145710307384760": "2026-11-09T13:24:33+00:00",
   "122145710643384760": "2026-11-09T13:26:06+00:00",
   "122145711099384760": "2026-11-09T13:27:28+00:00",
-  "122145751485204972": "2026-11-01T14:04:33+00:00",
   "122145768273384760": "2026-11-09T19:59:19+00:00",
   "122145768651384760": "2026-11-09T20:00:38+00:00",
   "122145769263384760": "2026-11-09T20:02:02+00:00",
@@ -283,7 +272,6 @@
   "122147029425204972": "2026-11-12T20:02:54+00:00",
   "122147092263204972": "2026-11-13T10:14:58+00:00",
   "122147111265204972": "2026-11-13T14:37:56+00:00",
-  "122147157303209718": "2026-11-01T14:04:22+00:00",
   "122147187423209718": "2026-11-01T18:14:20+00:00",
   "122147295879204972": "2026-11-15T10:38:33+00:00",
   "122148087249209718": "2026-11-09T13:24:42+00:00",
@@ -294,7 +282,6 @@
   "122148138639209718": "2026-11-09T20:02:06+00:00",
   "122148138873209718": "2026-11-09T20:03:07+00:00",
   "122148139599209718": "2026-11-09T20:07:55+00:00",
-  "122148160959209153": "2026-11-01T14:04:38+00:00",
   "122148185001209153": "2026-11-01T18:14:30+00:00",
   "122148260019209718": "2026-11-10T22:02:25+00:00",
   "122148260367209718": "2026-11-10T22:03:35+00:00",
@@ -335,7 +322,6 @@
   "122149776525209153": "2026-11-13T10:15:01+00:00",
   "122149798179209153": "2026-11-13T14:37:58+00:00",
   "122150024769209153": "2026-11-15T10:41:01+00:00",
-  "122228554670294596": "2026-11-01T14:04:43+00:00",
   "122228580344294596": "2026-11-01T18:14:34+00:00",
   "122229586376294596": "2026-11-09T13:25:02+00:00",
   "122229586694294596": "2026-11-09T13:26:32+00:00",
@@ -360,7 +346,6 @@
   "122229972080294596": "2026-11-13T10:15:05+00:00",
   "122229988382294596": "2026-11-13T14:38:01+00:00",
   "122230153520294596": "2026-11-15T10:42:38+00:00",
-  "122260450454093350": "2026-11-01T14:04:51+00:00",
   "122260481708093350": "2026-11-01T18:14:41+00:00",
   "122261468690093350": "2026-11-09T13:25:11+00:00",
   "122261468960093350": "2026-11-09T13:26:40+00:00",
@@ -385,7 +370,6 @@
   "122261858636093350": "2026-11-13T10:15:14+00:00",
   "122261882984093350": "2026-11-13T14:38:06+00:00",
   "122262054716093350": "2026-11-15T10:46:10+00:00",
-  "122339503880237583": "2026-11-01T14:04:47+00:00",
   "122339536730237583": "2026-11-01T18:14:37+00:00",
   "122341707446237583": "2026-11-09T13:25:06+00:00",
   "122341707932237583": "2026-11-09T13:26:36+00:00",
@@ -410,7 +394,6 @@
   "122342472872237583": "2026-11-13T10:15:09+00:00",
   "122342506196237583": "2026-11-13T14:38:03+00:00",
   "122342869640237583": "2026-11-15T10:44:24+00:00",
-  "122352007874234096": "2026-11-01T14:04:59+00:00",
   "122352074822234096": "2026-11-01T18:14:48+00:00",
   "122354347508234096": "2026-11-09T13:25:20+00:00",
   "122354347826234096": "2026-11-09T13:26:50+00:00",
@@ -435,7 +418,6 @@
   "122355382676234096": "2026-11-13T10:15:25+00:00",
   "122355437318234096": "2026-11-13T14:38:12+00:00",
   "122355844442234096": "2026-11-15T10:49:42+00:00",
-  "1235940142932696_122117318289408404": "2026-11-01T14:04:07+00:00",
   "1235940142932696_122117347575408404": "2026-11-01T20:06:29+00:00",
   "1235940142932696_122118266085408404": "2026-11-09T14:10:01+00:00",
   "1235940142932696_122118266337408404": "2026-11-09T17:07:18+00:00",
@@ -461,7 +443,6 @@
   "1235940142932696_122118756939408404": "2026-11-13T14:37:41+00:00",
   "1235940142932696_122118894189408404": "2026-11-14T20:00:26+00:00",
   "1235940142932696_122118958809408404": "2026-11-15T10:16:21+00:00",
-  "162144310308183_122260450478093350": "2026-11-01T14:04:51+00:00",
   "162144310308183_122260481738093350": "2026-11-01T20:06:33+00:00",
   "162144310308183_122261468720093350": "2026-11-09T14:10:04+00:00",
   "162144310308183_122261468996093350": "2026-11-09T17:07:22+00:00",
@@ -486,7 +467,6 @@
   "162144310308183_122261858666093350": "2026-11-13T11:07:54+00:00",
   "162144310308183_122261883014093350": "2026-11-13T14:38:06+00:00",
   "162144310308183_122262054752093350": "2026-11-15T10:46:10+00:00",
-  "220697507802568_122339503904237583": "2026-11-01T14:04:47+00:00",
   "220697507802568_122339536760237583": "2026-11-01T20:06:36+00:00",
   "220697507802568_122341707482237583": "2026-11-09T14:10:07+00:00",
   "220697507802568_122341707962237583": "2026-11-09T17:07:25+00:00",
@@ -511,7 +491,6 @@
   "220697507802568_122342472902237583": "2026-11-13T11:07:58+00:00",
   "220697507802568_122342506232237583": "2026-11-13T14:38:03+00:00",
   "220697507802568_122342869670237583": "2026-11-15T10:44:24+00:00",
-  "236129656261330_122228554700294596": "2026-11-01T14:04:43+00:00",
   "236129656261330_122228580374294596": "2026-11-01T20:06:38+00:00",
   "236129656261330_122229586418294596": "2026-11-09T14:10:10+00:00",
   "236129656261330_122229586724294596": "2026-11-09T17:07:29+00:00",
@@ -536,7 +515,6 @@
   "236129656261330_122229972110294596": "2026-11-13T11:08:02+00:00",
   "236129656261330_122229988412294596": "2026-11-13T14:38:01+00:00",
   "236129656261330_122230153550294596": "2026-11-15T10:42:38+00:00",
-  "237939756073256_122352007904234096": "2026-11-01T14:04:59+00:00",
   "237939756073256_122352074852234096": "2026-11-01T20:06:42+00:00",
   "237939756073256_122354347538234096": "2026-11-09T14:10:13+00:00",
   "237939756073256_122354347856234096": "2026-11-09T17:07:33+00:00",
@@ -561,7 +539,6 @@
   "237939756073256_122355382712234096": "2026-11-13T11:08:06+00:00",
   "237939756073256_122355437348234096": "2026-11-13T14:38:12+00:00",
   "237939756073256_122355844478234096": "2026-11-15T10:49:42+00:00",
-  "914823471720372_122147157327209718": "2026-11-01T14:04:22+00:00",
   "914823471720372_122147187453209718": "2026-11-01T20:06:45+00:00",
   "914823471720372_122148087279209718": "2026-11-09T14:10:16+00:00",
   "914823471720372_122148087633209718": "2026-11-09T17:07:39+00:00",
@@ -587,7 +564,6 @@
   "914823471720372_122148558537209718": "2026-11-13T14:37:51+00:00",
   "914823471720372_122148698343209718": "2026-11-14T20:02:10+00:00",
   "914823471720372_122148745107209718": "2026-11-15T10:29:20+00:00",
-  "921611111039858_122142760197200344": "2026-11-01T14:04:28+00:00",
   "921611111039858_122142786093200344": "2026-11-01T20:06:48+00:00",
   "921611111039858_122143720347200344": "2026-11-09T14:10:20+00:00",
   "921611111039858_122143720683200344": "2026-11-09T17:07:43+00:00",
@@ -612,7 +588,6 @@
   "921611111039858_122144191095200344": "2026-11-13T11:08:14+00:00",
   "921611111039858_122144215365200344": "2026-11-13T14:37:54+00:00",
   "921611111039858_122144411283200344": "2026-11-15T10:34:00+00:00",
-  "975714512286925_122148160983209153": "2026-11-01T14:04:38+00:00",
   "975714512286925_122148185037209153": "2026-11-01T20:06:52+00:00",
   "975714512286925_122149266087209153": "2026-11-09T14:10:23+00:00",
   "975714512286925_122149266327209153": "2026-11-09T17:07:46+00:00",
@@ -639,198 +614,6 @@
   "975714512286925_122150024799209153": "2026-11-15T10:41:01+00:00"
  },
  "slots": {
-  "2026-11-01 18:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1016419758218222": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122145751509204972_1138263085378423",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:28+04:00",
-       "mode": "immediate",
-       "photo_id": "122145751485204972",
-       "post_id": "1016419758218222_122145751509204972",
-       "status": "done"
-      },
-      "104239205742669": {
-       "attempts": 0,
-       "status": "no_access"
-      },
-      "108881571809093": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1146095714764048_4477818125768711",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:52+04:00",
-       "mode": "immediate",
-       "photo_id": "1146095694764050",
-       "post_id": "108881571809093_1146095714764048",
-       "status": "done"
-      },
-      "1165836896614851": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122141803851384677_28821865147508533",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:13+04:00",
-       "mode": "immediate",
-       "photo_id": "122141803827384677",
-       "post_id": "1165836896614851_122141803851384677",
-       "status": "done"
-      },
-      "1167352663135230": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122143928973384760_2147957635802282",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:08+04:00",
-       "mode": "immediate",
-       "photo_id": "122143928949384760",
-       "post_id": "1167352663135230_122143928973384760",
-       "status": "done"
-      },
-      "1235940142932696": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122117318289408404_1149051520795969",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:03+04:00",
-       "mode": "immediate",
-       "photo_id": "122117318265408404",
-       "post_id": "1235940142932696_122117318289408404",
-       "status": "done"
-      },
-      "162144310308183": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122260450478093350_1150234710666016",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:48+04:00",
-       "mode": "immediate",
-       "photo_id": "122260450454093350",
-       "post_id": "162144310308183_122260450478093350",
-       "status": "done"
-      },
-      "220697507802568": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122339503904237583_1642075317298238",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:43+04:00",
-       "mode": "immediate",
-       "photo_id": "122339503880237583",
-       "post_id": "220697507802568_122339503904237583",
-       "status": "done"
-      },
-      "236129656261330": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122228554700294596_2062877414417569",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:38+04:00",
-       "mode": "immediate",
-       "photo_id": "122228554670294596",
-       "post_id": "236129656261330_122228554700294596",
-       "status": "done"
-      },
-      "237939756073256": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122352007904234096_2069583520360465",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:55+04:00",
-       "mode": "immediate",
-       "photo_id": "122352007874234096",
-       "post_id": "237939756073256_122352007904234096",
-       "status": "done"
-      },
-      "914823471720372": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122147157327209718_1163921229534901",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:18+04:00",
-       "mode": "immediate",
-       "photo_id": "122147157303209718",
-       "post_id": "914823471720372_122147157327209718",
-       "status": "done"
-      },
-      "921611111039858": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122142760197200344_1144513431328523",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:23+04:00",
-       "mode": "immediate",
-       "photo_id": "122142760173200344",
-       "post_id": "921611111039858_122142760197200344",
-       "status": "done"
-      },
-      "975714512286925": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122148160983209153_1516007327033124",
-       "error": null,
-       "last_attempt": "2026-11-01T18:04:33+04:00",
-       "mode": "immediate",
-       "photo_id": "122148160959209153",
-       "post_id": "975714512286925_122148160983209153",
-       "status": "done"
-      }
-     },
-     "title": "He Was the Most Feared Man in the City, Until He Saw the Torn Shoes on His Maid's Little Girl",
-     "warnings": [
-      "длина статьи 1002 слов"
-     ],
-     "wp_error": null,
-     "wp_id": 7249,
-     "wp_live": true,
-     "wp_status": "publish"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-01T18:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/864891211_1652570602906227_4897083820698606327_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=K4do4Ik542cQ7kNvwH2WzMu&_nc_oc=AdqVOrHNO8C6jyJf-v-5cOJx8XQ2oBbIBmkt-rj-PdZJ7fZlqYZ40RDkzWodITPHl6Y&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=bKM33K8uoPwZlUbIFfU4TA&_nc_tpa=Q5bMBQLpY1W9n6982pkyHV6exthlYFxpYyvT5kVdeTXgyP8D1cd4TZWiDZJXd9sFs1HAMmVmcS0eyOo4zg&oh=00_AQQHyOCieRWuJ6CFG7gbh5amgy6mW5tVOOkkCymvn4mphQ&oe=6AED17BA",
-    "link": "https://www.facebook.com/share/p/1J5SLi8Lh4/",
-    "origin": "manual",
-    "page_id": "100044599086455",
-    "text": "Mafia Boss Saw His Maid’s Toddler Wearing Torn Shoes—His Next Move Shocked Everyone\n\nI walked into my daughter's bedroom that Tuesday morning and found her trying to glue the sole of her left shoe back on with school paste. She was five years old, sitting cross-legged on the floor in her pajamas, her tongue pressed between her teeth in concentration. When she heard me, she looked up with those huge dark eyes and said, I fixed them, Mama. I knelt beside her and felt something crack open in my chest. That afternoon I broke a rule I'd kept for two years—I brought her to the mansion where I worked. By sunset, the most dangerous man in the city was kneeling on marble floors in front of my child, and I knew our lives would never be small again.\n\n**CHAPTER 1 — THE FLAPPING SOLE**\n\nThe Marchetti estate didn't announce itself. It simply existed behind twelve-foot iron gates, a sprawling monument to power that needed no introduction. Elena Rossi had walked through the service entrance every morning for two years, her footsteps silent on marble floors that cost more than most people earned in a lifetime.\n\nThe rules were unspoken but absolute: move like a ghost, speak only when addressed, and never—under any circumstances—look directly at the men in expensive suits who arrived after dark with briefcases handcuffed to their wrists.\n\nDon Luca Marchetti was the kind of man who made silence feel like a weapon. When he entered a room, conversations died mid-word. People straightened instinctively, their bodies responding to something primal they couldn't name. He was fifty-three, silver threading through black hair, with the unsettling stillness of a predator that had already decided whether you lived or died.\n\nElena had served him coffee exactly four times. Each time, she'd kept her eyes on the tray, poured with hands that didn't shake, and retreated before he could finish thanking her. She'd survived two years by being invisible, and invisibility was a skill you learned when you had a five-year-old daughter with a broken heart and medical bills that multiplied like cancer cells.\n\nThat Tuesday started with a text message at 5:47 a.m.\n\n*Daycare closed until further notice. Burst pipe. Sorry for the inconvenience.*\n\nElena stared at her phone in the dim kitchen light while Sofia hummed a song about butterflies, her small hands holding a plastic bowl steady while Elena braided her hair. The world narrowed to a single thought: *I can't miss work.*\n\nShe couldn't. She was already three months behind on rent, and her landlord's patience was a finite resource. The collection agencies called twice a day now, their voices polite and relentless. The pharmacy wouldn't refill Sofia's medication without payment upfront. And the envelope she owed to the woman on Alder Street—the one who'd lent her money when the banks turned her away—was now two weeks overdue.\n\nSofia turned her head, the half-finished braid slipping. Mama? You stopped.\n\nSorry, baby. Elena's fingers moved on autopilot, weaving the dark strands tight. We're going on an adventure today.\n\nMrs. Lombardi, the estate's head cook, was a sixty-year-old woman with flour under her fingernails and a reputation for being harder than the bread she baked. But when Elena arrived at the service entrance with Sofia's small hand clutched in hers, Mrs. Lombardi took one look at the child's wide, anxious eyes and sighed like a woman who'd lost an argument with herself.\n\nOne day, she said, her voice rough. Kitchen only. She doesn't move, doesn't speak, doesn't exist. Understood?\n\nThank you, Elena whispered, the words inadequate. I'll work through lunch, I'll stay late, I'll—\n\nStop talking and get the girl settled before someone sees.\n\nSofia was an unnaturally good child. She had to be. She sat on a wooden stool near the pantry, a coloring book balanced on her knees, her legs swinging six inches above the floor. She didn't ask for snacks. She didn't complain when Elena disappeared to carry silver trays up the curved staircase. She just colored very carefully inside the lines, her face serious with concentration.\n\nBut it was the shoes Elena couldn't stop looking at.\n\n \n.....................................\nType '𝐍𝐄𝐗𝐓'to view the full story. I’ll 'like' your comment once the link to the full post is published. \nIf you need to find the full post within the comments section, try this: go to the comments, select 'Most relevant' and switch to 'All comments'—then look for the 'blue text', click on it, and you will be directed to the full post",
-    "wp_media_id": 7246,
-    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1800-en.jpg"
-   },
-   "source_key": "post:100044599086455_1654901516006469",
-   "status": "done"
-  },
   "2026-11-01 21:00": {
    "langs": {},
    "slot_iso": "2026-11-01T21:00:00+04:00",

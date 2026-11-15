@@ -4550,12 +4550,14 @@
      "pages": {
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117423607471857_1429001716060632",
        "error": null,
        "last_attempt": "2026-11-15T18:15:31+04:00",
        "mode": "immediate",
        "photo_id": "122117423553471857",
        "post_id": "1338630212673029_122117423607471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 0,
@@ -4638,7 +4640,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261115-1800-ru.jpg"
    },
    "source_key": "post:100045261260562_1716215553230470",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",

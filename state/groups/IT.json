@@ -5957,12 +5957,13 @@
       "1160223747182678": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122136558015400586_1199883832981757",
        "error": null,
        "last_attempt": "2026-11-15T18:13:35+04:00",
        "mode": "immediate",
        "photo_id": "122136557985400586",
        "post_id": "1160223747182678_122136558015400586",
-       "status": "published"
+       "status": "done"
       },
       "1160240797163045": {
        "attempts": 0,
