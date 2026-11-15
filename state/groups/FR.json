@@ -11,7 +11,6 @@
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
   "5475522c07f16a70e1ac": "2026-11-10T22:04:58+00:00",
   "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
-  "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
   "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
   "7a8b9787a9038db6d1c3": "2026-11-10T22:06:09+00:00",
   "82146aa95a8c25effbbd": "2026-11-10T22:03:44+00:00",
@@ -166,7 +165,6 @@
   "122105336324536887": "2026-11-14T19:42:45+00:00",
   "122105354468536887": "2026-11-15T10:15:24+00:00",
   "122105359322536887": "2026-11-15T14:18:52+00:00",
-  "122108674898457428": "2026-11-01T18:14:50+00:00",
   "122109008480457428": "2026-11-09T13:25:06+00:00",
   "122109008744457428": "2026-11-09T13:26:22+00:00",
   "122109008894457428": "2026-11-09T13:27:24+00:00",
@@ -190,7 +188,6 @@
   "122109182630457428": "2026-11-13T14:37:56+00:00",
   "122109233348457428": "2026-11-14T19:43:02+00:00",
   "122109257432457428": "2026-11-15T10:39:21+00:00",
-  "122116612880633539": "2026-11-01T18:14:46+00:00",
   "122117195138633539": "2026-11-09T13:25:01+00:00",
   "122117195432633539": "2026-11-09T13:26:17+00:00",
   "122117195600633539": "2026-11-09T13:27:19+00:00",
@@ -214,7 +211,6 @@
   "122117453126633539": "2026-11-13T14:37:51+00:00",
   "122117524376633539": "2026-11-14T19:42:37+00:00",
   "122117554040633539": "2026-11-15T10:34:53+00:00",
-  "122120083311409328": "2026-11-01T18:14:31+00:00",
   "122121128085409328": "2026-11-09T13:24:41+00:00",
   "122121128445409328": "2026-11-09T13:25:59+00:00",
   "122121128601409328": "2026-11-09T13:27:02+00:00",
@@ -237,9 +233,7 @@
   "122121615315409328": "2026-11-13T10:14:59+00:00",
   "122121642717409328": "2026-11-13T14:37:38+00:00",
   "122121785985409328": "2026-11-14T19:42:27+00:00",
-  "122121836139299008": "2026-11-01T18:14:38+00:00",
   "122121861339409328": "2026-11-15T10:17:13+00:00",
-  "122121939129415639": "2026-11-01T18:14:34+00:00",
   "122122582857299008": "2026-11-09T13:24:51+00:00",
   "122122583139299008": "2026-11-09T13:26:07+00:00",
   "122122583295299008": "2026-11-09T13:27:10+00:00",
@@ -284,7 +278,6 @@
   "122123441793415639": "2026-11-12T17:54:57+00:00",
   "122123540439415639": "2026-11-13T10:15:03+00:00",
   "122123583435415639": "2026-11-13T14:37:42+00:00",
-  "122123762799303172": "2026-11-01T18:14:42+00:00",
   "122123787645415639": "2026-11-14T19:42:30+00:00",
   "122123887773415639": "2026-11-15T10:20:29+00:00",
   "122125198455303172": "2026-11-09T13:24:56+00:00",
@@ -394,128 +387,6 @@
   "1260826840455724_122129327679441679": "2026-11-15T14:18:40+00:00"
  },
  "slots": {
-  "2026-11-02 00:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122116612916633539_1129763396621094",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122116612880633539",
-       "post_id": "1032441206625600_122116612916633539",
-       "status": "done"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122108674928457428_1486638359977615",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122108674898457428",
-       "post_id": "1058598924006917_122108674928457428",
-       "status": "done"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122121836175299008_1425295639672864",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:35+04:00",
-       "mode": "schedule",
-       "photo_id": "122121836139299008",
-       "post_id": "1079295351933311_122121836175299008",
-       "status": "done"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122123762829303172_2316017768943194",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122123762799303172",
-       "post_id": "1145306638657445_122123762829303172",
-       "status": "done"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122120083341409328_2039609310077413",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:28+04:00",
-       "mode": "schedule",
-       "photo_id": "122120083311409328",
-       "post_id": "1202025962997153_122120083341409328",
-       "status": "done"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122121939159415639_1610197573914824",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:31+04:00",
-       "mode": "schedule",
-       "photo_id": "122121939129415639",
-       "post_id": "1250374694822508_122121939159415639",
-       "status": "done"
-      }
-     },
-     "title": "À 71 ans, elle gagne 89 millions de dollars en secret. Trois mois plus tard, son fils lui demande quand elle partira enfin, et six jours après, elle achète la maison de leurs rêves",
-     "warnings": [
-      "длина текста FB 1252 слов (исходник 1008, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 7264,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-02T00:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/865483901_122129895573376137_8178840636118132276_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TW6-P_rrQfUQ7kNvwH53kdD&_nc_oc=Ado2pIXB8Uhei_w9LyGRCWEl_GXNSThnM2ZlWHwqq1M2nYFJDpK247rRXIbZ8h4Gb3s&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=hG9Qz7EwVM2NxTPHvn-mwA&_nc_tpa=Q5bMBQIr51QVs1qnUX6cXvtoJRtdrzh3BY0RUGuQyPmeXi3RLmZcGuT6KfOwHeRBGyljCozMCVvFjjVU6g&oh=00_AQQuWKHSvlGhOW1HfMT0mj8v4OaZp2EZXM6ujXf3d0zvsQ&oe=6AED3A7C",
-    "link": "https://www.facebook.com/share/p/19k78khQhV/",
-    "origin": "manual",
-    "page_id": "61591284134933",
-    "text": "At 71, I Won $89 Million and Kept It a Secret. Three Months Later, My Son Looked at Me Across the Dinner Table and Asked, “Mom, When Are You Finally Moving Out?” I Left Without Arguing. Six Days Later, I Purchased the Dream Home He and His Wife Had Lost — Through a Company Whose Name He’d Seen for Years Without Giving It a Second Thought.\nI’m Margaret Briggs, seventy-one years old.\nTwo years after my husband Harold passed away, I was still learning how grief could blur the difference between genuine care and being dependent on someone.\nAfter Harold died in Tucson, our son Daniel insisted I shouldn’t remain alone.\n“Move in with us, Mom,” he suggested.\n“At least until you feel comfortable living by yourself again.”\nI believed he meant well.\nI sold the house where Harold and I had spent thirty-eight years together.\nThe kitchen painted yellow.\nThe roses I’d lovingly maintained.\nThe porch where Harold drank tea every morning before leaving for work.\nI walked away from decades of memories and moved into Daniel and Renee’s home in Scottsdale.\nAt first, they made me feel wanted.\nGradually, though, my place in the family shifted.\nI started making the children’s school lunches.\nCollecting my grandchildren after soccer practice.\nPreparing dinner three nights a week.\nDoing everyone’s laundry.\nBabysitting whenever Daniel and Renee wanted a weekend away.\nNo one explicitly assigned me these duties.\nThey simply started treating them as my responsibility.\nAnd strangely, the more I did for everyone, the more invisible I became.\nRenee’s attitude changed before anyone else’s.\nInitially, she’d say, “Would you mind helping me?”\nLater, it was, “Could you take care of this?”\nEventually, she didn’t bother being polite.\n“I need this done.”\nDaniel wasn’t much different.\nHe stopped expressing appreciation.\nHe expected everything to be handled.\nOne afternoon, I walked past their bedroom and heard Renee talking behind the partially open door.\n“Your mother lives here without paying anything.”\nI froze.\n“Daniel, we cover the mortgage, utilities, groceries. Every single expense.”\nI waited for my son to say something.\nSurely he’d mention the hours I spent looking after their kids.\nThe dinners I prepared.\nThe clothes I washed.\nEverything I did to make their daily lives easier.\nBut Daniel only sighed.\n“I know.”\nTwo words.\nHe didn’t stand up for me.\nHe never mentioned my contributions.\nHe agreed with her.\nI carried that conversation with me for weeks.\nA few months afterward, Daniel and Renee became obsessed with a house they wanted to buy.\nIt was an older Craftsman-style property on Willow Creek Lane.\nFour bedrooms.\nA wide, welcoming porch.\nTall, established trees shading the yard.\nIt looked like the kind of place where generations of family memories could be made.\nThey talked about it endlessly.\nMy grandchildren debated who would get each bedroom.\nRenee created elaborate spreadsheets to plan their finances.\nDaniel spent hours working out mortgage figures.\nThey toured the house three separate times.\nThen, before they could make it theirs, another buyer offered cash for the entire property.\nThey lost it.\nFor weeks, the disappointment dominated their conversations.\nBut during that same period, my life had changed in a way none of them could imagine.\nThree months before the dinner that changed everything, I’d visited a gas station after a routine doctor’s appointment.\nWithout thinking much about it, I bought a lottery ticket.\nTwo days later, I looked up the results.\nEvery single number was correct.\nThe prize was $89 million.\nI stood motionless at the kitchen counter, staring at the ticket.\nThere was no screaming.\nNo jumping with excitement.\nI just kept looking at those numbers, unable to comprehend what had happened.\nI called an attorney first.\nThen I contacted a second one.\nWithin days, financial and legal specialists were arranging trusts, safeguarding my identity, and creating a plan to manage the money responsibly.\nWe held most meetings online while Daniel and Renee were away at their jobs.\nMy lawyers advised me not to change my lifestyle until the arrangements were complete.\nSo I kept preparing lunches.\nTaking the children to their activities.\nMaking dinner.\nWashing and folding laundry.\nNobody suspected a thing.\nThen came the night I would never forget.\nDaniel and Renee had been hinting at something for months.\nThey brought up senior living communities.\nMentioned that the children needed additional space as they grew.\nSuggested I might be happier in a home of my own.\nEvery conversation pointed toward the same conclusion.\nThat evening, they finally stopped hinting.\nRoast chicken was on the table.\nThe grandchildren were unusually silent.\nAt precisely 6:18 p.m., Daniel pushed his chair backward.\n“Mom?”\nI looked up.\nHe glanced at Renee, then spoke.\n“When are you going to start looking for another place to live?”\nSilence filled the room.\nMy granddaughter gently lowered her fork.\nMy grandson continued looking down at his plate.\nNeither seemed surprised.\nAnd that realization wounded me more deeply than the question itself.\nThey’d heard their parents discussing this before.\nEveryone at the table had known what was coming.\nExcept me.\nI slowly folded my napkin.\nPlaced it next to my dinner plate.\nAnd stood.\n“Excuse me.”\nI offered no argument.\nAsked for no justification.\nShed no tears in their presence.\nI just went outside.\nThe Arizona air smelled of dusty soil and lawns recently soaked by sprinklers.\nUnder the patio lights, I sat down with my notebook.\nI wrote five things I needed to do.\nMove out.\nStay calm.\nProtect my money.\nBuy a house that belonged to me.\nRemember exactly how they made me feel tonight.\nThe next morning, I called my lawyer.\nAfter that, I reached out to a real estate agent.\nDaniel and Renee remained completely unaware of what I had in mind.\nThe rest of the story is waiting in the comments below. Drop a “YES” and give us a Like if you’re ready to find out!",
-    "wp_media_id": 7259,
-    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-fr.jpg"
-   },
-   "source_key": "post:61591284134933_122129895657376137",
-   "status": "done"
-  },
   "2026-11-02 12:00": {
    "langs": {},
    "slot_iso": "2026-11-02T12:00:00+04:00",
