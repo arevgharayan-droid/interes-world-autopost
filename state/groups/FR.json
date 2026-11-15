@@ -4045,7 +4045,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1260826840455724": {
+       "attempts": 1,
+       "last_attempt": "2026-11-15T14:15:15+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "J'ai renvoyé ma femme de ménage pour avoir baigné mon bébé dans l'évier, sans l'écouter. Dix minutes plus tard, mon fils ne respirait plus",
      "warnings": [],
      "wp_error": null,
