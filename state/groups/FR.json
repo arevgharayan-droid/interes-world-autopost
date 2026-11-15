@@ -12,6 +12,7 @@
   "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
   "5475522c07f16a70e1ac": "2026-11-10T22:04:58+00:00",
+  "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
   "6c0634f76b40cdedbbd8": "2026-11-01T18:14:25+00:00",
   "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
   "7a8b9787a9038db6d1c3": "2026-11-10T22:06:09+00:00",
@@ -4027,9 +4028,74 @@
    "status": "missed"
   },
   "2026-11-15 15:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "J'ai renvoyé ma femme de ménage pour avoir baigné mon bébé dans l'évier, sans l'écouter. Dix minutes plus tard, mon fils ne respirait plus",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 376,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/885276960_122161452507362943_3734900056274708645_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9ez-8MvkopEQ7kNvwHB4S_P&_nc_oc=AdrzLPZor5S3CNexikps3Eme_F-Z6qEdkz9pXW-wYUoZHiS9G7S4PHU21hqti99BqJw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=D0IqX_dmTpFbr63Iwl-fRw&_nc_tpa=Q5bMBQIr3eeGod2EO4rgAZuf4g0ZlYJdUEXNZCrvi_OWgE5QSqL4LYYEb-LuZIAiRtwwpL222Sxg4VShTw&oh=00_AQSQ7hXeVwnyIKrJBQHkrX2jpZL9EBHJ6TSi8BMqAXc7og&oe=6AFF3E3E",
+    "link": "https://www.facebook.com/share/1CgwtjmGzF/",
+    "origin": "manual",
+    "page_id": "61590888316979",
+    "text": "I fired my housemaid for bathing my eight-month-old son in the kitchen sink, humiliating her without letting her explain. Ten minutes later, my baby stopped breathing in my arms, and I was begging God to save him. But when the doctor asked who had bathed my son, I realized the woman I'd thrown out might have been trying to warn me about something terrifying.\n\nMy name is Marcus Whitaker. I've made billions building companies, but one afternoon taught me how little my money was worth.\n\nI'd come home unexpectedly when I heard splashing from the kitchen.\n\nThere was my son, Zion, sitting in a plastic tub inside the sink, laughing as water slipped through his tiny fingers.\n\nAnd standing beside him was Emily, our new housemaid.\n\n\"WHAT DO YOU THINK YOU'RE DOING?\"\n\nEmily flinched.\n\n\"Sir, please. Margaret stepped outside, and Zion wouldn't stop crying. I was only trying to comfort him.\"\n\n\"You're not his nanny!\"\n\n\"I know, sir. But he was uncomfortable, and I noticed something...\"\n\n\"Enough!\"\n\nI snatched Zion from the tub and wrapped him in a towel.\n\nEmily reached toward us, then stopped.\n\n\"Mr. Whitaker, please listen. There's something about your son you need to know.\"\n\nI stared at her.\n\n\"You're fired. Get out of my house.\"\n\nHer eyes filled with tears.\n\n\"I wasn't trying to disobey you.\"\n\n\"I don't pay you to think. I pay you to follow orders.\"\n\nShe slowly removed her gloves and left.\n\nI thought I'd protected my child.\n\nThen, barely ten minutes later, Zion stopped moving.\n\nAt first, I thought he'd fallen asleep.\n\nBut his lips were blue.\n\n\"Zion?\"\n\nI touched his cheek.\n\nNothing.\n\n\"ZION!\"\n\nHis little chest barely moved.\n\nI screamed for an ambulance, clutching him against me.\n\n\"Please, buddy. Daddy's here. Please breathe.\"\n\nAt the hospital, doctors rushed him through the emergency doors.\n\nI stood outside, shaking, hearing Emily's unfinished warning over and over.\n\nWhat had she noticed?\n\nWhy hadn't I listened?\n\nFinally, a doctor approached.\n\n\"Your son is stable, Mr. Whitaker.\"\n\nI nearly collapsed.\n\n\"What happened to him?\"\n\nShe hesitated.\n\n\"Was your baby bathed shortly before he stopped breathing?\"\n\n\"Yes. My housemaid did it. I fired her.\"\n\nThe doctor's expression changed instantly.\n\n\"Where is that woman now?\"\n\n\"I... I sent her away.\"\n\nShe looked toward the emergency room, then back at me.\n\n\"Mr. Whitaker, there's something you need to understand about what happened in that kitchen...\"\n\n**NEXT PART and the FULL ENDING are coming. Type ‘YES’ and press ‘LIKE’ so we can post full story. Your [LIKE] helps these honest stories reach the people who need them most. Thank you for the support.**",
+    "wp_media_id": 374,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-1500-fr.jpg"
+   },
+   "source_key": "post:61590888316979_122161452663362943",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-15 18:00": {
    "langs": {},
@@ -4089,6 +4155,10 @@
   "link:59824bb55e5b6d3be0c7": {
    "link": "https://www.facebook.com/share/p/1JuRRpCpzd/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122146579899348565&id=61590456964686"
+  },
+  "link:5df38cd0c3d5a5eeb426": {
+   "link": "https://www.facebook.com/share/1CgwtjmGzF/",
+   "resolved": "https://www.facebook.com/61590888316979/posts/122161452663362943/?rdid=O1UYEbSCdlgZEaOg&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CgwtjmGzF%2F"
   },
   "link:6c98f7a6e9df9c6f6e13": {
    "link": "https://www.facebook.com/share/p/1FLZJMSYGV/",
@@ -4337,6 +4407,14 @@
    "origin": "manual",
    "page_id": "61590506886446",
    "slot": "2026-11-11 15:00",
+   "status": "used"
+  },
+  "post:61590888316979_122161452663362943": {
+   "fingerprint": "3b4c89e85d87e6ef2cfe",
+   "link": "https://www.facebook.com/share/1CgwtjmGzF/",
+   "origin": "manual",
+   "page_id": "61590888316979",
+   "slot": "2026-11-15 15:00",
    "status": "used"
   },
   "post:61591284134933_122129895657376137": {
