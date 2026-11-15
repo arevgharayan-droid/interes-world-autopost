@@ -4383,7 +4383,7 @@
        "mode": "schedule",
        "photo_id": "122120175549505599",
        "post_id": "1448441201677530_122120175579505599",
-       "status": "scheduled"
+       "status": "failed_final"
       }
      },
      "title": "Encontrei minha mãe de 82 anos dormindo de casaco dentro de casa, e o que minha irmã pôs sobre a mesa na Páscoa mudou tudo",
@@ -4456,7 +4456,7 @@
        "mode": "schedule",
        "photo_id": "122127734721311884",
        "post_id": "1129620776897151_122127734751311884",
-       "status": "published"
+       "status": "failed_final"
       },
       "1164575726728296": {
        "attempts": 1,
@@ -4492,7 +4492,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261115-0000-ru.jpg"
    },
    "source_key": "post:100045261260562_1715264366658922",
-   "status": "in_progress",
+   "status": "done_with_errors",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
