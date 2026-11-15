@@ -11,6 +11,7 @@
   "15be0b388fcdf33795f9": "2026-11-10T22:02:31+00:00",
   "16dff82487a20e2b89e6": "2026-11-10T22:04:40+00:00",
   "18ce6ab9d592b0877673": "2026-11-14T11:39:08+00:00",
+  "20a7a509199cfbe519fc": "2026-11-15T14:18:37+00:00",
   "282775455f9afac79cda": "2026-11-10T22:03:35+00:00",
   "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
   "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
@@ -22,6 +23,7 @@
   "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
   "69fca282f43c87f63475": "2026-11-14T19:42:34+00:00",
   "6a5fb8d3a145316fa770": "2026-11-12T09:04:19+00:00",
+  "6f01f72feadb6fecb5ce": "2026-11-15T14:18:37+00:00",
   "76987c00bbd404e3cd24": "2026-11-12T10:26:46+00:00",
   "7b147e020095c6199d1d": "2026-11-10T22:05:36+00:00",
   "81de3c9a0a991fc9bf6a": "2026-11-09T20:03:33+00:00",
@@ -3758,7 +3760,63 @@
    }
   },
   "2026-11-15 18:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mit nur 17 Dollar auf dem Konto und im fünften Monat schwanger demütigte mich mein reicher Ex im Supermarkt – bis der gefürchtetste Mafiaboss Chicagos auf mich zukam",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 407,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vijf maanden zwanger en met $17 op mijn rekening vernederde mijn rijke ex me in de supermarkt, tot de gevreesdste maffiabaas van Chicago binnenstapte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 406,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/860039170_122157060213362943_6495037335309785463_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MUJ8mYblnKsQ7kNvwHpaIP9&_nc_oc=Adq03O9IHp08fLaUWqsU86l_OiLKHVXC-GuOyX6Ahwp9ulsYjDW5-ApGxhpmXVPbCIg&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=kGORFvS2gktILNu50liSTw&_nc_tpa=Q5bMBQKzs118Ed8JFWQ2f_47h90dVEwlc58NlkbU1MBzxTtb7NoiA1Kx1KI5r4FelYYFoYrIvbcV638aJQ&oh=00_AQQervStl5ePr0IDWcEA-OUerOEAGvmKgmmne6mzDvVhJg&oe=6AFF80F7",
@@ -3770,7 +3828,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-1800-nl.jpg"
    },
    "source_key": "post:61590888316979_122157060381362943",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4129,7 +4187,7 @@
    "origin": "manual",
    "page_id": "61590888316979",
    "slot": "2026-11-15 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61593333781016_122121657273444459": {
    "fingerprint": "6eeffd4c3330475d09bf",

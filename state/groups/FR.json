@@ -3953,7 +3953,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1260826840455724": {
+       "attempts": 1,
+       "last_attempt": "2026-11-15T18:18:35+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Ma fille de 5 ans a disparu pendant nos vacances en famille : quatre ans plus tard, mon neveu m'a murmuré « Tatie, je sais qui l'a emmenée…",
      "warnings": [],
      "wp_error": null,
