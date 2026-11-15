@@ -10,10 +10,12 @@
   "0be0bfc1cc6b59ac3e3b": "2026-11-10T22:07:29+00:00",
   "0ddb611a8e43cef9f763": "2026-11-10T22:07:29+00:00",
   "0febb3e08517debf9ca4": "2026-11-12T09:04:38+00:00",
+  "10f20c4033c5982d7320": "2026-11-15T10:15:20+00:00",
   "151eb58f03724b2a8ed0": "2026-11-09T20:03:21+00:00",
   "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
   "17291d408906d44b96db": "2026-11-14T11:40:46+00:00",
   "1955c9dccca6e5edee35": "2026-11-14T11:40:46+00:00",
+  "285546559f89fcbaefe2": "2026-11-15T10:15:20+00:00",
   "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
   "30660871dadba458ebbe": "2026-11-09T20:02:09+00:00",
   "33582b0afea138144804": "2026-11-12T20:02:43+00:00",
@@ -32,6 +34,7 @@
   "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
   "5efa9fb5844a5d5a2b35": "2026-11-14T09:18:33+00:00",
   "5fe659aaf3f073ce93ab": "2026-11-10T22:04:30+00:00",
+  "621d8638ecdca37c7909": "2026-11-15T10:15:20+00:00",
   "66da1067d99e1be59d56": "2026-11-12T10:26:34+00:00",
   "6a9dc74cd9fef54c67d7": "2026-11-10T22:03:12+00:00",
   "6ad19445c3c2f9ca584e": "2026-11-09T20:00:50+00:00",
@@ -4420,7 +4423,77 @@
    "status": "missed"
   },
   "2026-11-15 15:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Aos 60 anos, a minha mãe adotiva riu na cozinha e confessou o segredo que nos escondeu durante vinte anos",
+     "warnings": [
+      "длина текста FB 636 слов (исходник 804, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 210,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Мы с братом выросли с мыслью, что мать нас бросила, но в день рождения приёмной матери я услышал на её кухне то, что перевернуло всю мою жизнь",
+     "warnings": [
+      "длина текста FB 606 слов (исходник 804, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 208,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Evlat Edinildiğimiz Yirmi Yıl Sonra Annemin Mutfakta Söylediği Cümle Tüm Hayatımızın Bir Yalan Olduğunu Ortaya Çıkardı",
+     "warnings": [
+      "длина текста FB 457 слов (исходник 804, цель ±10%)",
+      "длина статьи 585 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 209,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-15T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/899629085_122143702683234210_4682623422236613813_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4uPYY9RhB5sQ7kNvwEPL8kB&_nc_oc=AdqNceKyhEB6zL6HS15ks7iZ1c0JdiZK5AdcEX0ga8DdfBeCgYsL7qp_FL2ZiirZQvo&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=RegQcyNNru_OU885z8HLHw&_nc_tpa=Q5bMBQK2k6UvZ9ai41EbwwJSLIxWD1qn_s3o9UQwPmeqwiwVv1HI80kdKazN7qlaUsSc1kgVjyYIX7Jv0Q&oh=00_AQSB5FbDedR_F3BSfHgp4CZLr9u9596qKacQBE_bPa_oww&oe=6AFF66ED",
@@ -4432,7 +4505,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261115-1500-ru.jpg"
    },
    "source_key": "post:61587026316282_122143702713234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4733,7 +4806,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-15 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587032195586_122142084927234406": {
    "fingerprint": "f5dda1e15fa669b42a02",
