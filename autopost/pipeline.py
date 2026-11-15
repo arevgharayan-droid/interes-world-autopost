@@ -591,6 +591,8 @@ class Pipeline:
                     continue
                 if self.pacer.owner(page.page_id) in self.pacer.stopped:
                     continue          # Facebook ограничил частоту — страницы этого пользователя не дёргаем
+                if mode == "schedule" and self.now() > dt - timedelta(minutes=11):
+                    continue          # медленный темп: отложить уже нельзя (Facebook — минимум 10 мин), выйдет сразу в срок
                 if mode == "immediate" and e.get("last_attempt"):
                     # лента страницы обновляется с задержкой — не спешим с повтором
                     if now - datetime.fromisoformat(e["last_attempt"]) < timedelta(minutes=5):
