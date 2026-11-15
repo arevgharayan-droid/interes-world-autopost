@@ -3,7 +3,6 @@
  "fb_block_until": "2026-11-14T14:15:14+04:00",
  "output_fps": {
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
-  "2116a560bb8b542f0caf": "2026-11-01T18:14:23+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
@@ -339,7 +338,6 @@
   "122104922660533031": "2026-11-14T19:44:09+00:00",
   "122104939892533031": "2026-11-15T10:18:03+00:00",
   "122104948394533031": "2026-11-15T14:14:45+00:00",
-  "122107742624506427": "2026-11-01T18:14:41+00:00",
   "122108069942506427": "2026-11-09T13:24:47+00:00",
   "122108070176506427": "2026-11-09T13:26:09+00:00",
   "122108070494506427": "2026-11-09T13:27:31+00:00",
@@ -368,7 +366,6 @@
   "122108285390506427": "2026-11-14T19:43:18+00:00",
   "122108312126506427": "2026-11-15T10:16:27+00:00",
   "122108321804506427": "2026-11-15T14:13:53+00:00",
-  "122109302090543006": "2026-11-01T18:14:50+00:00",
   "122109971504543006": "2026-11-09T13:24:57+00:00",
   "122109971708543006": "2026-11-09T13:26:19+00:00",
   "122109972008543006": "2026-11-09T13:27:39+00:00",
@@ -397,7 +394,6 @@
   "122110332500543006": "2026-11-14T19:43:32+00:00",
   "122110373822543006": "2026-11-15T10:16:50+00:00",
   "122110383290543006": "2026-11-15T14:14:06+00:00",
-  "122111035460456562": "2026-11-01T18:14:46+00:00",
   "122111383712456562": "2026-11-09T13:24:52+00:00",
   "122111383970456562": "2026-11-09T13:26:15+00:00",
   "122111384252456562": "2026-11-09T13:27:35+00:00",
@@ -426,7 +422,6 @@
   "122111647178456562": "2026-11-14T19:43:24+00:00",
   "122111669942456562": "2026-11-15T10:16:37+00:00",
   "122111678396456562": "2026-11-15T14:14:00+00:00",
-  "122112374588437662": "2026-11-01T18:14:37+00:00",
   "122112767150437662": "2026-11-09T13:24:44+00:00",
   "122112767354437662": "2026-11-09T13:26:06+00:00",
   "122112767618437662": "2026-11-09T13:27:26+00:00",
@@ -540,7 +535,6 @@
   "122132924577308548": "2026-11-14T19:44:01+00:00",
   "122133006693308548": "2026-11-15T10:17:38+00:00",
   "122133039639308548": "2026-11-15T14:14:34+00:00",
-  "122133560397400586": "2026-11-01T18:14:32+00:00",
   "122135316273400586": "2026-11-09T13:24:38+00:00",
   "122135316507400586": "2026-11-09T13:26:00+00:00",
   "122135317155400586": "2026-11-09T13:27:22+00:00",
@@ -566,7 +560,6 @@
   "122136279375400586": "2026-11-14T10:23:13+00:00",
   "122136279969400586": "2026-11-14T10:26:44+00:00",
   "122136291321400586": "2026-11-14T11:39:53+00:00",
-  "122136330537311525": "2026-11-01T18:14:28+00:00",
   "122136370557400586": "2026-11-14T19:43:06+00:00",
   "122136523305400586": "2026-11-15T10:15:52+00:00",
   "122136557985400586": "2026-11-15T14:13:40+00:00",
@@ -598,8 +591,6 @@
   "122138599467311525": "2026-11-14T19:42:54+00:00",
   "122138668665311525": "2026-11-15T10:15:29+00:00",
   "122138691183311525": "2026-11-15T14:13:35+00:00",
-  "122138868062808945": "2026-11-01T18:14:59+00:00",
-  "122139355118811401": "2026-11-01T18:14:54+00:00",
   "122139952934808945": "2026-11-09T13:25:07+00:00",
   "122139953234808945": "2026-11-09T13:26:27+00:00",
   "122139953360808945": "2026-11-09T13:27:49+00:00",
@@ -685,148 +676,6 @@
   "997772916762884_122113075742437662": "2026-11-15T14:13:46+00:00"
  },
  "slots": {
-  "2026-11-02 00:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1030877436782212": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122138868092808945_2193667891244935",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122138868062808945",
-       "post_id": "1030877436782212_122138868092808945",
-       "status": "done"
-      },
-      "1064982806700854": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122111035490456562_2898396950524331",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122111035460456562",
-       "post_id": "1064982806700854_122111035490456562",
-       "status": "done"
-      },
-      "1079964265201139": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122107742654506427_1429590522081414",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:37+04:00",
-       "mode": "schedule",
-       "photo_id": "122107742624506427",
-       "post_id": "1079964265201139_122107742654506427",
-       "status": "done"
-      },
-      "1114015015119414": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122139355148811401_2717852145336646",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122139355118811401",
-       "post_id": "1114015015119414_122139355148811401",
-       "status": "done"
-      },
-      "1140835409106424": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122109302120543006_1712139064286510",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:47+04:00",
-       "mode": "schedule",
-       "photo_id": "122109302090543006",
-       "post_id": "1140835409106424_122109302120543006",
-       "status": "done"
-      },
-      "1142735408923607": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122136330567311525_1380771530798375",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:25+04:00",
-       "mode": "schedule",
-       "photo_id": "122136330537311525",
-       "post_id": "1142735408923607_122136330567311525",
-       "status": "done"
-      },
-      "1160223747182678": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122133560427400586_1448888170172718",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:29+04:00",
-       "mode": "schedule",
-       "photo_id": "122133560397400586",
-       "post_id": "1160223747182678_122133560427400586",
-       "status": "done"
-      },
-      "997772916762884": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122112374618437662_1123762100377990",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:33+04:00",
-       "mode": "schedule",
-       "photo_id": "122112374588437662",
-       "post_id": "997772916762884_122112374618437662",
-       "status": "done"
-      }
-     },
-     "title": "Tornata dalla missione con tre settimane di anticipo, trovo mia figlia di 4 anni sola e affamata: poi il grido di mio marito sull'armadio chiuso a chiave",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 7263,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-02T00:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/861788992_122129839767376137_4950462556525273092_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ADvlyK-lKpMQ7kNvwGToUcc&_nc_oc=Adr_EQq1xhKxLHUrLKyfmUmtSzXJtfGmnMFF3GCcuMKyBYNunL0iLDZbYvXvviV3-hM&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=3HcuKJf7WiF9wYBOrpmhDA&_nc_tpa=Q5bMBQIxqacAdKlcU4iNobQAKmQim8b48D4mZxaAJSmNZuNkFUtxv1MfqGO05jBVjRHlMSl_Cp8LzIr2gQ&oh=00_AQS8PqquPUUDzCHwu2M21gjYNRDZ25r65HQySAsTyEl7pg&oe=6AED6B16",
-    "link": "https://www.facebook.com/share/p/1JZKGEfkuo/",
-    "origin": "manual",
-    "page_id": "61591284134933",
-    "text": "I came home from deployment three weeks early, hoping to surprise my husband and our four-year-old daughter. Instead, I found our house in ruins, my little girl starving and alone, and my husband enjoying a Caribbean cruise with his relatives. When I confronted him, he screamed something that silenced everyone: “Whatever happens, don’t open the hallway closet!”\nMy duffel bag fell from my hand when I saw Lily.\nShe sat on the wooden floor, clutching a filthy cereal bowl against her chest. Her face looked thinner than I remembered.\n“Mommy?” she whispered. “Is it really you?”\nI knelt beside her.\n“I’m here, sweetheart.”\nShe touched my face with both hands, as though making sure I was real.\nThen she clung to my neck and began crying silently.\nI’m Major Hannah Nolan, an Army intelligence officer. I’d just returned to Chesapeake, Virginia, after six months serving overseas.\nMy deployment had ended three weeks early.\nDerek had no idea I was returning home.\nThe house was a mess.\nRotting food covered the countertops. Trash overflowed from the bins, and a terrible smell filled the kitchen.\nWorst of all, my little daughter looked dangerously thin.\n“Where’s Daddy, Lily?”\n“He’s on the big boat.”\nMy chest tightened immediately.\n“Who’s taking care of you?”\nShe pointed toward the hallway.\n“Nobody. Grandma said Mrs. Price would bring me crackers.”\nI immediately called 911.\nWhile speaking with the dispatcher, I gave Lily a few small sips of water and carefully fed her two spoonfuls of applesauce from my field bag.\n“Sweetheart, how long has Daddy been gone?”\nShe raised three fingers.\nThree days.\nMy four-year-old had been left alone for seventy-two hours.\nParamedics arrived quickly and began checking Lily.\nOfficer Marcus Bell searched each room while I opened Derek’s social media.\nThere he was.\nStanding aboard a Caribbean cruise ship, grinning beside his mother Patricia, his sister Jenna, and other relatives.\nThe photograph had been posted just hours earlier.\nThen I checked our bank account.\nNearly $19,000 had vanished.\nMy latest military salary, our emergency fund, everything.\nThe transactions included cruise purchases, excursions, and payments toward Derek’s personal credit cards.\nSuddenly, our neighbor Evelyn Price rushed inside.\n“I saw Lily looking out the window yesterday,” she explained breathlessly. “I spoke through your doorbell camera, but a man told me the babysitter was upstairs.”\nOfficer Bell looked straight at her.\n“There isn’t any babysitter here.”\nThen my phone rang.\nDerek was calling.\nI answered with the speaker on.\n“Hannah? Why are you home already?”\nLoud music and laughter came from the background.\n“Derek, who was supposed to be watching our daughter?”\nHe went silent.\nThen he replied, “The sitter canceled. Mom said Evelyn would check on Lily.”\n“You left our four-year-old alone for three days.”\n“Lower your voice. We’re coming back Sunday.”\n“There are police officers in our house.”\nThe party sounds suddenly seemed farther away.\n“What have you done?”\n“I came home.”\nHis breathing grew unsteady.\n“Hannah, listen carefully. Don’t allow them to search the house.”\nOfficer Bell looked toward me.\n“This is my home,” I replied. “Why shouldn’t they look around?”\nDerek’s voice began to shake.\n“Don’t go near the linen closet in the hallway.”\nEveryone turned toward the door.\nA heavy brass padlock was fastened around its handles.\nI’d never seen that lock before.\nOfficer Bell walked toward it.\nSuddenly, Derek screamed so loudly the phone speaker distorted.\n“OPEN THAT AND YOU’LL RUIN EVERYTHING!”\nNobody moved for several seconds.\nThe Caribbean vacation no longer seemed like the biggest problem.\nNeither did our missing savings or the fake babysitter.\nSomething behind that locked door had terrified my husband.\nOfficer Bell examined the padlock.\n“Was this closet secured when you left for deployment?”\n“No.”\n“Did you give your husband permission to lock anything inside?”\n“Absolutely not.”\nA paramedic was taking Lily toward the ambulance when she glanced back at the closet.\nThen she said something that made my blood run cold.\n“Daddy said I must never open that door.”\nOfficer Bell turned toward her.\n“Did he tell you why?”\nShe shook her head.\n“He said Mommy would get angry if I found his papers.”\nPapers?\nDerek was still yelling through the phone.\n“Hannah, make him stop! You don’t know what you’re doing!”\nI stared at the padlock.\nI thought about the missing $19,000, the filthy house, the imaginary sitter, and my husband partying at sea while our daughter struggled to survive.\nOfficer Bell returned with bolt cutters.\nThe metal handles clinked together.\nDerek heard the sound through the speaker.\n“No,” he whispered. “Hannah, please.”\nFor the first time, he sounded truly frightened.\nOfficer Bell positioned the cutters around the brass lock.\nI held my phone close enough for Derek to hear.\n“Go ahead. Open it.”\nThen the bolt cutters clamped shut.\nYou won’t believe what happens next—the rest of the story is waiting in the comments. Please leave a “YES” and give us a Like if you want the full story. Thanks for your patience! 👇",
-    "wp_media_id": 7254,
-    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-it.jpg"
-   },
-   "source_key": "post:61591284134933_122129839845376137",
-   "status": "done"
-  },
   "2026-11-02 12:00": {
    "langs": {},
    "slot_iso": "2026-11-02T12:00:00+04:00",
