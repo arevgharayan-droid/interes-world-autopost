@@ -50,7 +50,6 @@
   "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
   "8d212afd28041fbd462e": "2026-11-09T20:00:50+00:00",
   "8d9c5dde4968ee4bd37e": "2026-11-09T20:03:21+00:00",
-  "8e4386a701b76151555b": "2026-11-01T18:14:18+00:00",
   "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
   "9080b378741e8f08ec4a": "2026-11-10T22:08:57+00:00",
   "950641cc5f0ddd9580f6": "2026-11-09T20:08:16+00:00",
@@ -201,7 +200,6 @@
   "122117226411471857": "2026-11-14T19:43:37+00:00",
   "122117373993471857": "2026-11-15T10:16:04+00:00",
   "122117423553471857": "2026-11-15T14:15:38+00:00",
-  "122117461586640467": "2026-11-01T18:14:25+00:00",
   "122117985776640467": "2026-11-09T13:25:08+00:00",
   "122117985878640467": "2026-11-09T13:26:17+00:00",
   "122117986256640467": "2026-11-09T13:27:21+00:00",
@@ -299,7 +297,6 @@
   "122127612477311884": "2026-11-13T14:37:55+00:00",
   "122127734721311884": "2026-11-14T19:43:14+00:00",
   "122127790005311884": "2026-11-15T10:33:05+00:00",
-  "122133429746733774": "2026-11-01T18:14:28+00:00",
   "122134723196733774": "2026-11-09T13:25:13+00:00",
   "122134723514733774": "2026-11-09T13:26:21+00:00",
   "122134723766733774": "2026-11-09T13:27:25+00:00",
@@ -324,7 +321,6 @@
   "122135253536733774": "2026-11-13T14:37:49+00:00",
   "122135404190733774": "2026-11-14T19:42:58+00:00",
   "122135483174733774": "2026-11-15T10:23:59+00:00",
-  "122138406332737651": "2026-11-01T18:14:31+00:00",
   "122139569858737651": "2026-11-09T13:25:18+00:00",
   "122139570074737651": "2026-11-09T13:26:26+00:00",
   "122139570344737651": "2026-11-09T13:27:30+00:00",
@@ -426,93 +422,6 @@
   "988042774402200_122135483204733774": "2026-11-15T10:23:59+00:00"
  },
  "slots": {
-  "2026-11-02 00:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122117461616640467_1005799619230064",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:21+04:00",
-       "mode": "schedule",
-       "photo_id": "122117461586640467",
-       "post_id": "1008693642337213_122117461616640467",
-       "status": "done"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122138406362737651_1788986199018460",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:28+04:00",
-       "mode": "schedule",
-       "photo_id": "122138406332737651",
-       "post_id": "1125676667286378_122138406362737651",
-       "status": "done"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122133429776733774_2331959780889924",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:25+04:00",
-       "mode": "schedule",
-       "photo_id": "122133429746733774",
-       "post_id": "988042774402200_122133429776733774",
-       "status": "done"
-      }
-     },
-     "title": "Грозный мафиози в розовой пачке: что девочка из детского дома написала в конверте, который перевернул его жизнь",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 7262,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-02T00:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/865970466_122143810719210709_944212651413668717_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=p8WIO43Cw3YQ7kNvwEAwzfE&_nc_oc=Adq7x8LA57sS4nmabdfjwgL614zNCOUsXzHXaxuumDqjEQ9MtMUgQAuh1VveZZTf5wY&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6OBadtAIcxLYGXfSPQzWyg&_nc_tpa=Q5bMBQJs6G0O95RVXD1OoHL1QH5te_WE0DXtShApeoTR-8aqNi1g0iFxX9t3hqZCqCZnPSfi-4LNdYYZrw&oh=00_AQSAYsDoYXWaoerIv1vneGlZwPeub0RIV_a9R8KhPoyYdA&oe=6AED4108",
-    "link": "https://www.facebook.com/share/p/1K2GUhK6vD/",
-    "origin": "manual",
-    "page_id": "61586321290305",
-    "text": "“ARMS UP, MR. DINOSAUR!”\n\nI raised both arms.\n\n“Higher!”\n\nI obeyed.\n\n“Now smile! You're supposed to be a beautiful swan, not an angry refrigerator!”\n\nBehind me, Marco, my security chief, exploded with laughter.\n\nI turned slowly.\n\nMarco immediately covered his mouth.\n\nBut it was too late.\n\n“YOU'RE FIRED!” a tiny voice shouted.\n\nSix-year-old Lily Harper pointed toward the ballroom doors.\n\n“Fired from ballet! You don't respect the dancers!”\n\nFor the first time in twenty years, I watched one of New York's most dangerous men apologize to a little girl.\n\nAnd somehow, I was the one standing in a pink tutu.\n\nMy name is Dominic Moretti.\n\nI'm forty-one years old, six-foot-six, and the man newspapers call New York's most feared crime boss.\n\nI've built a billion-dollar empire, survived assassination attempts, and made powerful men tremble with a single phone call.\n\nBut nothing in my life prepared me for Lily Harper.\n\nI met her three weeks earlier at St. Catherine's Children's Home, a place my late mother's foundation had supported for decades.\n\nI rarely visited personally.\n\nThat morning, however, the director had asked me to attend the opening of a new rehabilitation center.\n\nI arrived with twelve bodyguards.\n\nChildren stared at us from the hallway.\n\nSome looked frightened.\n\nOthers whispered.\n\nThen a little girl in a wheelchair decorated with purple butterflies rolled directly into my path.\n\nShe held a pink envelope above her head.\n\n“EXCUSE ME, MISTER! I HAVE AN EMERGENCY!”\n\nAll twelve bodyguards stiffened.\n\nMarco stepped forward.\n\nBut I raised my hand.\n\n“What kind of emergency, princess?”\n\nShe shoved the envelope into my palm.\n\n“My ballet show is next month. Everyone needs a daddy to dance with them, but I don't have one.”\n\nI opened the envelope.",
-    "wp_media_id": 7256,
-    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-ru.jpg"
-   },
-   "source_key": "post:61586321290305_122143810737210709",
-   "status": "done"
-  },
   "2026-11-02 12:00": {
    "langs": {},
    "slot_iso": "2026-11-02T12:00:00+04:00",
