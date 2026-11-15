@@ -15,7 +15,6 @@
   "282775455f9afac79cda": "2026-11-10T22:03:35+00:00",
   "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
   "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
-  "3b17ef7d9630be534518": "2026-11-01T18:14:37+00:00",
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
@@ -205,7 +204,6 @@
   "122134529739306170": "2026-11-14T19:42:56+00:00",
   "122134594833306170": "2026-11-15T10:16:15+00:00",
   "122134611459306170": "2026-11-15T14:18:58+00:00",
-  "122200826948922316": "2026-11-01T18:14:47+00:00",
   "122202019136922316": "2026-11-09T13:24:37+00:00",
   "122202019400922316": "2026-11-09T13:26:03+00:00",
   "122202019574922316": "2026-11-09T13:26:52+00:00",
@@ -230,7 +228,6 @@
   "122202538160922316": "2026-11-13T14:37:44+00:00",
   "122202688082922316": "2026-11-14T19:42:47+00:00",
   "122202762968922316": "2026-11-15T10:21:22+00:00",
-  "122219995538930012": "2026-11-01T18:14:43+00:00",
   "122221801568930012": "2026-11-09T13:24:32+00:00",
   "122221802120930012": "2026-11-09T13:25:58+00:00",
   "122221802282930012": "2026-11-09T13:26:47+00:00",
@@ -342,82 +339,6 @@
   "715935674934966_122202763010922316": "2026-11-15T12:05:22+00:00"
  },
  "slots": {
-  "2026-11-02 00:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "633031599904551": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122219995568930012_1144761674611880",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:40+04:00",
-       "mode": "schedule",
-       "photo_id": "122219995538930012",
-       "post_id": "633031599904551_122219995568930012",
-       "status": "done"
-      },
-      "715935674934966": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122200826978922316_1864166544770609",
-       "error": null,
-       "last_attempt": "2026-11-01T22:14:44+04:00",
-       "mode": "schedule",
-       "photo_id": "122200826948922316",
-       "post_id": "715935674934966_122200826978922316",
-       "status": "done"
-      }
-     },
-     "title": "Een meisje van drie trok haar haarband af, en de meest gevreesde man van Chicago zakte door zijn knieën",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 7265,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-02T00:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/861255290_122160366381068612_294654609163285351_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lnwweLiYhh4Q7kNvwG3m2Kz&_nc_oc=Adp04XNulS6_QGOFMZaV52PFE0c7m_LIKnQhu4lAYP1tUm7wXP8QPqgwkgDkgJP034o&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=W5YdlPSQab-KlEWH57bmEw&_nc_tpa=Q5bMBQJtondtvrns-RWkTNzwQCDk6qnuDellaErNc-LZnivj7G2UMyf_jcclVhzNEowCDsaB-9ZVTp9kZw&oh=00_AQTG6Tztwz91yx0Sr091yjjF3aRW__ETnt3J2ehn57lGrg&oe=6AED6FF6",
-    "link": "https://www.facebook.com/share/p/14uuaFHm2P2/",
-    "origin": "manual",
-    "page_id": "61582058363232",
-    "text": "“Mister, I have tattoos like you!” Three-year-old Lily Parker stood on the third marble step of Greystone House with both sleeves pushed to her elbows and a black washable marker still clutched in one fist.\nDamian Vescari stopped in the entrance hall.\nSo did the two men behind him.\nIn Chicago, grown men had been known to forget what they were saying when Damian Vescari entered a room.\nLily did not even blink.\nShe proudly displayed the crooked black drawings covering her tiny arms.\nThere were waves across one wrist.\nFour dots across her knuckles.\nA badly shaped star on the side of her neck.\nAnd something on her forearm that might have been a lighthouse, a tree, or a very confused giraffe.\n“I made them myself,” she announced.\nDamian stared.\nThen something happened that nobody in Greystone House had heard in almost four years.\nHe laughed.\nNot the polite breath of amusement he sometimes gave businessmen.\nNot the cold half-smile that warned someone they had said too much.\nHe threw his head back and actually laughed.\nOne of the guards near the front door looked at the other as if the chandelier had just started speaking.\nLily beamed.\n“Now I look like you.”\n“God help us,” Damian said.\nLily giggled.\nThen she reached up.\n“My hair is hot.”\nBefore anyone could stop her, she pulled off the wide knitted headband she wore almost every day.\nDamian’s laughter stopped.\nThe headband dangled from Lily’s fingers.\nAt her left temple, beneath her pale golden hair, ran a single lock of pure white.\nDamian’s overcoat slipped from his hand.\nIt hit the marble floor.\nNo one moved to pick it up.\nThe little girl continued smiling.\n“See?”\nDamian went down on one knee.\nHis face had lost all color.\nThe white streak was narrow, beginning at the hairline and disappearing into the gold above her ear.\nExactly like his.\nExactly like his father’s.\nExactly like his grandmother’s.\nDamian had spent most of his adult life dyeing his own streak black.\nThere were family photographs locked in his study showing three generations of Vescari men carrying that same unmistakable mark.\nDamian lifted his eyes from Lily’s hair to her face.\nAnd for one terrible second, the marble entrance hall disappeared.\nHe saw another face.\nGray-blue eyes.\nA soft chin.\nA woman standing in the rain four years earlier with tears running down her cheeks.\nIsabelle.\nHis wife.\nThe woman he had loved more than anything in the world.\nThe woman he had thrown out of his house.\nThe woman who had vanished six months later.\n“Mister?”\nLily’s voice pulled him back.\n“Are you sad?”\nDamian swallowed.\n“No, sweetheart.”\nHe touched the white streak with one shaking finger.\n“I’m surprised.”\nElena Parker appeared in the kitchen archway.\nShe was twenty-nine, slight, brown-haired, usually so calm that half the staff joked she could carry a tray through an earthquake without spilling coffee.\nNow she froze.\nHer eyes moved from Lily’s missing headband to Damian kneeling before her.\nThe dish towel fell from Elena’s hand.\nDamian looked across the hall at her.\nFor ten months, Elena had worked as a live-in housekeeper at Greystone.\nFor ten months, Lily had wandered through his halls with a stuffed rabbit called Mr. Bun, leaving crayons on expensive furniture, dandelions on his desk and fingerprints on windows that servants were too terrified to leave dirty.\nDamian had barely noticed Elena when she first arrived.\nHe had noticed Lily.\nIt had been impossible not to.\nShe walked into his private study during telephone calls.\nShe once asked whether his neck tattoo had hurt.\nShe once gave him half a lollipop because, according to her, he “looked grumpy.”\nSomewhere along the way, Damian had stopped ordering guards to keep her away.\nThen he had begun listening for her footsteps.\nHe had never understood why.\nNow Elena’s face told him she knew something.\n“Enzo.”\nDamian’s voice was low.\nHis security chief appeared almost instantly.\n“Clear the hall.”\nEnzo looked at his employer.\nThen at Lily.\nThen at Elena.\nHe asked no questions.\nWithin seconds, the guards were gone and the heavy doors were closed.\nDamian rose.\n“Lily, go upstairs with your mother.”\nElena flinched at the word mother.\nIt was tiny.\nAlmost invisible.\nDamian saw it.\nLily picked up Mr. Bun from the stairs.\n“Okay, Mister.”\nShe took Elena’s hand and disappeared upstairs.\nDamian remained in the silent hall.\nHis heart had not beaten this hard since the night Isabelle vanished.\nFour years earlier, Isabelle Vescari had been the only soft thing in Damian’s life.\nHe had met her at a hospital fundraiser in River North.\nShe had been arranging flowers.\nHe had been attending because men with expensive suits had told him respectable businessmen attended charity dinners.\nShe had looked directly into his eyes.\nThat alone had interested him.\n“You know who I am?” he had asked.\n“Yes.”\n“And you’re not afraid?”\nShe had smiled.\n“Fear seems like a bad reason not to look at somebody.”\nThey married eleven months later.\nFor two years, Greystone changed.\nThere were flowers in rooms that had once smelled only of polished wood and cigar smoke.\nThere were paintings on the walls.\nThere was music at breakfast.\nThere was laughter.\nThen Victor Hale walked into Damian’s study carrying a leather folder.\nVictor had been his father’s closest adviser.\nHe had known Damian since childhood.\nHe had attended birthdays, funerals and hospital rooms.\nThe folder contained bank records showing millions transferred into accounts under Isabelle’s maiden name.\nIt contained photographs of her meeting men linked to the Vescari family’s enemies.\nIt contained signatures.\nDates.\nNumbers.\nEnough evidence to destroy a marriage.\nIsabelle denied everything.\n“Someone made this,” she had whispered.\nDamian had been too angry to hear her.\n“Get out.”\n“Damian, please.”\n“Get out of my house.”\nShe had stood in the library doorway, trembling.\n“I love you.”\nHe had turned away.\nSix months later, her car was found in the Chicago River.\nNo body was recovered.\nDamian still held a private funeral.\nThen he locked her sitting room and buried the man he had once been with her.\nNow a three-year-old housekeeper’s daughter had Isabelle’s eyes and his family’s white streak.\nThat night Damian summoned Enzo.\n“I want everything on Elena Parker.”\nEnzo nodded.\n“Everything?”\n“Every address. Every job. Every medical record you can legally obtain. Every name she used before coming here. And the child’s birth certificate.”\n“Victor?”\n“No.”\nEnzo’s expression changed.\nVictor Hale was usually the first person Damian trusted with private investigations.\n“Not Victor,” Damian repeated. “Not anyone.”\nTwo days later, Enzo returned.\nElena Parker had once been a nurse at a small private clinic west of Chicago.\nShe had quit without notice three years earlier.\nOne former patient record appeared shortly before she disappeared.\nIsabelle Vescari.\nEnzo placed a grainy old security photograph on Damian’s desk.\nElena stood outside an examination room.\nBeside her was Isabelle.\nPregnant.\nDamian sat down.\nHe stared at the photograph until the edges blurred.\n“She was pregnant.”\n“Yes.”\n“How far?”\n“Approximately four months.”\nDamian looked toward the closed study door.\nHe could almost hear Lily’s little shoes in the hallway.\n“Birth certificate?”\nThe story continues in Part 2, available in the comments below ⬇️",
-    "wp_media_id": 7255,
-    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261102-0000-nl.jpg"
-   },
-   "source_key": "post:61582058363232_122160366435068612",
-   "status": "done"
-  },
   "2026-11-02 12:00": {
    "langs": {},
    "slot_iso": "2026-11-02T12:00:00+04:00",
