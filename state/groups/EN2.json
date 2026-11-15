@@ -22,7 +22,6 @@
   "90f752e134f7f161178f": "2026-11-01T14:03:51+00:00",
   "9991f589010d4cbe9a56": "2026-11-14T09:18:00+00:00",
   "ab12b39c82a984be6a9e": "2026-11-12T10:26:25+00:00",
-  "bf3e5716d0c3c6dde7f4": "2026-11-01T10:36:35+00:00",
   "d82c6f49086c806cd686": "2026-11-14T19:47:28+00:00",
   "d90f86068fb546dde052": "2026-11-09T20:01:42+00:00",
   "e94ee160cd92603444dc": "2026-11-13T14:37:33+00:00",
@@ -55,7 +54,6 @@
   "100633729330404_1140819238646597": "2026-11-13T11:07:33+00:00",
   "100633729330404_1141025278625993": "2026-11-13T14:38:07+00:00",
   "100633729330404_1142797638448757": "2026-11-15T11:01:17+00:00",
-  "1015788838206055": "2026-11-01T10:37:17+00:00",
   "1015960951522177": "2026-11-01T14:04:47+00:00",
   "1016155038169435": "2026-11-01T18:14:47+00:00",
   "1024049127380026": "2026-11-09T13:25:22+00:00",
@@ -78,7 +76,6 @@
   "1027439843707621": "2026-11-12T17:48:01+00:00",
   "1027445020373770": "2026-11-12T17:55:35+00:00",
   "1027528857032053": "2026-11-12T20:03:15+00:00",
-  "1027767353678310": "2026-11-01T10:37:20+00:00",
   "1027932013661844": "2026-11-01T14:04:52+00:00",
   "1028080260310246": "2026-11-13T10:15:21+00:00",
   "1028137310307981": "2026-11-01T18:14:51+00:00",
@@ -186,7 +183,6 @@
   "106713875762456_1028080290310243": "2026-11-13T11:07:46+00:00",
   "106713875762456_1028289493622656": "2026-11-13T14:38:10+00:00",
   "106713875762456_1030056100112662": "2026-11-15T10:47:06+00:00",
-  "1128173716577816": "2026-11-01T10:37:13+00:00",
   "1128333553228499": "2026-11-01T14:04:42+00:00",
   "1128529326542255": "2026-11-01T18:14:44+00:00",
   "1136704849058036": "2026-11-09T13:25:17+00:00",
@@ -256,7 +252,6 @@
   "122126881623439195": "2026-11-13T10:15:29+00:00",
   "122126917977439195": "2026-11-13T14:38:15+00:00",
   "122127275661439195": "2026-11-15T10:50:35+00:00",
-  "122137074668776189": "2026-11-01T10:36:48+00:00",
   "122137107026776189": "2026-11-01T14:04:08+00:00",
   "122137136858776189": "2026-11-01T18:14:17+00:00",
   "122138231948776189": "2026-11-09T13:24:45+00:00",
@@ -283,10 +278,8 @@
   "122138835764776189": "2026-11-13T14:37:46+00:00",
   "122139014276776189": "2026-11-14T20:01:29+00:00",
   "122139098684776189": "2026-11-15T10:22:08+00:00",
-  "122141835153219808": "2026-11-01T10:37:09+00:00",
   "122141846433219808": "2026-11-01T14:04:36+00:00",
   "122141868681219808": "2026-11-01T18:14:40+00:00",
-  "122142422432777362": "2026-11-01T10:36:51+00:00",
   "122142445598777362": "2026-11-01T14:04:13+00:00",
   "122142471722777362": "2026-11-01T18:14:21+00:00",
   "122142615927219808": "2026-11-09T13:25:12+00:00",
@@ -336,7 +329,6 @@
   "122144198264777362": "2026-11-13T14:37:49+00:00",
   "122144371748777362": "2026-11-14T20:02:03+00:00",
   "122144447312777362": "2026-11-15T10:26:37+00:00",
-  "122174337590720509": "2026-11-01T10:36:45+00:00",
   "122174358386720509": "2026-11-01T14:04:04+00:00",
   "122174383490720509": "2026-11-01T18:14:13+00:00",
   "122175173570720509": "2026-11-09T13:24:41+00:00",
@@ -363,7 +355,6 @@
   "122175502244720509": "2026-11-13T14:37:42+00:00",
   "122175591452720509": "2026-11-14T20:00:56+00:00",
   "122175629504720509": "2026-11-15T10:17:58+00:00",
-  "122182490198820020": "2026-11-01T10:36:57+00:00",
   "122182507658820020": "2026-11-01T14:04:17+00:00",
   "122182527734820020": "2026-11-01T18:14:25+00:00",
   "122183681072820020": "2026-11-09T13:24:54+00:00",
@@ -389,7 +380,6 @@
   "122184125726820020": "2026-11-13T10:14:56+00:00",
   "122184146024820020": "2026-11-13T14:37:54+00:00",
   "122184371948820020": "2026-11-15T10:31:12+00:00",
-  "122192579222829482": "2026-11-01T10:37:00+00:00",
   "122192596028829482": "2026-11-01T14:04:22+00:00",
   "122192619110829482": "2026-11-01T18:14:28+00:00",
   "122193882824829482": "2026-11-09T13:24:59+00:00",
@@ -415,7 +405,6 @@
   "122194335770829482": "2026-11-13T10:15:00+00:00",
   "122194358102829482": "2026-11-13T14:37:57+00:00",
   "122194607258829482": "2026-11-15T10:35:45+00:00",
-  "122203178888902657": "2026-11-01T10:37:06+00:00",
   "122203201682902657": "2026-11-01T14:04:32+00:00",
   "122203243850902657": "2026-11-01T18:14:36+00:00",
   "122204744234902657": "2026-11-09T13:25:08+00:00",
@@ -441,7 +430,6 @@
   "122205329342902657": "2026-11-13T10:15:08+00:00",
   "122205358460902657": "2026-11-13T14:38:02+00:00",
   "122205643766902657": "2026-11-15T10:41:48+00:00",
-  "122242356998895613": "2026-11-01T10:37:02+00:00",
   "122242374248895613": "2026-11-01T14:04:27+00:00",
   "122242392812895613": "2026-11-01T18:14:33+00:00",
   "122243676536895613": "2026-11-09T13:25:03+00:00",
@@ -467,7 +455,6 @@
   "122244179786895613": "2026-11-13T10:15:04+00:00",
   "122244224444895613": "2026-11-13T14:37:59+00:00",
   "122244447974895613": "2026-11-15T10:40:12+00:00",
-  "122333045486241259": "2026-11-01T10:36:40+00:00",
   "122333094308241259": "2026-11-01T14:04:00+00:00",
   "122333142392241259": "2026-11-01T18:14:09+00:00",
   "122335180718241259": "2026-11-09T13:24:36+00:00",
@@ -707,194 +694,6 @@
   "994273113779575_122139098714776189": "2026-11-15T10:22:08+00:00"
  },
  "slots": {
-  "2026-11-01 15:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "100633729330404": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1128173749911146_1483400690312435",
-       "error": null,
-       "last_attempt": "2026-11-01T14:37:10+04:00",
-       "mode": "schedule",
-       "photo_id": "1128173716577816",
-       "post_id": "100633729330404_1128173749911146",
-       "status": "done"
-      },
-      "104114086037068": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1027767390344973_990523190775172",
-       "error": null,
-       "last_attempt": "2026-11-01T14:37:17+04:00",
-       "mode": "schedule",
-       "photo_id": "1027767353678310",
-       "post_id": "104114086037068_1027767390344973",
-       "status": "done"
-      },
-      "1060733217128705": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122142422462777362_2572530706584443",
-       "error": null,
-       "last_attempt": "2026-11-01T14:36:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122142422432777362",
-       "post_id": "1060733217128705_122142422462777362",
-       "status": "done"
-      },
-      "106713875762456": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1015788858206053_1515716163716069",
-       "error": null,
-       "last_attempt": "2026-11-01T14:37:13+04:00",
-       "mode": "schedule",
-       "photo_id": "1015788838206055",
-       "post_id": "106713875762456_1015788858206053",
-       "status": "done"
-      },
-      "233545296514172": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122333045516241259_1812297653544335",
-       "error": null,
-       "last_attempt": "2026-11-01T14:36:37+04:00",
-       "mode": "schedule",
-       "photo_id": "122333045486241259",
-       "post_id": "233545296514172_122333045516241259",
-       "status": "done"
-      },
-      "530022363528890": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122174337620720509_1301852272066614",
-       "error": null,
-       "last_attempt": "2026-11-01T14:36:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122174337590720509",
-       "post_id": "530022363528890_122174337620720509",
-       "status": "done"
-      },
-      "625664190627160": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122182490234820020_1749812106113728",
-       "error": null,
-       "last_attempt": "2026-11-01T14:36:52+04:00",
-       "mode": "schedule",
-       "photo_id": "122182490198820020",
-       "post_id": "625664190627160_122182490234820020",
-       "status": "done"
-      },
-      "648976361631351": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122192579252829482_2668920333561408",
-       "error": null,
-       "last_attempt": "2026-11-01T14:36:57+04:00",
-       "mode": "schedule",
-       "photo_id": "122192579222829482",
-       "post_id": "648976361631351_122192579252829482",
-       "status": "done"
-      },
-      "673710079162922": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122242357028895613_4700433103522283",
-       "error": null,
-       "last_attempt": "2026-11-01T14:37:01+04:00",
-       "mode": "schedule",
-       "photo_id": "122242356998895613",
-       "post_id": "673710079162922_122242357028895613",
-       "status": "done"
-      },
-      "714226118434052": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122203178918902657_1420236466940297",
-       "error": null,
-       "last_attempt": "2026-11-01T14:37:03+04:00",
-       "mode": "schedule",
-       "photo_id": "122203178888902657",
-       "post_id": "714226118434052_122203178918902657",
-       "status": "done"
-      },
-      "892503027289970": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122141835183219808_1792055935355380",
-       "error": null,
-       "last_attempt": "2026-11-01T14:37:07+04:00",
-       "mode": "schedule",
-       "photo_id": "122141835153219808",
-       "post_id": "892503027289970_122141835183219808",
-       "status": "done"
-      },
-      "994273113779575": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122137074698776189_1655878685886855",
-       "error": null,
-       "last_attempt": "2026-11-01T14:36:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122137074668776189",
-       "post_id": "994273113779575_122137074698776189",
-       "status": "done"
-      }
-     },
-     "title": "For Seven Years I Sent My Son-in-Law $40,000 Every January for My Granddaughter, Until She Whispered, \"Grandpa, Please Stop",
-     "warnings": [
-      "длина текста FB 358 слов (исходник 450, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 7230,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-01T15:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/866146832_122142837615244157_6354387061644944690_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JjxxFHTTvw4Q7kNvwGxsHin&_nc_oc=Adqt3oOM1m5A4QlVlwRqSwhJ7tMA1TjjPqjLaSAc8iUvZZAsDDU1cI5QcaBNQAmJdLc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=HOhPhEE1Vqv5hx1L6XUjbQ&_nc_tpa=Q5bMBQK_kXZ16vE74GdUfvcvE5MczoV0SwXvzZDaLLFW7XFZ6B6auxzTYR7FyaAWQhJlyZpAGpdwRvSADQ&oh=00_AQSYhsRAShGmoQddWCEJu_oE0s6syQL9FWnZDN2aNgfSBw&oe=6AECD3E5",
-    "link": "https://www.facebook.com/story.php?story_fbid=122142837687244157&id=61587324730850",
-    "origin": "manual",
-    "page_id": "61587324730850",
-    "text": "Pendant sept ans, après la mort de ma fille, j’ai envoyé chaque mois de janvier 40 000 dollars à son mari pour l’aider à s’occuper de ma petite-fille. Puis, un après-midi, Emma, qui avait sept ans, m’a pris à part et m’a murmuré : « Papy, s’il te plaît, arrête de donner de l’argent à papa. Suis-le un jour et tu comprendras pourquoi. »\n\nJe croyais honorer les dernières volontés de ma fille.\n\nLaura était mon unique enfant. Avant de mourir, elle m’avait fait promettre une chose.\n\n« Papa, quoi qu’il arrive, assure-toi qu’Emma est en sécurité. »\n\nIl y a sept ans, Laura est morte dans un terrible accident sur l’autoroute 24.\n\nLa police nous a dit que la voiture avait tellement brûlé qu’il serait impossible de voir le corps. Mon gendre, Mark Stevens, est resté aux côtés de ma femme, Eleanor, et de moi pendant les funérailles.\n\nNous avons reçu une urne scellée.\n\nSix mois plus tard, Eleanor est morte à son tour.\n\nLes médecins ont parlé d’un arrêt cardiaque.\n\nMoi, j’ai appelé ça le chagrin.\n\nDepuis, mon monde était devenu douloureusement petit. Il me restait l’épicerie familiale, le Miller’s Corner Market, et Emma.\n\nChaque mois de janvier, je faisais un virement de 40 000 dollars à Mark.\n\nPour l’école.\n\nPour la nourriture.\n\nPour les vêtements.\n\nPour tout ce dont ma petite-fille avait besoin.\n\nDu moins, c’est ce que je croyais.\n\nUn samedi sur deux, j’emmenais Emma manger une glace. Elle commandait toujours une glace à la fraise marbrée et nous nous installions sous le même chêne, tandis qu’elle me racontait sa journée à l’école.\n\nCe jour-là, en septembre, elle venait de me raconter qu’elle avait eu un A à son contrôle d’orthographe quand son sourire s’est soudain effacé.\n\n« Papy ? »\n\n« Oui, ma chérie ? »\n\nElle a regardé autour d’elle avant de m’attraper par la manche.\n\n« S’il te plaît, arrête d’envoyer de l’argent à papa. »\n\nJe me suis figé.\n\n« Quoi ? »\n\n« L’argent que tu lui donnes. Ne lui en envoie plus. »\n\nJ’ai baissé la voix.\n\n« Emma, cet argent est pour toi. »\n\nElle a secoué la tête.\n\n« Non, Papy. »\n\nLa façon dont elle l’a dit m’a effrayé.\n\n« Ton père te fait du mal ? »\n\nSes doigts ont serré ma manche encore plus fort.\n\n« Je ne peux pas te le dire. »\n\n« Pourquoi ? »\n\n« Il va se fâcher. »\n\nJ’ai senti mon estomac se nouer.\n\nTu veux savoir ce qui va se passer ensuite ? Écris « HUG » et clique sur « J’AIME » pour nous le faire savoir. Nous publierons bientôt l’histoire complète 😉👇",
-    "wp_media_id": 7227,
-    "wp_media_url": "https://interes-world.com/wp-content/uploads/2026/11/interes-20261101-1500-en2.jpg"
-   },
-   "source_key": "post:61587324730850_122142837687244157",
-   "status": "done"
-  },
   "2026-11-01 18:00": {
    "langs": {
     "DE": {
@@ -6159,6 +5958,11 @@
   "2026-11-16 12:00": {
    "langs": {},
    "slot_iso": "2026-11-16T12:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-16 15:00": {
+   "langs": {},
+   "slot_iso": "2026-11-16T15:00:00+04:00",
    "status": "no_source"
   }
  },
