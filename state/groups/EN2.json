@@ -5944,7 +5944,60 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "100633729330404": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "104114086037068": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1060733217128705": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "106713875762456": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1220745651126185": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "233545296514172": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "530022363528890": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "625664190627160": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "648976361631351": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "673710079162922": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "714226118434052": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "892503027289970": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "994273113779575": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "I Fired My Maid for Bathing My Baby in the Kitchen Sink, Then My Son Stopped Breathing in My Arms",
      "warnings": [
       "длина текста FB 375 слов (исходник 452, цель ±10%)"
@@ -5994,7 +6047,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261115-1800-en2.jpg"
    },
    "source_key": "post:61590888316979_122161452663362943",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
