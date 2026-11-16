@@ -29,6 +29,7 @@ jobs:
           FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
           FB_USER_TOKEN: ${{ secrets.FB_USER_TOKEN }}
           FB_USER_TOKEN_2: ${{ secrets.FB_USER_TOKEN_2 }}
+          FB_USER_TOKEN_3: ${{ secrets.FB_USER_TOKEN_3 }}
         run: python -m autopost setup-facebook
       - name: Сохранить
         if: always()

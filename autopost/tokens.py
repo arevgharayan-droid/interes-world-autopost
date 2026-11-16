@@ -16,6 +16,8 @@ from datetime import datetime, timezone
 
 from cryptography.fernet import Fernet, InvalidToken
 
+from .fb import FacebookError
+
 NEEDED_TASKS = {"CREATE_CONTENT", "MODERATE"}
 TOKENS_FILE = "state/page_tokens.enc"
 
@@ -90,17 +92,24 @@ def setup_facebook(cfg, graph, app_id: str, app_secret: str, user_token) -> dict
 
     user_token — один токен или список: несколько системных пользователей (autopost2, autopost3…) делят страницы
     между собой; страница берётся у первого, кому она назначена."""
-    user_tokens = [t for t in ([user_token] if isinstance(user_token, str) else list(user_token)) if t]
+    # позиция в списке = кто это (FB_USER_TOKEN → autopost2, _2 → autopost3, _3 → autopost4), пустые пропускаем
+    user_tokens = [(i, t) for i, t in enumerate([user_token] if isinstance(user_token, str) else list(user_token)) if t]
     if not (app_id and app_secret and user_tokens):
         raise TokenError("нужны секреты FB_APP_ID, FB_APP_SECRET и FB_USER_TOKEN")
     by_id, per_user, owner_of = {}, [], {}
-    labels = list(((cfg.settings.get("facebook") or {}).get("user_labels")) or ["autopost2", "autopost3"])
-    for idx, ut in enumerate(user_tokens):
+    labels = list(((cfg.settings.get("facebook") or {}).get("user_labels")) or ["autopost2", "autopost3", "autopost4"])
+    for idx, ut in user_tokens:
         try:
             long_user = graph.exchange_long_lived(app_id, app_secret, ut)
         except Exception:  # noqa: BLE001 — токен системного пользователя обменивать не нужно, он бессрочный
             long_user = ut
-        pages = graph.my_pages(long_user)
+        try:
+            pages = graph.my_pages(long_user)
+        except FacebookError as e:
+            if len(user_tokens) == 1:
+                raise
+            per_user.append(f"ошибка ({e.short()})")   # один неверный токен не мешает остальным
+            continue
         per_user.append(len(pages))
         for p in pages:
             if p["id"] not in by_id:

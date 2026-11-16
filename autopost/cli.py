@@ -164,7 +164,8 @@ def cmd_setup_facebook(cfg, args) -> int:
     graph = Graph(cfg.graph_version)
     try:
         rep = setup_facebook(cfg, graph, os.environ.get("FB_APP_ID", ""), os.environ.get("FB_APP_SECRET", ""),
-                             [os.environ.get("FB_USER_TOKEN", ""), os.environ.get("FB_USER_TOKEN_2", "")])
+                             [os.environ.get("FB_USER_TOKEN", ""), os.environ.get("FB_USER_TOKEN_2", ""),
+                              os.environ.get("FB_USER_TOKEN_3", "")])
     except (TokenError, FacebookError) as e:
         msg = e.short() if isinstance(e, FacebookError) else str(e)
         summary(f"## Подключение Facebook\n\n❌ {msg}\n\nЧастая причина: токен из Graph API Explorer действует "
@@ -175,7 +176,7 @@ def cmd_setup_facebook(cfg, args) -> int:
     st.save()
     lines = ["## Подключение Facebook", "", f"✅ Получены токены страниц: **{len(rep['ok'])} из {len(cfg.pages)}**"]
     if len(rep.get("per_user") or []) > 1:
-        lines.append("Системные пользователи (FB_USER_TOKEN, FB_USER_TOKEN_2): видят страниц — "
+        lines.append("Системные пользователи (FB_USER_TOKEN, FB_USER_TOKEN_2, FB_USER_TOKEN_3): видят страниц — "
                      + ", ".join(str(n) for n in rep["per_user"]))
     lines.append("Срок действия токенов страниц: " + ("бессрочно" if not rep["expires_at"] else
                  datetime.fromtimestamp(rep["expires_at"], timezone.utc).strftime("%Y-%m-%d")))

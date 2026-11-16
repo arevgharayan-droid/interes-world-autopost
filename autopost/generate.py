@@ -39,6 +39,15 @@ STOPWORDS = {
            "jak ale tak był było wszystko bardzo jeszcze mój moja").split(),
     "CS": ("není je byl byla který která když jen protože také už pro jsem jsou mě jí jeho "
            "jako ale tak bylo všechno velmi ještě můj moje se že").split(),
+    # украинский — только слова, которых нет в русском списке
+    "UK": ("і що та це як від був була була вона він але їх її щоб коли дуже тому після ми ви вони його "
+           "мене мені все теж вже ще тут свою своє її було".split()),
+    # испанский — без слов, общих с португальским и итальянским
+    "ES": ("el los las y del pero muy porque cuando fue sus había hasta también yo él ella tenía estaba "
+           "después siempre nunca algo qué cómo nada".split()),
+    "RO": ("și în nu cu pe este fost care că mai lui ei dar foarte pentru acum când după avea sunt "
+           "această acest însă doar ea și-a".split()),
+    "AR": ("في من على إلى أن هذا هذه كان كانت لم لا ما مع عن هو هي التي الذي قد كل بعد عندما ثم لكن".split()),
 }
 
 
@@ -286,6 +295,14 @@ _MOCK = {
            "Pokračování v prvním komentáři 👇"),
     "DE": ("Eine Begegnung, die alles veränderte", "Sie wusste nicht, dass dieser Tag ihr Leben verändern würde, und es war gut. ",
            "Weiterlesen im ersten Kommentar 👇"),
+    "UK": ("Зустріч, яка змінила все", "Вона не знала, що цей день змінить її життя, і це було дуже добре. ",
+           "Продовження читайте в першому коментарі 👇"),
+    "ES": ("Un encuentro que lo cambió todo", "Ella no sabía que aquel día iba a cambiar su vida, y fue muy bonito. ",
+           "Sigue leyendo en el primer comentario 👇"),
+    "RO": ("O întâlnire care a schimbat totul", "Ea nu știa că acea zi îi va schimba viața, și a fost foarte frumos. ",
+           "Continuarea în primul comentariu 👇"),
+    "AR": ("لقاء غيّر كل شيء", "لم تكن تعلم أن هذا اليوم سيغير حياتها، وكان ذلك جميلا جدا. ",
+           "تابع القراءة في التعليق الأول 👇"),
 }
 
 
