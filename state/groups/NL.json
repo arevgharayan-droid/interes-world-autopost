@@ -14,6 +14,7 @@
   "18ce6ab9d592b0877673": "2026-11-14T11:39:08+00:00",
   "20a7a509199cfbe519fc": "2026-11-15T14:18:37+00:00",
   "282775455f9afac79cda": "2026-11-10T22:03:35+00:00",
+  "2c102128a6bdf6cc4b13": "2026-11-16T16:00:57+00:00",
   "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
   "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
@@ -47,6 +48,7 @@
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
   "d4aa094230f5d5c483b0": "2026-11-16T00:16:52+00:00",
+  "e3d10d7308b19870ee32": "2026-11-16T16:00:57+00:00",
   "ebc91716c611bd42ee20": "2026-11-09T20:07:46+00:00",
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
   "f3c8eaafc0e1dc9038f5": "2026-11-09T13:26:40+00:00",
@@ -4306,7 +4308,79 @@
   },
   "2026-11-16 19:59": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ich wollte meiner Adoptivmutter zum 60. Geburtstag gratulieren – doch vor der Küchentür hörte ich sie lachen und etwas sagen, das alles veränderte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 459,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ze geloven nog steeds alles wat ik ze vertel\": wat ik hoorde in de keuken van mijn adoptiemoeder, veranderde alles",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 458,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T19:59:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/905677815_122105272850536431_6293283414086734152_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=moQKRYcEevAQ7kNvwETlLg5&_nc_oc=AdoZfCYwYHZJ9zv-xLJwsA9xweGTpUUbmYc2vTC-4hd18BUe2716rfd3a22glflOsE0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=9_rk1Lw7dDVFMITpkFRefw&_nc_tpa=Q5bMBQIAp-tdrL1Zhn5oOq-NSOBoZcSpc-HM2PDu9vALMnX3727Wi7QGb-aKjv0GCV9NmgnUmimS8pKqZA&oh=00_AQTBo98WH5NeX0CORy7wyYRaKHXs2nmTBbi3w_zCW_oHQg&oe=6B010369",
@@ -4318,7 +4392,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1959-nl.jpg"
    },
    "source_key": "post:1011074408765807_122105272880536431",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4589,7 +4663,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-11-16 19:59",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61560353781750_122118713858345126": {
    "fingerprint": "5884cb21f7124cdb4a71",
