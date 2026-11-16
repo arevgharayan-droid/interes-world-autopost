@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "fb_block_until": "2026-11-14T14:14:29+04:00",
  "output_fps": {
+  "00182ac1c19f94717b38": "2026-11-16T23:51:32+00:00",
   "046c05ed889e24fde6e8": "2026-11-10T22:03:35+00:00",
   "082942ddf599434d8353": "2026-11-16T20:28:19+00:00",
   "0c6e8a7efc71f173e15e": "2026-11-16T10:16:48+00:00",
@@ -42,6 +43,7 @@
   "98ed0f869b67d7d406ea": "2026-11-10T22:05:36+00:00",
   "a333d126c2a07536f0f3": "2026-11-13T10:14:57+00:00",
   "a373ece8d16ef871e0a9": "2026-11-09T20:07:46+00:00",
+  "afa3a18208d092faed7a": "2026-11-16T23:51:32+00:00",
   "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
   "b924e8960efa86262e90": "2026-11-12T20:02:32+00:00",
   "ba5124bf926776f201e6": "2026-11-09T13:25:52+00:00",
@@ -5076,7 +5078,79 @@
    }
   },
   "2026-11-17 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meine Familie schloss mich vom Treffen aus und fuhr direkt zu meinem Strandhaus – dann stand ein Sheriff vor der Tür",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 525,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn familie verbood me de reünie, maar ze liepen zelf regelrecht mijn strandhuis binnen",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 524,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/897346864_122137907204809007_3845394850636602475_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9dWs087uDwEQ7kNvwHjYNhZ&_nc_oc=AdrZ8YOTdct1QqcfM7tbAhobV9edYjrvXUnxpuf6YL3nM_1W1XKfKc27QD311_KMugI&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Vf3_OAMSWP7XC4wMjIGEhw&_nc_tpa=Q5bMBQLcdJqeA8ShRH_M7x6obarzMKjdWKh55z75IgXXrvaQXhJO0WYUR0fq7LHuf-V7rOJGi_kOUEYuGw&oh=00_AQTDazGP-fYDpsSHKgWO6CfGzVUE63O3bKcHwxcM4ZwdRA&oe=6B017BEC",
@@ -5088,7 +5162,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1200-nl.jpg"
    },
    "source_key": "post:61574270220252_122137907252809007",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5414,7 +5488,7 @@
    "origin": "manual",
    "page_id": "61574270220252",
    "slot": "2026-11-17 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130695810893096": {
    "fingerprint": "76592ca14dc5478e537f",
