@@ -4643,3 +4643,14 @@
 {"slot": "2026-11-17 12:00", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-16T23:51:32+00:00", "group": "NL"}
 {"slot": "2026-11-17 12:00", "lang": "NL", "action": "wp_post", "id": 524, "status": "future", "t": "2026-11-16T23:51:33+00:00", "group": "NL"}
 {"slot": "2026-11-17 12:00", "lang": "DE", "action": "wp_post", "id": 525, "status": "future", "t": "2026-11-16T23:51:33+00:00", "group": "NL"}
+{"slot": "2026-11-17 12:00", "lang": "EN", "page": "233545296514172", "action": "fb_schedule", "photo_id": "122336853920241259", "post_id": "233545296514172_122336853974241259", "t": "2026-11-16T23:51:35+00:00", "group": "EN2"}
+{"slot": "2026-11-17 12:00", "lang": "EN", "page": "1165836896614851", "action": "fb_schedule", "photo_id": "122145140025384677", "post_id": "1165836896614851_122145140055384677", "t": "2026-11-16T23:51:40+00:00", "group": "EN"}
+{"slot": "2026-11-17 12:00", "lang": "FR", "page": "1079295351933311", "action": "fb_schedule", "photo_id": "122123220375299008", "post_id": "1079295351933311_122123220411299008", "t": "2026-11-16T23:51:46+00:00", "group": "FR"}
+{"slot": "2026-11-17 12:00", "lang": "NL", "page": "633031599904551", "action": "fb_schedule", "photo_id": "122223269120930012", "post_id": "633031599904551_122223269150930012", "t": "2026-11-16T23:51:52+00:00", "group": "NL"}
+{"slot": "2026-11-17 12:00", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-16T23:51:59+00:00", "group": "IT"}
+{"slot": "2026-11-17 12:00", "lang": "PL", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-16T23:51:59+00:00", "group": "IT"}
+{"slot": "2026-11-17 12:00", "lang": "CS", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-16T23:51:59+00:00", "group": "IT"}
+{"slot": "2026-11-17 12:00", "lang": "EN", "page": "530022363528890", "action": "fb_schedule", "photo_id": "122175787058720509", "post_id": "530022363528890_122175787112720509", "t": "2026-11-16T23:51:59+00:00", "group": "EN2"}
+{"slot": "2026-11-17 12:00", "lang": "IT", "action": "wp_post", "id": 526, "status": "future", "t": "2026-11-16T23:52:00+00:00", "group": "IT"}
+{"slot": "2026-11-17 12:00", "lang": "PL", "action": "wp_post", "id": 527, "status": "future", "t": "2026-11-16T23:52:00+00:00", "group": "IT"}
+{"slot": "2026-11-17 12:00", "lang": "CS", "action": "wp_post", "id": 528, "status": "future", "t": "2026-11-16T23:52:01+00:00", "group": "IT"}
