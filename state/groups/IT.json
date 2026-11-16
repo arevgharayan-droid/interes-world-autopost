@@ -5,6 +5,7 @@
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
   "08b0488d45dded8d095f": "2026-11-16T00:18:19+00:00",
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
+  "0fb22b8844bea06fae2d": "2026-11-16T20:28:05+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
@@ -12,6 +13,7 @@
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
   "5925113003b25213dc5b": "2026-11-15T14:13:20+00:00",
   "59ba199024c504005873": "2026-11-13T10:14:50+00:00",
+  "60500c1dfc38f30a516c": "2026-11-16T20:28:05+00:00",
   "628ca1701fa9d7a8990a": "2026-11-16T16:01:05+00:00",
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
   "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
@@ -31,6 +33,7 @@
   "9de178bf596b4ce2bdc8": "2026-11-16T19:28:24+00:00",
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
+  "ad8c2ece3cec5e65114f": "2026-11-16T20:28:05+00:00",
   "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "ba5f05202837b2fb860d": "2026-11-14T11:39:45+00:00",
@@ -7585,7 +7588,93 @@
   },
   "2026-11-17 01:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ve 64 letech jsem si vzala o 33 let mladšího muže. Po půl roce jsem zjistila, co mi každý večer tajně přidává do nápoje",
+     "warnings": [
+      "длина текста FB 423 слов (исходник 642, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 489,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ho sposato un uomo di 31 anni a 64, ma dopo sei mesi ho scoperto cosa metteva ogni sera nella mia tazza",
+     "warnings": [
+      "длина текста FB 542 слов (исходник 642, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 487,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wyszła za mąż za 31-latka, a po pół roku odkryła, co co wieczór dosypywał jej do napoju. Lekarz zbladł i zamknął drzwi",
+     "warnings": [
+      "длина текста FB 428 слов (исходник 642, цель ±10%)",
+      "длина статьи 548 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 488,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T01:30:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/866567104_122138796519244044_1396195191310589985_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=SSa0V3nvP-gQ7kNvwHr4X1I&_nc_oc=AdoaY1DeZTj6GY8CvHBb_d1G1pa3Zh02NnQvhnuEi2u_V5dLnt3aEAFMUaeLsT5NYn4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=9SZTcY0PhBxAjfoFxuPmfA&_nc_tpa=Q5bMBQJdc8xnGfKm1PULI3fO4FEEk6AnXxzVBRymXTxklkwyRKtSvUTRKqfcbQT6a8p6WVEQ4RK3fRcpSQ&oh=00_AQRJv0a8Tt-q9jEz0hpaSg8-VPsX5pAouBIZgZliEODelA&oe=6B0145F9",
@@ -7597,7 +7686,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-0130-it.jpg"
    },
    "source_key": "post:61587321322233_122138796543244044",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7988,7 +8077,7 @@
    "origin": "manual",
    "page_id": "61587321322233",
    "slot": "2026-11-17 01:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61589490035610_122120428167316334": {
    "fingerprint": "9f4bdc3942bd4331066f",
