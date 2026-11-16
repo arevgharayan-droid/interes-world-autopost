@@ -656,6 +656,8 @@ def cmd_ops(cfg, args) -> int:
         return cmd_site_check(cfg, a.get("url", ""))
     if cmd == "peek-links":
         return cmd_peek_links(cfg, a.get("links") or [])
+    if cmd == "study-pages":
+        return cmd_study_pages(cfg, a.get("links") or [], int(a.get("limit", 6)))
     if cmd == "repost":
         if a.get("from_by_group"):          # у каждой группы свой исходный выпуск (например, внеочередные)
             out = [f"## Повтор выпусков → {a.get('to', '')}", ""]
@@ -1416,6 +1418,90 @@ def cmd_peek_links(cfg, links: list) -> int:
         except SourceError as e:
             out.append(f"{i}. ❌ {e}")
     summary("\n".join(out) + "\n", "previews/peek-links.md", cfg)
+    return 0
+
+
+def _study_candidates(link: str) -> list:
+    """Варианты ID / имени страницы по ссылке: profile.php?id=…, facebook.com/<имя>, facebook.com/share/…"""
+    from .sources import resolve_share_link
+    out = []
+    m = re.search(r"[?&]id=(\d+)", link)
+    if m:
+        out.append(m.group(1))
+    if "/share/" in link:
+        info = resolve_share_link(link)
+        for k in ("page_id", "id"):
+            if info.get(k):
+                out.append(info[k])
+        u = info.get("url", "")
+        m = re.search(r"[?&]id=(\d+)", u)
+        if m:
+            out.append(m.group(1))
+        m = re.match(r"https?://(?:www\.|m\.)?facebook\.com/([A-Za-z0-9.\-_]+)/?(?:$|\?)", u)
+        if m and m.group(1) not in ("profile.php", "share", "permalink.php", "story.php"):
+            out.append(m.group(1))
+    m = re.match(r"https?://(?:www\.|m\.)?facebook\.com/([A-Za-z0-9.\-_]+)/?(?:$|\?)", link.strip())
+    if m and m.group(1) not in ("profile.php", "share", "permalink.php", "story.php"):
+        out.append(m.group(1))
+    return list(dict.fromkeys(out))
+
+
+def cmd_study_pages(cfg, links: list, limit: int = 6) -> int:
+    """Образцы чужих страниц: последние посты (полный текст, фото) и первые комментарии под ними.
+    Только чтение — ничего не публикует. Результат: previews/study-pages.md и previews/study-pages.json."""
+    graph = Graph(cfg.graph_version)
+    tokens = load_tokens(cfg)
+    order = [tokens.get(cfg.fallback_source_page_id)] + list(tokens.values())
+    toks = [t for t in dict.fromkeys(order) if t][:6]
+    out, dump = ["## Образцы страниц: посты и комментарии", ""], []
+    fields = ("id,message,full_picture,created_time,permalink_url,attachments{media_type,type,url,title},"
+              "comments.order(chronological).limit(4){message,from,created_time,attachment{type,url,title}}")
+    for link in links:
+        cands = _study_candidates(link)
+        page, err = None, []
+        for c in cands:
+            for tok in toks:
+                try:
+                    page = graph.get(c, tok, fields="id,name,link,category,followers_count,about")
+                    page["_tok"] = tok
+                    break
+                except FacebookError as e:
+                    err.append(f"{c}: {e.short()}")
+            if page:
+                break
+        out.append(f"### {link}")
+        if not page:
+            out.append(f"❌ страница не найдена ({'; '.join(err[-3:]) or 'нет вариантов ID'})\n")
+            continue
+        tok = page.pop("_tok")
+        out.append(f"**{page.get('name')}** (id {page.get('id')}, {page.get('category', '')}, "
+                   f"подписчиков: {page.get('followers_count', '?')})\n")
+        posts = []
+        for edge in ("posts", "published_posts", "feed"):
+            try:
+                posts = graph.get(f"{page['id']}/{edge}", tok, fields=fields, limit=limit).get("data", [])
+                if posts:
+                    break
+            except FacebookError as e:
+                err.append(f"{edge}: {e.short()}")
+        if not posts:
+            out.append(f"❌ посты не читаются ({'; '.join(err[-3:])})\n")
+            continue
+        for p in posts:
+            msg = p.get("message") or ""
+            att = ((p.get("attachments") or {}).get("data") or [{}])[0]
+            out.append(f"---\n**{p.get('created_time', '')[:16]}** · {len(msg)} знаков · "
+                       f"вложение: {att.get('media_type') or att.get('type') or '—'} · {p.get('permalink_url', '')}\n")
+            out.append("```\n" + msg + "\n```")
+            for cm in ((p.get("comments") or {}).get("data") or []):
+                a2 = cm.get("attachment") or {}
+                who = (cm.get("from") or {}).get("name", "?")
+                out.append(f"- 💬 {who}: «{cm.get('message', '')}»" + (f" [{a2.get('type')}: {a2.get('url', '')}]" if a2 else ""))
+            out.append("")
+        dump.append({"link": link, "page": page, "posts": posts})
+    cfg.path("previews").mkdir(exist_ok=True)
+    cfg.path("previews/study-pages.json").write_text(json.dumps(dump, ensure_ascii=False, indent=1), encoding="utf-8")
+    summary("\n".join(out) + "\n", "previews/study-pages.md", cfg)
     return 0
 
 
