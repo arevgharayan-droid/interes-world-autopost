@@ -55,7 +55,7 @@ languages:
       - {page_id: "1016419758218222", name: "Whispers of Fate", profile_id: "61586149178177", make_post_module: 310}
       - {page_id: "975714512286925", name: "Heartfelt Lessons", profile_id: "61586274594710", make_post_module: 312}
       - {page_id: "236129656261330", name: "The Golden Touch", profile_id: "61558837883169", make_post_module: 314}
-      - {page_id: "104239205742669", name: "Amazing", profile_id: "100084767654198", make_post_module: 316}
+      - {page_id: "104239205742669", name: "Amazing", profile_id: "100084767654198", make_post_module: 316, disabled: true}  # не нужна (16.11.2026)
       - {page_id: "220697507802568", name: "Pet Lover", profile_id: "61557127506273", make_post_module: 318}
       - {page_id: "117220714573166", name: "Best Stories", profile_id: "100088597167331", make_post_module: 320, disabled: true}  # отключена 29.10.2026
       - {page_id: "162144310308183", name: "Sweet Paws #1", profile_id: "61552800502749", make_post_module: 322}
