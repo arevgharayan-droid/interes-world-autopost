@@ -7148,7 +7148,10 @@
      "title": "Oženil jsem se s umírající pacientkou tři dny před její smrtí a po pohřbu mi její sestra předala krabičku, která mi vzala dech",
      "warnings": [
       "длина текста FB 336 слов (исходник 422, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 476,
+     "wp_status": "publish"
     },
     "DE": {
      "pages": {},
@@ -7215,6 +7218,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-16T23:26:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/860047073_122233187990328214_546176330463941770_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jixpHLg5Iw0Q7kNvwEFXbNp&_nc_oc=AdqWprUIu5SQUh4a9G4xJQ4_sMeqzBqO-arz0xeQXblhYwzCUZHrp6TwuICTC0dpV_0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=nAfVzAAJZMyTuLx0u6K-hw&_nc_tpa=Q5bMBQJYx1UiDugJt-jk4C_mMk_1jN1Y2z4SR82Be_ME0XLEiXy8X0XLZo68Lq3tocEyb73OW17HoNZjoQ&oh=00_AQRABf9724KpVocKaoyKexqTmsfh9rxmoCgZ5CzPclt3WA&oe=6B014568",
@@ -7226,7 +7230,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-2326-it.jpg"
    },
    "source_key": "post:61559846438723_122233295294328214",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7525,7 +7529,7 @@
    "origin": "manual",
    "page_id": "61559846438723",
    "slot": "2026-11-16 23:26",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61560353781750_122118289148345126": {
    "fingerprint": "18fdf02041a09e2fbb81",
