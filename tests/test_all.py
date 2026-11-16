@@ -244,6 +244,13 @@ class PipelineTests(unittest.TestCase):
             self.assertRegex(msg, r"\n\S+ 3\nhttps?://\S+$")
         self.assertEqual(sum(len(v) for v in graph.comments_by.values()), len(cfg.pages) - 1)
 
+    def test_post_format_by_group(self):
+        cfg = config_mod.load(ROOT)
+        cfg.settings["post_format"] = "classic"
+        cfg.settings["post_format_by_group"] = {"IT": "parts", "RU": "parts"}
+        got = {g: Generator(config_mod.group_view(cfg, g), backend="mock").post_format for g in cfg.groups()}
+        self.assertEqual({g for g, f in got.items() if f == "parts"}, {"IT", "RU"})
+
     def test_no_source_is_not_fatal(self):
         cfg, clock, graph, wp, st, run = self._setup(datetime(2030, 5, 1, 6, 0))
         graph.source_posts.clear()

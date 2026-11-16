@@ -283,7 +283,10 @@ class Generator:
         self.max_attempts = int(c.get("max_attempts", 3))
         self.system = cfg.path("prompts/system.md").read_text(encoding="utf-8").strip()
         # classic — вся история в посте, в комментарии только ссылка; parts — пост / комментарий / статья по частям
-        self.post_format = str(cfg.settings.get("post_format") or "classic")
+        # свой формат для отдельных групп (settings: post_format_by_group), иначе общий post_format
+        by_group = cfg.settings.get("post_format_by_group") or {}
+        self.post_format = str(by_group.get(getattr(cfg, "group", "") or "")
+                               or cfg.settings.get("post_format") or "classic")
         tpl = "prompts/generate_parts.md" if self.post_format == "parts" else "prompts/generate.md"
         self.template = cfg.path(tpl).read_text(encoding="utf-8")
         self.log = []
