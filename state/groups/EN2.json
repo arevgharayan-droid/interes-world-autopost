@@ -5545,7 +5545,7 @@
      "pages": {
       "100633729330404": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "104114086037068": {
        "attempts": 0,
