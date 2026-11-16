@@ -17,7 +17,7 @@ from zoneinfo import ZoneInfo
 from . import config as config_mod
 from .config import LANG_ORDER
 from .fb import FacebookError, Graph, redact
-from .generate import GenerationError, Generator
+from .generate import GenerationError, Generator, words
 from .pipeline import AuthProblem, Pacer, Pipeline, Report
 from .sources import (SourceError, fetch_post, google_sheet_links, link_key, manual_links, normalize_link, parse_link,
                       pick_source, resolve_share_link, sheet_baseline, source_key)
@@ -656,6 +656,8 @@ def cmd_ops(cfg, args) -> int:
         return cmd_site_check(cfg, a.get("url", ""))
     if cmd == "peek-links":
         return cmd_peek_links(cfg, a.get("links") or [])
+    if cmd == "preview-format":
+        return cmd_preview_format(cfg, a.get("items") or [], a.get("format", "parts"))
     if cmd == "study-pages":
         return cmd_study_pages(cfg, a.get("links") or [], int(a.get("limit", 6)))
     if cmd == "repost":
@@ -1418,6 +1420,40 @@ def cmd_peek_links(cfg, links: list) -> int:
         except SourceError as e:
             out.append(f"{i}. ❌ {e}")
     summary("\n".join(out) + "\n", "previews/peek-links.md", cfg)
+    return 0
+
+
+def cmd_preview_format(cfg, items: list, fmt: str = "parts") -> int:
+    """Пример текстов в заданном формате по реальной ссылке — без публикации (для согласования с владелицей).
+    items: [{"link": "...", "lang": "RU"}, …]. Результат: previews/format-preview.md"""
+    import copy as _copy
+    graph = Graph(cfg.graph_version)
+    tokens = load_tokens(cfg)
+    st = State(Path(tempfile.mkdtemp()) / "s.json")
+    pcfg = _copy.copy(cfg)
+    pcfg.settings = _copy.deepcopy(cfg.settings)
+    pcfg.settings["post_format"] = fmt
+    gen = Generator(pcfg)
+    out = [f"## Пример формата «{fmt}» (ничего не опубликовано)", ""]
+    for it in items:
+        lang, link = it.get("lang", "EN"), it.get("link", "")
+        out.append(f"# {cfg.lang_name(lang)} — источник {link}")
+        try:
+            info = parse_link(normalize_link(link, st, graph, tokens, cfg.fallback_source_page_id), cfg.profile_to_page())
+            post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
+            g = gen.generate(lang, post["text"])
+        except (SourceError, GenerationError) as e:
+            out.append(f"❌ {e}\n")
+            continue
+        link_demo = "https://hetaqrqir.com/?p=123"
+        out += ["", "### ПОСТ (подпись к фото)", "", "```", g.fb_text, "```", "",
+                "### ПЕРВЫЙ КОММЕНТАРИЙ", "", "```", (g.comment_text + "\n" + link_demo).strip(), "```", "",
+                f"### СТАТЬЯ НА САЙТЕ: «{g.title}» — {words(g.article_html)} слов", "",
+                g.article_html, "", f"Замечания проверки: {', '.join(g.warnings) or 'нет'} · знаков в посте: "
+                f"{len(g.fb_text)}, в комментарии: {len(g.comment_text)}", ""]
+    if gen.log:
+        out += ["", "Журнал генерации: " + " | ".join(gen.log)]
+    summary("\n".join(out) + "\n", "previews/format-preview.md", cfg)
     return 0
 
 

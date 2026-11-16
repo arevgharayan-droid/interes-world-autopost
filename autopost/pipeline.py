@@ -12,6 +12,7 @@ import html
 import json
 import mimetypes
 import random
+import re
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
@@ -700,6 +701,12 @@ class Pipeline:
                     self.r.error(f"{key} {lang}: статья не опубликована: {err}")
                     continue
             link = fmt.format(wp_id=L["wp_id"])
+            # формат «по частям»: в комментарии — часть 2, «ЧАСТЬ 3» и ссылка; иначе — только ссылка
+            try:
+                ctext = (self.load_text(dt, lang).get("comment_text") or "").strip()
+            except (OSError, ValueError):
+                ctext = ""
+            message = f"{ctext}\n{link}" if ctext else link
             for pid, e in pending:
                 page = self.cfg.page(pid)
                 name = page.name if page else pid
@@ -733,7 +740,7 @@ class Pipeline:
                         self.state.save()
                     # перед комментарием всегда смотрим, нет ли его уже (защита от дублей)
                     existing = [c for c in self.graph.comments(target, tok)
-                                if (c.get("message") or "").strip() == link]
+                                if re.search(re.escape(link) + r"(?![\w])", c.get("message") or "")]
                     if existing:
                         e.update(comment_id=existing[0]["id"], status="done", error=None)
                         self.state.save()
@@ -744,7 +751,7 @@ class Pipeline:
                         continue      # пока ждали очереди, этому пользователю отказали — комментарий позже
                     e["comment_attempts"] = e.get("comment_attempts", 0) + 1
                     self.state.save()
-                    c = self.graph.comment(target, tok, link)
+                    c = self.graph.comment(target, tok, message)
                     e.update(comment_id=c.get("id"), status="done", error=None)
                     self.r.counts["comments"] += 1
                     self.pacer.ok(self.pacer.owner(pid))

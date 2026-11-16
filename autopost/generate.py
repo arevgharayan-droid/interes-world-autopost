@@ -83,10 +83,123 @@ class Generated:
     backend: str
     model: str
     warnings: list
+    comment_text: str = ""     # формат «по частям»: текст первого комментария (часть 2); ссылка добавляется при публикации
 
     def as_dict(self) -> dict:
         return {"title": self.title, "fb_text": self.fb_text, "article_html": self.article_html,
+                "comment_text": self.comment_text,
                 "backend": self.backend, "model": self.model, "warnings": self.warnings}
+
+
+# --- формат «по частям» (с 17.11.2026, как у страниц Georgia Daily Stories, One też czują, Er fragte sie lachte):
+# пост = заголовок + часть 1 (обрыв на интриге) + «спасибо… продолжение в первом комментарии 👇»;
+# первый комментарий = «ЧАСТЬ 2» + часть 2 (новый обрыв) + «напишите „Да“» + «ЧАСТЬ 3» + ссылка;
+# статья на сайте = вся история: часть 1, «ЧАСТЬ 2», «ЧАСТЬ 3» с развязкой.
+PART_WORD = {"FR": "PARTIE", "IT": "PARTE", "EN": "PART", "NL": "DEEL", "RU": "ЧАСТЬ", "TR": "BÖLÜM", "DE": "TEIL",
+             "PT": "PARTE", "PL": "CZĘŚĆ", "CS": "ČÁST", "UK": "ЧАСТИНА", "ES": "PARTE", "RO": "PARTEA", "AR": "الجزء"}
+POST_OUTRO = {
+    "FR": "Merci d’avoir lu jusqu’ici.\nLa suite est dans le premier commentaire 👇",
+    "IT": "Grazie per aver letto fin qui.\nIl seguito è nel primo commento 👇",
+    "EN": "Thank you for reading this far.\nThe continuation is in the first comment 👇",
+    "NL": "Bedankt dat je tot hier hebt gelezen.\nHet vervolg staat in de eerste reactie 👇",
+    "RU": "Спасибо, что дочитали до этого места.\nПродолжение — в первом комментарии 👇",
+    "TR": "Buraya kadar okuduğunuz için teşekkürler.\nDevamı ilk yorumda 👇",
+    "DE": "Danke, dass Sie bis hierher gelesen haben.\nDie Fortsetzung finden Sie im ersten Kommentar 👇",
+    "PT": "Obrigado por ler até aqui.\nA continuação está no primeiro comentário 👇",
+    "PL": "Dziękuję, że dotarliście aż tutaj.\nDalszy ciąg czeka w pierwszym komentarzu 👇",
+    "CS": "Děkuji, že jste dočetli až sem.\nPokračování najdete v prvním komentáři 👇",
+    "UK": "Дякуємо, що дочитали до цього місця.\nПродовження — у першому коментарі 👇",
+    "ES": "Gracias por leer hasta aquí.\nLa continuación está en el primer comentario 👇",
+    "RO": "Vă mulțumim că ați citit până aici.\nContinuarea este în primul comentariu 👇",
+    "AR": "شكرًا لأنكم قرأتم حتى هنا.\nالتتمة في التعليق الأول 👇",
+}
+COMMENT_OUTRO = {
+    "FR": "Merci d’avoir lu jusqu’au bout ! Si vous voulez connaître la fin, aimez l’histoire et écrivez « Oui »",
+    "IT": "Grazie per aver letto fino alla fine! Se volete sapere come finisce, mettete un like e scrivete «Sì»",
+    "EN": "Thank you for reading to the end! If you want to know how it ends, like the story and write “Yes”",
+    "NL": "Bedankt voor het lezen tot het einde! Wil je weten hoe het afloopt? Geef een like en schrijf „Ja”",
+    "RU": "Спасибо, что дочитали до конца! Если хотите узнать финал, поставьте лайк и напишите «Да»",
+    "TR": "Sonuna kadar okuduğunuz için teşekkürler! Sonunu öğrenmek istiyorsanız beğenin ve “Evet” yazın",
+    "DE": "Danke, dass Sie bis zum Ende gelesen haben! Wenn Sie wissen möchten, wie es ausgeht, "
+          "geben Sie ein Gefällt mir und schreiben Sie „Ja“",
+    "PT": "Obrigado por ler até ao fim! Se quiser saber o final, deixe o seu like e escreva “Sim”",
+    "PL": "Dziękuję, że przeczytaliście do końca! Jeśli chcecie poznać zakończenie, zostawcie polubienie "
+          "i napiszcie „Tak”",
+    "CS": "Děkuji, že jste dočetli až do konce! Pokud chcete znát konec, dejte like a napište „Ano“",
+    "UK": "Дякуємо, що дочитали до кінця! Якщо хочете дізнатися фінал, поставте вподобайку й напишіть «Так»",
+    "ES": "¡Gracias por leer hasta el final! Si quieres saber cómo termina, dale me gusta y escribe «Sí»",
+    "RO": "Vă mulțumim că ați citit până la capăt! Dacă vreți să aflați finalul, dați like și scrieți „Da”",
+    "AR": "شكرًا لأنكم قرأتم حتى النهاية! إذا أردتم معرفة النهاية، اضغطوا إعجاب واكتبوا «نعم»",
+}
+
+
+def _paras(text: str) -> list:
+    """Абзацы: по пустым строкам; если их нет — по строкам."""
+    text = (text or "").strip()
+    parts = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    if len(parts) <= 1:
+        parts = [p.strip() for p in text.splitlines() if p.strip()]
+    return parts
+
+
+def _same_title(line: str, title: str) -> bool:
+    norm = lambda s: re.sub(r"[\W_]+", "", (s or "").lower())  # noqa: E731
+    return bool(line) and norm(line) == norm(title)
+
+
+def parse_parts(raw: str) -> tuple:
+    m = re.search(r"===TITLE===\s*(.*?)\s*===PART1===\s*(.*?)\s*===PART2===\s*(.*?)\s*===PART3===\s*(.*?)"
+                  r"\s*(?:===END===|\Z)", raw or "", flags=re.S)
+    if not m:
+        raise GenerationError("ответ Claude не в нужном формате (нет маркеров ===TITLE===, ===PART1=== …)")
+    title, p1, p2, p3 = (x.strip() for x in m.groups())
+    title = title.splitlines()[0].strip() if title else ""
+    title = title.strip(" \"'«»“”„*#").strip()
+    clean = []
+    for p in (p1, p2, p3):
+        p = re.sub(r"<[^>]+>", "", p)                       # на всякий случай — без HTML
+        p = re.sub(r"^```[a-z]*\s*|\s*```$", "", p, flags=re.I).strip()
+        clean.append(p)
+    p1 = clean[0]
+    first = p1.splitlines()[0] if p1 else ""
+    if _same_title(first, title):                           # заголовок над постом ставим сами — без повтора
+        p1 = p1[len(first):].strip()
+    return title, p1, clean[1], clean[2]
+
+
+def assemble_parts(lang: str, title: str, p1: str, p2: str, p3: str) -> tuple:
+    """(текст поста, текст первого комментария без ссылки, HTML статьи)."""
+    part = PART_WORD.get(lang, "PART")
+    fb = f"{title}\n\n" + "\n\n".join(_paras(p1)) + f"\n\n{POST_OUTRO.get(lang, POST_OUTRO['EN'])}"
+    comment = (f"{part} 2\n\n" + "\n\n".join(_paras(p2))
+               + f"\n\n{COMMENT_OUTRO.get(lang, COMMENT_OUTRO['EN'])}\n\n{part} 3")
+    body = lambda t: "\n".join(f"<p>{html.escape(x, quote=False)}</p>" for x in _paras(t))  # noqa: E731
+    article = f"{body(p1)}\n<h2>{part} 2</h2>\n{body(p2)}\n<h2>{part} 3</h2>\n{body(p3)}"
+    return fb, comment, article
+
+
+def validate_parts(lang: str, source_text: str, title: str, p1: str, p2: str, p3: str) -> tuple:
+    errors, warnings = [], []
+    if not title or len(title) > 250:
+        errors.append("заголовок пустой или длиннее 250 символов")
+    w1, w2, w3 = words(p1), words(p2), words(p3)
+    for name, w, lo, hi, soft in (("часть 1", w1, 250, 800, (330, 680)), ("часть 2", w2, 180, 700, (280, 530)),
+                                  ("часть 3", w3, 300, 1000, (420, 750))):
+        if not (lo <= w <= hi):
+            errors.append(f"{name}: {w} слов")
+        elif not (soft[0] <= w <= soft[1]):
+            warnings.append(f"{name}: {w} слов")
+    for name, txt in (("часть 1", p1), ("часть 2", p2), ("часть 3", p3)):
+        if re.search(r"https?://|www\.", txt, flags=re.I):
+            errors.append(f"{name}: есть ссылка")
+        got = detect_language(txt)
+        if got and got != lang:
+            errors.append(f"язык ({name}) похож на {got}, а нужен {lang}")
+    if not p1.rstrip().endswith(("…", "...")):
+        warnings.append("часть 1 не обрывается на «…»")
+    if re.search(r"\b(AI|ChatGPT|Claude|as an AI|translation)\b", " ".join((p1, p2, p3))):
+        warnings.append("в тексте упоминается AI/перевод — проверьте")
+    return errors, warnings
 
 
 def words(text: str) -> int:
@@ -169,19 +282,31 @@ class Generator:
         self.max_tokens = int(c.get("max_tokens", 8000))
         self.max_attempts = int(c.get("max_attempts", 3))
         self.system = cfg.path("prompts/system.md").read_text(encoding="utf-8").strip()
-        self.template = cfg.path("prompts/generate.md").read_text(encoding="utf-8")
+        # classic — вся история в посте, в комментарии только ссылка; parts — пост / комментарий / статья по частям
+        self.post_format = str(cfg.settings.get("post_format") or "classic")
+        tpl = "prompts/generate_parts.md" if self.post_format == "parts" else "prompts/generate.md"
+        self.template = cfg.path(tpl).read_text(encoding="utf-8")
         self.log = []
         self.last_usage = None  # расход токенов последнего обращения к Claude (для теста стоимости)
 
     # --- публичный метод -------------------------------------------------------
     def generate(self, lang: str, source_text: str) -> Generated:
+        src_w = words(source_text)
         prompt = (self.template.replace("{LANGUAGE}", self.cfg.lang_name(lang))
-                  .replace("{SOURCE_WORDS}", str(words(source_text)))
+                  .replace("{SOURCE_WORDS}", str(src_w))
+                  .replace("{PART1_WORDS}", str(min(600, max(400, src_w))))
                   .replace("{SOURCE}", source_text.strip()))
         last_err = None
         for attempt in range(1, self.max_attempts + 1):
             try:
                 raw, used = self._complete(prompt, lang)
+                if self.post_format == "parts":
+                    title, p1, p2, p3 = parse_parts(raw)
+                    errors, warnings = validate_parts(lang, source_text, title, p1, p2, p3)
+                    if errors:
+                        raise GenerationError("; ".join(errors))
+                    fb, comment, article = assemble_parts(lang, title, p1, p2, p3)
+                    return Generated(title, fb, article, used, self.model, warnings, comment_text=comment)
                 title, fb, art_raw = parse_output(raw)
                 article = sanitize_article(art_raw)
                 errors, warnings = validate(lang, source_text, title, fb, article)
@@ -308,6 +433,13 @@ _MOCK = {
 
 def _mock_output(lang: str, prompt: str) -> str:
     title, sentence, outro = _MOCK[lang]
+    if "===PART1===" in prompt:
+        m = re.search(r"About (\d+) words", prompt)
+        n1 = int(m.group(1)) if m else 450
+        per = max(1, words(sentence))
+        para = lambda n: "\n\n".join((sentence * 3).strip() for _ in range(max(1, round(n / per / 3))))  # noqa: E731
+        return (f"===TITLE===\n{title}\n===PART1===\n{para(n1)}…\n===PART2===\n{para(400)}…\n"
+                f"===PART3===\n{para(550)}\n===END===")
     m = re.search(r"about (\d+) words", prompt)
     src_words = int(m.group(1)) if m else 120
     per = max(1, words(sentence))

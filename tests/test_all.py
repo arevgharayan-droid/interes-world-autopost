@@ -221,6 +221,29 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(sum(len(v) for v in graph.comments_by.values()), len(cfg.pages) - 1)
         self.assertEqual(st.slots["2030-05-01 09:00"]["status"], "done")
 
+    def test_parts_format_post_comment_article(self):
+        """Формат «по частям»: пост — заголовок + часть 1; комментарий — ЧАСТЬ 2 … ЧАСТЬ 3 + ссылка; без дублей."""
+        cfg, clock, graph, wp, st, run = self._setup(datetime(2030, 5, 1, 6, 7))
+        cfg.settings["post_format"] = "parts"
+        run()                                            # 06:07 — подготовка и отложенные посты на 09:00
+        posts = list(graph.posts.values())
+        self.assertTrue(posts)
+        it_page = cfg.pages_for("IT")[0].page_id
+        p = next(x for x in posts if x["page"] == it_page)
+        self.assertIn("Grazie per aver letto fin qui.", p["message"])
+        self.assertTrue(p["message"].startswith("Un incontro che ha cambiato tutto\n\n"))
+        self.assertTrue(any("<h2>PARTE 3</h2>" in w.get("content", "") for w in wp.posts.values()))
+        clock["now"] = clock["now"].replace(hour=9, minute=7)
+        run()
+        clock["now"] = clock["now"].replace(hour=9, minute=37)
+        run()                                            # повторный запуск — комментарий не дублируется
+        for pid, cms in graph.comments_by.items():
+            self.assertEqual(len(cms), 1)
+            msg = cms[0]["message"]
+            self.assertTrue(msg.split("\n")[0].endswith(" 2"), msg[:40])
+            self.assertRegex(msg, r"\n\S+ 3\nhttps?://\S+$")
+        self.assertEqual(sum(len(v) for v in graph.comments_by.values()), len(cfg.pages) - 1)
+
     def test_no_source_is_not_fatal(self):
         cfg, clock, graph, wp, st, run = self._setup(datetime(2030, 5, 1, 6, 0))
         graph.source_posts.clear()

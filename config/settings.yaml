@@ -69,6 +69,13 @@ group_sites:
     wp_auth: make_connector
     key_secret: WP_API_KEY
 
+# Формат публикации:
+#   classic — вся история в посте, в первом комментарии только ссылка на статью;
+#   parts   — как у Georgia Daily Stories / One też czują: пост = заголовок + часть 1 (обрыв) + «продолжение в первом
+#             комментарии 👇»; комментарий = «ЧАСТЬ 2» + часть 2 + «напишите „Да“» + «ЧАСТЬ 3» + ссылка;
+#             статья = вся история (часть 1, ЧАСТЬ 2, ЧАСТЬ 3 с развязкой). Применяется к ещё не подготовленным выпускам.
+post_format: classic
+
 claude:
   # auto — подписка Max (CLAUDE_CODE_OAUTH_TOKEN), при сбое — API (если задан ANTHROPIC_API_KEY)
   # subscription — только подписка; api — только API; mock — тестовые тексты без Claude
