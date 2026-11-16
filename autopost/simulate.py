@@ -134,7 +134,8 @@ def run_simulation(cfg, days=2, drop=0.0, seed=7):
         problems.append(f"фото в медиатеке {len(wp.media)}, ожидалось {slots_total} (у каждой группы своё)")
     from .config import site_for
     prefixes = tuple({site_for(sim_cfg.settings, g)["comment_link_format"].split("{")[0] for g in sim_cfg.groups()})
-    links_ok = all(graph.comments_by[pid][0]["message"].startswith(prefixes)
+    # ссылка — последняя строка комментария (в формате «по частям» перед ней — часть 2)
+    links_ok = all(graph.comments_by[pid][0]["message"].strip().splitlines()[-1].startswith(prefixes)
                    for pid in graph.posts if graph.comments_by.get(pid))
     if not links_ok:
         problems.append("ссылка в комментарии не того формата")
