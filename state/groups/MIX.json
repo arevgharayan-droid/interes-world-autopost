@@ -2,9 +2,12 @@
  "enabled_since": "2026-11-16T21:06:31+04:00",
  "output_fps": {
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
+  "38255c46602154608a68": "2026-11-16T23:52:52+00:00",
+  "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
+  "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e3404d19673afcbaa7f8": "2026-11-16T19:28:27+00:00",
@@ -468,7 +471,86 @@
    }
   },
   "2026-11-17 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "أوقفني شرطيا المرور بلا سبب وكبّلاني بقسوة على سيارتي، لكن حين طلبتُ منهما إخراج شيء من جيب شورتي تجمّد الرجلان في مكانهما",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 277,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Dos policías me esposaron sin motivo en plena carretera, pero cuando les pedí que sacaran algo de mi bolsillo, los dos se quedaron helados",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 275,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Doi polițiști au încătușat-o brutal pe o fată fără niciun motiv, dar când i-au scotocit buzunarul la cererea ei, au rămas încremeniți",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 276,
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "gen_attempts": 1,
+     "gen_error": "UK: не удалось получить корректный текст за 3 попытки: язык (часть 1) похож на RU, а нужен UK",
+     "pages": {}
+    }
+   },
    "slot_iso": "2026-11-17T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/886770543_122130695732893096_1861246166854463743_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_DtlfFTeTvkQ7kNvwE-dQx5&_nc_oc=Ado_3bfFg76SZA22zM2HtvcAyBPa473IkNvgJ4vJ34Nm4_VNe6w6FufZonXzgPMsGvM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=mZicYJuCXZPC6P68DyrgrA&_nc_tpa=Q5bMBQLBT1kZgG6ZnLDIZXNmdgju38lQwg_ojZd3F3RBeCMDA_ODqQpr6hzhPwHPQ9TQmLo3SpLZ6ngpcA&oh=00_AQTYZ-2YeMJxQcOwqRYiMCZjLt39Pzc-AooRDn-d5y_ulg&oe=6B01646A",
