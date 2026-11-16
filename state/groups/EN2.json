@@ -3,6 +3,7 @@
  "fb_block_until": "2026-11-14T14:14:33+04:00",
  "output_fps": {
   "04d6e76bc141df2ccb55": "2026-11-10T22:04:40+00:00",
+  "06b9a4fa459e62ade690": "2026-11-16T16:00:45+00:00",
   "0802407a599099da93c3": "2026-11-09T13:27:37+00:00",
   "0e747318903c9a689ac2": "2026-11-13T10:14:29+00:00",
   "10148b6a82229cc06f82": "2026-11-10T22:03:30+00:00",
@@ -6141,7 +6142,72 @@
   },
   "2026-11-16 19:59": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mafia Boss Heard His Maid's 5-Year-Old Sobbing Behind a Tree, Then the Child Exposed a Betrayal That Could Destroy His Empire",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 456,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T19:59:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/897671866_122164224207362943_5219239390044423894_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CwiKHBugP2wQ7kNvwGdeCOs&_nc_oc=AdreMG_6fZ5A7xDqjHKc3-nnFTO0lxYOoPxCUCwK7a3o1cxZY1T9W1wF-I8dO64Aex0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=nKR2jCu-3h6b4SLuwxTX8A&_nc_tpa=Q5bMBQLhppnHwPAMx0XX8Dk_lCFhuGEDT3uj8DKaEZAA1zsErD_QtrIZsVh9CAWk2rvswpXtudEgLnYNLA&oh=00_AQRbe850YAEn4efDHkaB9CV1uiu0NLN1-ERy14u0Ntycyw&oe=6B00E168",
@@ -6153,7 +6219,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1959-en2.jpg"
    },
    "source_key": "post:61590888316979_122164224621362943",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6528,7 +6594,7 @@
    "origin": "manual",
    "page_id": "61590888316979",
    "slot": "2026-11-16 19:59",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61593333781016_122122669659444459": {
    "fingerprint": "95faf49810d3f389d8f3",
