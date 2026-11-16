@@ -6019,7 +6019,10 @@
      "title": "Aos 80 anos, minha barriga cresceu tanto que os médicos ficaram em choque. Quando meu filho descobriu o segredo, ficou pálido",
      "warnings": [
       "длина текста FB 653 слов (исходник 791, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 244,
+     "wp_status": "future"
     },
     "RO": {
      "pages": {},
@@ -6047,13 +6050,17 @@
      "warnings": [
       "длина текста FB 471 слов (исходник 791, цель ±10%)",
       "длина статьи 548 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 243,
+     "wp_status": "future"
     },
     "UK": {
      "pages": {},
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-17T01:30:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/886520024_122139692955244044_4406092495418116991_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4CQEgAw73z4Q7kNvwFuwKeP&_nc_oc=Adrtr8a8HIK1rR6Dq17yGu9Cw5diNEBWK5pKU6tNER_i4cLYz3-gCz_vh0UVd8PaJgo&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=wLg02mb3KSVZVsJKv6Crzw&_nc_tpa=Q5bMBQIQGWIuGu0wzjeC8lXCj21Bl5DdEoohaPvOrCNB1yBtsWDiH64He5zCfhiWAw6WQFgnEB6t0wNCnA&oh=00_AQSw84Xvuz4bNx3OJ74S4LM0djKe1Mnf4wWyEAOaoNvPjw&oe=6B013CE2",
@@ -6065,7 +6072,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261117-0130-ru.jpg"
    },
    "source_key": "post:61587321322233_122139692985244044",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -6456,7 +6463,7 @@
    "origin": "manual",
    "page_id": "61587321322233",
    "slot": "2026-11-17 01:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61589490035610_122123132091316334": {
    "fingerprint": "16986c6034bf036031a5",
