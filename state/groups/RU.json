@@ -4816,7 +4816,15 @@
        "attempts": 0,
        "status": "failed_final"
       },
+      "1038143956055997": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
       "1042837395585806": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
+      "1051766924693580": {
        "attempts": 0,
        "status": "failed_final"
       },
@@ -4850,6 +4858,10 @@
        "photo_id": "122140530374737651",
        "post_id": "1125676667286378_122140530404737651",
        "status": "done"
+      },
+      "1146158698570676": {
+       "attempts": 0,
+       "status": "failed_final"
       },
       "988042774402200": {
        "attempts": 0,
