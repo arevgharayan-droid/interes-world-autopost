@@ -6177,12 +6177,14 @@
      "pages": {
       "1016419758218222": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122147433771204972_2234899583756562",
        "error": null,
        "last_attempt": "2026-11-16T20:02:28+04:00",
        "mode": "immediate",
        "photo_id": "122147433681204972",
        "post_id": "1016419758218222_122147433771204972",
-       "status": "published"
+       "status": "done"
       },
       "108881571809093": {
        "attempts": 1,
@@ -6313,12 +6315,14 @@
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122150173407209153_1151265813935930",
        "error": null,
        "last_attempt": "2026-11-16T20:03:02+04:00",
        "mode": "immediate",
        "photo_id": "122150173383209153",
        "post_id": "975714512286925_122150173407209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Eight-Year-Old Girl Begged for Baby Formula While a Crowd Laughed, Until a Feared Chicago Mafia Boss Followed Her Home and Saw What Was Inside",

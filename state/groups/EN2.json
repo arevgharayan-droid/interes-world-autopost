@@ -6268,30 +6268,36 @@
       },
       "648976361631351": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122194742702829482_1699770744911256",
        "error": null,
        "last_attempt": "2026-11-16T20:03:25+04:00",
        "mode": "immediate",
        "photo_id": "122194742678829482",
        "post_id": "648976361631351_122194742702829482",
-       "status": "published"
+       "status": "done"
       },
       "673710079162922": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122244634112895613_1708157707377313",
        "error": null,
        "last_attempt": "2026-11-16T20:03:59+04:00",
        "mode": "immediate",
        "photo_id": "122244634088895613",
        "post_id": "673710079162922_122244634112895613",
-       "status": "published"
+       "status": "done"
       },
       "714226118434052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122205835928902657_1650602516758144",
        "error": null,
        "last_attempt": "2026-11-16T20:04:37+04:00",
        "mode": "immediate",
        "photo_id": "122205835904902657",
        "post_id": "714226118434052_122205835928902657",
-       "status": "published"
+       "status": "done"
       },
       "892503027289970": {
        "attempts": 1,
