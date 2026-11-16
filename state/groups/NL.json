@@ -16,6 +16,7 @@
   "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
   "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
+  "46a1728a5126f9af6c13": "2026-11-16T00:16:52+00:00",
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
@@ -44,6 +45,7 @@
   "caa9ee0aac3ceacdcbc5": "2026-11-09T20:02:27+00:00",
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
+  "d4aa094230f5d5c483b0": "2026-11-16T00:16:52+00:00",
   "ebc91716c611bd42ee20": "2026-11-09T20:07:46+00:00",
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
   "f3c8eaafc0e1dc9038f5": "2026-11-09T13:26:40+00:00",
@@ -3887,9 +3889,83 @@
    "status": "missed"
   },
   "2026-11-16 12:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Du wolltest Mutter sein, also verhalte dich auch so“: Er ließ sie mit den Zwillingen allein – doch als er zurückkam, erstarrte er an der Tür",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 410,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Hij zei: \"Jij wilde moeder worden, dus gedraag je ook zo\" en ging vier dagen vissen, maar toen hij thuiskwam, bleef hij als versteend staan",
+     "warnings": [
+      "длина статьи 967 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 409,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/888725684_122138887586778778_1669999365696966740_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AfYd5Ubn8ccQ7kNvwGNax6Q&_nc_oc=Adrg55L5MJLgEnUWYScxEH7c5_32f7iplljF_kMbNWmVzUxmpnQyuX_rRTq0sPnNLKM&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=lPvI6pRPjCKdYy2fv0kIFg&_nc_tpa=Q5bMBQIEpWU-6yzixkKEdeVguiwM9eS6TrjFWfLqQjRPl_FwOp3WyWT3RDgZPicIEULwBv6R5pjcJExnRQ&oh=00_AQSz4vxloFqextDPWsBdUWIWD3tG7dt0szBw7ozDk1yK7g&oe=6B000A5A",
+    "link": "https://www.facebook.com/share/p/1QCJNFSLrk/",
+    "origin": "manual",
+    "page_id": "61573363363721",
+    "text": "My husband looked me in the eyes and said, “You wanted to be a mother, so act like one,” then walked out and left me alone with our six-month-old twins while he went on vacation with his friends. Four days later, Garrett came home expecting the same exhausted wife, the same crying babies, and the same life waiting for him. Instead, he opened the front door, took one step inside—and stopped dead.\n\nGarrett and I had wanted children for years.\n\nWe had talked about baby names before we were even sure we could have kids. We imagined Sunday mornings, family photos, tiny shoes by the door, and all the ordinary little moments we had waited so long to experience.\n\nThen we found out I was pregnant with twins.\n\nFor months, we told everyone how lucky we felt.\n\nThen our daughters were born.\n\nBy the time they were six months old, I was exhausted in a way I hadn’t known existed.\n\nMy days blurred together into feedings, diapers, laundry, bottles, crying, burp cloths, and trying to calm two babies at the same time on almost no sleep. Some mornings, I couldn’t remember whether I had eaten breakfast.\n\nStill, I rarely complained.\n\nI knew becoming parents was hard on both of us.\n\nOr at least, that was what I kept telling myself.\n\nOne night, both girls were overtired and screaming. I had one baby against my shoulder while gently bouncing the other in a bassinet with my foot.\n\nGarrett walked into the kitchen.\n\nI looked at him and asked for one thing.\n\n“Could you wash the bottles?”\n\nThat was all.\n\nHe let out a long sigh.\n\nThen he looked around the room.\n\n“There are bottles everywhere. The babies are always crying. You’re always stressed.”\n\nI stared at him.\n\nHe continued as if I were the problem he had been waiting to discuss.\n\n“I’m tired of coming home to this.”\n\nSomething inside me tightened.\n\nI looked down at our daughter in my arms.\n\n“She’s six months old, Garrett. They both are.”\n\n“I know that.”\n\n“Then help me.”\n\nInstead of answering, he walked into our bedroom.\n\nA few minutes later, I followed him and found him packing a duffel bag.\n\n“What are you doing?”\n\n“Going fishing.”\n\nI thought I had misheard him.\n\n“What?”\n\n“Four days. With the guys.”\n\nI actually laughed once because I was sure he had to be joking.\n\nHe wasn’t.\n\n“You’re leaving me alone with two infants for four days?”\n\n“I need a break.”\n\n“So do I.”\n\nHe kept packing.\n\nI told him I hadn’t slept properly in months. I told him I was barely keeping up and that I needed him to act like their father, not like someone occasionally visiting the house.\n\nGarrett zipped the bag.\n\nThen he looked at me and shrugged.\n\n“You wanted to be a mother, so act like one.”\n\nI just stood there.\n\nAfter everything we had gone through to have those babies, those words hit harder than I expected.\n\nI didn’t yell.\n\nI didn’t beg him to stay.\n\nI stepped aside and let him walk out.\n\nThe next four days were brutal.\n\nBut somewhere between the midnight feedings, the crying, the exhaustion, and the silence after both babies finally fell asleep, something inside me changed.\n\nI stopped thinking about how to make Garrett understand.\n\nI started thinking about what my daughters and I actually needed.\n\nBy the fourth day, I had made a decision.\n\nGarrett came home that afternoon.\n\nI heard his key turn in the lock.\n\nHe opened the door like he was returning to the same life he had abandoned.\n\nThen he stepped inside.\n\nAnd stopped dead in the doorway.\n\nThe story is too long to post in the caption, so just say you \"Yes\". The full story will be in the comments below.👇👇.",
+    "wp_media_id": 408,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1200-nl.jpg"
+   },
+   "source_key": "post:61573363363721_122138887658778778",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-16 15:00": {
    "langs": {},
@@ -3933,6 +4009,10 @@
   "link:3b471f96d5cc3d644549": {
    "link": "https://www.facebook.com/share/p/1FwBkJ6oyp/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122142009807234406&id=61587032195586"
+  },
+  "link:4cd147884290124c880b": {
+   "link": "https://www.facebook.com/share/p/1QCJNFSLrk/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122138887658778778&id=61573363363721"
   },
   "link:5c33073fa391ab7bf9e7": {
    "link": "https://www.facebook.com/share/p/1CAbg3ZHvn/",
@@ -4124,6 +4204,14 @@
    "origin": "manual",
    "page_id": "61560353781750",
    "slot": "2026-11-12 15:00",
+   "status": "used"
+  },
+  "post:61573363363721_122138887658778778": {
+   "fingerprint": "5ac7f4f0ad6a1edd5585",
+   "link": "https://www.facebook.com/share/p/1QCJNFSLrk/",
+   "origin": "manual",
+   "page_id": "61573363363721",
+   "slot": "2026-11-16 12:00",
    "status": "used"
   },
   "post:61573363363721_122139490280778778": {
