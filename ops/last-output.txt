@@ -1,15 +1,15 @@
 ## Доступ к страницам
 
 - **FR**
-  - Au Cœur des Vies [FR] — старый autopost
-  - Le Fil de la Vie [FR] — старый autopost
-  - Destins Touchants [FR] — старый autopost
-  - Larmes de Vie [FR] — старый autopost
-  - La Vie Telle Qu’elle Est [FR] — старый autopost
+  - Au Cœur des Vies [FR] — autopost3
+  - Le Fil de la Vie [FR] — autopost3
+  - Destins Touchants [FR] — autopost3
+  - Larmes de Vie [FR] — autopost3
+  - La Vie Telle Qu’elle Est [FR] — autopost3
   - Visages de la Vie [FR] — autopost2
   - Vie en Stories [FR] — autopost2
   - Une Histoire Qui Vous Touchera [FR] — autopost2
-  - Moments Français | Paris [FR] — старый autopost
+  - Moments Français | Paris [FR] — autopost3
 - **IT+PL+CS**
   - Quand Tout Bascule [IT] — autopost2
   - Vite in Primo Piano [IT] — autopost2
@@ -18,13 +18,13 @@
   - Racconti Quotidiani | Monaco [IT] — autopost2
   - Vita Virale | Paris [IT] — autopost2
   - Vite da Raccontare [IT] — autopost2
-  - Frammenti di Vita [IT] — старый autopost
-  - Una Storia che Ti Toccherà [IT] — старый autopost
-  - Cuori in Storia [IT] — старый autopost
+  - Frammenti di Vita [IT] — autopost3
+  - Una Storia che Ti Toccherà [IT] — autopost
+  - Cuori in Storia [IT] — autopost3
   - Lacrime di Vita [IT] — autopost2
   - Vite Spezzate [IT] — autopost2
   - Storie Che Toccano [IT] — autopost2
-  - Vita e Sentimenti [IT] — старый autopost
+  - Vita e Sentimenti [IT] — autopost3
   - Racconti Emozionanti [IT] — autopost2
   - Momenti di Vita [IT] — autopost2
   - Éclats de vie [IT] — autopost2
@@ -34,39 +34,39 @@
   - Życie, które porusza [PL] — autopost2
   - Příběhy ze Srdce [CS] — autopost2
 - **EN-1**
-  - The Daily Report [EN] — старый autopost
-  - Human Life Stories [EN] — старый autopost
-  - Behind Her Smile [EN] — старый autopost
-  - Life’s Echo [EN] — старый autopost
-  - Beyond the Mask [EN] — старый autopost
-  - Whispers of Fate [EN] — старый autopost
-  - Heartfelt Lessons [EN] — старый autopost
-  - The Golden Touch [EN] — старый autopost
+  - The Daily Report [EN] — autopost3
+  - Human Life Stories [EN] — autopost3
+  - Behind Her Smile [EN] — autopost3
+  - Life’s Echo [EN] — autopost3
+  - Beyond the Mask [EN] — autopost3
+  - Whispers of Fate [EN] — autopost3
+  - Heartfelt Lessons [EN] — autopost3
+  - The Golden Touch [EN] — autopost3
   - Amazing [EN] — нет доступа
-  - Pet Lover [EN] — старый autopost
-  - Sweet Paws #1 [EN] — старый autopost
-  - Sweet Paws #2 [EN] — старый autopost
-  - Love This World [EN] — старый autopost
-  - Talent The Best [EN] — старый autopost
-  - Exciting stories [EN] — старый autopost
-  - True American Tales [EN] — старый autopost
+  - Pet Lover [EN] — autopost3
+  - Sweet Paws #1 [EN] — autopost3
+  - Sweet Paws #2 [EN] — autopost3
+  - Love This World [EN] — autopost3
+  - Talent The Best [EN] — autopost3
+  - Exciting stories [EN] — autopost3
+  - True American Tales [EN] — autopost3
 - **EN-2**
-  - Cute Stories [EN] — старый autopost
-  - Sunny Days [EN] — старый autopost
-  - Fragments of Life [EN] — старый autopost
-  - Your Daily Drama [EN] — старый autopost
-  - Musical Devotee [EN] — старый autopost
-  - Talent Spotlight [EN] — старый autopost
-  - Kids in Motion [EN] — старый autopost
-  - Little Legends Live [EN] — старый autopost
-  - Deepest Lessons [EN] — старый autopost
-  - Cute Animals [EN] — старый autopost
-  - Baby Lovers [EN] — старый autopost
-  - Fine Baby [EN] — старый autopost
-  - Life Between Moments [EN] — старый autopost
+  - Cute Stories [EN] — autopost3
+  - Sunny Days [EN] — autopost3
+  - Fragments of Life [EN] — autopost3
+  - Your Daily Drama [EN] — autopost3
+  - Musical Devotee [EN] — autopost3
+  - Talent Spotlight [EN] — autopost3
+  - Kids in Motion [EN] — autopost3
+  - Little Legends Live [EN] — autopost3
+  - Deepest Lessons [EN] — autopost3
+  - Cute Animals [EN] — autopost3
+  - Baby Lovers [EN] — autopost3
+  - Fine Baby [EN] — autopost3
+  - Life Between Moments [EN] — autopost3
 - **NL+DE**
   - Het is interessant [NL] — autopost2
-  - Mooie kinderen [NL] — старый autopost
+  - Mooie kinderen [NL] — autopost3
   - Levensmomenten Nederland [NL] — autopost2
   - Verhalen uit het Hart [NL] — autopost2
   - Geschichten des Lebens [DE] — autopost2
@@ -76,13 +76,13 @@
   - Momente des Lebens [DE] — autopost2
   - Herzgeschichten Deutschland [DE] — autopost2
 - **RU+TR+PT**
-  - Из глубины сердца [RU] — старый autopost
-  - Из глубины души [RU] — старый autopost
-  - Моменты жизни [RU] — старый autopost
-  - Hayatın Anları [TR] — старый autopost
+  - Из глубины сердца [RU] — autopost
+  - Из глубины души [RU] — autopost
+  - Моменты жизни [RU] — autopost3
+  - Hayatın Anları [TR] — autopost3
   - Kalpten Hikayeler [TR] — autopost2
-  - Segredos que a Vida Guarda [PT] — старый autopost
+  - Segredos que a Vida Guarda [PT] — autopost
   - Histórias que Ninguém Esquece [PT] — autopost2
 
-Итого: autopost2: 32 · старый autopost: 44 · нет доступа: 1 · токен не работает: 0
+Итого: autopost3: 40 · autopost2: 32 · autopost: 4 · нет доступа: 1
 
