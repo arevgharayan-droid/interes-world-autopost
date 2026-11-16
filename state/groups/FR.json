@@ -3834,7 +3834,7 @@
      "pages": {
       "1032441206625600": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1041497042386258": {
        "attempts": 1,
@@ -3849,11 +3849,11 @@
       },
       "1058598924006917": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1079295351933311": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1103884436136482": {
        "attempts": 1,
@@ -3868,7 +3868,7 @@
       },
       "1145306638657445": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1202025962997153": {
        "attempts": 0,

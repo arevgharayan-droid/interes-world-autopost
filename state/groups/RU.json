@@ -4475,7 +4475,15 @@
   "2026-11-16 12:00": {
    "langs": {},
    "slot_iso": "2026-11-16T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/886519980_122138764010778778_1550211825528596794_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zfv14_FsTf4Q7kNvwFC9Cpr&_nc_oc=AdpBWkK5U4nyuRmFGGLfhyE1-ICmLguUvfzaFvkJ8nu7YbNF-DLYXIqe9TyAI5bqBW8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=nK_FcMlZ9zinhoVEj1UdNw&_nc_tpa=Q5bMBQKjOkTFJvruZtoJWdDyrMnYtZetaG1hSHGV-w0QLUgLAiN2VmOBl2kMC-gALvpeZcA2WB-Uk9O7Fw&oh=00_AQTsnwojVdTzl6DTYY-DC4NGvNQXSfZoFUYUHULgbWwyRQ&oe=6B00298B",
+    "link": "https://www.facebook.com/share/p/1E4ZModwMj/",
+    "origin": "manual",
+    "page_id": "61573363363721",
+    "text": "On my twenty-ninth birthday, my billionaire husband forgot our dinner and left me sitting alone until the restaurant closed. Hours later, after I collapsed on the marble staircase of his mansion, he finally realized how little he knew about the woman he had married. But the hospital wristband hidden inside my coat was only the beginning of what he was about to discover.\n\nMy name is Nora Ferraro, and the day Luca Ferraro underestimated me was the day everything between us began to collapse.\n\n“Mrs. Ferraro, would you like us to box the cake?”\n\nI stared at the small chocolate cake in front of me.\n\nHappy Birthday, Nora.\n\nLuca should have been sitting across from me.\n\nInstead, his chair was empty, his wine untouched, and every call I made went straight to voicemail.\n\n“No,” I whispered. “Thank you.”\n\nI had worn the blue dress he once told me looked beautiful on me. I had ordered his favorite wine.\n\nI didn’t want diamonds.\n\nI didn’t want another expensive gift.\n\nI wanted two hours with my husband.\n\nThat was all.\n\nLuca could negotiate billion-dollar deals without blinking. He could silence an entire boardroom with one look.\n\nBut that morning, when I had waited for him to remember my birthday, he answered a business call and walked away.\n\nBy the time the restaurant closed, freezing rain had begun falling outside.\n\nHis driver offered to take me home.\n\nI refused.\n\nI couldn’t bear another person witnessing how completely I had been forgotten.\n\nSo I walked.\n\nA mile and a half.\n\nMy shoes filled with icy water. My dress clung to my legs, and every step made the dizziness worse.\n\nI had been exhausted for weeks.\n\nThere were doctor appointments Luca knew nothing about.\n\nWarnings I had tried to follow.\n\nAnd a reason for my weakness I still hadn’t found the courage to explain.\n\nWhen I finally reached the mansion, I heard Luca in his office talking about a shipment and the next morning’s board meeting.\n\nHe was home.\n\nHe simply hadn’t come for me.\n\nI turned toward the staircase.\n\nOne step.\n\nThen another.\n\nThe room tilted.\n\nMy fingers slipped from the railing.\n\nEverything went black.\n\n“Nora! Open your eyes!”\n\nWhen I surfaced, Luca was holding me.\n\nHis shirt was soaked from my coat.\n\n“You’re freezing,” he said. “What happened?”\n\n“Just the rain.”\n\n“What rain?”\n\n“The walk.”\n\nHis face changed.\n\n“You walked home?”\n\nI nodded.\n\n“A mile and a half.”\n\nHe went pale.\n\nMinutes later, he carried me upstairs and laid me in my own bedroom.\n\nNot his.\n\nOur marriage had always been strange that way.\n\nSeparate rooms.\n\nSeparate schedules.\n\nSeparate lives.\n\nMore money than I could ever spend.\n\nAnd still, all I had ever wanted was for him to stay.\n\n“Get a doctor here now!” Luca ordered.\n\nFor once, every business call stopped.\n\nHe took my hand.\n\n“Why didn’t you tell me you were sick?”\n\nI looked at him.\n\nHow could I explain months of silence to a man who had never asked where I went?\n\nThen he removed my wet coat.\n\nSomething slipped from the pocket.\n\nA narrow white hospital wristband.\n\nLuca picked it up.\n\nST. BRIDGET’S CHILDREN’S HOSPITAL.\n\nPatient: NORA QUINN.\n\nMy maiden name.\n\nYesterday’s date.\n\nHe stared at the department printed beneath it.\n\nHis hand stopped moving.\n\n“Why were you at a children’s hospital?”\n\nBefore I could answer, Dr. Samuel Mercer entered.\n\nLuca immediately held out the wristband.\n\n“Tell me what this means.”\n\nThe doctor looked at it.\n\nThen at me.\n\nHe didn’t answer.\n\nInstead, he asked Luca one question.\n\n“Mr. Ferraro, does your wife know you found this?”\n\nThe story is too long to post in the caption, so just say you \"Yes\". The full story will be in the comments below.👇👇."
+   },
+   "source_key": "post:61573363363721_122138764082778778",
+   "status": "preparing"
   },
   "2026-11-16 15:00": {
    "langs": {},
@@ -4575,6 +4583,10 @@
   "link:af085ce19eb272e341da": {
    "link": "https://www.facebook.com/share/p/1KU2yVpZvX/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1670817227755025&id=100044802900629"
+  },
+  "link:b3dd6aace8ec139023b7": {
+   "link": "https://www.facebook.com/share/p/1E4ZModwMj/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122138764082778778&id=61573363363721"
   },
   "link:b509c2a6ad90c4b92872": {
    "link": "https://www.facebook.com/share/p/1FHUSznZ8Q/",
@@ -4735,6 +4747,14 @@
    "page_id": "61560353781750",
    "slot": "2026-11-12 15:00",
    "status": "used"
+  },
+  "post:61573363363721_122138764082778778": {
+   "fingerprint": "3acbfdeb1f367ae8cd51",
+   "link": "https://www.facebook.com/share/p/1E4ZModwMj/",
+   "origin": "manual",
+   "page_id": "61573363363721",
+   "slot": "2026-11-16 12:00",
+   "status": "reserved"
   },
   "post:61574270220252_122137345892809007": {
    "fingerprint": "0143d65d9c5e6d4d21d0",
