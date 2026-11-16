@@ -7,6 +7,7 @@
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
+  "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
   "5925113003b25213dc5b": "2026-11-15T14:13:20+00:00",
   "59ba199024c504005873": "2026-11-13T10:14:50+00:00",
@@ -26,12 +27,14 @@
   "9cbea19285daf02db497": "2026-11-15T10:15:15+00:00",
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
+  "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "ba5f05202837b2fb860d": "2026-11-14T11:39:45+00:00",
   "bb0ddf4fdb82f7b2d023": "2026-11-10T22:04:53+00:00",
   "bd6eab36f82eb4d435fe": "2026-11-14T19:42:43+00:00",
   "c3a669114cbd1e96b360": "2026-11-12T10:26:53+00:00",
   "c8020142d83ca272273c": "2026-11-16T00:18:19+00:00",
+  "cf29e5e2e8b5770866b0": "2026-11-16T10:16:33+00:00",
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
   "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
   "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
@@ -6235,7 +6238,76 @@
    }
   },
   "2026-11-16 15:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Manžel jí zablokoval karty u pokladny, když kupovala plenky pro miminko. Pak zavolala jedno číslo a všechno se obrátilo",
+     "warnings": [
+      "длина текста FB 662 слов (исходник 821, цель ±10%)",
+      "длина статьи 584 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 438,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mio marito mi ha bloccato le carte mentre compravo i pannolini per nostra figlia, ma una telefonata al mio banchiere ha cambiato tutto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 436,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mąż zablokował mi karty, gdy kupowałam pieluchy dla córki. Jeden telefon do bankiera zmienił wszystko",
+     "warnings": [
+      "длина текста FB 596 слов (исходник 821, цель ±10%)",
+      "длина статьи 509 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 437,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/886874670_122106012848556305_5669342909488845046_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=iPHkRiAUl2oQ7kNvwEpya8m&_nc_oc=AdpEBZJ-4vcSXj277uECe0MwNhmiTSt9BRUFc8-nnYZHLPQe5a8XzdH75tHrouARcwo&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=QuN1JzoYAr_YjfkFpKi53w&_nc_tpa=Q5bMBQLnJhnZCd8vd8yFNs6YptG0pKWK368AO5skt-VFmXth-PKaJ7zwEsqYPOeKY6a0rWGyTCnbYJBP2w&oh=00_AQRkiljWhmPdTS13LxLQl4b0hKMhbqAplJsQBsJ-wGqgzw&oe=6B00A5CB",
@@ -6247,7 +6319,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1500-it.jpg"
    },
    "source_key": "post:61566689175708_122106012902556305",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6533,7 +6605,7 @@
    "origin": "manual",
    "page_id": "61566689175708",
    "slot": "2026-11-16 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573363363721_122139490280778778": {
    "fingerprint": "6f475e73954923012aa2",
