@@ -5582,36 +5582,43 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129011731306316_1460316006088583",
        "error": null,
        "last_attempt": "2026-11-16T23:45:02+04:00",
        "mode": "immediate",
        "photo_id": "122129011707306316",
        "post_id": "1138572272664180_122129011731306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117897691471857_1433958232097405",
        "error": null,
        "last_attempt": "2026-11-16T23:44:45+04:00",
        "mode": "immediate",
        "photo_id": "122117897655471857",
        "post_id": "1338630212673029_122117897691471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120850543505599_1800452984569564",
        "error": null,
        "last_attempt": "2026-11-16T23:44:28+04:00",
        "mode": "immediate",
        "photo_id": "122120850519505599",
        "post_id": "1448441201677530_122120850543505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Minha filha de 8 anos ligou chorando: \"Mãe, os gêmeos não acordam\". Quando arrombei a porta do apartamento do meu ex, descobri o que ele fez",
      "warnings": [],
      "wp_error": null,
      "wp_id": 239,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -5883,40 +5890,47 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124580545304633_2436023763899634",
        "error": null,
        "last_attempt": "2026-11-16T23:43:53+04:00",
        "mode": "immediate",
        "photo_id": "122124580521304633",
        "post_id": "1083701291497481_122124580545304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127916329311884_1161362046245297",
        "error": null,
        "last_attempt": "2026-11-16T23:43:07+04:00",
        "mode": "immediate",
        "photo_id": "122127916305311884",
        "post_id": "1129620776897151_122127916329311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127134601307134_2419010638924744",
        "error": null,
        "last_attempt": "2026-11-16T23:43:31+04:00",
        "mode": "immediate",
        "photo_id": "122127134577307134",
        "post_id": "1164575726728296_122127134601307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123680917305562_1669722258179222",
        "error": null,
        "last_attempt": "2026-11-16T23:44:11+04:00",
        "mode": "immediate",
        "photo_id": "122123680893305562",
        "post_id": "1180583925128715_122123680917305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Telefondaki Küçük Ses \"Anne, İkizler Uyanmıyor\" Dedi, Koşup Gittiğimde Eski Eşimin Dairesinde Karanlık ve Dayanılmaz Bir Sıcak Beni Bekliyordu",
@@ -5946,7 +5960,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261116-2326-ru.jpg"
    },
    "source_key": "post:61559846438723_122235375662328214",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
