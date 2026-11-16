@@ -3976,12 +3976,14 @@
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133368727436382_2804519829963649",
        "error": null,
        "last_attempt": "2026-11-16T04:19:23+04:00",
        "mode": "schedule",
        "photo_id": "122133368697436382",
        "post_id": "1268633826332790_122133368727436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Du wolltest Mutter sein, also verhalte dich auch so“: Er ließ sie mit den Zwillingen allein – doch als er zurückkam, erstarrte er an der Tür",
@@ -4091,7 +4093,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1200-nl.jpg"
    },
    "source_key": "post:61573363363721_122138887658778778",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
