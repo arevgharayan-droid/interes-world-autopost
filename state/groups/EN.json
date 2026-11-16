@@ -6728,7 +6728,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-11-17T00:28:21+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "My Billionaire Husband Left Me in Labor to Be With His Mistress, and Seven Years Later, Our Daughter Walked Onto His Stage",
      "warnings": [
       "длина текста FB 1815 слов (исходник 2189, цель ±10%)"

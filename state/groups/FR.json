@@ -26,6 +26,7 @@
   "b094df1fc1c2da2733f6": "2026-11-12T10:26:33+00:00",
   "b120e497dba6ca6aff31": "2026-11-10T22:02:37+00:00",
   "bb2f93acd716a89559fd": "2026-11-16T10:16:47+00:00",
+  "bb6775e0f7693f38a811": "2026-11-16T20:28:20+00:00",
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
   "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00"
@@ -4758,7 +4759,74 @@
   },
   "2026-11-17 01:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il a offert 150 millions de dollars à sa femme pour divorcer, mais trois ans plus tard, le visage d’un petit garçon sur une photo lui a fait tout abandonner",
+     "warnings": [
+      "длина статьи 993 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 493,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T01:30:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/899736017_122140366833244044_5188898186111385472_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=rKxPANhz0A4Q7kNvwEEEr9d&_nc_oc=AdoCHaZxBP6csSuI01B0Qu4-vdCqWZ3GDHos4ZNBBSNOcpJapruv0dEeZs9TGnhmJ0s&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=81oayXxbozuzPaNX3pIuwg&_nc_tpa=Q5bMBQKIhiEau2qd_qHO0ofeDtPFoEurMAa5KpfWeUCFyBO-hVN9kFaUWs5QAUq1UC28e-XTtLMHj9P7rw&oh=00_AQSjze-pypxSXMd_Wt6gNEXWggvukr6Xgw1iRzI3pln9WQ&oe=6B012AF7",
@@ -4770,7 +4838,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-0130-fr.jpg"
    },
    "source_key": "post:61587321322233_122140366857244044",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5137,7 +5205,7 @@
    "origin": "manual",
    "page_id": "61587321322233",
    "slot": "2026-11-17 01:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61589490035610_122121550203316334": {
    "fingerprint": "c52d158813900511feef",

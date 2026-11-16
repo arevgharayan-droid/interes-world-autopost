@@ -6,6 +6,7 @@
   "0474e7d1c3adb78e01d1": "2026-11-12T20:02:43+00:00",
   "049be09d5ae08dc8389a": "2026-11-09T20:02:09+00:00",
   "04da7545de52af7eefa9": "2026-11-10T22:04:30+00:00",
+  "0819121300603065c21d": "2026-11-16T20:28:20+00:00",
   "0ac40c9da1b87690b6f9": "2026-11-14T19:42:40+00:00",
   "0be0bfc1cc6b59ac3e3b": "2026-11-10T22:07:29+00:00",
   "0ddb611a8e43cef9f763": "2026-11-10T22:07:29+00:00",
@@ -62,8 +63,10 @@
   "9a76a9818995731524e0": "2026-11-16T10:16:47+00:00",
   "9d236a06f2c553cf0edc": "2026-11-15T14:15:11+00:00",
   "9f68477819cc7f2b978d": "2026-11-09T20:02:09+00:00",
+  "a21b9dc024828d2ffa55": "2026-11-16T20:28:20+00:00",
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
+  "ad60f5b2c01f76106a34": "2026-11-16T20:28:20+00:00",
   "b2a2a4c485d7b9f97fbc": "2026-11-16T10:16:47+00:00",
   "b30605de8da0dd54f00f": "2026-11-16T16:01:05+00:00",
   "b704adc12a8d3775fd71": "2026-11-12T09:04:38+00:00",
@@ -5971,7 +5974,86 @@
   },
   "2026-11-17 01:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Aos 80 anos, minha barriga cresceu tanto que os médicos ficaram em choque. Quando meu filho descobriu o segredo, ficou pálido",
+     "warnings": [
+      "длина текста FB 653 слов (исходник 791, цель ±10%)"
+     ]
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "В 80 лет у меня вырос огромный живот, и врач заподозрила беременность. Когда сын узнал, в чём дело, он побледнел, а самое страшное было впереди",
+     "warnings": [
+      "длина текста FB 537 слов (исходник 791, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 242,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "80 Yaşındaki Margaret'in Karnı Korkutucu Biçimde Büyüdü, Doktor \"Hamile Olabilirsiniz\" Dedi ve Oğlu Gerçeği Öğrenince Sarardı",
+     "warnings": [
+      "длина текста FB 471 слов (исходник 791, цель ±10%)",
+      "длина статьи 548 слов"
+     ]
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-17T01:30:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/886520024_122139692955244044_4406092495418116991_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4CQEgAw73z4Q7kNvwFuwKeP&_nc_oc=Adrtr8a8HIK1rR6Dq17yGu9Cw5diNEBWK5pKU6tNER_i4cLYz3-gCz_vh0UVd8PaJgo&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=wLg02mb3KSVZVsJKv6Crzw&_nc_tpa=Q5bMBQIQGWIuGu0wzjeC8lXCj21Bl5DdEoohaPvOrCNB1yBtsWDiH64He5zCfhiWAw6WQFgnEB6t0wNCnA&oh=00_AQSw84Xvuz4bNx3OJ74S4LM0djKe1Mnf4wWyEAOaoNvPjw&oe=6B013CE2",
