@@ -1,8 +1,12 @@
 {
  "enabled_since": "2026-11-16T21:06:31+04:00",
  "output_fps": {
+  "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
+  "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
+  "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
+  "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e3404d19673afcbaa7f8": "2026-11-16T19:28:27+00:00",
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00"
  },
@@ -241,7 +245,97 @@
   },
   "2026-11-17 01:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "رأى أخي الأكبر رجلاً ضخماً يخنقني حتى فقدت الوعي، فتقدّم بهدوء وقال له: «جاء دوري الآن",
+     "warnings": [
+      "длина текста FB 932 слов (исходник 1209, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 248,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hermano llegó diez minutos antes y vio cómo un cinturón negro me asfixiaba hasta desmayarme: lo que dijo después dejó helado a todo el gimnasio",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 246,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A tăcut când a fost sugrumată până la leșin, dar fratele ei cel slab și liniștit a pășit pe saltea și a spus: „Acum e rândul meu",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 247,
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Він побачив, як велетень задушив мою сестру до непритомності, і спокійно сказав: «Тепер моя черга",
+     "warnings": [
+      "длина текста FB 879 слов (исходник 1209, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 245,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T01:30:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/887643818_122139843447244044_3358157914166899371_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3-b2tZOdEmcQ7kNvwFBfedP&_nc_oc=AdrLgcPPSS5N3N4qLI9xFIB6kTd4ldii2WXvugM1DgjzAqluuRiXhH4Kti1IiANKsR8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=FzPwSZhP4zRVBFlAfpUxqw&_nc_tpa=Q5bMBQKo6P6RM1Q3eq0i9k-EOHLPPTdQKeww9DUh6bLILUCSyW16E-MGIdcjMWYCHCgFAuDg0DykCfm_sw&oh=00_AQSKul0pmDAg9A3kQWuhKkB9gxH22KZvn2kIA0OG7JXOnw&oe=6B014381",
@@ -253,7 +347,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261117-0130-mix.jpg"
    },
    "source_key": "post:61587321322233_122139843471244044",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -311,7 +405,7 @@
    "origin": "manual",
    "page_id": "61587321322233",
    "slot": "2026-11-17 01:30",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
