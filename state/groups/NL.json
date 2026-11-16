@@ -20,6 +20,7 @@
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
   "46a1728a5126f9af6c13": "2026-11-16T00:16:52+00:00",
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
+  "4c218b53bb5fd5b6f1b3": "2026-11-16T19:28:25+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
   "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
@@ -48,6 +49,7 @@
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
   "d4aa094230f5d5c483b0": "2026-11-16T00:16:52+00:00",
+  "dcf04943e849a446709a": "2026-11-16T19:28:25+00:00",
   "e3d10d7308b19870ee32": "2026-11-16T16:00:57+00:00",
   "ebc91716c611bd42ee20": "2026-11-09T20:07:46+00:00",
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
@@ -4536,7 +4538,79 @@
   },
   "2026-11-16 23:26": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sie schickten einen Veteranen mit Gehstock und seine siebenjährige Tochter aus der ersten Klasse nach hinten – dann trat der Kapitän aus dem Cockpit und salutierte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 475,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ze stuurden een veteraan met een prothese en zijn zevenjarige dochter naar achteren in het vliegtuig, tot de piloot de cockpit uitkwam",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 473,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T23:26:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/852948333_122231984510328214_1193879092942239011_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1favHlgJ5P4Q7kNvwG9itAY&_nc_oc=Adrz_fqBfZ5yCYjyQxVAqaf46qoSXRotYGc-jhjWXdnvNAby7rVk1yOtR_00i_5pUKU&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=yurYKi4-5LIxZ9OTvttkiQ&_nc_tpa=Q5bMBQLW1GKhH7MnIcUOfxl4GfdqaEZPa5M56fiNZnJgEM5IUJx3QSdgXos_gbuehkOjmF8qR76uex666g&oh=00_AQTFW2FQJn15veApfanMZp59WM2UjYmFgnDN16mMZUkzVA&oe=6B013793",
@@ -4548,7 +4622,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-2326-nl.jpg"
    },
    "source_key": "post:61559846438723_122232211796328214",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4831,7 +4905,7 @@
    "origin": "manual",
    "page_id": "61559846438723",
    "slot": "2026-11-16 23:26",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61560353781750_122118713858345126": {
    "fingerprint": "5884cb21f7124cdb4a71",

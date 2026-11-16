@@ -6429,7 +6429,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-11-16T23:28:25+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "He Said \"Divorce\" at 4:30 A.M. While I Cooked for His Family With Our Newborn on My Chest, But He Never Knew About the Blue Folder",
      "warnings": [],
      "wp_error": null,

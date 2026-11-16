@@ -4,6 +4,7 @@
  "output_fps": {
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
   "08b0488d45dded8d095f": "2026-11-16T00:18:19+00:00",
+  "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
@@ -27,6 +28,7 @@
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
   "9cbea19285daf02db497": "2026-11-15T10:15:15+00:00",
+  "9de178bf596b4ce2bdc8": "2026-11-16T19:28:24+00:00",
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
   "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
@@ -41,6 +43,7 @@
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
   "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
   "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
+  "e5620b751bed22ad8486": "2026-11-16T19:28:24+00:00",
   "efd0f2e108b8fe01d1c7": "2026-11-14T19:42:43+00:00",
   "f0ab5dd9f979bb237bc0": "2026-11-12T20:02:25+00:00",
   "f472d77cd9283f9c86cc": "2026-11-10T22:06:07+00:00",
@@ -7132,7 +7135,86 @@
   },
   "2026-11-16 23:26": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Oženil jsem se s umírající pacientkou tři dny před její smrtí a po pohřbu mi její sestra předala krabičku, která mi vzala dech",
+     "warnings": [
+      "длина текста FB 336 слов (исходник 422, цель ±10%)"
+     ]
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ho sposato la mia paziente sapendo che le restavano tre giorni di vita, e al funerale sua sorella mi ha consegnato una scatola",
+     "warnings": [
+      "длина текста FB 351 слов (исходник 422, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 472,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ożeniłem się z umierającą pacjentką na trzy dni przed jej śmiercią. Po pogrzebie jej siostra podała mi pudełko, które zmieniło wszystko",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 474,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-16T23:26:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/860047073_122233187990328214_546176330463941770_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jixpHLg5Iw0Q7kNvwEFXbNp&_nc_oc=AdqWprUIu5SQUh4a9G4xJQ4_sMeqzBqO-arz0xeQXblhYwzCUZHrp6TwuICTC0dpV_0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=nAfVzAAJZMyTuLx0u6K-hw&_nc_tpa=Q5bMBQJYx1UiDugJt-jk4C_mMk_1jN1Y2z4SR82Be_ME0XLEiXy8X0XLZo68Lq3tocEyb73OW17HoNZjoQ&oh=00_AQRABf9724KpVocKaoyKexqTmsfh9rxmoCgZ5CzPclt3WA&oe=6B014568",
