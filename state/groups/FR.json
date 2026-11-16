@@ -9,6 +9,7 @@
   "2fe82e12e4ad9907ad54": "2026-11-14T19:42:21+00:00",
   "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
+  "4a73690c41800c227951": "2026-11-16T16:00:49+00:00",
   "5475522c07f16a70e1ac": "2026-11-10T22:04:58+00:00",
   "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
   "5d67279da1e3d48db9cd": "2026-11-16T00:18:23+00:00",
@@ -4330,7 +4331,72 @@
   },
   "2026-11-16 19:59": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "En 1995, il a abandonné sa femme et leurs cinq bébés noirs : trente ans plus tard, une lettre de sa mère a révélé le secret qu'elle avait emporté dans la tombe",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 457,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T19:59:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/903576537_1140513752070826_6612560063191826562_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=PL7Jt-PaWPQQ7kNvwF6VT0I&_nc_oc=AdoCviFyoQ2lF6-1bfv4Qc5CG9-b7F_ghQ9eBMMA7B3-Apvy5IlMsc-FkskTAxme7DE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=__qBZH-y-A87f8UZBBDZ0g&_nc_tpa=Q5bMBQIR9H5k1tKyT-7uuj-PddMqFTVxA_GCc-po-62fOl4feqCt0B9B_bS8AQGkHkpkFfB0Eh89uOjl5A&oh=00_AQQftSlr_-lsCz1_NkSDiZvsZUP1Y6eQ0fEINA4urnx6SA&oe=6B00F23B",
@@ -4342,7 +4408,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1959-fr.jpg"
    },
    "source_key": "post:100083366355470_1140513918737476",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4605,7 +4671,7 @@
    "origin": "manual",
    "page_id": "100083366355470",
    "slot": "2026-11-16 19:59",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122101879646536431": {
    "fingerprint": "b5ed31862cee3216b94b",
