@@ -62,6 +62,12 @@ group_sites:
     comment_link_format: "https://peakproductions.co/?p={wp_id}"
     wp_auth: make_connector
     key_secret: WP_API_KEY
+  # С 17.11.2026 (выпуск 01:30): Mix (UK + ES + RO + AR) — тоже peakproductions.co, по просьбе владелицы.
+  MIX:
+    url: https://peakproductions.co
+    comment_link_format: "https://peakproductions.co/?p={wp_id}"
+    wp_auth: make_connector
+    key_secret: WP_API_KEY
 
 claude:
   # auto — подписка Max (CLAUDE_CODE_OAUTH_TOKEN), при сбое — API (если задан ANTHROPIC_API_KEY)
