@@ -470,7 +470,23 @@
   "2026-11-17 12:00": {
    "langs": {},
    "slot_iso": "2026-11-17T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/886770543_122130695732893096_1861246166854463743_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_DtlfFTeTvkQ7kNvwE-dQx5&_nc_oc=Ado_3bfFg76SZA22zM2HtvcAyBPa473IkNvgJ4vJ34Nm4_VNe6w6FufZonXzgPMsGvM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=mZicYJuCXZPC6P68DyrgrA&_nc_tpa=Q5bMBQLBT1kZgG6ZnLDIZXNmdgju38lQwg_ojZd3F3RBeCMDA_ODqQpr6hzhPwHPQ9TQmLo3SpLZ6ngpcA&oh=00_AQTYZ-2YeMJxQcOwqRYiMCZjLt39Pzc-AooRDn-d5y_ulg&oe=6B01646A",
+    "link": "https://www.facebook.com/share/p/1E1MWXjgZp/",
+    "origin": "manual",
+    "page_id": "61576792898556",
+    "text": "Two traffic police officers detained a young girl without reason, pressed her against the car, and roughly handcuffed her. But when one of the inspectors reached into her pocket at the girl's request, both men froze in shock when they saw what was inside.\n\nPART 1\n\nThat day, a young girl named Savannah was returning home on a country road. She was driving calmly, not speeding, and carefully watching the signs. The weather was good, there were few cars on the highway, and she had no problems at all.\n\nAfter some time, a patrol car appeared in the rearview mirror. The inspectors turned on their hazard lights and ordered Savannah to pull over to the roadside.\n\nThe girl immediately obeyed the request, turned off the engine, and lowered the window. A tall, strong inspector with a rough face approached her. The second traffic officer stayed a little behind and carefully looked at the girl through the open window.\n\n“Give me the documents,” the first inspector said, grumbling.\n\nSavannah handed him her driver’s license and the car documents.\n\nThe inspector turned them over in his hands for a long time, then examined the car and looked at the girl again. He found no violations, but he was not in a hurry to return the documents.\n\n“Why did you stop me?” Savannah asked calmly.\n\n“A check,” he replied briefly.\n\n“What exactly is the check? I didn’t do anything, and you didn’t even introduce yourself.”\n\nThe inspector frowned. He clearly did not like that the girl was speaking confidently and was not afraid to ask questions.\n\n“Are you too smart?” the second traffic cop sneered, moving closer. “Sit calmly while they are talking to you normally.”\n\nSavannah looked first at the first one, then at the second.\n\n“I am talking calmly. It is you who are being rude and stopping people without explanation. Introduce yourself and state the reason for the check.”\n\nThe first inspector angrily threw the documents onto the roof of the car.\n\n“Get out of the car.”\n\n“On what grounds?”\n\n“I said, get out.”\n\nThe girl realized that the men were deliberately trying to intimidate her. She took out her phone and wanted to turn on the camera, but the second inspector sharply opened the door and grabbed her by the arm.\n\n“Put the phone away quickly.”\n\n“Don’t touch me,” Savannah said sternly. “You are exceeding your authority.”\n\nThose words finally angered the men. The first traffic cop roughly pulled the girl out of the car, turned her face toward the vehicle, and pressed her against the door. The second quickly moved her hands behind her back and pulled out handcuffs.\n\n“Now you will sit in the department and learn to be more polite,” he said, fastening the metal bracelets.\n\nSavannah did not scream or resist. She just looked seriously over her shoulder at the inspectors.\n\n“Are you sure you want to continue?”\n\n“Did you decide to scare us?” the first one laughed.\n\n“No. I’m just warning you that you detained me without reason, used force, and didn’t draw up any documents.”\n\n“We’ll sort it out later,” he replied. “You can go with us now.”\n\nThe girl stayed silent for a few seconds, then calmly said:\n\n“Okay. Just get something from the right pocket of my shorts. I can’t do it with my hands behind my back.”\n\nThe inspectors exchanged glances. One of them smirked, deciding that the girl was trying to trick them.\n\n“What’s in there?”\n\n“You’ll see when you get it out.”\n\nYou won’t believe what happened next…\n\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a 'GIRL' comment below and give us a \"Like \" to get full story ) 👇",
+    "wp_media_id": 270,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261117-1200-mix.jpg"
+   },
+   "source_key": "post:61576792898556_122130695810893096",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-17 15:00": {
    "langs": {},
@@ -514,6 +530,14 @@
    "page_id": "61559846438723",
    "slot": "2026-11-16 23:26",
    "status": "used"
+  },
+  "post:61576792898556_122130695810893096": {
+   "fingerprint": "76592ca14dc5478e537f",
+   "link": "https://www.facebook.com/share/p/1E1MWXjgZp/",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-17 12:00",
+   "status": "reserved"
   },
   "post:61587321322233_122139843471244044": {
    "fingerprint": "9e461063620cd2192305",

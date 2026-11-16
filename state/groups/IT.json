@@ -8041,7 +8041,23 @@
   "2026-11-17 12:00": {
    "langs": {},
    "slot_iso": "2026-11-17T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/895364018_122138209472809007_5843965084368184374_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mySY6VW83nsQ7kNvwGjQJrW&_nc_oc=AdoYkoWu8efUjZ-Zq25O8-r3RpUPXYH1RUbJezJzwvBXePhm69prXHzWPjckVYSW_3g&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=vI_vJXRGVgHDYL_3H0sJZA&_nc_tpa=Q5bMBQL_38ZVDrUt3qJgCa7vHmzF8PBLsBG1cvD1TdP8HHblFxA4Hx0VqyG7wjHi3o5YLskwkKr-_4OL6Q&oh=00_AQTdasO4IZPn2VUsccnDyuUol24FI-AUPLUa9rZirEZzsQ&oe=6B0184C0",
+    "link": "https://www.facebook.com/share/p/1EuuwnYayY/",
+    "origin": "manual",
+    "page_id": "61574270220252",
+    "text": "My 5-year-old daughter vanished while our family sat around a campfire. For 4 years, my nephew could barely speak about anything—and never about that night. Then, on her birthday, he followed me into the kitchen and whispered something I wasn’t prepared to hear.\nBefore Maisie disappeared, I thought Callum and I had a life we could count on.\nOur daughter collected rocks, loved every animal she met, and treated a walk through the woods like the beginning of an adventure.\nThat summer, we booked a few cabins beside a lake with Callum’s brothers and their families. My sister, Beth, brought her son, Eli.\nHe was 6, a year older than Maisie, but she was always the one leading their adventures. He followed close behind, quietly trusting her to know where they were going.\nFor 2 days, our biggest concerns were wet towels and children begging to stay up later.\nOn the third evening, Maisie climbed onto my lap.\n“Can we come back next summer?”\nI kissed her forehead and promised we would.\nA little later, she and Eli went off to play explorers with their flashlights while we sat around the fire.\nThen Eli came back alone.\n“Where’s Maisie?” I asked.\nHe stood at the edge of the firelight, pale and silent.\nI called her name. At first, I expected a giggle from behind a tree.\nThen I called louder.\nWithin minutes, everyone was searching.\nWe checked the cabins, the bathrooms, the trails. Callum ran toward the lake. I kept shouting until my throat hurt, stopping every few steps to listen.\nThere was no answer.\nPolice came. Search teams followed. For days, strangers walked through those woods looking for my little girl.\nNobody brought her back.\nEventually, the leads stopped coming. I kept calling investigators anyway.\nCallum withdrew into work. I couldn’t stop talking about Maisie, and he could barely bear to hear her name.\n14 months later, our marriage ended.\nEli struggled, too. He hardly spoke after that night. Therapy helped him communicate through drawings, gestures, and short written messages, but any mention of the campground left him terrified.\nWe thought losing Maisie had frightened him into silence.\nFor 4 years, I never knew there was something he hadn’t told us.\nLast night would have been Maisie’s 9th birthday.\nI invited the family over, as I did every year. A little food. Familiar faces. People trying to find something comforting to say.\nEli barely touched his dinner.\nLater, while I was clearing dishes in the kitchen, I noticed him standing in the doorway.\nHis hands were trembling.\n“Sweetheart? What’s wrong?”\nHe glanced behind him, then stepped close.\n“Aunt Miriam?”\nI set down the plate.\nIt had been years since I’d heard him say my name like that.\nTears gathered in his eyes.\n“I saw what happened to Maisie.”\nI held on to the counter.\n“What do you mean?”\nHe lowered his voice.\n“She didn’t get lost.”",
+    "wp_media_id": 516,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1200-it.jpg"
+   },
+   "source_key": "post:61574270220252_122138209586809007",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-17 15:00": {
    "langs": {},
@@ -8198,6 +8214,10 @@
   "link:f4e09d8d75ddebf838fe": {
    "link": "https://www.facebook.com/share/p/1HJFpdWUEX/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122130758852893096&id=61576792898556"
+  },
+  "link:f4f89eacf0ef0c74dbb8": {
+   "link": "https://www.facebook.com/share/p/1EuuwnYayY/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122138209586809007&id=61574270220252"
   },
   "post:100044599086455_1654999892663298": {
    "fingerprint": "45940b1a5b97f2cd246e",
@@ -8358,6 +8378,14 @@
    "page_id": "61573363363721",
    "slot": "2026-11-16 12:00",
    "status": "used"
+  },
+  "post:61574270220252_122138209586809007": {
+   "fingerprint": "ea03f81a62a0f12fec4b",
+   "link": "https://www.facebook.com/share/p/1EuuwnYayY/",
+   "origin": "manual",
+   "page_id": "61574270220252",
+   "slot": "2026-11-17 12:00",
+   "status": "reserved"
   },
   "post:61576792898556_122130758852893096": {
    "fingerprint": "70b2b5adc4ce4ff4c245",

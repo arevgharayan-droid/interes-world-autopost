@@ -5078,7 +5078,23 @@
   "2026-11-17 12:00": {
    "langs": {},
    "slot_iso": "2026-11-17T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/897346864_122137907204809007_3845394850636602475_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9dWs087uDwEQ7kNvwHjYNhZ&_nc_oc=AdrZ8YOTdct1QqcfM7tbAhobV9edYjrvXUnxpuf6YL3nM_1W1XKfKc27QD311_KMugI&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Vf3_OAMSWP7XC4wMjIGEhw&_nc_tpa=Q5bMBQLcdJqeA8ShRH_M7x6obarzMKjdWKh55z75IgXXrvaQXhJO0WYUR0fq7LHuf-V7rOJGi_kOUEYuGw&oh=00_AQTDazGP-fYDpsSHKgWO6CfGzVUE63O3bKcHwxcM4ZwdRA&oe=6B017BEC",
+    "link": "https://www.facebook.com/share/p/1ExsTWFcu3/",
+    "origin": "manual",
+    "page_id": "61574270220252",
+    "text": "My sister sent one final message to the family group chat: I wasn't welcome at the reunion, and anyone who shared the address with me would be cut off, too.\n\nI didn't respond. I simply tapped the location pin, read the street name, and covered my mouth to keep them from hearing me laugh.\n\nThey were headed straight to my beach house.\n\nSo I parked a silver rental car across the street and watched them arrive in the sweltering Georgia afternoon. My mother climbed out wearing an enormous straw hat, carrying herself like she owned the entire shoreline. Three SUVs crowded my crushed-shell driveway. Out came the coolers. Suitcases rattled along the stone walkway. My brother hauled beer toward the deck, while my sister recorded the front of the house as though she were showing off some expensive vacation she'd paid for.\n\nNot one of them spotted me.\n\nAnd not one of them realized that the dusty-blue house with its white trim, oak flooring, marble kitchen island, and windows overlooking the ocean belonged to my LLC.\n\nThen my mother strode up to the front door and punched in the entry code, wearing that familiar smug smile she gets whenever she believes she's won.\n\n1-9-8-5-0-7.\n\nMy birthday.\n\nThe very date she'd spent years claiming had ruined her body. And now she was using it to unlock the house where she'd told the entire family I wasn't permitted to show my face.\n\nThe keypad blinked green.\n\nThe lock chimed.\n\nAnd my family burst into celebration.\n\nThey poured through the doorway as though the place were theirs. My sister wandered around my living room, filming everything on her phone. My brother exchanged a triumphant high-five with my father. Meanwhile, my mother planted herself in my foyer, one hand resting on her hip, directing people where to leave their luggage.\n\nShe warned them against scuffing the paint I'd personally selected, spilling anything on the floors I'd purchased, or touching things they shouldn't.\n\nShe acted like the proud hostess of a home she'd done absolutely nothing to earn.\n\nI gave them twenty minutes.\n\nTwenty minutes to rummage through my refrigerator.\n\nTwenty minutes to help themselves to drinks around my marble island.\n\nTwenty minutes to upload pictures taken on my deck.\n\nTwenty minutes to enjoy the illusion of wealth inside a property that wasn't theirs.\n\nThen my phone vibrated.\n\nThe sheriff's deputy had arrived.\n\nFrom across the street, I watched the patrol vehicle ease toward the house beside the dunes. Its emergency lights were off, and the tires crunched softly over the gravel.\n\nThe moment my mother noticed the uniform, her confident smile began to fade.\n\nMy sister stopped recording and lowered her phone.\n\nMy brother actually chuckled, convinced this was some ridiculous misunderstanding that would vanish as soon as Linda started talking.\n\nThe deputy approached the porch. He glanced beyond the gathered relatives into my home, then turned his attention back to the people crowding my doorway, still holding drinks in their hands.\n\nAnd with a perfectly level voice, he asked the one question that drained every bit of color from my sister's face.\n\n\"Can any of you tell me who legally owns this property?\"",
+    "wp_media_id": 519,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1200-nl.jpg"
+   },
+   "source_key": "post:61574270220252_122137907252809007",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-17 15:00": {
    "langs": {},
@@ -5391,6 +5407,14 @@
    "page_id": "61573369523860",
    "slot": "2026-11-10 00:00",
    "status": "used"
+  },
+  "post:61574270220252_122137907252809007": {
+   "fingerprint": "6740b7e3c0cb69a13841",
+   "link": "https://www.facebook.com/share/p/1ExsTWFcu3/",
+   "origin": "manual",
+   "page_id": "61574270220252",
+   "slot": "2026-11-17 12:00",
+   "status": "reserved"
   },
   "post:61576792898556_122130695810893096": {
    "fingerprint": "76592ca14dc5478e537f",
