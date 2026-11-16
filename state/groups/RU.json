@@ -4544,7 +4544,7 @@
       },
       "1448441201677530": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       }
      },
      "title": "Meu marido bilionário esqueceu meu aniversário de 29 anos, mas a pulseira de hospital escondida no meu casaco revelou o que eu guardava em silêncio",
@@ -4697,6 +4697,10 @@
        "photo_id": "122127054927307134",
        "post_id": "1164575726728296_122127054957307134",
        "status": "done"
+      },
+      "1180583925128715": {
+       "attempts": 0,
+       "status": "failed_final"
       }
      },
      "title": "Doğum Günümde Milyarder Kocam Beni Restoranda Unuttu, Merdivenlerde Bayılınca Cebimdeki Hastane Bilekliğini Buldu",
