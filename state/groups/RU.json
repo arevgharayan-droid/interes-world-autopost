@@ -4386,7 +4386,7 @@
       },
       "1448441201677530": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       }
      },
      "title": "Flagrei meu marido num hotel com outra mulher quando ele deveria estar viajando a trabalho, mas na manhã seguinte o destino chegou antes de mim",
@@ -4403,7 +4403,7 @@
      "pages": {
       "1008693642337213": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1125676667286378": {
        "attempts": 0,
@@ -4411,7 +4411,7 @@
       },
       "988042774402200": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       }
      },
      "title": "Я увидела мужа в отеле с другой, хотя он «уехал в командировку». Назавтра мне позвонили из больницы",
@@ -4465,7 +4465,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261115-1800-ru.jpg"
    },
    "source_key": "post:100045261260562_1716215553230470",
-   "status": "in_progress",
+   "status": "done_with_errors",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
