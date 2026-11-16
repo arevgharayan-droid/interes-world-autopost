@@ -24,7 +24,8 @@
   "ab12b39c82a984be6a9e": "2026-11-12T10:26:25+00:00",
   "d82c6f49086c806cd686": "2026-11-14T19:47:28+00:00",
   "d90f86068fb546dde052": "2026-11-09T20:01:42+00:00",
-  "e94ee160cd92603444dc": "2026-11-13T14:37:33+00:00"
+  "e94ee160cd92603444dc": "2026-11-13T14:37:33+00:00",
+  "ec8a996001a5f582c700": "2026-11-16T00:21:16+00:00"
  },
  "outputs": {
   "100633729330404_1136704882391366": "2026-11-09T14:09:45+00:00",
@@ -5664,7 +5665,56 @@
    "status": "missed"
   },
   "2026-11-16 12:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Husband Broke Down the Burning Door to Save My Best Friend, Left Me Locked Inside, and I Vanished With a Secret He Never Saw Coming",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 419,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/896106825_122139295814778778_6553784987173836308_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UnvSWNyX3bQQ7kNvwG-ZIvc&_nc_oc=Ado_Ey3MKxdMpRwHUpDLmU8B5LdjGKYUIR58BewMp1mOQM4f-7skxsHezhpfB4Trlb8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=_fm-jfxQ_WeTvpigG4OHQQ&_nc_tpa=Q5bMBQLSnnSDIf8dHWWL_hOJ7qyDmAxV3DYKgz15mkPwBGgeqSKPDY72IgQUpITTmiAM_od8JCgCOeUjgQ&oh=00_AQQbAQSi5NWzfaeVwasVSNiBO-7u7BOYpb4CUaxZ3U1fmA&oe=6B002E83",
@@ -5676,7 +5726,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1200-en2.jpg"
    },
    "source_key": "post:61573363363721_122139295874778778",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5925,7 +5975,7 @@
    "origin": "manual",
    "page_id": "61573363363721",
    "slot": "2026-11-16 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130738032893096": {
    "fingerprint": "f5b688138af06f2a13a3",

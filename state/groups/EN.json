@@ -5601,7 +5601,23 @@
   "2026-11-16 12:00": {
    "langs": {},
    "slot_iso": "2026-11-16T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/884846261_122138495678778778_1440770426058466785_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aoHH0Scjg8cQ7kNvwFyA642&_nc_oc=AdrdVinP6LBo7DBQjG7j5nVevBvC9heAzhh5AvK8FXPGMpi0HUBFz7wPFMgZGaN062Q&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=47zKPtpyJlwYIZtudsly_g&_nc_tpa=Q5bMBQL6JqEGPSFDPEUzyF_rmORYwwgYVHf-iEa-_XR2NYq7UOCQOimYluhtyjgyIo997FgGAjM4i2T3Hw&oh=00_AQRlVxjrRhN2H4OFAlwpbgr3bBLJPQ0Z6UQtepPg0syBMw&oe=6B000947",
+    "link": "https://www.facebook.com/share/p/1PydycawCM/",
+    "origin": "manual",
+    "page_id": "61573363363721",
+    "text": "My mother-in-law actually laughed when I walked into divorce court alone, while my husband sat smugly beside three expensive attorneys, certain they were about to strip me of everything. But when I told the judge I had never signed their divorce agreement and opened my folder, the entire courtroom was about to discover something my husband's family had never bothered to learn about me.\n\n\"\"Well, look who's here,\"\" Ruth Ellison whispered loudly enough for everyone to hear. \"\"And without a lawyer. How embarrassing.\"\"\n\nHer diamond bracelet glittered as she covered her mouth, pretending to hide another laugh.\n\nMy father-in-law, Frank, leaned toward her. \"\"Andrew was right. She doesn't stand a chance.\"\"\n\nAcross the courtroom, my husband, Andrew, adjusted his expensive tie and exchanged confident smiles with his attorneys.\n\nI sat alone, my leather briefcase beside me, refusing to give them the satisfaction of seeing my anger.\n\nJudge Elaine Porter looked over her glasses.\n\n\"\"Mrs. Ellison, you understand you have the right to legal representation?\"\"\n\n\"\"Yes, Your Honor.\"\"\n\n\"\"And you've chosen to represent yourself?\"\"\n\n\"\"That's correct.\"\"\n\nAndrew's attorney, Stephen Calder, immediately stood.\n\n\"\"Your Honor, we're concerned Mrs. Ellison may complicate what should be a straightforward divorce settlement.\"\"\n\nStraightforward.\n\nThat was the same word Andrew had used three weeks earlier when he dropped divorce papers beside my breakfast plate.\n\n\"\"Sign these, Mara. Don't make this difficult.\"\"\n\nI had stared at the documents, stunned by what they conveniently erased.\n\n\"\"Seven years, Andrew. Seven years of managing your home, arranging your business dinners, organizing your travel, and taking your parents to medical appointments. And you're claiming I contributed nothing?\"\"\n\nHe barely glanced up from his phone.\n\n\"\"You took care of the house, Mara. Don't exaggerate your importance.\"\"\n\nI wanted to scream.\n\nInstead, I read every page again.\n\nFor seven years, his family had treated me like an obedient housewife whose only purpose was making Andrew's life easier.\n\nThey never asked about my past.\n\nNever cared what I had accomplished before marriage.\n\nAnd Andrew had never understood why I could remain so calm when someone tried to intimidate me.\n\nBecause before I became Mara Ellison, I was Captain Mara Pierce, a United States Army attorney.\n\nI'd spent years examining evidence, challenging arguments, and standing firm in courtrooms where a single overlooked detail could destroy a case.\n\nI had walked away from that career because I wanted a peaceful marriage.\n\nNow the very people who had mistaken my silence for weakness were about to face the woman I used to be.\n\n\"\"Mrs. Ellison?\"\" Judge Porter called. \"\"You may proceed.\"\"\n\nI slowly opened my briefcase.\n\nCalder smirked.\n\nRuth whispered, \"\"This should be entertaining.\"\"\n\nI removed a slim folder, stood, and looked directly at the judge.\n\n\"\"Your Honor, before we discuss their proposed settlement, there's something this court needs to know.\"\"\n\nAndrew's smile faltered.\n\nI placed my hand on the folder.\n\n\"\"I never signed that agreement.\"\"\n\nThen I opened it, revealing the first document.\n\nAnd Stephen Calder suddenly rose from his chair.\n\nThe story is too long to post in the caption, so just say \"\"Yes\"\". The full story will be in the comments below.👇👇",
+    "wp_media_id": 418,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1200-en.jpg"
+   },
+   "source_key": "post:61573363363721_122138495768778778",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-16 15:00": {
    "langs": {},
@@ -5669,6 +5685,10 @@
   "link:6bd4ad35a4e88cc380b6": {
    "link": "https://www.facebook.com/share/p/1AHUeNdQ2u/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1661889575314457&id=100044802900629"
+  },
+  "link:70f9aae1000edf55558b": {
+   "link": "https://www.facebook.com/share/p/1PydycawCM/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122138495768778778&id=61573363363721"
   },
   "link:742886c62feeaf8a4773": {
    "link": "https://www.facebook.com/share/p/19mEpZZVgz/",
@@ -5833,6 +5853,14 @@
    "page_id": "61560353781750",
    "slot": "2026-11-12 15:00",
    "status": "used"
+  },
+  "post:61573363363721_122138495768778778": {
+   "fingerprint": "995dabdb31882bf338e4",
+   "link": "https://www.facebook.com/share/p/1PydycawCM/",
+   "origin": "manual",
+   "page_id": "61573363363721",
+   "slot": "2026-11-16 12:00",
+   "status": "reserved"
   },
   "post:61573369523860_122139819650778984": {
    "fingerprint": "82026b32f43d6931f13c",
