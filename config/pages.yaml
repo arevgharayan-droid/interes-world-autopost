@@ -18,6 +18,7 @@ languages:
       - {page_id: "1260826840455724", name: "Visages de la Vie", profile_id: "61593250385737", added: "2026-11-09"}
       - {page_id: "1103884436136482", name: "Vie en Stories", profile_id: "61566106633253", added: "2026-11-13"}
       - {page_id: "1041497042386258", name: "Une Histoire Qui Vous Touchera", profile_id: "61572142269665", added: "2026-11-13"}
+      - {page_id: "1280413955154689", name: "Cœurs en Images", profile_id: "61592771954419", added: "2026-11-16"}
   IT:
     name: Italian
     make_modules: "claude 522, wordpress 20"
@@ -89,6 +90,9 @@ languages:
       - {page_id: "715935674934966", name: "Mooie kinderen", profile_id: "61577669504867", make_post_module: 402}
       - {page_id: "1210451145474950", name: "Levensmomenten Nederland", profile_id: "61589185122398", added: "2026-11-13"}
       - {page_id: "1144269682096701", name: "Verhalen uit het Hart", profile_id: "61589136614352", added: "2026-11-13"}
+      - {page_id: "1239848699214091", name: "Leven in Beeld", profile_id: "61593190855543", added: "2026-11-16"}
+      - {page_id: "1205543595981082", name: "Verhalen van het Leven", profile_id: "61592927722599", added: "2026-11-16"}
+      - {page_id: "1180417388497186", name: "Echte Levensverhalen", profile_id: "61592743085393", added: "2026-11-16"}
   RU:
     name: Russian
     pages:   # добавлены 25.10.2026
