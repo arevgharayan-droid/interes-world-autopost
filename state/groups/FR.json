@@ -4377,84 +4377,102 @@
      "pages": {
       "1032441206625600": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117640620633539_2441393119934566",
        "error": null,
        "last_attempt": "2026-11-16T20:03:08+04:00",
        "mode": "immediate",
        "photo_id": "122117640596633539",
        "post_id": "1032441206625600_122117640620633539",
-       "status": "published"
+       "status": "done"
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122143371008738075_1125858050430067",
        "error": null,
        "last_attempt": "2026-11-16T20:04:54+04:00",
        "mode": "immediate",
        "photo_id": "122143370984738075",
        "post_id": "1041497042386258_122143371008738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109309794457428_1142813038460632",
        "error": null,
        "last_attempt": "2026-11-16T20:05:28+04:00",
        "mode": "immediate",
        "photo_id": "122109309770457428",
        "post_id": "1058598924006917_122109309794457428",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123190291299008_1111725838443226",
        "error": null,
        "last_attempt": "2026-11-16T20:01:58+04:00",
        "mode": "immediate",
        "photo_id": "122123190267299008",
        "post_id": "1079295351933311_122123190291299008",
-       "status": "published"
+       "status": "done"
       },
       "1103884436136482": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105405528536887_2086631901997204",
        "error": null,
        "last_attempt": "2026-11-16T20:04:18+04:00",
        "mode": "immediate",
        "photo_id": "122105405498536887",
        "post_id": "1103884436136482_122105405528536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126236461303172_28323085624034842",
        "error": null,
        "last_attempt": "2026-11-16T20:02:34+04:00",
        "mode": "immediate",
        "photo_id": "122126236437303172",
        "post_id": "1145306638657445_122126236461303172",
-       "status": "published"
+       "status": "done"
       },
       "1202025962997153": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122018275409328_1673420140848275",
        "error": null,
        "last_attempt": "2026-11-16T20:01:03+04:00",
        "mode": "immediate",
        "photo_id": "122122018251409328",
        "post_id": "1202025962997153_122122018275409328",
-       "status": "published"
+       "status": "done"
       },
       "1250374694822508": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124071109415639_1938064080298138",
        "error": null,
        "last_attempt": "2026-11-16T20:01:25+04:00",
        "mode": "immediate",
        "photo_id": "122124071085415639",
        "post_id": "1250374694822508_122124071109415639",
-       "status": "published"
+       "status": "done"
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129511807441679_1178145641324921",
        "error": null,
        "last_attempt": "2026-11-16T20:03:42+04:00",
        "mode": "immediate",
        "photo_id": "122129511777441679",
        "post_id": "1260826840455724_122129511807441679",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "En 1995, il a abandonné sa femme et leurs cinq bébés noirs : trente ans plus tard, une lettre de sa mère a révélé le secret qu'elle avait emporté dans la tombe",
@@ -4509,7 +4527,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1959-fr.jpg"
    },
    "source_key": "post:100083366355470_1140513918737476",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
