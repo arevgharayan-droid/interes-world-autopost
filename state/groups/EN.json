@@ -26,6 +26,7 @@
   "cb24f2fe5112af4485e2": "2026-11-12T09:03:54+00:00",
   "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
   "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00",
+  "ed1263949be80f9f9314": "2026-11-16T20:28:09+00:00",
   "f0fbe62a6e965138d9e2": "2026-11-16T00:21:36+00:00",
   "f87c8c178aeaa21eef02": "2026-11-10T22:04:28+00:00",
   "feb1dde7e2dbbf5351ce": "2026-11-10T22:05:38+00:00"
@@ -6710,7 +6711,74 @@
   },
   "2026-11-17 01:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Billionaire Husband Left Me in Labor to Be With His Mistress, and Seven Years Later, Our Daughter Walked Onto His Stage",
+     "warnings": [
+      "длина текста FB 1815 слов (исходник 2189, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 490,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T01:30:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/887316097_122139775203244044_5739023151074498120_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=5oQ9VgW6Ta4Q7kNvwG4vTp3&_nc_oc=AdqTNZFWhKGbCgi7zR9T6nlFD64S6rhRwgUAH8noHmYcdZw1gdFkZY_x_6iomuoEpYY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=7LPUZSiwzkJoIocIC73CmA&_nc_tpa=Q5bMBQIvPbWpHrG788hgL9n7290Jf8eoryI50xiiSR_K-JKD5hko08QELu8sIOm2gdOuW7-03phOaHqhIA&oh=00_AQRdL4I-YxIsVjLQ6XXW-ucuCipS4IBFDshNz-H2I6usSQ&oe=6B012EDB",
@@ -6722,7 +6790,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-0130-en.jpg"
    },
    "source_key": "post:61587321322233_122139775233244044",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7085,7 +7153,7 @@
    "origin": "manual",
    "page_id": "61587321322233",
    "slot": "2026-11-17 01:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587324730850_122143561461244157": {
    "fingerprint": "41b0aed5ae696b79ad95",
