@@ -7199,12 +7199,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116347111328231_2706507123198096",
        "error": null,
        "last_attempt": "2026-11-16T23:44:05+04:00",
        "mode": "immediate",
        "photo_id": "122116347087328231",
        "post_id": "1106793902521611_122116347111328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Oženil jsem se s umírající pacientkou tři dny před její smrtí a po pohřbu mi její sestra předala krabičku, která mi vzala dech",
@@ -7213,6 +7215,7 @@
      ],
      "wp_error": null,
      "wp_id": 476,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -7238,48 +7241,58 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132401887302250_1614429130431737",
        "error": null,
        "last_attempt": "2026-11-16T23:36:17+04:00",
        "mode": "immediate",
        "photo_id": "122132401863302250",
        "post_id": "1012250151981057_122132401887302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140896938808945_1482952450472384",
        "error": null,
        "last_attempt": "2026-11-16T23:34:15+04:00",
        "mode": "immediate",
        "photo_id": "122140896914808945",
        "post_id": "1030877436782212_122140896938808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111724938456562_4503785543200951",
        "error": null,
        "last_attempt": "2026-11-16T23:31:35+04:00",
        "mode": "immediate",
        "photo_id": "122111724914456562",
        "post_id": "1064982806700854_122111724938456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131211259306132_2335364143953612",
        "error": null,
        "last_attempt": "2026-11-16T23:37:37+04:00",
        "mode": "immediate",
        "photo_id": "122131211235306132",
        "post_id": "1068567606345452_122131211259306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127711015305584_30303127712609205",
        "error": null,
        "last_attempt": "2026-11-16T23:41:21+04:00",
        "mode": "immediate",
        "photo_id": "122127710991305584",
        "post_id": "1078100405390763_122127711015305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -7294,66 +7307,80 @@
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133232629308548_1833228897990517",
        "error": null,
        "last_attempt": "2026-11-16T23:36:58+04:00",
        "mode": "immediate",
        "photo_id": "122133232605308548",
        "post_id": "1086658774532679_122133232629308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122832763296683_1818842689220686",
        "error": null,
        "last_attempt": "2026-11-16T23:35:36+04:00",
        "mode": "immediate",
        "photo_id": "122122832739296683",
        "post_id": "1087342844462554_122122832763296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129401767300251_1106218465564242",
        "error": null,
        "last_attempt": "2026-11-16T23:40:47+04:00",
        "mode": "immediate",
        "photo_id": "122129401743300251",
        "post_id": "1093003583899107_122129401767300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114534582601707_1142380671532334",
        "error": null,
        "last_attempt": "2026-11-16T23:39:38+04:00",
        "mode": "immediate",
        "photo_id": "122114534558601707",
        "post_id": "1099258949937246_122114534582601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141488616811401_29488977587398360",
        "error": null,
        "last_attempt": "2026-11-16T23:33:33+04:00",
        "mode": "immediate",
        "photo_id": "122141488592811401",
        "post_id": "1114015015119414_122141488616811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122104989092533031_2174786563149926",
        "error": null,
        "last_attempt": "2026-11-16T23:38:58+04:00",
        "mode": "immediate",
        "photo_id": "122104989068533031",
        "post_id": "1128937866962526_122104989092533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110468394543006_3248199665378557",
        "error": null,
        "last_attempt": "2026-11-16T23:32:17+04:00",
        "mode": "immediate",
        "photo_id": "122110468358543006",
        "post_id": "1140835409106424_122110468394543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -7368,21 +7395,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130150957314630_1118875014381234",
        "error": null,
        "last_attempt": "2026-11-16T23:38:19+04:00",
        "mode": "immediate",
        "photo_id": "122130150933314630",
        "post_id": "1149681171551323_122130150957314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122728729318395_1153432983864658",
        "error": null,
        "last_attempt": "2026-11-16T23:40:14+04:00",
        "mode": "immediate",
        "photo_id": "122122728705318395",
        "post_id": "1159996950522974_122122728729318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -7397,30 +7428,36 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128531011300955_1050981741359169",
        "error": null,
        "last_attempt": "2026-11-16T23:34:55+04:00",
        "mode": "immediate",
        "photo_id": "122128530987300955",
        "post_id": "1160240797163045_122128531011300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125965231301482_1128847503270169",
        "error": null,
        "last_attempt": "2026-11-16T23:41:51+04:00",
        "mode": "immediate",
        "photo_id": "122125965207301482",
        "post_id": "1174674892385169_122125965231301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125852563405175_1683588510103758",
        "error": null,
        "last_attempt": "2026-11-16T23:32:56+04:00",
        "mode": "immediate",
        "photo_id": "122125852533405175",
        "post_id": "1191480207389219_122125852563405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
@@ -7454,45 +7491,54 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126348997304793_1158350410479857",
        "error": null,
        "last_attempt": "2026-11-16T23:43:43+04:00",
        "mode": "immediate",
        "photo_id": "122126348973304793",
        "post_id": "1079800528556354_122126348997304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114098844359745_1435096342134520",
        "error": null,
        "last_attempt": "2026-11-16T23:42:19+04:00",
        "mode": "immediate",
        "photo_id": "122114098820359745",
        "post_id": "1083785318156771_122114098844359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122831767302807_2528087747713238",
        "error": null,
        "last_attempt": "2026-11-16T23:42:50+04:00",
        "mode": "immediate",
        "photo_id": "122122831743302807",
        "post_id": "1089456087587677_122122831767302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141095695313481_1715266526893070",
        "error": null,
        "last_attempt": "2026-11-16T23:43:18+04:00",
        "mode": "immediate",
        "photo_id": "122141095671313481",
        "post_id": "1107966229066828_122141095695313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ożeniłem się z umierającą pacjentką na trzy dni przed jej śmiercią. Po pogrzebie jej siostra podała mi pudełko, które zmieniło wszystko",
      "warnings": [],
      "wp_error": null,
      "wp_id": 474,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -7528,7 +7574,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-2326-it.jpg"
    },
    "source_key": "post:61559846438723_122233295294328214",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
