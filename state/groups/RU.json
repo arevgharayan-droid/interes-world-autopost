@@ -4209,7 +4209,7 @@
        "mode": "schedule",
        "photo_id": "122120345331505599",
        "post_id": "1448441201677530_122120345367505599",
-       "status": "scheduled"
+       "status": "failed_final"
       }
      },
      "title": "Aos 60 anos, a minha mãe adotiva riu na cozinha e confessou o segredo que nos escondeu durante vinte anos",
@@ -4251,12 +4251,12 @@
       "988042774402200": {
        "attempts": 1,
        "comment_attempts": 1,
-       "error": null,
+       "error": "комментарий (Facebook ограничил частоту — пауза 240 мин): FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
        "last_attempt": "2026-11-15T14:23:56+04:00",
        "mode": "schedule",
        "photo_id": "122135483174733774",
        "post_id": "988042774402200_122135483204733774",
-       "status": "published"
+       "status": "failed_final"
       }
      },
      "title": "Мы с братом выросли с мыслью, что мать нас бросила, но в день рождения приёмной матери я услышал на её кухне то, что перевернуло всю мою жизнь",
@@ -4319,7 +4319,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261115-1500-ru.jpg"
    },
    "source_key": "post:61587026316282_122143702713234210",
-   "status": "in_progress",
+   "status": "done_with_errors",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
