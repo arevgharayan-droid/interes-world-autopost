@@ -43,6 +43,7 @@ languages:
       - {page_id: "1159996950522974", name: "Racconti del Destino", profile_id: "61589551851796", added: "2026-11-16"}
       - {page_id: "1093003583899107", name: "Emozioni Italiane", profile_id: "61589007555641", added: "2026-11-16"}
       - {page_id: "1078100405390763", name: "Momenti di Vita #2", profile_id: "61589167538572", added: "2026-11-16"}
+      - {page_id: "1174674892385169", name: "Storie del Cuore", profile_id: "61589044483722", added: "2026-11-16"}
   EN:
     name: English
     make_modules: "claude 532, wordpress 30"
@@ -57,7 +58,7 @@ languages:
       - {page_id: "236129656261330", name: "The Golden Touch", profile_id: "61558837883169", make_post_module: 314}
       - {page_id: "104239205742669", name: "Amazing", profile_id: "100084767654198", make_post_module: 316, disabled: true}  # не нужна (16.11.2026)
       - {page_id: "220697507802568", name: "Pet Lover", profile_id: "61557127506273", make_post_module: 318}
-      - {page_id: "117220714573166", name: "Best Stories", profile_id: "100088597167331", make_post_module: 320, disabled: true}  # отключена 29.10.2026
+      - {page_id: "117220714573166", name: "Best Stories", profile_id: "100088597167331", make_post_module: 320}  # снова включена 16.11.2026
       - {page_id: "162144310308183", name: "Sweet Paws #1", profile_id: "61552800502749", make_post_module: 322}
       - {page_id: "108881571809093", name: "Sweet Paws #2", profile_id: "100080908917745", make_post_module: 324}
       - {page_id: "237939756073256", name: "Love This World", profile_id: "61557022889720", make_post_module: 326}
@@ -94,12 +95,33 @@ languages:
       - {page_id: "1008693642337213", name: "Из глубины сердца", profile_id: "61569214018013", added: "2026-10-25"}
       - {page_id: "988042774402200", name: "Из глубины души", profile_id: "61572013238425", added: "2026-10-25"}
       - {page_id: "1125676667286378", name: "Моменты жизни", profile_id: "61572129552455", added: "2026-10-25"}
+      - {page_id: "1084212424777390", name: "Истории", profile_id: "61589024974833", added: "2026-11-16"}
+      - {page_id: "1113548795169055", name: "Правда жизни", profile_id: "61573215017921", added: "2026-11-16"}
+      - {page_id: "1117846738074068", name: "Тайны Судьбы", profile_id: "61589338191315", added: "2026-11-16"}
+      - {page_id: "1125468037313193", name: "Сердце Помнит", profile_id: "61588862892247", added: "2026-11-16"}
+      - {page_id: "1042837395585806", name: "Сердце помнит", profile_id: "61568703778153", added: "2026-11-16"}
+      - {page_id: "1092061600653020", name: "Между строк жизни", profile_id: "61567646184420", added: "2026-11-16"}
+      - {page_id: "1038143956055997", name: "Жизненные истории", profile_id: "61568016626752", added: "2026-11-16"}
+      - {page_id: "1051766924693580", name: "Осколки жизни", profile_id: "61572001388145", added: "2026-11-16"}
+      - {page_id: "1146158698570676", name: "Судьбы и слёзы", profile_id: "61589008798166", added: "2026-11-16"}
+      - {page_id: "1066862079844179", name: "Судьбы людей", profile_id: "61567908267368", added: "2026-11-16"}
+      - {page_id: "1118090254718709", name: "То, что трогает душу", profile_id: "61566699021161", added: "2026-11-16"}
+      - {page_id: "1167733113080371", name: "Судьба Расскажет", profile_id: "61589233375779", added: "2026-11-16"}
+      - {page_id: "1075712068960532", name: "Линии судьбы", profile_id: "61568859027957", added: "2026-11-16"}
+      - {page_id: "1098718609991464", name: "Истории сердца", profile_id: "61588921048429", added: "2026-11-16"}
+      - {page_id: "1097710383424105", name: "Жизнь без масок", profile_id: "61560319896770", added: "2026-11-16"}
+      - {page_id: "1036597159544783", name: "Эхо души", profile_id: "61569262621928", added: "2026-11-16"}
+      - {page_id: "1018759874664543", name: "Тени Прошлого", profile_id: "61588844773235", added: "2026-11-16"}
+      - {page_id: "1075346445663696", name: "Жизнь как она есть", profile_id: "61573250146814", added: "2026-11-16"}
+      - {page_id: "1069814529551887", name: "Следы судьбы", profile_id: "61589110610079", added: "2026-11-16"}
   TR:
     name: Turkish
     # с 09.11.2026 турецкие страницы — в группе RU (одна история на RU + TR + PT)
     pages:   # добавлены 25.10.2026
       - {page_id: "1129620776897151", name: "Hayatın Anları", profile_id: "61589356530734", added: "2026-10-25", group: RU}  # снова включена 09.11.2026
       - {page_id: "1164575726728296", name: "Kalpten Hikayeler", profile_id: "61589214036555", added: "2026-10-25", group: RU}  # снова включена 09.11.2026
+      - {page_id: "1083701291497481", name: "Hayatın Saklı Yüzü", profile_id: "61589139011747", added: "2026-11-16", group: RU}
+      - {page_id: "1180583925128715", name: "Kalpte Kalan Hikayeler", profile_id: "61589166879771", added: "2026-11-16", group: RU}
   DE:
     name: German
     # новые немецкие страницы — в группе NL (одна история на NL + DE)
@@ -119,6 +141,7 @@ languages:
     pages:   # добавлены 09.11.2026
       - {page_id: "1448441201677530", name: "Segredos que a Vida Guarda", profile_id: "61595167986420", added: "2026-11-09", group: RU}
       - {page_id: "1338630212673029", name: "Histórias que Ninguém Esquece", profile_id: "61594155721036", added: "2026-11-09", group: RU}
+      - {page_id: "1138572272664180", name: "Vidas em História", profile_id: "61589189490980", added: "2026-11-16", group: RU}
   PL:
     name: Polish
     # группа IT (одна история на IT + PL + CS) — с 14.11.2026
@@ -132,6 +155,27 @@ languages:
     # группа IT — с 14.11.2026
     pages:   # добавлены 13.11.2026
       - {page_id: "1106793902521611", name: "Příběhy ze Srdce", profile_id: "61589846932566", added: "2026-11-13", group: IT}
+  # --- группа MIX (одна история на UK + ES + RO + AR, своя ссылка) — с 16.11.2026, все через autopost4
+  UK:
+    name: Ukrainian
+    pages:
+      - {page_id: "1003672546173662", name: "Там, де говорить серце", profile_id: "61568061105858", added: "2026-11-16", group: MIX}
+      - {page_id: "1053133077892078", name: "Життя без прикрас", profile_id: "61564596804533", added: "2026-11-16", group: MIX}
+  ES:
+    name: Spanish
+    pages:
+      - {page_id: "1065418833325273", name: "Secretos del Destino", profile_id: "61589209137857", added: "2026-11-16", group: MIX}
+      - {page_id: "1091526457386175", name: "Lágrimas de la Vida", profile_id: "61588963358918", added: "2026-11-16", group: MIX}
+  RO:
+    name: Romanian
+    pages:
+      - {page_id: "1150924154761110", name: "Povești care Ating Inima", profile_id: "61589502950390", added: "2026-11-16", group: MIX}
+      - {page_id: "1017413568132885", name: "Momente din Viață", profile_id: "61589054979500", added: "2026-11-16", group: MIX}
+  AR:
+    name: Arabic
+    pages:
+      - {page_id: "1085853177948572", name: "لحظات الحياة", profile_id: "61589513333922", added: "2026-11-16", group: MIX}
+      - {page_id: "1145996375255489", name: "قصص من القلب", profile_id: "61589310932189", added: "2026-11-16", group: MIX}
 
 # Страница, токеном которой Make читал «чужие» публичные посты (fallback в модуле 2).
 fallback_source_page_id: "1011074408765807"  # Émotions Virales | Paris (публикация на неё отключена, но через неё читаются ссылки)

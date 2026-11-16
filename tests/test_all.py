@@ -437,7 +437,8 @@ class GroupQueueTests(unittest.TestCase):
         graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
         tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
         groups = cfg.groups()
-        self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU"])
+        self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU", "MIX"])
+        self.assertEqual(cfg.group_label("MIX"), "UK+ES+RO+AR")
         self.assertEqual(cfg.group_label("RU"), "RU+TR+PT")
         self.assertEqual(cfg.group_label("NL"), "NL+DE")
         self.assertEqual(cfg.group_label("IT"), "IT+PL+CS")
