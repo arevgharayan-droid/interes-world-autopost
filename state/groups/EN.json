@@ -23,6 +23,7 @@
   "cb24f2fe5112af4485e2": "2026-11-12T09:03:54+00:00",
   "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
   "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00",
+  "f0fbe62a6e965138d9e2": "2026-11-16T00:21:36+00:00",
   "f87c8c178aeaa21eef02": "2026-11-10T22:04:28+00:00",
   "feb1dde7e2dbbf5351ce": "2026-11-10T22:05:38+00:00"
  },
@@ -5599,7 +5600,56 @@
    "status": "missed"
   },
   "2026-11-16 12:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Mother-in-Law Laughed When I Walked Into Divorce Court Alone, Until I Opened My Folder and Her Family Learned Who I Really Was",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 420,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/884846261_122138495678778778_1440770426058466785_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aoHH0Scjg8cQ7kNvwFyA642&_nc_oc=AdrdVinP6LBo7DBQjG7j5nVevBvC9heAzhh5AvK8FXPGMpi0HUBFz7wPFMgZGaN062Q&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=47zKPtpyJlwYIZtudsly_g&_nc_tpa=Q5bMBQL6JqEGPSFDPEUzyF_rmORYwwgYVHf-iEa-_XR2NYq7UOCQOimYluhtyjgyIo997FgGAjM4i2T3Hw&oh=00_AQRlVxjrRhN2H4OFAlwpbgr3bBLJPQ0Z6UQtepPg0syBMw&oe=6B000947",
@@ -5611,7 +5661,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1200-en.jpg"
    },
    "source_key": "post:61573363363721_122138495768778778",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5860,7 +5910,7 @@
    "origin": "manual",
    "page_id": "61573363363721",
    "slot": "2026-11-16 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573369523860_122139819650778984": {
    "fingerprint": "82026b32f43d6931f13c",
