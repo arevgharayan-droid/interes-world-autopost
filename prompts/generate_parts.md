@@ -12,7 +12,7 @@ TITLE
 
 PART 1 — the Facebook post (the title is placed above it automatically; do not repeat the title)
 - Retell the source story in {LANGUAGE}. Preserve the essential facts, names, sequence, emotion and meaning, and the narrator (first person if the source is in the first person).
-- About {PART1_WORDS} words.
+- About {PART1_WORDS} words (never more than 650).
 - Open with a striking first sentence that drops the reader straight into the scene.
 - Short paragraphs of 1–3 sentences, separated by an empty line. Use plenty of dialogue lines that start with an em dash (—). Concrete, sensory details.
 - Stop at the most tense moment, in the middle of the action, and end the last sentence with "…". Resolve nothing.
