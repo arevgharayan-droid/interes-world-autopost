@@ -29,7 +29,8 @@
   "d82c6f49086c806cd686": "2026-11-14T19:47:28+00:00",
   "d90f86068fb546dde052": "2026-11-09T20:01:42+00:00",
   "e94ee160cd92603444dc": "2026-11-13T14:37:33+00:00",
-  "ec8a996001a5f582c700": "2026-11-16T00:21:16+00:00"
+  "ec8a996001a5f582c700": "2026-11-16T00:21:16+00:00",
+  "f855d853b2033f80317b": "2026-11-16T23:51:16+00:00"
  },
  "outputs": {
   "100633729330404_1136704882391366": "2026-11-09T14:09:45+00:00",
@@ -6922,7 +6923,72 @@
    }
   },
   "2026-11-17 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Gave a Struggling Mom $4 for Her Baby's Diapers at a Gas Station, and a Week Later My Manager Handed Me an Envelope That Made Me Cry",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 523,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/910661641_1674719474031467_2221537876166153989_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gVo1hmQEyngQ7kNvwGWeOjj&_nc_oc=AdqUxn3_EVpYaX37kpSOPZpPTOo5toU6vZFhGlAosuUZfZMqzLYVCTrNc5osDjdQx34&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=lO6OrZzc_9SIpZSJxdgdqA&_nc_tpa=Q5bMBQIiE5kYv0ChHi4LmT2fVmekdau5LDtgR3W_bjxuqsBYOlG-DvNxTxRggnQbcgH3-wiU8muk556Z2g&oh=00_AQRv1urCl87yluxJvpBoYlbA-jWDKelFw2Vb6DWWsHZmZw&oe=6B017B9B",
@@ -6934,7 +7000,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1200-en2.jpg"
    },
    "source_key": "post:100044802900629_1675250207311727",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7131,7 +7197,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-17 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699156498269709": {
    "fingerprint": "cffc519128617c7dc49f",
