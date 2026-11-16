@@ -3,6 +3,7 @@
  "fb_block_until": "2026-11-14T14:14:29+04:00",
  "output_fps": {
   "046c05ed889e24fde6e8": "2026-11-10T22:03:35+00:00",
+  "0c6e8a7efc71f173e15e": "2026-11-16T10:16:48+00:00",
   "0d1837969ae0e3704a2b": "2026-11-09T20:00:55+00:00",
   "118a7c202280ee104d0c": "2026-11-13T10:14:57+00:00",
   "122da30c84d729a1b892": "2026-11-09T20:00:55+00:00",
@@ -50,7 +51,8 @@
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
   "f3c8eaafc0e1dc9038f5": "2026-11-09T13:26:40+00:00",
   "f3db1dfbfdb7df061663": "2026-11-14T11:39:08+00:00",
-  "f5bea5f3ca119019e8c7": "2026-11-09T19:59:42+00:00"
+  "f5bea5f3ca119019e8c7": "2026-11-09T19:59:42+00:00",
+  "fabea08610bac51ffc8f": "2026-11-16T10:16:48+00:00"
  },
  "outputs": {
   "1028964020310052_122131712493310273": "2026-11-14T10:24:13+00:00",
@@ -4097,7 +4099,63 @@
    }
   },
   "2026-11-16 15:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Allein mit meinem Baby im Flugzeug: Ein Fremder bat mich, an seiner Schulter einzuschlafen – nach der Landung wartete eine Überraschung auf mich",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 441,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ik vloog alleen met mijn baby na mijn scheiding, toen een vreemdeling fluisterde: \"Wilt u doen alsof u tegen mijn schouder in slaap valt?",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 440,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/906553393_1670908867745861_3841583416715528094_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5Li4Vkala8EQ7kNvwE2h86Z&_nc_oc=AdpB3lDYmNgSx9G9dWY1EekW3QojVQ9sGI8ug8oylM9agbl6xYsyds1JNZEjramrRMA&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=6syvgHdUt_XOhtOLJCmTIg&_nc_tpa=Q5bMBQKKXnjTyp_agvxFLYgW31abMF4Xl8Gm_DQMQHT_JUZTDuAINPTz60w0-t7Ah6elE9Ef_KVVQSMaxw&oh=00_AQT7W3U5_L6F8g215HIxMciXp9R4PznrLAyxRyzwQQYn-Q&oe=6B00A760",
@@ -4109,7 +4167,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1500-nl.jpg"
    },
    "source_key": "post:100044802900629_1670908991079182",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4307,7 +4365,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-16 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698998888285470": {
    "fingerprint": "82ad13dcc80155984bd8",

@@ -4677,7 +4677,10 @@
      "title": "Я нашла маму спящей в зимнем пальто в ледяном доме: деньги на пропан, которые мы отдавали сестре, до неё не дошли",
      "warnings": [
       "длина текста FB 650 слов (исходник 843, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 226,
+     "wp_status": "future"
     },
     "TR": {
      "backend": "subscription",
@@ -4687,7 +4690,10 @@
      "title": "Eksi 31 Derecede Annemi Montuyla Uyurken Buldum: Kardeşime Verdiğimiz Para Nereye Gitmişti?",
      "warnings": [
       "длина текста FB 534 слов (исходник 843, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 227,
+     "wp_status": "future"
     }
    },
    "slot_iso": "2026-11-16T15:00:00+04:00",
