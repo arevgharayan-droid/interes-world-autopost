@@ -6841,12 +6841,14 @@
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139285698776189_1689356122789738",
        "error": null,
        "last_attempt": "2026-11-17T00:28:26+04:00",
        "mode": "schedule",
        "photo_id": "122139285668776189",
        "post_id": "994273113779575_122139285698776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "A Single Mom Was Asleep in Seat 8A When the Captain Asked, \"Is There a Fighter Pilot on Board?",
@@ -6911,7 +6913,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-0130-en2.jpg"
    },
    "source_key": "post:61587321322233_122139111003244044",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
