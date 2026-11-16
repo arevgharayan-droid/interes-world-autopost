@@ -7,6 +7,7 @@
   "0e747318903c9a689ac2": "2026-11-13T10:14:29+00:00",
   "10148b6a82229cc06f82": "2026-11-10T22:03:30+00:00",
   "3015169f17e68b6fd1bf": "2026-11-09T13:24:29+00:00",
+  "3367781bbac23680b15e": "2026-11-16T10:11:01+00:00",
   "35f4dc18fe1b6e9d863f": "2026-11-09T20:07:49+00:00",
   "405a9e8158205d645adc": "2026-11-09T20:00:27+00:00",
   "457a0c3996dd22980ee2": "2026-11-12T17:47:23+00:00",
@@ -5901,7 +5902,58 @@
    }
   },
   "2026-11-16 15:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Came Home Early and Found My 68-Year-Old Mother Scrubbing My Bathroom Floor With Bruises on Her Wrist, Then I Remembered My Dying Father's Warning About Her Sewing Machine",
+     "warnings": [
+      "длина текста FB 1618 слов (исходник 1937, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 430,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/887077440_122141363373225301_685093712613310913_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=i79QJvr9VXMQ7kNvwFdrRBk&_nc_oc=Adqh3UrozoQjU0YWRaWhHAybSmZWVHx9D9sS4c3_lL-_l39qugvyJ2NDNrROxY6TwKc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=s6yBIxtib1unf1ULK4Mttw&_nc_tpa=Q5bMBQIUc3UMg70lrYbhT6V72eEfc6msgkpr6kawPRRhbbeuncGp_-AOAi25puNGS0fdwhtPjr5qffzbvQ&oh=00_AQSQejTkDW6a_FGn-ttrX4M6DkuwsBAFotY7mMqMPoPBHQ&oe=6B00A440",
@@ -5913,7 +5965,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1500-en2.jpg"
    },
    "source_key": "post:61586759032853_122141363457225301",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6206,7 +6258,7 @@
    "origin": "manual",
    "page_id": "61586759032853",
    "slot": "2026-11-16 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586759032853_122141685909225301": {
    "fingerprint": "3eada2874ed1ce2aca44",
