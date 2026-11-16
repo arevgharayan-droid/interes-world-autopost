@@ -3507,3 +3507,5 @@
 {"slot": "2026-11-16 12:00", "lang": "IT", "action": "wp_post", "id": 413, "status": "future", "t": "2026-11-16T00:18:20+00:00", "group": "IT"}
 {"slot": "2026-11-16 12:00", "lang": "PL", "action": "wp_post", "id": 414, "status": "future", "t": "2026-11-16T00:18:21+00:00", "group": "IT"}
 {"slot": "2026-11-16 12:00", "lang": "CS", "action": "wp_post", "id": 415, "status": "future", "t": "2026-11-16T00:18:22+00:00", "group": "IT"}
+{"slot": "2026-11-16 12:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 865 слов (исходник 715, цель ±10%)", "длина статьи 1066 слов"], "t": "2026-11-16T00:18:23+00:00", "group": "FR"}
+{"slot": "2026-11-16 12:00", "lang": "FR", "action": "wp_post", "id": 416, "status": "future", "t": "2026-11-16T00:18:24+00:00", "group": "FR"}

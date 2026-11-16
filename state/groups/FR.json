@@ -11,6 +11,7 @@
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
   "5475522c07f16a70e1ac": "2026-11-10T22:04:58+00:00",
   "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
+  "5d67279da1e3d48db9cd": "2026-11-16T00:18:23+00:00",
   "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
   "7a8b9787a9038db6d1c3": "2026-11-10T22:06:09+00:00",
   "82146aa95a8c25effbbd": "2026-11-10T22:03:44+00:00",
@@ -3953,7 +3954,59 @@
    "status": "missed"
   },
   "2026-11-16 12:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mon mari milliardaire me trompait depuis sept ans avec ma meilleure amie. Vingt-cinq ans plus tard, il a supplié notre fils, devenu médecin, de sauver son demi-frère",
+     "warnings": [
+      "длина текста FB 865 слов (исходник 715, цель ±10%)",
+      "длина статьи 1066 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 416,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/893429446_122139079184778778_4590632848483463400_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=odY_T3H-K_EQ7kNvwEKJs_w&_nc_oc=AdoEP76nSeTYBp0_Gk4uqlJFy7hUXdQHmyUJCJErvPoWGyIVeM06rA5SesUgvrLFRUs&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=F38oSR3zDOxwXst_WSMmug&_nc_tpa=Q5bMBQJu2JhXzWcscQ29R3_q5Jn46NWArcMEaaX3W12gpS5cQYn-oo2zNVIBtYBBKXLf7NOK1C5WjsJkQQ&oh=00_AQSH4R6OgN3ZfQRwHj_6jcZZTEtWjkcdY4gxMSyHoFWFkg&oe=6B000B52",
@@ -3965,7 +4018,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1200-fr.jpg"
    },
    "source_key": "post:61573363363721_122139079256778778",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4242,7 +4295,7 @@
    "origin": "manual",
    "page_id": "61573363363721",
    "slot": "2026-11-16 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573369523860_122140459448778984": {
    "fingerprint": "0aa82445e13515402f28",
