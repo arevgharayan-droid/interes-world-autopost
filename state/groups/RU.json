@@ -5072,8 +5072,10 @@
      "generated": true,
      "pages": {
       "1008693642337213": {
-       "attempts": 0,
-       "status": "new"
+       "attempts": 1,
+       "last_attempt": "2026-11-16T21:07:09+04:00",
+       "mode": "immediate",
+       "status": "sending"
       },
       "1125676667286378": {
        "attempts": 1,
