@@ -4781,6 +4781,10 @@
      "gen_error": null,
      "generated": true,
      "pages": {
+      "1138572272664180": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
       "1338630212673029": {
        "attempts": 1,
        "comment_attempts": 1,
@@ -4794,7 +4798,7 @@
       },
       "1448441201677530": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       }
      },
      "title": "Encontrei minha mãe de 82 anos dormindo de casaco dentro de casa a 31 graus negativos, e o que minha irmã levou à mesa na Páscoa mudou tudo",
@@ -4816,6 +4820,14 @@
        "attempts": 0,
        "status": "failed_final"
       },
+      "1018759874664543": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
+      "1036597159544783": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
       "1038143956055997": {
        "attempts": 0,
        "status": "failed_final"
@@ -4828,6 +4840,22 @@
        "attempts": 0,
        "status": "failed_final"
       },
+      "1066862079844179": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
+      "1069814529551887": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
+      "1075346445663696": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
+      "1075712068960532": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
       "1084212424777390": {
        "attempts": 0,
        "status": "failed_final"
@@ -4836,11 +4864,23 @@
        "attempts": 0,
        "status": "failed_final"
       },
+      "1097710383424105": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
+      "1098718609991464": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
       "1113548795169055": {
        "attempts": 0,
        "status": "failed_final"
       },
       "1117846738074068": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
+      "1118090254718709": {
        "attempts": 0,
        "status": "failed_final"
       },
@@ -4863,6 +4903,10 @@
        "attempts": 0,
        "status": "failed_final"
       },
+      "1167733113080371": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
       "988042774402200": {
        "attempts": 0,
        "status": "failed_final"
@@ -4882,6 +4926,10 @@
      "gen_error": null,
      "generated": true,
      "pages": {
+      "1083701291497481": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
       "1129620776897151": {
        "attempts": 1,
        "comment_attempts": 1,
@@ -4903,6 +4951,10 @@
        "photo_id": "122127094413307134",
        "post_id": "1164575726728296_122127094449307134",
        "status": "done"
+      },
+      "1180583925128715": {
+       "attempts": 0,
+       "status": "failed_final"
       }
      },
      "title": "Eksi 31 Derecede Annemi Montuyla Uyurken Buldum: Kardeşime Verdiğimiz Para Nereye Gitmişti?",
