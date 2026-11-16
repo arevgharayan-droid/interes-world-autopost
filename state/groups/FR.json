@@ -24,6 +24,7 @@
   "aa503d9655a302d21d57": "2026-11-14T09:18:04+00:00",
   "b094df1fc1c2da2733f6": "2026-11-12T10:26:33+00:00",
   "b120e497dba6ca6aff31": "2026-11-10T22:02:37+00:00",
+  "bb2f93acd716a89559fd": "2026-11-16T10:16:47+00:00",
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00"
  },
@@ -4141,7 +4142,59 @@
    }
   },
   "2026-11-16 15:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ma belle-mère touchait 1 200 $ par mois pour s'occuper de Mamie, mais en voyant ses cheveux sales, j'ai apporté mon salon chez elle, et les mots de Darla m'ont figée",
+     "warnings": [
+      "длина статьи 1037 слов",
+      "в тексте упоминается AI/перевод — проверьте"
+     ],
+     "wp_error": null,
+     "wp_id": 439,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/906026325_1671287931041288_1553059018546185852_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gmUTzBNpYcgQ7kNvwFw69hG&_nc_oc=Adqr0xCwI2ZboXQ5Yigj6Ud4BpVkAhsCkMqO35ULiAlu1-_Sw-DXenj9ORZvMxOZ17U&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Iq88jGip697HWBZvSIqMXw&_nc_tpa=Q5bMBQIkDmoS4duqkLPrFroCRkWOIkg6fs0RgOL46njeArkiwXb7xRC8moplTjOYloTchlIqYcgnz06IMA&oh=00_AQRfz4DiJZNlmgUZn7GE8W4eq40R-GGTHpYYq31omqKwsQ&oe=6B00968D",
@@ -4153,7 +4206,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1500-fr.jpg"
    },
    "source_key": "post:100044802900629_1674111954092219",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4335,7 +4388,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-16 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699072051611487": {
    "fingerprint": "f8fa08ba8c7252c10bbb",

@@ -19,6 +19,7 @@
   "2918f58ba47afcae805f": "2026-11-15T14:15:11+00:00",
   "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
   "30660871dadba458ebbe": "2026-11-09T20:02:09+00:00",
+  "309b8aec5b9ce1b07f14": "2026-11-16T10:16:47+00:00",
   "33582b0afea138144804": "2026-11-12T20:02:43+00:00",
   "34f5d1ae4690346695c5": "2026-11-12T17:48:06+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
@@ -55,10 +56,12 @@
   "9080b378741e8f08ec4a": "2026-11-10T22:08:57+00:00",
   "950641cc5f0ddd9580f6": "2026-11-09T20:08:16+00:00",
   "959c0a3855f5dc48d671": "2026-11-09T20:03:21+00:00",
+  "9a76a9818995731524e0": "2026-11-16T10:16:47+00:00",
   "9d236a06f2c553cf0edc": "2026-11-15T14:15:11+00:00",
   "9f68477819cc7f2b978d": "2026-11-09T20:02:09+00:00",
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
+  "b2a2a4c485d7b9f97fbc": "2026-11-16T10:16:47+00:00",
   "b704adc12a8d3775fd71": "2026-11-12T09:04:38+00:00",
   "ba8f3a95256fb1f89569": "2026-11-14T09:18:33+00:00",
   "be23e984142f21e3c44a": "2026-11-14T19:42:40+00:00",
@@ -4629,7 +4632,64 @@
    }
   },
   "2026-11-16 15:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Encontrei minha mãe de 82 anos dormindo de casaco dentro de casa a 31 graus negativos, e o que minha irmã levou à mesa na Páscoa mudou tudo",
+     "warnings": []
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я нашла маму спящей в зимнем пальто в ледяном доме: деньги на пропан, которые мы отдавали сестре, до неё не дошли",
+     "warnings": [
+      "длина текста FB 650 слов (исходник 843, цель ±10%)"
+     ]
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Eksi 31 Derecede Annemi Montuyla Uyurken Buldum: Kardeşime Verdiğimiz Para Nereye Gitmişti?",
+     "warnings": [
+      "длина текста FB 534 слов (исходник 843, цель ±10%)"
+     ]
+    }
+   },
    "slot_iso": "2026-11-16T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/904071864_1670900951079986_7606840178595872499_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ymCqYNFARLoQ7kNvwE2eDq3&_nc_oc=Adr079YfmONl-yIbtJW4IsMtYBt1T3WJizkfppvdum4MRTkdQ8LXC6VrgR2G_rPUyiY&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xz06KKy_YHXhxFsnlQ-q7A&_nc_tpa=Q5bMBQLOp2prD2uqfXdXS5O0zTJyx8Aufsigpj3jeRvntKplklkd0WdO1GhGP6EbEneo-zI278M5GaKQGQ&oh=00_AQR3JHznenEG2mfdAbVVmISQxCDUkCWCASsVzHpDraFI9g&oe=6B00C15B",
