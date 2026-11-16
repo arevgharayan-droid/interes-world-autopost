@@ -397,7 +397,7 @@
   "1260826840455724_122129179107441679": "2026-11-14T20:03:13+00:00",
   "1260826840455724_122129288019441679": "2026-11-15T11:01:48+00:00",
   "1260826840455724_122129327679441679": "2026-11-15T14:18:40+00:00",
-  "1260826840455724_122129394543441679": "2026-11-16T00:21:22+00:00"
+  "1260826840455724_122129394543441679": "2026-11-16T08:14:20+00:00"
  },
  "slots": {
   "2026-11-02 12:00": {
@@ -4069,21 +4069,25 @@
       },
       "1250374694822508": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123972757415639_1006979438565766",
        "error": null,
        "last_attempt": "2026-11-16T04:19:18+04:00",
        "mode": "schedule",
        "photo_id": "122123972721415639",
        "post_id": "1250374694822508_122123972757415639",
-       "status": "published"
+       "status": "done"
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129394543441679_2028385644505146",
        "error": null,
        "last_attempt": "2026-11-16T04:21:17+04:00",
        "mode": "schedule",
        "photo_id": "122129394501441679",
        "post_id": "1260826840455724_122129394543441679",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Mon mari milliardaire me trompait depuis sept ans avec ma meilleure amie. Vingt-cinq ans plus tard, il a supplié notre fils, devenu médecin, de sauver son demi-frère",
@@ -4133,7 +4137,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1200-fr.jpg"
    },
    "source_key": "post:61573363363721_122139079256778778",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
