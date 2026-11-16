@@ -4539,7 +4539,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-16T23:26:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/902045478_122235499436328214_3678322999819696799_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=thVpR_tVa2wQ7kNvwGsHv_S&_nc_oc=AdpW0ebxIXX465dApQujH-fxtW3_NwYZxqoA6_Oj_TB9fRf0KPxldb23qJ2CUy0SXfs&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=7-VbgXlL-PfndE33sYFnhw&_nc_tpa=Q5bMBQIG_xHIC4JGmM67ZkyquwbdNrKRSBpf40jzhQc4W1xtjRxgz7VuJ_TeBY2QWuilVJeFraFGksUNmw&oh=00_AQSKpbWdrvKCU5E7Y0nCkJXXBnNNidVsgbg7aUZUf-Oc8w&oe=6B01422F",
+    "link": "https://www.facebook.com/share/p/14w3bHAJbBZ/",
+    "origin": "manual",
+    "page_id": "61559846438723",
+    "text": "I found them sleeping on a marble bench inside my bank—one exhausted mother and a six-year-old girl hugging a torn rabbit. When I asked why they weren’t home, the woman looked at me with d:ead eyes and whispered, “They took everything.” I thought she meant money. Then she showed me the apartment papers… and I realized the thieves had made one fatal mistake.\nThe old man found them just after midnight, curled on the cold marble bench inside the bank lobby like forgotten coats. One was a young woman with rain in her hair; the other was a six-year-old girl clutching a stuffed rabbit with one missing eye.\n\nArthur Vale stopped beneath the buzzing lights, his cane clicking once.\n\nThe girl opened her eyes first.\n\n“Mommy,” she whispered. “Is he security?”\n\nThe woman jolted awake and pulled the child behind her. Her face was thin, bruised by exhaustion, but her voice stayed steady.\n\n“We’re leaving.”\n\nArthur looked at the bank logo on the wall, then at the cardboard cup with three coins inside.\n\n“You sleep here often?”\n\n“No.”\n\n“Tonight, then.”\n\nShe said nothing.\n\nArthur’s driver waited outside with the engine running. The old man had come to check the night deposit box after a charity dinner, dressed in a black coat worth more than most people’s rent. But his eyes did not have the bored cruelty of rich men. They had weight.\n\n“What’s your name?”\n\n“Lena Moroz.”\n\n“And the child?”\n\n“Maya.”\n\nArthur knelt with effort. “Maya, are you hungry?”\n\nThe girl looked at her mother before nodding.\n\nLena’s mouth tightened. “We don’t need pity.”\n\n“Good,” Arthur said. “I don’t carry any.”\n\nSomething in his tone made her look at him properly.\n\nHe pointed at the bank doors. “Why here?”\n\nLena laughed once, sharp and broken. “Because this is where I paid for the apartment. Every month. Twelve years of double shifts, cleaning offices, sewing uniforms, skipping meals. I signed the final papers last week.”\n\n“And now?”\n\nHer eyes filled, but she refused to blink.\n\n“They took it.”\n\nArthur’s face hardened. “Who?”\n\n“My landlord. His lawyer. His niece from the bank. They said I missed a payment years ago. They said the contract had a penalty clause. They said the apartment was never really mine.”\n\nMaya whispered, “Our beds are outside.”\n\nLena swallowed. “When I asked about the apartment I paid my whole life for, they laughed.”\n\nArthur’s cane stopped tapping.\n\n“What exactly did they say?”\n\nLena looked past him, toward the glass doors, toward the city that had swallowed her.\n\n“They said, ‘They took everything? Good. Poor people should read before they sign.’”\n\nArthur rose slowly.\n\nFor the first time that night, he smiled.\n\nIt was not kind.\n\n“Lena,” he said, “show me the papers.”\nComment \"YES\" now and don't forget to LIKE — PART 2 + FULL ENDING is unbelievable!",
+    "wp_media_id": 463,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-2326-fr.jpg"
+   },
+   "source_key": "post:61559846438723_122235736226328214",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-17 00:00": {
    "langs": {},
@@ -4682,6 +4698,10 @@
    "link": "https://www.facebook.com/share/p/19ka49Q49J/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1706170314234994&id=100045261260562"
   },
+  "link:d784e43d3ca28101892c": {
+   "link": "https://www.facebook.com/share/p/14w3bHAJbBZ/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122235736226328214&id=61559846438723"
+  },
   "link:d7b922eee93befa64bf0": {
    "link": "https://www.facebook.com/share/p/1CMaEaNX3R/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122118732104345126&id=61560353781750"
@@ -4813,6 +4833,14 @@
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
    "status": "used"
+  },
+  "post:61559846438723_122235736226328214": {
+   "fingerprint": "98d150943fe56597b6ba",
+   "link": "https://www.facebook.com/share/p/14w3bHAJbBZ/",
+   "origin": "manual",
+   "page_id": "61559846438723",
+   "slot": "2026-11-16 23:26",
+   "status": "reserved"
   },
   "post:61560353781750_122118732104345126": {
    "fingerprint": "0a8076d9812475f5dee0",
