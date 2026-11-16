@@ -6418,7 +6418,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-11-16T23:28:14+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Teacher Threw a Little Girl's Project About Her Marine Dad in the Trash, Then He Showed Up With Proof the Next Morning",
      "warnings": [
       "длина статьи 990 слов"

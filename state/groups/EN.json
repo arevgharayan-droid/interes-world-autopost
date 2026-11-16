@@ -21,6 +21,7 @@
   "b034d1046357d847cce2": "2026-11-16T16:00:37+00:00",
   "b1899a39d4a80bf0017e": "2026-11-15T10:15:24+00:00",
   "b49b03bb1b007b0a80de": "2026-11-09T20:02:56+00:00",
+  "c7642b06a93420a0f1dc": "2026-11-16T19:28:15+00:00",
   "cad5cdd2ed73c48ea1dc": "2026-11-09T20:01:56+00:00",
   "cb24f2fe5112af4485e2": "2026-11-12T09:03:54+00:00",
   "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
@@ -6411,7 +6412,72 @@
   },
   "2026-11-16 23:26": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Said \"Divorce\" at 4:30 A.M. While I Cooked for His Family With Our Newborn on My Chest, But He Never Knew About the Blue Folder",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 470,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T23:26:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/893165983_122234851244328214_179707762240576207_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MR2FMHGYvs0Q7kNvwEMCz67&_nc_oc=Adqz6lkf2g0mMsy6DfNco2kNz3lRFCyee6wpLVYf-q6dgvtpBidlO_A0lvbbt4CODcM&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=rXahbfRyYd9RHtwxAfZNag&_nc_tpa=Q5bMBQIIWXVubvDvWR1Z037vSG3JFpoxXjTbQPB5eXTK7_Hs0ubu4ZzyaAg7wKTXGtjz_mLrGwi7sTbosQ&oh=00_AQSZYa8M4KWgw7eBvUQ4-2b2ofH3ZAMw8fgBwpqHI72RXQ&oe=6B01461C",
@@ -6423,7 +6489,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-2326-en.jpg"
    },
    "source_key": "post:61559846438723_122234851268328214",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6694,7 +6760,7 @@
    "origin": "manual",
    "page_id": "61559846438723",
    "slot": "2026-11-16 23:26",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61560353781750_122119517852345126": {
    "fingerprint": "82231e17a1874afee382",
