@@ -40,6 +40,9 @@ languages:
       - {page_id: "1149681171551323", name: "Racconti Emozionanti", profile_id: "61589438907076", added: "2026-11-13"}
       - {page_id: "1128937866962526", name: "Momenti di Vita", profile_id: "61565990951843", added: "2026-11-13"}
       - {page_id: "1099258949937246", name: "Éclats de vie", profile_id: "61568051218619", added: "2026-11-13"}
+      - {page_id: "1159996950522974", name: "Racconti del Destino", profile_id: "61589551851796", added: "2026-11-16"}
+      - {page_id: "1093003583899107", name: "Emozioni Italiane", profile_id: "61589007555641", added: "2026-11-16"}
+      - {page_id: "1078100405390763", name: "Momenti di Vita #2", profile_id: "61589167538572", added: "2026-11-16"}
   EN:
     name: English
     make_modules: "claude 532, wordpress 30"
