@@ -27,6 +27,7 @@
   "b120e497dba6ca6aff31": "2026-11-10T22:02:37+00:00",
   "bb2f93acd716a89559fd": "2026-11-16T10:16:47+00:00",
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
+  "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00"
  },
  "outputs": {
@@ -4537,7 +4538,72 @@
   },
   "2026-11-16 23:26": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elles dormaient sur un banc de banque, mais un vieil homme a vu les papiers de l'appartement et a souri",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 471,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T23:26:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/902045478_122235499436328214_3678322999819696799_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=thVpR_tVa2wQ7kNvwGsHv_S&_nc_oc=AdpW0ebxIXX465dApQujH-fxtW3_NwYZxqoA6_Oj_TB9fRf0KPxldb23qJ2CUy0SXfs&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=7-VbgXlL-PfndE33sYFnhw&_nc_tpa=Q5bMBQIG_xHIC4JGmM67ZkyquwbdNrKRSBpf40jzhQc4W1xtjRxgz7VuJ_TeBY2QWuilVJeFraFGksUNmw&oh=00_AQSKpbWdrvKCU5E7Y0nCkJXXBnNNidVsgbg7aUZUf-Oc8w&oe=6B01422F",
@@ -4549,7 +4615,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-2326-fr.jpg"
    },
    "source_key": "post:61559846438723_122235736226328214",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -4840,7 +4906,7 @@
    "origin": "manual",
    "page_id": "61559846438723",
    "slot": "2026-11-16 23:26",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61560353781750_122118732104345126": {
    "fingerprint": "0a8076d9812475f5dee0",
