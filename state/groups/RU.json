@@ -15,6 +15,7 @@
   "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
   "17291d408906d44b96db": "2026-11-14T11:40:46+00:00",
   "1955c9dccca6e5edee35": "2026-11-14T11:40:46+00:00",
+  "21354b5f5c5131938ef0": "2026-11-16T16:01:05+00:00",
   "285546559f89fcbaefe2": "2026-11-15T10:15:20+00:00",
   "2918f58ba47afcae805f": "2026-11-15T14:15:11+00:00",
   "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
@@ -42,6 +43,7 @@
   "6ad19445c3c2f9ca584e": "2026-11-09T20:00:50+00:00",
   "70f1397700ba9303490e": "2026-11-13T14:37:39+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
+  "72de7386867e661b1a44": "2026-11-16T16:01:05+00:00",
   "76d5322eded92004a16e": "2026-11-10T22:03:12+00:00",
   "78229d059b1f03d27989": "2026-11-09T20:08:16+00:00",
   "788e0e4a8634b7c3a3a3": "2026-11-10T22:05:49+00:00",
@@ -62,6 +64,7 @@
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
   "b2a2a4c485d7b9f97fbc": "2026-11-16T10:16:47+00:00",
+  "b30605de8da0dd54f00f": "2026-11-16T16:01:05+00:00",
   "b704adc12a8d3775fd71": "2026-11-12T09:04:38+00:00",
   "ba8f3a95256fb1f89569": "2026-11-14T09:18:33+00:00",
   "be23e984142f21e3c44a": "2026-11-14T19:42:40+00:00",
@@ -4810,7 +4813,86 @@
   },
   "2026-11-16 19:59": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu filho de 14 anos deixou o cabelo crescer para dar uma peruca à amiga com câncer, mas no dia seguinte a escola me chamou e o pai dela me esperava na diretoria",
+     "warnings": []
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Мой сын отрастил волосы для подруги, больной раком, а наутро меня вызвали в школу: «Вы хоть знаете, что он сделал?",
+     "warnings": [
+      "длина текста FB 391 слов (исходник 554, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 233,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "14 Yaşındaki Oğlum Kanser Hastası Arkadaşına Peruk Olsun Diye Saçlarını Uzattı, Ertesi Gün Okul Beni Çağırdı",
+     "warnings": [
+      "длина текста FB 342 слов (исходник 554, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 234,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-16T19:59:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/899544225_1137476912374510_9164957427531413311_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lBF6iXRAs4sQ7kNvwFyY56G&_nc_oc=Adr-rQrukQKY0Sb4w9oiViAm8Y3_XF7FDk_f6LGFRiC7eAcRZMosKta0VsFCPXnOSjs&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2sBO2TixmaOvAzPgNPV5eA&_nc_tpa=Q5bMBQJbyr0L9onh7Mk_w8eOwaoRX7oZbQegjb0j4IW6J3Axt6k1PkvOm8gFW2fbprdMc_nxScZu0pCUrQ&oh=00_AQRUqv2sNvRXv2icPQ0Wx6b9v7_PgmUgt1VFjR-dAJuH5w&oe=6B00FC54",

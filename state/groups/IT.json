@@ -11,12 +11,14 @@
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
   "5925113003b25213dc5b": "2026-11-15T14:13:20+00:00",
   "59ba199024c504005873": "2026-11-13T10:14:50+00:00",
+  "628ca1701fa9d7a8990a": "2026-11-16T16:01:05+00:00",
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
   "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
   "75900c4b74075115b0dc": "2026-11-15T10:15:15+00:00",
   "79641c4c501a7a4cbbf6": "2026-11-16T00:18:19+00:00",
   "8010f06d690dbd6a283e": "2026-11-14T09:15:08+00:00",
   "84db3c73ebdd880ee5e3": "2026-11-10T22:02:27+00:00",
+  "8552c7ef849f34e97736": "2026-11-16T16:01:05+00:00",
   "87b1af35e9ccfbf89e55": "2026-11-14T19:42:43+00:00",
   "885f2e137e5a0835d33e": "2026-11-14T09:18:15+00:00",
   "89c6b9a751ed3bd87da5": "2026-11-14T09:15:08+00:00",
@@ -32,6 +34,7 @@
   "ba5f05202837b2fb860d": "2026-11-14T11:39:45+00:00",
   "bb0ddf4fdb82f7b2d023": "2026-11-10T22:04:53+00:00",
   "bd6eab36f82eb4d435fe": "2026-11-14T19:42:43+00:00",
+  "c048f4c9b8f48906fe16": "2026-11-16T16:01:05+00:00",
   "c3a669114cbd1e96b360": "2026-11-12T10:26:53+00:00",
   "c8020142d83ca272273c": "2026-11-16T00:18:19+00:00",
   "cf29e5e2e8b5770866b0": "2026-11-16T10:16:33+00:00",
@@ -6670,7 +6673,92 @@
   },
   "2026-11-16 19:59": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Pětapadesát let jsem nosila růži na památník svého snoubence. Pak mi pilot před přistáním vyslovil jeho jméno",
+     "warnings": [
+      "длина текста FB 294 слов (исходник 384, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 462,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Per cinquantacinque anni ha portato una rosa al memoriale del suo fidanzato disperso, ma prima dell'atterraggio la voce del comandante ha pronunciato il suo nome",
+     "warnings": [
+      "длина текста FB 305 слов (исходник 384, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 460,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Przez 55 lat składałam różę przy pomniku narzeczonego, aż głos z kokpitu wypowiedział jego imię",
+     "warnings": [
+      "длина текста FB 290 слов (исходник 384, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 461,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T19:59:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/910136155_122105208716536431_3268024713533000036_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=SYiOTJh4chcQ7kNvwGVI-7P&_nc_oc=Adpz8msnamx_wJ8g0zszQyaRGIS4N9JY0LG9jdxa9GDVZ73IewlLrHZ9wdOVtx3s-so&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=JhwDxccOje0kr7Vf8d570g&_nc_tpa=Q5bMBQLCQpHOoYg4U9A2H-IUXdBHm5p_vCf4XFuZhuGrkxYV-hBRIrABDNBQ8_fcbS0n_oROcxXhstjjnQ&oh=00_AQTpXT88uve6VSg3OkCp2AVJJzoZFgpNBq1soQT7XhGngw&oe=6B0115F6",
@@ -6682,7 +6770,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1959-it.jpg"
    },
    "source_key": "post:1011074408765807_122105208740536431",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6969,7 +7057,7 @@
    "origin": "manual",
    "page_id": "1011074408765807",
    "slot": "2026-11-16 19:59",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61560353781750_122118289148345126": {
    "fingerprint": "18fdf02041a09e2fbb81",
