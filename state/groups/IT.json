@@ -6979,6 +6979,12 @@
        "post_id": "1160240797163045_122128515291300955",
        "status": "done"
       },
+      "1174674892385169": {
+       "attempts": 1,
+       "last_attempt": "2026-11-16T21:06:51+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "1191480207389219": {
        "attempts": 1,
        "comment_attempts": 1,
