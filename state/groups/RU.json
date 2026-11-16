@@ -23,6 +23,7 @@
   "34f5d1ae4690346695c5": "2026-11-12T17:48:06+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
   "430a2b7c726cdc7d25cd": "2026-11-14T19:42:40+00:00",
+  "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
   "511f35f875db7d4a056d": "2026-11-13T14:37:39+00:00",
   "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
@@ -65,6 +66,8 @@
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
+  "e14b9de1541baf5a7406": "2026-11-16T00:18:30+00:00",
+  "e1b27c7dab073d04d921": "2026-11-16T00:18:30+00:00",
   "e264befb548c9459d95b": "2026-11-10T22:04:30+00:00",
   "e2f11ad134f9c6c0943e": "2026-11-13T10:15:12+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
@@ -4473,7 +4476,74 @@
    "status": "missed"
   },
   "2026-11-16 12:00": {
-   "langs": {},
+   "langs": {
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu marido bilionário esqueceu meu aniversário de 29 anos, mas a pulseira de hospital escondida no meu casaco revelou o que eu guardava em silêncio",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 221,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Муж-миллиардер забыл о моём дне рождения, а потом нашёл в моём пальто больничный браслет, и его лицо изменилось",
+     "warnings": [
+      "длина текста FB 528 слов (исходник 637, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 219,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Doğum Günümde Milyarder Kocam Beni Restoranda Unuttu, Merdivenlerde Bayılınca Cebimdeki Hastane Bilekliğini Buldu",
+     "warnings": [
+      "длина текста FB 431 слов (исходник 637, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 220,
+     "wp_status": "future"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-16T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/886519980_122138764010778778_1550211825528596794_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zfv14_FsTf4Q7kNvwFC9Cpr&_nc_oc=AdpBWkK5U4nyuRmFGGLfhyE1-ICmLguUvfzaFvkJ8nu7YbNF-DLYXIqe9TyAI5bqBW8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=nK_FcMlZ9zinhoVEj1UdNw&_nc_tpa=Q5bMBQKjOkTFJvruZtoJWdDyrMnYtZetaG1hSHGV-w0QLUgLAiN2VmOBl2kMC-gALvpeZcA2WB-Uk9O7Fw&oh=00_AQTsnwojVdTzl6DTYY-DC4NGvNQXSfZoFUYUHULgbWwyRQ&oe=6B00298B",
@@ -4485,7 +4555,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261116-1200-ru.jpg"
    },
    "source_key": "post:61573363363721_122138764082778778",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4762,7 +4832,7 @@
    "origin": "manual",
    "page_id": "61573363363721",
    "slot": "2026-11-16 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61574270220252_122137345892809007": {
    "fingerprint": "0143d65d9c5e6d4d21d0",
