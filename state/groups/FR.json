@@ -4332,7 +4332,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-16T19:59:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/903576537_1140513752070826_6612560063191826562_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=PL7Jt-PaWPQQ7kNvwF6VT0I&_nc_oc=AdoCviFyoQ2lF6-1bfv4Qc5CG9-b7F_ghQ9eBMMA7B3-Apvy5IlMsc-FkskTAxme7DE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=__qBZH-y-A87f8UZBBDZ0g&_nc_tpa=Q5bMBQIR9H5k1tKyT-7uuj-PddMqFTVxA_GCc-po-62fOl4feqCt0B9B_bS8AQGkHkpkFfB0Eh89uOjl5A&oh=00_AQQftSlr_-lsCz1_NkSDiZvsZUP1Y6eQ0fEINA4urnx6SA&oe=6B00F23B",
+    "link": "https://www.facebook.com/share/p/18dibxQxjg/",
+    "origin": "manual",
+    "page_id": "100083366355470",
+    "text": "EN 1995, IL A ABANDONNÉ SA FEMME ET LEURS CINQ BÉBÉS NOIRS. TRENTE ANS PLUS TARD, UNE LETTRE A RÉVÉLÉ LE SECRET QUE SA MÈRE AVAIT EMPORTÉ DANS LA TOMBE…\n\n« Ils sont noirs. Ce ne sont pas mes enfants. »\n\nEmily venait de donner naissance à des quintuplés. Épuisée, encore tremblante, elle regardait Richard reculer devant les cinq petits lits.\n\n« Fais un test, le supplia-t-elle. Mais ne nous abandonne pas. »\n\nIl est parti.\n\nPendant trente ans, Emily a élevé seule leurs deux filles et leurs trois garçons. Elle nettoyait des bureaux la nuit, réparait des vêtements le week-end et inventait des repas avec presque rien.\n\nQuand ses enfants lui demandaient pourquoi leur père ne venait jamais, elle les serrait contre elle.\n\n« Son absence ne dit rien de votre valeur. »\n\nPuis, en 2025, une lettre de notaire est arrivée.\n\nUn homme qu’Emily ne connaissait pas venait de laisser une fortune aux cinq enfants. Dans son dossier figuraient aussi des documents médicaux datant de leur naissance et une lettre écrite par Margaret, la mère de Richard.\n\nLe jour du rendez-vous, Richard était déjà assis dans le bureau. Il tenait une vieille photographie entre ses doigts.\n\nPour la première fois, il n’arrivait plus à regarder Emily dans les yeux.\n\n« Ma mère savait », a-t-il murmuré.\n\nLe notaire a ouvert le dossier.\n\nEt lorsqu’il a lu ce que Margaret avait caché pendant toutes ces années, plus personne n’a osé parler.\n\nLa suite de l’histoire dans le premier commentaire. 👇",
+    "wp_media_id": 451,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1959-fr.jpg"
+   },
+   "source_key": "post:100083366355470_1140513918737476",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-16 21:00": {
    "langs": {},
@@ -4378,6 +4394,10 @@
   "link:2c9d1a969d296cd96efe": {
    "link": "https://www.facebook.com/share/p/1HnoPVwZTy/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1644261257070495&id=100044599086455"
+  },
+  "link:2e8b2c635f8aa822b362": {
+   "link": "https://www.facebook.com/share/p/18dibxQxjg/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1140513918737476&id=100083366355470"
   },
   "link:334287ce012efa64a50a": {
    "link": "https://www.facebook.com/share/p/1A8sNQX4zc/",
@@ -4578,6 +4598,14 @@
    "page_id": "100066730531753",
    "slot": "2026-11-12 00:00",
    "status": "used"
+  },
+  "post:100083366355470_1140513918737476": {
+   "fingerprint": "4c95f666c8193133e189",
+   "link": "https://www.facebook.com/share/p/18dibxQxjg/",
+   "origin": "manual",
+   "page_id": "100083366355470",
+   "slot": "2026-11-16 19:59",
+   "status": "reserved"
   },
   "post:1011074408765807_122101879646536431": {
    "fingerprint": "b5ed31862cee3216b94b",

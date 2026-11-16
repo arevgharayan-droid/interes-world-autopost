@@ -6672,7 +6672,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-16T19:59:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/910136155_122105208716536431_3268024713533000036_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=SYiOTJh4chcQ7kNvwGVI-7P&_nc_oc=Adpz8msnamx_wJ8g0zszQyaRGIS4N9JY0LG9jdxa9GDVZ73IewlLrHZ9wdOVtx3s-so&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=AJfPMC4EAAAA&_nc_gid=JhwDxccOje0kr7Vf8d570g&_nc_tpa=Q5bMBQLCQpHOoYg4U9A2H-IUXdBHm5p_vCf4XFuZhuGrkxYV-hBRIrABDNBQ8_fcbS0n_oROcxXhstjjnQ&oh=00_AQTpXT88uve6VSg3OkCp2AVJJzoZFgpNBq1soQT7XhGngw&oe=6B0115F6",
+    "link": "https://www.facebook.com/share/p/1F3DWwEcmt/",
+    "origin": "manual",
+    "page_id": "1011074408765807",
+    "text": "Cela faisait cinquante-cinq ans que mon fiancé avait disparu pendant la guerre. Chaque année, je prenais l’avion pour déposer une rose au mémorial. Mais cette fois, juste avant l’atterrissage, une voix venue du cockpit a prononcé mon prénom… puis le sien. 😱💔\n\nJ’avais vingt et un ans lorsque Julien avait disparu.\n\nNous nous étions rencontrés à l’université. Lui étudiait l’ingénierie, moi la littérature. Nous n’avions presque rien, mais nous rêvions de nous marier.\n\nPuis la guerre nous avait séparés.\n\nLa veille de son départ, il avait posé son front contre le mien.\n\n— Quand tu seras vieille, ne fais pas de moi une triste histoire.\n\n— Alors reviens.\n\n— Je reviendrai.\n\nSix mois plus tard, deux militaires étaient venus annoncer sa disparition. Aucun corps. Aucune épave retrouvée.\n\nPendant des années, j’avais attendu qu’il frappe à ma porte.\n\nJe ne m’étais jamais mariée.\n\nÀ chaque anniversaire de sa disparition, je faisais le même voyage, avec une rose blanche et sa photographie dans mon sac.\n\nCinquante-cinq fois.\n\nMais ce jour-là, les haut-parleurs ont grésillé.\n\n— Madame Élise Moreau, au siège 12A… ce message est pour vous.\n\nJ’ai levé la tête.\n\n— Je sais que vous vous rendez au mémorial pour Julien Delcourt.\n\nMon verre s’est mis à trembler entre mes doigts.\n\nComment cet inconnu pouvait-il connaître son nom ?\n\n— Quelqu’un vous cherche depuis des années, a poursuivi la voix. Après l’atterrissage, accepteriez-vous de rester à bord quelques instants ?\n\nUne hôtesse s’est approchée de moi. J’ai hoché la tête, incapable de parler.\n\nQuelques minutes plus tard, les autres passagers étaient descendus.\n\nLa porte du cockpit s’est ouverte.\n\nUn homme d’une cinquantaine d’années est apparu.\n\nCe n’était pas Julien.\n\nMais ses yeux… cette façon d’incliner la tête…\n\nMon verre m’a échappé.\n\nLe commandant s’est arrêté devant moi. Il tenait une vieille enveloppe, si usée qu’elle avait été réparée avec du ruban adhésif.\n\n— Il faut que je vous dise qui je suis, a-t-il murmuré.\n\nPuis il a prononcé deux phrases.\n\nEt j’ai compris que l’on ne m’avait pas seulement pris l’homme que j’aimais.\n\nOn m’avait caché quelque chose de bien plus terrible.\n\nLisez la suite dans le premier commentaire 👇👇",
+    "wp_media_id": 452,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-1959-it.jpg"
+   },
+   "source_key": "post:1011074408765807_122105208740536431",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-16 21:00": {
    "langs": {},
@@ -6782,6 +6798,10 @@
   "link:ace605e62034c42ff87a": {
    "link": "https://www.facebook.com/share/p/1FAmb3vR2h/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122153490723350229&id=61590506886446"
+  },
+  "link:b4a218a1b0ee310dcbf7": {
+   "link": "https://www.facebook.com/share/p/1F3DWwEcmt/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122105208740536431&id=61566092952750"
   },
   "link:ba3e480c837cf70ae35f": {
    "link": "https://www.facebook.com/share/p/14yrw3gKgBf/",
@@ -6942,6 +6962,14 @@
    "page_id": "1011074408765807",
    "slot": "2026-10-30 00:00",
    "status": "used"
+  },
+  "post:1011074408765807_122105208740536431": {
+   "fingerprint": "a36adb3d6e22bb061d12",
+   "link": "https://www.facebook.com/share/p/1F3DWwEcmt/",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-11-16 19:59",
+   "status": "reserved"
   },
   "post:61560353781750_122118289148345126": {
    "fingerprint": "18fdf02041a09e2fbb81",
