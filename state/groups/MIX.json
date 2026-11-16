@@ -19,7 +19,10 @@
      "title": "ذهبت إلى عشاء عيد الأم وحدي، وفجأة سمعت ابني يقرأ رقم عضويتي للمدير... وما فعلته بعدها جعل وجوههم تشحب",
      "warnings": [
       "длина текста FB 443 слов (исходник 553, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 480,
+     "wp_status": "publish"
     },
     "CS": {
      "pages": {},
@@ -39,7 +42,10 @@
      "generated": true,
      "pages": {},
      "title": "Mi hijo me excluyó del Día de la Madre y, al verme cenar sola, intentó cargar 38.000 dólares a mi cuenta con mi firma falsificada",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 478,
+     "wp_status": "publish"
     },
     "FR": {
      "pages": {},
@@ -67,7 +73,10 @@
      "generated": true,
      "pages": {},
      "title": "Fiul meu a încercat să-mi fure 38.000 de dolari de Ziua Mamei, dar nu știa cui aparținea de fapt numărul de membru pe care îl striga în restaurant",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 479,
+     "wp_status": "publish"
     },
     "RU": {
      "pages": {},
@@ -85,9 +94,13 @@
      "title": "Син підробив мій підпис і привів усю родину дружини на банкет за мій рахунок у День матері, та не здогадувався, хто я насправді в цьому ресторані",
      "warnings": [
       "длина текста FB 432 слов (исходник 553, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 477,
+     "wp_status": "publish"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-16T23:26:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/845996887_122231612426328214_8567197500542879583_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0I954zHXKI4Q7kNvwHuKJxf&_nc_oc=AdpUIV3u8jfV86Ytw0_tSuQgQvQAdrxR0YyGzO8FDVWVAFCOBBXfnOHbVUo6KCnIbEw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=J4ax2vHUR7yCy4JfHil-mg&_nc_tpa=Q5bMBQJjS8bmIcuGEewu4XHu-aQxKc80Kg9UkBGjQ3Py55BKa8U8aJnEToVQOVW69uG-y3qAQVTfpyDn0A&oh=00_AQTK1R1G7J9wo_9m5AVxCE4_ARrMdoYQszI6Tg66dJX62Q&oe=6B01424A",
@@ -99,7 +112,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261116-2326-mix.jpg"
    },
    "source_key": "post:61559846438723_122231627036328214",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -145,7 +158,7 @@
    "origin": "manual",
    "page_id": "61559846438723",
    "slot": "2026-11-16 23:26",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
