@@ -1,9 +1,4 @@
 ## Раскрытие ссылок
 
-- https://www.facebook.com/share/1DeyFR5fQ8/ → url=https://www.facebook.com/p/Segredos-que-a-Vida-Guarda-61595167986420/ | story_fbid= | id= (?) | post_id= | title= Segredos que a Vida Guarda
-- https://www.facebook.com/share/1CvBLwxDWh/ → url=https://www.facebook.com/p/Hist%C3%B3rias-que-Ningu%C3%A9m-Esquece-61594155721036/ | story_fbid= | id= (?) | post_id= | title=Histórias que Ninguém Esquece
-- https://www.facebook.com/share/1MGkxfw73H/ → url=https://www.facebook.com/p/Lebenswege-61593091482615/ | story_fbid= | id= (?) | post_id= | title=Lebenswege
-- https://www.facebook.com/share/1CG16eqxsJ/ → url=https://www.facebook.com/p/Geschichten-des-Lebens-61592558064466/ | story_fbid= | id= (?) | post_id= | title= Geschichten des Lebens
-- https://www.facebook.com/share/1CKDPCww8b/ → url=https://www.facebook.com/p/Life-Between-Moments-61593175856853/ | story_fbid= | id= (?) | post_id= | title=Life Between Moments
-- https://www.facebook.com/share/19zJgtspvo/ → url=https://www.facebook.com/p/Visages-de-la-Vie-61593250385737/ | story_fbid= | id= (?) | post_id= | title= Visages de la Vie
-- https://www.facebook.com/share/1MUnuYmxau/ → url=https://www.facebook.com/p/Vite-da-Raccontare-61592155259651/ | story_fbid= | id= (?) | post_id= | title=Vite da Raccontare
+- https://m.facebook.com/story.php?story_fbid=pfbid0TPo9krJRM4ZvYqBFZwW52okHY6vN4N3Gj1eDsQpaHAvkHAaQqFi2YRvPWfBPw6xJl&id=100044802900629 → url=https://www.facebook.com/story.php?story_fbid=pfbid0TPo9krJRM4ZvYqBFZwW52okHY6vN4N3Gj1eDsQpaHAvkHAaQqFi2YRvPWfBPw6xJl&id=100044802900629 | story_fbid= | id=100044802900629 (?) | post_id= | title=
+- https://www.facebook.com/61566689175708/posts/pfbid028QjoR6XNFUjtTMWUjfdH6ksvn42Rx3MRBuDitNYrL7cPQYmZbh38sC6jaZwmBK3ul/ → url=https://www.facebook.com/61566689175708/posts/mon-mari-a-bloqu%C3%A9-mes-cartes-bancaires-alors-que-jachetais-des-couches-pour-notr/122106012902556305 | story_fbid= | id= (?) | post_id= | title=Du fond de l’âme
