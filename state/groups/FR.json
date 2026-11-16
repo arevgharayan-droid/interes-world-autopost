@@ -5007,7 +5007,10 @@
      "generated": true,
      "pages": {},
      "title": "Le shérif a menotté une cliente sans raison dans un restaurant, sans savoir qu'elle était juge fédérale venue enquêter sur lui",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 522,
+     "wp_status": "future"
     },
     "IT": {
      "pages": {},
@@ -5042,6 +5045,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-17T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/899271355_122124154539444459_8462102462357268875_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5oJ4CGv065EQ7kNvwFVAQkC&_nc_oc=Adq6xBj9X40DlOyJRSs2C9NLJMffifrHe3-z4ey0CV_oZg9XODuXZLOkMH72foqPjq4&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=SD4a-kU06emdwYnwJQa4KQ&_nc_tpa=Q5bMBQLpDPVgvk42VmVJMSY3QEU0u_cfjFRECt0V-eGK47J6HHQN97iKYMzTGe5skH8kB6b-hDGM1VP8YA&oh=00_AQToBvExxP3fRFYEsEHj65amjBuIFC5Zz9mdb5ztRpeIyA&oe=6B016DFB",
@@ -5053,7 +5057,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1200-fr.jpg"
    },
    "source_key": "post:61593333781016_122124154641444459",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5476,7 +5480,7 @@
    "origin": "manual",
    "page_id": "61593333781016",
    "slot": "2026-11-17 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61593412202747_122124393321447073": {
    "fingerprint": "0e10c59c74479a6d092e",
