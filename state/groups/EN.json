@@ -5889,6 +5889,11 @@
  },
  "source_cutoff": "2026-10-29T16:37:24+00:00",
  "sources": {
+  "bad:e3b0c44298fc1c149afb": {
+   "error": "ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '100044802900629' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api",
+   "link": "https://m.facebook.com/story.php?story_fbid=pfbid033T5X5HHwLS7eo5XJqpqiNX2L7aqcEkzE8bNjDA4yxcSpazVZB8AwDssbyY5tfGJEl&id=100044802900629",
+   "status": "skipped"
+  },
   "link:17ba2587056ae71546a9": {
    "link": "https://www.facebook.com/share/p/1C9o8W4z7h/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122144249169210709&id=61586321290305"
