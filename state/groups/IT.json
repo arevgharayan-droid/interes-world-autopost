@@ -5551,7 +5551,7 @@
       },
       "1030877436782212": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1064982806700854": {
        "attempts": 1,
@@ -5566,7 +5566,11 @@
       },
       "1068567606345452": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
+      },
+      "1078100405390763": {
+       "attempts": 0,
+       "status": "failed_final"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -5601,6 +5605,10 @@
        "post_id": "1087342844462554_122122734537296683",
        "status": "done"
       },
+      "1093003583899107": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
       "1099258949937246": {
        "attempts": 1,
        "comment_attempts": 1,
@@ -5614,7 +5622,7 @@
       },
       "1114015015119414": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1128937866962526": {
        "attempts": 1,
@@ -5660,6 +5668,10 @@
        "post_id": "1149681171551323_122130019017314630",
        "status": "done"
       },
+      "1159996950522974": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
       "1160223747182678": {
        "attempts": 1,
        "comment_attempts": 1,
@@ -5673,7 +5685,7 @@
       },
       "1160240797163045": {
        "attempts": 0,
-       "status": "new"
+       "status": "failed_final"
       },
       "1191480207389219": {
        "attempts": 1,
