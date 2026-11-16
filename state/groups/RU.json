@@ -4667,7 +4667,10 @@
      "generated": true,
      "pages": {},
      "title": "Encontrei minha mãe de 82 anos dormindo de casaco dentro de casa a 31 graus negativos, e o que minha irmã levou à mesa na Páscoa mudou tudo",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 228,
+     "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
@@ -4696,6 +4699,7 @@
      "wp_status": "future"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-16T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/904071864_1670900951079986_7606840178595872499_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ymCqYNFARLoQ7kNvwE2eDq3&_nc_oc=Adr079YfmONl-yIbtJW4IsMtYBt1T3WJizkfppvdum4MRTkdQ8LXC6VrgR2G_rPUyiY&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xz06KKy_YHXhxFsnlQ-q7A&_nc_tpa=Q5bMBQLOp2prD2uqfXdXS5O0zTJyx8Aufsigpj3jeRvntKplklkd0WdO1GhGP6EbEneo-zI278M5GaKQGQ&oh=00_AQR3JHznenEG2mfdAbVVmISQxCDUkCWCASsVzHpDraFI9g&oe=6B00C15B",
@@ -4707,7 +4711,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261116-1500-ru.jpg"
    },
    "source_key": "post:100044802900629_1670901047746643",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4905,7 +4909,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-16 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699103431608349": {
    "fingerprint": "72333163c518fa427e98",
