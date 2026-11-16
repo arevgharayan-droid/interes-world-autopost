@@ -594,7 +594,7 @@
   "1448441201677530_122120345367505599": "2026-11-15T10:37:37+00:00",
   "1448441201677530_122120807463505599": "2026-11-16T17:09:29+00:00",
   "1448441201677530_122120850543505599": "2026-11-16T19:44:32+00:00",
-  "1448441201677530_122120863089505599": "2026-11-16T20:38:49+00:00",
+  "1448441201677530_122120863089505599": "2026-11-16T22:07:15+00:00",
   "988042774402200_122134723226733774": "2026-11-09T14:10:03+00:00",
   "988042774402200_122134723544733774": "2026-11-09T17:07:09+00:00",
   "988042774402200_122134723808733774": "2026-11-09T20:06:37+00:00",
@@ -6088,21 +6088,24 @@
       "1338630212673029": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122117904999471857_1445768290415623",
        "error": null,
        "last_attempt": "2026-11-17T00:38:52+04:00",
        "mode": "schedule",
        "photo_id": "122117904969471857",
        "post_id": "1338630212673029_122117904999471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120863089505599_1783560042942977",
        "error": null,
        "last_attempt": "2026-11-17T00:38:46+04:00",
        "mode": "schedule",
        "photo_id": "122120863059505599",
        "post_id": "1448441201677530_122120863089505599",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Aos 80 anos, minha barriga cresceu tanto que os médicos ficaram em choque. Quando meu filho descobriu o segredo, ficou pálido",
@@ -6452,7 +6455,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261117-0130-ru.jpg"
    },
    "source_key": "post:61587321322233_122139692985244044",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
