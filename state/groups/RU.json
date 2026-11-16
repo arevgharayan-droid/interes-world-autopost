@@ -4856,7 +4856,10 @@
      "generated": true,
      "pages": {},
      "title": "Meu filho de 14 anos deixou o cabelo crescer para dar uma peruca à amiga com câncer, mas no dia seguinte a escola me chamou e o pai dela me esperava na diretoria",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 235,
+     "wp_status": "publish"
     },
     "RO": {
      "pages": {},
@@ -4893,6 +4896,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-16T19:59:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/899544225_1137476912374510_9164957427531413311_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lBF6iXRAs4sQ7kNvwFyY56G&_nc_oc=Adr-rQrukQKY0Sb4w9oiViAm8Y3_XF7FDk_f6LGFRiC7eAcRZMosKta0VsFCPXnOSjs&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2sBO2TixmaOvAzPgNPV5eA&_nc_tpa=Q5bMBQJbyr0L9onh7Mk_w8eOwaoRX7oZbQegjb0j4IW6J3Axt6k1PkvOm8gFW2fbprdMc_nxScZu0pCUrQ&oh=00_AQRUqv2sNvRXv2icPQ0Wx6b9v7_PgmUgt1VFjR-dAJuH5w&oe=6B00FC54",
@@ -4904,7 +4908,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261116-1959-ru.jpg"
    },
    "source_key": "post:100083366355470_1137476969041171",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -5183,7 +5187,7 @@
    "origin": "manual",
    "page_id": "100083366355470",
    "slot": "2026-11-16 19:59",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122102285582536431": {
    "fingerprint": "ee49e5bda02151657312",
