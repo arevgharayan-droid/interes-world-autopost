@@ -114,14 +114,66 @@ def resolve_share_link(link: str) -> dict:
     return found
 
 
-def normalize_link(link: str, state) -> str:
-    """Короткую ссылку facebook.com/share/… раскрывает в полную (результат запоминается в состоянии)."""
-    if "/share/" not in link:
+def _pfbid_parts(link: str):
+    """story.php?story_fbid=pfbid…&id=PAGE  или  facebook.com/PAGE/posts/pfbid… → (PAGE, pfbid)."""
+    m = re.search(r"(pfbid[0-9A-Za-z]+)", link)
+    if not m:
+        return "", ""
+    pf = m.group(1)
+    page = ""
+    q = re.search(r"[?&]id=(\d+)", link)
+    if q:
+        page = q.group(1)
+    else:
+        q = re.search(r"facebook\.com/([^/?]+)/posts/", link)
+        if q:
+            page = q.group(1)
+    return page, pf
+
+
+def resolve_pfbid_link(link: str, graph=None, tokens=None, fallback_page_id: str = "") -> str:
+    """Ссылка с pfbid (новый формат Facebook, без числового ID) → "PAGEID_POSTID".
+    1) как короткую ссылку — через предпросмотр Facebook; 2) по списку постов страницы через Graph API."""
+    page, pf = _pfbid_parts(link)
+    if not pf:
+        raise SourceError("в ссылке нет ID поста")
+    info = resolve_share_link(link)
+    if info.get("story_fbid") and (info.get("id") or page):
+        return f"{info.get('id') or page}_{info['story_fbid']}"
+    if info.get("post_id") and (info.get("page_id") or page):
+        return f"{info.get('page_id') or page}_{info['post_id']}"
+    u = info.get("url") or ""
+    m = re.search(r"story_fbid=(\d+)", u)
+    if m and (re.search(r"[?&]id=(\d+)", u) or page):
+        pid = re.search(r"[?&]id=(\d+)", u)
+        return f"{pid.group(1) if pid else page}_{m.group(1)}"
+    if graph is not None and tokens and page:
+        token = tokens.get(page) or tokens.get(fallback_page_id) or next(iter(tokens.values()), None)
+        try:
+            posts = graph.get(f"{page}/posts", token, fields="id,permalink_url", limit=100).get("data", [])
+        except FacebookError as e:
+            raise SourceError(f"ссылку pfbid не удалось раскрыть: {e.short()}")
+        for p in posts:
+            if pf in (p.get("permalink_url") or ""):
+                return p["id"]
+        raise SourceError("ссылку pfbid не удалось раскрыть: пост не найден среди последних 100 постов страницы")
+    raise SourceError("ссылку pfbid не удалось раскрыть — пришлите ссылку «Поделиться» (facebook.com/share/…)")
+
+
+def normalize_link(link: str, state, graph=None, tokens=None, fallback_page_id: str = "") -> str:
+    """Короткую ссылку facebook.com/share/… (и ссылку с pfbid) раскрывает в полную (запоминается в состоянии)."""
+    is_pf = "pfbid" in link and "/share/" not in link
+    if "/share/" not in link and not is_pf:
         return link
     key = link_key(link)
     rec = state.sources.get(key) or {}
     if rec.get("resolved"):
         return rec["resolved"]
+    if is_pf:
+        url = resolve_pfbid_link(link, graph, tokens, fallback_page_id)
+        state.sources.setdefault(key, {}).update(resolved=url, link=link)
+        state.save()
+        return url
     info = resolve_share_link(link)
     if info.get("story_fbid") and info.get("id"):
         url = f"https://www.facebook.com/story.php?story_fbid={info['story_fbid']}&id={info['id']}"
@@ -129,6 +181,8 @@ def normalize_link(link: str, state) -> str:
         url = info["url"]
     else:
         raise SourceError("короткую ссылку /share/ не удалось раскрыть — пришлите полную ссылку на пост")
+    if "pfbid" in url and not re.search(r"story_fbid=\d+", url):
+        url = resolve_pfbid_link(url, graph, tokens, fallback_page_id)
     state.sources.setdefault(key, {}).update(resolved=url, link=link)
     state.save()
     return url
@@ -303,7 +357,7 @@ def pick_source(cfg, graph, tokens: dict, state, now: datetime, log) -> dict | N
                 if origin == "google_sheet" and state.source_used(link_key(link)):
                     continue
                 try:
-                    info = parse_link(normalize_link(link, state), p2p)
+                    info = parse_link(normalize_link(link, state, graph, tokens, cfg.fallback_source_page_id), p2p)
                 except SourceError as e:
                     key = "bad:" + text_fingerprint(link)
                     if not state.source_used(key):

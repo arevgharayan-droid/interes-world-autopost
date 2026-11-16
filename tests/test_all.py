@@ -937,6 +937,34 @@ class RateLimitTests(unittest.TestCase):
         self.assertFalse(pl._newer_release_started(datetime(2030, 5, 2, 0, 0, tzinfo=tz),
                                                    datetime(2030, 5, 2, 3, 30, tzinfo=tz)))   # без истории не в счёт
 
+
+class PfbidLinkTests(unittest.TestCase):
+    def test_pfbid_links_resolved_via_page_posts(self):
+        from unittest import mock
+        from autopost import sources
+        from autopost.sources import _pfbid_parts, normalize_link, parse_link
+        a = "https://m.facebook.com/story.php?story_fbid=pfbid0TPo9krJ&id=100044802900629&mibextid=wwXIfr"
+        b = "https://www.facebook.com/61566689175708/posts/pfbid028QjoR6/?mibextid=wwXIfr"
+        self.assertEqual(_pfbid_parts(a), ("100044802900629", "pfbid0TPo9krJ"))
+        self.assertEqual(_pfbid_parts(b), ("61566689175708", "pfbid028QjoR6"))
+
+        class G:
+            def get(self, path, token, **kw):
+                page = path.split("/")[0]
+                return {"data": [{"id": f"{page}_111", "permalink_url": f"https://www.facebook.com/{page}/posts/pfbidOTHER"},
+                                 {"id": f"{page}_222", "permalink_url": f"https://www.facebook.com/{page}/posts/pfbid0TPo9krJ"},
+                                 {"id": f"{page}_333", "permalink_url": f"https://www.facebook.com/{page}/posts/pfbid028QjoR6"}]}
+        cfg, tmp = temp_cfg()
+        st = State(tmp / "state/x.json")
+        with mock.patch.object(sources, "resolve_share_link", return_value={}):
+            ra = normalize_link(a, st, G(), {"p": "T"}, "")
+            rb = normalize_link(b, st, G(), {"p": "T"}, "")
+        self.assertEqual(ra, "100044802900629_222")
+        self.assertEqual(rb, "61566689175708_333")
+        self.assertEqual(parse_link(ra, {})["part"], "222")
+        with mock.patch.object(sources, "resolve_share_link", side_effect=AssertionError("кэш")):
+            self.assertEqual(normalize_link(a, st, G(), {"p": "T"}, ""), ra)    # запомнено в состоянии
+
 class LateLinkTests(unittest.TestCase):
     def test_link_sent_after_release_goes_to_next_release(self):
         """Выпуск 09:00 прошёл без истории; ссылка пришла в 09:45 — она идёт в 12:00, а не «догоняет» 09:00."""
