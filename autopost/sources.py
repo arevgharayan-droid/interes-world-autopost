@@ -137,16 +137,24 @@ def resolve_pfbid_link(link: str, graph=None, tokens=None, fallback_page_id: str
     page, pf = _pfbid_parts(link)
     if not pf:
         raise SourceError("в ссылке нет ID поста")
-    info = resolve_share_link(link)
-    if info.get("story_fbid") and (info.get("id") or page):
-        return f"{info.get('id') or page}_{info['story_fbid']}"
-    if info.get("post_id") and (info.get("page_id") or page):
-        return f"{info.get('page_id') or page}_{info['post_id']}"
-    u = info.get("url") or ""
-    m = re.search(r"story_fbid=(\d+)", u)
-    if m and (re.search(r"[?&]id=(\d+)", u) or page):
-        pid = re.search(r"[?&]id=(\d+)", u)
-        return f"{pid.group(1) if pid else page}_{m.group(1)}"
+    # Facebook перенаправляет …/PAGE/posts/pfbid… на адрес с числовым ID поста — пробуем и этот вид ссылки
+    variants = [link]
+    if page:
+        variants.append(f"https://www.facebook.com/{page}/posts/{pf}")
+    for v in variants:
+        info = resolve_share_link(v)
+        if info.get("story_fbid") and (info.get("id") or page):
+            return f"{info.get('id') or page}_{info['story_fbid']}"
+        if info.get("post_id") and (info.get("page_id") or page):
+            return f"{info.get('page_id') or page}_{info['post_id']}"
+        u = info.get("url") or ""
+        m = re.search(r"story_fbid=(\d+)", u)
+        if m and (re.search(r"[?&]id=(\d+)", u) or page):
+            pid = re.search(r"[?&]id=(\d+)", u)
+            return f"{pid.group(1) if pid else page}_{m.group(1)}"
+        m = re.search(r"facebook\.com/([^/?]+)/posts/(?:[^/?]+/)?(\d{8,})", u)
+        if m:
+            return f"{m.group(1) if m.group(1).isdigit() else page}_{m.group(2)}"
     if graph is not None and tokens and page:
         token = tokens.get(page) or tokens.get(fallback_page_id) or next(iter(tokens.values()), None)
         try:

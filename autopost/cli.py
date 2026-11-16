@@ -681,8 +681,6 @@ def cmd_ops(cfg, args) -> int:
         return cmd_match_pages(cfg, a.get("pages") or [])
     if cmd == "fb-probe":
         return cmd_fb_probe(cfg, a.get("tokens_file", ""), a.get("page", ""))
-    if cmd == "resolve-links":
-        return cmd_resolve_links(cfg, a.get("links") or [])
     if cmd == "tokens-status":
         return cmd_tokens_status(cfg, check=a.get("check", True))
     if cmd == "retry-sources":
@@ -1022,51 +1020,6 @@ def _owner_name(cfg, origin: str) -> str:
     if origin in extra_token_files(cfg):
         return "autopost"      # старый системный пользователь
     return origin              # autopost2 / autopost3 из основного набора
-
-
-def cmd_resolve_links(cfg, links) -> int:
-    """Диагностика: что Facebook отдаёт по ссылке без входа (редиректы, og:url, числовые ID в HTML)."""
-    import requests as _rq
-    pats = {"story_fbid": r'"story_fbid":"?(\d+)', "post_id": r'"post_id":"(\d+)"',
-            "top_level_post_id": r'"top_level_post_id":"(\d+)"', "mf_story_key": r'"mf_story_key":"?(\d+)',
-            "share_fbid": r'"share_fbid":"?(\d+)', "og:url": r'<meta property="og:url" content="([^"]+)"',
-            "canonical": r'<link rel="canonical" href="([^"]+)"', "url_fbid": r'story_fbid=(\d+)',
-            "posts_num": r'/posts/(\d{8,})', "pageID": r'"pageID":"(\d+)"'}
-    uas = ["facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)", "Twitterbot/1.0",
-           "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"]
-    out = ["## Разбор ссылок", ""]
-    for link in links:
-        variants = [link]
-        if "m.facebook.com" in link:
-            variants += [link.replace("m.facebook.com", "www.facebook.com"), link.replace("m.facebook.com", "mbasic.facebook.com")]
-        for v in variants:
-            for ua in uas:
-                url, chain, hits = v, [], {}
-                try:
-                    for _ in range(6):
-                        r = _rq.get(url, headers={"User-Agent": ua, "Accept-Language": "en-US,en;q=0.8"},
-                                    allow_redirects=False, timeout=20)
-                        loc = r.headers.get("Location") or ""
-                        chain.append(f"{r.status_code}{' → ' + loc[:140] if loc else ''}")
-                        for k, pt in pats.items():
-                            m = re.search(pt, loc or "")
-                            if m:
-                                hits.setdefault(k, m.group(1)[:160])
-                        if loc:
-                            url = loc if not loc.startswith("/") else "https://www.facebook.com" + loc
-                            continue
-                        for k, pt in pats.items():
-                            m = re.search(pt, r.text)
-                            if m:
-                                hits.setdefault(k, m.group(1)[:160])
-                        break
-                except Exception as e:  # noqa: BLE001
-                    chain.append(f"ошибка {e.__class__.__name__}")
-                out.append(f"- `{v[:90]}` · {ua.split('/')[0]}")
-                out.append(f"  - {' | '.join(chain)[:400]}")
-                out.append(f"  - {hits}")
-    summary("\n".join(out) + "\n", "previews/resolve-links.md", cfg)
-    return 0
 
 
 def cmd_tokens_status(cfg, check=True) -> int:

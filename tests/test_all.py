@@ -939,6 +939,19 @@ class RateLimitTests(unittest.TestCase):
 
 
 class PfbidLinkTests(unittest.TestCase):
+    def test_pfbid_story_link_resolved_via_posts_redirect(self):
+        from unittest import mock
+        from autopost import sources
+        from autopost.sources import normalize_link
+        a = "https://m.facebook.com/story.php?story_fbid=pfbid0TPo9krJ&id=100044802900629"
+        def fake(v):
+            if "/posts/pfbid0TPo9krJ" in v:
+                return {"url": "https://www.facebook.com/100044802900629/posts/slug-text/122106012902556305"}
+            return {"url": v}
+        cfg, tmp = temp_cfg()
+        with mock.patch.object(sources, "resolve_share_link", side_effect=fake):
+            self.assertEqual(normalize_link(a, State(tmp / "state/x.json")), "100044802900629_122106012902556305")
+
     def test_pfbid_links_resolved_via_page_posts(self):
         from unittest import mock
         from autopost import sources
