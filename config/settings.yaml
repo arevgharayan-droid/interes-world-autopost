@@ -96,9 +96,9 @@ sources:
 
 facebook:
   graph_version: v26.0
-  # Страницы, которых нет у autopost2, публикуются через старого системного пользователя autopost
-  # (его токены — в этом файле). Чтобы отключить — удалите строку со списком.
-  extra_token_files: [state/page_tokens_autopost1.enc]
+  # Старый системный пользователь autopost отключён 16.11.2026: все страницы — у autopost2/3/4.
+  # Чтобы снова брать у него страницы, которых нет у новых, раскомментируйте:
+  # extra_token_files: [state/page_tokens_autopost1.enc]
 
 # Тестовая страница для закрытого и публичного теста (page_id из config/pages.yaml).
 # Пусто — будет выбрана первая страница NL «Het is interessant».
