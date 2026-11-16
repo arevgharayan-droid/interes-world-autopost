@@ -4598,12 +4598,14 @@
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127575841309032_1789326242625643",
        "error": null,
        "last_attempt": "2026-11-16T23:34:37+04:00",
        "mode": "immediate",
        "photo_id": "122127575817309032",
        "post_id": "1102464712951594_122127575841309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
@@ -4616,27 +4618,32 @@
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131345797418602_2706994703070397",
        "error": null,
        "last_attempt": "2026-11-16T23:33:18+04:00",
        "mode": "immediate",
        "photo_id": "122131345773418602",
        "post_id": "1208422892355505_122131345797418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133519351436382_1896130011372318",
        "error": null,
        "last_attempt": "2026-11-16T23:33:57+04:00",
        "mode": "immediate",
        "photo_id": "122133519327436382",
        "post_id": "1268633826332790_122133519351436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Sie schickten einen Veteranen mit Gehstock und seine siebenjährige Tochter aus der ersten Klasse nach hinten – dann trat der Kapitän aus dem Cockpit und salutierte",
      "warnings": [],
      "wp_error": null,
      "wp_id": 475,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -4673,12 +4680,14 @@
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130399531424769_2391514618326384",
        "error": null,
        "last_attempt": "2026-11-16T23:32:39+04:00",
        "mode": "immediate",
        "photo_id": "122130399501424769",
        "post_id": "1180417388497186_122130399531424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
