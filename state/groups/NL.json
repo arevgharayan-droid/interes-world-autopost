@@ -3,6 +3,7 @@
  "fb_block_until": "2026-11-14T14:14:29+04:00",
  "output_fps": {
   "046c05ed889e24fde6e8": "2026-11-10T22:03:35+00:00",
+  "082942ddf599434d8353": "2026-11-16T20:28:19+00:00",
   "0c6e8a7efc71f173e15e": "2026-11-16T10:16:48+00:00",
   "0d1837969ae0e3704a2b": "2026-11-09T20:00:55+00:00",
   "118a7c202280ee104d0c": "2026-11-13T10:14:57+00:00",
@@ -11,6 +12,7 @@
   "13db4df12dcefc769231": "2026-11-09T13:24:24+00:00",
   "15be0b388fcdf33795f9": "2026-11-10T22:02:31+00:00",
   "16dff82487a20e2b89e6": "2026-11-10T22:04:40+00:00",
+  "17a667176c2b4e39c2f0": "2026-11-16T20:28:19+00:00",
   "18ce6ab9d592b0877673": "2026-11-14T11:39:08+00:00",
   "20a7a509199cfbe519fc": "2026-11-15T14:18:37+00:00",
   "282775455f9afac79cda": "2026-11-10T22:03:35+00:00",
@@ -4806,7 +4808,81 @@
   },
   "2026-11-17 01:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mein Mann stellte meiner 73-jährigen Mutter nach einem Monat Babyhilfe eine Rechnung über 1.000 Dollar aus – was ich dann aus dem Schlafzimmer holte, ließ ihn erstarren",
+     "warnings": [
+      "длина текста FB 736 слов (исходник 881, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 492,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn man gaf mijn 73-jarige moeder een rekening van 1.000 dollar na een maand oppassen op onze pasgeboren dochter",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 491,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T01:30:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/861573093_122138889489244044_5572033262932521593_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CeHGhC3ko9wQ7kNvwHy_4FM&_nc_oc=AdqzT5AqXYcqQPaC7YAoXWEsGE2qWx7rPvLPWDRCE0bVqcOJX2dEMm-jr82F5xXuzpM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fdXdj928d0kNhW87rzYPNQ&_nc_tpa=Q5bMBQJE0td4QUtx6Xx45ndNlBkRx9sIeNjMtUbOPg_acftRtqZZC9rXbZKGKPxQHhxIP2Vyift61nVWOw&oh=00_AQT1bR7L4fy4RkD2skO-vT4h0kjpiF_Z2WBr94y-Qr84ng&oe=6B014294",
@@ -4818,7 +4894,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-0130-nl.jpg"
    },
    "source_key": "post:61587321322233_122138889597244044",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5209,7 +5285,7 @@
    "origin": "manual",
    "page_id": "61587321322233",
    "slot": "2026-11-17 01:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61589490035610_122125985943316334": {
    "fingerprint": "d19039b60edde56441da",
