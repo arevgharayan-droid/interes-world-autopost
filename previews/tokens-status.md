@@ -19,7 +19,7 @@
   - Vita Virale | Paris [IT] — autopost2
   - Vite da Raccontare [IT] — autopost2
   - Frammenti di Vita [IT] — autopost3
-  - Una Storia che Ti Toccherà [IT] — autopost
+  - Una Storia che Ti Toccherà [IT] — autopost4
   - Cuori in Storia [IT] — autopost3
   - Lacrime di Vita [IT] — autopost2
   - Vite Spezzate [IT] — autopost2
@@ -28,6 +28,10 @@
   - Racconti Emozionanti [IT] — autopost2
   - Momenti di Vita [IT] — autopost2
   - Éclats de vie [IT] — autopost2
+  - Racconti del Destino [IT] — autopost2
+  - Emozioni Italiane [IT] — autopost2
+  - Momenti di Vita #2 [IT] — autopost2
+  - Storie del Cuore [IT] — autopost4
   - Serca i Sekrety [PL] — autopost2
   - Historie z Życia [PL] — autopost2
   - Historie, które zostają w sercu [PL] — autopost2
@@ -42,8 +46,8 @@
   - Whispers of Fate [EN] — autopost3
   - Heartfelt Lessons [EN] — autopost3
   - The Golden Touch [EN] — autopost3
-  - Amazing [EN] — нет доступа
   - Pet Lover [EN] — autopost3
+  - Best Stories [EN] — autopost4
   - Sweet Paws #1 [EN] — autopost3
   - Sweet Paws #2 [EN] — autopost3
   - Love This World [EN] — autopost3
@@ -76,12 +80,43 @@
   - Momente des Lebens [DE] — autopost2
   - Herzgeschichten Deutschland [DE] — autopost2
 - **RU+TR+PT**
-  - Из глубины сердца [RU] — autopost
-  - Из глубины души [RU] — autopost
+  - Из глубины сердца [RU] — autopost4
+  - Из глубины души [RU] — autopost4
   - Моменты жизни [RU] — autopost3
+  - Истории [RU] — autopost4
+  - Правда жизни [RU] — autopost4
+  - Тайны Судьбы [RU] — autopost4
+  - Сердце Помнит [RU] — autopost4
+  - Сердце помнит [RU] — autopost4
+  - Между строк жизни [RU] — autopost4
+  - Жизненные истории [RU] — autopost4
+  - Осколки жизни [RU] — autopost4
+  - Судьбы и слёзы [RU] — autopost4
+  - Судьбы людей [RU] — autopost4
+  - То, что трогает душу [RU] — autopost4
+  - Судьба Расскажет [RU] — autopost4
+  - Линии судьбы [RU] — autopost4
+  - Истории сердца [RU] — autopost4
+  - Жизнь без масок [RU] — autopost4
+  - Эхо души [RU] — autopost4
+  - Тени Прошлого [RU] — autopost4
+  - Жизнь как она есть [RU] — autopost4
+  - Следы судьбы [RU] — autopost4
   - Hayatın Anları [TR] — autopost3
   - Kalpten Hikayeler [TR] — autopost2
-  - Segredos que a Vida Guarda [PT] — autopost
+  - Hayatın Saklı Yüzü [TR] — autopost4
+  - Kalpte Kalan Hikayeler [TR] — autopost4
+  - Segredos que a Vida Guarda [PT] — autopost4
   - Histórias que Ninguém Esquece [PT] — autopost2
+  - Vidas em História [PT] — autopost4
+- **UK+ES+RO+AR**
+  - Там, де говорить серце [UK] — autopost4
+  - Життя без прикрас [UK] — autopost4
+  - Secretos del Destino [ES] — autopost4
+  - Lágrimas de la Vida [ES] — autopost4
+  - Povești care Ating Inima [RO] — autopost4
+  - Momente din Viață [RO] — autopost4
+  - لحظات الحياة [AR] — autopost4
+  - قصص من القلب [AR] — autopost4
 
-Итого: autopost3: 40 · autopost2: 32 · autopost: 4 · нет доступа: 1
+Итого: autopost3: 40 · autopost2: 35 · autopost4: 36
