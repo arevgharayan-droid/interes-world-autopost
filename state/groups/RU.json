@@ -4578,6 +4578,10 @@
        "attempts": 0,
        "status": "failed_final"
       },
+      "1066862079844179": {
+       "attempts": 0,
+       "status": "failed_final"
+      },
       "1084212424777390": {
        "attempts": 0,
        "status": "failed_final"
@@ -4608,6 +4612,10 @@
        "photo_id": "122140473278737651",
        "post_id": "1125676667286378_122140473308737651",
        "status": "done"
+      },
+      "1146158698570676": {
+       "attempts": 0,
+       "status": "failed_final"
       },
       "988042774402200": {
        "attempts": 0,
