@@ -71,3 +71,5 @@ https://www.facebook.com/share/p/1ExsTWFcu3/
 https://www.facebook.com/share/p/1cq9YNcaCb/
 # 17.11.2026: 15:00 (замена — прежняя история уже выходила)
 https://www.facebook.com/share/p/1J6vmTe9zB/
+# 17.11.2026: 18:00 (ссылка pfbid раскрыта через браузер)
+https://www.facebook.com/story.php?story_fbid=1492825629377620&id=100059505912199

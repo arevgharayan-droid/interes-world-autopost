@@ -69,3 +69,5 @@ https://www.facebook.com/share/1CAgpCw3Qs/
 https://www.facebook.com/share/p/1TLvApp3rr/
 # 17.11.2026: 15:00
 https://www.facebook.com/share/p/1Dx2TMoPed/
+# 17.11.2026: 18:00 (ссылка pfbid раскрыта через браузер)
+https://www.facebook.com/story.php?story_fbid=122190320942734065&id=61572021954882
