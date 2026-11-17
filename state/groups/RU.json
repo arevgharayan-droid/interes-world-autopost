@@ -13,6 +13,7 @@
   "0ebfd740ad936de8493b": "2026-11-16T19:28:42+00:00",
   "0febb3e08517debf9ca4": "2026-11-12T09:04:38+00:00",
   "10f20c4033c5982d7320": "2026-11-15T10:15:20+00:00",
+  "131aaa912b9beae262e7": "2026-11-17T12:29:11+00:00",
   "151eb58f03724b2a8ed0": "2026-11-09T20:03:21+00:00",
   "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
   "17291d408906d44b96db": "2026-11-14T11:40:46+00:00",
@@ -34,6 +35,7 @@
   "53b56a6026d7d16218d9": "2026-11-17T10:39:05+00:00",
   "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
   "5579983a5a4919598caf": "2026-11-14T09:18:33+00:00",
+  "55c68668d71f5fde2cc3": "2026-11-17T12:29:11+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5b204109299ad4dcd429": "2026-11-12T20:02:43+00:00",
@@ -76,6 +78,7 @@
   "b30605de8da0dd54f00f": "2026-11-16T16:01:05+00:00",
   "b704adc12a8d3775fd71": "2026-11-12T09:04:38+00:00",
   "ba8f3a95256fb1f89569": "2026-11-14T09:18:33+00:00",
+  "bbf91fc3e81dd214569b": "2026-11-17T12:29:11+00:00",
   "bd3dd864aeb563b3def7": "2026-11-17T10:39:05+00:00",
   "be23e984142f21e3c44a": "2026-11-14T19:42:40+00:00",
   "be38faec6f9e0849079a": "2026-11-13T10:15:12+00:00",
@@ -7434,7 +7437,90 @@
    }
   },
   "2026-11-17 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha mãe nos proibiu de ir à piscina sozinhas com o vovô, mas um dia ele nos levou à parte mais funda e pediu segredo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 311,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Мама всегда запрещала нам ходить в бассейн с дедушкой одним, и когда он отвёл нас на глубину и попросил молчать, я поняла, что она боялась не зря",
+     "warnings": [
+      "часть 1: 309 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 309,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Annem dedemle havuza asla yalnız gitmememizi söylerdi, ama dedem bizi en derin yere götürüp kimseye söylemeyeceğimize dair söz isteyince her şeyin nedenini öğrendim",
+     "warnings": [
+      "часть 1: 284 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 310,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/906129700_122190320864734065_8121555823389322922_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=42vq1ZQm1P8Q7kNvwE0l0u8&_nc_oc=AdptXKFoaHrOSogbCRgNxyEnLupJKMCoTNCmmQiU_1Lge1gJbmtXh2z8TPlCcCMeeOI&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=5LWYO49GrRAzzJQFYA5QHA&_nc_tpa=Q5bMBQIIvaLbGTCQo70xK-fSSA2RgK1qGaEOkh-S2VUupNG8XwLRTahfdp3qejyI0CUbeaW6jaRlBoGAQA&oh=00_AQQSIOXZpsJep7HRifkaxgMBpXuxXuvzEwvbjT9g9GaDvQ&oe=6B0229F3",
@@ -7446,7 +7532,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261117-1800-ru.jpg"
    },
    "source_key": "post:61572021954882_122190320942734065",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -7784,7 +7870,7 @@
    "origin": "manual",
    "page_id": "61572021954882",
    "slot": "2026-11-17 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573363363721_122138764082778778": {
    "fingerprint": "3acbfdeb1f367ae8cd51",

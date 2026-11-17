@@ -8964,7 +8964,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-17T16:29:11+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Dopo 45 anni ho sposato il mio primo amore in un letto d'ospedale per esaudire il suo ultimo desiderio, ma al funerale suo figlio mi ha consegnato una lettera sigillata",
      "warnings": [],
      "wp_error": null,
