@@ -244,6 +244,29 @@ class PipelineTests(unittest.TestCase):
             self.assertRegex(msg, r"\n\S+ 3\nhttps?://\S+$")
         self.assertEqual(sum(len(v) for v in graph.comments_by.values()), len(cfg.pages) - 1)
 
+    def test_comment_falls_back_without_outro(self):
+        """Facebook отклоняет комментарий со строкой «лайк и „Да“» (FB 1/1446042) — ставим тот же текст без неё."""
+        from autopost.fb import FacebookError
+        cfg, clock, graph, wp, st, run = self._setup(datetime(2030, 5, 1, 6, 7))
+        cfg.settings["post_format"] = "parts"
+        orig = graph.comment
+
+        def picky(obj_id, token, message):
+            if "Grazie per aver letto fino alla fine" in message:
+                raise FacebookError("An unknown error occurred", code=1, subcode=1446042)
+            return orig(obj_id, token, message)
+        graph.comment = picky
+        run()
+        clock["now"] = clock["now"].replace(hour=9, minute=7)
+        run()
+        it_ids = {p.page_id for p in cfg.pages_for("IT")}
+        it_key = next(k for k in graph.comments_by if k.split("_")[0] in it_ids)
+        msgs = [c["message"] for c in graph.comments_by[it_key]]
+        self.assertEqual(len(msgs), 1)
+        self.assertNotIn("Grazie per aver letto fino alla fine", msgs[0])
+        self.assertIn("PARTE 3", msgs[0])
+        self.assertEqual(sum(len(v) for v in graph.comments_by.values()), len(cfg.pages) - 1)
+
     def test_post_format_by_group(self):
         cfg = config_mod.load(ROOT)
         cfg.settings["post_format"] = "classic"

@@ -71,6 +71,15 @@ class Report:
         return "\n".join(out) + "\n"
 
 
+def _without_outro(message: str) -> str:
+    """Текст комментария без строки-призыва «поставьте лайк и напишите „Да“» (формат «по частям»)."""
+    from .generate import COMMENT_OUTRO
+    outros = set(COMMENT_OUTRO.values())
+    parts = message.split("\n\n")
+    kept = [p for p in parts if p.strip() not in outros]
+    return "\n\n".join(kept)
+
+
 class Pacer:
     """Ровный темп записей в Facebook (посты, комментарии) — общий для всех групп одного запуска:
     не чаще одной записи в `seconds` секунд (+ немного случайности), чтобы не было всплеска.
@@ -751,7 +760,16 @@ class Pipeline:
                         continue      # пока ждали очереди, этому пользователю отказали — комментарий позже
                     e["comment_attempts"] = e.get("comment_attempts", 0) + 1
                     self.state.save()
-                    c = self.graph.comment(target, tok, message)
+                    try:
+                        c = self.graph.comment(target, tok, message)
+                    except FacebookError as err1:
+                        # 17.11: Facebook отклонял комментарий «…поставьте лайк и напишите „Да“» (FB 1/1446042,
+                        # похоже на защиту от «накрутки вовлечённости») — тогда тот же текст без этой строки
+                        alt = _without_outro(message)
+                        if err1.code != 1 or alt == message:
+                            raise
+                        c = self.graph.comment(target, tok, alt)
+                        e["comment_variant"] = "без строки «лайк и Да»"
                     e.update(comment_id=c.get("id"), status="done", error=None)
                     self.r.counts["comments"] += 1
                     self.pacer.ok(self.pacer.owner(pid))

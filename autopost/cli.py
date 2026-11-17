@@ -770,6 +770,25 @@ def cmd_ops(cfg, args) -> int:
         return 0
     if cmd == "comment-try":
         return cmd_comment_try(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""), a.get("page", ""))
+    if cmd == "comment-fix":
+        # исправить уже поставленный первый комментарий: полный текст части 2 без строки «лайк и Да» + ссылка
+        from .pipeline import _without_outro
+        g, key, lang, pid = a.get("group", ""), a.get("slot", ""), a.get("lang", ""), a.get("page", "")
+        st = State(config_mod.group_state_path(cfg, g))
+        s = st.slots.get(key) or {}
+        L = (s.get("langs") or {}).get(lang) or {}
+        site = s.get("wp_site") or config_mod.site_for(cfg.settings, g)
+        link = (site.get("comment_link_format") or "").format(wp_id=L.get("wp_id"))
+        txt = json.loads(cfg.path(f"content/{key[:10]}/{g}/{key[11:13]}{key[14:16]}-{lang}.json")
+                         .read_text(encoding="utf-8")).get("comment_text", "")
+        try:
+            Graph(cfg.graph_version).post(a.get("comment_id", ""), load_tokens(cfg).get(pid),
+                                          data={"message": _without_outro(f"{txt}\n{link}")})
+            res = "✅ комментарий исправлен"
+        except FacebookError as err:
+            res = f"❌ {err.short()}"
+        summary(f"## Исправление комментария {a.get('comment_id')}\n\n- {res}\n", "previews/comment-fix.md", cfg)
+        return 0
     if cmd == "comment-diag":
         return cmd_comment_diag(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""))
     if cmd == "allow-repeat":
