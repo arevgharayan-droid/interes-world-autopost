@@ -8615,7 +8615,7 @@
      "pages": {
       "1008693642337213": {
        "attempts": 1,
-       "comment_attempts": 2,
+       "comment_attempts": 3,
        "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:48:16+04:00",
        "mode": "immediate",
