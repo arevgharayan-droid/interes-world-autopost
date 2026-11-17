@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-16T21:06:31+04:00",
  "output_fps": {
+  "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
   "38255c46602154608a68": "2026-11-16T23:52:52+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
@@ -546,11 +547,19 @@
      "skipped": "нет подключённых страниц"
     },
     "UK": {
+     "backend": "subscription",
      "gen_attempts": 1,
-     "gen_error": "UK: не удалось получить корректный текст за 3 попытки: язык (часть 1) похож на RU, а нужен UK",
-     "pages": {}
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Двоє патрульних скрутили мене на узбіччі без жодної причини, але коли один із них поліз у мою кишеню, обидва завмерли",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 278,
+     "wp_status": "future"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-17T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/886770543_122130695732893096_1861246166854463743_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_DtlfFTeTvkQ7kNvwE-dQx5&_nc_oc=Ado_3bfFg76SZA22zM2HtvcAyBPa473IkNvgJ4vJ34Nm4_VNe6w6FufZonXzgPMsGvM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=mZicYJuCXZPC6P68DyrgrA&_nc_tpa=Q5bMBQLBT1kZgG6ZnLDIZXNmdgju38lQwg_ojZd3F3RBeCMDA_ODqQpr6hzhPwHPQ9TQmLo3SpLZ6ngpcA&oh=00_AQTYZ-2YeMJxQcOwqRYiMCZjLt39Pzc-AooRDn-d5y_ulg&oe=6B01646A",
@@ -562,7 +571,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261117-1200-mix.jpg"
    },
    "source_key": "post:61576792898556_122130695810893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -619,7 +628,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-17 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587321322233_122139843471244044": {
    "fingerprint": "9e461063620cd2192305",
