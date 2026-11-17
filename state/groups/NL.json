@@ -57,6 +57,8 @@
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
   "d4aa094230f5d5c483b0": "2026-11-16T00:16:52+00:00",
+  "d828a4f0896689812001": "2026-11-17T20:47:11+00:00",
+  "dad3376516ebf7607694": "2026-11-17T20:47:11+00:00",
   "dcf04943e849a446709a": "2026-11-16T19:28:25+00:00",
   "e2b93dcc96be27aa58cc": "2026-11-17T12:28:57+00:00",
   "e35a5edbfd125f0de5e7": "2026-11-17T12:28:57+00:00",
@@ -6160,7 +6162,79 @@
   },
   "2026-11-18 00:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mein Schwager warf mich vor 20 Verwandten aus meinem eigenen Seehaus und nannte mich einen Schmarotzer – keine Stunde später fuhr ein Armeefahrzeug vor",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 609,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn zwager gooide me voor twintig familieleden uit mijn eigen meerhuis, maar een uur later stond er een legervoertuig voor de deur",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 608,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T00:36:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/910296027_1717394793112546_4963545569947819397_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-OCs-juA1wsQ7kNvwGkM6G5&_nc_oc=AdrJ9i8uPO7cERrVCfkfhsPRraN3kZ2XSmYLEmh3OUWqr5VQW6VVH7ZTO2MByLRlDtE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=RIZu_cS40V97buVin4QpZA&_nc_tpa=Q5bMBQIq7LEUzBz2ilPL0LJVAQoP1129z5BtzgJBqphnVY37s0RFgHFhCiXFZ4hRf0-mOejuclREQDDTbQ&oh=00_AQQ2jpcWYFOiw90LBu0s-DIawMAYX2vXAdH-_oYM3Nb5Xg&oe=6B0271F6",
@@ -6172,7 +6246,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-0036-nl.jpg"
    },
    "source_key": "post:100045261260562_1717581979760494",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6439,7 +6513,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-18 00:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100059505912199_1492825629377620": {
    "fingerprint": "588eb4b7a25151e7caa6",

@@ -8229,7 +8229,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-11-18T00:47:07+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "My Husband Shaved Our Twin Boys' Heads to Tell Them Apart, Then the Baby Monitor Showed Me Something That Sent Me Running Upstairs",
      "warnings": [
       "длина статьи 965 слов"
