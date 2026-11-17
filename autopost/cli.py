@@ -1421,7 +1421,8 @@ def cmd_peek_links(cfg, links: list) -> int:
     out = ["## Ссылки: что внутри", ""]
     for i, link in enumerate(links, 1):
         try:
-            info = parse_link(normalize_link(link, st), cfg.profile_to_page())
+            info = parse_link(normalize_link(link, st, graph, tokens, cfg.fallback_source_page_id),
+                              cfg.profile_to_page())
             post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
             first = " ".join(post["text"].split())[:150]
             out.append(f"{i}. ({detect_language(post['text']) or '?'}, {len(post['text'])} знаков) «{first}…»")
