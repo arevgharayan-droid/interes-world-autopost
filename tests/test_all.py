@@ -1,5 +1,6 @@
 """Проверки проекта. Запуск: python -m unittest discover -s tests -v"""
 import json
+import re
 import shutil
 import tempfile
 import unittest
@@ -266,6 +267,25 @@ class PipelineTests(unittest.TestCase):
         self.assertNotIn("Grazie per aver letto fino alla fine", msgs[0])
         self.assertIn("PARTE 3", msgs[0])
         self.assertEqual(sum(len(v) for v in graph.comments_by.values()), len(cfg.pages) - 1)
+
+    def test_comment_last_resort_link_only(self):
+        """Facebook отклоняет любой длинный текст части 2 — ставим «ЧАСТЬ 3» + ссылку."""
+        from autopost.fb import FacebookError
+        cfg, clock, graph, wp, st, run = self._setup(datetime(2030, 5, 1, 6, 7))
+        cfg.settings["post_format"] = "parts"
+        orig = graph.comment
+
+        def picky(obj_id, token, message):
+            if len(message) > 300:
+                raise FacebookError("An unknown error occurred", code=1, subcode=1446042)
+            return orig(obj_id, token, message)
+        graph.comment = picky
+        run()
+        clock["now"] = clock["now"].replace(hour=9, minute=7)
+        run()
+        msgs = [c["message"] for v in graph.comments_by.values() for c in v]
+        self.assertEqual(len(msgs), len(cfg.pages) - 1)
+        self.assertTrue(all(re.match(r"^\S+ 3\nhttps?://\S+$", m) for m in msgs), msgs[:2])
 
     def test_post_format_by_group(self):
         cfg = config_mod.load(ROOT)

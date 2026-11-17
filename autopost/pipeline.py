@@ -763,13 +763,25 @@ class Pipeline:
                     try:
                         c = self.graph.comment(target, tok, message)
                     except FacebookError as err1:
-                        # 17.11: Facebook отклонял комментарий «…поставьте лайк и напишите „Да“» (FB 1/1446042,
-                        # похоже на защиту от «накрутки вовлечённости») — тогда тот же текст без этой строки
-                        alt = _without_outro(message)
-                        if err1.code != 1 or alt == message:
+                        # 17–18.11: Facebook иногда отклоняет длинный комментарий с частью 2 (FB 1/1446042, без
+                        # объяснений): сначала тот же текст без строки «лайк и „Да“», затем — только «ЧАСТЬ 3» + ссылка
+                        # (часть 2 всё равно есть в статье на сайте)
+                        if err1.code != 1 or message == link:
                             raise
-                        c = self.graph.comment(target, tok, alt)
-                        e["comment_variant"] = "без строки «лайк и Да»"
+                        c = None
+                        alt = _without_outro(message)
+                        if alt != message:
+                            try:
+                                c = self.graph.comment(target, tok, alt)
+                                e["comment_variant"] = "без строки «лайк и Да»"
+                            except FacebookError as err2:
+                                if err2.code != 1:
+                                    raise
+                        if c is None:
+                            last = message.strip().split("\n")
+                            short = "\n".join(last[-2:]) if len(last) >= 2 else link
+                            c = self.graph.comment(target, tok, short)
+                            e["comment_variant"] = "только «ЧАСТЬ 3» и ссылка"
                     e.update(comment_id=c.get("id"), status="done", error=None)
                     self.r.counts["comments"] += 1
                     self.pacer.ok(self.pacer.owner(pid))
