@@ -8616,222 +8616,266 @@
       "1008693642337213": {
        "attempts": 1,
        "comment_attempts": 3,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_id": "122118607688640467_1639777194457793",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:48:16+04:00",
        "mode": "immediate",
        "photo_id": "122118607664640467",
        "post_id": "1008693642337213_122118607688640467",
-       "status": "published"
+       "status": "done"
       },
       "1018759874664543": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122120433357294825_3289934747884303",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:56:45+04:00",
        "mode": "immediate",
        "photo_id": "122120433333294825",
        "post_id": "1018759874664543_122120433357294825",
-       "status": "published"
+       "status": "done"
       },
       "1036597159544783": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122119777736642087_2418801695589121",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:56:27+04:00",
        "mode": "immediate",
        "photo_id": "122119777712642087",
        "post_id": "1036597159544783_122119777736642087",
-       "status": "published"
+       "status": "done"
       },
       "1038143956055997": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122113155266600554_1167505385961453",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:52:41+04:00",
        "mode": "immediate",
        "photo_id": "122113155242600554",
        "post_id": "1038143956055997_122113155266600554",
-       "status": "published"
+       "status": "done"
       },
       "1042837395585806": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122117480402623459_1183586047681015",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:51:41+04:00",
        "mode": "immediate",
        "photo_id": "122117480378623459",
        "post_id": "1042837395585806_122117480402623459",
-       "status": "published"
+       "status": "done"
       },
       "1051766924693580": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122136888086733379_2167418070528440",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:53:09+04:00",
        "mode": "immediate",
        "photo_id": "122136888056733379",
        "post_id": "1051766924693580_122136888086733379",
-       "status": "published"
+       "status": "done"
       },
       "1066862079844179": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122112107114596942_30291855493735399",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:54:03+04:00",
        "mode": "immediate",
        "photo_id": "122112107090596942",
        "post_id": "1066862079844179_122112107114596942",
-       "status": "published"
+       "status": "done"
       },
       "1069814529551887": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122127381303303687_2132552527468031",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:57:21+04:00",
        "mode": "immediate",
        "photo_id": "122127381279303687",
        "post_id": "1069814529551887_122127381303303687",
-       "status": "published"
+       "status": "done"
       },
       "1075346445663696": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122143538318775004_1680730450251732",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:57:02+04:00",
        "mode": "immediate",
        "photo_id": "122143538294775004",
        "post_id": "1075346445663696_122143538318775004",
-       "status": "published"
+       "status": "done"
       },
       "1075712068960532": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122119105772628634_1855177075832304",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:55:22+04:00",
        "mode": "immediate",
        "photo_id": "122119105748628634",
        "post_id": "1075712068960532_122119105772628634",
-       "status": "published"
+       "status": "done"
       },
       "1084212424777390": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122135301441300832_1165866792536887",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:49:44+04:00",
        "mode": "immediate",
        "photo_id": "122135301417300832",
        "post_id": "1084212424777390_122135301441300832",
-       "status": "published"
+       "status": "done"
       },
       "1092061600653020": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122111796362588206_2260082268227681",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:52:11+04:00",
        "mode": "immediate",
        "photo_id": "122111796338588206",
        "post_id": "1092061600653020_122111796362588206",
-       "status": "published"
+       "status": "done"
       },
       "1097710383424105": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122117079908343996_2279544929282879",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:56:08+04:00",
        "mode": "immediate",
        "photo_id": "122117079884343996",
        "post_id": "1097710383424105_122117079908343996",
-       "status": "published"
+       "status": "done"
       },
       "1098718609991464": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122123533833297368_2723455258110756",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:55:45+04:00",
        "mode": "immediate",
        "photo_id": "122123533809297368",
        "post_id": "1098718609991464_122123533833297368",
-       "status": "published"
+       "status": "done"
       },
       "1113548795169055": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122141868764773833_1872510197096600",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:50:14+04:00",
        "mode": "immediate",
        "photo_id": "122141868740773833",
        "post_id": "1113548795169055_122141868764773833",
-       "status": "published"
+       "status": "done"
       },
       "1117846738074068": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122135874861311273_1493512256002739",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:50:43+04:00",
        "mode": "immediate",
        "photo_id": "122135874837311273",
        "post_id": "1117846738074068_122135874861311273",
-       "status": "published"
+       "status": "done"
       },
       "1118090254718709": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122103750776556634_4723654657880917",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:54:32+04:00",
        "mode": "immediate",
        "photo_id": "122103750752556634",
        "post_id": "1118090254718709_122103750776556634",
-       "status": "published"
+       "status": "done"
       },
       "1125468037313193": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122119996647295429_1100623119643137",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:51:12+04:00",
        "mode": "immediate",
        "photo_id": "122119996623295429",
        "post_id": "1125468037313193_122119996647295429",
-       "status": "published"
+       "status": "done"
       },
       "1125676667286378": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122140751138737651_1154197480474159",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:49:15+04:00",
        "mode": "immediate",
        "photo_id": "122140751114737651",
        "post_id": "1125676667286378_122140751138737651",
-       "status": "published"
+       "status": "done"
       },
       "1146158698570676": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122129970885300293_1111125268424640",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:53:35+04:00",
        "mode": "immediate",
        "photo_id": "122129970861300293",
        "post_id": "1146158698570676_122129970885300293",
-       "status": "published"
+       "status": "done"
       },
       "1167733113080371": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122130315849307779_2321211972055955",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:55:00+04:00",
        "mode": "immediate",
        "photo_id": "122130315825307779",
        "post_id": "1167733113080371_122130315849307779",
-       "status": "published"
+       "status": "done"
       },
       "988042774402200": {
        "attempts": 1,
-       "comment_attempts": 2,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 3,
+       "comment_id": "122135903840733774_1121459440881934",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
+       "error": null,
        "last_attempt": "2026-11-18T00:48:46+04:00",
        "mode": "immediate",
        "photo_id": "122135903816733774",
        "post_id": "988042774402200_122135903840733774",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Свекровь протянула мне бланк на сто тысяч из моей премии в сто пятьдесят, а когда муж пригрозил разводом, я просто набрала номер адвоката",
@@ -8917,7 +8961,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-0036-ru.jpg"
    },
    "source_key": "post:100045261260562_1717835236401835",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
