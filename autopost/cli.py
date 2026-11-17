@@ -768,6 +768,8 @@ def cmd_ops(cfg, args) -> int:
             out.append(f"- {cfg.group_label(g)}: {start_now(cfg, g, at=a.get('at', ''))}")
         summary("\n".join(out) + "\n", "previews/start-now.md", cfg)
         return 0
+    if cmd == "comment-try":
+        return cmd_comment_try(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""), a.get("page", ""))
     if cmd == "comment-diag":
         return cmd_comment_diag(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""))
     if cmd == "allow-repeat":
@@ -1206,6 +1208,37 @@ def cmd_comment_diag(cfg, g: str, key: str, lang: str) -> int:
     except (OSError, ValueError) as e:
         out.append(f"- текст комментария: {e}")
     summary("\n".join(out) + "\n", "previews/comment-diag.md", cfg)
+    return 0
+
+
+def cmd_comment_try(cfg, g: str, key: str, lang: str, page_id: str) -> int:
+    """Поиск причины отказа Facebook в первом комментарии — на ОДНОЙ странице, варианты по очереди до первого
+    успеха: 1) обычный комментарий (часть 2 + ссылка); 2) половина текста + ссылка; 3) только «ЧАСТЬ 3» + ссылка."""
+    st = State(config_mod.group_state_path(cfg, g))
+    s = st.slots.get(key) or {}
+    L = (s.get("langs") or {}).get(lang) or {}
+    e = (L.get("pages") or {}).get(page_id) or {}
+    site = s.get("wp_site") or config_mod.site_for(cfg.settings, g)
+    link = (site.get("comment_link_format") or "").format(wp_id=L.get("wp_id"))
+    txt = json.loads(cfg.path(f"content/{key[:10]}/{g}/{key[11:13]}{key[14:16]}-{lang}.json")
+                     .read_text(encoding="utf-8")).get("comment_text", "")
+    tok = load_tokens(cfg).get(page_id)
+    graph = Graph(cfg.graph_version)
+    paras = txt.split("\n\n")
+    half = "\n\n".join(paras[: max(2, len(paras) // 2)])
+    variants = [("полный", f"{txt}\n{link}"), ("половина", f"{half}…\n{link}"),
+                ("только ссылка", f"{paras[-1] if paras else ''}\n{link}")]
+    out = [f"## Проба комментария: {page_id} ({cfg.group_label(g)} {key} {lang})", "",
+           f"- пост: {e.get('post_id')} · фото: {e.get('photo_id')} · текст {len(txt)} знаков"]
+    for target in [x for x in (e.get("post_id"), e.get("photo_id")) if x][:1]:
+        for name, msg in variants:
+            try:
+                c = graph.comment(target, tok, msg)
+                out.append(f"- ✅ {name}: комментарий поставлен ({c.get('id')})")
+                break
+            except FacebookError as err:
+                out.append(f"- ❌ {name}: {err.short()} · trace {err.fbtrace}")
+    summary("\n".join(out) + "\n", "previews/comment-try.md", cfg)
     return 0
 
 
