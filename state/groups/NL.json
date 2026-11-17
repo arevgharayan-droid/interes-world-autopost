@@ -5383,63 +5383,76 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132159175310273_1486086339584575",
        "error": null,
        "last_attempt": "2026-11-17T15:08:24+04:00",
        "mode": "immediate",
        "photo_id": "122132159145310273",
        "post_id": "1028964020310052_122132159175310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130140793321366_1588789606600734",
        "error": null,
        "last_attempt": "2026-11-17T15:08:54+04:00",
        "mode": "immediate",
        "photo_id": "122130140769321366",
        "post_id": "1089186904280406_122130140793321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127646629309032_2740900299681289",
        "error": null,
        "last_attempt": "2026-11-17T15:07:19+04:00",
        "mode": "immediate",
        "photo_id": "122127646605309032",
        "post_id": "1102464712951594_122127646629309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125883991316035_2113411132635521",
        "error": null,
        "last_attempt": "2026-11-17T15:07:53+04:00",
        "mode": "immediate",
        "photo_id": "122125883967316035",
        "post_id": "1129908326870761_122125883991316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131431021418602_1446763697658633",
        "error": null,
        "last_attempt": "2026-11-17T15:06:09+04:00",
        "mode": "immediate",
        "photo_id": "122131430997418602",
        "post_id": "1208422892355505_122131431021418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133676851436382_1190206863686061",
        "error": null,
        "last_attempt": "2026-11-17T15:06:44+04:00",
        "mode": "immediate",
        "photo_id": "122133676827436382",
        "post_id": "1268633826332790_122133676851436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Er hielt den Würgegriff weiter, obwohl ich abgeklopft hatte – dann trat mein schweigsamer Bruder auf die Matte",
      "warnings": [],
      "wp_error": null,
      "wp_id": 549,
+     "wp_live": true,
      "wp_status": "future"
     },
     "EN": {
@@ -5465,30 +5478,36 @@
      "pages": {
       "1144269682096701": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125314453304553_4749204035347166",
        "error": null,
        "last_attempt": "2026-11-17T15:03:25+04:00",
        "mode": "immediate",
        "photo_id": "122125314429304553",
        "post_id": "1144269682096701_122125314453304553",
-       "status": "published"
+       "status": "done"
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130526887424769_2704170440043979",
        "error": null,
        "last_attempt": "2026-11-17T15:05:26+04:00",
        "mode": "immediate",
        "photo_id": "122130526857424769",
        "post_id": "1180417388497186_122130526887424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130610749430924_1457827225825505",
        "error": null,
        "last_attempt": "2026-11-17T15:04:47+04:00",
        "mode": "immediate",
        "photo_id": "122130610725430924",
        "post_id": "1205543595981082_122130610749430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
@@ -5503,12 +5522,14 @@
       },
       "1239848699214091": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127089817439695_1958785758425053",
        "error": null,
        "last_attempt": "2026-11-17T15:04:04+04:00",
        "mode": "immediate",
        "photo_id": "122127089787439695",
        "post_id": "1239848699214091_122127089817439695",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,
@@ -5577,7 +5598,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1500-nl.jpg"
    },
    "source_key": "post:363312640206172_122202852764461850",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
