@@ -375,9 +375,11 @@ def pick_source(cfg, graph, tokens: dict, state, now: datetime, log) -> dict | N
                 key = source_key(info["page_id"], info["part"])
                 if state.source_used(key) or (state.sources.get(key) or {}).get("status") == "reserved":
                     prev = state.sources.get(key) or {}
-                    if prev.get("link") and prev.get("link") != link:
+                    lrec = state.sources.setdefault(link_key(link), {})
+                    if prev.get("link") and prev.get("link") != link and not lrec.get("dup_logged"):
                         log(f"⚠️ ссылка пропущена — тот же пост уже выходил в этой группе "
                             f"({prev.get('slot', '?')}, по ссылке {prev.get('link', '')[:60]}): {link[:80]}")
+                        lrec["dup_logged"] = True      # сообщаем один раз, а не при каждом запуске
                     continue
                 try:
                     post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
