@@ -19,6 +19,7 @@
   "5e336a9c8f71c9075c40": "2026-11-12T17:47:39+00:00",
   "6dfa0fbc6e60232c2ca8": "2026-11-10T22:06:51+00:00",
   "76b6de784429bf75aead": "2026-11-12T10:26:33+00:00",
+  "96f4674e8eb6ca36b64c": "2026-11-17T17:51:55+00:00",
   "97674e3e8b0598bc24b5": "2026-11-09T20:07:40+00:00",
   "b034d1046357d847cce2": "2026-11-16T16:00:37+00:00",
   "b1899a39d4a80bf0017e": "2026-11-15T10:15:24+00:00",
@@ -7879,7 +7880,72 @@
    "status": "missed"
   },
   "2026-11-18 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Family Threw a Party for My Sister's Baby While My Premature Daughter Fought to Breathe Two Doors Away",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 585,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/904472433_122144338365234210_2941999178208156261_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Got9Qu8n3zQQ7kNvwHZ6mDl&_nc_oc=AdojVAbTreuECCemOAiB48rkinl2skTB9XCyuH-YI0EF2OKran51L9osRCJejPpvrbo&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=qDZiJtpv4ilNXW68SY6wRw&_nc_tpa=Q5bMBQLj_Wh6NGSbE4llaWJitQiCSJUtBAz5S7Okjo6FZriNnQngx8BeQMCORc78AKL38C8vaEJw0uy28g&oh=00_AQSodl_I1x3LIYXAFVjh1ts2KIgy2tVwEBBESVEaL45GVg&oe=6B026AA1",
@@ -7891,7 +7957,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-0000-en.jpg"
    },
    "source_key": "post:61587026316282_122144338389234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -8269,7 +8335,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-18 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587032195586_122141985327234406": {
    "fingerprint": "35d1185bbb847d55450e",
