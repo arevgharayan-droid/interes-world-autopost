@@ -9,11 +9,15 @@
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
   "9e9961bac78dda63c754": "2026-11-17T00:19:13+00:00",
+  "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
+  "ab007dd685935f2c3980": "2026-11-17T10:38:26+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e3404d19673afcbaa7f8": "2026-11-16T19:28:27+00:00",
-  "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00"
+  "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
+  "fa38d523740b3642a359": "2026-11-17T10:38:26+00:00",
+  "ff32133b1d57816b36e8": "2026-11-17T10:38:26+00:00"
  },
  "outputs": {
   "1003672546173662_122114018702602036": "2026-11-16T19:29:03+00:00",
@@ -729,7 +733,97 @@
    }
   },
   "2026-11-17 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "تزوجت في الرابعة والسبعين من امرأة تصغرني بثمانية وثلاثين عاماً، وفي ليلة ما دخلت الخادمة مكتبي مرتجفة وهمست أنني قد لا أستيقظ غداً",
+     "warnings": [
+      "часть 2: 268 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 292,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Me casé a los 74 con una mujer 38 años menor y todos dijeron que había perdido la cabeza, hasta que una noche la empleada me susurró que mañana podría ser tarde",
+     "warnings": [
+      "часть 2: 539 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 290,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La 74 de ani m-am căsătorit cu o femeie cu 38 de ani mai tânără, dar într-o seară menajera mi-a șoptit că mâine dimineață s-ar putea să nu mă mai trezesc",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 291,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "В 74 года я женился на женщине моложе на 38 лет, но однажды ночью домработница прошептала, что к утру я могу не проснуться",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 289,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t39.30808-6/900563665_1464940095735497_1665073093277287456_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=PRKO4ZB1s1wQ7kNvwGTvVCh&_nc_oc=AdrBQGlnOhsgDwnX3ygtA3kE9KMiBJqGFWrAj_ZoNX-7vo3lWrBBuGYOzA0wvcoZ56g&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KaA1VZ8wGtmSSC0uSLshWA&_nc_tpa=Q5bMBQJG5iRKkh6qD5iSJ0sX8VK8-wm9WjTYKnNc9746aVTPQ_geAyIc0LRqp_K3aXrWrPCFnJDnl5_AYA&oh=00_AQRgI5aHl0oHHJO9HYd_xq-aGBYL7S-2IfxxdNdPUgQlDQ&oe=6B01F45F",
@@ -741,7 +835,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261117-1500-mix.jpg"
    },
    "source_key": "post:100066585605572_1464940149068825",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -794,7 +888,7 @@
    "origin": "manual",
    "page_id": "100066585605572",
    "slot": "2026-11-17 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61559846438723_122231627036328214": {
    "fingerprint": "2ef2ebcbd637ba6a3744",
