@@ -8,6 +8,7 @@
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
+  "9e9961bac78dda63c754": "2026-11-17T00:19:13+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
@@ -645,14 +646,26 @@
      "wp_status": "future"
     },
     "RU": {
-     "pages": {}
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Двое инспекторов без причины надели на девушку наручники у дороги, но когда один из них достал вещь из её кармана, оба побледнели",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 279,
+     "wp_status": "future"
     },
     "TR": {
      "pages": {},
      "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-17T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/886770543_122130695732893096_1861246166854463743_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_DtlfFTeTvkQ7kNvwE-dQx5&_nc_oc=Ado_3bfFg76SZA22zM2HtvcAyBPa473IkNvgJ4vJ34Nm4_VNe6w6FufZonXzgPMsGvM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=mZicYJuCXZPC6P68DyrgrA&_nc_tpa=Q5bMBQLBT1kZgG6ZnLDIZXNmdgju38lQwg_ojZd3F3RBeCMDA_ODqQpr6hzhPwHPQ9TQmLo3SpLZ6ngpcA&oh=00_AQTYZ-2YeMJxQcOwqRYiMCZjLt39Pzc-AooRDn-d5y_ulg&oe=6B01646A",
@@ -664,7 +677,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261117-1200-mix.jpg"
    },
    "source_key": "post:61576792898556_122130695810893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
