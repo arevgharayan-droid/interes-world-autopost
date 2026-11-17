@@ -159,6 +159,7 @@ def parse_parts(raw: str) -> tuple:
     for p in (p1, p2, p3):
         p = re.sub(r"<[^>]+>", "", p)                       # на всякий случай — без HTML
         p = re.sub(r"^```[a-z]*\s*|\s*```$", "", p, flags=re.I).strip()
+        p = re.sub(r"\*+([^*\n]+?)\*+", r"\1", p).replace("*", "")   # без *курсива*: Facebook его не показывает
         clean.append(p)
     p1 = clean[0]
     first = p1.splitlines()[0] if p1 else ""
