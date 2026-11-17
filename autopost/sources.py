@@ -384,6 +384,7 @@ def pick_source(cfg, graph, tokens: dict, state, now: datetime, log) -> dict | N
                 fp = text_fingerprint(post["text"])
                 if state.fingerprint_used(fp):
                     state.mark_source(key, status="skipped", link=link, error="эта история уже публиковалась")
+                    log(f"⚠️ ссылка пропущена — эта история уже выходила в этой группе: {link[:80]}")
                     continue
                 if origin == "google_sheet":
                     state.mark_source(link_key(link), status="used", link=link, post_key=key)
