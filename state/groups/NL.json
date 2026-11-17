@@ -5,6 +5,7 @@
   "00182ac1c19f94717b38": "2026-11-16T23:51:32+00:00",
   "046c05ed889e24fde6e8": "2026-11-10T22:03:35+00:00",
   "082942ddf599434d8353": "2026-11-16T20:28:19+00:00",
+  "097beede44a6fb9a71b7": "2026-11-17T17:52:09+00:00",
   "0c6e8a7efc71f173e15e": "2026-11-16T10:16:48+00:00",
   "0d1837969ae0e3704a2b": "2026-11-09T20:00:55+00:00",
   "118a7c202280ee104d0c": "2026-11-13T10:14:57+00:00",
@@ -51,6 +52,7 @@
   "c15e234ffa8f454c8fc9": "2026-11-17T10:52:26+00:00",
   "c45432e6978031cef601": "2026-11-13T14:37:35+00:00",
   "c7f5d2b135602dc721d7": "2026-11-15T10:15:33+00:00",
+  "caa5eaf84705d4e68592": "2026-11-17T17:52:09+00:00",
   "caa9ee0aac3ceacdcbc5": "2026-11-09T20:02:27+00:00",
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
@@ -5861,7 +5863,81 @@
    "status": "missed"
   },
   "2026-11-18 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elf Jahre gab er mir die Schuld für unser unerfülltes Kinderwunsch-Leid, dann warf er mich raus – genau an dem Tag, an dem ich erfuhr, dass ich schwanger bin",
+     "warnings": [
+      "длина текста FB 480 слов (исходник 583, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 587,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elf jaar gaf hij mij de schuld van onze kinderloosheid en zette me op straat voor zijn zwangere minnares, op de dag dat ik hoorde dat ik zwanger was",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 586,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/855072898_122140782369234210_7745702810200207888_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=DDmP2mV5qfoQ7kNvwEaW9pV&_nc_oc=AdrD-OevDZgRJs6Nl66ZkoYgs0MUPXpR5PUmXBGA420I6shVmB6sCi91wA-v8goYXOg&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0yMgxIiSFSR8wIf_wu_OBQ&_nc_tpa=Q5bMBQKGy6MJrrkAOBLoeDG9sSbCW5eMFyu57R0TRHrhQw51CaPz2zBCHSnM3WTxMu6fF7owfnz2_TB1yA&oh=00_AQQxNNk9Bt-jDp6yJ5_apH1BeSFDFCNc85Ev-DQJGjA2zA&oe=6B027569",
@@ -5873,7 +5949,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-0000-nl.jpg"
    },
    "source_key": "post:61587026316282_122140782393234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6280,7 +6356,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-18 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587026316282_122142218985234210": {
    "fingerprint": "85181393c40fffcc82d1",

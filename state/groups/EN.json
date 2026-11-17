@@ -7897,7 +7897,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-11-17T21:52:08+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "My Family Threw a Party for My Sister's Baby While My Premature Daughter Fought to Breathe Two Doors Away",
      "warnings": [],
      "wp_error": null,
