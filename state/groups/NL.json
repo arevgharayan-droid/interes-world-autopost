@@ -5863,7 +5863,15 @@
   "2026-11-18 00:00": {
    "langs": {},
    "slot_iso": "2026-11-18T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/855072898_122140782369234210_7745702810200207888_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=DDmP2mV5qfoQ7kNvwEaW9pV&_nc_oc=AdrD-OevDZgRJs6Nl66ZkoYgs0MUPXpR5PUmXBGA420I6shVmB6sCi91wA-v8goYXOg&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0yMgxIiSFSR8wIf_wu_OBQ&_nc_tpa=Q5bMBQKGy6MJrrkAOBLoeDG9sSbCW5eMFyu57R0TRHrhQw51CaPz2zBCHSnM3WTxMu6fF7owfnz2_TB1yA&oh=00_AQQxNNk9Bt-jDp6yJ5_apH1BeSFDFCNc85Ev-DQJGjA2zA&oe=6B027569",
+    "link": "https://www.facebook.com/share/p/19uqZyKz9H/",
+    "origin": "manual",
+    "page_id": "61587026316282",
+    "text": "Après onze ans à me rendre responsable de notre infertilité, mon mari m’a mise à la porte pour vivre avec sa maîtresse enceinte, le matin même où j’ai découvert que j’attendais enfin un enfant.\n\nSa mère m’a lancé froidement : « Ryan a besoin d’un héritier, alors ne fais pas de scène. » Mais je suis partie sans leur révéler que leur précieux héritier grandissait peut-être déjà dans mon ventre.\n\nEt quelques heures plus tard, un mystérieux inconnu à bord d’un SUV noir allait bouleverser mon destin.\n\n« Félicitations, Madeline. Vous êtes enceinte. »\n\nJe fixais mon médecin, incapable de reprendre mon souffle.\n\nAprès cinq fausses couches, d’innombrables examens et onze années à voir l’espoir s’éteindre mois après mois, ces mots me semblaient impossibles.\n\nJ’ai éclaté en sanglots.\n\nPendant tout le trajet du retour, j’ai imaginé le visage de Ryan lorsque je lui annoncerais la nouvelle.\n\nPeut-être me prendrait-il dans ses bras comme autrefois.\n\nPeut-être que toutes ces nuits glaciales et ces disputes murmurées finiraient enfin par avoir un sens.\n\nMais lorsque je suis arrivée devant notre maison, ma valise était posée sur le perron.\n\nLes papiers du divorce étaient déposés dessus.\n\nMon estomac s’est noué.\n\nJ’ai poussé la porte et découvert Ryan assis tranquillement dans le salon, aux côtés d’une jeune femme vêtue de soie rouge cramoisie.\n\nSa main reposait possessivement sur son ventre arrondi.\n\nSa mère se tenait près d’eux, telle une gardienne.\n\n« Qu’est-ce que ça signifie ? » ai-je murmuré.\n\nRyan a enfin levé les yeux vers moi.\n\n« C’est terminé, Madeline. »\n\nSa mère s’est avancée avant même que je puisse répondre.\n\n« Ryan mérite une femme capable de donner un héritier à cette famille », a-t-elle déclaré d’une voix tranchante, pleine de mépris. « Nous avons attendu onze ans. Ça suffit maintenant. »\n\nMes doigts se sont instinctivement posés sur mon ventre.\n\nLa maîtresse de Ryan l’a remarqué.\n\nElle a souri.\n\n« Tu ferais mieux de partir », a-t-elle dit doucement. « Le stress n’est pas bon pour mon bébé. »\n\nChaque fibre de mon corps brûlait de rage, mais j’ai ravaler ma colère.\n\nPuis Ryan a prononcé les mots qui ont achevé de détruire ce qui restait de notre mariage.\n\n« Ne te rends pas ridicule. Signe simplement les papiers. »\n\nJ’aurais pu anéantir leur petite célébration arrogante avec six mots.\n\nJe suis enceinte de ton enfant, Ryan.\n\nMais il n’était même pas capable de me regarder dans les yeux.\n\nAlors pourquoi lui offrir le miracle qu’il avait abandonné avant même d’en connaître l’existence ?\n\nJ’ai ramassé les papiers.\n\nPuis ma valise.\n\nEt je suis partie sans prononcer un seul mot.\n\nÀ la tombée de la nuit, j’avais marché bien plus loin que je ne l’imaginais.\n\nMes jambes ont fini par céder près d’un immense SUV noir garé le long d’une route déserte.\n\nC’est à cet instant que j’ai craqué.\n\nEnceinte.\n\nTrahie.\n\nSans abri.\n\nJ’ai enfoui mon visage dans mes mains et sangloté jusqu’à ce qu’un léger bourdonnement mécanique me fasse relever la tête.\n\nLa vitre teintée du SUV s’est lentement abaissée.\n\nQuelqu’un était assis à l’intérieur.\n\nEt lorsque j’ai découvert de qui il s’agissait, mes larmes se sont instantanément arrêtées.\n\nL’histoire est trop longue pour être publiée dans la légende. Écrivez simplement « Oui ». L’histoire complète sera publiée dans les commentaires ci-dessous. 👇👇"
+   },
+   "source_key": "post:61587026316282_122140782393234210",
+   "status": "preparing"
   },
   "2026-11-18 12:00": {
    "langs": {},
@@ -6257,6 +6265,14 @@
    "page_id": "61586759032853",
    "slot": "2026-11-14 21:00",
    "status": "used"
+  },
+  "post:61587026316282_122140782393234210": {
+   "fingerprint": "f9e2960cf6cebc099694",
+   "link": "https://www.facebook.com/share/p/19uqZyKz9H/",
+   "origin": "manual",
+   "page_id": "61587026316282",
+   "slot": "2026-11-18 00:00",
+   "status": "reserved"
   },
   "post:61587026316282_122142218985234210": {
    "fingerprint": "85181393c40fffcc82d1",
