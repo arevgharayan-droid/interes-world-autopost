@@ -9490,192 +9490,230 @@
       "1064982806700854": {
        "attempts": 1,
        "comment_attempts": 5,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_id": "122111761268456562_4494120474162811",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:19+04:00",
        "mode": "immediate",
        "photo_id": "122111761244456562",
        "post_id": "1064982806700854_122111761268456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122131300743306132_1153014077417437",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:31:09+04:00",
        "mode": "immediate",
        "photo_id": "122131300719306132",
        "post_id": "1068567606345452_122131300743306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122127820293305584_1537113438322270",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:31:43+04:00",
        "mode": "immediate",
        "photo_id": "122127820269305584",
        "post_id": "1078100405390763_122127820293305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122108423768506427_1145465565018295",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:14+04:00",
        "mode": "immediate",
        "photo_id": "122108423744506427",
        "post_id": "1079964265201139_122108423768506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122133390279308548_1113745994883392",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:31:03+04:00",
        "mode": "immediate",
        "photo_id": "122133390255308548",
        "post_id": "1086658774532679_122133390279308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122122918467296683_2194004508188372",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:53+04:00",
        "mode": "immediate",
        "photo_id": "122122918443296683",
        "post_id": "1087342844462554_122122918467296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122129489631300251_1170320502348119",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:31:37+04:00",
        "mode": "immediate",
        "photo_id": "122129489607300251",
        "post_id": "1093003583899107_122129489631300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122114594912601707_4818781515108924",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:31:26+04:00",
        "mode": "immediate",
        "photo_id": "122114594888601707",
        "post_id": "1099258949937246_122114594912601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122141628482811401_1776736166740795",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:36+04:00",
        "mode": "immediate",
        "photo_id": "122141628452811401",
        "post_id": "1114015015119414_122141628482811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122105018396533031_2685851345215420",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:31:21+04:00",
        "mode": "immediate",
        "photo_id": "122105018372533031",
        "post_id": "1128937866962526_122105018396533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122110580882543006_1123624703899434",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:24+04:00",
        "mode": "immediate",
        "photo_id": "122110580858543006",
        "post_id": "1140835409106424_122110580882543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122138980077311525_2479407689252154",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:29:57+04:00",
        "mode": "immediate",
        "photo_id": "122138980053311525",
        "post_id": "1142735408923607_122138980077311525",
-       "status": "published"
+       "status": "done"
       },
       "1149681171551323": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122130257331314630_1169203412242087",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:31:15+04:00",
        "mode": "immediate",
        "photo_id": "122130257307314630",
        "post_id": "1149681171551323_122130257331314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122122802961318395_2039074266801056",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:31:32+04:00",
        "mode": "immediate",
        "photo_id": "122122802937318395",
        "post_id": "1159996950522974_122122802961318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122137053663400586_1604972427621010",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:03+04:00",
        "mode": "immediate",
        "photo_id": "122137053627400586",
        "post_id": "1160223747182678_122137053663400586",
-       "status": "published"
+       "status": "done"
       },
       "1160240797163045": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122128751115300955_1496939933497387",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:47+04:00",
        "mode": "immediate",
        "photo_id": "122128751091300955",
        "post_id": "1160240797163045_122128751115300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122126051397301482_3010385909338989",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:31:48+04:00",
        "mode": "immediate",
        "photo_id": "122126051373301482",
        "post_id": "1174674892385169_122126051397301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122126034237405175_3060514000960657",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:30+04:00",
        "mode": "immediate",
        "photo_id": "122126034213405175",
        "post_id": "1191480207389219_122126034237405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
-       "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_attempts": 5,
+       "comment_id": "122113185212437662_1611017070316415",
+       "comment_variant": "без строки «лайк и Да»",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:08+04:00",
        "mode": "immediate",
        "photo_id": "122113185188437662",
        "post_id": "997772916762884_122113185212437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Il boss più temuto di Chicago mi sfidò a ballare un tango davanti a duecento invitati per sposarmi, ma sua nonna riconobbe i miei passi",
@@ -9781,7 +9819,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-2227-it.jpg"
    },
    "source_key": "post:61587026316282_122143876245234210",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
