@@ -5917,21 +5917,25 @@
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122143603652738075_1457370519233667",
        "error": null,
        "last_attempt": "2026-11-18T00:50:20+04:00",
        "mode": "immediate",
        "photo_id": "122143603628738075",
        "post_id": "1041497042386258_122143603652738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109367322457428_3526021557577142",
        "error": null,
        "last_attempt": "2026-11-18T00:51:18+04:00",
        "mode": "immediate",
        "photo_id": "122109367298457428",
        "post_id": "1058598924006917_122109367322457428",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -6001,12 +6005,14 @@
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129643627425731_3215330632004483",
        "error": null,
        "last_attempt": "2026-11-18T00:50:48+04:00",
        "mode": "immediate",
        "photo_id": "122129643603425731",
        "post_id": "1280413955154689_122129643627425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Il revient de deux semaines avec sa maîtresse dans son manoir à 92 millions de dollars : sa femme et leurs jumeaux nouveau-nés avaient disparu",
@@ -6063,7 +6069,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-0036-fr.jpg"
    },
    "source_key": "post:100045261260562_1718132079705484",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
