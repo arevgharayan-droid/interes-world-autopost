@@ -9467,7 +9467,7 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
-       "comment_attempts": 2,
+       "comment_attempts": 3,
        "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-17T22:30:58+04:00",
        "mode": "immediate",
