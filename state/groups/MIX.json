@@ -2,10 +2,12 @@
  "enabled_since": "2026-11-16T21:06:31+04:00",
  "output_fps": {
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
+  "0be13b58727dd30b5837": "2026-11-17T17:52:42+00:00",
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
   "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
   "38255c46602154608a68": "2026-11-16T23:52:52+00:00",
   "3ad0d3d1145cd559adbb": "2026-11-17T12:28:51+00:00",
+  "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
   "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
@@ -15,8 +17,10 @@
   "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
   "ab007dd685935f2c3980": "2026-11-17T10:38:26+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
+  "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
+  "e1b66eb6a566198daa27": "2026-11-17T17:52:42+00:00",
   "e3404d19673afcbaa7f8": "2026-11-16T19:28:27+00:00",
   "e53caf42617e72941741": "2026-11-17T12:28:51+00:00",
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
@@ -1188,7 +1192,95 @@
    "status": "missed"
   },
   "2026-11-18 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "قبل ساعة من طلب يد خطيبتي أمام 150 ضيفًا دخلت الحمّام فوجدت أربعة أولاد يشبهونني تمامًا، وأمهم هي المرأة التي اختفت من حياتي قبل ست سنوات",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 324,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Una hora antes de pedirle matrimonio a otra mujer, me topé en un baño con cuatro niños idénticos a mí, y su madre era la mujer que desapareció de mi vida",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 322,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Cu o oră înainte să o cer în căsătorie pe altă femeie, am dat într-o toaletă peste patru băieți de șase ani cu chipul meu, iar mama lor era femeia care dispăruse din viața mea",
+     "warnings": [
+      "часть 2: 595 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 323,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "За несколько часов до помолвки с другой я зашёл в туалет и увидел четверых шестилетних мальчишек с моим лицом, а их мать была той, кто исчезла из моей жизни шесть лет назад",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 321,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/883122051_122142677109234210_8643718715837271122_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ov9v6Do5rYkQ7kNvwHSJ72A&_nc_oc=Adq6xZ0kCcy97EKETBj0zRG6Yf1zs6oIA8RJY3mpBVojHLW87aLHmmDfgDfH7ytTuk0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ziMh-mOrFCKdJWT2IQtWqQ&_nc_tpa=Q5bMBQIusVDiRE0RWLOGRS-_g0ivH-9tvjtW7ho8sQRXTkya0PJm35Og6RQSZAYLzuXD0jFd5rAhLKH64w&oh=00_AQSdfLqV63Lf10ClBYTYaBk3J8vHcAVk5s13sFkk0GgAOw&oe=6B0264F6",
@@ -1200,7 +1292,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-0000-mix.jpg"
    },
    "source_key": "post:61587026316282_122142677133234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1289,7 +1381,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-18 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587321322233_122139843471244044": {
    "fingerprint": "9e461063620cd2192305",
