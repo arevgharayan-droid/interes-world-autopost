@@ -7323,7 +7323,10 @@
      "title": "He Was 3,000 Miles Away When He Saw His Daughter Asleep on the Floor With the Housekeeper. Then He Hit Rewind",
      "warnings": [
       "длина статьи 962 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 542,
+     "wp_status": "future"
     },
     "ES": {
      "pages": {},
@@ -7366,6 +7369,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-17T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-qro1-1.xx.fbcdn.net/v/t39.30808-6/887185936_122166601832414468_7323385814326624984_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=waHiYHcwC4YQ7kNvwGXA_1S&_nc_oc=AdpnxTAbK2oAfRfyeWbacyC2jYDkHUYTQoI2IEloVAW6qO4KbK01UqcVslOeHn-GX8U&_nc_zt=23&_nc_ht=scontent-qro1-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ZaObJy3YAAJlUL6X-Dhk5g&_nc_tpa=Q5bMBQJ4unT64vQmLr0_YhgwQb3WHQnU24TfoSwx5CzAFDnkLW7iy5YZViRtyyLj_eH1xZhxqiCjeaCCsw&oh=00_AQQBRU8yLSE8L0humAaEgawtrtLyaak9KqlqI0U5CcLFbQ&oe=6B01F7CA",
@@ -7377,7 +7381,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1500-en.jpg"
    },
    "source_key": "post:61562434049008_122166601856414468",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7679,7 +7683,7 @@
    "origin": "manual",
    "page_id": "61562434049008",
    "slot": "2026-11-17 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573363363721_122138495768778778": {
    "fingerprint": "995dabdb31882bf338e4",

@@ -25,6 +25,7 @@
   "86822eab2c3504add2f2": "2026-11-09T13:26:02+00:00",
   "8daf6c11c0451ea812bb": "2026-11-15T14:13:56+00:00",
   "9991f589010d4cbe9a56": "2026-11-14T09:18:00+00:00",
+  "9bfc8089323bc8a27bd2": "2026-11-17T10:38:06+00:00",
   "ab12b39c82a984be6a9e": "2026-11-12T10:26:25+00:00",
   "d82c6f49086c806cd686": "2026-11-14T19:47:28+00:00",
   "d90f86068fb546dde052": "2026-11-09T20:01:42+00:00",
@@ -7175,7 +7176,72 @@
    }
   },
   "2026-11-17 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Ex Told a Crowd I Could Never Be a Mother, Until Two Little Boys Ran Through the Gate Shouting \"Mom!",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 543,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-qro1-2.xx.fbcdn.net/v/t39.30808-6/892093416_122166639008414468_7716355011477676431_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9etfdt5Vz-0Q7kNvwHDBoBI&_nc_oc=Ado54cGSFXMAyw_BgBLzI3fN1Nn_4M2sBsmxAn9yQypsD0uSWZ4IZ0En1I4iWub1Vt8&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&edm=ADqbNqUEAAAA&_nc_gid=IfTPG8eDTAp6VnlGBR2ECQ&_nc_tpa=Q5bMBQKV5_rqe3v0QjINQPHU6XJ50paDiWlXKdt__IxgwlmjcNvT_U8XsfxkfsZjr0IZYdHx3EQkh5wu4Q&oh=00_AQSYekbC9M8nANARZitERgr2A-T4rUWwGU_YNG8PGyYW8A&oe=6B01F3EE",
@@ -7187,7 +7253,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1500-en2.jpg"
    },
    "source_key": "post:61562434049008_122166639032414468",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7476,7 +7542,7 @@
    "origin": "manual",
    "page_id": "61562434049008",
    "slot": "2026-11-17 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573363363721_122139295874778778": {
    "fingerprint": "d84a1c3d70f614d357b2",
