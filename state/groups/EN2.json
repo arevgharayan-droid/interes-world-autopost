@@ -26,6 +26,7 @@
   "8daf6c11c0451ea812bb": "2026-11-15T14:13:56+00:00",
   "9991f589010d4cbe9a56": "2026-11-14T09:18:00+00:00",
   "9bfc8089323bc8a27bd2": "2026-11-17T10:38:06+00:00",
+  "a98f523ba4a671831ff7": "2026-11-17T12:28:37+00:00",
   "ab12b39c82a984be6a9e": "2026-11-12T10:26:25+00:00",
   "d82c6f49086c806cd686": "2026-11-14T19:47:28+00:00",
   "d90f86068fb546dde052": "2026-11-09T20:01:42+00:00",
@@ -7428,7 +7429,74 @@
    }
   },
   "2026-11-17 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Married a Prisoner for $2,000 a Month, But Three Years Later He Put a Black Box in Front of Me and Said It Was Time for the Truth",
+     "warnings": [
+      "длина текста FB 1118 слов (исходник 928, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 565,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/903684931_1499849862008530_2732793470201356385_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CgTd-x8LJ38Q7kNvwEcd320&_nc_oc=AdqOB--qtgJfFjG_A3YOwZk6psR6qU1rj3naQl6YFN1VyONgubdYOoKg-Ii8er_ZB8g&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=X94GeSxONIigV43wlUlcbg&_nc_tpa=Q5bMBQLVU4IyDEEpHPC1AdoQfbGr1R1NhzsOTwkiUMf9tn0s-YgxqI415XpXBYOge3Pa4J5rN-n2Fe1qlg&oh=00_AQQ8njd3dofRsfxab0f4oZzxzKs95lAhYFsA1y7-BsH7xw&oe=6B022339",
@@ -7440,7 +7508,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1800-en2.jpg"
    },
    "source_key": "post:100059505912199_1499849995341850",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7689,7 +7757,7 @@
    "origin": "manual",
    "page_id": "100059505912199",
    "slot": "2026-11-17 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1458749583026046": {
    "fingerprint": "7054a17b16072531704b",

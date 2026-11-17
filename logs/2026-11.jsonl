@@ -5172,3 +5172,5 @@
 {"slot": "2026-11-17 18:00", "lang": "FR", "page": "1202025962997153", "action": "fb_schedule", "photo_id": "122122119249409328", "post_id": "1202025962997153_122122119279409328", "t": "2026-11-17T12:28:35+00:00", "group": "FR"}
 {"slot": "2026-11-17 18:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-17T12:28:36+00:00", "group": "EN"}
 {"slot": "2026-11-17 18:00", "lang": "EN", "action": "wp_post", "id": 564, "status": "future", "t": "2026-11-17T12:28:37+00:00", "group": "EN"}
+{"slot": "2026-11-17 18:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 1118 слов (исходник 928, цель ±10%)"], "t": "2026-11-17T12:28:37+00:00", "group": "EN2"}
+{"slot": "2026-11-17 18:00", "lang": "EN", "action": "wp_post", "id": 565, "status": "future", "t": "2026-11-17T12:28:38+00:00", "group": "EN2"}
