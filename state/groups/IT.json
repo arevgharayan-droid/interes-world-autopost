@@ -13,6 +13,7 @@
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
+  "499bb9b863a39969c565": "2026-11-17T20:38:41+00:00",
   "4d09f6c7134467d99fa5": "2026-11-16T23:51:59+00:00",
   "52860ad6d022a2bd90ef": "2026-11-17T10:38:47+00:00",
   "5925113003b25213dc5b": "2026-11-15T14:13:20+00:00",
@@ -22,6 +23,7 @@
   "60500c1dfc38f30a516c": "2026-11-16T20:28:05+00:00",
   "60f9c89309a199527b79": "2026-11-17T18:29:53+00:00",
   "628ca1701fa9d7a8990a": "2026-11-16T16:01:05+00:00",
+  "66a2647af0e1f8e411ad": "2026-11-17T20:38:41+00:00",
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
   "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
   "75900c4b74075115b0dc": "2026-11-15T10:15:15+00:00",
@@ -38,6 +40,7 @@
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
+  "9c394bc05e808391b2ce": "2026-11-17T20:38:41+00:00",
   "9cbea19285daf02db497": "2026-11-15T10:15:15+00:00",
   "9de178bf596b4ce2bdc8": "2026-11-16T19:28:24+00:00",
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
@@ -9829,7 +9832,86 @@
   },
   "2026-11-18 00:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Manžel zablokoval kartu, když naší osmiměsíční dceři docházelo jediné mléko, které snášela. Pak jsem zavolala na číslo, které jsem nikdy nevolala",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 602,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mio marito ha bloccato la mia carta mentre Lily finiva l'unico latte che poteva bere: al supermercato lui rideva, ma una telefonata ha cambiato tutto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 600,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mąż zablokował mi kartę, gdy kończyło się mleko dla naszej ośmiomiesięcznej córki. Jedno połączenie z bankierem ojca zmieniło wszystko",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 601,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T00:36:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/914942936_1717828919735800_3964258418900150011_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wobb0rk3nf0Q7kNvwF1cNq3&_nc_oc=Adoc8bbJnsK9-skTxzvfmANOOJ393LJTFtVUcv5Yfjcep-K7Juj3abK4XVFfdviyWQg&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=lFoxfxz6QJ3L3U0Fycu_Tw&_nc_tpa=Q5bMBQIEXW_tWVBTphBuD-2QaqblgLdMm_btRPaHoSaWUyCn7_OuCDJl3yJpkaV4Ou7D8UkCM0_AtxsW9A&oh=00_AQRSjTmTOsGaO3PyckOptxI1QbdQXKgFzgplK1R2OMQdcA&oe=6B029DEB",
@@ -9841,7 +9923,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-0036-it.jpg"
    },
    "source_key": "post:100045261260562_1717907559727936",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -10120,7 +10202,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-18 00:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100059505912199_1492703076056542": {
    "fingerprint": "c1d2275ae88bb298bc7b",
