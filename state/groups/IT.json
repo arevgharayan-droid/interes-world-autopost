@@ -9468,26 +9468,28 @@
       "1012250151981057": {
        "attempts": 1,
        "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_id": "122132568903302250_1438497051740065",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:58+04:00",
        "mode": "immediate",
        "photo_id": "122132568879302250",
        "post_id": "1012250151981057_122132568903302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
        "comment_attempts": 4,
-       "error": "комментарий: FB 1/1446042: An unknown error occurred",
+       "comment_id": "122141021270808945_3770800689734984",
+       "error": null,
        "last_attempt": "2026-11-17T22:30:41+04:00",
        "mode": "immediate",
        "photo_id": "122141021246808945",
        "post_id": "1030877436782212_122141021270808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
-       "comment_attempts": 4,
+       "comment_attempts": 5,
        "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-17T22:30:19+04:00",
        "mode": "immediate",
