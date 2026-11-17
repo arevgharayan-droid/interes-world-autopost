@@ -768,6 +768,8 @@ def cmd_ops(cfg, args) -> int:
             out.append(f"- {cfg.group_label(g)}: {start_now(cfg, g, at=a.get('at', ''))}")
         summary("\n".join(out) + "\n", "previews/start-now.md", cfg)
         return 0
+    if cmd == "comment-diag":
+        return cmd_comment_diag(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""))
     if cmd == "allow-repeat":
         # владелица разрешила повтор: пост, уже выходивший в группе, можно взять снова (по ссылке из очереди)
         g, link = a.get("group", ""), a.get("link", "")
@@ -1166,6 +1168,44 @@ def cmd_fb_diag(cfg) -> int:
     show("приложение", requests.get(f"{base}/{app_id}", params={
         "fields": "name,restrictions,app_domains,link", "access_token": app_token}, timeout=30))
     summary("\n".join(out) + "\n", "previews/fb-diag.md", cfg)
+    return 0
+
+
+def cmd_comment_diag(cfg, g: str, key: str, lang: str) -> int:
+    """Почему не ставится первый комментарий: проверка ссылки (сайт и разбор ссылки Facebook) — ничего не публикует."""
+    import requests
+    st = State(config_mod.group_state_path(cfg, g))
+    s = st.slots.get(key) or {}
+    L = (s.get("langs") or {}).get(lang) or {}
+    site = s.get("wp_site") or config_mod.site_for(cfg.settings, g)
+    link = (site.get("comment_link_format") or "").format(wp_id=L.get("wp_id"))
+    out = [f"## Диагностика комментария {cfg.group_label(g)} {key} {lang}", "", f"- ссылка: {link}"]
+    try:
+        r = requests.get(link, timeout=30, allow_redirects=True,
+                         headers={"User-Agent": "facebookexternalhit/1.1"})
+        title = re.search(r"<title>(.*?)</title>", r.text, re.S)
+        og = re.findall(r'<meta property="og:(title|image|url)" content="([^"]*)"', r.text)
+        out.append(f"- сайт (как робот Facebook): HTTP {r.status_code}, итоговый адрес {r.url}, "
+                   f"title «{(title.group(1).strip() if title else '')[:100]}», og: {og[:3]}")
+    except requests.RequestException as e:
+        out.append(f"- сайт: ошибка {e}")
+    tokens = load_tokens(cfg)
+    pid = next(iter((L.get("pages") or {})), "")
+    tok = tokens.get(pid)
+    graph = Graph(cfg.graph_version)
+    try:
+        res = graph.post("", tok, data={"id": link, "scrape": "true"})
+        out.append(f"- Facebook разбор ссылки: {json.dumps(res, ensure_ascii=False)[:500]}")
+    except FacebookError as e:
+        out.append(f"- Facebook разбор ссылки: ошибка {e.short()}")
+    try:
+        txt = json.loads(cfg.path(f"content/{key[:10]}/{g}/{key[11:13]}{key[14:16]}-{lang}.json")
+                         .read_text(encoding="utf-8")).get("comment_text", "")
+        out.append(f"- текст комментария: {len(txt)} знаков; необычные символы: "
+                   f"{sorted({c for c in txt if ord(c) > 0x2000 and c not in '—–…«»“”„’‘'})}")
+    except (OSError, ValueError) as e:
+        out.append(f"- текст комментария: {e}")
+    summary("\n".join(out) + "\n", "previews/comment-diag.md", cfg)
     return 0
 
 
