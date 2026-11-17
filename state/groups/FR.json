@@ -540,7 +540,7 @@
   "1280413955154689_122129425035425731": "2026-11-16T22:01:56+00:00",
   "1280413955154689_122129447679425731": "2026-11-17T08:12:26+00:00",
   "1280413955154689_122129570181425731": "2026-11-17T11:06:54+00:00",
-  "1280413955154689_122129584839425731": "2026-11-17T12:32:23+00:00"
+  "1280413955154689_122129584839425731": "2026-11-17T14:13:38+00:00"
  },
  "slots": {
   "2026-11-03 18:00": {
@@ -5544,21 +5544,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129671107441679_1602221961192395",
        "error": null,
        "last_attempt": "2026-11-17T16:30:19+04:00",
        "mode": "schedule",
        "photo_id": "122129671065441679",
        "post_id": "1260826840455724_122129671107441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129584839425731_1033754103085888",
        "error": null,
        "last_attempt": "2026-11-17T16:32:19+04:00",
        "mode": "schedule",
        "photo_id": "122129584809425731",
        "post_id": "1280413955154689_122129584839425731",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Après 64 ans de mariage, mon mari ne m'a laissé qu'une vieille boîte à outils rouillée et 64 rosiers… mais son message secret a tout changé",
@@ -5615,7 +5619,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1800-fr.jpg"
    },
    "source_key": "post:100083602895430_1099811646148922",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
