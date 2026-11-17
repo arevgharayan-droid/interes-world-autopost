@@ -207,12 +207,20 @@ def words(text: str) -> int:
 
 
 def detect_language(text: str) -> str:
-    tokens = re.findall(r"[^\W\d_]+", (text or "").lower())
+    low = (text or "").lower()
+    tokens = re.findall(r"[^\W\d_]+", low)
     scores = {}
     for lang, sw in STOPWORDS.items():
         s = set(sw)
         scores[lang] = sum(1 for t in tokens if t in s)
-    return max(scores, key=scores.get) if tokens else ""
+    best = max(scores, key=scores.get) if tokens else ""
+    if best in ("RU", "UK"):
+        # у русского и украинского много общих коротких слов (в, не, на, я, у, за, так) — решают буквы:
+        # і ї є ґ есть только в украинском, ы э ъ ё — только в русском (17.11: украинский текст принят за русский)
+        uk, ru = len(re.findall(r"[іїєґ]", low)), len(re.findall(r"[ыэъё]", low))
+        if uk or ru:
+            return "UK" if uk > ru else "RU"
+    return best
 
 
 def sanitize_article(raw: str) -> str:
