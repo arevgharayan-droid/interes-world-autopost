@@ -5175,12 +5175,14 @@
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133546915436382_2224051138530846",
        "error": null,
        "last_attempt": "2026-11-17T03:56:02+04:00",
        "mode": "schedule",
        "photo_id": "122133546885436382",
        "post_id": "1268633826332790_122133546915436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Meine Familie schloss mich vom Treffen aus und fuhr direkt zu meinem Strandhaus – dann stand ein Sheriff vor der Tür",
@@ -5333,7 +5335,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1200-nl.jpg"
    },
    "source_key": "post:61574270220252_122137907252809007",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
