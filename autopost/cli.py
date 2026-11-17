@@ -763,8 +763,18 @@ def cmd_ops(cfg, args) -> int:
         # публикует сразу, без отложенных постов (не создаём, чтобы потом удалять: Facebook это не любит)
         out = ["## Внеочередной выпуск", ""]
         for g in cfg.groups():
+            if a.get("groups") and g not in a["groups"]:
+                continue
             out.append(f"- {cfg.group_label(g)}: {start_now(cfg, g, at=a.get('at', ''))}")
         summary("\n".join(out) + "\n", "previews/start-now.md", cfg)
+        return 0
+    if cmd == "allow-repeat":
+        # владелица разрешила повтор: пост, уже выходивший в группе, можно взять снова (по ссылке из очереди)
+        g, link = a.get("group", ""), a.get("link", "")
+        res = allow_repeat(cfg, g, link)
+        if a.get("now"):
+            res += "\n- " + start_now(cfg, g)
+        summary(f"## Повтор разрешён: {cfg.group_label(g)}\n\n- {res}\n", "previews/allow-repeat.md", cfg)
         return 0
     if cmd == "fb-pause":
         # пауза публикаций во всех группах (Facebook ограничил частоту): minutes=0 — снять паузу
@@ -1157,6 +1167,27 @@ def cmd_fb_diag(cfg) -> int:
         "fields": "name,restrictions,app_domains,link", "access_token": app_token}, timeout=30))
     summary("\n".join(out) + "\n", "previews/fb-diag.md", cfg)
     return 0
+
+
+def allow_repeat(cfg, g: str, link: str) -> str:
+    """Снимает запрет повтора для поста, на который ведёт ссылка: прежняя запись уходит в историю
+    (status used_before), и ссылка из очереди снова может быть взята."""
+    from .sources import link_key
+    st = State(config_mod.group_state_path(cfg, g))
+    lk = (st.sources.get(link_key(link)) or {}).get("resolved", "")
+    m = re.search(r"story_fbid=(\d+)&id=(\d+)", lk or link)
+    keys = [k for k, v in st.sources.items()
+            if k.startswith("post:") and ((m and k.endswith("_" + m.group(1))) or v.get("link") == link)]
+    if not keys:
+        return f"в истории группы нет поста по ссылке {link} — повтор и так возможен"
+    done = []
+    for k in keys:
+        rec = st.sources.pop(k)
+        rec["status"] = "used_before"
+        st.sources[f"{k}#{rec.get('slot', '')}"] = rec
+        done.append(f"{k} (выходил {rec.get('slot', '?')})")
+    st.save()
+    return "повтор разрешён: " + ", ".join(done)
 
 
 def start_now(cfg, g: str, now=None, at: str = "") -> str:
