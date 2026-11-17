@@ -1,0 +1,6 @@
+## Диагностика комментария IT+PL+CS 2026-11-17 22:27 IT
+
+- ссылка: https://hetaqrqir.com/?p=594
+- сайт (как робот Facebook): HTTP 200, итоговый адрес https://hetaqrqir.com/iw-20261117-2227-it-it/, title «Il boss più temuto di Chicago mi sfidò a ballare un tango davanti a duecento invitati per sposarmi, », og: []
+- Facebook разбор ссылки: {"url": "https://hetaqrqir.com/?p=594", "type": "website", "title": "Il boss più temuto di Chicago mi sfidò a ballare un tango davanti a duecento invitati per sposarmi, ma sua nonna riconobbe i miei passi – hetaqrqir.com", "image": [{"url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-2227-it.jpg"}], "description": "Il boss più temuto di Chicago mi sfidò a ballare un tango davanti a duecento invitati per sposarmi, ma sua nonna riconobbe i miei passi 17.11.2026Category: Unca
+- текст комментария: 3176 знаков; необычные символы: []
