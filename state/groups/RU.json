@@ -30,6 +30,7 @@
   "34f5d1ae4690346695c5": "2026-11-12T17:48:06+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
   "430a2b7c726cdc7d25cd": "2026-11-14T19:42:40+00:00",
+  "43fc1331d6fb4f0c421e": "2026-11-17T20:47:52+00:00",
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
   "511f35f875db7d4a056d": "2026-11-13T14:37:39+00:00",
@@ -49,6 +50,7 @@
   "66da1067d99e1be59d56": "2026-11-12T10:26:34+00:00",
   "6a9dc74cd9fef54c67d7": "2026-11-10T22:03:12+00:00",
   "6ad19445c3c2f9ca584e": "2026-11-09T20:00:50+00:00",
+  "6af945ecc88d985562e4": "2026-11-17T20:47:52+00:00",
   "70f1397700ba9303490e": "2026-11-13T14:37:39+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
   "72de7386867e661b1a44": "2026-11-16T16:01:05+00:00",
@@ -86,6 +88,7 @@
   "be23e984142f21e3c44a": "2026-11-14T19:42:40+00:00",
   "be38faec6f9e0849079a": "2026-11-13T10:15:12+00:00",
   "bfb817244f318e72fc69": "2026-11-16T19:28:42+00:00",
+  "c05aa08deef8d17993ed": "2026-11-17T20:47:52+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
@@ -8458,7 +8461,90 @@
   },
   "2026-11-18 00:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha sogra queria 100 mil dólares do meu bônus de 150 mil para comprar uma casa para a cunhada, e quando meu marido me deu um ultimato, eu liguei para a advogada",
+     "warnings": [
+      "часть 1: 744 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 343,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Свекровь протянула мне бланк на сто тысяч из моей премии в сто пятьдесят, а когда муж пригрозил разводом, я просто набрала номер адвоката",
+     "warnings": [
+      "часть 1: 764 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 341,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kayınvalidem 150 bin dolarlık ikramiyemin 100 bin dolarını kız kardeşine ev almak için istedi, kocam \"ya öde ya boşanalım\" deyince telefonu elime aldım",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 342,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T00:36:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/914680671_1717823829736309_8286492222508621995_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=piz0v4JsXmQQ7kNvwEEQAnU&_nc_oc=AdpkAYSMGu-TbDPgMaLPFUayJHLU74Mq4xRZrQjD1y6CMRgwt8XVta8bbLTQyFBYc3U&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2hwUCOZBm3elQej0--0xPQ&_nc_tpa=Q5bMBQJD9Qfjui2v-JngTegmVZf9IBiczepZXjizC5XxQqlWmgrGjRQokioWy67hOh1et-Ft2SCFILHhow&oh=00_AQSKOplVyZBE3IDHMN6gqma3096myncJ3sBUheiXOUjQag&oe=6B0285E9",
@@ -8470,7 +8556,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-0036-ru.jpg"
    },
    "source_key": "post:100045261260562_1717835236401835",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -8749,7 +8835,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-18 00:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1605697694922092": {
    "fingerprint": "7aa9a9d1f00ac27915f6",
