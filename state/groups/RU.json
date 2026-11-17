@@ -31,6 +31,7 @@
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
   "511f35f875db7d4a056d": "2026-11-13T14:37:39+00:00",
+  "53b56a6026d7d16218d9": "2026-11-17T10:39:05+00:00",
   "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
   "5579983a5a4919598caf": "2026-11-14T09:18:33+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
@@ -70,10 +71,12 @@
   "a5f6cb6b12cb1a5de0de": "2026-11-16T23:52:12+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
   "ad60f5b2c01f76106a34": "2026-11-16T20:28:20+00:00",
+  "afba6d3581e5ecf1ee81": "2026-11-17T10:39:05+00:00",
   "b2a2a4c485d7b9f97fbc": "2026-11-16T10:16:47+00:00",
   "b30605de8da0dd54f00f": "2026-11-16T16:01:05+00:00",
   "b704adc12a8d3775fd71": "2026-11-12T09:04:38+00:00",
   "ba8f3a95256fb1f89569": "2026-11-14T09:18:33+00:00",
+  "bd3dd864aeb563b3def7": "2026-11-17T10:39:05+00:00",
   "be23e984142f21e3c44a": "2026-11-14T19:42:40+00:00",
   "be38faec6f9e0849079a": "2026-11-13T10:15:12+00:00",
   "bfb817244f318e72fc69": "2026-11-16T19:28:42+00:00",
@@ -6949,7 +6952,90 @@
    }
   },
   "2026-11-17 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Dez anos depois de ela me deixar com sete filhos por causa do vizinho rico, ela voltou com presentes, mas o celular da nossa filha a fez empalidecer",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 295,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Десять лет назад жена бросила меня с семью детьми ради богатого соседа, а когда вернулась с подарками для дочери, один взгляд на её телефон заставил её побледнеть",
+     "warnings": [
+      "часть 1 не обрывается на «…»"
+     ],
+     "wp_error": null,
+     "wp_id": 293,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "On yıl önce yedi çocuğumla beni bırakıp giden karım hediyelerle geri döndü, ama kızımın telefonundaki şeyi görünce yüzü bembeyaz oldu",
+     "warnings": [
+      "часть 3: 417 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 294,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t39.30808-6/870487212_1455062123389961_7995857383633744594_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KbJc8AP0Zm4Q7kNvwGRbzYU&_nc_oc=AdrPmBblFd5ezW0U9MpX5vsYIlzSoUvB5E4zw0z9Z9AhjEpxaF9dvSd7rzfI_ugcTn0&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=sntNGdYzcKi3j_6McmTLaA&_nc_tpa=Q5bMBQJNSRJyuWnhWAtwqKhlRQk2iVQ_lJN8RxBHaKjsTptlwP8G1YM1qJoEAysyCh0oP63gJ_n-cqDwKA&oh=00_AQTO4U8-4GCly1qR6qHOTMpq7PERQoygl_1N0_0mKVtctQ&oe=6B021112",
@@ -6961,7 +7047,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261117-1500-ru.jpg"
    },
    "source_key": "post:100066585605572_1455062170056623",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -7243,7 +7329,7 @@
    "origin": "manual",
    "page_id": "100066585605572",
    "slot": "2026-11-17 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1449183097316028": {
    "fingerprint": "4d0ffc15e7187ded193f",

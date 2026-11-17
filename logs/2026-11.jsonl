@@ -4926,3 +4926,12 @@
 {"slot": "2026-11-17 15:00", "lang": "IT", "action": "wp_post", "id": 544, "status": "future", "t": "2026-11-17T10:38:48+00:00", "group": "IT"}
 {"slot": "2026-11-17 15:00", "lang": "PL", "action": "wp_post", "id": 545, "status": "future", "t": "2026-11-17T10:38:49+00:00", "group": "IT"}
 {"slot": "2026-11-17 15:00", "lang": "CS", "action": "wp_post", "id": 546, "status": "future", "t": "2026-11-17T10:38:50+00:00", "group": "IT"}
+{"slot": "2026-11-17 15:00", "lang": "RU", "page": "1003672546173662", "action": "fb_schedule", "photo_id": "122114072360602036", "post_id": "1003672546173662_122114072390602036", "t": "2026-11-17T10:38:52+00:00", "group": "MIX"}
+{"slot": "2026-11-17 15:00", "lang": "EN", "page": "1165836896614851", "action": "fb_schedule", "photo_id": "122145219321384677", "post_id": "1165836896614851_122145219357384677", "t": "2026-11-17T10:38:57+00:00", "group": "EN"}
+{"slot": "2026-11-17 15:00", "lang": "EN", "page": "994273113779575", "action": "fb_schedule", "photo_id": "122139376766776189", "post_id": "994273113779575_122139376802776189", "t": "2026-11-17T10:39:03+00:00", "group": "EN2"}
+{"slot": "2026-11-17 15:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": ["часть 1 не обрывается на «…»"], "t": "2026-11-17T10:39:05+00:00", "group": "RU"}
+{"slot": "2026-11-17 15:00", "lang": "TR", "action": "generated", "backend": "subscription", "warnings": ["часть 3: 417 слов"], "t": "2026-11-17T10:39:05+00:00", "group": "RU"}
+{"slot": "2026-11-17 15:00", "lang": "PT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-17T10:39:05+00:00", "group": "RU"}
+{"slot": "2026-11-17 15:00", "lang": "RU", "action": "wp_post", "id": 293, "status": "future", "t": "2026-11-17T10:39:06+00:00", "group": "RU"}
+{"slot": "2026-11-17 15:00", "lang": "TR", "action": "wp_post", "id": 294, "status": "future", "t": "2026-11-17T10:39:07+00:00", "group": "RU"}
+{"slot": "2026-11-17 15:00", "lang": "PT", "action": "wp_post", "id": 295, "status": "future", "t": "2026-11-17T10:39:08+00:00", "group": "RU"}
