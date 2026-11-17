@@ -8003,6 +8003,12 @@
        "post_id": "236129656261330_122230377296294596",
        "status": "scheduled"
       },
+      "237939756073256": {
+       "attempts": 1,
+       "last_attempt": "2026-11-17T21:57:51+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      },
       "914823471720372": {
        "attempts": 1,
        "error": null,
