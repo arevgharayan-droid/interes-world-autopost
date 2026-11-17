@@ -374,6 +374,10 @@ def pick_source(cfg, graph, tokens: dict, state, now: datetime, log) -> dict | N
                     continue
                 key = source_key(info["page_id"], info["part"])
                 if state.source_used(key) or (state.sources.get(key) or {}).get("status") == "reserved":
+                    prev = state.sources.get(key) or {}
+                    if prev.get("link") and prev.get("link") != link:
+                        log(f"⚠️ ссылка пропущена — тот же пост уже выходил в этой группе "
+                            f"({prev.get('slot', '?')}, по ссылке {prev.get('link', '')[:60]}): {link[:80]}")
                     continue
                 try:
                     post = fetch_post(graph, info, tokens, cfg.fallback_source_page_id)
