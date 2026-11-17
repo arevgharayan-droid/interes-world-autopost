@@ -23,6 +23,7 @@
   "285546559f89fcbaefe2": "2026-11-15T10:15:20+00:00",
   "2918f58ba47afcae805f": "2026-11-15T14:15:11+00:00",
   "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
+  "3009334746196cd3581f": "2026-11-17T17:52:52+00:00",
   "30660871dadba458ebbe": "2026-11-09T20:02:09+00:00",
   "309b8aec5b9ce1b07f14": "2026-11-16T10:16:47+00:00",
   "33582b0afea138144804": "2026-11-12T20:02:43+00:00",
@@ -37,6 +38,7 @@
   "5579983a5a4919598caf": "2026-11-14T09:18:33+00:00",
   "55c68668d71f5fde2cc3": "2026-11-17T12:29:11+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
+  "56b10fd7cd3d1bca37f0": "2026-11-17T17:52:52+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5b204109299ad4dcd429": "2026-11-12T20:02:43+00:00",
   "5d014620f15f95df1195": "2026-11-10T22:05:49+00:00",
@@ -65,6 +67,7 @@
   "9080b378741e8f08ec4a": "2026-11-10T22:08:57+00:00",
   "950641cc5f0ddd9580f6": "2026-11-09T20:08:16+00:00",
   "959c0a3855f5dc48d671": "2026-11-09T20:03:21+00:00",
+  "993b67355d685fd04e45": "2026-11-17T17:52:52+00:00",
   "9a76a9818995731524e0": "2026-11-16T10:16:47+00:00",
   "9d236a06f2c553cf0edc": "2026-11-15T14:15:11+00:00",
   "9f68477819cc7f2b978d": "2026-11-09T20:02:09+00:00",
@@ -7911,7 +7914,86 @@
    "status": "missed"
   },
   "2026-11-18 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Perdi o emprego por parar para socorrer uma mulher caída na estrada, mas quando voltei para pegar minhas coisas, minha vida mudou",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 327,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я остановился помочь умирающей на обочине женщине и опоздал на презентацию, а начальник уволил меня, но через несколько дней она сама начала меня искать",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 325,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Yol kenarında ölmek üzere olan bir kadına yardım ettiğim için işimden kovuldum, ama eşyalarımı alırken patronumun yüzü bembeyaz oldu",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 326,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/886577458_122142773313234210_979335144995790217_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Tu3E_cw7V8oQ7kNvwGY9Zsu&_nc_oc=AdotAE-XPomjO6jcfFtJ2CJYNLevsMVb9DFjI_9V7BsC4DEmCuZdI5BE3IlEqax89PQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=h5-ts_3hJFIM0Z3IiDQpyw&_nc_tpa=Q5bMBQKGCsK72OvHqUBWtYvonOPo_mM9O_Dw6jYSa0JVOckPRv281g6N2jGIzJn05bECyBqFxZGRFCGldg&oh=00_AQTeJytW511643J2m_XaEi8AYuA3wwasCPkwypzdCLjf9Q&oe=6B0266CF",
@@ -7923,7 +8005,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-0000-ru.jpg"
    },
    "source_key": "post:61587026316282_122142773337234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -8329,7 +8411,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-18 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587026316282_122143702713234210": {
    "fingerprint": "a2a2e53ba8d703f9cf8a",
