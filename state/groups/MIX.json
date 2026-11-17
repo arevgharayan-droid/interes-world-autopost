@@ -969,7 +969,10 @@
      "title": "حكم عليّ زوجي بالسجن خمسة وعشرين عامًا ليستولي على المليارات، لكن حين ابتسمتُ في وجهه أدرك أن سرًّا واحدًا سيهدم خطته الكاملة",
      "warnings": [
       "часть 3: 404 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 308,
+     "wp_status": "future"
     },
     "CS": {
      "pages": {},
@@ -1047,6 +1050,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-17T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/860039217_1480124673981049_2110798640595827576_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W6wgRFMl8DwQ7kNvwFwNC7l&_nc_oc=Adr34SbFOblPOy-T47YU-d2YO1-0kIU01kzP4lJ7x5zGiguldsRyrdiCerh2SSglxdk&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=UwRnEIJb2I9J04zTrBkFBQ&_nc_tpa=Q5bMBQJHoznBmb2Y_lRnzdkfeiaRTWrvD2azR1AAzRDSIi_Kk9YjDKO0s-gGD8MaifP816og6UWEp8c-VQ&oh=00_AQSYG_yDScI9XUHT46OLNAO_XpH6gWkgqycB1ku7c-QXrw&oe=6B02058A",
@@ -1058,7 +1062,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261117-1800-mix.jpg"
    },
    "source_key": "post:100059505912199_1480124753981041",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1111,7 +1115,7 @@
    "origin": "manual",
    "page_id": "100059505912199",
    "slot": "2026-11-17 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066585605572_1464940149068825": {
    "fingerprint": "ff6b8e95f3d6e12c1305",
