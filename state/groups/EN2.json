@@ -7701,7 +7701,8 @@
    "slot_iso": "2026-11-17T21:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-18 00:00": {
+  "2026-11-17 22:03": {
+   "adhoc": true,
    "langs": {
     "AR": {
      "pages": {},
@@ -7719,131 +7720,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "100633729330404": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:56:23+04:00",
-       "mode": "schedule",
-       "photo_id": "1145306661531188",
-       "post_id": "100633729330404_1145306701531184",
-       "status": "scheduled"
-      },
-      "104114086037068": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:57:22+04:00",
-       "mode": "schedule",
-       "photo_id": "1044869318634780",
-       "post_id": "104114086037068_1044869351968110",
-       "status": "scheduled"
-      },
-      "1060733217128705": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:52:59+04:00",
-       "mode": "schedule",
-       "photo_id": "122144799866777362",
-       "post_id": "1060733217128705_122144799896777362",
-       "status": "scheduled"
-      },
-      "106713875762456": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:56:53+04:00",
-       "mode": "schedule",
-       "photo_id": "1032358293215776",
-       "post_id": "106713875762456_1032358329882439",
-       "status": "scheduled"
-      },
-      "1220745651126185": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:57:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122127703959439195",
-       "post_id": "1220745651126185_122127703989439195",
-       "status": "scheduled"
-      },
-      "233545296514172": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:51:56+04:00",
-       "mode": "schedule",
-       "photo_id": "122336988362241259",
-       "post_id": "233545296514172_122336988392241259",
-       "status": "scheduled"
-      },
-      "530022363528890": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:52:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122175852350720509",
-       "post_id": "530022363528890_122175852380720509",
-       "status": "scheduled"
-      },
-      "625664190627160": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:53:33+04:00",
-       "mode": "schedule",
-       "photo_id": "122184653594820020",
-       "post_id": "625664190627160_122184653624820020",
-       "status": "scheduled"
-      },
-      "648976361631351": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:54:08+04:00",
-       "mode": "schedule",
-       "photo_id": "122194862192829482",
-       "post_id": "648976361631351_122194862222829482",
-       "status": "scheduled"
-      },
-      "673710079162922": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:54:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122244760622895613",
-       "post_id": "673710079162922_122244760652895613",
-       "status": "scheduled"
-      },
-      "714226118434052": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:55:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122206024526902657",
-       "post_id": "714226118434052_122206024556902657",
-       "status": "scheduled"
-      },
-      "892503027289970": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:55:48+04:00",
-       "mode": "schedule",
-       "photo_id": "122143451799219808",
-       "post_id": "892503027289970_122143451829219808",
-       "status": "scheduled"
-      },
-      "994273113779575": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:52:36+04:00",
-       "mode": "schedule",
-       "photo_id": "122139425840776189",
-       "post_id": "994273113779575_122139425870776189",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "My Son Married in Secret Because It Was Only for \"People of Status,\" So I Changed the Locks on My $1.94 Million Beach House",
      "warnings": [
       "длина текста FB 941 слов (исходник 1167, цель ±10%)"
      ],
      "wp_error": null,
      "wp_id": 584,
+     "wp_live": true,
      "wp_status": "future"
     },
     "ES": {
@@ -7887,8 +7771,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-18 00:00",
    "prepared": true,
-   "slot_iso": "2026-11-18T00:00:00+04:00",
+   "slot_iso": "2026-11-17T22:03:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/884884738_122142726681234210_1393553667725677743_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hV332VHvcWMQ7kNvwFbACqr&_nc_oc=AdrM1jKoafgTZPlPdGhuyXf3ToV2LQC4XT2vlWZ8w4sKXZJnKFuTm98bbHiZgV5ETyM&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=eC1V_fean-lb5q6mAIi4tw&_nc_tpa=Q5bMBQIF1JXO_jNYDmA7PNJI1-23GbYAe2MTwlhYAjIKcz75OtmNxYOT77ZPYy_xv8-LSOBA6rk4AnXehQ&oh=00_AQSZeWX2EE2muVeccmYAdePmXXbZRHtR_A4cLhA_YHEnbw&oe=6B025BDB",
     "link": "https://www.facebook.com/share/p/1E79z2sjfM/",
@@ -7899,7 +7784,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-0000-en2.jpg"
    },
    "source_key": "post:61587026316282_122142726705234210",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

@@ -7971,7 +7971,8 @@
    "slot_iso": "2026-11-17T21:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-18 00:00": {
+  "2026-11-17 22:06": {
+   "adhoc": true,
    "langs": {
     "AR": {
      "pages": {},
@@ -8013,39 +8014,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1138572272664180": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T22:00:12+04:00",
-       "mode": "schedule",
-       "photo_id": "122129109723306316",
-       "post_id": "1138572272664180_122129109753306316",
-       "status": "scheduled"
-      },
-      "1338630212673029": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T22:00:06+04:00",
-       "mode": "schedule",
-       "photo_id": "122118189237471857",
-       "post_id": "1338630212673029_122118189267471857",
-       "status": "scheduled"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T22:00:01+04:00",
-       "mode": "schedule",
-       "photo_id": "122121174561505599",
-       "post_id": "1448441201677530_122121174597505599",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Perdi o emprego por parar para socorrer uma mulher caída na estrada, mas quando voltei para pegar minhas coisas, minha vida mudou",
      "warnings": [],
      "wp_error": null,
      "wp_id": 327,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RO": {
@@ -8056,258 +8030,24 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:53:22+04:00",
-       "mode": "schedule",
-       "photo_id": "122118597638640467",
-       "post_id": "1008693642337213_122118597674640467",
-       "status": "scheduled"
-      },
-      "1018759874664543": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:59:20+04:00",
-       "mode": "schedule",
-       "photo_id": "122120423931294825",
-       "post_id": "1018759874664543_122120423961294825",
-       "status": "scheduled"
-      },
-      "1036597159544783": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:59:15+04:00",
-       "mode": "schedule",
-       "photo_id": "122119768874642087",
-       "post_id": "1036597159544783_122119768904642087",
-       "status": "scheduled"
-      },
-      "1038143956055997": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:57:56+04:00",
-       "mode": "schedule",
-       "photo_id": "122113150082600554",
-       "post_id": "1038143956055997_122113150112600554",
-       "status": "scheduled"
-      },
-      "1042837395585806": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:57:10+04:00",
-       "mode": "schedule",
-       "photo_id": "122117463854623459",
-       "post_id": "1042837395585806_122117463884623459",
-       "status": "scheduled"
-      },
-      "1051766924693580": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:58:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122136871130733379",
-       "post_id": "1051766924693580_122136871160733379",
-       "status": "scheduled"
-      },
-      "1066862079844179": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:58:40+04:00",
-       "mode": "schedule",
-       "photo_id": "122112101534596942",
-       "post_id": "1066862079844179_122112101564596942",
-       "status": "scheduled"
-      },
-      "1069814529551887": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:59:32+04:00",
-       "mode": "schedule",
-       "photo_id": "122127373701303687",
-       "post_id": "1069814529551887_122127373737303687",
-       "status": "scheduled"
-      },
-      "1075346445663696": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:59:26+04:00",
-       "mode": "schedule",
-       "photo_id": "122143521260775004",
-       "post_id": "1075346445663696_122143521290775004",
-       "status": "scheduled"
-      },
-      "1075712068960532": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:58:57+04:00",
-       "mode": "schedule",
-       "photo_id": "122119095176628634",
-       "post_id": "1075712068960532_122119095212628634",
-       "status": "scheduled"
-      },
-      "1084212424777390": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:55:05+04:00",
-       "mode": "schedule",
-       "photo_id": "122135287659300832",
-       "post_id": "1084212424777390_122135287689300832",
-       "status": "scheduled"
-      },
-      "1092061600653020": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:57:35+04:00",
-       "mode": "schedule",
-       "photo_id": "122111786300588206",
-       "post_id": "1092061600653020_122111786330588206",
-       "status": "scheduled"
-      },
-      "1097710383424105": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:59:09+04:00",
-       "mode": "schedule",
-       "photo_id": "122117069300343996",
-       "post_id": "1097710383424105_122117069330343996",
-       "status": "scheduled"
-      },
-      "1098718609991464": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:59:03+04:00",
-       "mode": "schedule",
-       "photo_id": "122123522919297368",
-       "post_id": "1098718609991464_122123522949297368",
-       "status": "scheduled"
-      },
-      "1113548795169055": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:55:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122141850842773833",
-       "post_id": "1113548795169055_122141850872773833",
-       "status": "scheduled"
-      },
-      "1117846738074068": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:56:11+04:00",
-       "mode": "schedule",
-       "photo_id": "122135820177311273",
-       "post_id": "1117846738074068_122135820207311273",
-       "status": "scheduled"
-      },
-      "1118090254718709": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:58:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122103747002556634",
-       "post_id": "1118090254718709_122103747032556634",
-       "status": "scheduled"
-      },
-      "1125468037313193": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:56:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122119983501295429",
-       "post_id": "1125468037313193_122119983531295429",
-       "status": "scheduled"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:54:31+04:00",
-       "mode": "schedule",
-       "photo_id": "122140733822737651",
-       "post_id": "1125676667286378_122140733852737651",
-       "status": "scheduled"
-      },
-      "1146158698570676": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:58:29+04:00",
-       "mode": "schedule",
-       "photo_id": "122129958885300293",
-       "post_id": "1146158698570676_122129958915300293",
-       "status": "scheduled"
-      },
-      "1167733113080371": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:58:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122130304863307779",
-       "post_id": "1167733113080371_122130304893307779",
-       "status": "scheduled"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:53:56+04:00",
-       "mode": "schedule",
-       "photo_id": "122135888048733774",
-       "post_id": "988042774402200_122135888078733774",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Я остановился помочь умирающей на обочине женщине и опоздал на презентацию, а начальник уволил меня, но через несколько дней она сама начала меня искать",
      "warnings": [],
      "wp_error": null,
      "wp_id": 325,
+     "wp_live": true,
      "wp_status": "future"
     },
     "TR": {
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1083701291497481": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:59:50+04:00",
-       "mode": "schedule",
-       "photo_id": "122124682617304633",
-       "post_id": "1083701291497481_122124682653304633",
-       "status": "scheduled"
-      },
-      "1129620776897151": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:59:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122128008129311884",
-       "post_id": "1129620776897151_122128008159311884",
-       "status": "scheduled"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:59:44+04:00",
-       "mode": "schedule",
-       "photo_id": "122127233481307134",
-       "post_id": "1164575726728296_122127233511307134",
-       "status": "scheduled"
-      },
-      "1180583925128715": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:59:55+04:00",
-       "mode": "schedule",
-       "photo_id": "122123766261305562",
-       "post_id": "1180583925128715_122123766291305562",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Yol kenarında ölmek üzere olan bir kadına yardım ettiğim için işimden kovuldum, ama eşyalarımı alırken patronumun yüzü bembeyaz oldu",
      "warnings": [],
      "wp_error": null,
      "wp_id": 326,
+     "wp_live": true,
      "wp_status": "future"
     },
     "UK": {
@@ -8315,8 +8055,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-18 00:00",
    "prepared": true,
-   "slot_iso": "2026-11-18T00:00:00+04:00",
+   "slot_iso": "2026-11-17T22:06:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/886577458_122142773313234210_979335144995790217_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Tu3E_cw7V8oQ7kNvwGY9Zsu&_nc_oc=AdotAE-XPomjO6jcfFtJ2CJYNLevsMVb9DFjI_9V7BsC4DEmCuZdI5BE3IlEqax89PQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=h5-ts_3hJFIM0Z3IiDQpyw&_nc_tpa=Q5bMBQKGCsK72OvHqUBWtYvonOPo_mM9O_Dw6jYSa0JVOckPRv281g6N2jGIzJn05bECyBqFxZGRFCGldg&oh=00_AQTeJytW511643J2m_XaEi8AYuA3wwasCPkwypzdCLjf9Q&oe=6B0266CF",
     "link": "https://www.facebook.com/share/p/1Za5yM2TVa/",
@@ -8327,7 +8068,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-0000-ru.jpg"
    },
    "source_key": "post:61587026316282_122142773337234210",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",

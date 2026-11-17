@@ -5635,7 +5635,8 @@
    "slot_iso": "2026-11-17T21:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-18 00:00": {
+  "2026-11-17 22:01": {
+   "adhoc": true,
    "langs": {
     "AR": {
      "pages": {},
@@ -5661,102 +5662,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:53:05+04:00",
-       "mode": "schedule",
-       "photo_id": "122117712296633539",
-       "post_id": "1032441206625600_122117712326633539",
-       "status": "scheduled"
-      },
-      "1041497042386258": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:54:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122143584008738075",
-       "post_id": "1041497042386258_122143584038738075",
-       "status": "scheduled"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:55:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122109361958457428",
-       "post_id": "1058598924006917_122109361988457428",
-       "status": "scheduled"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:52:20+04:00",
-       "mode": "schedule",
-       "photo_id": "122123291163299008",
-       "post_id": "1079295351933311_122123291193299008",
-       "status": "scheduled"
-      },
-      "1103884436136482": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:54:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122105444438536887",
-       "post_id": "1103884436136482_122105444468536887",
-       "status": "scheduled"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:52:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122126395293303172",
-       "post_id": "1145306638657445_122126395323303172",
-       "status": "scheduled"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:51:50+04:00",
-       "mode": "schedule",
-       "photo_id": "122122143711409328",
-       "post_id": "1202025962997153_122122143741409328",
-       "status": "scheduled"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:52:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122124211503415639",
-       "post_id": "1250374694822508_122124211539415639",
-       "status": "scheduled"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:53:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122129715885441679",
-       "post_id": "1260826840455724_122129715915441679",
-       "status": "scheduled"
-      },
-      "1280413955154689": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:55:22+04:00",
-       "mode": "schedule",
-       "photo_id": "122129621505425731",
-       "post_id": "1280413955154689_122129621535425731",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Tu arrives à t'en sortir avec les 8 000 dollars de Lauren ? » : le jour de la fête des Pères, mon fils millionnaire a découvert la vérité dans mon appartement glacial",
      "warnings": [],
      "wp_error": null,
      "wp_id": 583,
+     "wp_live": true,
      "wp_status": "future"
     },
     "IT": {
@@ -5792,8 +5703,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-18 00:00",
    "prepared": true,
-   "slot_iso": "2026-11-18T00:00:00+04:00",
+   "slot_iso": "2026-11-17T22:01:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/870223015_122142472305234210_5120499985129413909_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3ajyXVVVUxEQ7kNvwG2dvOP&_nc_oc=AdrM3GQaTUll4dVdZJ5h1TyP8p832DZ4JclP3Z7t4EfJ_5z97JOJN6X4ZB9dERbPtVo&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=4qBQ52wDc1URC0NZrCRK3w&_nc_tpa=Q5bMBQJSwNHr7YZ9lja2LdpucDBQQl8Y4K91voIa_ydJte69I2s3QFiAcj_wEHNJ7Bza9WlypQghh7-JfA&oh=00_AQTbzdqX7Px1YKOpwgbOKGqIObMWbuMVznW2N7swRhFDaQ&oe=6B028269",
     "link": "https://www.facebook.com/share/p/1EdRNt9KVQ/",
@@ -5804,7 +5716,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-0000-fr.jpg"
    },
    "source_key": "post:61587026316282_122142472335234210",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

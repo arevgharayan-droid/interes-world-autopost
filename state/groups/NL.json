@@ -5888,7 +5888,8 @@
    "slot_iso": "2026-11-17T21:00:00+04:00",
    "status": "missed"
   },
-  "2026-11-18 00:00": {
+  "2026-11-17 22:05": {
+   "adhoc": true,
    "langs": {
     "AR": {
      "pages": {},
@@ -5902,68 +5903,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1028964020310052": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:58:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122132200041310273",
-       "post_id": "1028964020310052_122132200071310273",
-       "status": "scheduled"
-      },
-      "1089186904280406": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:58:19+04:00",
-       "mode": "schedule",
-       "photo_id": "122130208389321366",
-       "post_id": "1089186904280406_122130208419321366",
-       "status": "scheduled"
-      },
-      "1102464712951594": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:57:16+04:00",
-       "mode": "schedule",
-       "photo_id": "122127680517309032",
-       "post_id": "1102464712951594_122127680547309032",
-       "status": "scheduled"
-      },
-      "1129908326870761": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:57:40+04:00",
-       "mode": "schedule",
-       "photo_id": "122125910073316035",
-       "post_id": "1129908326870761_122125910103316035",
-       "status": "scheduled"
-      },
-      "1208422892355505": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:56:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122131471209418602",
-       "post_id": "1208422892355505_122131471239418602",
-       "status": "scheduled"
-      },
-      "1268633826332790": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:56:47+04:00",
-       "mode": "schedule",
-       "photo_id": "122133811311436382",
-       "post_id": "1268633826332790_122133811341436382",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Elf Jahre gab er mir die Schuld für unser unerfülltes Kinderwunsch-Leid, dann warf er mich raus – genau an dem Tag, an dem ich erfuhr, dass ich schwanger bin",
      "warnings": [
       "длина текста FB 480 слов (исходник 583, цель ±10%)"
      ],
      "wp_error": null,
      "wp_id": 587,
+     "wp_live": true,
      "wp_status": "future"
     },
     "EN": {
@@ -5986,75 +5933,12 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {
-      "1144269682096701": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:54:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122125344039304553",
-       "post_id": "1144269682096701_122125344069304553",
-       "status": "scheduled"
-      },
-      "1180417388497186": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:55:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122130566073424769",
-       "post_id": "1180417388497186_122130566103424769",
-       "status": "scheduled"
-      },
-      "1205543595981082": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:55:12+04:00",
-       "mode": "schedule",
-       "photo_id": "122130657909430924",
-       "post_id": "1205543595981082_122130657939430924",
-       "status": "scheduled"
-      },
-      "1210451145474950": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:53:27+04:00",
-       "mode": "schedule",
-       "photo_id": "122134859619306170",
-       "post_id": "1210451145474950_122134859649306170",
-       "status": "scheduled"
-      },
-      "1239848699214091": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:54:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122127132435439695",
-       "post_id": "1239848699214091_122127132465439695",
-       "status": "scheduled"
-      },
-      "633031599904551": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:52:30+04:00",
-       "mode": "schedule",
-       "photo_id": "122223386834930012",
-       "post_id": "633031599904551_122223386864930012",
-       "status": "scheduled"
-      },
-      "715935674934966": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-17T21:52:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122203135052922316",
-       "post_id": "715935674934966_122203135082922316",
-       "status": "scheduled"
-      }
-     },
+     "pages": {},
      "title": "Elf jaar gaf hij mij de schuld van onze kinderloosheid en zette me op straat voor zijn zwangere minnares, op de dag dat ik hoorde dat ik zwanger was",
      "warnings": [],
      "wp_error": null,
      "wp_id": 586,
+     "wp_live": true,
      "wp_status": "future"
     },
     "PL": {
@@ -6082,8 +5966,9 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "moved_from": "2026-11-18 00:00",
    "prepared": true,
-   "slot_iso": "2026-11-18T00:00:00+04:00",
+   "slot_iso": "2026-11-17T22:05:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/855072898_122140782369234210_7745702810200207888_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=DDmP2mV5qfoQ7kNvwEaW9pV&_nc_oc=AdrD-OevDZgRJs6Nl66ZkoYgs0MUPXpR5PUmXBGA420I6shVmB6sCi91wA-v8goYXOg&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0yMgxIiSFSR8wIf_wu_OBQ&_nc_tpa=Q5bMBQKGy6MJrrkAOBLoeDG9sSbCW5eMFyu57R0TRHrhQw51CaPz2zBCHSnM3WTxMu6fF7owfnz2_TB1yA&oh=00_AQQxNNk9Bt-jDp6yJ5_apH1BeSFDFCNc85Ev-DQJGjA2zA&oe=6B027569",
     "link": "https://www.facebook.com/share/p/19uqZyKz9H/",
@@ -6094,7 +5979,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-0000-nl.jpg"
    },
    "source_key": "post:61587026316282_122140782393234210",
-   "status": "in_progress",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
