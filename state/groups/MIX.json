@@ -807,7 +807,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1003672546173662": {
+       "attempts": 1,
+       "last_attempt": "2026-11-17T14:38:49+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "В 74 года я женился на женщине моложе на 38 лет, но однажды ночью домработница прошептала, что к утру я могу не проснуться",
      "warnings": [],
      "wp_error": null,
