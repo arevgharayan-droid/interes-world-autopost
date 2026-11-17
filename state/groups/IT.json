@@ -8548,12 +8548,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116415787328231_1874313427354771",
        "error": null,
        "last_attempt": "2026-11-17T14:47:24+04:00",
        "mode": "schedule",
        "photo_id": "122116415757328231",
        "post_id": "1106793902521611_122116415787328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Syn si půl roku nechával růst vlasy pro nemocnou kamarádku, ale druhý den mě ředitel zavolal do školy a její otec se zeptal, jestli vím, co udělal",
@@ -8917,7 +8919,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1500-it.jpg"
    },
    "source_key": "post:100083366355470_1137476969041171",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
