@@ -91,6 +91,8 @@ class Config:
         if g == "EN" and "EN2" in self.groups():
             return "EN-1"
         langs = self.group_langs(g)
+        if g == "MIX":              # так её называет владелица: «Mix»
+            return "Mix (" + "+".join(langs) + ")"
         if len(langs) > 1:          # группа из нескольких языков: одна история на всех, например RU+TR+PT
             return "+".join(langs)
         return {"EN2": "EN-2"}.get(g, g)

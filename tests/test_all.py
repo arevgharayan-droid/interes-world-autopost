@@ -468,7 +468,7 @@ class GroupQueueTests(unittest.TestCase):
         tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
         groups = cfg.groups()
         self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU", "MIX"])
-        self.assertEqual(cfg.group_label("MIX"), "UK+ES+RO+AR")
+        self.assertEqual(cfg.group_label("MIX"), "Mix (RU+ES+RO+AR)")
         self.assertEqual(cfg.group_label("RU"), "RU+TR+PT")
         self.assertEqual(cfg.group_label("NL"), "NL+DE")
         self.assertEqual(cfg.group_label("IT"), "IT+PL+CS")
@@ -664,6 +664,52 @@ class ReworkSlotTests(unittest.TestCase):
         self.assertEqual(len(msgs), len(graph.posts))
         self.assertTrue(all(m.startswith("https://b.example/?p=") for m in msgs), msgs[:3])
         self.assertEqual(State(st_path).slots["2030-05-01 09:00"]["status"], "done")
+
+
+class DropLangTests(unittest.TestCase):
+    def test_drop_lang_then_rework_switches_pages_to_other_language(self):
+        """Страницы DE в группе NL переходят на NL: посты DE удаляются, вместо них — NL, без дублей."""
+        from autopost.cli import drop_lang, rework_slot
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        de = [p for p in cfg.pages if p.lang == "DE"]
+        for p in de:
+            p.group = "NL"
+        _queue_story(graph, cfg, tmp, "NL", 941, "Story D1.")
+        st_path = tmp / "state/groups/NL.json"
+        services = (graph, wp, FakeHTTP())
+
+        def tick():
+            gcfg = group_view(cfg, "NL")
+            Pipeline(gcfg, State(st_path), graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+        tick()
+        de_ids = {p.page_id for p in de}
+        self.assertEqual(sum(1 for p in graph.posts.values() if p["page"] in de_ids), len(de_ids))
+        n_wp = len(wp.posts)
+        for p in de:                                   # страницы DE теперь получают нидерландский текст
+            cfg.languages["DE"]["pages"].remove(p)
+            p.lang = "NL"
+            cfg.languages["NL"]["pages"].append(p)
+        key = "2030-05-01 09:00"
+        res = drop_lang(group_view(cfg, "NL"), "NL", key, "DE", services=services, tokens=tokens)
+        self.assertIn("удалён", res)
+        self.assertEqual(sum(1 for p in graph.posts.values() if p["page"] in de_ids), 0)
+        self.assertEqual(len(wp.posts), n_wp - 1)
+        rework_slot(cfg, "NL", key, force=True)
+        for hh, mm in ((6, 20), (9, 7), (9, 37)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            tick()
+        per_page = {}
+        for p in graph.posts.values():
+            per_page[p["page"]] = per_page.get(p["page"], 0) + 1
+        self.assertTrue(all(n == 1 for n in per_page.values()), per_page)   # ни одного дубля
+        self.assertTrue(de_ids <= set(per_page))                            # бывшие DE-страницы получили пост
+        self.assertEqual(State(st_path).slots[key]["status"], "done")
 
 
 class PublishNowTests(unittest.TestCase):

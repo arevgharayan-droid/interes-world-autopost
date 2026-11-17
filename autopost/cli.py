@@ -800,6 +800,14 @@ def cmd_ops(cfg, args) -> int:
                 out.append(f"- {cfg.group_label(g)}: {publish_now(cfg, g, a.get('slot', ''))}")
         summary("\n".join(out) + "\n", "previews/publish-now.md", cfg)
         return 0
+    if cmd == "drop-lang":
+        g, key, lang = a.get("group", ""), a.get("slot", ""), a.get("lang", "")
+        gcfg = config_mod.group_view(cfg, g)
+        res = drop_lang(gcfg, g, key, lang)
+        if a.get("rework", True):
+            res += "\n- переподготовка: " + rework_slot(cfg, g, key)
+        summary(f"## Убрать язык {lang} из выпуска {cfg.group_label(g)} {key}\n\n{res}\n", "previews/drop-lang.md", cfg)
+        return 0
     if cmd == "rework-slot":
         out = ["## Переподготовка выпусков", ""]
         for g in a.get("groups") or []:
@@ -1589,6 +1597,59 @@ def cmd_resolve_links(cfg, links: list) -> int:
                    f"| title={info.get('title', '')}")
     summary("\n".join(out) + "\n", "previews/resolve-links.md", cfg)
     return 0
+
+
+def drop_lang(gcfg, g: str, key: str, lang: str, services=None, tokens=None) -> str:
+    """Убирает один язык из ещё не вышедшего выпуска группы: удаляет его отложенные посты Facebook и статью,
+    язык переносится в s['dropped_langs'] (для истории). Остальные языки выпуска не трогаются."""
+    st = State(config_mod.group_state_path(gcfg, g))
+    s = st.slots.get(key)
+    if not s or lang not in (s.get("langs") or {}):
+        return f"- в выпуске {key} нет языка {lang}"
+    if s.get("status") in ("done", "done_with_errors", "missed", "cancelled"):
+        return f"- выпуск уже закрыт ({s.get('status')})"
+    if services is None:
+        services = real_services(gcfg)
+        if s.get("wp_site"):
+            services = (services[0], real_wp(s["wp_site"]), services[2])
+    graph, wp, _http = services
+    tokens = tokens or load_tokens(gcfg)
+    ts = int(datetime.fromisoformat(s["slot_iso"]).timestamp())
+    L = s["langs"][lang]
+    try:
+        txt = json.loads(gcfg.path(f"content/{key[:10]}/{g}/{key[11:13]}{key[14:16]}-{lang}.json")
+                         .read_text(encoding="utf-8"))["fb_text"]
+    except (OSError, KeyError, ValueError):
+        txt = ""
+    out, errors = [], []
+    for pid, e in (L.get("pages") or {}).items():
+        name = gcfg.page(pid).name if gcfg.page(pid) else pid
+        if e.get("status") == "published" or e.get("status") == "done":
+            out.append(f"- {name}: пост уже вышел — не трогаю")
+            continue
+        tok = tokens.get(pid)
+        gone = False
+        try:
+            for sp in (graph.scheduled_posts(pid, tok) if tok else []):
+                if int(sp.get("scheduled_publish_time") or 0) == ts and (
+                        not txt or (sp.get("message") or "")[:60] == txt[:60]):
+                    graph.delete(sp["id"], tok)
+                    gone = True
+        except FacebookError as err:
+            errors.append(f"{name}: {err.short()}")
+        e["status"] = "cancelled" if gone else e.get("status")
+        out.append(f"- {name}: отложенный пост {'удалён' if gone else 'не найден'}")
+    if L.get("wp_id"):
+        try:
+            wp.delete_post(L["wp_id"], force=True)
+            out.append(f"- статья {L['wp_id']} удалена")
+        except WordPressError as err:
+            errors.append(f"статья {L['wp_id']}: {err}")
+    s.setdefault("dropped_langs", {})[lang] = s["langs"].pop(lang)
+    st.save()
+    if errors:
+        out.append("- ошибки: " + "; ".join(errors))
+    return "\n".join(out)
 
 
 def cmd_cancel_slot(cfg, key: str, services=None, tokens=None, state=None) -> int:
