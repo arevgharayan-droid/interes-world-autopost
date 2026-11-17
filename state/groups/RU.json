@@ -375,6 +375,7 @@
   "1138572272664180_122129089071306316": "2026-11-17T14:18:39+00:00",
   "1138572272664180_122129109753306316": "2026-11-17T18:00:16+00:00",
   "1138572272664180_122129111085306316": "2026-11-17T18:24:03+00:00",
+  "1138572272664180_122129120355306316": "2026-11-17T20:58:58+00:00",
   "1146158698570676_122129855847300293": "2026-11-16T17:08:12+00:00",
   "1146158698570676_122129865177300293": "2026-11-16T19:36:49+00:00",
   "1146158698570676_122129870625300293": "2026-11-16T22:05:37+00:00",
@@ -749,6 +750,7 @@
   "122129089041306316": "2026-11-17T12:39:27+00:00",
   "122129109723306316": "2026-11-17T18:00:16+00:00",
   "122129111061306316": "2026-11-17T18:24:03+00:00",
+  "122129120331306316": "2026-11-17T20:58:58+00:00",
   "122129855817300293": "2026-11-16T17:08:12+00:00",
   "122129865147300293": "2026-11-16T19:36:49+00:00",
   "122129870595300293": "2026-11-16T20:35:47+00:00",
@@ -8561,27 +8563,36 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129120355306316_1771183087292564",
+       "error": null,
        "last_attempt": "2026-11-18T00:58:53+04:00",
        "mode": "immediate",
-       "status": "sending"
+       "photo_id": "122129120331306316",
+       "post_id": "1138572272664180_122129120355306316",
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118227367471857_1017132021424965",
        "error": null,
        "last_attempt": "2026-11-18T00:58:43+04:00",
        "mode": "immediate",
        "photo_id": "122118227337471857",
        "post_id": "1338630212673029_122118227367471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121217809505599_1190969516947706",
        "error": null,
        "last_attempt": "2026-11-18T00:58:31+04:00",
        "mode": "immediate",
        "photo_id": "122121217785505599",
        "post_id": "1448441201677530_122121217809505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Minha sogra queria 100 mil dólares do meu bônus de 150 mil para comprar uma casa para a cunhada, e quando meu marido me deu um ultimato, eu liguei para a advogada",
@@ -8590,6 +8601,7 @@
      ],
      "wp_error": null,
      "wp_id": 343,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -8603,7 +8615,8 @@
      "pages": {
       "1008693642337213": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:48:16+04:00",
        "mode": "immediate",
        "photo_id": "122118607664640467",
@@ -8612,7 +8625,8 @@
       },
       "1018759874664543": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:56:45+04:00",
        "mode": "immediate",
        "photo_id": "122120433333294825",
@@ -8621,7 +8635,8 @@
       },
       "1036597159544783": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:56:27+04:00",
        "mode": "immediate",
        "photo_id": "122119777712642087",
@@ -8630,7 +8645,8 @@
       },
       "1038143956055997": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:52:41+04:00",
        "mode": "immediate",
        "photo_id": "122113155242600554",
@@ -8639,7 +8655,8 @@
       },
       "1042837395585806": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:51:41+04:00",
        "mode": "immediate",
        "photo_id": "122117480378623459",
@@ -8648,7 +8665,8 @@
       },
       "1051766924693580": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:53:09+04:00",
        "mode": "immediate",
        "photo_id": "122136888056733379",
@@ -8657,7 +8675,8 @@
       },
       "1066862079844179": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:54:03+04:00",
        "mode": "immediate",
        "photo_id": "122112107090596942",
@@ -8666,7 +8685,8 @@
       },
       "1069814529551887": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:57:21+04:00",
        "mode": "immediate",
        "photo_id": "122127381279303687",
@@ -8675,7 +8695,8 @@
       },
       "1075346445663696": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:57:02+04:00",
        "mode": "immediate",
        "photo_id": "122143538294775004",
@@ -8684,7 +8705,8 @@
       },
       "1075712068960532": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:55:22+04:00",
        "mode": "immediate",
        "photo_id": "122119105748628634",
@@ -8693,7 +8715,8 @@
       },
       "1084212424777390": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:49:44+04:00",
        "mode": "immediate",
        "photo_id": "122135301417300832",
@@ -8702,7 +8725,8 @@
       },
       "1092061600653020": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:52:11+04:00",
        "mode": "immediate",
        "photo_id": "122111796338588206",
@@ -8711,7 +8735,8 @@
       },
       "1097710383424105": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:56:08+04:00",
        "mode": "immediate",
        "photo_id": "122117079884343996",
@@ -8720,7 +8745,8 @@
       },
       "1098718609991464": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:55:45+04:00",
        "mode": "immediate",
        "photo_id": "122123533809297368",
@@ -8729,7 +8755,8 @@
       },
       "1113548795169055": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:50:14+04:00",
        "mode": "immediate",
        "photo_id": "122141868740773833",
@@ -8738,7 +8765,8 @@
       },
       "1117846738074068": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:50:43+04:00",
        "mode": "immediate",
        "photo_id": "122135874837311273",
@@ -8747,7 +8775,8 @@
       },
       "1118090254718709": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:54:32+04:00",
        "mode": "immediate",
        "photo_id": "122103750752556634",
@@ -8756,7 +8785,8 @@
       },
       "1125468037313193": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:51:12+04:00",
        "mode": "immediate",
        "photo_id": "122119996623295429",
@@ -8765,7 +8795,8 @@
       },
       "1125676667286378": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:49:15+04:00",
        "mode": "immediate",
        "photo_id": "122140751114737651",
@@ -8774,7 +8805,8 @@
       },
       "1146158698570676": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:53:35+04:00",
        "mode": "immediate",
        "photo_id": "122129970861300293",
@@ -8783,7 +8815,8 @@
       },
       "1167733113080371": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:55:00+04:00",
        "mode": "immediate",
        "photo_id": "122130315825307779",
@@ -8792,7 +8825,8 @@
       },
       "988042774402200": {
        "attempts": 1,
-       "error": null,
+       "comment_attempts": 1,
+       "error": "комментарий: FB 1/1446042: An unknown error occurred",
        "last_attempt": "2026-11-18T00:48:46+04:00",
        "mode": "immediate",
        "photo_id": "122135903816733774",
@@ -8806,6 +8840,7 @@
      ],
      "wp_error": null,
      "wp_id": 341,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "TR": {
@@ -8815,45 +8850,54 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124700503304633_2086763708710718",
        "error": null,
        "last_attempt": "2026-11-18T00:58:08+04:00",
        "mode": "immediate",
        "photo_id": "122124700479304633",
        "post_id": "1083701291497481_122124700503304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128019685311884_1934344327537278",
        "error": null,
        "last_attempt": "2026-11-18T00:57:39+04:00",
        "mode": "immediate",
        "photo_id": "122128019661311884",
        "post_id": "1129620776897151_122128019685311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127246915307134_1473167204779983",
        "error": null,
        "last_attempt": "2026-11-18T00:57:56+04:00",
        "mode": "immediate",
        "photo_id": "122127246891307134",
        "post_id": "1164575726728296_122127246915307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123780217305562_1199980932670743",
        "error": null,
        "last_attempt": "2026-11-18T00:58:20+04:00",
        "mode": "immediate",
        "photo_id": "122123780193305562",
        "post_id": "1180583925128715_122123780217305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Kayınvalidem 150 bin dolarlık ikramiyemin 100 bin dolarını kız kardeşine ev almak için istedi, kocam \"ya öde ya boşanalım\" deyince telefonu elime aldım",
      "warnings": [],
      "wp_error": null,
      "wp_id": 342,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "UK": {
@@ -8873,7 +8917,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-0036-ru.jpg"
    },
    "source_key": "post:100045261260562_1717835236401835",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
