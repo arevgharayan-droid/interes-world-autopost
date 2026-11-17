@@ -7054,6 +7054,7 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-17T14:47:47+04:00",
        "mode": "schedule",
