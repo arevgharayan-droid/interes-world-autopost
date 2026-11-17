@@ -5701,12 +5701,14 @@
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133685533436382_1838066383910316",
        "error": null,
        "last_attempt": "2026-11-17T16:34:31+04:00",
        "mode": "schedule",
        "photo_id": "122133685503436382",
        "post_id": "1268633826332790_122133685533436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Vier Jungen auf der Restauranttoilette, alle mit meinem Gesicht – fünfzehn Minuten vor meinem Heiratsantrag",
@@ -5863,7 +5865,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1800-nl.jpg"
    },
    "source_key": "post:100059505912199_1492825629377620",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
