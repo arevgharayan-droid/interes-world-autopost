@@ -1439,7 +1439,15 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-18T00:36:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/912209508_1717830836402275_5230747365267752180_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0A41ujAPAJgQ7kNvwHqzEJo&_nc_oc=AdoVSHn5jLOzAermaw5rWQWHQBi3Y-Vx0AjjGZciz1fSB_EL0b-7SmzaIzmfX6tnE-0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xnZ4q7K45985fsgfL3Uc3Q&_nc_tpa=Q5bMBQLI-_T9_Pt75kzHkKLc7QxeYgsxIGcqi4PjArbfYq1BOrw3eVedhQtLaz6UWwuwlmlaexrY3nSeJQ&oh=00_AQQG0rp69JUUwiptRGibGzyfqaoYvckyMlcSciaRkEaEKg&oe=6B027830",
+    "link": "https://www.facebook.com/share/p/1EC6Eiyygn/",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "My Dad Thought Stealing $386,000 From My Inheritance to Make My Sister Happy Would Leave Me Powerless. He Couldn't Have Been More Wrong. At the Lawyer's Office, a Thick Binder Was Set on the Table. “Your unauthorized transfers total $514,200,” My Attorney Announced. My Mother Turned Pale. My Sister Clutched Her House Keys. Dad Shouted, “This is family business!” I Smiled and Replied, “Then why is your lawyer telling you to stop talking?” What Happened Next Exposed Everything They'd Tried to Hide...\n\nOn my eighteenth birthday, my sister was given a house.\n\nI got a candle, a warning not to shed tears, and the shocking revelation that $386,000 of my inheritance had vanished.\n\nMy parents shared the news before we even reached dessert.\n\nMom tapped her champagne glass while Dad slid a blue folder toward Madison, my older sister.\n\nInside were pictures of a white farmhouse featuring a porch that wrapped around the building.\n\nMadison squealed, grabbed the keys, and hugged our parents enthusiastically.\n\n“Three bedrooms,” Mom said proudly. “And a garden for the children she'll have someday.”\n\nI stared at the photographs, struggling to comprehend what I was seeing.\n\n“How did you pay for it?”\n\nDad adjusted his cuff links.\n\nHe was a respected accountant who wouldn't hesitate to correct a waiter over a discrepancy of six cents.\n\n“We moved some money around.”\n\n“My grandmother's trust?”\n\nThe dining room fell silent.\n\nMom leaned toward me.\n\n“You're young. Your sister needs it more.”\n\nMadison, twenty-seven and newly engaged, casually twirled the keys around one finger.\n\n“Don't worry, Claire. You can visit.”\n\nGrandma had created the trust specifically to fund my education and secure my financial future.\n\nDad served as its trustee until I reached twenty-five.\n\nFor years, he'd insisted that the investments were off-limits.\n\nHe'd even dismissed the idea of buying me a used car as an unnecessary expense.\n\nBut somehow, purchasing an entire house for Madison was perfectly reasonable.\n\nApparently, my future could be sacrificed for her comfort.\n\nWhen I was fourteen, I'd asked Dad to contribute toward a summer science program.\n\nHe'd claimed Grandma would have wanted me to learn the value of making sacrifices.\n\nSo I washed dishes on weekends until I'd earned enough to cover half the tuition myself.\n\nThat same summer, Madison was rewarded with a brand-new SUV.\n\nI faced Dad.\n\n“You signed the papers?”\n\n“Yesterday. It's done.”\n\nA thin smile appeared on his face.\n\n“Let's not ruin your birthday.”\n\nI looked at the house keys before meeting Madison's eyes.\n\n“Keep them.”\n\nDad released a relieved breath, seemingly convinced I'd surrendered.\n\nInstead, I smiled.\n\n“You'll need them at the meeting.”\n\nMom frowned immediately.\n\n“What meeting?” Mom snapped.\n\n“The trust review on Thursday.”\n\nDad's fork struck his plate.\n\nFor one brief second, panic flashed across his face.\n\nThen he recovered, dismissing my comment by telling everyone I'd been reading too many legal websites.\n\nHe had no idea what I'd discovered six weeks earlier.\n\nHidden among Grandma's books was a letter containing the name of an attorney, Helena Ortiz.\n\nBeneath it, Grandma had written a clear instruction in her own handwriting:\n\nIf anyone claims the money doesn't belong to you, demand a complete accounting.\n\nHelena was the lawyer who'd helped Grandma establish the trust.\n\nDuring my first appointment, she'd explained something Dad had never told me.\n\nEven though he retained control over distributions until my twenty-fifth birthday, turning eighteen entitled me to request the trust's financial records.\n\nAnd the farmhouse wasn't the only suspicious expense Helena wanted me to investigate.\n\nI'd finally come to understand that respecting someone's privacy was very different from allowing them to hide financial misconduct.\n\nFor my eighteenth birthday, Dad had handed Madison the keys to a beautiful house.\n\nGrandma, however, had left me something considerably more valuable.\n\nThe legal right to demand answers about every single dollar that had disappeared.\n\n**--To be continued in C0mments 👇**"
+   },
+   "source_key": "post:100045261260562_1717891366396222",
+   "status": "preparing"
   },
   "2026-11-18 12:00": {
    "langs": {},
@@ -1473,6 +1481,10 @@
    "link": "https://www.facebook.com/share/p/1JihSRDE4s/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122231627036328214&id=61559846438723"
   },
+  "link:533c18c7214ea0a34daa": {
+   "link": "https://www.facebook.com/share/p/1EC6Eiyygn/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1717891366396222&id=100045261260562"
+  },
   "link:6e2c759799ee1e222422": {
    "link": "https://www.facebook.com/share/19kHXB99gM/",
    "resolved": "https://www.facebook.com/61587321322233/posts/122139843471244044/?rdid=XpVY3pLsOyBKt8ai&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19kHXB99gM%2F"
@@ -1488,6 +1500,14 @@
   "link:cd942f2a7f1785927bb2": {
    "link": "https://www.facebook.com/share/p/1KDxYrahMY/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1464940149068825&id=100066585605572"
+  },
+  "post:100045261260562_1717891366396222": {
+   "fingerprint": "b6aeb2690207251a5e7b",
+   "link": "https://www.facebook.com/share/p/1EC6Eiyygn/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-18 00:36",
+   "status": "reserved"
   },
   "post:100059505912199_1480124753981041": {
    "fingerprint": "a62a867050c94734098a",

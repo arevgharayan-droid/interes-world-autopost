@@ -7966,7 +7966,15 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-18T00:36:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/915146316_1718338983018127_36779560521544081_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=1&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ftIsUiFm3dEQ7kNvwFewHPw&_nc_oc=Adoy4x1k9GWHsCKu17EUfFZPflBbE6yBh-1xgG93s0Bit7_L8oCjDumm9U5WoKMTuOE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hp3xaDoIzduAbUqiKkvaZQ&_nc_tpa=Q5bMBQKxhJdUX1UZ-IxlPtxKG06KRlD-UMqQmTKqwGBAdo3K4CtbR_KAhrB0ATxRX0rURG5ha8hB5YDdjg&oh=00_AQRqKzyiW5aeSksvgkhitWTtWwFEp4aI0bjiaQbX5Wcp1w&oe=6B0274F4",
+    "link": "https://www.facebook.com/share/p/1MjzG8n2eU/",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "\"I left my six-week-old daughter with my ex-husband for just one afternoon so I could catch up on some desperately needed sleep. But four hours later, my elderly neighbor called in a panic and yelled, \"\"Get home right now! I've raised five children, and I've never seen a grown man do anything like this!\"\" \"\"Just four hours, Ryan,\"\" I told my ex-husband. \"\"That's all I need.\"\" He gave me a confident smile.\n\n\"\"Sarah, stop worrying. She's my daughter. I think I can manage a few hours without you.\"\"\n\nOur daughter, Rosie, was only six weeks old, and I couldn't remember the last time I'd slept for more than two hours straight. Ryan had repeatedly assured me that looking after his own baby wouldn't be a problem.\n\nEventually, I agreed to let him prove it.\n\nI drove to my sister's house, hoping to enjoy a peaceful afternoon and get some uninterrupted sleep.\n\nExactly eleven minutes after I arrived, my phone rang.\n\n\"\"Sarah, where do you keep the diapers?\"\"\n\n\"\"Under the changing table.\"\"\n\n\"\"Okay, but which drawer?\"\"\n\n\"\"The drawer with the big label that says DIAPERS, Ryan.\"\"\n\nThere was a pause.\n\n\"\"Oh. Yeah, I see them.\"\"\n\nNine minutes later, he called again.\n\n\"\"How am I supposed to tell when Rosie wants milk?\"\"\n\n\"\"Have you tried offering her a bottle?\"\"\n\n\"\"Oh. That's actually a good idea.\"\"\n\nA few minutes after that, another message appeared on my screen.\n\nRYAN: IF SHE SNEEZES, DOES THAT MEAN SHE'S TOO COLD?\n\nI immediately called him.\n\n\"\"Ryan, newborn babies sneeze. It's normal.\"\"\n\n\"\"Yeah, but she sneezed twice.\"\"\n\n\"\"She's allowed to sneeze more than once!\"\"\n\nMy sister finally snatched the phone out of my hand.\n\n\"\"Sarah, you came here to sleep, remember?\"\"\n\n\"\"I know,\"\" I sighed. \"\"But apparently, I'm still running a twenty-four-hour parenting hotline.\"\"\n\nBy the third hour, Ryan had developed an impressive collection of questions.\n\nCould a six-week-old baby get bored?\n\nWas there something wrong with Rosie because she kept staring at the ceiling fan?\n\nAnd, most importantly, was he permitted to make himself lunch while she was sleeping?\n\n\"\"Of course you can eat, Ryan!\"\"\n\n\"\"But what happens if she wakes up while I'm eating?\"\"\n\n\"\"You put your food down and take care of her.\"\"\n\n\"\"Seriously? That's a little unreasonable.\"\"\n\nDespite my exhaustion, I couldn't help laughing.\n\nThen, unexpectedly, everything went quiet.\n\nNo calls.\n\nNo messages.\n\nNo frantic questions about ordinary baby behavior.\n\nFor the first time all afternoon, I finally relaxed. I closed my eyes and managed to sleep peacefully for nearly an hour.\n\nUntil my phone started ringing again.\n\nStill half-asleep, I reached for it, expecting another ridiculous question from Ryan.\n\nBut the name on the screen made me sit up.\n\nMrs. Patterson.\n\nOur elderly next-door neighbor almost never called me.\n\nI answered, suddenly uneasy.\n\n\"\"Hello, Mrs. Patterson? Is everything okay?\"\"\n\nHer voice was shaking, and she was practically shouting.\n\n\"\"Sarah, you need to get back here immediately!\"\"\n\nMy heart began pounding.\n\n\"\"What's wrong? Is Rosie okay?\"\"\n\n\"\"I've raised five children of my own,\"\" she cried, \"\"and in all my years, I've NEVER seen a grown man do what your ex-husband just did!\"\"\n\nI was already reaching for my car keys. Full story in 1st comment \""
+   },
+   "source_key": "post:100045261260562_1718339016351457",
+   "status": "preparing"
   },
   "2026-11-18 12:00": {
    "langs": {},
@@ -8063,6 +8071,10 @@
   "link:6e0cedba874d6a3627c7": {
    "link": "https://www.facebook.com/share/p/14ubzzTD7h7/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1663836241786457&id=100044802900629"
+  },
+  "link:6e82dabfe51f1efeae1b": {
+   "link": "https://www.facebook.com/share/p/1MjzG8n2eU/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1718339016351457&id=100045261260562"
   },
   "link:8410de4bc754ac2276ee": {
    "link": "https://www.facebook.com/share/p/1DiAH4KpQi/",
@@ -8211,6 +8223,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-15 00:00",
    "status": "used"
+  },
+  "post:100045261260562_1718339016351457": {
+   "fingerprint": "abf2f6cb987588207400",
+   "link": "https://www.facebook.com/share/p/1MjzG8n2eU/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-18 00:36",
+   "status": "reserved"
   },
   "post:100059505912199_1499849995341850": {
    "fingerprint": "b452a2dd5bee0a800ce4",
