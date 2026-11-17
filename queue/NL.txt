@@ -75,3 +75,5 @@ https://www.facebook.com/share/p/1J6vmTe9zB/
 https://www.facebook.com/story.php?story_fbid=1492825629377620&id=100059505912199
 # 17.11.2026: 00:00 (18.11)
 https://www.facebook.com/share/p/19uqZyKz9H/
+# 18.11.2026: внеочередной ~00:37 («Сейчас»)
+https://www.facebook.com/share/p/1F7J12VTJS/
