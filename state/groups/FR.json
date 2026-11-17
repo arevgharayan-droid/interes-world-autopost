@@ -5925,6 +5925,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-18T00:36:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/912763805_1718131946372164_795106430304795749_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W2cqd_eQsxYQ7kNvwHNzaha&_nc_oc=AdqqR1bBFPLtENhvdCSvFooWYrdwAlVHAHUsJR_KrvDwEUX5FhQdyBePfi263Yic-nM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=YHsVRdXcp2bmpY5otUmdSw&_nc_tpa=Q5bMBQL0Zr3m9tvrD_s-3j3zai0CX3rhaMhF3US7oB9butWuox15_tAA5uCYWdaEtLhnKLxL3kJEJTN01A&oh=00_AQSl9e_Sh3mpgd4bnD_NdoFHCgc6JSI_fAzyfA8TEtYQ7A&oe=6B029EF6",
@@ -5936,7 +5937,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-0036-fr.jpg"
    },
    "source_key": "post:100045261260562_1718132079705484",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6199,7 +6200,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-18 00:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
