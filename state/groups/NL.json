@@ -5492,12 +5492,14 @@
       },
       "1210451145474950": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134821801306170_1168521489198432",
        "error": null,
        "last_attempt": "2026-11-17T15:02:45+04:00",
        "mode": "immediate",
        "photo_id": "122134821777306170",
        "post_id": "1210451145474950_122134821801306170",
-       "status": "published"
+       "status": "done"
       },
       "1239848699214091": {
        "attempts": 1,
@@ -5510,21 +5512,25 @@
       },
       "633031599904551": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122223336062930012_1184724247454385",
        "error": null,
        "last_attempt": "2026-11-17T15:01:27+04:00",
        "mode": "immediate",
        "photo_id": "122223336038930012",
        "post_id": "633031599904551_122223336062930012",
-       "status": "published"
+       "status": "done"
       },
       "715935674934966": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122203091900922316_1145977231240774",
        "error": null,
        "last_attempt": "2026-11-17T15:02:07+04:00",
        "mode": "immediate",
        "photo_id": "122203091876922316",
        "post_id": "715935674934966_122203091900922316",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mijn grote broer kwam me helpen verhuizen, maar zag hoe een zwarte band me bewusteloos wurgde. Zijn kalme woorden deden de hele zaal verstommen",
