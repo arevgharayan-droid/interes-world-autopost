@@ -28,6 +28,7 @@
   "9bfc8089323bc8a27bd2": "2026-11-17T10:38:06+00:00",
   "a98f523ba4a671831ff7": "2026-11-17T12:28:37+00:00",
   "ab12b39c82a984be6a9e": "2026-11-12T10:26:25+00:00",
+  "c9a6ba99d788dd7dac01": "2026-11-17T20:37:59+00:00",
   "d6bd11b26d8f92951091": "2026-11-17T17:51:51+00:00",
   "d82c6f49086c806cd686": "2026-11-14T19:47:28+00:00",
   "d90f86068fb546dde052": "2026-11-09T20:01:42+00:00",
@@ -7964,7 +7965,74 @@
   },
   "2026-11-18 00:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Left My 6-Week-Old Daughter With My Ex-Husband for Four Hours, Then Our Neighbor Screamed, \"Get Home Right Now!",
+     "warnings": [
+      "длина статьи 1068 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 599,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T00:36:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/915146316_1718338983018127_36779560521544081_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=1&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ftIsUiFm3dEQ7kNvwFewHPw&_nc_oc=Adoy4x1k9GWHsCKu17EUfFZPflBbE6yBh-1xgG93s0Bit7_L8oCjDumm9U5WoKMTuOE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hp3xaDoIzduAbUqiKkvaZQ&_nc_tpa=Q5bMBQKxhJdUX1UZ-IxlPtxKG06KRlD-UMqQmTKqwGBAdo3K4CtbR_KAhrB0ATxRX0rURG5ha8hB5YDdjg&oh=00_AQRqKzyiW5aeSksvgkhitWTtWwFEp4aI0bjiaQbX5Wcp1w&oe=6B0274F4",
@@ -7976,7 +8044,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-0036-en2.jpg"
    },
    "source_key": "post:100045261260562_1718339016351457",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -8238,7 +8306,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-18 00:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100059505912199_1499849995341850": {
    "fingerprint": "b452a2dd5bee0a800ce4",
