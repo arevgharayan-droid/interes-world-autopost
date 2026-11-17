@@ -5882,3 +5882,13 @@
 {"slot": "2026-11-18 00:36", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-17T20:47:11+00:00", "group": "NL"}
 {"slot": "2026-11-18 00:36", "lang": "NL", "action": "wp_post", "id": 608, "status": "publish", "t": "2026-11-17T20:47:12+00:00", "group": "NL"}
 {"slot": "2026-11-18 00:36", "lang": "DE", "action": "wp_post", "id": 609, "status": "publish", "t": "2026-11-17T20:47:13+00:00", "group": "NL"}
+{"slot": "2026-11-18 00:36", "lang": "EN", "page": "1235940142932696", "action": "fb_immediate", "photo_id": "122119263249408404", "post_id": "1235940142932696_122119263273408404", "t": "2026-11-17T20:47:13+00:00", "group": "EN"}
+{"slot": "2026-11-18 00:36", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-17T20:47:15+00:00", "group": "MIX"}
+{"slot": "2026-11-18 00:36", "lang": "ES", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-17T20:47:15+00:00", "group": "MIX"}
+{"slot": "2026-11-18 00:36", "lang": "RO", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-17T20:47:15+00:00", "group": "MIX"}
+{"slot": "2026-11-18 00:36", "lang": "AR", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-17T20:47:15+00:00", "group": "MIX"}
+{"slot": "2026-11-18 00:36", "lang": "FR", "page": "1202025962997153", "action": "fb_immediate", "photo_id": "122122161807409328", "post_id": "1202025962997153_122122161831409328", "t": "2026-11-17T20:47:18+00:00", "group": "FR"}
+{"slot": "2026-11-18 00:36", "lang": "RU", "action": "wp_post", "id": 337, "status": "publish", "t": "2026-11-17T20:47:20+00:00", "group": "MIX"}
+{"slot": "2026-11-18 00:36", "lang": "ES", "action": "wp_post", "id": 338, "status": "publish", "t": "2026-11-17T20:47:21+00:00", "group": "MIX"}
+{"slot": "2026-11-18 00:36", "lang": "RO", "action": "wp_post", "id": 339, "status": "publish", "t": "2026-11-17T20:47:22+00:00", "group": "MIX"}
+{"slot": "2026-11-18 00:36", "lang": "AR", "action": "wp_post", "id": 340, "status": "publish", "t": "2026-11-17T20:47:23+00:00", "group": "MIX"}

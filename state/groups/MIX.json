@@ -7,7 +7,10 @@
   "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
   "38255c46602154608a68": "2026-11-16T23:52:52+00:00",
   "3ad0d3d1145cd559adbb": "2026-11-17T12:28:51+00:00",
+  "43914945f65de17447f6": "2026-11-17T20:47:15+00:00",
+  "4790fa987cd605bce59b": "2026-11-17T20:47:15+00:00",
   "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
+  "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
   "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
@@ -16,6 +19,7 @@
   "9e9961bac78dda63c754": "2026-11-17T00:19:13+00:00",
   "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
   "ab007dd685935f2c3980": "2026-11-17T10:38:26+00:00",
+  "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
@@ -1437,7 +1441,93 @@
   },
   "2026-11-18 00:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "في عيد ميلادي الثامن عشر أهدى أبي أختي بيتًا كاملًا من ميراث جدتي، لكنه لم يتخيل أن جملة واحدة مني ستجعله يرتجف",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 340,
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi padre me robó 386.000 dólares de la herencia para regalarle una casa a mi hermana el día de mi cumpleaños, pero no sabía lo que yo ya había descubierto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 338,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La 18 ani, sora mea a primit o casă, iar eu o lumânare și vestea că tata îmi luase 386.000 de dolari, dar nu știa ce găsisem în cărțile bunicii",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 339,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "На восемнадцатилетие сестре подарили дом на деньги из моего наследства, но отец не знал, что бабушка оставила мне письмо и имя адвоката",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 337,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T00:36:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/912209508_1717830836402275_5230747365267752180_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0A41ujAPAJgQ7kNvwHqzEJo&_nc_oc=AdoVSHn5jLOzAermaw5rWQWHQBi3Y-Vx0AjjGZciz1fSB_EL0b-7SmzaIzmfX6tnE-0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xnZ4q7K45985fsgfL3Uc3Q&_nc_tpa=Q5bMBQLI-_T9_Pt75kzHkKLc7QxeYgsxIGcqi4PjArbfYq1BOrw3eVedhQtLaz6UWwuwlmlaexrY3nSeJQ&oh=00_AQQG0rp69JUUwiptRGibGzyfqaoYvckyMlcSciaRkEaEKg&oe=6B027830",
@@ -1449,7 +1539,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-0036-mix.jpg"
    },
    "source_key": "post:100045261260562_1717891366396222",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1515,7 +1605,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-18 00:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100059505912199_1480124753981041": {
    "fingerprint": "a62a867050c94734098a",
