@@ -1226,7 +1226,8 @@ def cmd_comment_try(cfg, g: str, key: str, lang: str, page_id: str) -> int:
     graph = Graph(cfg.graph_version)
     paras = txt.split("\n\n")
     half = "\n\n".join(paras[: max(2, len(paras) // 2)])
-    variants = [("полный", f"{txt}\n{link}"), ("половина", f"{half}…\n{link}"),
+    no_outro = "\n\n".join(paras[:-2] + paras[-1:]) if len(paras) > 2 else txt
+    variants = [("без строки «лайк и „Да“»", f"{no_outro}\n{link}"), ("половина", f"{half}…\n{link}"),
                 ("только ссылка", f"{paras[-1] if paras else ''}\n{link}")]
     out = [f"## Проба комментария: {page_id} ({cfg.group_label(g)} {key} {lang})", "",
            f"- пост: {e.get('post_id')} · фото: {e.get('photo_id')} · текст {len(txt)} знаков"]
