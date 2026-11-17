@@ -56,6 +56,8 @@
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
   "d4aa094230f5d5c483b0": "2026-11-16T00:16:52+00:00",
   "dcf04943e849a446709a": "2026-11-16T19:28:25+00:00",
+  "e2b93dcc96be27aa58cc": "2026-11-17T12:28:57+00:00",
+  "e35a5edbfd125f0de5e7": "2026-11-17T12:28:57+00:00",
   "e3d10d7308b19870ee32": "2026-11-16T16:00:57+00:00",
   "ebc91716c611bd42ee20": "2026-11-09T20:07:46+00:00",
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
@@ -5602,7 +5604,83 @@
    }
   },
   "2026-11-17 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vier Jungen auf der Restauranttoilette, alle mit meinem Gesicht – fünfzehn Minuten vor meinem Heiratsantrag",
+     "warnings": [
+      "длина текста FB 1367 слов (исходник 1169, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 570,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vijftien minuten voor mijn aanzoek zag ik vier jongetjes die sprekend op mij leken, en toen kwam hun moeder binnen",
+     "warnings": [
+      "длина текста FB 1406 слов (исходник 1169, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 569,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-17T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/890671758_1492825559377627_7239645192743586783_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=F0gDDhBdsrYQ7kNvwEAMWdF&_nc_oc=Adq4vqTTysxk4-xSHZDyZxmvGWVKnnsQL5JU7lGq8B--MBa2Yhm7mC2egDd7hiSzT6U&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=CSrb9kGmAlbyb-s-2ljnEA&_nc_tpa=Q5bMBQJJYPykhjvdwHJGBxo6cJhonc7LqJyzkkXqlsu-LnCLZ0wt2XNRt98Pstw3dmfXWM2phrilxGwp2Q&oh=00_AQS0tlkdBYKfwXojh9PlIcHn0cBv8zx8atvlZTbjC6K3Gg&oe=6B021AC8",
@@ -5614,7 +5692,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261117-1800-nl.jpg"
    },
    "source_key": "post:100059505912199_1492825629377620",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -5868,7 +5946,7 @@
    "origin": "manual",
    "page_id": "100059505912199",
    "slot": "2026-11-17 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1599735255518336": {
    "fingerprint": "c319c595abd42758fc88",
