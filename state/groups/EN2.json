@@ -7446,7 +7446,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-11-17T16:28:53+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "I Married a Prisoner for $2,000 a Month, But Three Years Later He Put a Black Box in Front of Me and Said It Was Time for the Truth",
      "warnings": [
       "длина текста FB 1118 слов (исходник 928, цель ±10%)"

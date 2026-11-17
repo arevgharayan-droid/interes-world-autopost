@@ -3,8 +3,11 @@
  "output_fps": {
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
+  "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
   "38255c46602154608a68": "2026-11-16T23:52:52+00:00",
+  "3ad0d3d1145cd559adbb": "2026-11-17T12:28:51+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
+  "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
@@ -15,6 +18,7 @@
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e3404d19673afcbaa7f8": "2026-11-16T19:28:27+00:00",
+  "e53caf42617e72941741": "2026-11-17T12:28:51+00:00",
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
   "fa38d523740b3642a359": "2026-11-17T10:38:26+00:00",
   "ff32133b1d57816b36e8": "2026-11-17T10:38:26+00:00"
@@ -956,7 +960,93 @@
    }
   },
   "2026-11-17 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "حكم عليّ زوجي بالسجن خمسة وعشرين عامًا ليستولي على المليارات، لكن حين ابتسمتُ في وجهه أدرك أن سرًّا واحدًا سيهدم خطته الكاملة",
+     "warnings": [
+      "часть 3: 404 слов"
+     ]
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi marido me envió a prisión por 25 años y se quedó con miles de millones, pero sonreí al oír mi condena porque él no sabía el secreto que me iba a salvar",
+     "warnings": [
+      "часть 1: 733 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 306,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Soțul m-a trimis la închisoare pentru 25 de ani ca să-mi ia miliardele, dar când am cerut cuvântul în sala de judecată, zâmbetul i-a dispărut de pe față",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 307,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Муж отправил меня за решётку на 25 лет и забрал миллиарды, но в день этапирования я улыбнулась ему и произнесла имя, от которого он побледнел",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 305,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-17T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/860039217_1480124673981049_2110798640595827576_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W6wgRFMl8DwQ7kNvwFwNC7l&_nc_oc=Adr34SbFOblPOy-T47YU-d2YO1-0kIU01kzP4lJ7x5zGiguldsRyrdiCerh2SSglxdk&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=UwRnEIJb2I9J04zTrBkFBQ&_nc_tpa=Q5bMBQJHoznBmb2Y_lRnzdkfeiaRTWrvD2azR1AAzRDSIi_Kk9YjDKO0s-gGD8MaifP816og6UWEp8c-VQ&oh=00_AQSYG_yDScI9XUHT46OLNAO_XpH6gWkgqycB1ku7c-QXrw&oe=6B02058A",
