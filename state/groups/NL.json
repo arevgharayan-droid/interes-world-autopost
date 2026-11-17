@@ -5375,6 +5375,10 @@
    "link": "https://www.facebook.com/share/p/1HyUsvbdEW/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122141365077234406&id=61587032195586"
   },
+  "link:1393642cc6c21f84ade6": {
+   "link": "https://www.facebook.com/share/p/1cq9YNcaCb/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1143895618399306&id=100083366355470"
+  },
   "link:1e0d1f334da9a1d7c7a5": {
    "link": "https://www.facebook.com/share/1LEhrNw2yK/",
    "resolved": "https://www.facebook.com/61590888316979/posts/122157060381362943/?rdid=6v4N6jkcdyPO1Bxh&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1LEhrNw2yK%2F"
@@ -5590,6 +5594,11 @@
    "page_id": "100083098754330",
    "slot": "2026-11-12 00:00",
    "status": "used"
+  },
+  "post:100083366355470_1143895618399306": {
+   "error": "эта история уже публиковалась",
+   "link": "https://www.facebook.com/share/p/1cq9YNcaCb/",
+   "status": "skipped"
   },
   "post:1011074408765807_122101695644536431": {
    "fingerprint": "e20728e7a596426a0fae",

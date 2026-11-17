@@ -8483,7 +8483,15 @@
   "2026-11-17 15:00": {
    "langs": {},
    "slot_iso": "2026-11-17T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t39.30808-6/899544225_1137476912374510_9164957427531413311_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lBF6iXRAs4sQ7kNvwGqA1CW&_nc_oc=Adolctbid37ixkOVyma6i7slWwK8hGxoxknygZVMQUFJUETyyjIM_bc4BYwXR2t6HU8&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=l_PPBsBsSkJ3d4wX5od8MA&_nc_tpa=Q5bMBQKfiKkHmxADalxEn8On-xoKx1CNqWpjEUmguvtIuFHmj9EiUY0H4GXFxrH6_JkJsQrNrKrS6FxEYg&oh=00_AQQNufNIxDGZrEQH0JyTOgK-UB6i3E5WiN57jj4Ej90VWw&oe=6B021594",
+    "link": "https://www.facebook.com/share/p/1P13dH2A1C/",
+    "origin": "manual",
+    "page_id": "100083366355470",
+    "text": "Mon fils de 14 ans a laissé pousser ses cheveux pour offrir une perruque à son amie, qui avait perdu les siens à cause d’un cancer. Mais le lendemain, l’école m’a convoquée. Le père de la jeune fille m’attendait dans le bureau du directeur. En me voyant, il a demandé : « Vous savez vraiment ce que votre fils a fait ? »\n\nEthan et Lily se connaissaient depuis l’école primaire. Ils avaient grandi ensemble. À quatorze ans, ils étaient toujours aussi proches.\n\nPuis Lily est tombée malade.\n\nAprès ses premières séances de chimiothérapie, elle a commencé à perdre ses cheveux. Elle ne quittait plus son bonnet et refusait désormais les photos.\n\nEthan faisait semblant de ne pas être inquiet, mais je voyais bien qu’il l’était.\n\nUn soir, alors que je lui proposais de prendre rendez-vous chez le coiffeur, il a secoué la tête.\n\n— Je vais les laisser pousser, maman.\n\n— Pourquoi ?\n\n— Pour Lily. Je veux qu’elle puisse se regarder dans le miroir et se reconnaître.\n\nJ’ai eu du mal à retenir mes larmes.\n\nPendant des mois, mon fils a tenu bon. Certains camarades se moquaient de sa coiffure. Il rentrait parfois contrarié, mais jamais il ne m’a demandé de lui couper les cheveux.\n\nQuand ils ont enfin atteint la longueur nécessaire, une association nous a orientés vers un atelier spécialisé.\n\nJe l’ai accompagné le jour de la coupe.\n\nEn regardant tomber ses longues mèches, j’étais persuadée de connaître toute l’étendue de sa générosité.\n\nQuelques semaines plus tard, Lily a reçu sa perruque.\n\nElle l’a regardée sans parler, puis s’est jetée dans les bras d’Ethan en pleurant. Ce soir-là, mon fils est rentré avec un sourire que je ne lui avais pas vu depuis longtemps.\n\nJe pensais que tout s’arrêtait là.\n\nMais le lendemain matin, mon téléphone a sonné.\n\n— Madame ? Ici M. Harrison, le directeur. Pourriez-vous venir rapidement ? Le père de Lily souhaite vous parler.\n\nSa voix m’a inquiétée.\n\n— Ethan a des ennuis ?\n\nIl a hésité.\n\n— Il vaut mieux que vous veniez.\n\nDix minutes plus tard, je traversais le parking de l’école, le cœur battant.\n\nJe connaissais peu les parents de Lily. Ils étaient réservés. J’avais parfois eu l’impression que leur silence cachait une certaine méfiance envers Ethan.\n\nEt si son cadeau les avait blessés ?\n\nDans le bureau, mon fils était assis au bord d’une chaise, les mains crispées. Le père de Lily se tenait juste à côté.\n\nJ’ai essayé de sourire.\n\n— C’est à propos de la perruque ?\n\nL’homme a regardé Ethan.\n\n— Tu ne lui as toujours rien raconté ?\n\nMon fils a baissé les yeux.\n\nMon sourire a disparu.\n\n— Me raconter quoi ?\n\nLe père de Lily a inspiré profondément.\n\n— Vous n’avez pas la moindre idée de ce que votre fils a fait, n’est-ce pas ?\n\nPuis il s’est tourné vers lui :\n\n— Ethan, dis la vérité à ta mère. Sinon, je vais devoir le faire.\n\nJ’ai cherché le regard de mon fils.\n\nIl tremblait.\n\n— Maman… laisse-moi t’expliquer.\n\nÀ cet instant, j’ai compris que cette perruque cachait quelque chose que personne n’avait pensé à me dire.\n\nÉcrivez « Oui » si vous souhaitez découvrir la suite.\n\nL’histoire complète se trouve dans le premier commentaire ci-dessous. 👇"
+   },
+   "source_key": "post:100083366355470_1137476969041171",
+   "status": "preparing"
   },
   "2026-11-17 18:00": {
    "langs": {},
@@ -8608,6 +8616,10 @@
   "link:c77863f8690a084b8f05": {
    "link": "https://www.facebook.com/share/p/1HJEJmhztx/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122139490280778778&id=61573363363721"
+  },
+  "link:cba7acd3f8dcf6ff5511": {
+   "link": "https://www.facebook.com/share/p/1P13dH2A1C/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1137476969041171&id=100083366355470"
   },
   "link:cda9ae1bda299ab01b82": {
    "link": "https://www.facebook.com/share/1CL6btDS8D/",
@@ -8740,6 +8752,14 @@
    "page_id": "100066730531753",
    "slot": "2026-11-12 00:00",
    "status": "used"
+  },
+  "post:100083366355470_1137476969041171": {
+   "fingerprint": "90775bfede33c7ed9cd6",
+   "link": "https://www.facebook.com/share/p/1P13dH2A1C/",
+   "origin": "manual",
+   "page_id": "100083366355470",
+   "slot": "2026-11-17 15:00",
+   "status": "reserved"
   },
   "post:100092328442705_1078152595272345": {
    "fingerprint": "364e0f21d006d36fc581",
