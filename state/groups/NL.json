@@ -5368,7 +5368,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1208422892355505": {
+       "attempts": 1,
+       "last_attempt": "2026-11-17T15:06:09+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Er hielt den Würgegriff weiter, obwohl ich abgeklopft hatte – dann trat mein schweigsamer Bruder auf die Matte",
      "warnings": [],
      "wp_error": null,
