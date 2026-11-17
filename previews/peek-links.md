@@ -1,9 +1,9 @@
 ## Ссылки: что внутри
 
-1. ❌ ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '100059505912199' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
-2. ❌ ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '100083602895430' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
-3. ❌ ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '61572021954882' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
-4. ❌ ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '100059505912199' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
-5. ❌ ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '100059505912199' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
-6. ❌ ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '100059505912199' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
-7. ❌ ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '100059505912199' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+1. (RU, 5102 знаков) «Муж отправил меня за решётку на 25 лет и завладел миллиардами. Но одна тайна разрушила его идеальный план — Долго ещё будет продолжаться этот спектакл…»
+2. (RU, 3044 знаков) «После 64 лет брака мой муж оставил всё своё состояние и наш семейный дом детям. Мне же достались лишь старый ржавый ящик с инструментами, 64 розы и го…»
+3. (RU, 2032 знаков) «😱💦 мама всегда предупреждала нас: «никогда не ходите в бассейн с дедушкой одни». но однажды дедушка отвёл нас в самую глубокую часть бассейна и сказал…»
+4. (RU, 8643 знаков) «"За четверть часа до того, как я должен был попросить руки богатой наследницы, в туалете престижного ресторана мне встретились четверо шестилетних мал…»
+5. (RU, 9375 знаков) «Через 45 лет после расставания я вновь встретил свою первую любовь и женился на ней, чтобы исполнить её последнюю мечту. Спустя несколько дней её не с…»
+6. (RU, 9249 знаков) «"В день нашего развода я без колебаний перечислил жене 150 миллионов долларов и произнёс: «Считай это платой за семь лет брака. Забирай деньги и исчез…»
+7. (RU, 6544 знаков) «Я вышла замуж за заключённого ради двух тысяч долларов в месяц. Но спустя три года, когда его признали невиновным и выпустили на свободу, он пришёл ко…»
