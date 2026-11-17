@@ -770,6 +770,8 @@ def cmd_ops(cfg, args) -> int:
         return 0
     if cmd == "comment-try":
         return cmd_comment_try(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""), a.get("page", ""))
+    if cmd == "comment-split":
+        return cmd_comment_split(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""), a.get("page", ""))
     if cmd == "comment-fix":
         # исправить уже поставленный первый комментарий: полный текст части 2 без строки «лайк и Да» + ссылка
         from .pipeline import _without_outro
@@ -1227,6 +1229,41 @@ def cmd_comment_diag(cfg, g: str, key: str, lang: str) -> int:
     except (OSError, ValueError) as e:
         out.append(f"- текст комментария: {e}")
     summary("\n".join(out) + "\n", "previews/comment-diag.md", cfg)
+    return 0
+
+
+def cmd_comment_split(cfg, g: str, key: str, lang: str, page_id: str) -> int:
+    """Проба на ОДНОЙ странице: часть 2 комментарием без ссылки, ссылка — ответом под ним («ЧАСТЬ 3» + ссылка)."""
+    from .pipeline import _without_outro
+    st = State(config_mod.group_state_path(cfg, g))
+    s = st.slots.get(key) or {}
+    L = (s.get("langs") or {}).get(lang) or {}
+    e = (L.get("pages") or {}).get(page_id) or {}
+    site = s.get("wp_site") or config_mod.site_for(cfg.settings, g)
+    link = (site.get("comment_link_format") or "").format(wp_id=L.get("wp_id"))
+    txt = json.loads(cfg.path(f"content/{key[:10]}/{g}/{key[11:13]}{key[14:16]}-{lang}.json")
+                     .read_text(encoding="utf-8")).get("comment_text", "")
+    paras = txt.split("\n\n")
+    body, part3 = "\n\n".join(paras[:-1]), paras[-1]
+    tok = load_tokens(cfg).get(page_id)
+    graph = Graph(cfg.graph_version)
+    out = [f"## Проба: часть 2 без ссылки + ссылка ответом ({page_id})", ""]
+    try:
+        c = graph.comment(e["post_id"], tok, body)
+        out.append(f"- ✅ часть 2 без ссылки: {c.get('id')}")
+        try:
+            r = graph.comment(c["id"], tok, f"{part3}\n{link}")
+            out.append(f"- ✅ ответ со ссылкой: {r.get('id')}")
+        except FacebookError as err:
+            out.append(f"- ❌ ответ со ссылкой: {err.short()}")
+    except FacebookError as err:
+        out.append(f"- ❌ часть 2 без ссылки: {err.short()}")
+        try:
+            c = graph.comment(e["post_id"], tok, _without_outro(f"{body}\n\n{part3}\n{link}"))
+            out.append(f"- ✅ (для сравнения) без строки «лайк»: {c.get('id')}")
+        except FacebookError as err2:
+            out.append(f"- ❌ (для сравнения) без строки «лайк»: {err2.short()}")
+    summary("\n".join(out) + "\n", "previews/comment-split.md", cfg)
     return 0
 
 
