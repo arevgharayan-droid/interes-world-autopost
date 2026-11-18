@@ -9076,30 +9076,39 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129170131306316_1091520027194577",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
        "error": null,
        "last_attempt": "2026-11-18T13:08:56+04:00",
        "mode": "immediate",
        "photo_id": "122129170107306316",
        "post_id": "1138572272664180_122129170131306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118358707471857_1759376475617168",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
        "error": null,
        "last_attempt": "2026-11-18T13:08:38+04:00",
        "mode": "immediate",
        "photo_id": "122118358683471857",
        "post_id": "1338630212673029_122118358707471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121340569505599_1635703248039054",
+       "comment_variant": "только «ЧАСТЬ 3» и ссылка",
        "error": null,
        "last_attempt": "2026-11-18T13:08:22+04:00",
        "mode": "immediate",
        "photo_id": "122121340545505599",
        "post_id": "1448441201677530_122121340569505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "O namorado da minha mãe chamou soldados para me ensinar disciplina e me mandou ficar na cozinha, mas quando entrei na sala de farda, ele ficou pálido",
@@ -9108,6 +9117,7 @@
      ],
      "wp_error": null,
      "wp_id": 348,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -9376,12 +9386,14 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124755319304633_2211757329738051",
        "error": null,
        "last_attempt": "2026-11-18T13:07:47+04:00",
        "mode": "immediate",
        "photo_id": "122124755295304633",
        "post_id": "1083701291497481_122124755319304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
@@ -9397,21 +9409,24 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127292713307134_1453764420259730",
        "error": null,
        "last_attempt": "2026-11-18T13:07:25+04:00",
        "mode": "immediate",
        "photo_id": "122127292689307134",
        "post_id": "1164575726728296_122127292713307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123823567305562_1910126003307865",
        "error": null,
        "last_attempt": "2026-11-18T13:08:05+04:00",
        "mode": "immediate",
        "photo_id": "122123823543305562",
        "post_id": "1180583925128715_122123823567305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Annemin sevgilisi bana ders vermesi için askerleri eve çağırıp beni mutfağa kapattı, ama üniformamla salona girince içlerinden biri bağırdı ve adamın yüzü bembeyaz oldu",
@@ -9440,7 +9455,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-1250-ru.jpg"
    },
    "source_key": "post:61559846438723_122236091870328214",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
