@@ -6742,7 +6742,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "633031599904551": {
+       "attempts": 1,
+       "last_attempt": "2026-11-18T19:24:10+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Twintig jaar lang geloofde ik haar leugen, tot ik op haar verjaardag hoorde wat mijn adoptiemoeder in de keuken zei",
      "warnings": [
       "длина текста FB 636 слов (исходник 804, цель ±10%)"

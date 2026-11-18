@@ -6331,3 +6331,11 @@
 {"slot": "2026-11-18 19:22", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 627 слов (исходник 804, цель ±10%)"], "t": "2026-11-18T15:23:57+00:00", "group": "NL"}
 {"slot": "2026-11-18 19:22", "lang": "NL", "action": "wp_post", "id": 629, "status": "publish", "t": "2026-11-18T15:23:58+00:00", "group": "NL"}
 {"slot": "2026-11-18 19:22", "lang": "DE", "action": "wp_post", "id": 630, "status": "publish", "t": "2026-11-18T15:23:59+00:00", "group": "NL"}
+{"slot": "2026-11-18 19:22", "lang": "EN", "page": "233545296514172", "action": "fb_immediate", "photo_id": "122337129986241259", "post_id": "233545296514172_122337130010241259", "t": "2026-11-18T15:24:04+00:00", "group": "EN2"}
+{"slot": "2026-11-18 19:22", "lang": "EN", "page": "1165836896614851", "action": "fb_immediate", "photo_id": "122145466107384677", "post_id": "1165836896614851_122145466131384677", "t": "2026-11-18T15:24:09+00:00", "group": "EN"}
+{"slot": "2026-11-18 19:22", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 411 слов (исходник 485, цель ±10%)"], "t": "2026-11-18T15:24:10+00:00", "group": "IT"}
+{"slot": "2026-11-18 19:22", "lang": "PL", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 390 слов (исходник 485, цель ±10%)"], "t": "2026-11-18T15:24:10+00:00", "group": "IT"}
+{"slot": "2026-11-18 19:22", "lang": "CS", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 337 слов (исходник 485, цель ±10%)"], "t": "2026-11-18T15:24:10+00:00", "group": "IT"}
+{"slot": "2026-11-18 19:22", "lang": "IT", "action": "wp_post", "id": 631, "status": "publish", "t": "2026-11-18T15:24:11+00:00", "group": "IT"}
+{"slot": "2026-11-18 19:22", "lang": "PL", "action": "wp_post", "id": 632, "status": "publish", "t": "2026-11-18T15:24:12+00:00", "group": "IT"}
+{"slot": "2026-11-18 19:22", "lang": "CS", "action": "wp_post", "id": 633, "status": "publish", "t": "2026-11-18T15:24:13+00:00", "group": "IT"}
