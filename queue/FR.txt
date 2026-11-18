@@ -83,3 +83,5 @@ https://www.facebook.com/share/p/1FDhu3xjkL/
 https://www.facebook.com/share/p/19jBvC48qT/
 # 19.11.2026: внеочередной («Сейчас», сообщение 02:18)
 https://www.facebook.com/story.php?story_fbid=122140404362778778&id=61573363363721
+# 19.11.2026: 12:00
+https://www.facebook.com/story.php?story_fbid=1719129089605783&id=100045261260562
