@@ -13,6 +13,7 @@
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
+  "45d99698e588bacd7f5c": "2026-11-18T08:52:43+00:00",
   "499bb9b863a39969c565": "2026-11-17T20:38:41+00:00",
   "4d09f6c7134467d99fa5": "2026-11-16T23:51:59+00:00",
   "52860ad6d022a2bd90ef": "2026-11-17T10:38:47+00:00",
@@ -25,6 +26,7 @@
   "628ca1701fa9d7a8990a": "2026-11-16T16:01:05+00:00",
   "66a2647af0e1f8e411ad": "2026-11-17T20:38:41+00:00",
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
+  "69bae5bbd4e359b27b2a": "2026-11-18T08:52:43+00:00",
   "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
   "75900c4b74075115b0dc": "2026-11-15T10:15:15+00:00",
   "79641c4c501a7a4cbbf6": "2026-11-16T00:18:19+00:00",
@@ -37,6 +39,7 @@
   "8af2ac126626c3379771": "2026-11-10T22:07:11+00:00",
   "8ce4da47da5cb5603868": "2026-11-17T10:38:47+00:00",
   "8d6dd84f3fd108530c61": "2026-11-14T09:18:15+00:00",
+  "8dcd9b38604c3a494e89": "2026-11-18T08:52:43+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
@@ -10277,7 +10280,90 @@
   },
   "2026-11-18 12:50": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Naše miminko poprvé letělo s tátou jako pilotem, ale když ji přes hlášení představil, zlomil mi srdce",
+     "warnings": [
+      "длина текста FB 664 слов (исходник 830, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 622,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mio marito, il comandante, ha presentato nostra figlia ai passeggeri del suo primo volo, ma ha ringraziato un'altra donna davanti a tutti",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 620,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nasza 9-miesięczna córeczka poleciała pierwszy raz samolotem z tatą za sterami, ale gdy przedstawiał ją pasażerom, jego słowa złamały mi serce",
+     "warnings": [
+      "длина текста FB 681 слов (исходник 830, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 621,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T12:50:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/911033532_1462195252761222_7892904531144615995_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AQ5aUJwHgZ4Q7kNvwGYbAR4&_nc_oc=AdpyrjMG7rOGCXmpn0qzfkiLPmTBi09v4wwo6ZlwiDHRV42LGDnF-XrUrY7H4JLNhFM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=AyC-KIbk5sC34PcMiMYHiQ&_nc_tpa=Q5bMBQLIZPr-mO2FIjdLFkyXTrXUTHvSlHBp50RPCaau_DJAmlT6n-PM-qwf7LItyqUQoQtE7JUQkFTEXA&oh=00_AQR6bjrKHeGKRUc9QP4ssbTdTYX8pVvnM819D8xKUeXyrg&oe=6B033F51",
@@ -10289,7 +10375,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-1250-it.jpg"
    },
    "source_key": "post:100069122846749_1462195259427888",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -10603,7 +10689,7 @@
    "origin": "manual",
    "page_id": "100069122846749",
    "slot": "2026-11-18 12:50",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100083366355470_1137476969041171": {
    "fingerprint": "90775bfede33c7ed9cd6",

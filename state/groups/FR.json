@@ -6116,6 +6116,12 @@
        "photo_id": "122122219107409328",
        "post_id": "1202025962997153_122122219131409328",
        "status": "published"
+      },
+      "1250374694822508": {
+       "attempts": 1,
+       "last_attempt": "2026-11-18T12:52:45+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "Ma fille a hurlé à 3 h 07 à cause d'un « serpent » sous le canapé, et quand le voisin a braqué sa lampe, sa main s'est mise à trembler",
