@@ -770,6 +770,22 @@ def cmd_ops(cfg, args) -> int:
         return 0
     if cmd == "comment-try":
         return cmd_comment_try(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""), a.get("page", ""))
+    if cmd == "raw-post":
+        # что Facebook отдаёт по чужому посту (для разбора «нет текста или фото») — только чтение
+        graph = Graph(cfg.graph_version)
+        tokens = load_tokens(cfg)
+        tok = tokens.get(cfg.fallback_source_page_id) or next(iter(tokens.values()))
+        out = ["## Сырые данные постов", ""]
+        for pid in a.get("posts") or []:
+            try:
+                d = graph.get(pid, tok, fields="id,message,full_picture,status_type,story,created_time,"
+                              "attachments{media_type,type,title,description,media,target,subattachments.limit(3){media,type}}")
+                d["message"] = (d.get("message") or "")[:300]
+                out.append(f"- {pid}: ```{json.dumps(d, ensure_ascii=False)[:1500]}```")
+            except FacebookError as e:
+                out.append(f"- {pid}: ❌ {e.short()}")
+        summary("\n".join(out) + "\n", "previews/raw-post.md", cfg)
+        return 0
     if cmd == "comment-split":
         return cmd_comment_split(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""), a.get("page", ""))
     if cmd == "comment-fix":
