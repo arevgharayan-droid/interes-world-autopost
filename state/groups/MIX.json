@@ -8,10 +8,12 @@
   "38255c46602154608a68": "2026-11-16T23:52:52+00:00",
   "3ad0d3d1145cd559adbb": "2026-11-17T12:28:51+00:00",
   "3be42401c3e6342622c4": "2026-11-18T08:52:49+00:00",
+  "41a87afdd7d64f5cd23b": "2026-11-18T15:24:21+00:00",
   "43914945f65de17447f6": "2026-11-17T20:47:15+00:00",
   "4790fa987cd605bce59b": "2026-11-17T20:47:15+00:00",
   "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
+  "70c05379b999f4d41de6": "2026-11-18T15:24:21+00:00",
   "7599ebffd8f3d4caa6ef": "2026-11-18T08:52:49+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
   "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
@@ -32,7 +34,9 @@
   "e3404d19673afcbaa7f8": "2026-11-16T19:28:27+00:00",
   "e53caf42617e72941741": "2026-11-17T12:28:51+00:00",
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
+  "eb19c503b19e6605601a": "2026-11-18T15:24:21+00:00",
   "fa38d523740b3642a359": "2026-11-17T10:38:26+00:00",
+  "fad065ee1746d78e40db": "2026-11-18T15:24:21+00:00",
   "ff32133b1d57816b36e8": "2026-11-17T10:38:26+00:00"
  },
  "outputs": {
@@ -1900,7 +1904,93 @@
   },
   "2026-11-18 19:22": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "في يوم زفافي دخل صديق أمي الجندي القاعة مرتدياً فستاناً قرمزياً، ثم وضع في يدي ظرفاً قديماً وقال إن أمي أوصته بتسليمه لي اليوم",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 358,
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi madre murió en Irak, y el día de mi boda un amigo suyo apareció con un vestido rojo carmesí y me puso en las manos un sobre que ella le hizo prometer entregarme",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 356,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La nunta mea, prietenul din armată al mamei a apărut într-o rochie roșu-carmin și mi-a pus în mână un plic vechi, pe care mama îl pregătise cu ani în urmă",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 357,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Мама погибла в Ираке, а в день моей свадьбы её друг по армии вошёл в алом платье и вручил мне конверт с тем, о чём она молчала годами",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 355,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T19:22:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/916952919_122141158017244044_8202719375325469053_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=d7ue4pqvCgEQ7kNvwGdeUHq&_nc_oc=AdpVH99dnl3bg3ZPGlXycSlX8mYCaZAnO5Xxn_oUg6pGBm8oL--vuAh3ImUR8FIc5qk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=D_5UtWiGAKxUbP1GVcOu5g&_nc_tpa=Q5bMBQLMKhyd9a_ZBXlvLOqUwdPl5YvKerXsPWJ_CfhAop2vASKJJqcZRZvClvBMl4ZwWD4dB5j_fwZMjA&oh=00_AQQH7ZUQOVBENSbwDoBT1IAPpI5noMpuwo5yZwD0eqr6uA&oe=6B037C99",
@@ -1912,7 +2002,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-1922-mix.jpg"
    },
    "source_key": "post:61587321322233_122141158047244044",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2051,7 +2141,7 @@
    "origin": "manual",
    "page_id": "61587321322233",
    "slot": "2026-11-18 19:22",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
