@@ -35,6 +35,7 @@
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
   "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00",
+  "d7f8167190d0b9b93782": "2026-11-18T22:20:27+00:00",
   "decab325bccbd36f9888": "2026-11-18T18:29:16+00:00",
   "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00"
  },
@@ -6534,7 +6535,74 @@
   },
   "2026-11-19 02:18": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Je l'ai supplié de sauver notre fils malade, il m'a traitée de menteuse, jusqu'à ce que je crie la vérité : « C'est TON fils !",
+     "warnings": [
+      "длина текста FB 1202 слов (исходник 1037, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 650,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T02:18:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/914080304_122140404290778778_1230369862061289417_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Q0krcbIEXecQ7kNvwFSTnAr&_nc_oc=AdoFVPAQGUW6tt1wKK9CqKkFZ0o1wadrw4wxYvZFEdNn_E8M_psTAvuvqgXFFnZChv4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=SyF8J0yZi_1pWfeSCLrhuA&_nc_tpa=Q5bMBQIXeleJYhnsk8jo6cmzOfEDAWEF5MR6Yjf7NAdhGfM8BIN_mybqhMA_o7YmX4fOvX09P6rFCkgtxw&oh=00_AQSCJIBnyUNCduDNZqRVIbLR-uqOIcJ2j5T6nZZf5xZLyQ&oe=6B03E050",
@@ -6546,7 +6614,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-0218-fr.jpg"
    },
    "source_key": "post:61573363363721_122140404362778778",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6949,7 +7017,7 @@
    "origin": "manual",
    "page_id": "61573363363721",
    "slot": "2026-11-19 02:18",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573369523860_122140459448778984": {
    "fingerprint": "0aa82445e13515402f28",
