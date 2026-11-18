@@ -6,6 +6,7 @@
   "1422a482f54759518464": "2026-11-13T10:14:30+00:00",
   "17fe118fb129ce285808": "2026-11-17T10:38:06+00:00",
   "1d3d436a2f7d527c8e72": "2026-11-17T20:47:00+00:00",
+  "27418007e468ed693307": "2026-11-18T22:36:17+00:00",
   "2cafe86e0d53a56f3a9e": "2026-11-18T15:23:44+00:00",
   "30516d0029d7a2aa8337": "2026-11-09T19:59:12+00:00",
   "3798fd4c18a181248af5": "2026-11-12T20:02:21+00:00",
@@ -9413,7 +9414,74 @@
   },
   "2026-11-19 02:18": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Five Weeks After Our Baby Was Born, I Found Out My Husband Bought a $1.18 Million Townhouse for His Secretary, So I Handed Out Chocolates at His Office",
+     "warnings": [
+      "длина текста FB 492 слов (исходник 661, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 654,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T02:18:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/911111258_122148589485211763_7634270135594755944_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=a5tbDnxggmwQ7kNvwHtx_3x&_nc_oc=AdrIIGBT4cZpqd-T_QGwGPUC4mDQ2l4QvMLcwh_5JI2SObOUFEOg7eg2oMbRb52Jteo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0krfTYxbHUekZf4puSdYCQ&_nc_tpa=Q5bMBQJKsgw4d0gXFgvYBuZ-Lx-6KgpKCIB4d7UKeKhG3OmmHL9uTIlCHhrGFick6Eo91miOR7pb3KHceQ&oh=00_AQRBVYJfCKYLU_79lfpDZfy6joN1sp_m7pqbWCd2Tumt1Q&oe=6B03F8B9",
@@ -9425,7 +9493,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-0218-en.jpg"
    },
    "source_key": "post:100045261260562_1718550892996936",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -9717,7 +9785,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 02:18",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1718550892996936#": {
    "error": "не удалось прочитать пост: 100045261260562_1718550892996936: нет текста или фото | 1718550892996936: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1718550892996936: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher",
