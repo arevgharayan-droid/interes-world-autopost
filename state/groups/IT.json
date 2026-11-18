@@ -11708,12 +11708,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116547835328231_1128621813305984",
        "error": null,
        "last_attempt": "2026-11-19T02:44:08+04:00",
        "mode": "immediate",
        "photo_id": "122116547811328231",
        "post_id": "1106793902521611_122116547835328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Syn si na maturitním plesu vzal mámu na záda, vynesl ji na pódium a pak do mikrofonu prozradil tajemství, o kterém nevěděla",
@@ -11722,6 +11724,7 @@
      ],
      "wp_error": null,
      "wp_id": 659,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -11747,120 +11750,146 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132751369302250_1688451889528677",
        "error": null,
        "last_attempt": "2026-11-19T02:40:04+04:00",
        "mode": "immediate",
        "photo_id": "122132751345302250",
        "post_id": "1012250151981057_122132751369302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141191130808945_2135834490636052",
        "error": null,
        "last_attempt": "2026-11-19T02:39:11+04:00",
        "mode": "immediate",
        "photo_id": "122141191106808945",
        "post_id": "1030877436782212_122141191130808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111808512456562_1766450998175629",
        "error": null,
        "last_attempt": "2026-11-19T02:38:03+04:00",
        "mode": "immediate",
        "photo_id": "122111808488456562",
        "post_id": "1064982806700854_122111808512456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131423347306132_899152343219293",
        "error": null,
        "last_attempt": "2026-11-19T02:40:41+04:00",
        "mode": "immediate",
        "photo_id": "122131423323306132",
        "post_id": "1068567606345452_122131423347306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127972807305584_1672657984528906",
        "error": null,
        "last_attempt": "2026-11-19T02:42:22+04:00",
        "mode": "immediate",
        "photo_id": "122127972783305584",
        "post_id": "1078100405390763_122127972807305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108479670506427_4462734210706061",
        "error": null,
        "last_attempt": "2026-11-19T02:37:45+04:00",
        "mode": "immediate",
        "photo_id": "122108479640506427",
        "post_id": "1079964265201139_122108479670506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133560547308548_1794933062632627",
        "error": null,
        "last_attempt": "2026-11-19T02:40:23+04:00",
        "mode": "immediate",
        "photo_id": "122133560523308548",
        "post_id": "1086658774532679_122133560547308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123015319296683_1150955737656427",
        "error": null,
        "last_attempt": "2026-11-19T02:39:46+04:00",
        "mode": "immediate",
        "photo_id": "122123015295296683",
        "post_id": "1087342844462554_122123015319296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129688795300251_1460706536209651",
        "error": null,
        "last_attempt": "2026-11-19T02:42:05+04:00",
        "mode": "immediate",
        "photo_id": "122129688771300251",
        "post_id": "1093003583899107_122129688795300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114662328601707_1098377449882482",
        "error": null,
        "last_attempt": "2026-11-19T02:41:32+04:00",
        "mode": "immediate",
        "photo_id": "122114662304601707",
        "post_id": "1099258949937246_122114662328601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141775272811401_4599022773749875",
        "error": null,
        "last_attempt": "2026-11-19T02:38:54+04:00",
        "mode": "immediate",
        "photo_id": "122141775248811401",
        "post_id": "1114015015119414_122141775272811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105054168533031_1453305250257275",
        "error": null,
        "last_attempt": "2026-11-19T02:41:14+04:00",
        "mode": "immediate",
        "photo_id": "122105054144533031",
        "post_id": "1128937866962526_122105054168533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110663046543006_4151868561776604",
        "error": null,
        "last_attempt": "2026-11-19T02:38:21+04:00",
        "mode": "immediate",
        "photo_id": "122110663022543006",
        "post_id": "1140835409106424_122110663046543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -11875,66 +11904,80 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130384147314630_1604672170976353",
        "error": null,
        "last_attempt": "2026-11-19T02:40:58+04:00",
        "mode": "immediate",
        "photo_id": "122130384111314630",
        "post_id": "1149681171551323_122130384147314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122908651318395_1052876781151764",
        "error": null,
        "last_attempt": "2026-11-19T02:41:48+04:00",
        "mode": "immediate",
        "photo_id": "122122908627318395",
        "post_id": "1159996950522974_122122908651318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137309839400586_1487840146563092",
        "error": null,
        "last_attempt": "2026-11-19T02:37:11+04:00",
        "mode": "immediate",
        "photo_id": "122137309815400586",
        "post_id": "1160223747182678_122137309839400586",
-       "status": "published"
+       "status": "done"
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128867245300955_1032980289817927",
        "error": null,
        "last_attempt": "2026-11-19T02:39:28+04:00",
        "mode": "immediate",
        "photo_id": "122128867221300955",
        "post_id": "1160240797163045_122128867245300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126169903301482_901122979690509",
        "error": null,
        "last_attempt": "2026-11-19T02:42:40+04:00",
        "mode": "immediate",
        "photo_id": "122126169879301482",
        "post_id": "1174674892385169_122126169903301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126174781405175_1158121500092531",
        "error": null,
        "last_attempt": "2026-11-19T02:38:38+04:00",
        "mode": "immediate",
        "photo_id": "122126174751405175",
        "post_id": "1191480207389219_122126174781405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113246472437662_2358033925018207",
        "error": null,
        "last_attempt": "2026-11-19T02:37:28+04:00",
        "mode": "immediate",
        "photo_id": "122113246448437662",
        "post_id": "997772916762884_122113246472437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mio figlio mi ha portata sulle spalle fino al palco del suo diploma, poi ha preso il microfono e ha rivelato il segreto che mi nascondeva da anni",
@@ -11955,39 +11998,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126570409304793_1130002389772486",
        "error": null,
        "last_attempt": "2026-11-19T02:43:50+04:00",
        "mode": "immediate",
        "photo_id": "122126570385304793",
        "post_id": "1079800528556354_122126570409304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114213972359745_4127689577534302",
        "error": null,
        "last_attempt": "2026-11-19T02:42:57+04:00",
        "mode": "immediate",
        "photo_id": "122114213948359745",
        "post_id": "1083785318156771_122114213972359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122999827302807_1816090333852540",
        "error": null,
        "last_attempt": "2026-11-19T02:43:14+04:00",
        "mode": "immediate",
        "photo_id": "122122999803302807",
        "post_id": "1089456087587677_122122999827302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141365557313481_1463249359090206",
        "error": null,
        "last_attempt": "2026-11-19T02:43:32+04:00",
        "mode": "immediate",
        "photo_id": "122141365533313481",
        "post_id": "1107966229066828_122141365557313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Syn wniósł mnie na scenę podczas rozdania świadectw, a potem wyznał przed całą szkołą sekret, który ukrywał przede mną od lat",
@@ -11996,6 +12047,7 @@
      ],
      "wp_error": null,
      "wp_id": 658,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -12031,7 +12083,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-0218-it.jpg"
    },
    "source_key": "post:100045261260562_1719091009609591",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
