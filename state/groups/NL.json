@@ -20,6 +20,7 @@
   "282775455f9afac79cda": "2026-11-10T22:03:35+00:00",
   "2c102128a6bdf6cc4b13": "2026-11-16T16:00:57+00:00",
   "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
+  "31ed525cac6f302a760e": "2026-11-18T15:23:57+00:00",
   "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
   "46a1728a5126f9af6c13": "2026-11-16T00:16:52+00:00",
@@ -45,6 +46,7 @@
   "98ed0f869b67d7d406ea": "2026-11-10T22:05:36+00:00",
   "a333d126c2a07536f0f3": "2026-11-13T10:14:57+00:00",
   "a373ece8d16ef871e0a9": "2026-11-09T20:07:46+00:00",
+  "a964ea608100bdcf9bf6": "2026-11-18T15:23:57+00:00",
   "afa3a18208d092faed7a": "2026-11-16T23:51:32+00:00",
   "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
   "b924e8960efa86262e90": "2026-11-12T20:02:32+00:00",
@@ -6698,7 +6700,83 @@
   },
   "2026-11-18 19:22": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Zwanzig Jahre lang belog uns unsere Adoptivmutter – an ihrem 60. Geburtstag hörte ich in der Küche, was sie uns verschwiegen hatte",
+     "warnings": [
+      "длина текста FB 627 слов (исходник 804, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 630,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Twintig jaar lang geloofde ik haar leugen, tot ik op haar verjaardag hoorde wat mijn adoptiemoeder in de keuken zei",
+     "warnings": [
+      "длина текста FB 636 слов (исходник 804, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 629,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T19:22:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/898014956_122140155675244044_1731168683432977687_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ggDAKFOzb2wQ7kNvwEyI6le&_nc_oc=AdpgbkT_sveEMqZfWJm7GH6dKVdfJjYVOggkqBQ_7joQ7GgntFYmbULbcbzIZSNbYRU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=OhwL9osX_8N7-ZzPh1ekyQ&_nc_tpa=Q5bMBQIxP6YaxSlCxVH86iJwIh-KJMoFomZcZ4Qcz2JcUfCazLG6GxfYyujLtgMIQtRbe118t2nzEk5Wdw&oh=00_AQSOcPb3UXuXZ9rhxvm0Gfol3VU2n25W6CFv-oSrkAXX7g&oe=6B0389D6",
@@ -6710,7 +6788,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-1922-nl.jpg"
    },
    "source_key": "post:61587321322233_122140155699244044",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7196,7 +7274,7 @@
    "origin": "manual",
    "page_id": "61587321322233",
    "slot": "2026-11-18 19:22",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61589490035610_122125985943316334": {
    "fingerprint": "d19039b60edde56441da",
