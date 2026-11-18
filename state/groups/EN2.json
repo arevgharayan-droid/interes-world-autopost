@@ -9068,12 +9068,14 @@
       },
       "104114086037068": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1046010181854027_1449894816688552",
        "error": null,
        "last_attempt": "2026-11-19T02:22:20+04:00",
        "mode": "immediate",
        "photo_id": "1046010165187362",
        "post_id": "104114086037068_1046010181854027",
-       "status": "published"
+       "status": "done"
       },
       "1060733217128705": {
        "attempts": 1,
