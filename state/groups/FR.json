@@ -6150,12 +6150,14 @@
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109390116457428_29876011285329744",
        "error": null,
        "last_attempt": "2026-11-18T12:58:09+04:00",
        "mode": "immediate",
        "photo_id": "122109390092457428",
        "post_id": "1058598924006917_122109390116457428",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -6225,12 +6227,14 @@
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129756259425731_1530654946047177",
        "error": null,
        "last_attempt": "2026-11-18T12:57:27+04:00",
        "mode": "immediate",
        "photo_id": "122129756235425731",
        "post_id": "1280413955154689_122129756259425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ma fille a hurlé à 3 h 07 à cause d'un « serpent » sous le canapé, et quand le voisin a braqué sa lampe, sa main s'est mise à trembler",
@@ -6288,7 +6292,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-1250-fr.jpg"
    },
    "source_key": "post:61587032195586_122142669537234406",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
