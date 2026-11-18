@@ -3,6 +3,7 @@
  "output_fps": {
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
   "0be13b58727dd30b5837": "2026-11-17T17:52:42+00:00",
+  "1e2c7dd943d79ef1c8d0": "2026-11-18T22:49:45+00:00",
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
   "292c1d04504fd06c6ac5": "2026-11-18T18:56:12+00:00",
   "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
@@ -16,6 +17,7 @@
   "50dd1f88b6c06defc96d": "2026-11-18T22:20:58+00:00",
   "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
+  "697bf1e866b0d768ab37": "2026-11-18T22:49:45+00:00",
   "70c05379b999f4d41de6": "2026-11-18T15:24:21+00:00",
   "72cfa8c608946a546f2e": "2026-11-18T18:56:12+00:00",
   "7599ebffd8f3d4caa6ef": "2026-11-18T08:52:49+00:00",
@@ -32,12 +34,14 @@
   "ab007dd685935f2c3980": "2026-11-17T10:38:26+00:00",
   "adfb1bdeac99773333bd": "2026-11-18T22:20:58+00:00",
   "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
+  "c2bc42d5c2d6930640d5": "2026-11-18T22:49:45+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "cfa7b21c90a2cad9b78e": "2026-11-18T08:52:49+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e1b66eb6a566198daa27": "2026-11-17T17:52:42+00:00",
+  "e245fd7320627341a5e4": "2026-11-18T22:49:45+00:00",
   "e3404d19673afcbaa7f8": "2026-11-16T19:28:27+00:00",
   "e53caf42617e72941741": "2026-11-17T12:28:51+00:00",
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
@@ -2600,7 +2604,91 @@
    "status": "cancelled"
   },
   "2026-11-19 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "عدتُ منهكة بعد اثنتي عشرة ساعة عمل فوجدت حماتي ترمي عشائي في صحن الكلب، وحين طلبتُ منهم مغادرة شقتي همست لي بجملة عن أوراق وقّعها زوجي جعلت قلبي يسقط",
+     "warnings": [
+      "часть 3: 396 слов"
+     ]
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi suegra tiró mi cena al plato del perro delante de mi marido, y cuando le dije que se fueran de mi casa, ella susurró una frase que me heló la sangre",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 382,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Soacra mi-a dat cina în castronul câinelui, soțul a încuviințat, dar când le-am cerut să plece din apartamentul meu, ea a șoptit: „Întreabă-l pe Eric ce a semnat luna trecută",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 383,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Вернувшись после двенадцатичасовой смены, я увидела, как свекровь отдаёт мой ужин собаке, но после моих слов муж побледнел, а она прошептала про какие-то бумаги",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 381,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-19T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/902078197_1711384510380241_1407954795075318986_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gMLdnBNqBJAQ7kNvwFDzxQi&_nc_oc=AdrdzKDGDxtBej2_VUVXxhVHEfUA76HvYwvrrt41qoW97bfLdV54Jt_FUC7f3m8jgMw&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=AUi0y-FNWI6-m6TKDH9yPA&_nc_tpa=Q5bMBQL57_iaOBKOEbdxDX7LWW1j5h_CS4Uhmmjr5w9q6kUA6M6N5DMAqyj5D0PAivMU-W4WOE59O7ts2w&oh=00_AQTiCnaSoCdjetXIElV4_Up4a_lAVzSebsUqvP_f_kKiVQ&oe=6B04011B",

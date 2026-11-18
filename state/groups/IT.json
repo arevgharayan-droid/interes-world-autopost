@@ -9,6 +9,7 @@
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
   "0fb22b8844bea06fae2d": "2026-11-16T20:28:05+00:00",
   "17bbf28063304bc8e308": "2026-11-17T12:28:51+00:00",
+  "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
@@ -72,9 +73,11 @@
   "de3fafdb1cf0cbce4e54": "2026-11-16T23:51:59+00:00",
   "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
   "e5620b751bed22ad8486": "2026-11-16T19:28:24+00:00",
+  "e9d713c4cf15c5418f4d": "2026-11-18T22:49:46+00:00",
   "efd0f2e108b8fe01d1c7": "2026-11-14T19:42:43+00:00",
   "f0ab5dd9f979bb237bc0": "2026-11-12T20:02:25+00:00",
   "f472d77cd9283f9c86cc": "2026-11-10T22:06:07+00:00",
+  "f47d08ea28476c84d8db": "2026-11-18T22:49:46+00:00",
   "f4fb1870212e1ca687e6": "2026-11-17T18:29:53+00:00",
   "f5c0e175c68a336e3e47": "2026-11-09T20:09:08+00:00",
   "fc7afd4f1a31db559569": "2026-11-15T10:15:15+00:00",
@@ -12098,7 +12101,88 @@
    "status": "cancelled"
   },
   "2026-11-19 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nechala jsem šestitýdenní dceru s bývalým mužem jen na čtyři hodiny. Pak mi zavolala sousedka a křičela, ať okamžitě běžím domů",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 672,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ho lasciato la mia bimba di sei settimane col mio ex per quattro ore: poi la vicina mi ha chiamata urlando «Torna a casa subito!",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 670,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Zostawiłam córeczkę z byłym mężem na cztery godziny. Gdy zadzwoniła sąsiadka, rzuciłam wszystko i pojechałam do domu",
+     "warnings": [
+      "длина текста FB 422 слов (исходник 561, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 671,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/915146316_1718338983018127_36779560521544081_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ftIsUiFm3dEQ7kNvwFHcdBQ&_nc_oc=AdruEu7-yDAqALe8Hs_jDN1RDTZg-zaDoSNNinK62H1xu-SM2dxx_-2XqgVjzgMHi-w&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=rH1r5e2g94M4zaS1fzBSvQ&_nc_tpa=Q5bMBQLFiKpGypEGbXp0AmtLBlXRjPgsQOFpdRLkFUdcNjHhCNsTZxDbcB2iKPn3tNsMNrr2YhnfeuGfvw&oh=00_AQT5csIKlbxUKTar1vy-KQJnSdusPFk2gUCzSSlcpJPW0A&oe=6B03FEB4",
@@ -12110,7 +12194,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1200-it.jpg"
    },
    "source_key": "post:100045261260562_1718339016351457",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12412,7 +12496,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1719091009609591": {
    "fingerprint": "6be48e6283e05cb1bf3d",
