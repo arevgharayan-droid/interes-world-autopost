@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "fb_block_until": "2026-11-14T14:14:26+04:00",
  "output_fps": {
+  "03e362655081aa4b05fb": "2026-11-18T22:20:46+00:00",
   "04468dcabed0743dca47": "2026-11-10T22:08:57+00:00",
   "0474e7d1c3adb78e01d1": "2026-11-12T20:02:43+00:00",
   "049be09d5ae08dc8389a": "2026-11-09T20:02:09+00:00",
@@ -62,6 +63,7 @@
   "76d5322eded92004a16e": "2026-11-10T22:03:12+00:00",
   "78229d059b1f03d27989": "2026-11-09T20:08:16+00:00",
   "788e0e4a8634b7c3a3a3": "2026-11-10T22:05:49+00:00",
+  "7970cd008ee6e52ce2bc": "2026-11-18T22:20:46+00:00",
   "7a8fd36d00723b018f69": "2026-11-16T23:52:12+00:00",
   "7f161e8140c5e01c01eb": "2026-11-18T18:30:01+00:00",
   "80517b7021da26730a52": "2026-11-18T15:24:43+00:00",
@@ -100,6 +102,7 @@
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
+  "dec5e0bd063cc2c57d2d": "2026-11-18T22:20:46+00:00",
   "e14b9de1541baf5a7406": "2026-11-16T00:18:30+00:00",
   "e1b27c7dab073d04d921": "2026-11-16T00:18:30+00:00",
   "e264befb548c9459d95b": "2026-11-10T22:04:30+00:00",
@@ -10449,7 +10452,88 @@
   },
   "2026-11-19 02:18": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha enteada recheou o bolo de 60 anos do meu marido com patinhos de borracha para me humilhar, mas a caixa rosa que entreguei a ela mudou tudo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 375,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Падчерица тайно набила торт на шестидесятилетие мужа резиновыми уточками, чтобы унизить меня при гостях, но я улыбнулась и вынесла розовую коробку",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 373,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Üvey kızım kocamın 60. yaş günü pastasına plastik ördekler doldurup beni elli kişinin önünde rezil etmeye çalıştı, ama ona hazırladığım pembe kutuyu açınca yüzündeki sırıtış silindi",
+     "warnings": [
+      "часть 3: 389 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 374,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T02:18:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/911450652_1717226759796016_4202682024085902943_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=8dnnMh88F_cQ7kNvwGacmdg&_nc_oc=AdrFdWK6EjsgtJ_QMCRDKVlXUg0RgMcVrt_Mk3qGGCTbWbaObOFQ0LtuSLtcwgU6Vvc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=AUxtjiSXTj910gFRzlfcVQ&_nc_tpa=Q5bMBQIS2_5hR9AJCaShwFRAxhiaV4FXuL2Lp_VBguWRpw-3r9BinLIcbnl2J6goMCgsmHz_Grde6CYY1A&oh=00_AQSLiScqNd60e7EUNT2SsRYXnIorjy-1im39V1GFSB4b6g&oe=6B04109D",
@@ -10461,7 +10545,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-0218-ru.jpg"
    },
    "source_key": "post:100045261260562_1717226829796009",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -10758,7 +10842,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 02:18",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1717835236401835": {
    "fingerprint": "333c5e35cc84de003752",
