@@ -9415,7 +9415,7 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-19T02:18:00+04:00",
-   "status": "new"
+   "status": "no_source"
   },
   "2026-11-19 12:00": {
    "langs": {},
@@ -9687,6 +9687,11 @@
    "page_id": "100045261260562",
    "slot": "2026-11-18 00:36",
    "status": "used"
+  },
+  "post:100045261260562_1718550892996936": {
+   "error": "не удалось прочитать пост: 100045261260562_1718550892996936: нет текста или фото | 1718550892996936: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1718550892996936: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher",
+   "link": "https://www.facebook.com/story.php?story_fbid=1718550892996936&id=100045261260562",
+   "status": "failed"
   },
   "post:100059505912199_1501978228462360": {
    "fingerprint": "f033634731845716b275",
