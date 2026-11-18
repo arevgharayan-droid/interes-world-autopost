@@ -12,6 +12,7 @@
   "35f4dc18fe1b6e9d863f": "2026-11-09T20:07:49+00:00",
   "405a9e8158205d645adc": "2026-11-09T20:00:27+00:00",
   "457a0c3996dd22980ee2": "2026-11-12T17:47:23+00:00",
+  "52ffcff1570a8d759ae4": "2026-11-18T08:52:00+00:00",
   "53b05b31b74f795cfe89": "2026-11-10T22:07:12+00:00",
   "5435b8c4e88447b49542": "2026-11-15T10:15:18+00:00",
   "54f4ed5345b19326f5b3": "2026-11-09T20:02:52+00:00",
@@ -8225,7 +8226,72 @@
   },
   "2026-11-18 12:50": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Filled the Car With Gifts and Told Me to Take Our Little Boy on the Bus, So I Took Him to Disneyland Instead",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 616,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T12:50:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/910281015_122235985244328214_7335838667812608955_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fJ0ek4VWYTIQ7kNvwFel1id&_nc_oc=AdpakAK4fLZEfSEgUxK4gdEzgedpoLxYhVsDPf4PjhS6kjEegkZauHPgce4CRrB47Ag&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=u19wQp_26n0T8UBFBVvpFA&_nc_tpa=Q5bMBQK_xAD7lJyzrGsyEpEoeIknybDDwGZADdYI81C4qwxLb3ZsxOcBMCa70CavXsjcJCvmb-K2X1V7wA&oh=00_AQQnOX_2U8LjWrHb7AMFMbtatoU6vVDE5LU0-M3SiUDjYQ&oe=6B033A2D",
@@ -8237,7 +8303,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-1250-en2.jpg"
    },
    "source_key": "post:61559846438723_122236204136328214",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -8557,7 +8623,7 @@
    "origin": "manual",
    "page_id": "61559846438723",
    "slot": "2026-11-18 12:50",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61560353781750_122118934838345126": {
    "fingerprint": "c790a87f13cdf2c8546f",
