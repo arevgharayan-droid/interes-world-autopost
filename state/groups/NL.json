@@ -7118,12 +7118,13 @@
       "1205543595981082": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122130845811430924_1449050870677331",
        "error": null,
        "last_attempt": "2026-11-18T22:57:51+04:00",
        "mode": "immediate",
        "photo_id": "122130845787430924",
        "post_id": "1205543595981082_122130845811430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
