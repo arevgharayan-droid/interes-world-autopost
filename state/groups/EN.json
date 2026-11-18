@@ -20,6 +20,7 @@
   "55b2ea3149d51e09ddbd": "2026-11-16T10:16:17+00:00",
   "57e29069ed8240a63f33": "2026-11-17T12:28:36+00:00",
   "5e336a9c8f71c9075c40": "2026-11-12T17:47:39+00:00",
+  "62447349d9ef3a0a66d8": "2026-11-18T22:49:09+00:00",
   "6dfa0fbc6e60232c2ca8": "2026-11-10T22:06:51+00:00",
   "76b6de784429bf75aead": "2026-11-12T10:26:33+00:00",
   "96f4674e8eb6ca36b64c": "2026-11-17T17:51:55+00:00",
@@ -9718,7 +9719,72 @@
    "status": "cancelled"
   },
   "2026-11-19 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Husband Vanished for Two Years, Then Rushed Onto Our Daughter's Stage in a Pink Tutu and Revealed the Truth",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 665,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/913097984_1718838846301474_2625991537298653181_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LBG4KoV-LOgQ7kNvwFzFWwC&_nc_oc=AdrR0-a429ogEDmYzbVfdqtut92bV2-ZpK2qea_vB4KfMblbU7TKXu0JK_cQ6OlrYq0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=r7sfQidCTL5fCTTz4mOXfw&_nc_tpa=Q5bMBQL_Oe0-5mTGBebnBrUEnNFI1E41oWNzVDM5fLrb2x3V0pzGeTSKYZkD9CAHV7cHB8YM2zzKV76LMw&oh=00_AQT1g_y9ZUVA-5RD6KUCP8zLZz9X5h0FMoxnMR2abRrN2Q&oe=6B041916",
@@ -9730,7 +9796,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1200-en.jpg"
    },
    "source_key": "post:100045261260562_1718840749634617",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -10024,7 +10090,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100059505912199_1501978228462360": {
    "fingerprint": "f033634731845716b275",
