@@ -6491,45 +6491,54 @@
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127775407309032_1466969255536050",
        "error": null,
        "last_attempt": "2026-11-18T12:58:21+04:00",
        "mode": "immediate",
        "photo_id": "122127775383309032",
        "post_id": "1102464712951594_122127775407309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125963881316035_1617125766265097",
        "error": null,
        "last_attempt": "2026-11-18T12:59:00+04:00",
        "mode": "immediate",
        "photo_id": "122125963857316035",
        "post_id": "1129908326870761_122125963881316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131558959418602_1318069700611429",
        "error": null,
        "last_attempt": "2026-11-18T12:56:56+04:00",
        "mode": "immediate",
        "photo_id": "122131558935418602",
        "post_id": "1208422892355505_122131558959418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133926403436382_4399540140357445",
        "error": null,
        "last_attempt": "2026-11-18T12:57:39+04:00",
        "mode": "immediate",
        "photo_id": "122133926379436382",
        "post_id": "1268633826332790_122133926403436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mein Vater verlangte ab 18 jeden Monat 250 Dollar Miete von mir – nach seiner Beerdigung stand sein bester Freund mit einem Karton vor der Tür",
      "warnings": [],
      "wp_error": null,
      "wp_id": 619,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -6566,12 +6575,14 @@
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130660789424769_1104909755877728",
        "error": null,
        "last_attempt": "2026-11-18T12:56:15+04:00",
        "mode": "immediate",
        "photo_id": "122130660759424769",
        "post_id": "1180417388497186_122130660789424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
