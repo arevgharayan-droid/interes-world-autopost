@@ -8824,12 +8824,13 @@
       "106713875762456": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "1033346923116913_1064591019938023",
        "error": null,
        "last_attempt": "2026-11-18T22:57:10+04:00",
        "mode": "immediate",
        "photo_id": "1033346903116915",
        "post_id": "106713875762456_1033346923116913",
-       "status": "published"
+       "status": "done"
       },
       "1220745651126185": {
        "attempts": 1,
