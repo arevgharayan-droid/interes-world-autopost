@@ -7558,6 +7558,12 @@
      "gen_error": null,
      "generated": true,
      "pages": {
+      "1028964020310052": {
+       "attempts": 1,
+       "last_attempt": "2026-11-19T02:55:38+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      },
       "1102464712951594": {
        "attempts": 1,
        "error": null,
