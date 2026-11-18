@@ -5,6 +5,7 @@
   "04468dcabed0743dca47": "2026-11-10T22:08:57+00:00",
   "0474e7d1c3adb78e01d1": "2026-11-12T20:02:43+00:00",
   "049be09d5ae08dc8389a": "2026-11-09T20:02:09+00:00",
+  "04c763e9d6765d4a549b": "2026-11-18T18:30:01+00:00",
   "04da7545de52af7eefa9": "2026-11-10T22:04:30+00:00",
   "0819121300603065c21d": "2026-11-16T20:28:20+00:00",
   "0ac40c9da1b87690b6f9": "2026-11-14T19:42:40+00:00",
@@ -41,6 +42,7 @@
   "55c68668d71f5fde2cc3": "2026-11-17T12:29:11+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
   "56b10fd7cd3d1bca37f0": "2026-11-17T17:52:52+00:00",
+  "59a8c94efb9a24d75d95": "2026-11-18T18:30:01+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5b204109299ad4dcd429": "2026-11-12T20:02:43+00:00",
   "5d014620f15f95df1195": "2026-11-10T22:05:49+00:00",
@@ -61,6 +63,7 @@
   "78229d059b1f03d27989": "2026-11-09T20:08:16+00:00",
   "788e0e4a8634b7c3a3a3": "2026-11-10T22:05:49+00:00",
   "7a8fd36d00723b018f69": "2026-11-16T23:52:12+00:00",
+  "7f161e8140c5e01c01eb": "2026-11-18T18:30:01+00:00",
   "80517b7021da26730a52": "2026-11-18T15:24:43+00:00",
   "822b3e6fa186814bd262": "2026-11-12T17:48:06+00:00",
   "872c066fea909c2bfe8d": "2026-11-13T14:37:39+00:00",
@@ -9954,7 +9957,88 @@
   },
   "2026-11-18 22:28": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A menina de seis anos sussurrou à telefonista do 911 que não conseguia fechar as pernas, e o que os médicos viram nos exames deixou a sala em silêncio",
+     "warnings": [
+      "часть 1: 771 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 365,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Шестилетняя девочка прошептала диспетчеру 911, что не может сомкнуть ноги, а когда врач показал матери снимки, в комнате повисла тишина",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 363,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Altı yaşındaki kız 911'i arayıp bacaklarını kapatamadığını fısıldadı, ama röntgen sonuçlarını gören doktor anneyi sessizce başka bir odaya çağırdı",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 364,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T22:28:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/910383784_122314143728071088_8691827584017371124_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_vZakUY-PL0Q7kNvwECqnC7&_nc_oc=Adqsq4c5GRjciwM_dj15vAQ3RIlDcHXQ2f2bhvR0qy_afhmk5U2X32TatPaRkPTlHac&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=QbtW_iqD4M2LR0iFs1yI_Q&_nc_tpa=Q5bMBQLFXWx936N0ANKA498QvyG0yy133mV4eNKH89n3v_yCrQQTiImeI85tvn_R2xWvqyiXp1W-xUlb1w&oh=00_AQQxGMuVJ8bp7lGrc1KUTTs82tunyiHCfKxrO6yNlRf2Fg&oe=6B03B639",
@@ -9966,7 +10050,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-2228-ru.jpg"
    },
    "source_key": "post:61552132650894_122314143752071088",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -10327,7 +10411,7 @@
    "origin": "manual",
    "page_id": "61552132650894",
    "slot": "2026-11-18 22:28",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61559846438723_122235375662328214": {
    "fingerprint": "e47487b236e4f1f941f9",
