@@ -7072,6 +7072,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 646,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -7109,12 +7110,13 @@
       "1180417388497186": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122130757659424769_2090603884924612",
        "error": null,
        "last_attempt": "2026-11-18T22:58:07+04:00",
        "mode": "immediate",
        "photo_id": "122130757635424769",
        "post_id": "1180417388497186_122130757659424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
