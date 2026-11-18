@@ -10796,12 +10796,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116516575328231_1642690011236942",
        "error": null,
        "last_attempt": "2026-11-18T19:37:48+04:00",
        "mode": "immediate",
        "photo_id": "122116516551328231",
        "post_id": "1106793902521611_122116516575328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Nechal jsem ženu a sedmidenního syna u mámy a sestry jen na čtyři dny. Po návratu mi manželka zašeptala: „Řekni mi, že jsi nevěděl, co dělaly.",
@@ -10810,6 +10812,7 @@
      ],
      "wp_error": null,
      "wp_id": 633,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -10835,120 +10838,146 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132724231302250_1139217682249331",
        "error": null,
        "last_attempt": "2026-11-18T19:30:43+04:00",
        "mode": "immediate",
        "photo_id": "122132724207302250",
        "post_id": "1012250151981057_122132724231302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141158184808945_1835175324352183",
        "error": null,
        "last_attempt": "2026-11-18T19:28:59+04:00",
        "mode": "immediate",
        "photo_id": "122141158160808945",
        "post_id": "1030877436782212_122141158184808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111795732456562_2212009426021304",
        "error": null,
        "last_attempt": "2026-11-18T19:26:41+04:00",
        "mode": "immediate",
        "photo_id": "122111795702456562",
        "post_id": "1064982806700854_122111795732456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131393677306132_2602913120211190",
        "error": null,
        "last_attempt": "2026-11-18T19:31:52+04:00",
        "mode": "immediate",
        "photo_id": "122131393653306132",
        "post_id": "1068567606345452_122131393677306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127935421305584_1168437078917144",
        "error": null,
        "last_attempt": "2026-11-18T19:35:06+04:00",
        "mode": "immediate",
        "photo_id": "122127935397305584",
        "post_id": "1078100405390763_122127935421305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108464796506427_1557356902820657",
        "error": null,
        "last_attempt": "2026-11-18T19:26:08+04:00",
        "mode": "immediate",
        "photo_id": "122108464772506427",
        "post_id": "1079964265201139_122108464796506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133526497308548_1458152732408751",
        "error": null,
        "last_attempt": "2026-11-18T19:31:17+04:00",
        "mode": "immediate",
        "photo_id": "122133526473308548",
        "post_id": "1086658774532679_122133526497308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122988433296683_1786040355961810",
        "error": null,
        "last_attempt": "2026-11-18T19:30:10+04:00",
        "mode": "immediate",
        "photo_id": "122122988409296683",
        "post_id": "1087342844462554_122122988433296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129662089300251_29957361747202964",
        "error": null,
        "last_attempt": "2026-11-18T19:34:35+04:00",
        "mode": "immediate",
        "photo_id": "122129662059300251",
        "post_id": "1093003583899107_122129662089300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114642696601707_1810064243595946",
        "error": null,
        "last_attempt": "2026-11-18T19:33:37+04:00",
        "mode": "immediate",
        "photo_id": "122114642672601707",
        "post_id": "1099258949937246_122114642696601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141733908811401_1212920857931286",
        "error": null,
        "last_attempt": "2026-11-18T19:28:25+04:00",
        "mode": "immediate",
        "photo_id": "122141733884811401",
        "post_id": "1114015015119414_122141733908811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105045942533031_1668664891604005",
        "error": null,
        "last_attempt": "2026-11-18T19:33:02+04:00",
        "mode": "immediate",
        "photo_id": "122105045918533031",
        "post_id": "1128937866962526_122105045942533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110647932543006_2435660436968370",
        "error": null,
        "last_attempt": "2026-11-18T19:27:16+04:00",
        "mode": "immediate",
        "photo_id": "122110647908543006",
        "post_id": "1140835409106424_122110647932543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -10963,21 +10992,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130355311314630_1467229432220648",
        "error": null,
        "last_attempt": "2026-11-18T19:32:27+04:00",
        "mode": "immediate",
        "photo_id": "122130355287314630",
        "post_id": "1149681171551323_122130355311314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122871091318395_1610462163722640",
        "error": null,
        "last_attempt": "2026-11-18T19:34:06+04:00",
        "mode": "immediate",
        "photo_id": "122122871061318395",
        "post_id": "1159996950522974_122122871091318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -10992,39 +11025,47 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128838319300955_4197460790556716",
        "error": null,
        "last_attempt": "2026-11-18T19:29:34+04:00",
        "mode": "immediate",
        "photo_id": "122128838295300955",
        "post_id": "1160240797163045_122128838319300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126135127301482_1183087120710284",
        "error": null,
        "last_attempt": "2026-11-18T19:35:33+04:00",
        "mode": "immediate",
        "photo_id": "122126135097301482",
        "post_id": "1174674892385169_122126135127301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126136741405175_1704116294702598",
        "error": null,
        "last_attempt": "2026-11-18T19:27:51+04:00",
        "mode": "immediate",
        "photo_id": "122126136711405175",
        "post_id": "1191480207389219_122126136741405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113228418437662_28186914294318367",
        "error": null,
        "last_attempt": "2026-11-18T19:25:34+04:00",
        "mode": "immediate",
        "photo_id": "122113228388437662",
        "post_id": "997772916762884_122113228418437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ho lasciato mia moglie e il nostro neonato di sette giorni con mia madre per quattro giorni. Al mio ritorno, lei mi ha sussurrato: «Dimmi che non sapevi cosa stavano facendo",
@@ -11047,39 +11088,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126539731304793_1834491224171282",
        "error": null,
        "last_attempt": "2026-11-18T19:37:31+04:00",
        "mode": "immediate",
        "photo_id": "122126539701304793",
        "post_id": "1079800528556354_122126539731304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114196668359745_3300903683433873",
        "error": null,
        "last_attempt": "2026-11-18T19:36:02+04:00",
        "mode": "immediate",
        "photo_id": "122114196644359745",
        "post_id": "1083785318156771_122114196668359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122978395302807_1194586302903166",
        "error": null,
        "last_attempt": "2026-11-18T19:36:32+04:00",
        "mode": "immediate",
        "photo_id": "122122978371302807",
        "post_id": "1089456087587677_122122978395302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141341347313481_1784709095921190",
        "error": null,
        "last_attempt": "2026-11-18T19:37:00+04:00",
        "mode": "immediate",
        "photo_id": "122141341323313481",
        "post_id": "1107966229066828_122141341347313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Zostawiłem żonę i siedmiodniowego synka u mamy na cztery dni. Gdy wróciłem, żona wyszeptała: „Powiedz, że nie wiedziałeś",
@@ -11088,6 +11137,7 @@
      ],
      "wp_error": null,
      "wp_id": 632,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -11123,7 +11173,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-1922-it.jpg"
    },
    "source_key": "post:61587321322233_122139787689244044",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
