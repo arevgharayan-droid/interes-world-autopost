@@ -9780,7 +9780,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1129620776897151": {
+       "attempts": 1,
+       "last_attempt": "2026-11-18T19:37:13+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "8A koltuğunda uyuyan bekâr anne, kaptanın \"Uçakta savaş pilotu var mı?\" anonsunu duyunca yıllardır gizlediği geçmişle yüzleşmek zorunda kaldı",
      "warnings": [],
      "wp_error": null,
