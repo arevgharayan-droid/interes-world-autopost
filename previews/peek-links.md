@@ -1,9 +1,7 @@
 ## Ссылки: что внутри
 
-1. (RU, 5102 знаков) «Муж отправил меня за решётку на 25 лет и завладел миллиардами. Но одна тайна разрушила его идеальный план — Долго ещё будет продолжаться этот спектакл…»
-2. (RU, 3044 знаков) «После 64 лет брака мой муж оставил всё своё состояние и наш семейный дом детям. Мне же достались лишь старый ржавый ящик с инструментами, 64 розы и го…»
-3. (RU, 2032 знаков) «😱💦 мама всегда предупреждала нас: «никогда не ходите в бассейн с дедушкой одни». но однажды дедушка отвёл нас в самую глубокую часть бассейна и сказал…»
-4. (RU, 8643 знаков) «"За четверть часа до того, как я должен был попросить руки богатой наследницы, в туалете престижного ресторана мне встретились четверо шестилетних мал…»
-5. (RU, 9375 знаков) «Через 45 лет после расставания я вновь встретил свою первую любовь и женился на ней, чтобы исполнить её последнюю мечту. Спустя несколько дней её не с…»
-6. (RU, 9249 знаков) «"В день нашего развода я без колебаний перечислил жене 150 миллионов долларов и произнёс: «Считай это платой за семь лет брака. Забирай деньги и исчез…»
-7. (RU, 6544 знаков) «Я вышла замуж за заключённого ради двух тысяч долларов в месяц. Но спустя три года, когда его признали невиновным и выпустили на свободу, он пришёл ко…»
+1. (EN, 5851 знаков) «My ex-boyfriend's mother sent me a $400 red dress to wear to his wedding. He was marrying the woman he'd cheated on me with. Inside the box was a hand…»
+2. ❌ не удалось прочитать пост: 108874644793166_1411872534493364: FB 100/33: Unsupported get request. Object with ID '108874644793166_1411872534493364' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api | 1411872534493364: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1411872534493364: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher
+3. (EN, 4685 знаков) «At 8:12 on Christmas morning, I caught my seven-year-old daughter hiding her little brother's boots so we couldn't leave the house. I was three months…»
+4. ❌ не удалось прочитать пост: 108874644793166_1412818894398728: FB 100/33: Unsupported get request. Object with ID '108874644793166_1412818894398728' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api | 1412818894398728: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1412818894398728: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher
+5. (EN, 6562 знаков) «We’re not spending Christmas with you,” my DIL said. “Cool,” I replied. Then I added one sentence: “Well... Christmas is canceled then.” And slowly—he…»

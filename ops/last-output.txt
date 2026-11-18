@@ -1,10 +1,8 @@
-## Внеочередной выпуск
+## Ссылки: что внутри
 
-- FR: выпуск 2026-11-18 22:28 — следующий запуск возьмёт ссылку из очереди и опубликует сразу
-- IT+PL+CS: выпуск 2026-11-18 22:28 — следующий запуск возьмёт ссылку из очереди и опубликует сразу
-- EN-1: выпуск 2026-11-18 22:28 — следующий запуск возьмёт ссылку из очереди и опубликует сразу
-- EN-2: выпуск 2026-11-18 22:28 — следующий запуск возьмёт ссылку из очереди и опубликует сразу
-- NL+DE: выпуск 2026-11-18 22:28 — следующий запуск возьмёт ссылку из очереди и опубликует сразу
-- RU+TR+PT: выпуск 2026-11-18 22:28 — следующий запуск возьмёт ссылку из очереди и опубликует сразу
-- Mix (RU+ES+RO+AR): выпуск 2026-11-18 22:28 — следующий запуск возьмёт ссылку из очереди и опубликует сразу
+1. (EN, 5851 знаков) «My ex-boyfriend's mother sent me a $400 red dress to wear to his wedding. He was marrying the woman he'd cheated on me with. Inside the box was a hand…»
+2. ❌ не удалось прочитать пост: 108874644793166_1411872534493364: FB 100/33: Unsupported get request. Object with ID '108874644793166_1411872534493364' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api | 1411872534493364: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1411872534493364: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher
+3. (EN, 4685 знаков) «At 8:12 on Christmas morning, I caught my seven-year-old daughter hiding her little brother's boots so we couldn't leave the house. I was three months…»
+4. ❌ не удалось прочитать пост: 108874644793166_1412818894398728: FB 100/33: Unsupported get request. Object with ID '108874644793166_1412818894398728' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api | 1412818894398728: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1412818894398728: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher
+5. (EN, 6562 знаков) «We’re not spending Christmas with you,” my DIL said. “Cool,” I replied. Then I added one sentence: “Well... Christmas is canceled then.” And slowly—he…»
 
