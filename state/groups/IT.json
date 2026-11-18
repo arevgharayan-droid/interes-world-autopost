@@ -11250,12 +11250,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116529529328231_1190400083548380",
        "error": null,
        "last_attempt": "2026-11-18T22:38:40+04:00",
        "mode": "immediate",
        "photo_id": "122116529505328231",
        "post_id": "1106793902521611_122116529529328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Rodila jsem o čtyři týdny dřív a manžel mi řekl, ať si zavolám Uber. Na podlaze v koupelně mi pak jako jediný pomáhal náš pětiletý syn",
@@ -11264,6 +11266,7 @@
      ],
      "wp_error": null,
      "wp_id": 641,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -11289,120 +11292,146 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132736699302250_2883552042018753",
        "error": null,
        "last_attempt": "2026-11-18T22:34:03+04:00",
        "mode": "immediate",
        "photo_id": "122132736675302250",
        "post_id": "1012250151981057_122132736699302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141173526808945_1643086297194376",
        "error": null,
        "last_attempt": "2026-11-18T22:32:55+04:00",
        "mode": "immediate",
        "photo_id": "122141173502808945",
        "post_id": "1030877436782212_122141173526808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111802224456562_2410842393084282",
        "error": null,
        "last_attempt": "2026-11-18T22:31:20+04:00",
        "mode": "immediate",
        "photo_id": "122111802200456562",
        "post_id": "1064982806700854_122111802224456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131406937306132_1494325042570285",
        "error": null,
        "last_attempt": "2026-11-18T22:34:48+04:00",
        "mode": "immediate",
        "photo_id": "122131406913306132",
        "post_id": "1068567606345452_122131406937306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127953445305584_1698705855370722",
        "error": null,
        "last_attempt": "2026-11-18T22:36:54+04:00",
        "mode": "immediate",
        "photo_id": "122127953421305584",
        "post_id": "1078100405390763_122127953445305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108471726506427_1792524788688530",
        "error": null,
        "last_attempt": "2026-11-18T22:30:57+04:00",
        "mode": "immediate",
        "photo_id": "122108471702506427",
        "post_id": "1079964265201139_122108471726506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133541833308548_951189851407774",
        "error": null,
        "last_attempt": "2026-11-18T22:34:26+04:00",
        "mode": "immediate",
        "photo_id": "122133541809308548",
        "post_id": "1086658774532679_122133541833308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123002575296683_1078797148515711",
        "error": null,
        "last_attempt": "2026-11-18T22:33:41+04:00",
        "mode": "immediate",
        "photo_id": "122123002551296683",
        "post_id": "1087342844462554_122123002575296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129675541300251_2169009607155570",
        "error": null,
        "last_attempt": "2026-11-18T22:36:38+04:00",
        "mode": "immediate",
        "photo_id": "122129675511300251",
        "post_id": "1093003583899107_122129675541300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114650646601707_2657947864721633",
        "error": null,
        "last_attempt": "2026-11-18T22:35:58+04:00",
        "mode": "immediate",
        "photo_id": "122114650622601707",
        "post_id": "1099258949937246_122114650646601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141756516811401_1198350592863937",
        "error": null,
        "last_attempt": "2026-11-18T22:32:32+04:00",
        "mode": "immediate",
        "photo_id": "122141756492811401",
        "post_id": "1114015015119414_122141756516811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105049770533031_1834261411047473",
        "error": null,
        "last_attempt": "2026-11-18T22:35:34+04:00",
        "mode": "immediate",
        "photo_id": "122105049746533031",
        "post_id": "1128937866962526_122105049770533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110655210543006_1494454419238745",
        "error": null,
        "last_attempt": "2026-11-18T22:31:45+04:00",
        "mode": "immediate",
        "photo_id": "122110655186543006",
        "post_id": "1140835409106424_122110655210543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -11417,21 +11446,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130366861314630_1483458007302013",
        "error": null,
        "last_attempt": "2026-11-18T22:35:12+04:00",
        "mode": "immediate",
        "photo_id": "122130366831314630",
        "post_id": "1149681171551323_122130366861314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122892181318395_2076523466369969",
        "error": null,
        "last_attempt": "2026-11-18T22:36:23+04:00",
        "mode": "immediate",
        "photo_id": "122122892157318395",
        "post_id": "1159996950522974_122122892181318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -11446,39 +11479,47 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128852419300955_1360795102682982",
        "error": null,
        "last_attempt": "2026-11-18T22:33:18+04:00",
        "mode": "immediate",
        "photo_id": "122128852395300955",
        "post_id": "1160240797163045_122128852419300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126148453301482_1659764685816708",
        "error": null,
        "last_attempt": "2026-11-18T22:37:12+04:00",
        "mode": "immediate",
        "photo_id": "122126148429301482",
        "post_id": "1174674892385169_122126148453301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126159445405175_4976309052646328",
        "error": null,
        "last_attempt": "2026-11-18T22:32:09+04:00",
        "mode": "immediate",
        "photo_id": "122126159421405175",
        "post_id": "1191480207389219_122126159445405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113239368437662_2144574429599199",
        "error": null,
        "last_attempt": "2026-11-18T22:30:34+04:00",
        "mode": "immediate",
        "photo_id": "122113239338437662",
        "post_id": "997772916762884_122113239368437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mio marito ha rifiutato di accompagnarmi in ospedale per il suo fantasy draft: 40 minuti dopo ero sul pavimento del bagno e mio figlio di 5 anni parlava con il 911",
@@ -11499,39 +11540,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126555301304793_2698766947249087",
        "error": null,
        "last_attempt": "2026-11-18T22:38:22+04:00",
        "mode": "immediate",
        "photo_id": "122126555277304793",
        "post_id": "1079800528556354_122126555301304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114206886359745_2081052389268020",
        "error": null,
        "last_attempt": "2026-11-18T22:37:29+04:00",
        "mode": "immediate",
        "photo_id": "122114206862359745",
        "post_id": "1083785318156771_122114206886359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122988787302807_1115262694442465",
        "error": null,
        "last_attempt": "2026-11-18T22:37:47+04:00",
        "mode": "immediate",
        "photo_id": "122122988757302807",
        "post_id": "1089456087587677_122122988787302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141352741313481_1164753785952838",
        "error": null,
        "last_attempt": "2026-11-18T22:38:04+04:00",
        "mode": "immediate",
        "photo_id": "122141352711313481",
        "post_id": "1107966229066828_122141352741313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mąż kazał mi wezwać Ubera w trakcie porodu, bo miał swój draft. Czterdzieści minut później rodziłam na podłodze w łazience, a numer alarmowy wybrał mój 5-letni syn",
@@ -11540,6 +11589,7 @@
      ],
      "wp_error": null,
      "wp_id": 640,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -11575,7 +11625,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-2228-it.jpg"
    },
    "source_key": "post:61552132650894_122314301714071088",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
