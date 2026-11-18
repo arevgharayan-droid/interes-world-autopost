@@ -26,6 +26,7 @@
   "b034d1046357d847cce2": "2026-11-16T16:00:37+00:00",
   "b1899a39d4a80bf0017e": "2026-11-15T10:15:24+00:00",
   "b49b03bb1b007b0a80de": "2026-11-09T20:02:56+00:00",
+  "bd7c5a3d358209d3b58a": "2026-11-18T18:29:08+00:00",
   "c7642b06a93420a0f1dc": "2026-11-16T19:28:15+00:00",
   "cad5cdd2ed73c48ea1dc": "2026-11-09T20:01:56+00:00",
   "cb24f2fe5112af4485e2": "2026-11-12T09:03:54+00:00",
@@ -9109,7 +9110,72 @@
   },
   "2026-11-18 22:28": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Flew Home Early on New Year's Eve to Meet My Newborn Son, and Found My Wife Bleeding, Starving and Alone While My Family Partied in Miami",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 637,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T22:28:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/912349353_122314364180071088_7769251523983668068_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YllK-k6JmnAQ7kNvwGPIVU_&_nc_oc=Adq_KsbjwxJ7CIlxq8moIDnRvqcc_915tkEiPJYW4J3Lhi81tRYPmN_k_a0D7ibMm40&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=K9971FZlG1RkpLedHY4_ug&_nc_tpa=Q5bMBQKIvOEK8HWwQViFX64lWgdRj9EWx5GgVeiIUds4MbF-wiNUP6FebSAXMlJMOqStkvbsrRmO3T13Sg&oh=00_AQQsjSkoQ3KSAplSrGeZGQY_QzaUaTBvTq8zd3KizpnBvQ&oe=6B03B6DE",
@@ -9121,7 +9187,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-2228-en.jpg"
    },
    "source_key": "post:61552132650894_122314364204071088",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -9454,7 +9520,7 @@
    "origin": "manual",
    "page_id": "61552132650894",
    "slot": "2026-11-18 22:28",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61559846438723_122234851268328214": {
    "fingerprint": "53f93cb76184c3c83cc0",

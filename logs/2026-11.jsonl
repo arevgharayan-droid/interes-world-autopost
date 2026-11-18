@@ -6563,3 +6563,5 @@
 {"slot": "2026-11-18 22:28", "action": "wp_media", "id": 634, "t": "2026-11-18T18:28:32+00:00", "group": "FR"}
 {"slot": "2026-11-18 22:28", "action": "wp_media", "id": 635, "t": "2026-11-18T18:28:32+00:00", "group": "EN"}
 {"slot": "2026-11-18 22:28", "action": "wp_media", "id": 636, "t": "2026-11-18T18:28:32+00:00", "group": "IT"}
+{"slot": "2026-11-18 22:28", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-18T18:29:08+00:00", "group": "EN"}
+{"slot": "2026-11-18 22:28", "lang": "EN", "action": "wp_post", "id": 637, "status": "publish", "t": "2026-11-18T18:29:09+00:00", "group": "EN"}
