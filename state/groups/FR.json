@@ -6304,7 +6304,7 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-18T19:22:00+04:00",
-   "status": "new"
+   "status": "no_source"
   },
   "2026-11-18 21:00": {
    "langs": {},
@@ -6368,6 +6368,11 @@
   "link:34c0576fa478e735649e": {
    "link": "https://www.facebook.com/share/1LshATWzKE/",
    "resolved": "https://www.facebook.com/100044802900629/posts/1674111954092219/?rdid=ZoVb0gFhJZ7UpSoK&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1LshATWzKE%2F"
+  },
+  "link:37ff0091dbe36e216c55": {
+   "dup_logged": true,
+   "link": "https://www.facebook.com/share/p/1FDhu3xjkL/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122140366857244044&id=61587321322233"
   },
   "link:3b4e6fd65ee4eafa2d9e": {
    "link": "https://www.facebook.com/share/p/1EdRNt9KVQ/",
