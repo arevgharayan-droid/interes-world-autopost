@@ -61,6 +61,7 @@
   "78229d059b1f03d27989": "2026-11-09T20:08:16+00:00",
   "788e0e4a8634b7c3a3a3": "2026-11-10T22:05:49+00:00",
   "7a8fd36d00723b018f69": "2026-11-16T23:52:12+00:00",
+  "80517b7021da26730a52": "2026-11-18T15:24:43+00:00",
   "822b3e6fa186814bd262": "2026-11-12T17:48:06+00:00",
   "872c066fea909c2bfe8d": "2026-11-13T14:37:39+00:00",
   "8985ae5cfef71c642a06": "2026-11-10T22:08:57+00:00",
@@ -74,6 +75,7 @@
   "959c0a3855f5dc48d671": "2026-11-09T20:03:21+00:00",
   "993b67355d685fd04e45": "2026-11-17T17:52:52+00:00",
   "9a76a9818995731524e0": "2026-11-16T10:16:47+00:00",
+  "9b8e5872c3c1d4a10224": "2026-11-18T15:24:43+00:00",
   "9d236a06f2c553cf0edc": "2026-11-15T14:15:11+00:00",
   "9f68477819cc7f2b978d": "2026-11-09T20:02:09+00:00",
   "a21b9dc024828d2ffa55": "2026-11-16T20:28:20+00:00",
@@ -103,6 +105,7 @@
   "e84337ab74e96356bcfe": "2026-11-10T22:05:49+00:00",
   "e883d8565fbbc8af866b": "2026-11-16T19:28:42+00:00",
   "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00",
+  "f4fbb08e36886ae63dd0": "2026-11-18T15:24:43+00:00",
   "fd395eead654da158a14": "2026-11-13T10:15:12+00:00"
  },
  "outputs": {
@@ -9465,7 +9468,88 @@
   },
   "2026-11-18 19:22": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Uma mãe solteira cochilava na poltrona 8A, mas quando o comandante pediu um piloto de caça no meio do Atlântico, ela se levantou e descobriu quem a esperava no cockpit",
+     "warnings": [
+      "часть 1: 723 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 361,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Одинокая мать дремала в кресле 8A, но когда командир попросил лётчика-истребителя, она отстегнула ремень и пошла к кабине, где кто-то знал её тайну",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 359,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "8A koltuğunda uyuyan bekâr anne, kaptanın \"Uçakta savaş pilotu var mı?\" anonsunu duyunca yıllardır gizlediği geçmişle yüzleşmek zorunda kaldı",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 360,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T19:22:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/869940862_122139110979244044_4824709472406945593_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GyBZvTctWy4Q7kNvwEmCSTS&_nc_oc=AdoVcilWwW7acHpvZT439NpG8aGBBal9YEqEXx07mIGkjH2BgZuUSSgX-27SrAY8Oo4&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=OyZmKiYK0T1cjrWxkYMVQw&_nc_tpa=Q5bMBQIV1PPO0aO2gBsGAipjflp0Fq6FreWO9p2wNmCtLwtDh3rVGoo-wWNEY5kP-XTF8seMfI8xMasJsA&oh=00_AQQKtdN03w3ErLm3UtYX6S1iGF8DoAi9h-oeLdFqy_R-Jw&oe=6B038524",
@@ -9477,7 +9561,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-1922-ru.jpg"
    },
    "source_key": "post:61587321322233_122139111003244044",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -9946,7 +10030,7 @@
    "origin": "manual",
    "page_id": "61587321322233",
    "slot": "2026-11-18 19:22",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587321322233_122139692985244044": {
    "fingerprint": "99a9e18352069246f198",
