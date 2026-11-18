@@ -3,6 +3,7 @@
  "fb_block_until": "2026-11-14T14:15:14+04:00",
  "output_fps": {
   "01e12e5644fd826a0d81": "2026-11-17T10:38:47+00:00",
+  "05691ada2c15180a0929": "2026-11-18T18:29:38+00:00",
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
   "08b0488d45dded8d095f": "2026-11-16T00:18:19+00:00",
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
@@ -42,6 +43,7 @@
   "8ce4da47da5cb5603868": "2026-11-17T10:38:47+00:00",
   "8d6dd84f3fd108530c61": "2026-11-14T09:18:15+00:00",
   "8dcd9b38604c3a494e89": "2026-11-18T08:52:43+00:00",
+  "90f10d92ae3c8949c582": "2026-11-18T18:29:38+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
@@ -73,6 +75,7 @@
   "f4fb1870212e1ca687e6": "2026-11-17T18:29:53+00:00",
   "f5c0e175c68a336e3e47": "2026-11-09T20:09:08+00:00",
   "fc7afd4f1a31db559569": "2026-11-15T10:15:15+00:00",
+  "fcf4e0ed885a332215e7": "2026-11-18T18:29:38+00:00",
   "ff177c2141f7f0364278": "2026-11-09T13:24:27+00:00"
  },
  "outputs": {
@@ -11183,7 +11186,90 @@
   },
   "2026-11-18 22:28": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Rodila jsem o čtyři týdny dřív a manžel mi řekl, ať si zavolám Uber. Na podlaze v koupelně mi pak jako jediný pomáhal náš pětiletý syn",
+     "warnings": [
+      "длина текста FB 654 слов (исходник 863, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 641,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mio marito ha rifiutato di accompagnarmi in ospedale per il suo fantasy draft: 40 minuti dopo ero sul pavimento del bagno e mio figlio di 5 anni parlava con il 911",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 639,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mąż kazał mi wezwać Ubera w trakcie porodu, bo miał swój draft. Czterdzieści minut później rodziłam na podłodze w łazience, a numer alarmowy wybrał mój 5-letni syn",
+     "warnings": [
+      "длина текста FB 685 слов (исходник 863, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 640,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T22:28:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/911811492_122314301684071088_61769822152672089_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gUuesTShoooQ7kNvwGF-FSF&_nc_oc=AdpCQ_FNUBPBB5-VMwedDtmzzWLWtf2claGlDzQGuTMtqulD7aze0u29CPIh5ZJxq8c&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=QmRq39LQ55OEfzbN2flxaQ&_nc_tpa=Q5bMBQLqYCJDEvlcsXLUEIiz2tSxaNYal5RLtb1CO2JwE_y9nLwdcgXa5n9Vll1JH-9CuRcPx7Lwqvv2CQ&oh=00_AQRNLEc1oliFM-CBgodPAdopK_JGbC0ChDqvo15aoSseKQ&oe=6B03AC46",
@@ -11195,7 +11281,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-2228-it.jpg"
    },
    "source_key": "post:61552132650894_122314301714071088",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11565,7 +11651,7 @@
    "origin": "manual",
    "page_id": "61552132650894",
    "slot": "2026-11-18 22:28",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61559846438723_122233295294328214": {
    "fingerprint": "8aa986f5bca5e28acef2",
