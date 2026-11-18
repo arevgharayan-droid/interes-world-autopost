@@ -7015,57 +7015,69 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132364891310273_1913083970071806",
        "error": null,
        "last_attempt": "2026-11-18T22:59:32+04:00",
        "mode": "immediate",
        "photo_id": "122132364867310273",
        "post_id": "1028964020310052_122132364891310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130316707321366_1088822360845195",
        "error": null,
        "last_attempt": "2026-11-18T22:59:48+04:00",
        "mode": "immediate",
        "photo_id": "122130316683321366",
        "post_id": "1089186904280406_122130316707321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127820365309032_1020256857785989",
        "error": null,
        "last_attempt": "2026-11-18T22:58:59+04:00",
        "mode": "immediate",
        "photo_id": "122127820341309032",
        "post_id": "1102464712951594_122127820365309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126007531316035_998086376685955",
        "error": null,
        "last_attempt": "2026-11-18T22:59:16+04:00",
        "mode": "immediate",
        "photo_id": "122126007507316035",
        "post_id": "1129908326870761_122126007531316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131615167418602_1410648444391497",
        "error": null,
        "last_attempt": "2026-11-18T22:58:26+04:00",
        "mode": "immediate",
        "photo_id": "122131615137418602",
        "post_id": "1208422892355505_122131615167418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134028427436382_4792803090990666",
        "error": null,
        "last_attempt": "2026-11-18T22:58:42+04:00",
        "mode": "immediate",
        "photo_id": "122134028403436382",
        "post_id": "1268633826332790_122134028427436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Dann ist Weihnachten eben abgesagt“: Wie eine Mutter nach dem Satz ihrer Schwiegertochter alles stoppte, was sie jahrelang bezahlt hatte",
@@ -7218,7 +7230,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-2228-nl.jpg"
    },
    "source_key": "post:61552132650894_122314392830071088",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
