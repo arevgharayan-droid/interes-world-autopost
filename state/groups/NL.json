@@ -7098,12 +7098,13 @@
       "1144269682096701": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125439787304553_1716917913210682",
        "error": null,
        "last_attempt": "2026-11-18T22:57:15+04:00",
        "mode": "immediate",
        "photo_id": "122125439763304553",
        "post_id": "1144269682096701_122125439787304553",
-       "status": "published"
+       "status": "done"
       },
       "1180417388497186": {
        "attempts": 1,
