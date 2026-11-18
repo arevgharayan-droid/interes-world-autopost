@@ -9570,30 +9570,36 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129200845306316_1664755531948931",
        "error": null,
        "last_attempt": "2026-11-18T19:38:56+04:00",
        "mode": "immediate",
        "photo_id": "122129200821306316",
        "post_id": "1138572272664180_122129200845306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118450789471857_1601802914601658",
        "error": null,
        "last_attempt": "2026-11-18T19:38:45+04:00",
        "mode": "immediate",
        "photo_id": "122118450765471857",
        "post_id": "1338630212673029_122118450789471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121443883505599_1156301110189223",
        "error": null,
        "last_attempt": "2026-11-18T19:38:29+04:00",
        "mode": "immediate",
        "photo_id": "122121443859505599",
        "post_id": "1448441201677530_122121443883505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Uma mãe solteira cochilava na poltrona 8A, mas quando o comandante pediu um piloto de caça no meio do Atlântico, ela se levantou e descobriu quem a esperava no cockpit",
@@ -9602,6 +9608,7 @@
      ],
      "wp_error": null,
      "wp_id": 361,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -9693,12 +9700,13 @@
       "1069814529551887": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127449133303687_3114854045367512",
        "error": null,
        "last_attempt": "2026-11-18T19:36:43+04:00",
        "mode": "immediate",
        "photo_id": "122127449109303687",
        "post_id": "1069814529551887_122127449133303687",
-       "status": "published"
+       "status": "done"
       },
       "1075346445663696": {
        "attempts": 1,
@@ -9869,45 +9877,54 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124789207304633_1137118675898621",
        "error": null,
        "last_attempt": "2026-11-18T19:37:54+04:00",
        "mode": "immediate",
        "photo_id": "122124789183304633",
        "post_id": "1083701291497481_122124789207304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128097031311884_2316834639095285",
        "error": null,
        "last_attempt": "2026-11-18T19:37:13+04:00",
        "mode": "immediate",
        "photo_id": "122128097001311884",
        "post_id": "1129620776897151_122128097031311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127338289307134_2558967997949629",
        "error": null,
        "last_attempt": "2026-11-18T19:37:37+04:00",
        "mode": "immediate",
        "photo_id": "122127338265307134",
        "post_id": "1164575726728296_122127338289307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123855853305562_1041467855019049",
        "error": null,
        "last_attempt": "2026-11-18T19:38:10+04:00",
        "mode": "immediate",
        "photo_id": "122123855829305562",
        "post_id": "1180583925128715_122123855853305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "8A koltuğunda uyuyan bekâr anne, kaptanın \"Uçakta savaş pilotu var mı?\" anonsunu duyunca yıllardır gizlediği geçmişle yüzleşmek zorunda kaldı",
      "warnings": [],
      "wp_error": null,
      "wp_id": 360,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "UK": {
@@ -9927,7 +9944,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-1922-ru.jpg"
    },
    "source_key": "post:61587321322233_122139111003244044",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
