@@ -37,7 +37,8 @@
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00",
   "d7f8167190d0b9b93782": "2026-11-18T22:20:27+00:00",
   "decab325bccbd36f9888": "2026-11-18T18:29:16+00:00",
-  "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00"
+  "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00",
+  "eedeb2476364b2162ac5": "2026-11-18T22:49:38+00:00"
  },
  "outputs": {
   "1032441206625600_122117195168633539": "2026-11-09T14:09:46+00:00",
@@ -6761,7 +6762,72 @@
    "status": "cancelled"
   },
   "2026-11-19 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle a découvert l'infidélité de son mari et s'est réfugiée chez ses parents avec ses 3 enfants, mais son père lui a fermé la porte au nez",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 669,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/912379734_1719128982939127_564661195520756143_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5_tKJR118C0Q7kNvwGRfiuJ&_nc_oc=AdoP8gN9alg-gkAj2am0WEZaxonFvlhoeuni0xj36K8BhqRhn2GmFxQMXBNwiw6H-D4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=8W9GwYNzZjAP40gTNeIRdQ&_nc_tpa=Q5bMBQJ2AWnfzg-7emPVu2rIet5huP359d_bP9cIB1V4eKr9HMt_-fWMEMeMMOE1ubbuOw6b4a8XvdL_4w&oh=00_AQS5eYnCXbda3wnJQs_fJE9VVvAdYbBthsbA0e0Q9PPfsQ&oe=6B03F41D",
@@ -6773,7 +6839,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1200-fr.jpg"
    },
    "source_key": "post:100045261260562_1719129089605783",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7060,7 +7126,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
