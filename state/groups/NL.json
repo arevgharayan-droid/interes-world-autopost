@@ -27,6 +27,7 @@
   "46a1728a5126f9af6c13": "2026-11-16T00:16:52+00:00",
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
   "4c218b53bb5fd5b6f1b3": "2026-11-16T19:28:25+00:00",
+  "4ca334761547934cbacc": "2026-11-18T22:49:31+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
   "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
@@ -72,6 +73,7 @@
   "e397216edbfa0a01eebc": "2026-11-18T22:36:37+00:00",
   "e3d10d7308b19870ee32": "2026-11-16T16:00:57+00:00",
   "ebc91716c611bd42ee20": "2026-11-09T20:07:46+00:00",
+  "ecd7a0840dd1ae067df4": "2026-11-18T22:49:31+00:00",
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
   "f3c8eaafc0e1dc9038f5": "2026-11-09T13:26:40+00:00",
   "f3db1dfbfdb7df061663": "2026-11-14T11:39:08+00:00",
@@ -7520,7 +7522,79 @@
    "status": "cancelled"
   },
   "2026-11-19 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mein Mann rasierte unseren Zwillingen die Köpfe, um sie auseinanderzuhalten – doch nachts sah ich auf dem Babyphone etwas, das mich die Treppe hinaufrennen ließ",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 668,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn man schoor de hoofden van onze eeneiige tweeling kaal om ze uit elkaar te houden, maar die nacht zag ik via de babyfoon iets waardoor ik de trap op rende",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 667,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/911884616_1718272746358084_2788808090908601448_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=xZRomc8EwLkQ7kNvwH7D0iU&_nc_oc=AdqRTNF8JgQp5tR8M7J4Krd21CdQBVrvvYcXJmEkM6sWZldqLT-WctqGMSsUoZhhPdw&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=vR6HV5fnUDtD2HGMrO-lKw&_nc_tpa=Q5bMBQLZPnGrEx3WihiFeycSh1PJFguEcHRMMPB-8dWWGFyIBVEAnYs9Dm8043CvgMv_LA2xFWWONqXB3g&oh=00_AQTOo4mu8sYmmC6H3Yq-e9kGiL8OAOqwL1dukS5ealpzpg&oe=6B03EDF2",
@@ -7532,7 +7606,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1200-nl.jpg"
    },
    "source_key": "post:100045261260562_1718272799691412",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7818,7 +7892,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1718872332964792": {
    "fingerprint": "8170b78d44c9a9515411",
