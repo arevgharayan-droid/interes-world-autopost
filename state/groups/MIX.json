@@ -2358,7 +2358,7 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-18T22:54:00+04:00",
-   "status": "new"
+   "status": "no_source"
   },
   "2026-11-19 00:00": {
    "langs": {},
@@ -2409,6 +2409,7 @@
    "link": "https://www.facebook.com/share/p/1FTnpRTe58/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122142677133234210&id=61587026316282"
   },
+  "link:b79de8f81a4c2b04d410": {},
   "link:c41216de7e997e365816": {
    "link": "https://www.facebook.com/share/p/1E1MWXjgZp/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122130695810893096&id=61576792898556"
