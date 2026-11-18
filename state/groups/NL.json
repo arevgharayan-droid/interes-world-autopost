@@ -6431,7 +6431,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-18T12:50:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/913264139_1463262662654481_2560662753913427271_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AqVkkuIzYrkQ7kNvwEvC-68&_nc_oc=Adpn8ri4NKchGCPuy4uJOqqv6nN3GaA6mrC5ckzkr5yAZRaS5_lAneVL-FuPmJvSD-o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ZcIXPywGhM3NN5jN7R7I9Q&_nc_tpa=Q5bMBQLM3gBqkTrawdpmNTrbUo0RPzGlerMINoyc9_N2J-ar1xn23-17uQCRkAko6KhejI0Ro5R80uCjyw&oh=00_AQRhlNnqL5D4Kk4P346MuuA2G5ulv2UCmCV3xHM8nBa-zQ&oe=6B03512A",
+    "link": "https://www.facebook.com/share/p/1JsGfudSKi/",
+    "origin": "manual",
+    "page_id": "100069122846749",
+    "text": "My dad began charging me $250 each month for my room once I turned 18. After his funeral five years later, his best friend gave me a box and said, \"He wanted you to open this only after he was gone.\"\n\nMom passed away when I was nine. Dad worked late, made sure the fridge was stocked, and signed my school papers. He rarely seemed interested in how my day had gone.\n\n\"Can I get new shoes? These let water in,\" I once said to him.\n\n\"Put on another pair of socks,\" he answered.\n\nThough present, he hardly fulfilled the role of a dad.\n\nWhen I turned eighteen, he pushed a scrap of paper across the table, saying,\n\n\"Pay me $250 for your room. On the first of every month.\"\n\n\"You're charging your own son rent?\" I was shocked.\n\n\"You're an adult now.\"\n\nI waited for a punchline.\n\nThere was none. He expected that payment.\n\nI found work stocking shelves, chipped in for groceries, and tried saving to move out, but car troubles or lost hours always delayed me.\n\nMonth after month, another $250.\n\nDad would show up with beer or fishing equipment while I tried fixing my shoes.\n\nSometimes, we wouldn't talk for a week, simply crossing paths in silence.\n\nFive years after, Dad died unexpectedly.\n\nI used to imagine peace with him gone.\n\nYet, after everything, I stood by the door, staring at his work boots, unable to move them.\n\nThat night, his friend Frank arrived with a cardboard box, taped shut.\n\n\"Your dad left this for you.\"\n\nFrank set it on the kitchen table.\n\n\"He wanted you to have it once he was gone.\"\n\nA bitter laugh escaped me.\n\n\"What? Did he keep all my rent?\"\n\nFrank didn’t laugh.\n\n\"I wouldn’t assume.\"\n\nNervously, I peeled the tape away.\n\nI opened the box.\n\nInitially, I thought it was a mistake.\n\nLooking again, I understood.\n\nCollapsing into Dad’s chair, I cried so hard Frank had to support me.",
+    "wp_media_id": 613,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-1250-nl.jpg"
+   },
+   "source_key": "post:100069122846749_1463262675987813",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-18 15:00": {
    "langs": {},
@@ -6559,6 +6575,10 @@
   "link:8c742fe484b1114635d9": {
    "link": "https://www.facebook.com/share/p/1AAS6GuJUT/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122105901873521979&id=61595659383273"
+  },
+  "link:8fa1d48bbc67c1529cc8": {
+   "link": "https://www.facebook.com/share/p/1JsGfudSKi/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1463262675987813&id=100069122846749"
   },
   "link:912a637be224da54a64c": {},
   "link:926b5870abc506b71095": {
@@ -6715,6 +6735,14 @@
    "page_id": "100064456312444",
    "slot": "2026-11-01 15:00",
    "status": "used"
+  },
+  "post:100069122846749_1463262675987813": {
+   "fingerprint": "bb02176043329ab66fc7",
+   "link": "https://www.facebook.com/share/p/1JsGfudSKi/",
+   "origin": "manual",
+   "page_id": "100069122846749",
+   "slot": "2026-11-18 12:50",
+   "status": "reserved"
   },
   "post:100083098754330_1123799307066684": {
    "fingerprint": "9e7f24b963c619d273ae",

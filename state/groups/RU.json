@@ -8973,7 +8973,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-18T12:50:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/907625594_122236016954328214_2815088464015217841_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Xg1MylOqJNgQ7kNvwHu20ms&_nc_oc=AdpdrlfJoGYjsq376ujys0-VeEp7W_nqksEwbaN33KMcJJpuR7UNm19QZRB5BdgD58o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=aGhmlI6m2ikSsvPc0bp3fg&_nc_tpa=Q5bMBQKVUxWGp3vTLf4n7EjiznIwX_BU_JxC3aSO1atDH8JaIvK969fo87EBtMkJ2irrlRdu6UNcIurwaw&oh=00_AQSQtqY18DROTwKch53NNqTLCzgtBWScpvzKQu2GIWPIvw&oe=6B03375B",
+    "link": "https://www.facebook.com/share/p/19gsK2Sgfn/",
+    "origin": "manual",
+    "page_id": "61559846438723",
+    "text": "My mother’s boyfriend invited a group of soldiers to our house to “teach me discipline,” then ordered me to stay in the kitchen because he didn’t want me embarrassing him in front of “real military men.” I let him talk. But when I walked back into the living room in my Army dress uniform, one of the soldiers snapped to his feet and shouted, “ATTENTION!” And Wendell Pruitt turned white as a ghost.\nPART 1\nMy name is Josephine Calloway. I am a major in the United States Army.\nI’m thirty-one years old, an active-duty military intelligence officer, and at that moment I was on temporary assignment in Georgia, on work I couldn’t discuss with civilians.\nWendell Pruitt knew none of that.\nAccording to him, I was a directionless disappointment, a woman who had reached thirty-one without building a real career.\nFor my first two days in my mother’s house in Columbus, I let him go on believing it.\nOn Saturday morning, I came downstairs and found Wendell in the kitchen with a coffee cup in one hand and the other planted on his hip.\n“It’s eight o’clock,” he said, without even looking at me.\nI opened the cabinet where Mom had kept the mugs since I was twelve.\n“It’s Saturday.”\nHe turned.\n“In this house, everybody is up before seven.”\nI nearly laughed.\nMy father and mother had bought that house twenty-six years earlier. Wendell had lived there less than a year.\n“I’m in charge here, and I expect discipline,” he added.\nJust then my mother walked in.\n“Good morning, honey.”\nShe looked at me, then at Wendell.\nFor a moment, something crossed her face.\nFear. Caution.\nThat worried me far more than Wendell’s arrogance.\nMy mother, Ruth, was a woman who sang while she made pancakes, slammed doors when she was angry, and had once run a contractor off the property for speaking to her with contempt.\nNow she moved carefully around Wendell.\nHe pointed his mug at me.\n“Your mother tells me you’re between jobs.”\n“Something like that.”\n“She’s worried about you.”\nMom frowned at once.\n“I never said...”\n“Somebody has to tell her the truth,” Wendell cut in. “At thirty-one, you should know what to do with your life.”\nI could have ended the conversation right there.\nI could have told him my rank. Shown him my military ID. Watched his face change.\nInstead, I added a little cream to my coffee.\n“What would you recommend?”\nHis shoulders relaxed.\n“Discipline. Responsibility. A real career. When I was in the Army, nobody wasted time trying to figure out who they were.”\nThere it was.\nHis favorite subject.\nWendell claimed to have spent decades in uniform. He said he had commanded soldiers overseas, run logistics operations in combat zones, and retired as a command sergeant major.\nHe even owned three ball caps with the title stitched across the front.\nCOMMAND SERGEANT MAJOR, U.S. ARMY, RETIRED.\nOne hung by the back door like a trophy.\nWendell loved that cap almost as much as he loved lecturing about what the service had taught him.\nDiscipline.\nHonor.\nLeadership.\nAnd, of course, according to him, I had none of those.\nThat afternoon he announced he had invited several “real soldiers” to dinner.\n“Maybe they can teach you something,” he said.\nThen, with a smug smile:\n“And stay in the kitchen until I call you. I don’t want you embarrassing me.”\nI looked at him.\nThen I looked at my mother.\nAnd something inside me went completely still.\nBecause Wendell Pruitt had spent months building his whole authority on one enormous lie.\nHe had never been a command sergeant major.\nIn fact, he had never served in the military the way he claimed.\nAnd the soldiers he’d invited to impress?\nAt least one of them already knew exactly who I was.\nPart 2 is already in the first comment 😉 Type “POWER” and press LIKE if you want to continue reading till the end of this story 👇",
+    "wp_media_id": 345,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-1250-ru.jpg"
+   },
+   "source_key": "post:61559846438723_122236091870328214",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-18 15:00": {
    "langs": {},
@@ -9154,6 +9170,10 @@
    "resolved": "https://www.facebook.com/story.php?story_fbid=1715264366658922&id=100045261260562"
   },
   "link:f906d0cc7a5794a6b07e": {},
+  "link:fd9b15d58c8dfaca6898": {
+   "link": "https://www.facebook.com/share/p/19gsK2Sgfn/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122236091870328214&id=61559846438723"
+  },
   "link:ffa1430b3a497a8d74a3": {
    "link": "https://www.facebook.com/share/p/17s8jDZDpe/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122131115925339253&id=61590177596600"
@@ -9317,6 +9337,14 @@
    "page_id": "61559846438723",
    "slot": "2026-11-16 23:26",
    "status": "used"
+  },
+  "post:61559846438723_122236091870328214": {
+   "fingerprint": "4da9ecb7529281fdc147",
+   "link": "https://www.facebook.com/share/p/19gsK2Sgfn/",
+   "origin": "manual",
+   "page_id": "61559846438723",
+   "slot": "2026-11-18 12:50",
+   "status": "reserved"
   },
   "post:61560353781750_122118837386345126": {
    "fingerprint": "b4c73313043f8644a411",
