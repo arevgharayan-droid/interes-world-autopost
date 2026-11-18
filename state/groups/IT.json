@@ -10344,12 +10344,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116494525328231_1875181090183796",
        "error": null,
        "last_attempt": "2026-11-18T13:08:10+04:00",
        "mode": "immediate",
        "photo_id": "122116494501328231",
        "post_id": "1106793902521611_122116494525328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Naše miminko poprvé letělo s tátou jako pilotem, ale když ji přes hlášení představil, zlomil mi srdce",
@@ -10358,6 +10360,7 @@
      ],
      "wp_error": null,
      "wp_id": 622,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -10383,120 +10386,146 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132637861302250_2158698384749070",
        "error": null,
        "last_attempt": "2026-11-18T13:00:43+04:00",
        "mode": "immediate",
        "photo_id": "122132637837302250",
        "post_id": "1012250151981057_122132637861302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141122292808945_1853825069422237",
        "error": null,
        "last_attempt": "2026-11-18T12:58:44+04:00",
        "mode": "immediate",
        "photo_id": "122141122268808945",
        "post_id": "1030877436782212_122141122292808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111784416456562_1132577069418432",
        "error": null,
        "last_attempt": "2026-11-18T12:55:57+04:00",
        "mode": "immediate",
        "photo_id": "122111784392456562",
        "post_id": "1064982806700854_122111784416456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131354257306132_943222452059930",
        "error": null,
        "last_attempt": "2026-11-18T13:02:03+04:00",
        "mode": "immediate",
        "photo_id": "122131354233306132",
        "post_id": "1068567606345452_122131354257306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127897123305584_2657542164693226",
        "error": null,
        "last_attempt": "2026-11-18T13:05:42+04:00",
        "mode": "immediate",
        "photo_id": "122127897099305584",
        "post_id": "1078100405390763_122127897123305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108451458506427_29338838242402710",
        "error": null,
        "last_attempt": "2026-11-18T12:55:16+04:00",
        "mode": "immediate",
        "photo_id": "122108451434506427",
        "post_id": "1079964265201139_122108451458506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133477597308548_2987732751626917",
        "error": null,
        "last_attempt": "2026-11-18T13:01:23+04:00",
        "mode": "immediate",
        "photo_id": "122133477573308548",
        "post_id": "1086658774532679_122133477597308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122964007296683_1645588587057366",
        "error": null,
        "last_attempt": "2026-11-18T13:00:02+04:00",
        "mode": "immediate",
        "photo_id": "122122963977296683",
        "post_id": "1087342844462554_122122964007296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129637951300251_2216641823065504",
        "error": null,
        "last_attempt": "2026-11-18T13:05:13+04:00",
        "mode": "immediate",
        "photo_id": "122129637921300251",
        "post_id": "1093003583899107_122129637951300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114625200601707_1660118669240307",
        "error": null,
        "last_attempt": "2026-11-18T13:04:03+04:00",
        "mode": "immediate",
        "photo_id": "122114625176601707",
        "post_id": "1099258949937246_122114625200601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141699306811401_1941137667270274",
        "error": null,
        "last_attempt": "2026-11-18T12:58:03+04:00",
        "mode": "immediate",
        "photo_id": "122141699282811401",
        "post_id": "1114015015119414_122141699306811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105034470533031_1492936059610422",
        "error": null,
        "last_attempt": "2026-11-18T13:03:23+04:00",
        "mode": "immediate",
        "photo_id": "122105034446533031",
        "post_id": "1128937866962526_122105034470533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110633448543006_2308702846645613",
        "error": null,
        "last_attempt": "2026-11-18T12:56:38+04:00",
        "mode": "immediate",
        "photo_id": "122110633424543006",
        "post_id": "1140835409106424_122110633448543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -10511,21 +10540,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130323205314630_2129175904407424",
        "error": null,
        "last_attempt": "2026-11-18T13:02:42+04:00",
        "mode": "immediate",
        "photo_id": "122130323181314630",
        "post_id": "1149681171551323_122130323205314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122845831318395_2546780015802732",
        "error": null,
        "last_attempt": "2026-11-18T13:04:39+04:00",
        "mode": "immediate",
        "photo_id": "122122845807318395",
        "post_id": "1159996950522974_122122845831318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -10540,39 +10573,47 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128805403300955_1533756608804367",
        "error": null,
        "last_attempt": "2026-11-18T12:59:22+04:00",
        "mode": "immediate",
        "photo_id": "122128805379300955",
        "post_id": "1160240797163045_122128805403300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126106201301482_1104935662411947",
        "error": null,
        "last_attempt": "2026-11-18T13:06:11+04:00",
        "mode": "immediate",
        "photo_id": "122126106177301482",
        "post_id": "1174674892385169_122126106201301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126101329405175_989160870440130",
        "error": null,
        "last_attempt": "2026-11-18T12:57:21+04:00",
        "mode": "immediate",
        "photo_id": "122126101305405175",
        "post_id": "1191480207389219_122126101329405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113213346437662_1178861061243985",
        "error": null,
        "last_attempt": "2026-11-18T12:54:36+04:00",
        "mode": "immediate",
        "photo_id": "122113213322437662",
        "post_id": "997772916762884_122113213346437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mio marito, il comandante, ha presentato nostra figlia ai passeggeri del suo primo volo, ma ha ringraziato un'altra donna davanti a tutti",
@@ -10593,39 +10634,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126511453304793_1535612674993486",
        "error": null,
        "last_attempt": "2026-11-18T13:07:53+04:00",
        "mode": "immediate",
        "photo_id": "122126511429304793",
        "post_id": "1079800528556354_122126511453304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114181044359745_1812174046781345",
        "error": null,
        "last_attempt": "2026-11-18T13:06:39+04:00",
        "mode": "immediate",
        "photo_id": "122114181020359745",
        "post_id": "1083785318156771_122114181044359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122954125302807_1669839338140509",
        "error": null,
        "last_attempt": "2026-11-18T13:07:08+04:00",
        "mode": "immediate",
        "photo_id": "122122954101302807",
        "post_id": "1089456087587677_122122954125302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141300307313481_2359151091529911",
        "error": null,
        "last_attempt": "2026-11-18T13:07:31+04:00",
        "mode": "immediate",
        "photo_id": "122141300277313481",
        "post_id": "1107966229066828_122141300307313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Nasza 9-miesięczna córeczka poleciała pierwszy raz samolotem z tatą za sterami, ale gdy przedstawiał ją pasażerom, jego słowa złamały mi serce",
@@ -10634,6 +10683,7 @@
      ],
      "wp_error": null,
      "wp_id": 621,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -10669,7 +10719,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-1250-it.jpg"
    },
    "source_key": "post:100069122846749_1462195259427888",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
