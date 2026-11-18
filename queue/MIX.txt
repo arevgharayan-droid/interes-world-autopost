@@ -21,3 +21,5 @@ https://www.facebook.com/share/p/1d8VPvuGUC/
 https://www.facebook.com/share/p/1FiPkvb4LJ/
 # 18.11.2026: внеочередной («Сейчас», сообщение 22:27)
 https://www.facebook.com/share/p/19qHeHvw3k/
+# 18.11.2026: внеочередной (сообщение 22:27) — ссылка pfbid раскрыта через браузер
+https://www.facebook.com/story.php?story_fbid=1412818894398728&id=100070118924538
