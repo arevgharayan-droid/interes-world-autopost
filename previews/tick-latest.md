@@ -6,20 +6,12 @@
 
 ### Ход работы
 - ⚠️ ссылка пропущена — тот же пост уже выходил в этой группе (2026-11-10 21:00, по ссылке https://www.facebook.com/share/p/1Ukt7rsNro/): https://www.facebook.com/share/p/19MbcPmJ8B/
-- ⚠️ ссылка пропущена — тот же пост уже выходил в этой группе (2026-11-10 21:00, по ссылке https://www.facebook.com/share/p/1Ukt7rsNro/): https://www.facebook.com/share/p/19MbcPmJ8B/
-- ⚠️ ссылка пропущена — тот же пост уже выходил в этой группе (2026-11-10 21:00, по ссылке https://www.facebook.com/share/p/1Ukt7rsNro/): https://www.facebook.com/share/p/19MbcPmJ8B/
-- ⚠️ ссылка пропущена — тот же пост уже выходил в этой группе (2026-11-10 21:00, по ссылке https://www.facebook.com/share/p/1Ukt7rsNro/): https://www.facebook.com/share/p/19MbcPmJ8B/
-- ⚠️ ссылка пропущена — тот же пост уже выходил в этой группе (2026-11-10 21:00, по ссылке https://www.facebook.com/share/p/1Ukt7rsNro/): https://www.facebook.com/share/p/19MbcPmJ8B/
 
 ### IT+PL+CS · 26 стр.
 
 Статей WordPress создано: **0** · текстов сгенерировано: **0** · постов FB запланировано: **0** · опубликовано сразу: **0** · первых комментариев: **0**
 
 ### Ход работы
-- ⚠️ ссылка пропущена — тот же пост уже выходил в этой группе (2026-11-17 22:27, по ссылке https://www.facebook.com/share/1MDNAZmp5S/): https://www.facebook.com/share/p/1FBHtKtsH4/
-- ⚠️ ссылка пропущена — тот же пост уже выходил в этой группе (2026-11-17 22:27, по ссылке https://www.facebook.com/share/1MDNAZmp5S/): https://www.facebook.com/share/p/1FBHtKtsH4/
-- ⚠️ ссылка пропущена — тот же пост уже выходил в этой группе (2026-11-17 22:27, по ссылке https://www.facebook.com/share/1MDNAZmp5S/): https://www.facebook.com/share/p/1FBHtKtsH4/
-- ⚠️ ссылка пропущена — тот же пост уже выходил в этой группе (2026-11-17 22:27, по ссылке https://www.facebook.com/share/1MDNAZmp5S/): https://www.facebook.com/share/p/1FBHtKtsH4/
 - ⚠️ ссылка пропущена — тот же пост уже выходил в этой группе (2026-11-17 22:27, по ссылке https://www.facebook.com/share/1MDNAZmp5S/): https://www.facebook.com/share/p/1FBHtKtsH4/
 
 ### EN-1 · 16 стр.
@@ -39,7 +31,7 @@
 
 ### RU+TR+PT · 29 стр.
 
-Статей WordPress создано: **0** · текстов сгенерировано: **0** · постов FB запланировано: **0** · опубликовано сразу: **0** · первых комментариев: **22**
+Статей WordPress создано: **0** · текстов сгенерировано: **0** · постов FB запланировано: **0** · опубликовано сразу: **0** · первых комментариев: **0**
 
 
 ### Mix (RU+ES+RO+AR) · 8 стр.
