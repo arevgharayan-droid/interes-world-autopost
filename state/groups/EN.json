@@ -8874,12 +8874,13 @@
       "108881571809093": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "1163872172986402_1156167253730739",
        "error": null,
        "last_attempt": "2026-11-18T19:28:43+04:00",
        "mode": "immediate",
        "photo_id": "1163872142986405",
        "post_id": "108881571809093_1163872172986402",
-       "status": "published"
+       "status": "done"
       },
       "1165836896614851": {
        "attempts": 1,
