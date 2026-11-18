@@ -10059,30 +10059,36 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129212779306316_1612030370131440",
        "error": null,
        "last_attempt": "2026-11-18T22:39:50+04:00",
        "mode": "immediate",
        "photo_id": "122129212755306316",
        "post_id": "1138572272664180_122129212779306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118544827471857_3057087017968904",
        "error": null,
        "last_attempt": "2026-11-18T22:39:38+04:00",
        "mode": "immediate",
        "photo_id": "122118544803471857",
        "post_id": "1338630212673029_122118544827471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121484875505599_1485876086765035",
        "error": null,
        "last_attempt": "2026-11-18T22:39:26+04:00",
        "mode": "immediate",
        "photo_id": "122121484851505599",
        "post_id": "1448441201677530_122121484875505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "A menina de seis anos sussurrou à telefonista do 911 que não conseguia fechar as pernas, e o que os médicos viram nos exames deixou a sala em silêncio",
@@ -10091,6 +10097,7 @@
      ],
      "wp_error": null,
      "wp_id": 365,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -10182,12 +10189,13 @@
       "1069814529551887": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127459633303687_1111372325025060",
        "error": null,
        "last_attempt": "2026-11-18T22:37:58+04:00",
        "mode": "immediate",
        "photo_id": "122127459609303687",
        "post_id": "1069814529551887_122127459633303687",
-       "status": "published"
+       "status": "done"
       },
       "1075346445663696": {
        "attempts": 1,
@@ -10358,45 +10366,54 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124801429304633_2892409661175615",
        "error": null,
        "last_attempt": "2026-11-18T22:38:52+04:00",
        "mode": "immediate",
        "photo_id": "122124801405304633",
        "post_id": "1083701291497481_122124801429304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128109847311884_1399023892051796",
        "error": null,
        "last_attempt": "2026-11-18T22:38:16+04:00",
        "mode": "immediate",
        "photo_id": "122128109823311884",
        "post_id": "1129620776897151_122128109847311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127354969307134_3133258610357217",
        "error": null,
        "last_attempt": "2026-11-18T22:38:34+04:00",
        "mode": "immediate",
        "photo_id": "122127354945307134",
        "post_id": "1164575726728296_122127354969307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123871417305562_1488097323208557",
        "error": null,
        "last_attempt": "2026-11-18T22:39:09+04:00",
        "mode": "immediate",
        "photo_id": "122123871393305562",
        "post_id": "1180583925128715_122123871417305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Altı yaşındaki kız 911'i arayıp bacaklarını kapatamadığını fısıldadı, ama röntgen sonuçlarını gören doktor anneyi sessizce başka bir odaya çağırdı",
      "warnings": [],
      "wp_error": null,
      "wp_id": 364,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "UK": {
@@ -10416,7 +10433,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-2228-ru.jpg"
    },
    "source_key": "post:61552132650894_122314143752071088",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
