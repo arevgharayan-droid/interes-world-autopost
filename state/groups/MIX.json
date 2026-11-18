@@ -13,6 +13,7 @@
   "41a87afdd7d64f5cd23b": "2026-11-18T15:24:21+00:00",
   "43914945f65de17447f6": "2026-11-17T20:47:15+00:00",
   "4790fa987cd605bce59b": "2026-11-17T20:47:15+00:00",
+  "50dd1f88b6c06defc96d": "2026-11-18T22:20:58+00:00",
   "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
   "70c05379b999f4d41de6": "2026-11-18T15:24:21+00:00",
@@ -20,6 +21,7 @@
   "7599ebffd8f3d4caa6ef": "2026-11-18T08:52:49+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
   "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
+  "839d2c1cc7df4856d81d": "2026-11-18T22:20:58+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
   "93c7cd65e2a500a2cf38": "2026-11-18T08:52:49+00:00",
@@ -28,6 +30,7 @@
   "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
   "a6fdd2c0df68079b8482": "2026-11-18T18:56:12+00:00",
   "ab007dd685935f2c3980": "2026-11-17T10:38:26+00:00",
+  "adfb1bdeac99773333bd": "2026-11-18T22:20:58+00:00",
   "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
@@ -39,6 +42,7 @@
   "e53caf42617e72941741": "2026-11-17T12:28:51+00:00",
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
   "eb19c503b19e6605601a": "2026-11-18T15:24:21+00:00",
+  "ef90411773fe09e82bf0": "2026-11-18T22:20:58+00:00",
   "fa38d523740b3642a359": "2026-11-17T10:38:26+00:00",
   "fad065ee1746d78e40db": "2026-11-18T15:24:21+00:00",
   "ff32133b1d57816b36e8": "2026-11-17T10:38:26+00:00"
@@ -2367,7 +2371,97 @@
   },
   "2026-11-19 02:18": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "طلت حماتي وأخت زوجي بيتنا الجديد باللون الوردي وأنا في المستشفى مع رضيعتي، وفي الصباح التالي وقفتا تصرخان أمام بيتهما: أنتِ شريرة",
+     "warnings": [
+      "часть 3: 403 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 379,
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi suegra y mi cuñada pintaron de rosa chicle nuestra casa mientras yo seguía en el hospital con mi bebé, pero a la mañana siguiente sus gritos se oyeron en toda la calle",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 377,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Soacra și cumnata mi-au vopsit casa în roz cât timp eram în spital cu bebelușul, dar dimineața următoare au ieșit țipând în fața propriei case și au aflat ce făcusem",
+     "warnings": [
+      "в тексте упоминается AI/перевод — проверьте"
+     ],
+     "wp_error": null,
+     "wp_id": 378,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Пока я лежала в больнице после родов, свекровь с золовкой выкрасили наш дом в розовый, но утром у их дома они кричали, что я зла, а потом Брук проговорилась о деньгах",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 376,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T02:18:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/913363970_1717199903132035_3941932221805842900_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hV1mxZS96fAQ7kNvwGjWKDI&_nc_oc=AdpnNhoT3dmvqHf_BhiAF35FrO5IaMGpOf37Z1LeSMq7fDNCVUDm9aTbcCnQOpJ0xEY&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=0OqBNtC4teS5aDYYv_Z6Jg&_nc_tpa=Q5bMBQKHgpLrRBW0_mExLf5xny0pEA4Rq-wubOd-CiKDCpYw___PRrfiGS2VBcN4A4YahoXgS-rZViEePg&oh=00_AQQez0Yk7Dmj0cL5CuxDLj3lk3wpF8GR32uL6ycVAMC9Hg&oe=6B03E8F1",
@@ -2379,7 +2473,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-0218-mix.jpg"
    },
    "source_key": "post:100045261260562_1717199963132029",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2460,7 +2554,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 02:18",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1717891366396222": {
    "fingerprint": "b6aeb2690207251a5e7b",

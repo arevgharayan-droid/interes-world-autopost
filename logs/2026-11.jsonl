@@ -6848,3 +6848,14 @@
 {"slot": "2026-11-19 02:18", "lang": "RU", "action": "wp_post", "id": 373, "status": "publish", "t": "2026-11-18T22:20:47+00:00", "group": "RU"}
 {"slot": "2026-11-19 02:18", "lang": "TR", "action": "wp_post", "id": 374, "status": "publish", "t": "2026-11-18T22:20:48+00:00", "group": "RU"}
 {"slot": "2026-11-19 02:18", "lang": "PT", "action": "wp_post", "id": 375, "status": "publish", "t": "2026-11-18T22:20:49+00:00", "group": "RU"}
+{"slot": "2026-11-19 02:18", "lang": "FR", "page": "1250374694822508", "action": "fb_immediate", "photo_id": "122124419673415639", "post_id": "1250374694822508_122124419697415639", "t": "2026-11-18T22:20:50+00:00", "group": "FR"}
+{"slot": "2026-11-19 02:18", "lang": "EN", "page": "714226118434052", "action": "fb_immediate", "photo_id": "122206207958902657", "post_id": "714226118434052_122206207988902657", "t": "2026-11-18T22:20:55+00:00", "group": "EN2"}
+{"slot": "2026-11-19 02:18", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-18T22:20:58+00:00", "group": "MIX"}
+{"slot": "2026-11-19 02:18", "lang": "ES", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-18T22:20:58+00:00", "group": "MIX"}
+{"slot": "2026-11-19 02:18", "lang": "RO", "action": "generated", "backend": "subscription", "warnings": ["в тексте упоминается AI/перевод — проверьте"], "t": "2026-11-18T22:20:58+00:00", "group": "MIX"}
+{"slot": "2026-11-19 02:18", "lang": "AR", "action": "generated", "backend": "subscription", "warnings": ["часть 3: 403 слов"], "t": "2026-11-18T22:20:58+00:00", "group": "MIX"}
+{"slot": "2026-11-19 02:18", "lang": "RU", "action": "wp_post", "id": 376, "status": "publish", "t": "2026-11-18T22:20:59+00:00", "group": "MIX"}
+{"slot": "2026-11-19 02:18", "lang": "ES", "action": "wp_post", "id": 377, "status": "publish", "t": "2026-11-18T22:21:00+00:00", "group": "MIX"}
+{"slot": "2026-11-19 02:18", "lang": "FR", "page": "1079295351933311", "action": "fb_immediate", "photo_id": "122123396235299008", "post_id": "1079295351933311_122123396259299008", "t": "2026-11-18T22:21:00+00:00", "group": "FR"}
+{"slot": "2026-11-19 02:18", "lang": "RO", "action": "wp_post", "id": 378, "status": "publish", "t": "2026-11-18T22:21:01+00:00", "group": "MIX"}
+{"slot": "2026-11-19 02:18", "lang": "AR", "action": "wp_post", "id": 379, "status": "publish", "t": "2026-11-18T22:21:02+00:00", "group": "MIX"}
