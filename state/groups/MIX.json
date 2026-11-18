@@ -7,14 +7,17 @@
   "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
   "38255c46602154608a68": "2026-11-16T23:52:52+00:00",
   "3ad0d3d1145cd559adbb": "2026-11-17T12:28:51+00:00",
+  "3be42401c3e6342622c4": "2026-11-18T08:52:49+00:00",
   "43914945f65de17447f6": "2026-11-17T20:47:15+00:00",
   "4790fa987cd605bce59b": "2026-11-17T20:47:15+00:00",
   "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
+  "7599ebffd8f3d4caa6ef": "2026-11-18T08:52:49+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
   "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
+  "93c7cd65e2a500a2cf38": "2026-11-18T08:52:49+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
   "9e9961bac78dda63c754": "2026-11-17T00:19:13+00:00",
   "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
@@ -23,6 +26,7 @@
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
+  "cfa7b21c90a2cad9b78e": "2026-11-18T08:52:49+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e1b66eb6a566198daa27": "2026-11-17T17:52:42+00:00",
   "e3404d19673afcbaa7f8": "2026-11-16T19:28:27+00:00",
@@ -1666,7 +1670,93 @@
   },
   "2026-11-18 12:50": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "صفعت أمي ابني ذا الست سنوات حتى نزف أذنه وقالت إنني بلا مال، فحملته وخرجت واتصلت بمجلس إدارتي لأُسقط كل شيء",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 352,
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi madre abofeteó a mi hijo de seis años hasta hacerle sangrar el oído por un cochecito, me llamó pobre viuda, y yo hice una llamada desde el coche que nadie esperaba",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 350,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mama l-a lovit pe fiul meu de șase ani până i-a sângerat urechea și mi-a spus că fără banii ei am fi pe drumuri, dar când am ieșit pe ușă, o mașină de lux mă aștepta deja",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 351,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Мать ударила моего шестилетнего сына за игрушку и бросила, что без её денег мы окажемся на улице, но я спокойно вышла и набрала номер, о котором никто не знал",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 349,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T12:50:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/910746077_122235989930328214_4447468512336478282_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wZeqVZR9sWIQ7kNvwEN-uAl&_nc_oc=AdrjxClv_XwSmIif47mMMnyEF_V1UBIIHOTYWXyezN85EUt25dRf35E_QEZnH0RNQ4k&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=sMFt9aIxUgWH2hzQpapv7g&_nc_tpa=Q5bMBQJKTS0zh9C7kkm_BGT0BFh_xKprt_zEwhQAb3yfUcDnmkxQxfQbdxqNw8TQFz2iDKq7hW12f3awvA&oh=00_AQRwwMl6H_3p3A0d-ZqekP63niWrDbKJ1o-kjFGJL9qdIA&oe=6B034E2E",
@@ -1678,7 +1768,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-1250-mix.jpg"
    },
    "source_key": "post:61559846438723_122235990020328214",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1781,7 +1871,7 @@
    "origin": "manual",
    "page_id": "61559846438723",
    "slot": "2026-11-18 12:50",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130695810893096": {
    "fingerprint": "76592ca14dc5478e537f",
