@@ -9006,7 +9006,7 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-18T22:54:00+04:00",
-   "status": "new"
+   "status": "no_source"
   },
   "2026-11-19 00:00": {
    "langs": {},
@@ -9082,6 +9082,7 @@
    "link": "https://www.facebook.com/share/p/1DTghKt42J/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122143953849210709&id=61586321290305"
   },
+  "link:3c8de8be3bb71c2667be": {},
   "link:42a6b602014c220c2137": {
    "link": "https://www.facebook.com/share/p/19S9QPWYDp/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122130738032893096&id=61576792898556"
