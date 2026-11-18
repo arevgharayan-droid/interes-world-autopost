@@ -9720,7 +9720,23 @@
   "2026-11-19 12:00": {
    "langs": {},
    "slot_iso": "2026-11-19T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/913097984_1718838846301474_2625991537298653181_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LBG4KoV-LOgQ7kNvwFzFWwC&_nc_oc=AdrR0-a429ogEDmYzbVfdqtut92bV2-ZpK2qea_vB4KfMblbU7TKXu0JK_cQ6OlrYq0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=r7sfQidCTL5fCTTz4mOXfw&_nc_tpa=Q5bMBQL_Oe0-5mTGBebnBrUEnNFI1E41oWNzVDM5fLrb2x3V0pzGeTSKYZkD9CAHV7cHB8YM2zzKV76LMw&oh=00_AQT1g_y9ZUVA-5RD6KUCP8zLZz9X5h0FMoxnMR2abRrN2Q&oe=6B041916",
+    "link": "https://www.facebook.com/story.php?story_fbid=1718840749634617&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "My Husband Claimed He Needed Time Away From Our Marriage and Disappeared for Two Years. But During Our Eight-Year-Old Daughter's Father-Daughter School Performance, He Suddenly Stepped Onto the Stage and Declared, \"\"There’s something important I need to say.\"\"\n\nTwo years ago, my husband, Russell, unexpectedly announced that he needed a break from our marriage.\n\nWe hadn't been fighting.\n\nNothing had suggested that our relationship was in trouble.\n\n\"\"I just need some space to figure things out,\"\" he explained before kissing our daughter, Maisie, goodbye.\n\nBut the days apart gradually stretched into weeks.\n\nHis calls became shorter and less frequent.\n\nEventually, he stopped contacting us entirely.\n\nOne evening, Maisie clutched her stuffed bunny against her chest and asked, \"\"Does Daddy not love me anymore?\"\"\n\nI pulled her into my arms, desperately trying not to cry.\n\n\"\"Of course he loves you, sweetheart.\"\"\n\nBut in my heart, I wasn't certain what to believe anymore.\n\nLast week, Maisie's school announced that it would be hosting a special father-daughter ballet performance.\n\nShe came home beaming with excitement, a pink flyer gripped tightly in her little hands.\n\n\"\"Mommy, can Daddy come? Just this once?\"\"\n\n\"\"I’ll try, baby.\"\"\n\nI called Russell seventeen times, hoping he would answer.\n\nHe ignored every attempt.\n\nOn the morning of the performance, Maisie put on her pink tutu and carefully tied a ribbon around the neck of her favorite stuffed rabbit.\n\n\"\"Maybe Daddy will recognize me if I wear his favorite color.\"\"\n\nHer words almost broke my heart.\n\nWhen we reached the school, the auditorium was filled with fathers laughing alongside their daughters, adjusting miniature tiaras and posing together for photographs.\n\nMaisie kept glancing toward the entrance, searching for the familiar face she desperately wanted to see.\n\nWhen the teacher called her class forward, my daughter walked onto the stage alone.\n\nThe music started playing.\n\nBut Maisie didn't dance.\n\nShe stood motionless, her eyes repeatedly returning to the empty seat beside me.\n\nThen someone shouted from the rear of the auditorium.\n\n\"\"Wait! Please!\"\"\n\nA man rushed awkwardly along the aisle.\n\nA ridiculous pink tutu was stretched over his jeans. His hair was untidy, and he was breathing heavily as he hurried forward.\n\nIt was Russell.\n\n\"\"Daddy!\"\" Maisie screamed.\n\nShe ran straight into his outstretched arms.\n\nRussell lifted her off the floor and spun her around as the audience burst into applause.\n\nTears rolled down my cheeks.\n\nThen he gently lowered Maisie to the ground and asked her teacher for the microphone.\n\nThe entire auditorium became quiet.\n\nRussell looked directly at me.\n\n\"\"Excuse me, everyone. There’s something important I need to say.\"\"\n\nThe smile vanished from my face.\n\nHe reached inside his shirt and pulled something out.\n\nHis hands were visibly shaking.\n\n\"\"I know none of this excuses what I did. But there’s something you need to know about why I had to leave my family. I can’t hide the truth anymore.\"\"\n\nAnd when he continued speaking, my knees nearly gave way beneath me.",
+    "wp_media_id": 661,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1200-en.jpg"
+   },
+   "source_key": "post:100045261260562_1718840749634617",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-19 15:00": {
    "langs": {},
@@ -10001,6 +10017,14 @@
    "error": "не удалось прочитать пост: 100045261260562_1718550892996936: нет текста или фото | 1718550892996936: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1718550892996936: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher",
    "link": "https://www.facebook.com/story.php?story_fbid=1718550892996936&id=100045261260562",
    "status": "used_before"
+  },
+  "post:100045261260562_1718840749634617": {
+   "fingerprint": "72a3e98c5bbcbc493e0f",
+   "link": "https://www.facebook.com/story.php?story_fbid=1718840749634617&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-19 12:00",
+   "status": "reserved"
   },
   "post:100059505912199_1501978228462360": {
    "fingerprint": "f033634731845716b275",
