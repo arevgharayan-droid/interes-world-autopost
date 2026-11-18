@@ -8,6 +8,7 @@
   "1de1978484aefe0b2b8a": "2026-11-14T11:39:11+00:00",
   "1e5353b2a2e832230c83": "2026-11-10T22:07:10+00:00",
   "2fe82e12e4ad9907ad54": "2026-11-14T19:42:21+00:00",
+  "3f016791a0afbbb7ef04": "2026-11-18T08:52:10+00:00",
   "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
   "4a73690c41800c227951": "2026-11-16T16:00:49+00:00",
@@ -6079,7 +6080,75 @@
   },
   "2026-11-18 12:50": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ma fille a hurlé à 3 h 07 à cause d'un « serpent » sous le canapé, et quand le voisin a braqué sa lampe, sa main s'est mise à trembler",
+     "warnings": [
+      "длина текста FB 581 слов (исходник 401, цель ±10%)",
+      "длина статьи 1048 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 617,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T12:50:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/904177952_122142669489234406_5601913062731745215_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Kf47GcPmEx4Q7kNvwGwI6uS&_nc_oc=AdqfDU_MvzdqI2k6dU95J36ogFgkngmYRkTCC7giMiG6s47eTTKD7yRluSUC5nH5-Jo&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=UxQcYsm7h9TmbBZAtftrsg&_nc_tpa=Q5bMBQIGH4scHx4jN3t7C80ykR5gvhdJiuDUBkg9wuCjd0KPiuc1fxto6HTjWiaiODLSLweo844olwwo-g&oh=00_AQQG-UOMixZes2ojVYWviex2EXLbv_DxEyJx_ThTdyQwgQ&oe=6B034B89",
@@ -6091,7 +6160,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-1250-fr.jpg"
    },
    "source_key": "post:61587032195586_122142669537234406",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6517,7 +6586,7 @@
    "origin": "manual",
    "page_id": "61587032195586",
    "slot": "2026-11-18 12:50",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587321322233_122140366857244044": {
    "fingerprint": "2185bd87d832bac90cf9",

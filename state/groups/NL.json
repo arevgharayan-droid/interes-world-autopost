@@ -55,6 +55,8 @@
   "caa5eaf84705d4e68592": "2026-11-17T17:52:09+00:00",
   "caa9ee0aac3ceacdcbc5": "2026-11-09T20:02:27+00:00",
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
+  "cce306c23605b2fd33c0": "2026-11-18T08:52:12+00:00",
+  "cd39e670f61e621b3317": "2026-11-18T08:52:12+00:00",
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
   "d4aa094230f5d5c483b0": "2026-11-16T00:16:52+00:00",
   "d828a4f0896689812001": "2026-11-17T20:47:11+00:00",
@@ -6429,7 +6431,79 @@
   },
   "2026-11-18 12:50": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mein Vater verlangte ab 18 jeden Monat 250 Dollar Miete von mir – nach seiner Beerdigung stand sein bester Freund mit einem Karton vor der Tür",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 619,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn vader liet me vanaf mijn 18e huur betalen – na zijn begrafenis kreeg ik een doos die alles veranderde",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 618,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T12:50:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/913264139_1463262662654481_2560662753913427271_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AqVkkuIzYrkQ7kNvwEvC-68&_nc_oc=Adpn8ri4NKchGCPuy4uJOqqv6nN3GaA6mrC5ckzkr5yAZRaS5_lAneVL-FuPmJvSD-o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ZcIXPywGhM3NN5jN7R7I9Q&_nc_tpa=Q5bMBQLM3gBqkTrawdpmNTrbUo0RPzGlerMINoyc9_N2J-ar1xn23-17uQCRkAko6KhejI0Ro5R80uCjyw&oh=00_AQRhlNnqL5D4Kk4P346MuuA2G5ulv2UCmCV3xHM8nBa-zQ&oe=6B03512A",
@@ -6441,7 +6515,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-1250-nl.jpg"
    },
    "source_key": "post:100069122846749_1463262675987813",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6742,7 +6816,7 @@
    "origin": "manual",
    "page_id": "100069122846749",
    "slot": "2026-11-18 12:50",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100083098754330_1123799307066684": {
    "fingerprint": "9e7f24b963c619d273ae",
