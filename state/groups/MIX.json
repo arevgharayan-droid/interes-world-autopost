@@ -2140,7 +2140,10 @@
      "generated": true,
      "pages": {},
      "title": "في صباح عيد الميلاد وجدت ابنتي ذات السبع سنوات تخبئ حذاء أخيها كي لا نغادر البيت، وعند العشاء اكتشفت أن زوجي وعد الجميع باسمي",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 370,
+     "wp_status": "publish"
     },
     "CS": {
      "pages": {},
@@ -2219,6 +2222,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-18T22:28:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/912349389_1412818511065433_5381379443812167665_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dBaWy7VNVg0Q7kNvwFzmbWF&_nc_oc=AdpSkBvubtrPy7pPwy62rUuy5LPWv4y97kcCp62yKYY8AYUO_lR_c9ntIE1qvEryFWw&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=o0bVqc1d4ODMbN_Vn7V7Yw&_nc_tpa=Q5bMBQJz8DQu4aRX45UDdNlUuAkS_S3fHhPuwPEyeFeXNA5w0eU_PbCqwTCmGLsgY9u2YHxkVtP6-I9qPg&oh=00_AQTsapiIlw9oAR2w7Bg1zvoWMDxAOomZZEyC33k6HGs7og&oe=6B03B33A",
@@ -2230,7 +2234,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261118-2228-mix.jpg"
    },
    "source_key": "post:100070118924538_1412818894398728",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2340,7 +2344,7 @@
    "origin": "manual",
    "page_id": "100070118924538",
    "slot": "2026-11-18 22:28",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61559846438723_122231627036328214": {
    "fingerprint": "2ef2ebcbd637ba6a3744",
