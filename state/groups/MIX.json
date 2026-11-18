@@ -2131,7 +2131,7 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-18T22:28:00+04:00",
-   "status": "new"
+   "status": "no_source"
   },
   "2026-11-19 00:00": {
    "langs": {},
@@ -2161,6 +2161,11 @@
  },
  "source_cutoff": "2026-11-16T17:06:31+00:00",
  "sources": {
+  "bad:e3b0c44298fc1c149afb": {
+   "error": "ссылку pfbid не удалось раскрыть: FB 10/None: (#10) This endpoint requires the 'pages_read_engagement' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/review/login-permissions#manage-pages and https://developers.facebook.com/docs/apps/review/feature#reference-PAGES_ACCESS for details.",
+   "link": "https://www.facebook.com/share/p/19qHeHvw3k/",
+   "status": "skipped"
+  },
   "link:482755492e860caa0373": {
    "link": "https://www.facebook.com/share/p/1JihSRDE4s/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122231627036328214&id=61559846438723"
