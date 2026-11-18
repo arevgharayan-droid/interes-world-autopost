@@ -9,6 +9,7 @@
   "0c6e8a7efc71f173e15e": "2026-11-16T10:16:48+00:00",
   "0d1837969ae0e3704a2b": "2026-11-09T20:00:55+00:00",
   "118a7c202280ee104d0c": "2026-11-13T10:14:57+00:00",
+  "120edbf2984526605544": "2026-11-18T22:36:37+00:00",
   "122da30c84d729a1b892": "2026-11-09T20:00:55+00:00",
   "12a6e95bcd0629af0097": "2026-11-10T22:02:31+00:00",
   "13db4df12dcefc769231": "2026-11-09T13:24:24+00:00",
@@ -68,6 +69,7 @@
   "dcf04943e849a446709a": "2026-11-16T19:28:25+00:00",
   "e2b93dcc96be27aa58cc": "2026-11-17T12:28:57+00:00",
   "e35a5edbfd125f0de5e7": "2026-11-17T12:28:57+00:00",
+  "e397216edbfa0a01eebc": "2026-11-18T22:36:37+00:00",
   "e3d10d7308b19870ee32": "2026-11-16T16:00:57+00:00",
   "ebc91716c611bd42ee20": "2026-11-09T20:07:46+00:00",
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
@@ -7246,7 +7248,79 @@
   },
   "2026-11-19 02:18": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sieben Monate nach der Scheidung rief mich eine Krankenschwester an: Meine Ex-Frau hatte Zwillinge bekommen – und ein Messingschlüssel verriet, was meine Familie vor mir verbarg",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 656,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Zeven maanden na de scheiding belde een verpleegster: mijn ex had tweelingjongens gekregen, en ze drukte een koperen sleutel in mijn hand",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 655,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T02:18:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/913422348_1025907363888776_150092430131999330_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2dtj29pt5H0Q7kNvwGiDxR9&_nc_oc=AdoGKIfOVlr6qMvZnKOqAFfghjf23rxDCEbEtco44x-1bzAzKfbEBwEtVuMs0ymXsQA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=vLGkJT00Lfz3NhNJNkDwNw&_nc_tpa=Q5bMBQJr4Gkx69Y-B0Cgvr0sOsDCZ8qXTd-pEIxBQ0AMuWFfbJysKWylFBXhNRR01TY0TDS_vM9cwMb78g&oh=00_AQT0h-YKgWfCVBgTAmClVliETO-3auSsNJkYTlwalInEAQ&oe=6B03F369",
@@ -7258,7 +7332,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-0218-nl.jpg"
    },
    "source_key": "post:100045261260562_1718872332964792",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7555,7 +7629,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 02:18",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1718872332964792#": {
    "error": "не удалось прочитать пост: 100045261260562_1718872332964792: нет текста или фото | 1718872332964792: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1718872332964792: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher",
