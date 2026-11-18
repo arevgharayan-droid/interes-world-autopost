@@ -1,1 +1,1 @@
-{"id": "retry-links-20261119023503", "cmd": "retry-links", "args": {"items": [{"group": "EN", "link": "https://www.facebook.com/story.php?story_fbid=1718550892996936&id=100045261260562"}, {"group": "IT", "link": "https://www.facebook.com/story.php?story_fbid=1719091009609591&id=100045261260562"}, {"group": "NL", "link": "https://www.facebook.com/story.php?story_fbid=1718872332964792&id=100045261260562"}], "now": true}}
+{"id": "skip-slot-20261119024727", "cmd": "skip-slot", "args": {"slot": "2026-11-19 02:35"}}
