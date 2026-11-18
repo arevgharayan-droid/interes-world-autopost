@@ -36,6 +36,7 @@
   "7b147e020095c6199d1d": "2026-11-10T22:05:36+00:00",
   "81de3c9a0a991fc9bf6a": "2026-11-09T20:03:33+00:00",
   "82d6245bac03a32fa117": "2026-11-12T10:26:46+00:00",
+  "84b09bc98a9e61d6846f": "2026-11-18T18:56:13+00:00",
   "84b43238bfda7c42ae10": "2026-11-12T17:47:29+00:00",
   "87f9f8d27c5313018eee": "2026-11-14T09:18:09+00:00",
   "88fe935e5a83ce556184": "2026-11-09T19:59:42+00:00",
@@ -44,6 +45,7 @@
   "9450d6f5a7238123e8ea": "2026-11-10T22:06:32+00:00",
   "97323cd5e0665a1c91cb": "2026-11-17T10:52:26+00:00",
   "98ed0f869b67d7d406ea": "2026-11-10T22:05:36+00:00",
+  "9ebaa99cdb5b7bfedbf0": "2026-11-18T18:56:13+00:00",
   "a333d126c2a07536f0f3": "2026-11-13T10:14:57+00:00",
   "a373ece8d16ef871e0a9": "2026-11-09T20:07:46+00:00",
   "a964ea608100bdcf9bf6": "2026-11-18T15:23:57+00:00",
@@ -6971,7 +6973,79 @@
   },
   "2026-11-18 22:28": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Dann ist Weihnachten eben abgesagt“: Wie eine Mutter nach dem Satz ihrer Schwiegertochter alles stoppte, was sie jahrelang bezahlt hatte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 646,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wij vieren kerst niet met jou”, zei mijn schoondochter. Ik zei „prima” en annuleerde alles wat ik had betaald",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 645,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T22:28:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/915015396_122314392806071088_1954216779565095172_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ReI5HO8v5SIQ7kNvwFITITd&_nc_oc=Adq4hEKLCFCBW-bP9KSdJf6WcPLF4Cw6ereTw-qDtJFxyK3Il2cFk3Qn_qsil_Lquk4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=NaycxrsHj1LlaNMlWVNAhQ&_nc_tpa=Q5bMBQIJNA8gpHpxXxqZkfyOuQe1E_Jdon2DnuvJ7AywXtqRx-y1uvVZddPpsOzJnWARbKUKVo2MhryqQg&oh=00_AQRnmfNGefV2uqx9I-KotZj0AGhiamA5w_fpMDfeI3XiTQ&oe=6B03BBBF",
@@ -6983,7 +7057,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-2228-nl.jpg"
    },
    "source_key": "post:61552132650894_122314392830071088",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7347,7 +7421,7 @@
    "origin": "manual",
    "page_id": "61552132650894",
    "slot": "2026-11-18 22:28",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61559846438723_122232211796328214": {
    "fingerprint": "c9ca03ea6aee11fd0659",
