@@ -10,6 +10,7 @@
   "0fb22b8844bea06fae2d": "2026-11-16T20:28:05+00:00",
   "17bbf28063304bc8e308": "2026-11-17T12:28:51+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
+  "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
@@ -33,6 +34,7 @@
   "79641c4c501a7a4cbbf6": "2026-11-16T00:18:19+00:00",
   "8010f06d690dbd6a283e": "2026-11-14T09:15:08+00:00",
   "801a18eaab6ae5192881": "2026-11-18T15:24:10+00:00",
+  "82dedf152cfc4e82672b": "2026-11-18T22:36:42+00:00",
   "84db3c73ebdd880ee5e3": "2026-11-10T22:02:27+00:00",
   "8552c7ef849f34e97736": "2026-11-16T16:01:05+00:00",
   "85fd39c7b3d760c772ac": "2026-11-18T15:24:10+00:00",
@@ -53,6 +55,7 @@
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
   "a52a4b60aa043581ace2": "2026-11-17T18:29:53+00:00",
+  "a6ab527d80c6afd66a30": "2026-11-18T22:36:42+00:00",
   "ad8c2ece3cec5e65114f": "2026-11-16T20:28:05+00:00",
   "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
@@ -11641,7 +11644,90 @@
   },
   "2026-11-19 02:18": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Syn si na maturitním plesu vzal mámu na záda, vynesl ji na pódium a pak do mikrofonu prozradil tajemství, o kterém nevěděla",
+     "warnings": [
+      "длина текста FB 675 слов (исходник 816, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 659,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mio figlio mi ha portata sulle spalle fino al palco del suo diploma, poi ha preso il microfono e ha rivelato il segreto che mi nascondeva da anni",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 657,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Syn wniósł mnie na scenę podczas rozdania świadectw, a potem wyznał przed całą szkołą sekret, który ukrywał przede mną od lat",
+     "warnings": [
+      "длина текста FB 691 слов (исходник 816, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 658,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T02:18:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/902020022_1712756713576354_4446485433351264893_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=1&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Nc5o7Il_HtMQ7kNvwEQC5UF&_nc_oc=Adr0-akwGzQPNxgoQeEPA8SQwvEjzKv-rCNSvXp-Oxr3zmhYIk9-c32PAuqXaaVogzU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=IdlefROJ1qOS9FCv0WCFtQ&_nc_tpa=Q5bMBQJzv-eIc6Wo9rzAVM8_Y4p33YgtP9HJ1vPB2NxHWBmHwBnQKUMXh9qRRkynWjpzO8lB3621YeRq4w&oh=00_AQQ-BqkZlYmyr4w5Zy9dx2seBT-J1f3UGFwvzto9L_ZZdg&oe=6B03F51F",
@@ -11653,7 +11739,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-0218-it.jpg"
    },
    "source_key": "post:100045261260562_1719091009609591",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11966,7 +12052,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 02:18",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1719091009609591#": {
    "error": "не удалось прочитать пост: 100045261260562_1719091009609591: нет текста или фото | 1719091009609591: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1719091009609591: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher",
