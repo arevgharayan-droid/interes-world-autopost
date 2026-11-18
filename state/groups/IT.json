@@ -11645,6 +11645,12 @@
    "slot_iso": "2026-11-19T02:18:00+04:00",
    "status": "no_source"
   },
+  "2026-11-19 02:35": {
+   "adhoc": true,
+   "langs": {},
+   "slot_iso": "2026-11-19T02:35:00+04:00",
+   "status": "new"
+  },
   "2026-11-19 12:00": {
    "langs": {},
    "slot_iso": "2026-11-19T12:00:00+04:00",
@@ -11938,10 +11944,10 @@
    "slot": "2026-11-18 00:36",
    "status": "used"
   },
-  "post:100045261260562_1719091009609591": {
+  "post:100045261260562_1719091009609591#": {
    "error": "не удалось прочитать пост: 100045261260562_1719091009609591: нет текста или фото | 1719091009609591: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1719091009609591: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher",
    "link": "https://www.facebook.com/story.php?story_fbid=1719091009609591&id=100045261260562",
-   "status": "failed"
+   "status": "used_before"
   },
   "post:100059505912199_1492703076056542": {
    "fingerprint": "c1d2275ae88bb298bc7b",
