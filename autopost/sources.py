@@ -271,8 +271,11 @@ def fetch_post(graph, link_info: dict, tokens: dict, fallback_page_id: str) -> d
             continue
         try:
             post = graph.get_post(pid, token)
-            if post.get("message") and post.get("full_picture"):
-                return {"text": post["message"], "image_url": post["full_picture"], "post_id": post["id"],
+            # 19.11: у части постов текста в message нет — он лежит в описании фото (attachments[0].description)
+            att = ((post.get("attachments") or {}).get("data") or [{}])[0]
+            text = post.get("message") or (att.get("description") if att.get("media_type") == "photo" else "")
+            if text and post.get("full_picture"):
+                return {"text": text, "image_url": post["full_picture"], "post_id": post["id"],
                         "created_time": post.get("created_time"), "permalink": post.get("permalink_url")}
             errors.append(f"{pid}: нет текста или фото")
         except FacebookError as e:

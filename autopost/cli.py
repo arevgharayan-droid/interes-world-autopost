@@ -809,6 +809,16 @@ def cmd_ops(cfg, args) -> int:
         return 0
     if cmd == "comment-diag":
         return cmd_comment_diag(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""))
+    if cmd == "retry-links":
+        # повторить ссылки, которые не удалось прочитать (после исправления) — и, если now, выпустить сразу
+        out = []
+        for it in a.get("items") or []:
+            g, link = it.get("group", ""), it.get("link", "")
+            out.append(f"- {cfg.group_label(g)}: {allow_repeat(cfg, g, link)}")
+            if a.get("now"):
+                out.append(f"  - {start_now(cfg, g)}")
+        summary("## Повтор ссылок\n\n" + "\n".join(out) + "\n", "previews/retry-links.md", cfg)
+        return 0
     if cmd == "allow-repeat":
         # владелица разрешила повтор: пост, уже выходивший в группе, можно взять снова (по ссылке из очереди)
         g, link = a.get("group", ""), a.get("link", "")

@@ -124,7 +124,7 @@ class Graph:
         return self.paged("me/accounts", user_token, fields="id,name,access_token,tasks", limit=100)
 
     # --- чтение постов ----------------------------------------------------------
-    POST_FIELDS = "id,message,full_picture,created_time,permalink_url,attachments{media_type,type}"
+    POST_FIELDS = "id,message,full_picture,created_time,permalink_url,attachments{media_type,type,description}"
 
     def get_post(self, post_id, token) -> dict:
         return self.get(post_id, token, fields=self.POST_FIELDS)
