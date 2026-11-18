@@ -7,6 +7,7 @@
   "0802407a599099da93c3": "2026-11-09T13:27:37+00:00",
   "0e747318903c9a689ac2": "2026-11-13T10:14:29+00:00",
   "10148b6a82229cc06f82": "2026-11-10T22:03:30+00:00",
+  "1920b88bb3c3529ad8e8": "2026-11-18T22:49:20+00:00",
   "3015169f17e68b6fd1bf": "2026-11-09T13:24:29+00:00",
   "3367781bbac23680b15e": "2026-11-16T10:11:01+00:00",
   "35f4dc18fe1b6e9d863f": "2026-11-09T20:07:49+00:00",
@@ -9274,7 +9275,72 @@
    "status": "cancelled"
   },
   "2026-11-19 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Mother-in-Law Demanded $100K of My $150K Bonus for My Sister-in-Law's House, and When My Husband Said \"Pay Up or We're Divorcing,\" I Called My Lawyer",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 666,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/914680671_1717823829736309_8286492222508621995_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=piz0v4JsXmQQ7kNvwFpYulV&_nc_oc=AdofTbWodvK9w63NJMJZbQGmk24VS5CYcHBWE1bS_Wf46N7TlHOhr4Apg7ID_XbVgdo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=4bgih6bSQY3pHOWjSWqGLQ&_nc_tpa=Q5bMBQLPMNFJJSWFzjT2gNc5M0ZdajiBRmcvlLy9ADHYd7HOzXxsFn3Jv-cLAPREgObKub-gBfcZHAnDrA&oh=00_AQRc_AfFxbD_wU8gAtUKBdMKcAG41UdYHc1ydUMNZY4dKA&oe=6B040FA9",
@@ -9286,7 +9352,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1200-en2.jpg"
    },
    "source_key": "post:100045261260562_1717835236401835",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -9572,7 +9638,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1718339016351457": {
    "fingerprint": "abf2f6cb987588207400",
