@@ -35,6 +35,7 @@
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
   "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00",
+  "decab325bccbd36f9888": "2026-11-18T18:29:16+00:00",
   "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00"
  },
  "outputs": {
@@ -6308,7 +6309,72 @@
   },
   "2026-11-18 22:28": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Le chef mafieux le plus redouté de Chicago a défié sa femme de ménage de danser un tango pour l'épouser, mais dès son premier pas, sa grand-mère est devenue livide",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 638,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T22:28:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/909494652_122202146018388461_3898111044694040499_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LF_mPWVlPW4Q7kNvwGPCFUM&_nc_oc=AdpfpIYY2rTk1wm1vvYXzI74KbCM9m5gOMC0xa4ODC2b-ErZnbxu-6eOdIwErr1z-k8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ROCbvBRoHGvq0IAzNnoA0g&_nc_tpa=Q5bMBQLHWWNqx4QuGld1E18lyLm1DZi8nGI8shYSW9_Mg0gh1O8YhnAXE3qBBLoORy9jcr_4BCfqhpSaUA&oh=00_AQQsHAIpKqoK-zZEOE_fveelpf_tiis3yyLkAmp7BkHyRw&oe=6B03CB16",
@@ -6320,7 +6386,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-2228-fr.jpg"
    },
    "source_key": "post:61561653852158_122202146042388461",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -6683,7 +6749,7 @@
    "origin": "manual",
    "page_id": "61561653852158",
    "slot": "2026-11-18 22:28",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61562173791276_122174330132405793": {
    "fingerprint": "8c624905d86eefe2bc18",
