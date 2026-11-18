@@ -22,6 +22,7 @@
   "64cee77292ce0f9e523e": "2026-11-10T22:02:16+00:00",
   "77874addb91478399153": "2026-11-10T22:06:03+00:00",
   "79245b4f7e0906ff72f7": "2026-11-16T19:28:11+00:00",
+  "7993be78d23f6041e30a": "2026-11-18T15:23:53+00:00",
   "80235c0ddeb700659e81": "2026-11-16T20:28:01+00:00",
   "86822eab2c3504add2f2": "2026-11-09T13:26:02+00:00",
   "8daf6c11c0451ea812bb": "2026-11-15T14:13:56+00:00",
@@ -8484,7 +8485,74 @@
   },
   "2026-11-18 19:22": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Abandoned His Twin Sons 13 Years Ago, Then Saw Them Win Gold at the State Competition and Learned Exactly What They Had Waiting for Him",
+     "warnings": [
+      "длина текста FB 704 слов (исходник 916, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 628,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-18T19:22:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/905072090_122140784955244044_4784228691907780915_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=8IiaAreipKgQ7kNvwEtfeHA&_nc_oc=AdqPVYpIFuluXQwyz-XlJGsqnOJfEu2xHSMq0P0iIbkg6WdfSBeToehcGVJsopPhSuE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=eMZRfY_p-ycBAKXQI0BrwA&_nc_tpa=Q5bMBQKeUsdI_3VG6KMCbaHb6fmR4-nY75QHuus_-TI9ifdu2f6NzH99FgaA4aOHgx7o2yNBOCi7TfMSXg&oh=00_AQR4OwiiK6eLrrLTSCYCF1D9qHa1ltIzaKfjVev0SRbGjg&oe=6B0390CB",
@@ -8496,7 +8564,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261118-1922-en2.jpg"
    },
    "source_key": "post:61587321322233_122140785063244044",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -8932,7 +9000,7 @@
    "origin": "manual",
    "page_id": "61587321322233",
    "slot": "2026-11-18 19:22",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587324730850_122142837687244157": {
    "fingerprint": "6170eddfbbcff3058ece",
