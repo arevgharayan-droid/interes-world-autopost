@@ -8,6 +8,7 @@
   "1de1978484aefe0b2b8a": "2026-11-14T11:39:11+00:00",
   "1e5353b2a2e832230c83": "2026-11-10T22:07:10+00:00",
   "2fe82e12e4ad9907ad54": "2026-11-14T19:42:21+00:00",
+  "3dce7e6988a88bf961cd": "2026-11-19T17:52:54+00:00",
   "3f016791a0afbbb7ef04": "2026-11-18T08:52:10+00:00",
   "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
@@ -7410,7 +7411,72 @@
   },
   "2026-11-20 00:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Pendant 40 jours, il a caché une truie en fuite dans sa grange. Le 41e matin, son cœur a lâché et elle a couru vers la route",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 727,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T00:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/915355393_122314662680071088_3287874003438957333_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zf69G1Aq1U0Q7kNvwHBFY0g&_nc_oc=AdqjrqaAm5e7nC-7i5TMW1wQTGa7cGpg2qLOTVXl1ydsJOO4k2IkQ0mwe3phUK9sOKo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=rNHs5qkn__ZetDSxdJ3nWQ&_nc_tpa=Q5bMBQLD4uUFuEaxAp5X-iYZG7guhonXUa70xhAZqHGSrWgquEmUjKBAhv44TbhMsRe04wmonn7dZHLCCw&oh=00_AQRkO2QWwhGsdW6YH-BdV966XCP5etOjOkbAk2O3N2uiFA&oe=6B0524A9",
@@ -7422,7 +7488,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-0030-fr.jpg"
    },
    "source_key": "post:61552132650894_122314662704071088",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7784,7 +7850,7 @@
    "origin": "manual",
    "page_id": "61552132650894",
    "slot": "2026-11-20 00:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61559846438723_122235736226328214": {
    "fingerprint": "98d150943fe56597b6ba",
