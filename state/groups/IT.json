@@ -13502,12 +13502,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116606341328231_1451849183137895",
        "error": null,
        "last_attempt": "2026-11-19T21:44:10+04:00",
        "mode": "immediate",
        "photo_id": "122116606287328231",
        "post_id": "1106793902521611_122116606341328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Rodiče mě v pěti letech odložili u dědy a zmizeli. Ráno po jeho pohřbu přijeli se stěhovacím vozem a vrazili mi do rukou dva pytle na odpadky",
@@ -13516,6 +13518,7 @@
      ],
      "wp_error": null,
      "wp_id": 719,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -13541,120 +13544,146 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132874171302250_1148578441042602",
        "error": null,
        "last_attempt": "2026-11-19T21:39:19+04:00",
        "mode": "immediate",
        "photo_id": "122132874147302250",
        "post_id": "1012250151981057_122132874171302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141303498808945_1087638847655238",
        "error": null,
        "last_attempt": "2026-11-19T21:38:11+04:00",
        "mode": "immediate",
        "photo_id": "122141303474808945",
        "post_id": "1030877436782212_122141303498808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111839976456562_1662686538871621",
        "error": null,
        "last_attempt": "2026-11-19T21:36:41+04:00",
        "mode": "immediate",
        "photo_id": "122111839952456562",
        "post_id": "1064982806700854_122111839976456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131494861306132_1883964559259728",
        "error": null,
        "last_attempt": "2026-11-19T21:40:06+04:00",
        "mode": "immediate",
        "photo_id": "122131494837306132",
        "post_id": "1068567606345452_122131494861306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128066527305584_2123210228400852",
        "error": null,
        "last_attempt": "2026-11-19T21:42:26+04:00",
        "mode": "immediate",
        "photo_id": "122128066503305584",
        "post_id": "1078100405390763_122128066527305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108527190506427_2311725256037911",
        "error": null,
        "last_attempt": "2026-11-19T21:36:19+04:00",
        "mode": "immediate",
        "photo_id": "122108527166506427",
        "post_id": "1079964265201139_122108527190506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133685959308548_978037038331772",
        "error": null,
        "last_attempt": "2026-11-19T21:39:42+04:00",
        "mode": "immediate",
        "photo_id": "122133685935308548",
        "post_id": "1086658774532679_122133685959308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123078631296683_4451744811742454",
        "error": null,
        "last_attempt": "2026-11-19T21:38:56+04:00",
        "mode": "immediate",
        "photo_id": "122123078607296683",
        "post_id": "1087342844462554_122123078631296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129860389300251_1790112938947217",
        "error": null,
        "last_attempt": "2026-11-19T21:42:04+04:00",
        "mode": "immediate",
        "photo_id": "122129860365300251",
        "post_id": "1093003583899107_122129860389300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114709746601707_1451782173688386",
        "error": null,
        "last_attempt": "2026-11-19T21:41:20+04:00",
        "mode": "immediate",
        "photo_id": "122114709722601707",
        "post_id": "1099258949937246_122114709746601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141873708811401_2343277286472526",
        "error": null,
        "last_attempt": "2026-11-19T21:37:48+04:00",
        "mode": "immediate",
        "photo_id": "122141873684811401",
        "post_id": "1114015015119414_122141873708811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105079452533031_4545836592356307",
        "error": null,
        "last_attempt": "2026-11-19T21:40:55+04:00",
        "mode": "immediate",
        "photo_id": "122105079428533031",
        "post_id": "1128937866962526_122105079452533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110698068543006_1784865969249320",
        "error": null,
        "last_attempt": "2026-11-19T21:37:04+04:00",
        "mode": "immediate",
        "photo_id": "122110698044543006",
        "post_id": "1140835409106424_122110698068543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -13669,21 +13698,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130469683314630_2403870360428678",
        "error": null,
        "last_attempt": "2026-11-19T21:40:31+04:00",
        "mode": "immediate",
        "photo_id": "122130469659314630",
        "post_id": "1149681171551323_122130469683314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122981635318395_1754091592356582",
        "error": null,
        "last_attempt": "2026-11-19T21:41:43+04:00",
        "mode": "immediate",
        "photo_id": "122122981611318395",
        "post_id": "1159996950522974_122122981635318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -13698,40 +13731,47 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128949103300955_1607355433985035",
        "error": null,
        "last_attempt": "2026-11-19T21:38:34+04:00",
        "mode": "immediate",
        "photo_id": "122128949079300955",
        "post_id": "1160240797163045_122128949103300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126296671301482_1396381389024635",
        "error": null,
        "last_attempt": "2026-11-19T21:42:43+04:00",
        "mode": "immediate",
        "photo_id": "122126296641301482",
        "post_id": "1174674892385169_122126296671301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126266887405175_2147215696182700",
        "error": null,
        "last_attempt": "2026-11-19T21:37:26+04:00",
        "mode": "immediate",
        "photo_id": "122126266857405175",
        "post_id": "1191480207389219_122126266887405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122113299746437662_2436738936734128",
        "error": null,
        "last_attempt": "2026-11-19T21:36:01+04:00",
        "mode": "immediate",
        "photo_id": "122113299722437662",
        "post_id": "997772916762884_122113299746437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi lasciarono dal nonno a cinque anni e sparirono: il giorno dopo il funerale tornarono con un camion dei traslochi",
@@ -13752,39 +13792,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126651883304793_1848150246520163",
        "error": null,
        "last_attempt": "2026-11-19T21:43:53+04:00",
        "mode": "immediate",
        "photo_id": "122126651859304793",
        "post_id": "1079800528556354_122126651883304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114261510359745_2648874202197175",
        "error": null,
        "last_attempt": "2026-11-19T21:43:01+04:00",
        "mode": "immediate",
        "photo_id": "122114261486359745",
        "post_id": "1083785318156771_122114261510359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123078823302807_4544722209134184",
        "error": null,
        "last_attempt": "2026-11-19T21:43:19+04:00",
        "mode": "immediate",
        "photo_id": "122123078799302807",
        "post_id": "1089456087587677_122123078823302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141460861313481_899855696481817",
        "error": null,
        "last_attempt": "2026-11-19T21:43:35+04:00",
        "mode": "immediate",
        "photo_id": "122141460837313481",
        "post_id": "1107966229066828_122141460861313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Zostawili mnie u dziadka, gdy miałam 5 lat. Dzień po jego pogrzebie wrócili z ciężarówką, a w gabinecie czekała na nich prawda",
@@ -13793,6 +13841,7 @@
      ],
      "wp_error": null,
      "wp_id": 718,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -13828,7 +13877,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-2133-it.jpg"
    },
    "source_key": "post:61585117295331_122155803039170576",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
