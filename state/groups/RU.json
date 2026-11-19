@@ -12150,12 +12150,13 @@
       "1069814529551887": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127529863303687_1461886515291016",
        "error": null,
        "last_attempt": "2026-11-19T18:15:55+04:00",
        "mode": "immediate",
        "photo_id": "122127529839303687",
        "post_id": "1069814529551887_122127529863303687",
-       "status": "published"
+       "status": "done"
       },
       "1075346445663696": {
        "attempts": 1,
