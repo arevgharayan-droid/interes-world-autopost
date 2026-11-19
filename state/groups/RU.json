@@ -19,6 +19,7 @@
   "131aaa912b9beae262e7": "2026-11-17T12:29:11+00:00",
   "13a340f5c6e650d35e88": "2026-11-19T17:35:44+00:00",
   "151eb58f03724b2a8ed0": "2026-11-09T20:03:21+00:00",
+  "16a40eb5e28e6cd1c606": "2026-11-19T22:01:08+00:00",
   "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
   "17291d408906d44b96db": "2026-11-14T11:40:46+00:00",
   "1955c9dccca6e5edee35": "2026-11-14T11:40:46+00:00",
@@ -40,6 +41,7 @@
   "495041b7bf9b15be8fa3": "2026-11-19T17:35:44+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
   "511f35f875db7d4a056d": "2026-11-13T14:37:39+00:00",
+  "516cde4fc7cf9247b820": "2026-11-19T22:01:08+00:00",
   "53b56a6026d7d16218d9": "2026-11-17T10:39:05+00:00",
   "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
   "5579983a5a4919598caf": "2026-11-14T09:18:33+00:00",
@@ -123,6 +125,7 @@
   "e53482ea7556e3ad83e6": "2026-11-19T08:31:53+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
   "e6f22af68ae4ec05d8cd": "2026-11-19T19:59:16+00:00",
+  "e841ab38d6d5db285501": "2026-11-19T22:01:08+00:00",
   "e84337ab74e96356bcfe": "2026-11-10T22:05:49+00:00",
   "e883d8565fbbc8af866b": "2026-11-16T19:28:42+00:00",
   "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00",
@@ -13386,7 +13389,88 @@
    }
   },
   "2026-11-20 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Eu e minha melhor amiga engravidamos do mesmo doador, mas no quinto mês o médico perguntou se éramos parentes e revelou um segredo que mudou tudo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 451,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Мы с лучшей подругой выбрали одного донора, чтобы наши дети были родными по крови, но врач побледнел и спросил, точно ли мы с ней не родственницы",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 449,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Aynı donörden hamile kalan en yakın arkadaşımla genetik raporlarımıza bakan doktor korkuyla yüzümüze baktı ve ikimizin akraba olup olmadığını sorunca her şey değişti",
+     "warnings": [
+      "часть 3: 358 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 450,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/897215791_1708415654010460_7226574939522419984_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=AEs-PBs_TC8Q7kNvwHJWlkz&_nc_oc=AdqvVBf2JMHl41cG7LVrWjgqhqjuwxlpyY4d7FWHkSkc_L6n3ZfmfAZcvMF2bC1xTDk&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AMAeTUEEAAAA&_nc_gid=6id0arG8HzElpGCxAwsXYg&_nc_tpa=Q5bMBQLxC5bXQjmBWYy2L5cbTf4uSz2-m5u8SdTgM1EIx5ECo9xzSu_acGkPNaumNKCSXNpimZy0lIqrcQ&oh=00_AQQb41KeD-2Pz75SMVHOMXnGtUAasfgu9_UQ8OdskibisQ&oe=6B0530EA",
@@ -13398,7 +13482,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261120-1200-ru.jpg"
    },
    "source_key": "post:photo_1708415650677127",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -14023,7 +14107,7 @@
    "origin": "manual",
    "page_id": "622403774625234",
    "slot": "2026-11-20 12:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},

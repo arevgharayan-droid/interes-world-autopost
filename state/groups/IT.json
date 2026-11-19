@@ -14378,7 +14378,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-20T02:01:09+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Diciassette anni dopo aver rasato la testa per lui, Daniel ci ha invitati a cena con tre buste e un segreto",
      "warnings": [],
      "wp_error": null,
