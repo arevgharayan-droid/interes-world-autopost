@@ -1,4 +1,5 @@
-## Внеочередной выпуск
+## Ссылки: что внутри
 
-- RU+TR+PT: выпуск 2026-11-19 12:29 — следующий запуск возьмёт ссылку из очереди и опубликует сразу
+1. ❌ ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '61585117295331' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+2. ❌ ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '61585117295331' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
 
