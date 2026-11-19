@@ -12513,36 +12513,43 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129313657306316_1763539954733343",
        "error": null,
        "last_attempt": "2026-11-19T21:45:17+04:00",
        "mode": "immediate",
        "photo_id": "122129313633306316",
        "post_id": "1138572272664180_122129313657306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118927663471857_4730345753861615",
        "error": null,
        "last_attempt": "2026-11-19T21:45:05+04:00",
        "mode": "immediate",
        "photo_id": "122118927639471857",
        "post_id": "1338630212673029_122118927663471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121789387505599_1656909269248628",
        "error": null,
        "last_attempt": "2026-11-19T21:44:53+04:00",
        "mode": "immediate",
        "photo_id": "122121789363505599",
        "post_id": "1448441201677530_122121789387505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Diante do tribunal, meu ex-marido me mandou morar debaixo da ponte grávida de sete meses, mas bastou um telefonema para o império dele ruir",
      "warnings": [],
      "wp_error": null,
      "wp_id": 422,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -12811,40 +12818,47 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124912441304633_3045945259122467",
        "error": null,
        "last_attempt": "2026-11-19T21:44:23+04:00",
        "mode": "immediate",
        "photo_id": "122124912417304633",
        "post_id": "1083701291497481_122124912441304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128207095311884_1919018169117820",
        "error": null,
        "last_attempt": "2026-11-19T21:43:47+04:00",
        "mode": "immediate",
        "photo_id": "122128207071311884",
        "post_id": "1129620776897151_122128207095311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127477393307134_1860949185093444",
        "error": null,
        "last_attempt": "2026-11-19T21:44:04+04:00",
        "mode": "immediate",
        "photo_id": "122127477369307134",
        "post_id": "1164575726728296_122127477393307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123969355305562_1871692170656103",
        "error": null,
        "last_attempt": "2026-11-19T21:44:41+04:00",
        "mode": "immediate",
        "photo_id": "122123969331305562",
        "post_id": "1180583925128715_122123969355305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mahkeme önünde yedi aylık hamile halimle beni köprü altına gönderen eski kocam, tek bir telefonumdan sonra havalimanında kartlarının donduğunu öğrenince yüzündeki gülümseme silindi",
@@ -12873,7 +12887,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-2133-ru.jpg"
    },
    "source_key": "post:61585117295331_122155734075170576",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
