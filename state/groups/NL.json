@@ -8477,12 +8477,13 @@
       "1239848699214091": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127441717439695_2309428703234396",
        "error": null,
        "last_attempt": "2026-11-19T21:37:15+04:00",
        "mode": "immediate",
        "photo_id": "122127441693439695",
        "post_id": "1239848699214091_122127441717439695",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,
