@@ -56,6 +56,7 @@
   "6ad19445c3c2f9ca584e": "2026-11-09T20:00:50+00:00",
   "6af945ecc88d985562e4": "2026-11-17T20:47:52+00:00",
   "6ee61e09ced70eabbe1b": "2026-11-18T08:52:36+00:00",
+  "6f110cc1d53cc9a4f096": "2026-11-19T08:31:53+00:00",
   "70f1397700ba9303490e": "2026-11-13T14:37:39+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
   "72de7386867e661b1a44": "2026-11-16T16:01:05+00:00",
@@ -101,12 +102,14 @@
   "c05aa08deef8d17993ed": "2026-11-17T20:47:52+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
+  "c4a184a2f318ec90e101": "2026-11-19T08:31:53+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
   "dec5e0bd063cc2c57d2d": "2026-11-18T22:20:46+00:00",
   "e14b9de1541baf5a7406": "2026-11-16T00:18:30+00:00",
   "e1b27c7dab073d04d921": "2026-11-16T00:18:30+00:00",
   "e264befb548c9459d95b": "2026-11-10T22:04:30+00:00",
   "e2f11ad134f9c6c0943e": "2026-11-13T10:15:12+00:00",
+  "e53482ea7556e3ad83e6": "2026-11-19T08:31:53+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
   "e84337ab74e96356bcfe": "2026-11-10T22:05:49+00:00",
   "e883d8565fbbc8af866b": "2026-11-16T19:28:42+00:00",
@@ -10944,7 +10947,88 @@
   },
   "2026-11-19 12:29": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha irmã se ajoelhou diante do meu noivo e o pediu em casamento na frente da família, mas quando vi minha mãe filmando tudo escondida, entendi que aquilo tinha sido planejado",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 392,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Сестра встала на колено перед моим женихом и сделала ему предложение при всей семье, а потом я заметила, что мама снимает всё на телефон",
+     "warnings": [
+      "часть 1: 708 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 390,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kız kardeşim bütün ailenin önünde nişanlıma diz çöküp evlenme teklif etti, annem de kanepenin arkasından gizlice her şeyi kaydediyordu",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 391,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T12:29:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/913592666_1719299562922069_5159921222928447059_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=OQgyzh_U-NEQ7kNvwFQPmxH&_nc_oc=AdqOwplVxhC7LBHvnH4gPVuIKcHNUqEJA5Qlml1TAgPVBnfSFl3jNWh7Uj5z6DSybQY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=pbYQw7yKn3TM4yoPNUJ7VQ&_nc_tpa=Q5bMBQJ4xcaLuUbnc0bKrN66xGouMAJw4MgaimIBZXSrh8Ek0bae1tKsH97MlAbT71Br-v2EhCb5jFhVUA&oh=00_AQRh7ipDR_OX9iQj8wL34umKtqGxS-lPVNyvrxo9FxfW1g&oe=6B0485F2",
@@ -10956,7 +11040,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-1229-ru.jpg"
    },
    "source_key": "post:100045261260562_1719299609588731",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -11276,7 +11360,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-19 12:29",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1605697694922092": {
    "fingerprint": "7aa9a9d1f00ac27915f6",
