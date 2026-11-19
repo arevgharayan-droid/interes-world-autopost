@@ -12,6 +12,7 @@
   "292c1d04504fd06c6ac5": "2026-11-18T18:56:12+00:00",
   "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
   "318874ecf561cd49140d": "2026-11-19T19:58:49+00:00",
+  "3422afd10d8bd6c23618": "2026-11-19T22:00:55+00:00",
   "38255c46602154608a68": "2026-11-16T23:52:52+00:00",
   "3965cd1bc3c1f5dea8db": "2026-11-18T18:56:12+00:00",
   "3ad0d3d1145cd559adbb": "2026-11-17T12:28:51+00:00",
@@ -45,6 +46,7 @@
   "aaba67c9a1c5ee2c6122": "2026-11-19T19:58:49+00:00",
   "ab007dd685935f2c3980": "2026-11-17T10:38:26+00:00",
   "adfb1bdeac99773333bd": "2026-11-18T22:20:58+00:00",
+  "b380f193a4d40b198fda": "2026-11-19T22:00:55+00:00",
   "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
   "bdb1bbcd6e4c0469fdaa": "2026-11-19T19:58:49+00:00",
   "c2bc42d5c2d6930640d5": "2026-11-18T22:49:45+00:00",
@@ -56,7 +58,9 @@
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e1b66eb6a566198daa27": "2026-11-17T17:52:42+00:00",
   "e245fd7320627341a5e4": "2026-11-18T22:49:45+00:00",
+  "e253d6f4f0d39d6b4d98": "2026-11-19T22:00:55+00:00",
   "e3404d19673afcbaa7f8": "2026-11-16T19:28:27+00:00",
+  "e3992e9b4140b4c106ed": "2026-11-19T22:00:55+00:00",
   "e43f4ace31d9e29c4367": "2026-11-19T19:58:49+00:00",
   "e53caf42617e72941741": "2026-11-17T12:28:51+00:00",
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
@@ -3743,7 +3747,98 @@
    }
   },
   "2026-11-20 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "وضع زوجي حقيبة المكياج على السرير وأمرني بإخفاء كدماتي قبل وصول أمه، لكن عندما عاد ظهرًا شحب وجهه حين رأى من يجلس على كرسيه المفضل",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 448,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi marido me tiró una bolsa de maquillaje y me ordenó tapar los moretones antes de que llegara su madre, pero cuando volvió a mediodía, en su sillón favorito lo esperaba el hombre que más temía",
+     "warnings": [
+      "часть 1: 687 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 446,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Soțul meu mi-a aruncat o trusă de machiaj pe pat și mi-a ordonat să-mi ascund vânătăile, dar la prânz, în fotoliul lui preferat, l-a așteptat omul pe care îl ținuse departe de mine cinci ani",
+     "warnings": [
+      "часть 1: 715 слов",
+      "часть 2: 565 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 447,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Муж швырнул мне косметичку и приказал замазать синяки к приходу свекрови, но в его любимом кресле его ждал человек, которого он пять лет не подпускал ко мне",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 445,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/895310715_1709093700609322_6096732277077814960_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e5c1b6&_nc_ohc=N6DccbgsvH4Q7kNvwGgVCv9&_nc_oc=AdqiA1QxYts1rJyuQyZcyfXkXgCCaRXlh1wYf9QV7xV4JQuNDvzHFbnY8P3lvhGmf3E&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=AMAeTUEEAAAA&_nc_gid=Q24F9yue4UUcN2b6Bngj2A&_nc_tpa=Q5bMBQKVo2FS08Nwjld8PJu5EXVo40l1LqYY0W78VBcWsW1Yfa_84_vyDEt-F0kz9BZfC7TIhy_rwtLe9A&oh=00_AQTceCFtDMrwPOSIfjHZ8CfaupOpOe_LFlmUclAQIkbyrw&oe=6B0556A3",
@@ -3755,7 +3850,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261120-1200-mix.jpg"
    },
    "source_key": "post:photo_1709093697275989",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3965,7 +4060,7 @@
    "origin": "manual",
    "page_id": "622403774625234",
    "slot": "2026-11-20 12:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},

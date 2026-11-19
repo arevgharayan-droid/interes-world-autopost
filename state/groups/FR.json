@@ -7849,7 +7849,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-20T02:00:57+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Elle a payé sa chambre privée après 20 heures de travail, mais sa belle-mère et son mari voulaient qu'elle y renonce… jusqu'à ce que ses parents entrent",
      "warnings": [
       "длина текста FB 1703 слов (исходник 1429, цель ±10%)"
