@@ -28,6 +28,7 @@
   "7993be78d23f6041e30a": "2026-11-18T15:23:53+00:00",
   "80235c0ddeb700659e81": "2026-11-16T20:28:01+00:00",
   "86822eab2c3504add2f2": "2026-11-09T13:26:02+00:00",
+  "8a4d3ab5696ac234c463": "2026-11-19T17:17:19+00:00",
   "8daf6c11c0451ea812bb": "2026-11-15T14:13:56+00:00",
   "9991f589010d4cbe9a56": "2026-11-14T09:18:00+00:00",
   "9bfc8089323bc8a27bd2": "2026-11-17T10:38:06+00:00",
@@ -9775,7 +9776,72 @@
    "status": "missed"
   },
   "2026-11-19 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Left Me in the Hospital With a Text Saying \"The House and Car Are Mine. LOL,\" Never Knowing I Earned $130,000 a Year",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 712,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/916667697_122155689471170576_3090735165424302851_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DUEQw0hYBTQQ7kNvwH3YnEt&_nc_oc=AdqHKWvoZCxGFdg9yrZ_v7f76wNDwID9OWLM7NGEjszxrdJnbqCELdJsbZrXu44W-fc&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=3CuMwrv8eXOOzgfxn5AjyA&_nc_tpa=Q5bMBQJDuo0OYH_Ufrq8zwnWCWNViD-XT_j0cJ-hn_NsJhHv5nsw1cUiSOubWGTe0Sn6u8nAKLLHFyT_fA&oh=00_AQQIie_G53oPejmerdlvUxDDhEEdFiGl8da29CBeqEZVmg&oe=6B050DBE",
@@ -9787,7 +9853,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-2100-en2.jpg"
    },
    "source_key": "post:61585117295331_122155689543170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -10200,7 +10266,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155745241170576": {
    "fingerprint": "c2fc160e0b83c460e746",
