@@ -2839,7 +2839,10 @@
      "warnings": [
       "часть 1: 284 слов",
       "часть 3: 387 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 401,
+     "wp_status": "future"
     },
     "CS": {
      "pages": {},
@@ -2859,7 +2862,10 @@
      "generated": true,
      "pages": {},
      "title": "Mi hijo se peleó en el colegio porque un niño lo llamaba hermano, pero al ver el rostro de ese niño sentí que la sangre se me helaba",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 399,
+     "wp_status": "future"
     },
     "FR": {
      "pages": {},
@@ -2887,7 +2893,10 @@
      "generated": true,
      "pages": {},
      "title": "Fiul meu s-a bătut la școală cu un băiat care îi spunea „frate\", dar când i-am văzut chipul, mi s-a făcut sânge gheață în vene",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 400,
+     "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
@@ -2895,7 +2904,10 @@
      "generated": true,
      "pages": {},
      "title": "Сын подрался в школе из-за мальчика, который упорно звал его братом, а когда я увидела лицо этого ребёнка, у меня похолодело всё внутри",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 398,
+     "wp_status": "future"
     },
     "TR": {
      "pages": {},
@@ -2906,6 +2918,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-19T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/916554527_122155810785170576_3733855556651072294_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=frbBBWGvbQgQ7kNvwEATzmI&_nc_oc=AdprJRAX1F7ub1jfBH1Cl7vbjE0ks9Z1q4Ut1fkqaPr5Fo5-90qTjXOHc1wsL6haH2c&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=w_kk7xr17US_ayObWPfmdA&_nc_tpa=Q5bMBQJ3tvKThDOPiaAPw60ABN1cjqBxy5_gXfQF2WVTIN0H_4DwDJQEDf3YqJPFruHaEFFDf0h-DkcFnA&oh=00_AQRsoHOAOCdbVGcR_-NuTc1Ex0lBLEgQ7NB6w60VffASCg&oe=6B049B1F",
@@ -2917,7 +2930,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-1500-mix.jpg"
    },
    "source_key": "post:61585117295331_122155810935170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3067,7 +3080,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587026316282_122142677133234210": {
    "fingerprint": "dff31961de0786669c0a",

@@ -7390,3 +7390,7 @@
 {"slot": "2026-11-19 15:00", "lang": "RO", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-19T10:26:49+00:00", "group": "MIX"}
 {"slot": "2026-11-19 15:00", "lang": "AR", "action": "generated", "backend": "subscription", "warnings": ["часть 1: 284 слов", "часть 3: 387 слов"], "t": "2026-11-19T10:26:49+00:00", "group": "MIX"}
 {"slot": "2026-11-19 15:00", "lang": "PT", "action": "wp_post", "id": 397, "status": "future", "t": "2026-11-19T10:26:49+00:00", "group": "RU"}
+{"slot": "2026-11-19 15:00", "lang": "RU", "action": "wp_post", "id": 398, "status": "future", "t": "2026-11-19T10:26:50+00:00", "group": "MIX"}
+{"slot": "2026-11-19 15:00", "lang": "ES", "action": "wp_post", "id": 399, "status": "future", "t": "2026-11-19T10:26:51+00:00", "group": "MIX"}
+{"slot": "2026-11-19 15:00", "lang": "RO", "action": "wp_post", "id": 400, "status": "future", "t": "2026-11-19T10:26:52+00:00", "group": "MIX"}
+{"slot": "2026-11-19 15:00", "lang": "AR", "action": "wp_post", "id": 401, "status": "future", "t": "2026-11-19T10:26:53+00:00", "group": "MIX"}
