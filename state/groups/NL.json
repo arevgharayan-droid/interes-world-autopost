@@ -22,6 +22,7 @@
   "2c102128a6bdf6cc4b13": "2026-11-16T16:00:57+00:00",
   "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
   "31ed525cac6f302a760e": "2026-11-18T15:23:57+00:00",
+  "36f06768685fbf905768": "2026-11-19T19:58:54+00:00",
   "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
   "40d2199f7d29b9f3db58": "2026-11-19T14:07:53+00:00",
@@ -55,6 +56,7 @@
   "a333d126c2a07536f0f3": "2026-11-13T10:14:57+00:00",
   "a373ece8d16ef871e0a9": "2026-11-09T20:07:46+00:00",
   "a964ea608100bdcf9bf6": "2026-11-18T15:23:57+00:00",
+  "aa92d1f8736cff43c0f0": "2026-11-19T19:58:54+00:00",
   "afa3a18208d092faed7a": "2026-11-16T23:51:32+00:00",
   "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
   "b924e8960efa86262e90": "2026-11-12T20:02:32+00:00",
@@ -8585,7 +8587,79 @@
   },
   "2026-11-20 00:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Auf der Beerdigung meiner Ex-Frau versperrte mir ein siebenjähriger Junge den Weg zum Sarg – er hatte mein Gesicht, und der Brief ihrer Mutter änderte alles",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 738,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ik ging naar de begrafenis van mijn ex-vrouw, maar een jongetje van zeven versperde me de weg naar haar kist en riep: \"Blijf uit de buurt van mijn mama!\" Zijn gezicht was exact het mijne",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 737,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T00:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/906072906_1720113812840644_226227847039619110_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W1ixqKogrwEQ7kNvwFwsBda&_nc_oc=AdpzXnIQsxEL2mcN0vOPwUMF6w6J7n3qeUXC0hmpsrhTEq1TGfcC8ZQ0GrIetAjXbjQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6f3spk1P3G6QrPDV7rqlWQ&_nc_tpa=Q5bMBQJN7GkunfDnrEpcjdBpLhiAjDJabbCqI3wWlCStxaoawmYDmar_EAng1yGUSD_GtQ6SOYiH0ty7NA&oh=00_AQQ1A5SQRsFgpRIDigMxB86fZD-UbGSlbha2rhe3lbTZ2Q&oe=6B051B04",
@@ -8597,7 +8671,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-0030-nl.jpg"
    },
    "source_key": "post:100045261260562_1720113962840629",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -8908,7 +8982,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-20 00:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100059505912199_1492825629377620": {
    "fingerprint": "588eb4b7a25151e7caa6",
