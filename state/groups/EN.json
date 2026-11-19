@@ -10299,7 +10299,15 @@
   "2026-11-19 21:00": {
    "langs": {},
    "slot_iso": "2026-11-19T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/916418302_122155783017170576_231766817998288900_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=60LSD3mw_5UQ7kNvwHf_ktJ&_nc_oc=AdoeYNoMh0y9aoRMBP3HqcUQpRal-PxTWN3fGLqS6jaVDsAo5aUhq4h5QqOh_V0LEms&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=9iI7TFypgOepbIXuil4uwg&_nc_tpa=Q5bMBQKOFifIX_T681gq3FpiTgqp8MPH3QzbdHHO3g3Qw5_gOoyUXAfoE8gQvVyF3xcJTKbmDnRXdYd2EA&oh=00_AQRUkN4GSUvZiAd6c92_Xx-vUVfJCwq1rUkbvla4uqmeOQ&oe=6B04F048",
+    "link": "https://www.facebook.com/story.php?story_fbid=122155783149170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "I divorced my husband after he confessed that he had been unfaithful. Since he never challenged the divorce, I walked away with our house, most of our money, and the life we had built together, while he moved into a modest apartment across town. For five years, I was convinced that another woman was the reason our fourteen-year marriage had fallen apart. Then, just one week before he died, he called me...\n\nGraham told me one Wednesday evening, after the children had gone upstairs for the night.\n\n\"I've been involved with someone else.\"\n\nI remember looking at him in disbelief, unable to say anything for what felt like forever.\n\n\"Who is she?\"\n\nHe lowered his eyes toward the table.\n\n\"It doesn't matter.\"\n\n\"How long has this been going on?\"\n\n\"Long enough.\"\n\nThat was all the explanation I needed.\n\nOur divorce was settled surprisingly fast. Graham never fought to keep the house, made no objections over the money, and barely challenged the custody arrangements. Back then, I took his willingness to give everything up as proof that he was guilty and simply wanted out of our marriage.\n\nI was certain there was another woman.\n\nThere seemed to be no other explanation.\n\nYet I never encountered anyone.\n\nThe children never mentioned a new partner. None of our friends ever saw him with another woman. He lived by himself in a small apartment, becoming increasingly withdrawn and distant as time passed. He still showed up for the occasions that mattered. Birthdays, graduations, school functions, and any family gathering the children specifically asked him to attend. But he rarely stayed for long and usually slipped away early.\n\nEventually, I convinced myself that I had moved on and stopped thinking about him.\n\nOr at least, I wanted to believe that was true.\n\nThen, five years after our separation, my phone rang one afternoon.\n\nIt was Graham.\n\nI came close to letting the call go unanswered.\n\nWe hadn't had a real conversation in months.\n\nWhen I picked up, his voice sounded weak and fragile.\n\n\"Could you come to the hospital?\"\n\nI immediately straightened in my seat.\n\n\"What happened to you?\"\n\nHe paused before answering.\n\n\"Please, just come.\"\n\n\"Do you want me to call the children?\"\n\n\"No.\"\n\nHis answer made me uneasy.\n\n\"Graham, what's going on?\"\n\n\"I need to talk to you before anyone else.\"\n\nWhen I walked into his hospital room that evening, I could barely recognize the man lying in the bed.\n\nHe looked much older than I remembered, painfully thin and completely exhausted. His cheeks had hollowed out, and bruises covered parts of his arm around the IV lines. I stopped briefly at the doorway, suddenly realizing that I had no idea when he had become so frail.\n\nHe managed a weak smile.\n\n\"Thank you for coming.\"\n\nI pulled a chair closer to his bed and sat down.\n\n\"What did you want to talk about?\"\n\nHis eyes dropped to his hands.\n\n\"There's something I should have told you five years ago.\"\n\nI let out a sigh.\n\n\"Graham, please. If this is about our divorce...\"\n\n\"It is.\"\n\nHe looked directly at me and held my gaze for several seconds.\n\nThen he finally spoke.\n\n\"I never cheated on you.\"\n\nA laugh slipped out of my mouth.\n\nIt wasn't because I found anything funny.\n\nWhat he had just said sounded completely ridiculous.\n\n\"You sat across from me at our kitchen table and told me you were sleeping with another woman.\"\n\n\"I know.\"\n\n\"You let me divorce you because I believed you had betrayed me.\"\n\n\"I know.\"\n\n\"You allowed me to spend five years hating you for something you supposedly did.\"\n\nHis eyes began filling with tears.\n\n\"I know.\"\n\nI pushed myself up from the chair.\n\n\"Why would you invent a lie like that?\"\n\nPart 2 is already in the first comment 😉 Type “BEST” and press LIKE if you want to continue reading till the end of this story"
+   },
+   "source_key": "post:61585117295331_122155783149170576",
+   "status": "preparing"
   },
   "2026-11-20 00:00": {
    "langs": {},
@@ -10731,6 +10739,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-19 15:00",
    "status": "used"
+  },
+  "post:61585117295331_122155783149170576": {
+   "fingerprint": "a2de4de1f95411a752f2",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155783149170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 21:00",
+   "status": "reserved"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
