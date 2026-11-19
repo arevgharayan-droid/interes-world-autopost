@@ -11482,7 +11482,10 @@
      "generated": true,
      "pages": {},
      "title": "Casei com um presidiário por dinheiro, mas quando ele saiu livre e pousou uma caixa preta na minha mesa, disse que era a vez dele de ser honesto",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 397,
+     "wp_status": "future"
     },
     "RO": {
      "pages": {},
@@ -11496,7 +11499,10 @@
      "title": "Я вышла замуж за заключённого ради денег, но через неделю после его освобождения он поставил на кухонный стол чёрную коробку и сказал, что теперь его очередь быть честным",
      "warnings": [
       "часть 1: 308 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 395,
+     "wp_status": "future"
     },
     "TR": {
      "backend": "subscription",
@@ -11507,13 +11513,17 @@
      "warnings": [
       "часть 1: 258 слов",
       "часть 3: 395 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 396,
+     "wp_status": "future"
     },
     "UK": {
      "pages": {},
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-19T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/913845019_122155672107170576_4399501398064807119_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GvFeEOtiIAcQ7kNvwH0vq3j&_nc_oc=Adrzuxrqsi26MlwM7K9sN-QNY-fTvyLfdmgG3PNVmCBnmxWcmOAT5irU1_5yawb5zdM&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=eaKgzntZ5Ol_d06FKF1l1g&_nc_tpa=Q5bMBQL9M2WMXo5pU07G4berx2uIqHJN2oFshGaCQSyzMtGZquDu6PJLEgYThSD0sL96gBY8WVfTjaBovg&oh=00_AQSfya4emmtoVD4UFjW35Bpry7ONB6kXm8JVTFyMyyNAzQ&oe=6B04B93C",
@@ -11525,7 +11535,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-1500-ru.jpg"
    },
    "source_key": "post:61585117295331_122155672341170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -11985,7 +11995,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122143810737210709": {
    "fingerprint": "5b16116dc7df14500fc7",

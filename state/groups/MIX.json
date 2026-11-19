@@ -3,7 +3,9 @@
  "output_fps": {
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
   "0be13b58727dd30b5837": "2026-11-17T17:52:42+00:00",
+  "197afdcf4ca2d2cf2e80": "2026-11-19T10:26:49+00:00",
   "1e2c7dd943d79ef1c8d0": "2026-11-18T22:49:45+00:00",
+  "1f198156f3d98bc7ff76": "2026-11-19T10:26:49+00:00",
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
   "292c1d04504fd06c6ac5": "2026-11-18T18:56:12+00:00",
   "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
@@ -25,6 +27,7 @@
   "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
   "839d2c1cc7df4856d81d": "2026-11-18T22:20:58+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
+  "8ac1ecf8185542e95941": "2026-11-19T10:26:49+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
   "93c7cd65e2a500a2cf38": "2026-11-18T08:52:49+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
@@ -47,6 +50,7 @@
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
   "eb19c503b19e6605601a": "2026-11-18T15:24:21+00:00",
   "ef90411773fe09e82bf0": "2026-11-18T22:20:58+00:00",
+  "f6a4a30022b8eb2699ca": "2026-11-19T10:26:49+00:00",
   "fa38d523740b3642a359": "2026-11-17T10:38:26+00:00",
   "fad065ee1746d78e40db": "2026-11-18T15:24:21+00:00",
   "ff32133b1d57816b36e8": "2026-11-17T10:38:26+00:00"
@@ -2825,7 +2829,83 @@
    }
   },
   "2026-11-19 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "تشاجر ابني في المدرسة لأن ولداً أصرّ على مناداته بأخيه، وحين رأيت وجه ذلك الولد تجمّد الدم في عروقي",
+     "warnings": [
+      "часть 1: 284 слов",
+      "часть 3: 387 слов"
+     ]
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hijo se peleó en el colegio porque un niño lo llamaba hermano, pero al ver el rostro de ese niño sentí que la sangre se me helaba",
+     "warnings": []
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Fiul meu s-a bătut la școală cu un băiat care îi spunea „frate\", dar când i-am văzut chipul, mi s-a făcut sânge gheață în vene",
+     "warnings": []
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Сын подрался в школе из-за мальчика, который упорно звал его братом, а когда я увидела лицо этого ребёнка, у меня похолодело всё внутри",
+     "warnings": []
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-19T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/916554527_122155810785170576_3733855556651072294_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=frbBBWGvbQgQ7kNvwEATzmI&_nc_oc=AdprJRAX1F7ub1jfBH1Cl7vbjE0ks9Z1q4Ut1fkqaPr5Fo5-90qTjXOHc1wsL6haH2c&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=w_kk7xr17US_ayObWPfmdA&_nc_tpa=Q5bMBQJ3tvKThDOPiaAPw60ABN1cjqBxy5_gXfQF2WVTIN0H_4DwDJQEDf3YqJPFruHaEFFDf0h-DkcFnA&oh=00_AQRsoHOAOCdbVGcR_-NuTc1Ex0lBLEgQ7NB6w60VffASCg&oe=6B049B1F",
