@@ -21,6 +21,7 @@
   "5e14d1dd2e2aaba85e6e": "2026-11-12T20:02:22+00:00",
   "639e26827f29271e89c3": "2026-11-09T19:59:07+00:00",
   "64cee77292ce0f9e523e": "2026-11-10T22:02:16+00:00",
+  "754024bf3c63e7110705": "2026-11-19T10:26:31+00:00",
   "760b03a1e5433af18d04": "2026-11-18T22:19:57+00:00",
   "77874addb91478399153": "2026-11-10T22:06:03+00:00",
   "79245b4f7e0906ff72f7": "2026-11-16T19:28:11+00:00",
@@ -9527,7 +9528,72 @@
    }
   },
   "2026-11-19 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Gave My 11-Year-Old Son $50 for the School Fair, Then His Teacher Called Me in Tears",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 687,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/913010580_122155745217170576_8360386074435750680_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rQEEWvc01zwQ7kNvwFHSwSi&_nc_oc=AdpMPe7bPkTwNf2M0kIMLw6LJyUN3P2M7tBEoJstJesQhYtQ2LJHv6TczmouwbwBMgs&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=CvwRClDLZavQhjXuSjYLjQ&_nc_tpa=Q5bMBQJTfZlw8VGu2JCGObG9yHXmDw5G7d8tvdC1YLmbJQSub6LPIifHvz4p7ULzDrq9fE-NdkaulhB9mA&oh=00_AQR9lebQk1ooEUX7LkAxqbDZiu9pvzl08hizgV00rYWEJQ&oe=6B04B656",
@@ -9539,7 +9605,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1500-en2.jpg"
    },
    "source_key": "post:61585117295331_122155745241170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -9946,7 +10012,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122143953849210709": {
    "fingerprint": "9c3d29c96b1e678cb01b",
