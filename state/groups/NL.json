@@ -8680,12 +8680,13 @@
       "1268633826332790": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122134246839436382_1172403098693757",
        "error": null,
        "last_attempt": "2026-11-20T00:03:54+04:00",
        "mode": "schedule",
        "photo_id": "122134246809436382",
        "post_id": "1268633826332790_122134246839436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Auf der Beerdigung meiner Ex-Frau versperrte mir ein siebenjähriger Junge den Weg zum Sarg – er hatte mein Gesicht, und der Brief ihrer Mutter änderte alles",
@@ -8838,7 +8839,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-0030-nl.jpg"
    },
    "source_key": "post:100045261260562_1720113962840629",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
