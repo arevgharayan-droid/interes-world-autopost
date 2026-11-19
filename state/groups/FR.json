@@ -707,7 +707,7 @@
   "1280413955154689_122129827641425731": "2026-11-18T18:32:06+00:00",
   "1280413955154689_122129852721425731": "2026-11-18T22:23:13+00:00",
   "1280413955154689_122129856177425731": "2026-11-19T08:13:03+00:00",
-  "1280413955154689_122129925753425731": "2026-11-19T10:32:36+00:00"
+  "1280413955154689_122129925753425731": "2026-11-19T11:12:06+00:00"
  },
  "slots": {
   "2026-11-05 15:00": {
@@ -7112,21 +7112,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130016131441679_1782380046207012",
        "error": null,
        "last_attempt": "2026-11-19T14:30:32+04:00",
        "mode": "schedule",
        "photo_id": "122130016101441679",
        "post_id": "1260826840455724_122130016131441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129925753425731_2324999594965193",
        "error": null,
        "last_attempt": "2026-11-19T14:32:32+04:00",
        "mode": "schedule",
        "photo_id": "122129925729425731",
        "post_id": "1280413955154689_122129925753425731",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Un garçon de 7 ans a supplié une policière de le suivre chez lui : ce qu'elle a découvert derrière la porte de la maison jaune l'a bouleversée",
@@ -7181,7 +7185,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1500-fr.jpg"
    },
    "source_key": "post:61585117295331_122155635159170576",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
