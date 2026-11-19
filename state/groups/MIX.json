@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-16T21:06:31+04:00",
  "output_fps": {
+  "0368c00b16379902b100": "2026-11-19T17:36:01+00:00",
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
   "0be13b58727dd30b5837": "2026-11-17T17:52:42+00:00",
   "197afdcf4ca2d2cf2e80": "2026-11-19T10:26:49+00:00",
@@ -18,8 +19,10 @@
   "43914945f65de17447f6": "2026-11-17T20:47:15+00:00",
   "4790fa987cd605bce59b": "2026-11-17T20:47:15+00:00",
   "50dd1f88b6c06defc96d": "2026-11-18T22:20:58+00:00",
+  "50f5e9765c68d246b206": "2026-11-19T17:36:01+00:00",
   "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
   "6144e4570a19cb701fa3": "2026-11-19T14:08:16+00:00",
+  "61b6c834065a37df649e": "2026-11-19T17:36:01+00:00",
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
   "697bf1e866b0d768ab37": "2026-11-18T22:49:45+00:00",
   "704e349d3d23b38ec128": "2026-11-19T14:08:16+00:00",
@@ -34,6 +37,7 @@
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
   "93c7cd65e2a500a2cf38": "2026-11-18T08:52:49+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
+  "95d798f47b5adbd505b6": "2026-11-19T17:36:01+00:00",
   "9e9961bac78dda63c754": "2026-11-17T00:19:13+00:00",
   "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
   "a6fdd2c0df68079b8482": "2026-11-18T18:56:12+00:00",
@@ -3285,7 +3289,93 @@
   },
   "2026-11-19 21:33": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "اتصلت طفلة في السابعة بالطوارئ لأن أمها لم تعد، وحين دخلت الشرطة الشقة المظلمة همست: لقد فعلها مرة أخرى",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 426,
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A las 2:17 de la madrugada una niña de siete años llamó al 911 porque su mamá no volvía, pero cuando la policía entró en el apartamento a oscuras entendimos que nadie la había abandonado",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 424,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "O fetiță de 7 ani a sunat la 112 la 2:17 noaptea, iar când polițiștii au intrat în apartamentul întunecat, tot blocul a înțeles că nu era vorba de o mamă care își lăsase copiii singuri",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 425,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Семилетняя девочка позвонила в 911 в 2:17 ночи, потому что мама не вернулась, а когда полицейские вошли в тёмную квартиру, она прошептала: «Он сделал это снова",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 423,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T21:33:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/914505439_122155566369170576_2563053588494679785_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Glp9Mr0fCPQQ7kNvwFhh3Pj&_nc_oc=Adp0BWJPPhMY6IrC0btTz0i5mJzKqzhWclAOPE0GwBYeV9TMSTZ5U3GUup7n7I86i5c&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=DLXqWvvYeJaHALpC8CQrnQ&_nc_tpa=Q5bMBQI22UhO-P1g-MWjEEOUojAuavdF4E8AaJ5hrpLhS1i9glSDh6F_vub_QS7jjIH1AsaBS4BRnPNC_A&oh=00_AQRJgqiR4kytNrlraHJI8yXCtTXuHA3stpSKjSDacHcEgw&oe=6B04F601",
@@ -3297,7 +3387,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-2133-mix.jpg"
    },
    "source_key": "post:61585117295331_122155566441170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3462,7 +3552,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 21:33",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155810935170576": {
    "fingerprint": "7cf6f9b0e07281d2c772",
