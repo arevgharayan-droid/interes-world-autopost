@@ -8354,63 +8354,76 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132486829310273_1383086508229182",
        "error": null,
        "last_attempt": "2026-11-19T21:39:54+04:00",
        "mode": "immediate",
        "photo_id": "122132486805310273",
        "post_id": "1028964020310052_122132486829310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130427479321366_1727018065656042",
        "error": null,
        "last_attempt": "2026-11-19T21:40:19+04:00",
        "mode": "immediate",
        "photo_id": "122130427455321366",
        "post_id": "1089186904280406_122130427479321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127916833309032_1702683131375458",
        "error": null,
        "last_attempt": "2026-11-19T21:39:08+04:00",
        "mode": "immediate",
        "photo_id": "122127916809309032",
        "post_id": "1102464712951594_122127916833309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126098569316035_1126144963391017",
        "error": null,
        "last_attempt": "2026-11-19T21:39:31+04:00",
        "mode": "immediate",
        "photo_id": "122126098545316035",
        "post_id": "1129908326870761_122126098569316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131747917418602_1817352815839468",
        "error": null,
        "last_attempt": "2026-11-19T21:38:21+04:00",
        "mode": "immediate",
        "photo_id": "122131747893418602",
        "post_id": "1208422892355505_122131747917418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134227735436382_1439581107793236",
        "error": null,
        "last_attempt": "2026-11-19T21:38:45+04:00",
        "mode": "immediate",
        "photo_id": "122134227711436382",
        "post_id": "1268633826332790_122134227735436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Hollyn kam drei Wochen lang hungrig aus der Schule – dann rief die Kantinenfrau an und ich fuhr zu einer eiskalten Wohnung, in der ein Junge sein Schwesterchen bewachte",
      "warnings": [],
      "wp_error": null,
      "wp_id": 721,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -8447,21 +8460,25 @@
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130894777424769_1018635207955969",
        "error": null,
        "last_attempt": "2026-11-19T21:37:59+04:00",
        "mode": "immediate",
        "photo_id": "122130894747424769",
        "post_id": "1180417388497186_122130894777424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131014645430924_1541809537785300",
        "error": null,
        "last_attempt": "2026-11-19T21:37:37+04:00",
        "mode": "immediate",
        "photo_id": "122131014621430924",
        "post_id": "1205543595981082_122131014645430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
@@ -8552,7 +8569,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-2133-nl.jpg"
    },
    "source_key": "post:61552132650894_122314558454071088",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
