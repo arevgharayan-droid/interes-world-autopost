@@ -10405,12 +10405,14 @@
       },
       "1210639158790064": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122152956543346409_4658177334471006",
        "error": null,
        "last_attempt": "2026-11-19T21:21:30+04:00",
        "mode": "immediate",
        "photo_id": "122152956519346409",
        "post_id": "1210639158790064_122152956543346409",
-       "status": "published"
+       "status": "done"
       },
       "1235940142932696": {
        "attempts": 1,
@@ -10459,30 +10461,35 @@
       "237939756073256": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122356798952234096_984920494230201",
        "error": null,
        "last_attempt": "2026-11-19T21:20:38+04:00",
        "mode": "immediate",
        "photo_id": "122356798904234096",
        "post_id": "237939756073256_122356798952234096",
-       "status": "published"
+       "status": "done"
       },
       "353293117873308": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122162079332416253_1698288758512822",
        "error": null,
        "last_attempt": "2026-11-19T21:20:56+04:00",
        "mode": "immediate",
        "photo_id": "122162079308416253",
        "post_id": "353293117873308_122162079332416253",
-       "status": "published"
+       "status": "done"
       },
       "708817825659143": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122149246539010869_1804353434160866",
        "error": null,
        "last_attempt": "2026-11-19T21:21:13+04:00",
        "mode": "immediate",
        "photo_id": "122149246515010869",
        "post_id": "708817825659143_122149246539010869",
-       "status": "published"
+       "status": "done"
       },
       "914823471720372": {
        "attempts": 1,
@@ -10578,7 +10585,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-2100-en.jpg"
    },
    "source_key": "post:61585117295331_122155783149170576",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
