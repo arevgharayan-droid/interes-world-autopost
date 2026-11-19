@@ -28,6 +28,7 @@
   "60f9c89309a199527b79": "2026-11-17T18:29:53+00:00",
   "628ca1701fa9d7a8990a": "2026-11-16T16:01:05+00:00",
   "66a2647af0e1f8e411ad": "2026-11-17T20:38:41+00:00",
+  "68ca5e3edbe7ee1a0e42": "2026-11-19T10:26:56+00:00",
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
   "69bae5bbd4e359b27b2a": "2026-11-18T08:52:43+00:00",
   "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
@@ -61,6 +62,7 @@
   "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "ba5f05202837b2fb860d": "2026-11-14T11:39:45+00:00",
+  "bafb37100cdb3ff9df9b": "2026-11-19T10:26:56+00:00",
   "bb0ddf4fdb82f7b2d023": "2026-11-10T22:04:53+00:00",
   "bd6eab36f82eb4d435fe": "2026-11-14T19:42:43+00:00",
   "c048f4c9b8f48906fe16": "2026-11-16T16:01:05+00:00",
@@ -70,6 +72,7 @@
   "cf29e5e2e8b5770866b0": "2026-11-16T10:16:33+00:00",
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
   "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
+  "d4cab6ef35142d4bedc3": "2026-11-19T10:26:56+00:00",
   "de3fafdb1cf0cbce4e54": "2026-11-16T23:51:59+00:00",
   "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
   "e5620b751bed22ad8486": "2026-11-16T19:28:24+00:00",
@@ -12542,7 +12545,88 @@
    }
   },
   "2026-11-19 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Po jedenácti letech se vrátil otec, který ji opustil, a chtěl ji zpět. U soudu ale Hazel vstala a řekla větu, která změnila všechno",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 693,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ho cresciuto mia nipote dopo la morte di mia figlia, ma undici anni dopo il padre che l'aveva abbandonata la rivoleva: in tribunale Hazel si è alzata e ha detto la verità",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 691,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wychowałam wnuczkę po śmierci córki. Po 11 latach jej ojciec chciał ją odebrać, ale w sądzie Hazel wstała i powiedziała, co o nim wie",
+     "warnings": [
+      "длина текста FB 715 слов (исходник 843, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 692,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/916944988_122155654773170576_8822217565290399255_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YRxnat5LvCkQ7kNvwEACMDi&_nc_oc=AdqvtIfId14C1AU3cW2RfDC2QCUpe065YawUleTePIEHgFmuoLQQaFXqU1tqLx04gck&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=qbd-pGoXDkVrKptnW1s70w&_nc_tpa=Q5bMBQKNyT5BvHmbv_XXlyf1Vw4z8mLczbk0p1dNzS9630d5pOBUBxR-tqOHQQTS4VErFa4BXxlZVUkVgA&oh=00_AQTqVpXeFJLk1vmNC51WWGAMtJVGdPAmZ1ECbvS8eONv1Q&oe=6B04A49C",
@@ -12554,7 +12638,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1500-it.jpg"
    },
    "source_key": "post:61585117295331_122155654917170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13006,7 +13090,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",
