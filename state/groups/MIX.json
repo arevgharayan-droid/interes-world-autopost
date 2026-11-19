@@ -6,6 +6,7 @@
   "197afdcf4ca2d2cf2e80": "2026-11-19T10:26:49+00:00",
   "1e2c7dd943d79ef1c8d0": "2026-11-18T22:49:45+00:00",
   "1f198156f3d98bc7ff76": "2026-11-19T10:26:49+00:00",
+  "208463d4781b94b70452": "2026-11-19T14:08:16+00:00",
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
   "292c1d04504fd06c6ac5": "2026-11-18T18:56:12+00:00",
   "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
@@ -18,8 +19,10 @@
   "4790fa987cd605bce59b": "2026-11-17T20:47:15+00:00",
   "50dd1f88b6c06defc96d": "2026-11-18T22:20:58+00:00",
   "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
+  "6144e4570a19cb701fa3": "2026-11-19T14:08:16+00:00",
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
   "697bf1e866b0d768ab37": "2026-11-18T22:49:45+00:00",
+  "704e349d3d23b38ec128": "2026-11-19T14:08:16+00:00",
   "70c05379b999f4d41de6": "2026-11-18T15:24:21+00:00",
   "72cfa8c608946a546f2e": "2026-11-18T18:56:12+00:00",
   "7599ebffd8f3d4caa6ef": "2026-11-18T08:52:49+00:00",
@@ -39,6 +42,7 @@
   "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
   "c2bc42d5c2d6930640d5": "2026-11-18T22:49:45+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
+  "c849b1d0af5703028d05": "2026-11-19T14:08:16+00:00",
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "cfa7b21c90a2cad9b78e": "2026-11-18T08:52:49+00:00",
@@ -3051,7 +3055,98 @@
    }
   },
   "2026-11-19 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "أمام والدَيها وابني، طلبت زوجة ابني الكركند للجميع وتركت لي كأس ماء، لكن حين اقترب الشيف التنفيذي من طاولتنا تجمّدت ابتسامتها",
+     "warnings": [
+      "часть 3: 418 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 417,
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi nuera pidió langosta para todos menos para mí y me puso un vaso de agua, pero cuando el chef ejecutivo se acercó a mi mesa su sonrisa se borró",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 415,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La cină, nora mi-a pus în față un pahar cu apă în timp ce toți mâncau homar, dar când bucătarul-șef a venit la masa noastră, zâmbetul ei a dispărut",
+     "warnings": [
+      "часть 1: 695 слов",
+      "часть 2: 541 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 416,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Невестка заказала омаров всем, а мне подвинула стакан воды, и сын велел помнить своё место, но через десять минут к нашему столу вышел шеф-повар",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 414,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/904022992_122155455351170576_8445268885416650250_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hHBKfBf8U_YQ7kNvwGY1LOe&_nc_oc=Adpnc8I_vN1zJmh9vEa31PwrRaAUt-cOjyoqvJyTkgqhSDIMtYBEjqFuEpmAD90EPpY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=EN9GojagjfSpkI_R2AfSOA&_nc_tpa=Q5bMBQId8igFh6FaMgbTyhdNATQt4olLPH046xCzd2dZz6NoV_V5qK_R63HQGaFgrjFrB25DfDQ7CvX65A&oh=00_AQR6jmpiNG-BoOGlF8pLSi_-K88Qwz73mLY60ciY3OwGCg&oe=6B04E9FC",
@@ -3063,7 +3158,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-1800-mix.jpg"
    },
    "source_key": "post:61585117295331_122155455411170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3214,7 +3309,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155810935170576": {
    "fingerprint": "7cf6f9b0e07281d2c772",
