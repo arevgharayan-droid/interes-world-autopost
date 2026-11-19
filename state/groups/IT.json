@@ -33,7 +33,9 @@
   "69bae5bbd4e359b27b2a": "2026-11-18T08:52:43+00:00",
   "71062dd34a3e1330b4cb": "2026-11-09T20:07:53+00:00",
   "75900c4b74075115b0dc": "2026-11-15T10:15:15+00:00",
+  "760cc6e6abfd9ea2f809": "2026-11-19T17:35:32+00:00",
   "79641c4c501a7a4cbbf6": "2026-11-16T00:18:19+00:00",
+  "7ed5bfe70e10ffa40f11": "2026-11-19T17:35:32+00:00",
   "8010f06d690dbd6a283e": "2026-11-14T09:15:08+00:00",
   "801a18eaab6ae5192881": "2026-11-18T15:24:10+00:00",
   "82dedf152cfc4e82672b": "2026-11-18T22:36:42+00:00",
@@ -88,6 +90,7 @@
   "f5c0e175c68a336e3e47": "2026-11-09T20:09:08+00:00",
   "fc7afd4f1a31db559569": "2026-11-15T10:15:15+00:00",
   "fcf4e0ed885a332215e7": "2026-11-18T18:29:38+00:00",
+  "fd55d03047e1e70fc424": "2026-11-19T17:35:32+00:00",
   "ff177c2141f7f0364278": "2026-11-09T13:24:27+00:00"
  },
  "outputs": {
@@ -13435,7 +13438,90 @@
   },
   "2026-11-19 21:33": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Rodiče mě v pěti letech odložili u dědy a zmizeli. Ráno po jeho pohřbu přijeli se stěhovacím vozem a vrazili mi do rukou dva pytle na odpadky",
+     "warnings": [
+      "длина текста FB 660 слов (исходник 848, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 719,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi lasciarono dal nonno a cinque anni e sparirono: il giorno dopo il funerale tornarono con un camion dei traslochi",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 717,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Zostawili mnie u dziadka, gdy miałam 5 lat. Dzień po jego pogrzebie wrócili z ciężarówką, a w gabinecie czekała na nich prawda",
+     "warnings": [
+      "длина текста FB 646 слов (исходник 848, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 718,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T21:33:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/912405997_122155802907170576_3533315822539970275_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OH5gxBnPCqgQ7kNvwEZXBBl&_nc_oc=Adq3e6o0zvWBD9eeRu0A86eCf1csWCOv7WZVXDYAR0mpHdkEx9flmFJYbFtorbeyTJE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=lmguMOoBP_cGOw1tZdgkGA&_nc_tpa=Q5bMBQIiQ9ovu7AMYw92UbaAmlW_3AxPYmN1Yvf9Ot-7IvFNAC0GYHoXr_IFFlf_LtNsUkJSa6_Ez_6XAA&oh=00_AQRSUhyJlG9LctWH7xq4zlkDdWyeBz53eoqqoEmXDz-Tuw&oe=6B0505F1",
@@ -13447,7 +13533,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-2133-it.jpg"
    },
    "source_key": "post:61585117295331_122155803039170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13922,7 +14008,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 21:33",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",
