@@ -3287,7 +3287,15 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-19T21:33:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/914505439_122155566369170576_2563053588494679785_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Glp9Mr0fCPQQ7kNvwFhh3Pj&_nc_oc=Adp0BWJPPhMY6IrC0btTz0i5mJzKqzhWclAOPE0GwBYeV9TMSTZ5U3GUup7n7I86i5c&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=DLXqWvvYeJaHALpC8CQrnQ&_nc_tpa=Q5bMBQI22UhO-P1g-MWjEEOUojAuavdF4E8AaJ5hrpLhS1i9glSDh6F_vub_QS7jjIH1AsaBS4BRnPNC_A&oh=00_AQRJgqiR4kytNrlraHJI8yXCtTXuHA3stpSKjSDacHcEgw&oe=6B04F601",
+    "link": "https://www.facebook.com/story.php?story_fbid=122155566441170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "A 7-year-old girl called 911 at 2:17 a.m. because her mother hadn't returned home. When the police entered that dark apartment, the entire neighborhood stopped talking about child abandonment and started talking about terror. “My mom told me not to open the door for anyone,” the little girl whispered. “But the power went out, we're out of food, and my little brother won't stop crying.” The dispatcher set his coffee down on the console…\n\nHe asked her name, then told her she had done the right thing by calling. She was trying so hard to sound grown-up that he could hear her swallow between answers. Her little brother was beside her on the couch, wrapped in a blanket, crying because he was hungry and scared.\n\n“Did your mom say where she was going?”\n\n“Downstairs. She had a bag. She promised she'd come right back.”\n\nThat was shortly before midnight.\n\nThe dispatcher kept talking as officers drove to the apartment complex. He asked the girl to stay away from the door and remain with her brother. When she said she had already given him the last crackers, he quietly called for someone to check on the children's immediate needs, too.\n\nAt the building, every hallway light worked. Neighbors had electricity. Only the children's apartment was pitch-black.\n\nThe officers identified themselves. The dispatcher confirmed their arrival before the girl slid back the chain.\n\nOne officer swept his flashlight over the empty kitchen. The other knelt near the children. The girl's hands were trembling, but she hadn't broken her mother's rule. She had kept the door locked until help came.\n\nThen she pointed at the counter.\n\nHer mother's phone was still charging. Her purse hung from a chair. Nothing suggested she had packed to leave her children behind.\n\n“Mom said it would only take a minute,” the girl repeated.\n\nA radio message came from the hallway. The second officer had checked the electrical situation. The power hadn't failed throughout the building. Someone had cut it to this apartment alone.\n\nThe girl's expression changed.\n\n“He did it again.”\n\nBoth officers went still.\n\n“Who did?” the one beside her asked.\n\nShe buried her face against her little brother's hair.\n\nBack at the communications center, the dispatcher found another call linked to their address that night. It had ended after only a few seconds. He sent the information to the officers.\n\n“Mom tried calling before she went downstairs,” the girl said, hearing his voice through the phone.\n\n“Why was she calling?”\n\n“Somebody kept knocking. She told him to go away.”\n\nNow the forgotten phone, the abandoned purse, and the dark apartment pointed toward something far worse than a mother leaving without warning.\n\nThe officer asked whether her mother had given her any other instructions.\n\nThe girl nodded.\n\n“She said if the lights went out again, I wasn't supposed to follow her. Even if I heard her downstairs.”\n\nBefore he could answer, a metallic crash echoed from below them.\n\nA second crash followed.\n\nThe little girl caught his sleeve so hard he felt her fingernails through the fabric.\n\n“That's where Mommy went.”\n\nHis partner was already racing down the stairs.\n\nComment \"DOOR\" if you want to discover what happens next."
+   },
+   "source_key": "post:61585117295331_122155566441170576",
+   "status": "preparing"
   },
   "2026-11-20 00:00": {
    "langs": {},
@@ -3439,6 +3447,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-19 18:00",
    "status": "used"
+  },
+  "post:61585117295331_122155566441170576": {
+   "fingerprint": "554c1b0899aa36795404",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155566441170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 21:33",
+   "status": "reserved"
   },
   "post:61585117295331_122155810935170576": {
    "fingerprint": "7cf6f9b0e07281d2c772",
