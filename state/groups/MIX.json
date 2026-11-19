@@ -3053,7 +3053,15 @@
   "2026-11-19 18:00": {
    "langs": {},
    "slot_iso": "2026-11-19T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/904022992_122155455351170576_8445268885416650250_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hHBKfBf8U_YQ7kNvwGY1LOe&_nc_oc=Adpnc8I_vN1zJmh9vEa31PwrRaAUt-cOjyoqvJyTkgqhSDIMtYBEjqFuEpmAD90EPpY&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=EN9GojagjfSpkI_R2AfSOA&_nc_tpa=Q5bMBQId8igFh6FaMgbTyhdNATQt4olLPH046xCzd2dZz6NoV_V5qK_R63HQGaFgrjFrB25DfDQ7CvX65A&oh=00_AQR6jmpiNG-BoOGlF8pLSi_-K88Qwz73mLY60ciY3OwGCg&oe=6B04E9FC",
+    "link": "https://www.facebook.com/story.php?story_fbid=122155455411170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "At dinner, my daughter-in-law ordered lobster for everyone at the table—everyone except me. Then she slid a glass of water toward my place and said, “That will be enough for her.” I looked at my son, waiting for him to defend the mother who had raised him alone. Instead, he lowered his eyes and said, “Remember your place, Mom.” I didn’t argue. Ten minutes later, the executive chef walked up to our table and addressed me with such deep respect that my daughter-in-law’s smile vanished.\n\n**Part 1: The Glass of Water They Thought Was Enough**\n\nAt dinner, my daughter-in-law ordered lobster for everyone at the table except me.\n\nThen she slid a glass of water toward my seat at the far end and smiled like she had done me a kindness.\n\n“That will be enough for her,” **Claire** told the waiter.\n\nI looked at my son, **Ethan**, waiting for him to defend the woman who had raised him alone. He sat beside his wife beneath the crystal chandeliers, dressed in an expensive suit, staring down at his plate like he had heard nothing.\n\n“Ethan?” I asked.\n\nAfter a long pause, he answered quietly.\n\n“Just accept it, Mom. Remember your place.”\n\nFor a moment, I did not see the successful man across from me. I saw the little boy whose hand I held through winter rain, the child I fed before myself, and the student whose shoes, lunches, and college bills I somehow managed to pay.\n\nI looked down at the water.\n\n“Understood,” I said.\n\nClaire seemed disappointed. She had expected tears, anger, or a scene she could use to call me difficult.\n\nI gave her nothing.\n\nMy name is **Eleanor Hayes**. I am sixty-five, and I raised Ethan alone after his father disappeared when Ethan was six. No explanation. No support. No one to step in when life became hard.\n\nSo I did everything.\n\nI cleaned offices before sunrise, worked lunch shifts in a school cafeteria, waited tables, and spent long hours in commercial kitchens. I carried trays, stood beside hot ovens, and went home with aching feet, but Ethan always had clean clothes, school supplies, and food on the table.\n\nWhen college came, I found a way to help with that too.\n\nI wanted my son to have choices I never had.\n\nHe graduated, built a career, and married Claire.\n\nAt first, I tried to love her because I thought making Ethan happy was enough. I ignored her comments about my clothes, my apartment, and the way she looked around my modest home like poverty might rub off on her.\n\nThen came the exclusions.\n\nBirthday dinners I heard about afterward.\n\nHolidays I was not invited to.\n\nFamily trips they mentioned only after they came home.\n\nEthan allowed all of it.\n\nSo when he called and said they wanted to repair our relationship, I let myself hope. I wore my best navy dress and accepted their invitation to one of the city’s most exclusive restaurants.\n\nBut the table told me the truth before anyone spoke.\n\nClaire sat between her parents. Ethan sat beside her. My chair had been placed far away, with an uncomfortable stretch of empty space between us.\n\nThen the waiter came.\n\n“Four lobster dinners,” Claire said. “Imported wine, appetizers, and desserts.”\n\nI waited for her to include me.\n\nShe didn’t.\n\nThe water arrived soon after.\n\nAs they ate, Claire’s parents talked about people who reached retirement without planning properly. They laughed about small apartments, working-class neighborhoods, and people who spent life “getting by” instead of becoming important.\n\nThen Claire looked at me.\n\n“I think Eleanor should attend fewer family events,” she said. “We have a certain image now.”\n\nEthan said nothing.\n\nBeside my chair sat the strawberry cake I had brought for Claire’s four-year-old daughter, **Lily**, because I knew she loved strawberries.\n\nClaire glanced at the box.\n\n“What exactly do you think you can contribute?”\n\nI looked at her calmly.\n\nShe leaned back.\n\n“Love is nice, Eleanor. But love doesn’t provide status, opportunities, or useful connections.”\n\nSomething inside me went quiet.\n\nThey had decided who I was.\n\nAnd as the executive chef entered the dining room, I decided it was finally time for them to learn how wrong they were.\n\nPlease type “Y” if you’re ready for the next part and I’ll send it right away."
+   },
+   "source_key": "post:61585117295331_122155455411170576",
+   "status": "preparing"
   },
   "2026-11-19 21:00": {
    "langs": {},
@@ -3191,6 +3199,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-17 12:00",
    "status": "used"
+  },
+  "post:61585117295331_122155455411170576": {
+   "fingerprint": "be4fce600d9ddc11fc0e",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155455411170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 18:00",
+   "status": "reserved"
   },
   "post:61585117295331_122155810935170576": {
    "fingerprint": "7cf6f9b0e07281d2c772",

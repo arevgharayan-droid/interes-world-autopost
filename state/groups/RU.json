@@ -11924,7 +11924,15 @@
   "2026-11-19 18:00": {
    "langs": {},
    "slot_iso": "2026-11-19T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/905343356_122155316661170576_8547182615393196016_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=J4FVcfT3QGEQ7kNvwGPcVWJ&_nc_oc=Ado165IUYJpPBJ6ZuK01aG-mnwVhdFmnxsjBQRIAtIE2qk1TV5i862r6KxCnBo_-g0Y&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=DnO2tpJjOK-zoqfXdMxt8g&_nc_tpa=Q5bMBQJypTJhuPk4Ww5MkNOPaDHsjK87YFiQnRmoeaA50AOCYLOerkbWCmVabltNVEgK-5CSei6ZzboUVw&oh=00_AQR5i7tT_W--EhZDECsvEuOEQGN-vlXeJnRNR3ef-v50NA&oe=6B04D077",
+    "link": "https://www.facebook.com/story.php?story_fbid=122155316763170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "For seven days, I suffered from unbearable headaches while my husband and mother-in-law kept telling me, “It’s nothing. You don’t need a doctor.” Finally, I took a taxi to the hospital alone. The doctor was examining me when he suddenly froze and shouted toward the hallway, “Call the police immediately!” I lay there in shock, realizing my husband had been hiding something far more terrifying than I could have imagined.\nPART 1\nOn the seventh morning of a relentless headache that felt like someone was drilling into my skull, I emptied every crumpled dollar bill and loose coin from the pocket of my bathrobe to pay for a taxi to the hospital my husband had forbidden me to visit.\nI was barefoot, wearing nothing but a pair of borrowed shower slippers, with my husband's sweatpants pulled over my nightgown. My feet felt like two blocks of wood, each one pierced by thousands of tiny needles.\nA short while later, Dr. Michael Hayes entered my examination room in the emergency department of a hospital in Houston, Texas. He was a tall man in his late fifties, with slightly hunched shoulders, tired eyes, and surprisingly gentle hands.\nHe tapped my knees with a small reflex hammer. My legs barely responded, twitching so faintly that I almost missed it myself.\n“How long have you been experiencing this numbness?” he asked, making notes on my medical chart.\n“Months,” I whispered, my voice barely audible. “I thought it was because of the grief after my parents died. My husband kept insisting it was all in my head, just my body reacting to the stress. He told me over and over that I didn't need a doctor.”\nDr. Hayes nodded gravely. He shined a small medical flashlight into my eyes and asked me to squeeze his fingers.\nThen he gently turned my left wrist to check my pulse.\nMy loose sleeve slipped down.\nAnd he suddenly stopped moving.\nFour dark, oval-shaped bruises marked the inside of my wrist.\nThey were arranged in an almost perfect line, unmistakably resembling the marks left by human fingers gripping flesh with excessive force.\nThe doctor's expression sharpened immediately.\n“Who did this to you?”\nI lowered my eyes toward the hospital's pale linoleum floor.\n“My husband... He was just... helping me when I almost fell.”\nDr. Hayes said nothing. His attention had already shifted to my fingernails.\nThin, white lines ran horizontally across every single one of them.\nHis hand was still holding mine, but the doctor had gone completely still.\nThe atmosphere in the room changed instantly, growing heavy and suffocating.\nWithout warning, Dr. Hayes turned toward the nurses' station and shouted into the hallway with such authority that the blood seemed to drain from my face.\n“Call the police right now! And nobody, under any circumstances, is to let this patient leave this floor!”\nAt that exact moment, the phone resting on my lap vibrated violently.\nA message from Ethan appeared on the screen.\nI know which hospital you're at. Don't let them give you anything. My mother and I are on our way.\nI stared at the screen, my fingers turning ice-cold...\n(Part 2 gets even more sh0cking… Comment “HELP” if you want the next chapter"
+   },
+   "source_key": "post:61585117295331_122155316763170576",
+   "status": "preparing"
   },
   "2026-11-19 21:00": {
    "langs": {},
@@ -12372,6 +12380,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-17 12:00",
    "status": "used"
+  },
+  "post:61585117295331_122155316763170576": {
+   "fingerprint": "379b6d7ed7b1fd5cbc86",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155316763170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 18:00",
+   "status": "reserved"
   },
   "post:61585117295331_122155672341170576": {
    "fingerprint": "484ce8bfd8b9df0bb77f",
