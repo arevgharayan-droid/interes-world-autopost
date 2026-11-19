@@ -30,6 +30,7 @@
   "4ca334761547934cbacc": "2026-11-18T22:49:31+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
+  "611c7e4517c03c81dabc": "2026-11-19T10:26:43+00:00",
   "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
   "69fca282f43c87f63475": "2026-11-14T19:42:34+00:00",
   "6a5fb8d3a145316fa770": "2026-11-12T09:04:19+00:00",
@@ -48,6 +49,7 @@
   "97323cd5e0665a1c91cb": "2026-11-17T10:52:26+00:00",
   "98ed0f869b67d7d406ea": "2026-11-10T22:05:36+00:00",
   "9ebaa99cdb5b7bfedbf0": "2026-11-18T18:56:13+00:00",
+  "a05041cc410db1a5d901": "2026-11-19T10:26:43+00:00",
   "a333d126c2a07536f0f3": "2026-11-13T10:14:57+00:00",
   "a373ece8d16ef871e0a9": "2026-11-09T20:07:46+00:00",
   "a964ea608100bdcf9bf6": "2026-11-18T15:23:57+00:00",
@@ -7783,7 +7785,79 @@
    }
   },
   "2026-11-19 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "34 Morgen fütterte sie eine Krähe – dann ließ der Vogel am Tag von Birdies Verschwinden eine rosa Haarspange vor ihre Füße fallen",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 689,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Een kraai bracht mij het roze haarspeldje van mijn verdwenen dochtertje van zes, en daarna wees hij de weg",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 688,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/914169599_122155646103170576_7216749460055066682_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XAMDSLrfhM8Q7kNvwFMnMqD&_nc_oc=AdqodWEfvYXjyUpDN8q3se2fr8LCevWsBYuPjYoTn0kfYG547G_VrD9ClTY29AjnF8E&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=tge8YiM6CLDURJvHvG55ig&_nc_tpa=Q5bMBQIpmUo8wQLBQDglz3Eo90s-R77tzWgeZiQ0H1ojqGh5skmF-LNg-IICea_OR8BO8fXPb3UQOfJd0Q&oh=00_AQSt-0OAAIQGHuS_PA-gkXSKFsC_i7asLJU4sFG6kwiTog&oe=6B04AE51",
@@ -7795,7 +7869,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1500-nl.jpg"
    },
    "source_key": "post:61585117295331_122155646181170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -8252,7 +8326,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586759032853_122141640519225301": {
    "fingerprint": "26a181813ad8d196c62d",
