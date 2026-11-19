@@ -79,6 +79,7 @@
   "8d9c5dde4968ee4bd37e": "2026-11-09T20:03:21+00:00",
   "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
   "9080b378741e8f08ec4a": "2026-11-10T22:08:57+00:00",
+  "91a1d555301edc6cd800": "2026-11-19T14:08:05+00:00",
   "950641cc5f0ddd9580f6": "2026-11-09T20:08:16+00:00",
   "959c0a3855f5dc48d671": "2026-11-09T20:03:21+00:00",
   "993b67355d685fd04e45": "2026-11-17T17:52:52+00:00",
@@ -89,6 +90,7 @@
   "a21b9dc024828d2ffa55": "2026-11-16T20:28:20+00:00",
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
   "a5f6cb6b12cb1a5de0de": "2026-11-16T23:52:12+00:00",
+  "a9e10d9cc64a78fbdd24": "2026-11-19T14:08:05+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
   "ad60f5b2c01f76106a34": "2026-11-16T20:28:20+00:00",
   "afba6d3581e5ecf1ee81": "2026-11-17T10:39:05+00:00",
@@ -102,6 +104,7 @@
   "be38faec6f9e0849079a": "2026-11-13T10:15:12+00:00",
   "bfb817244f318e72fc69": "2026-11-16T19:28:42+00:00",
   "c05aa08deef8d17993ed": "2026-11-17T20:47:52+00:00",
+  "c0ab8702c15d393140db": "2026-11-19T14:08:05+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
   "c4a184a2f318ec90e101": "2026-11-19T08:31:53+00:00",
@@ -11922,7 +11925,90 @@
    }
   },
   "2026-11-19 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Depois de sete dias de dor de cabeça insuportável, fui sozinha ao hospital, e o médico gritou para chamarem a polícia ao ver o meu pulso",
+     "warnings": [
+      "часть 2: 546 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 413,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я семь дней терпела адскую головную боль, а муж и свекровь твердили, что врач мне не нужен, но стоило доктору взглянуть на мои ногти и запястье, как он крикнул в коридор вызвать полицию",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 411,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Yedi gün dinmeyen baş ağrımı \"bir şey yok\" diyerek geçiştiren kocama rağmen tek başıma hastaneye gittim ve doktor bileğimi görünce polisi çağırdı",
+     "warnings": [
+      "часть 3: 413 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 412,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/905343356_122155316661170576_8547182615393196016_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=J4FVcfT3QGEQ7kNvwGPcVWJ&_nc_oc=Ado165IUYJpPBJ6ZuK01aG-mnwVhdFmnxsjBQRIAtIE2qk1TV5i862r6KxCnBo_-g0Y&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=DnO2tpJjOK-zoqfXdMxt8g&_nc_tpa=Q5bMBQJypTJhuPk4Ww5MkNOPaDHsjK87YFiQnRmoeaA50AOCYLOerkbWCmVabltNVEgK-5CSei6ZzboUVw&oh=00_AQR5i7tT_W--EhZDECsvEuOEQGN-vlXeJnRNR3ef-v50NA&oe=6B04D077",
@@ -11934,7 +12020,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-1800-ru.jpg"
    },
    "source_key": "post:61585117295331_122155316763170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -12395,7 +12481,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155672341170576": {
    "fingerprint": "484ce8bfd8b9df0bb77f",
