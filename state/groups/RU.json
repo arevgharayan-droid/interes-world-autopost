@@ -12088,6 +12088,12 @@
        "post_id": "1092061600653020_122111883302588206",
        "status": "published"
       },
+      "1098718609991464": {
+       "attempts": 1,
+       "last_attempt": "2026-11-19T18:14:30+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "1113548795169055": {
        "attempts": 1,
        "error": null,
