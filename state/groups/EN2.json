@@ -9454,12 +9454,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122139605672776189_1816239602625864",
        "error": null,
        "last_attempt": "2026-11-19T02:50:02+04:00",
        "mode": "schedule",
        "photo_id": "122139605642776189",
        "post_id": "994273113779575_122139605672776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Mother-in-Law Demanded $100K of My $150K Bonus for My Sister-in-Law's House, and When My Husband Said \"Pay Up or We're Divorcing,\" I Called My Lawyer",
@@ -9522,7 +9523,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1200-en2.jpg"
    },
    "source_key": "post:100045261260562_1717835236401835",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
