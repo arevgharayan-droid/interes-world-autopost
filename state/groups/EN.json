@@ -10141,12 +10141,13 @@
       "162144310308183": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122262514652093350_1182401744728528",
        "error": null,
        "last_attempt": "2026-11-19T14:32:15+04:00",
        "mode": "schedule",
        "photo_id": "122262514622093350",
        "post_id": "162144310308183_122262514652093350",
-       "status": "published"
+       "status": "done"
       },
       "220697507802568": {
        "attempts": 1,
