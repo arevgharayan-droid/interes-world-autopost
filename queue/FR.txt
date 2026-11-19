@@ -89,3 +89,5 @@ https://www.facebook.com/story.php?story_fbid=1719129089605783&id=10004526126056
 https://www.facebook.com/story.php?story_fbid=122155635159170576&id=61585117295331
 # 19.11.2026: доделать выпуск 18:00 («Закончи», 21:11) — pfbid раскрыта через браузер
 https://www.facebook.com/story.php?story_fbid=122314535792071088&id=61552132650894
+# 20.11.2026: 00:30 (просьба владелицы) — pfbid раскрыта через браузер
+https://www.facebook.com/story.php?story_fbid=122314662704071088&id=61552132650894
