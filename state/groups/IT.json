@@ -29,6 +29,7 @@
   "60f9c89309a199527b79": "2026-11-17T18:29:53+00:00",
   "628ca1701fa9d7a8990a": "2026-11-16T16:01:05+00:00",
   "66a2647af0e1f8e411ad": "2026-11-17T20:38:41+00:00",
+  "6884b2c23c3fd385192c": "2026-11-19T22:00:47+00:00",
   "68ca5e3edbe7ee1a0e42": "2026-11-19T10:26:56+00:00",
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
   "69bae5bbd4e359b27b2a": "2026-11-18T08:52:43+00:00",
@@ -55,6 +56,7 @@
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
   "9756467f006a63dbc5a8": "2026-11-19T19:58:46+00:00",
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
+  "98dd9e98fb5a18ee8918": "2026-11-19T22:00:47+00:00",
   "9c394bc05e808391b2ce": "2026-11-17T20:38:41+00:00",
   "9cbea19285daf02db497": "2026-11-15T10:15:15+00:00",
   "9de178bf596b4ce2bdc8": "2026-11-16T19:28:24+00:00",
@@ -90,6 +92,7 @@
   "f47d08ea28476c84d8db": "2026-11-18T22:49:46+00:00",
   "f4fb1870212e1ca687e6": "2026-11-17T18:29:53+00:00",
   "f5c0e175c68a336e3e47": "2026-11-09T20:09:08+00:00",
+  "f5fa51622000296f919b": "2026-11-19T22:00:47+00:00",
   "f88499cf7fca06c3125e": "2026-11-19T19:58:46+00:00",
   "fc7afd4f1a31db559569": "2026-11-15T10:15:15+00:00",
   "fcf4e0ed885a332215e7": "2026-11-18T18:29:38+00:00",
@@ -14339,7 +14342,86 @@
    }
   },
   "2026-11-20 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Oholili jsme si hlavy kvůli nemocnému spolužákovi. O sedmnáct let později nás pozval na večeři se čtyřmi židlemi a třemi obálkami",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 759,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Diciassette anni dopo aver rasato la testa per lui, Daniel ci ha invitati a cena con tre buste e un segreto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 757,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ogoliliśmy głowy dla chorego kolegi. Siedemnaście lat później zaprosił nas na kolację z trzema kopertami",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 758,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/895024659_1710175800501112_8119155768032504582_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e5c1b6&_nc_ohc=MTkXhTwLjZsQ7kNvwHnB-pu&_nc_oc=AdpSKuRNxOQxEL4ryKC8LBJTw6fScRBamSBzmRrg9zVevEx5a39o89Orvs4uxTvUVTg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=AMAeTUEEAAAA&_nc_gid=5z8b5FvcRprCvt0biRW5dw&_nc_tpa=Q5bMBQJ1EUMekXlCt-VsaxZ_Ih8wKN3jZ0XP9WjchoQIAz9EqDcaSPFd6Mx-qXHwEkQZZ6UwSxysAU9Arw&oh=00_AQQwycXe-sk-3BAz3RaY1tpGJ6eLG7f9Oei2CdaXLCztow&oe=6B052E4C",
@@ -14351,7 +14433,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-1200-it.jpg"
    },
    "source_key": "post:photo_1710175797167779",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14976,7 +15058,7 @@
    "origin": "manual",
    "page_id": "622403774625234",
    "slot": "2026-11-20 12:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
