@@ -3517,7 +3517,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-20T00:30:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/914422635_1464103645903716_8306204685013296391_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ugYzIY2L4H4Q7kNvwFIv6ie&_nc_oc=Adp5cDMe1nWMBdqxBgBu79O0cMc7fs7iZySSk_gIC8_WB0TDpq2WwL7vx_zOdqEIjNo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=1S7NupzHNWp_Z2ZeC_Ay7A&_nc_tpa=Q5bMBQKpU9F4v5g8u2aRSWB_bHe6JaxAYGb9_HpGjkBDZZSuK1YXeNfr_Nr08abP9gQi0zMTgH_1kKkMvA&oh=00_AQTkeYbjdbK0L15kEIbIZmH1trfhcVL6YWJqJx_XHkXWKQ&oe=6B05101F",
+    "link": "https://www.facebook.com/story.php?story_fbid=1464103662570381&id=100069122846749",
+    "origin": "manual",
+    "page_id": "100069122846749",
+    "text": "My daughter, Charlotte, was born with so much hair that the nurses put it in a little ponytail, but when my mother-in-law saw her, she started insisting the hair be cut off immediately.\n\nAfter Charlotte's birth, laughter rang out in the delivery room.\n\n\"Oh my goodness! Look at all that hair!\" announced the doctor.\n\nWeighing seven pounds, Charlotte had a tiny nose, plump cheeks, and an impressive mass of dark hair that, when wet, touched her shoulders.\n\nOne nurse joked, \"She's ready for her first haircut!\"\n\nAnother tied a few strands up in a gentle ponytail.\n\nMason, my husband, was busy taking photos.\n\nThings were different when Mason's mother, Margaret, arrived.\n\nShe glanced at Charlotte and immediately turned pale.\n\n\"That hair needs to come off. Today.\"\n\nAssuming she was making a joke, I laughed.\n\nShe remained serious.\n\n\"In our family, if a baby is born with hair this long, it must be cut before seeing her own reflection. Otherwise, she takes on the sorrow of a previous woman.\"\n\n\"Margaret, that's ridiculous.\"\n\nShe caught Mason's arm.\n\n\"Remember your sister. Tell her.\"\n\nMason immediately looked away.\n\nAfter six years married to him, I had never heard of a sister.\n\n\"Mason?\"\n\n\"Mom, stop.\"\n\nMargaret came closer.\n\n\"Promise you’ll cut it before going home.\"\n\nI said no.\n\nTwo days later, Charlotte came home with us.\n\nI noticed something odd entering our bedroom.\n\nThe mirror above the dresser was missing.\n\nThe hallway mirror was gone.\n\nEven the bathroom mirror had disappeared.\n\n\"Mason, where did all the mirrors go?\"\n\nHe didn't look at me.\n\n\"Mom asked me to hide them for a few days.\"\n\nI stared.\n\n\"Do you believe her?\"\n\n\"No. I just don’t want her to stress you.\"\n\nThat evening I heard Mason on the phone downstairs.\n\n\"She hasn't seen it yet,\" he whispered.\n\nA pause.\n\n\"Mom, I know what happened last time.\"\n\nA chill went down my back.\n\nHolding Charlotte, I went to the hallway.\n\n\"Mason?\"\n\nHe turned. We were silent for several seconds.\n\nMargaret's voice came from his phone.\n\n\"Mason, did you check the back of the baby's head?\"\n\nOn impulse, I pushed back Charlotte's hair to inspect the spot.\n\nMason hurried toward me.\n\n\"Wait!\"\n\nI had already looked.",
+    "wp_media_id": 428,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261120-0030-mix.jpg"
+   },
+   "source_key": "post:100069122846749_1464103662570381",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-20 12:00": {
    "langs": {},
@@ -3625,6 +3641,14 @@
    "page_id": "100066585605572",
    "slot": "2026-11-17 15:00",
    "status": "used"
+  },
+  "post:100069122846749_1464103662570381": {
+   "fingerprint": "5e043c7c07a396d6110a",
+   "link": "https://www.facebook.com/story.php?story_fbid=1464103662570381&id=100069122846749",
+   "origin": "manual",
+   "page_id": "100069122846749",
+   "slot": "2026-11-20 00:30",
+   "status": "reserved"
   },
   "post:100070118924538_1412818894398728": {
    "fingerprint": "a2d17f6be61ffc8e24f1",

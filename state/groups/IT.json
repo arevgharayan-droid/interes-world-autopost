@@ -13895,7 +13895,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-20T00:30:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/916554527_122155810785170576_3733855556651072294_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=frbBBWGvbQgQ7kNvwHRmtsp&_nc_oc=AdrDLx3OyiO9Pa4iolVpjOcXLPAuVBveZyD9z-FQxEgYKxwvN5h1qPELP5eIqkQtdvo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=HoKAsCF5w8fHMLppn6lyOw&_nc_tpa=Q5bMBQIyx_qizf9-TH0scFJuFwICBrm8wf02B0VLB3txcbCHdJFSM4Is5umOP57bO_G_GmBUiKh203J3xQ&oh=00_AQRTmeXiN0pCr_8jR4-v_TMlSvNHzX0GGr8a_hGo7JyrYw&oe=6B050B9F",
+    "link": "https://www.facebook.com/story.php?story_fbid=122155810935170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "My son got into a fight at school because another boy refused to stop calling him his “brother.” But the second I saw that boy’s face, every drop of blood in my body seemed to turn to ice.\nEight years earlier, I had been pregnant with twin boys.\nI went into labor far too soon. The delivery became complicated, and when I finally woke up two days later, there was only one bassinet beside my hospital bed.\nOne baby.\nI looked at my husband, Mark.\n“Where’s the other one?” I whispered.\nMark lowered his head.\n“He didn’t survive.”\nI never saw my baby’s body.\nThere was no funeral I attended.\nMark told me I had been too weak, so he had taken care of everything while I recovered.\nI believed him.\nFrom that day forward, I poured all the love I had into Cole.\nYears passed, and by the time he started elementary school, I had learned how to live with the grief.\nThen Cole began mentioning a boy named Stefan.\nOne afternoon, he stormed through the front door and threw his backpack onto the floor.\n“Stefan called me his brother again!”\nI tried to laugh it off.\n“Maybe he’s just messing with you.”\nCole rolled his eyes.\n“He keeps saying we have the same dad but different moms. It’s so annoying!”\nFor a moment, an uneasy feeling twisted in my stomach.\nBut I pushed it aside.\nChildren said strange things all the time.\nSurely it meant nothing.\nThen, a week later, the school principal called me.\n“Cole has been in another fight with Stefan. This one was serious. You need to come to the school immediately.”\nI rushed there.\nThe second I entered the principal’s office, I went straight to Cole.\n“Sweetheart, are you okay?”\nCole didn’t answer.\nHe simply lifted his hand and pointed behind me.\nAnother boy was sitting quietly near the wall.\nI turned toward him.\nAnd froze.\nSame gray eyes.\nSame narrow face.\nEven the tiny birthmark beside his eyebrow was in exactly the same place.\nIt looked as if someone had taken my son and created a second version of him.\nThe only obvious difference was their hair.\nCole’s was light.\nStefan’s was nearly black.\nMy hands started trembling.\n“How is this possible?”\nThe principal looked at me carefully.\n“We’re waiting for Stefan’s parent to arrive. Once she gets here, I think you’ll understand.”\nBefore I could ask another question, the office door suddenly swung open. Part 2 and full ending: Type \"YES\" and Press \"Like\" so we can post the full story. Thank you!\nIf you don't see it, switch to Newest/All.",
+    "wp_media_id": 728,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-0030-it.jpg"
+   },
+   "source_key": "post:61585117295331_122155810935170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-20 12:00": {
    "langs": {},
@@ -14361,6 +14377,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-19 21:33",
    "status": "used"
+  },
+  "post:61585117295331_122155810935170576": {
+   "fingerprint": "7cf6f9b0e07281d2c772",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155810935170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-20 00:30",
+   "status": "reserved"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",
