@@ -1238,7 +1238,7 @@
   "975714512286925_122150421831209153": "2026-11-19T08:15:04+00:00",
   "975714512286925_122150469075209153": "2026-11-19T11:14:52+00:00",
   "975714512286925_122150507853209153": "2026-11-19T17:19:03+00:00",
-  "975714512286925_122150511441209153": "2026-11-19T17:53:42+00:00",
+  "975714512286925_122150511441209153": "2026-11-19T20:44:36+00:00",
   "975714512286925_122150524767209153": "2026-11-19T20:01:13+00:00"
  },
  "slots": {
@@ -10836,21 +10836,25 @@
       },
       "921611111039858": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144935527200344_4820010941618553",
        "error": null,
        "last_attempt": "2026-11-19T21:53:04+04:00",
        "mode": "schedule",
        "photo_id": "122144935497200344",
        "post_id": "921611111039858_122144935527200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122150511441209153_4585008241716521",
        "error": null,
        "last_attempt": "2026-11-19T21:53:40+04:00",
        "mode": "schedule",
        "photo_id": "122150511411209153",
        "post_id": "975714512286925_122150511441209153",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "My Mom Left My Kids at a Freezing Gas Station on Christmas Eve While I Worked 911, and One Text Changed Everything",
@@ -10913,7 +10917,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-0030-en.jpg"
    },
    "source_key": "post:61585117295331_122155909671170576",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
