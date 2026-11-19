@@ -12027,30 +12027,36 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129297949306316_1143936287999831",
        "error": null,
        "last_attempt": "2026-11-19T18:17:32+04:00",
        "mode": "immediate",
        "photo_id": "122129297925306316",
        "post_id": "1138572272664180_122129297949306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118868893471857_3494948350692079",
        "error": null,
        "last_attempt": "2026-11-19T18:17:21+04:00",
        "mode": "immediate",
        "photo_id": "122118868863471857",
        "post_id": "1338630212673029_122118868893471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121743829505599_1097544353278895",
        "error": null,
        "last_attempt": "2026-11-19T18:17:09+04:00",
        "mode": "immediate",
        "photo_id": "122121743805505599",
        "post_id": "1448441201677530_122121743829505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Depois de sete dias de dor de cabeça insuportável, fui sozinha ao hospital, e o médico gritou para chamarem a polícia ao ver o meu pulso",
@@ -12059,6 +12065,7 @@
      ],
      "wp_error": null,
      "wp_id": 413,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -12327,39 +12334,47 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124898617304633_1331037905769568",
        "error": null,
        "last_attempt": "2026-11-19T18:16:45+04:00",
        "mode": "immediate",
        "photo_id": "122124898593304633",
        "post_id": "1083701291497481_122124898617304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128192095311884_1659338035573567",
        "error": null,
        "last_attempt": "2026-11-19T18:16:12+04:00",
        "mode": "immediate",
        "photo_id": "122128192071311884",
        "post_id": "1129620776897151_122128192095311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127459111307134_2252446962151843",
        "error": null,
        "last_attempt": "2026-11-19T18:16:28+04:00",
        "mode": "immediate",
        "photo_id": "122127459087307134",
        "post_id": "1164575726728296_122127459111307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123947317305562_1147931157692266",
        "error": null,
        "last_attempt": "2026-11-19T18:16:57+04:00",
        "mode": "immediate",
        "photo_id": "122123947293305562",
        "post_id": "1180583925128715_122123947317305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Yedi gün dinmeyen baş ağrımı \"bir şey yok\" diyerek geçiştiren kocama rağmen tek başıma hastaneye gittim ve doktor bileğimi görünce polisi çağırdı",
@@ -12388,7 +12403,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-1800-ru.jpg"
    },
    "source_key": "post:61585117295331_122155316763170576",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
