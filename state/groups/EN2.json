@@ -9822,6 +9822,7 @@
      "pages": {
       "100633729330404": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-19T21:19:43+04:00",
        "mode": "immediate",
