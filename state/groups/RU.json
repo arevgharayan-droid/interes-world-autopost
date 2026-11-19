@@ -11717,12 +11717,13 @@
       "1097710383424105": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122117178932343996_1156365663760380",
        "error": null,
        "last_attempt": "2026-11-19T14:35:32+04:00",
        "mode": "schedule",
        "photo_id": "122117178902343996",
        "post_id": "1097710383424105_122117178932343996",
-       "status": "published"
+       "status": "done"
       },
       "1098718609991464": {
        "attempts": 1,
