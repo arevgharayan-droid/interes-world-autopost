@@ -4,6 +4,7 @@
  "output_fps": {
   "0cc919e89bd6281c811b": "2026-11-17T20:47:02+00:00",
   "15762788a9c71b2165b1": "2026-11-09T19:59:18+00:00",
+  "15db7f5bef45fafd3307": "2026-11-19T22:00:40+00:00",
   "1d9175966e062556cf08": "2026-11-09T20:02:35+00:00",
   "1de1978484aefe0b2b8a": "2026-11-14T11:39:11+00:00",
   "1e5353b2a2e832230c83": "2026-11-10T22:07:10+00:00",
@@ -7823,7 +7824,74 @@
    }
   },
   "2026-11-20 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle a payé sa chambre privée après 20 heures de travail, mais sa belle-mère et son mari voulaient qu'elle y renonce… jusqu'à ce que ses parents entrent",
+     "warnings": [
+      "длина текста FB 1703 слов (исходник 1429, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 756,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/899193469_1709660470552645_6107741490352737416_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=AnbP5YdFE4gQ7kNvwFDbG2s&_nc_oc=AdpmKtiYINVZRmyfCpyqYdMfGZXLouj8PbucdSao2s_CKm3POpDxB_cnzwgT6I7Ia_E&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AMAeTUEEAAAA&_nc_gid=3vwxikFw0tVqOIOuHxNaqQ&_nc_tpa=Q5bMBQLGmDwTOQC3s7JsQpE0hnGSV-MBbJyPYl1QhgUF8SiPqmFBJUX2zBkmL4DOC2VGieMiH6UATB-gjA&oh=00_AQSlOqHQ40vzGJ_5fDrq2P9TjhLcWP5D1OinKNckuEWcJg&oe=6B053506",
@@ -7835,7 +7903,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-1200-fr.jpg"
    },
    "source_key": "post:photo_1709660463885979",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -8440,7 +8508,7 @@
    "origin": "manual",
    "page_id": "622403774625234",
    "slot": "2026-11-20 12:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
