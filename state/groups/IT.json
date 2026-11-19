@@ -12779,12 +12779,13 @@
       "1140835409106424": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122110682246543006_1693759738951158",
        "error": null,
        "last_attempt": "2026-11-19T14:31:01+04:00",
        "mode": "schedule",
        "photo_id": "122110682216543006",
        "post_id": "1140835409106424_122110682246543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
