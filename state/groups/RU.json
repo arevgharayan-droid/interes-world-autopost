@@ -12634,12 +12634,13 @@
       "1069814529551887": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127543105303687_1528035812705952",
        "error": null,
        "last_attempt": "2026-11-19T21:43:29+04:00",
        "mode": "immediate",
        "photo_id": "122127543081303687",
        "post_id": "1069814529551887_122127543105303687",
-       "status": "published"
+       "status": "done"
       },
       "1075346445663696": {
        "attempts": 1,
@@ -12819,6 +12820,7 @@
       },
       "1129620776897151": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-19T21:43:47+04:00",
        "mode": "immediate",
@@ -12851,6 +12853,7 @@
      ],
      "wp_error": null,
      "wp_id": 421,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "UK": {
