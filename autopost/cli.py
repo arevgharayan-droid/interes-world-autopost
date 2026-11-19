@@ -627,11 +627,17 @@ def _wp_diagnose_site(wp, out):
     step("найти и удалить тестовые медиа", find_media)
 
 
-def cmd_ops(cfg, args) -> int:
+def cmd_ops(cfg, args, req=None) -> int:
     """Команда из файла ops/request.json (её коммитит Claude) — чтобы не нажимать кнопки вручную."""
-    req = json.loads(cfg.path("ops/request.json").read_text(encoding="utf-8"))
+    req = req or json.loads(cfg.path("ops/request.json").read_text(encoding="utf-8"))
     cmd, a = req.get("cmd"), req.get("args") or {}
     ns = argparse.Namespace
+    if cmd == "batch":
+        # несколько команд подряд в одном запуске (без гонок между отдельными запусками)
+        rc = 0
+        for step in a.get("steps") or []:
+            rc = cmd_ops(cfg, args, req=step) or rc
+        return rc
     if cmd == "check":
         return cmd_check(cfg, ns())
     if cmd == "setup-facebook":

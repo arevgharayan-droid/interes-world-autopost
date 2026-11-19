@@ -1,1 +1,1 @@
-{"id": "skip-slot-20261119215047", "cmd": "skip-slot", "args": {"slot": "2026-11-20 00:00", "groups": ["EN", "EN2", "FR"]}}
+{"id": "batch-20261119235649", "cmd": "batch", "args": {"steps": [{"cmd": "skip-slot", "args": {"slot": "2026-11-20 00:00", "groups": ["IT", "RU", "NL", "MIX"]}}, {"cmd": "start-now", "args": {"at": "2026-11-20 00:30", "groups": ["IT", "RU", "NL", "MIX"]}}, {"cmd": "start-now", "args": {"at": "2026-11-20 02:30", "groups": ["EN", "EN2"]}}]}}
