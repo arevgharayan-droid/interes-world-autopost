@@ -13251,6 +13251,12 @@
        "photo_id": "122127498201307134",
        "post_id": "1164575726728296_122127498231307134",
        "status": "scheduled"
+      },
+      "1180583925128715": {
+       "attempts": 1,
+       "last_attempt": "2026-11-20T00:08:05+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "Doğum günümde bütün akrabalar elleri boş gelip \"önemli olan ilgi\" dediler, ben de aynı kuralı onlara uygulayınca kayınvalidemin sesi titremeye başladı",
