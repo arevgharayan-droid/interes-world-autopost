@@ -13053,12 +13053,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116594731328231_1684044179762041",
        "error": null,
        "last_attempt": "2026-11-19T18:16:34+04:00",
        "mode": "immediate",
        "photo_id": "122116594707328231",
        "post_id": "1106793902521611_122116594731328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Zastavila jsem muže s křičící holčičkou, která volala „Ty nejsi můj táta!“ Pak mě zažaloval o 250 000 dolarů, a u soudu vstala mladá žena",
@@ -13068,6 +13070,7 @@
      ],
      "wp_error": null,
      "wp_id": 707,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -13093,193 +13096,234 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132823501302250_1412991690610009",
        "error": null,
        "last_attempt": "2026-11-19T18:11:57+04:00",
        "mode": "immediate",
        "photo_id": "122132823477302250",
        "post_id": "1012250151981057_122132823501302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141283872808945_1624244655462490",
        "error": null,
        "last_attempt": "2026-11-19T18:10:47+04:00",
        "mode": "immediate",
        "photo_id": "122141283848808945",
        "post_id": "1030877436782212_122141283872808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111833898456562_1470692131682744",
        "error": null,
        "last_attempt": "2026-11-19T18:09:13+04:00",
        "mode": "immediate",
        "photo_id": "122111833874456562",
        "post_id": "1064982806700854_122111833898456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131480167306132_2578966315956916",
        "error": null,
        "last_attempt": "2026-11-19T18:12:42+04:00",
        "mode": "immediate",
        "photo_id": "122131480143306132",
        "post_id": "1068567606345452_122131480167306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128040763305584_29316235418008329",
        "error": null,
        "last_attempt": "2026-11-19T18:14:51+04:00",
        "mode": "immediate",
        "photo_id": "122128040739305584",
        "post_id": "1078100405390763_122128040763305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108521256506427_2927207940979987",
        "error": null,
        "last_attempt": "2026-11-19T18:08:49+04:00",
        "mode": "immediate",
        "photo_id": "122108521232506427",
        "post_id": "1079964265201139_122108521256506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133657699308548_2136938307190835",
        "error": null,
        "last_attempt": "2026-11-19T18:12:19+04:00",
        "mode": "immediate",
        "photo_id": "122133657675308548",
        "post_id": "1086658774532679_122133657699308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123066025296683_1098502226572873",
        "error": null,
        "last_attempt": "2026-11-19T18:11:34+04:00",
        "mode": "immediate",
        "photo_id": "122123066001296683",
        "post_id": "1087342844462554_122123066025296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129845905300251_1108106538713181",
        "error": null,
        "last_attempt": "2026-11-19T18:14:35+04:00",
        "mode": "immediate",
        "photo_id": "122129845881300251",
        "post_id": "1093003583899107_122129845905300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114700332601707_1575061461051181",
        "error": null,
        "last_attempt": "2026-11-19T18:13:48+04:00",
        "mode": "immediate",
        "photo_id": "122114700302601707",
        "post_id": "1099258949937246_122114700332601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141849474811401_1125503546755689",
        "error": null,
        "last_attempt": "2026-11-19T18:10:23+04:00",
        "mode": "immediate",
        "photo_id": "122141849450811401",
        "post_id": "1114015015119414_122141849474811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105074970533031_1847540159781413",
        "error": null,
        "last_attempt": "2026-11-19T18:13:26+04:00",
        "mode": "immediate",
        "photo_id": "122105074946533031",
        "post_id": "1128937866962526_122105074970533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110689494543006_1704382768102677",
        "error": null,
        "last_attempt": "2026-11-19T18:09:36+04:00",
        "mode": "immediate",
        "photo_id": "122110689470543006",
        "post_id": "1140835409106424_122110689494543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122139246807311525_1448504913993028",
        "error": null,
        "last_attempt": "2026-11-19T18:07:57+04:00",
        "mode": "immediate",
        "photo_id": "122139246777311525",
        "post_id": "1142735408923607_122139246807311525",
-       "status": "published"
+       "status": "done"
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130456027314630_2443994639466858",
        "error": null,
        "last_attempt": "2026-11-19T18:13:04+04:00",
        "mode": "immediate",
        "photo_id": "122130456003314630",
        "post_id": "1149681171551323_122130456027314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122965537318395_1782019409762288",
        "error": null,
        "last_attempt": "2026-11-19T18:14:13+04:00",
        "mode": "immediate",
        "photo_id": "122122965513318395",
        "post_id": "1159996950522974_122122965537318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137448229400586_2429075751170182",
        "error": null,
        "last_attempt": "2026-11-19T18:08:08+04:00",
        "mode": "immediate",
        "photo_id": "122137448187400586",
        "post_id": "1160223747182678_122137448229400586",
-       "status": "published"
+       "status": "done"
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128935285300955_1791038485522372",
        "error": null,
        "last_attempt": "2026-11-19T18:11:11+04:00",
        "mode": "immediate",
        "photo_id": "122128935261300955",
        "post_id": "1160240797163045_122128935285300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126275701301482_1661123462379056",
        "error": null,
        "last_attempt": "2026-11-19T18:15:09+04:00",
        "mode": "immediate",
        "photo_id": "122126275677301482",
        "post_id": "1174674892385169_122126275701301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126249031405175_2406854906751829",
        "error": null,
        "last_attempt": "2026-11-19T18:09:59+04:00",
        "mode": "immediate",
        "photo_id": "122126249001405175",
        "post_id": "1191480207389219_122126249031405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113292276437662_4673678722777075",
        "error": null,
        "last_attempt": "2026-11-19T18:08:26+04:00",
        "mode": "immediate",
        "photo_id": "122113292252437662",
        "post_id": "997772916762884_122113292276437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi hanno licenziata per aver fermato un uomo con una bambina urlante, poi mi ha fatto causa per 250.000 dollari: al processo si è alzata una giovane donna",
@@ -13300,39 +13344,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126635389304793_1830721311485222",
        "error": null,
        "last_attempt": "2026-11-19T18:16:17+04:00",
        "mode": "immediate",
        "photo_id": "122126635365304793",
        "post_id": "1079800528556354_122126635389304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114245928359745_1674403241135199",
        "error": null,
        "last_attempt": "2026-11-19T18:15:26+04:00",
        "mode": "immediate",
        "photo_id": "122114245904359745",
        "post_id": "1083785318156771_122114245928359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123067909302807_1808081353831257",
        "error": null,
        "last_attempt": "2026-11-19T18:15:43+04:00",
        "mode": "immediate",
        "photo_id": "122123067885302807",
        "post_id": "1089456087587677_122123067909302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141437119313481_3094147654259806",
        "error": null,
        "last_attempt": "2026-11-19T18:16:01+04:00",
        "mode": "immediate",
        "photo_id": "122141437095313481",
        "post_id": "1107966229066828_122141437119313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Zatrzymałam obcego mężczyznę z krzyczącą trzylatką w ramionach. Pozwał mnie o 250 tysięcy dolarów, a na rozprawie wstała jej matka",
@@ -13342,6 +13394,7 @@
      ],
      "wp_error": null,
      "wp_id": 705,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -13377,7 +13430,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1800-it.jpg"
    },
    "source_key": "post:61585117295331_122155448631170576",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
