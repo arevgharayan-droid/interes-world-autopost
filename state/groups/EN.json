@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "fb_block_until": "2026-11-14T14:14:35+04:00",
  "output_fps": {
+  "0765758a363af2b0a34f": "2026-11-19T19:58:26+00:00",
   "13f592d7784f33684a59": "2026-11-15T14:15:49+00:00",
   "1422a482f54759518464": "2026-11-13T10:14:30+00:00",
   "17fe118fb129ce285808": "2026-11-17T10:38:06+00:00",
@@ -10866,7 +10867,72 @@
   },
   "2026-11-20 02:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Texted \"LOL\" While I Was in the Hospital and Took My House, But He Never Knew What I Earned",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 733,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T02:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/916667697_122155689471170576_3090735165424302851_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DUEQw0hYBTQQ7kNvwGE0G0c&_nc_oc=Adp9qRQu8JJMDML-Mf64CRUq7zfjsCjQM2IZ7hsiknjHCpPjxlBMq91sVBiyusMWZSQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=XUp9gvQ_9I5IYb_fsmW5Mg&_nc_tpa=Q5bMBQINhNT8pY2mY9hVOfkUdOumGKp5MwDchtvV1dyQpPDWnEXxi4Za3XKPAEJK5h-neqEhy4rXCfAKBw&oh=00_AQSo_qmcPZsmRyPcezZ9ev5kmbZM1ygSkbxUIVIGNYd8og&oe=6B050DBE",
@@ -10878,7 +10944,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-0230-en.jpg"
    },
    "source_key": "post:61585117295331_122155689543170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11312,7 +11378,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-20 02:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155758855170576": {
    "fingerprint": "830bb83e75b708cae57f",
