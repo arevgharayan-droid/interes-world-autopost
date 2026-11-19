@@ -8133,3 +8133,13 @@
 {"slot": "2026-11-20 02:30", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-19T19:58:26+00:00", "group": "EN"}
 {"slot": "2026-11-20 02:30", "lang": "EN", "page": "233545296514172", "action": "fb_schedule", "photo_id": "122337330116241259", "post_id": "233545296514172_122337330146241259", "t": "2026-11-19T19:58:27+00:00", "group": "EN2"}
 {"slot": "2026-11-20 02:30", "lang": "EN", "action": "wp_post", "id": 733, "status": "future", "t": "2026-11-19T19:58:27+00:00", "group": "EN"}
+{"slot": "2026-11-20 02:30", "lang": "EN", "page": "530022363528890", "action": "fb_schedule", "photo_id": "122176005938720509", "post_id": "530022363528890_122176005968720509", "t": "2026-11-19T19:58:34+00:00", "group": "EN2"}
+{"slot": "2026-11-20 02:30", "lang": "EN", "page": "1235940142932696", "action": "fb_schedule", "photo_id": "122119487889408404", "post_id": "1235940142932696_122119487919408404", "t": "2026-11-19T19:58:37+00:00", "group": "EN"}
+{"slot": "2026-11-20 02:30", "lang": "EN", "page": "994273113779575", "action": "fb_schedule", "photo_id": "122139731876776189", "post_id": "994273113779575_122139731906776189", "t": "2026-11-19T19:58:44+00:00", "group": "EN2"}
+{"slot": "2026-11-20 00:30", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-19T19:58:46+00:00", "group": "IT"}
+{"slot": "2026-11-20 00:30", "lang": "PL", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 353 слов (исходник 454, цель ±10%)"], "t": "2026-11-19T19:58:46+00:00", "group": "IT"}
+{"slot": "2026-11-20 00:30", "lang": "CS", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 338 слов (исходник 454, цель ±10%)"], "t": "2026-11-19T19:58:46+00:00", "group": "IT"}
+{"slot": "2026-11-20 00:30", "lang": "IT", "action": "wp_post", "id": 734, "status": "future", "t": "2026-11-19T19:58:47+00:00", "group": "IT"}
+{"slot": "2026-11-20 00:30", "lang": "PL", "action": "wp_post", "id": 735, "status": "future", "t": "2026-11-19T19:58:48+00:00", "group": "IT"}
+{"slot": "2026-11-20 02:30", "lang": "EN", "page": "1167352663135230", "action": "fb_schedule", "photo_id": "122147933439384760", "post_id": "1167352663135230_122147933469384760", "t": "2026-11-19T19:58:48+00:00", "group": "EN"}
+{"slot": "2026-11-20 00:30", "lang": "CS", "action": "wp_post", "id": 736, "status": "future", "t": "2026-11-19T19:58:49+00:00", "group": "IT"}

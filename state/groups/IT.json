@@ -9,6 +9,7 @@
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
   "0fb22b8844bea06fae2d": "2026-11-16T20:28:05+00:00",
   "17bbf28063304bc8e308": "2026-11-17T12:28:51+00:00",
+  "19a57f6af7fdd9942bfb": "2026-11-19T19:58:46+00:00",
   "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
@@ -52,6 +53,7 @@
   "90f10d92ae3c8949c582": "2026-11-18T18:29:38+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
+  "9756467f006a63dbc5a8": "2026-11-19T19:58:46+00:00",
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
   "9c394bc05e808391b2ce": "2026-11-17T20:38:41+00:00",
   "9cbea19285daf02db497": "2026-11-15T10:15:15+00:00",
@@ -88,6 +90,7 @@
   "f47d08ea28476c84d8db": "2026-11-18T22:49:46+00:00",
   "f4fb1870212e1ca687e6": "2026-11-17T18:29:53+00:00",
   "f5c0e175c68a336e3e47": "2026-11-09T20:09:08+00:00",
+  "f88499cf7fca06c3125e": "2026-11-19T19:58:46+00:00",
   "fc7afd4f1a31db559569": "2026-11-15T10:15:15+00:00",
   "fcf4e0ed885a332215e7": "2026-11-18T18:29:38+00:00",
   "fd55d03047e1e70fc424": "2026-11-19T17:35:32+00:00",
@@ -13893,7 +13896,90 @@
   },
   "2026-11-20 00:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Syn se porval ve škole kvůli chlapci, který mu říkal bratře. Když jsem toho kluka uviděla, ztuhla jsem",
+     "warnings": [
+      "длина текста FB 338 слов (исходник 454, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 736,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mio figlio ha litigato con un compagno che lo chiamava \"fratello\", ma quando ho visto quel bambino in presidenza ho capito che la verità era stata sepolta otto anni fa",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 734,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mój syn bił się w szkole z chłopcem, który wciąż nazywał go bratem. Gdy zobaczyłam jego twarz, zrozumiałam, że ukrywano przede mną prawdę od ośmiu lat",
+     "warnings": [
+      "длина текста FB 353 слов (исходник 454, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 735,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T00:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/916554527_122155810785170576_3733855556651072294_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=frbBBWGvbQgQ7kNvwHRmtsp&_nc_oc=AdrDLx3OyiO9Pa4iolVpjOcXLPAuVBveZyD9z-FQxEgYKxwvN5h1qPELP5eIqkQtdvo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=HoKAsCF5w8fHMLppn6lyOw&_nc_tpa=Q5bMBQIyx_qizf9-TH0scFJuFwICBrm8wf02B0VLB3txcbCHdJFSM4Is5umOP57bO_G_GmBUiKh203J3xQ&oh=00_AQRTmeXiN0pCr_8jR4-v_TMlSvNHzX0GGr8a_hGo7JyrYw&oe=6B050B9F",
@@ -13905,7 +13991,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-0030-it.jpg"
    },
    "source_key": "post:61585117295331_122155810935170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14384,7 +14470,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-20 00:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",
