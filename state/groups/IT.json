@@ -58,6 +58,7 @@
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
   "a52a4b60aa043581ace2": "2026-11-17T18:29:53+00:00",
   "a6ab527d80c6afd66a30": "2026-11-18T22:36:42+00:00",
+  "ab5adc5ddd83c831c3ba": "2026-11-19T14:07:51+00:00",
   "ad8c2ece3cec5e65114f": "2026-11-16T20:28:05+00:00",
   "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
@@ -77,6 +78,8 @@
   "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
   "e5620b751bed22ad8486": "2026-11-16T19:28:24+00:00",
   "e9d713c4cf15c5418f4d": "2026-11-18T22:49:46+00:00",
+  "ea254955822bed5c2183": "2026-11-19T14:07:51+00:00",
+  "eac8aa08480a5392b558": "2026-11-19T14:07:51+00:00",
   "efd0f2e108b8fe01d1c7": "2026-11-14T19:42:43+00:00",
   "f0ab5dd9f979bb237bc0": "2026-11-12T20:02:25+00:00",
   "f472d77cd9283f9c86cc": "2026-11-10T22:06:07+00:00",
@@ -12986,7 +12989,92 @@
    }
   },
   "2026-11-19 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Zastavila jsem muže s křičící holčičkou, která volala „Ty nejsi můj táta!“ Pak mě zažaloval o 250 000 dolarů, a u soudu vstala mladá žena",
+     "warnings": [
+      "длина текста FB 594 слов (исходник 789, цель ±10%)",
+      "длина статьи 577 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 707,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hanno licenziata per aver fermato un uomo con una bambina urlante, poi mi ha fatto causa per 250.000 dollari: al processo si è alzata una giovane donna",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 704,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Zatrzymałam obcego mężczyznę z krzyczącą trzylatką w ramionach. Pozwał mnie o 250 tysięcy dolarów, a na rozprawie wstała jej matka",
+     "warnings": [
+      "длина текста FB 595 слов (исходник 789, цель ±10%)",
+      "длина статьи 576 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 705,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/907670881_122155448523170576_97661171282903556_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rizcEKSwq70Q7kNvwF_gMXG&_nc_oc=AdqoqLA34y1xuGZRADgaonXQ8uAkUXHtNA0b0h8B_oNuerdOe85DGNno2NWYovms16U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=8JJrZMSTsvxcx9uYLTSb0g&_nc_tpa=Q5bMBQLnKgYK4aR7jslZAMzjuBpRhZ60xsiwDltJhboXmFLJ3OKn16ud23VLSIyOIfhesa-iIUjmLLyvZA&oh=00_AQQd4BeTTXURqdaei2ppfnQ_9jqatLqdVYPf4aC-2ianvQ&oe=6B04E5BF",
@@ -12998,7 +13086,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1800-it.jpg"
    },
    "source_key": "post:61585117295331_122155448631170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13451,7 +13539,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155654917170576": {
    "fingerprint": "f70732704814776e8811",

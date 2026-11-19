@@ -24,6 +24,7 @@
   "31ed525cac6f302a760e": "2026-11-18T15:23:57+00:00",
   "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
+  "40d2199f7d29b9f3db58": "2026-11-19T14:07:53+00:00",
   "46a1728a5126f9af6c13": "2026-11-16T00:16:52+00:00",
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
   "4c218b53bb5fd5b6f1b3": "2026-11-16T19:28:25+00:00",
@@ -48,6 +49,7 @@
   "9450d6f5a7238123e8ea": "2026-11-10T22:06:32+00:00",
   "97323cd5e0665a1c91cb": "2026-11-17T10:52:26+00:00",
   "98ed0f869b67d7d406ea": "2026-11-10T22:05:36+00:00",
+  "9c78715925df820d8556": "2026-11-19T14:07:53+00:00",
   "9ebaa99cdb5b7bfedbf0": "2026-11-18T18:56:13+00:00",
   "a05041cc410db1a5d901": "2026-11-19T10:26:43+00:00",
   "a333d126c2a07536f0f3": "2026-11-13T10:14:57+00:00",
@@ -8046,7 +8048,75 @@
    }
   },
   "2026-11-19 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ich fand meine neunjährige Tochter bewusstlos im Regen vor der Tür meines Ex-Mannes – im Krankenhaus entdeckte ich in ihrem Rucksack einen versteckten Zettel",
+     "warnings": []
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ik vond mijn negenjarige dochter bewusteloos in de regen voor haar vaders deur, en een geheim briefje in haar rugzak onthulde wat er echt aan de hand was",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 706,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-19T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/913709615_122155558161170576_4840490455689460166_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=q4449_WadtkQ7kNvwFPyVAJ&_nc_oc=AdqIfCfE2rczi4im_1N3U0yV3TgVYYnx2abGD1KabYBK01OKMRg_mK3H3o_RM_Ew3aU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=XQER51NF-bJf7wOD1_-chg&_nc_tpa=Q5bMBQKI7mNuEq-R9KDsoz_OPhEXI9JOBocAFKhhDy8rRb7oDzblfryi9B8s-wEko5TadSnCBejihZnpHw&oh=00_AQRUlLAmoC5lC4sCyhy09gHaqlPp5Gk24bVyqlro-6p3Tw&oe=6B04E3F9",
