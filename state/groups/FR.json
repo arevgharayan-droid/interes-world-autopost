@@ -6977,7 +6977,23 @@
   "2026-11-19 15:00": {
    "langs": {},
    "slot_iso": "2026-11-19T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/912757207_122155635057170576_4606622872551629568_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TsIG-UER0MwQ7kNvwEugtPj&_nc_oc=AdpslPNVXcf5iIV56IYwdJUHEZkfzLjYZNNsL-ZuOEuw6fhPmBxr5SfuoeiAyxkI9vc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=7tDpdiZea5RqIyesw2Thuw&_nc_tpa=Q5bMBQLVi4zxbuOjd4sICB_t1FsYY5nk1Deaq0fmZj3Y8ZgM1ATrvN2udoXBXM_cMKHGW3-rEvcVySsMTQ&oh=00_AQRSNtvf2Iz8GSLsofbLGvG2cs5gJ06Pd8haMMRZQSm4lQ&oe=6B04A30E",
+    "link": "https://www.facebook.com/story.php?story_fbid=122155635159170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "A 7-year-old boy approached me outside his school and begged me to walk him home, whispering, “Please, nobody ever believes me.” I thought he was just a frightened child who needed help. But the moment he opened the front door and showed me what was waiting inside, I understood why he had been desperately searching for someone who would finally believe him...\nPART 1\nThe little boy waiting outside Brookfield Elementary School wasn't crying. He wasn't shouting for help. He simply stood beside the fence, clutching his faded blue backpack as hundreds of children hurried past him.\nThen he approached me.\n“Officer, can you come home with me?”\nI looked down at his worried face.\n“Is something wrong, sweetheart?”\nHe nodded, but his next words made me uneasy.\n“I've told everyone. Nobody believes me. And I'm scared Grandma won't be there much longer.”\nMy name is Officer Rebecca Hayes. I've served the Cedar Falls, Iowa, community for twelve years, and I thought I'd learned to recognize when a child was frightened.\nBut something about this boy was different.\nHis name was Oliver Bennett. He was seven, with untidy sandy-blond hair, enormous gray eyes, and sneakers held together by fraying laces.\n“What's happening to your grandmother?” I asked.\nOliver glanced toward the school entrance.\n“I can't explain it here. You have to see.”\n“Have you told your parents?”\nHe nodded.\n“Dad says Grandma is getting old. Aunt Patricia says she likes being alone. My teacher says I shouldn't make up scary stories.”\nHe swallowed.\n“But I'm not making anything up.”\nI contacted the school office, notified my supervisor, and followed the appropriate procedures before accompanying Oliver to his home.\nWe walked through a quiet neighborhood lined with maple trees and small white houses.\nOliver barely spoke.\nEvery few minutes, he checked whether I was still beside him.\nFinally, I asked, “Why did you decide to trust me?”\n“Because I saw you helping somebody.”\n“When?”\n“Last month. A little girl was crying at the playground. You sat with her until her mom came.”\nHe hesitated.\n“You didn't get mad because she was scared.”\nThat answer stayed with me.\nAt the end of Willow Street, Oliver stopped outside a weathered yellow house.\nThe lawn was overgrown. Several newspapers lay untouched on the porch. A faded flower wreath hung crookedly on the front door.\nOliver reached into his backpack and removed a key.\nBefore unlocking the door, he looked at me.\n“Please don't leave when you see it.”\n“I'll stay and make sure we get help if someone needs it,” I assured him.\nHe pushed the door open.\nThe first thing I noticed was the smell of stale food.\nThe second was the silence.\nThe living room was cluttered with unopened mail, dusty furniture, and stacks of old magazines. A television played softly in an empty corner.\nThen Oliver pointed toward the hallway.\n“Grandma's in there.”\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a 'HELP' comment below and give us a \"Like \" to get full story )",
+    "wp_media_id": 683,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1500-fr.jpg"
+   },
+   "source_key": "post:61585117295331_122155635159170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-19 18:00": {
    "langs": {},
@@ -7396,6 +7412,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-10 21:00",
    "status": "used"
+  },
+  "post:61585117295331_122155635159170576": {
+   "fingerprint": "a802f1da257574a06eef",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155635159170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 15:00",
+   "status": "reserved"
   },
   "post:61586759032853_122141835273225301": {
    "fingerprint": "c5d2f7be97c376b3095e",
