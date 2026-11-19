@@ -1,1 +1,1 @@
-{"id": "start-at-20261119214405", "cmd": "start-now", "args": {"at": "2026-11-20 00:30", "groups": ["EN", "EN2", "FR"]}}
+{"id": "skip-slot-20261119215047", "cmd": "skip-slot", "args": {"slot": "2026-11-20 00:00", "groups": ["EN", "EN2", "FR"]}}
