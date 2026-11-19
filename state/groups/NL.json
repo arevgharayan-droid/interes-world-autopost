@@ -67,6 +67,8 @@
   "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "cce306c23605b2fd33c0": "2026-11-18T08:52:12+00:00",
   "cd39e670f61e621b3317": "2026-11-18T08:52:12+00:00",
+  "cda4a9c0ba0b01ac967a": "2026-11-19T17:35:36+00:00",
+  "d3c887e243c06a04d9a4": "2026-11-19T17:35:36+00:00",
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
   "d4aa094230f5d5c483b0": "2026-11-16T00:16:52+00:00",
   "d828a4f0896689812001": "2026-11-17T20:47:11+00:00",
@@ -8310,7 +8312,79 @@
   },
   "2026-11-19 21:33": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Hollyn kam drei Wochen lang hungrig aus der Schule – dann rief die Kantinenfrau an und ich fuhr zu einer eiskalten Wohnung, in der ein Junge sein Schwesterchen bewachte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 721,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn dochter kwam drie weken lang uitgehongerd thuis, tot de kantinemedewerkster belde en vertelde wat er met haar lunch gebeurde",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 720,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T21:33:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/913844063_122314558424071088_3998137774535004736_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LPglOLZLb_QQ7kNvwHKkWBr&_nc_oc=AdoTxNJ2jgdUzSeuKAZ0MWvZlnEufAND-ypHV0vcB1J4eM_uXgUtQGGiCc5CdOoRlx0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=5CjKVKmfIGSc0QsM5ZJyNg&_nc_tpa=Q5bMBQIGuJmAD3TZzafIBYbRQQVF--X55BtGHiuiec4vNsUUdEuF_YdNHVoAEkKUDLxaz7lcsCL1395EOA&oh=00_AQRGL4y7Rd7Lc6yk1nT_4VkuQ66axAUsvYdxOCIlTMV7mw&oe=6B04FA18",
@@ -8322,7 +8396,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-2133-nl.jpg"
    },
    "source_key": "post:61552132650894_122314558454071088",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -8714,7 +8788,7 @@
    "origin": "manual",
    "page_id": "61552132650894",
    "slot": "2026-11-19 21:33",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61559846438723_122232211796328214": {
    "fingerprint": "c9ca03ea6aee11fd0659",
