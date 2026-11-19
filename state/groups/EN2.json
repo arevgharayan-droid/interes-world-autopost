@@ -7,6 +7,7 @@
   "0802407a599099da93c3": "2026-11-09T13:27:37+00:00",
   "0e747318903c9a689ac2": "2026-11-13T10:14:29+00:00",
   "10148b6a82229cc06f82": "2026-11-10T22:03:30+00:00",
+  "1646fedd72fba957d312": "2026-11-19T17:52:35+00:00",
   "1920b88bb3c3529ad8e8": "2026-11-18T22:49:20+00:00",
   "3015169f17e68b6fd1bf": "2026-11-09T13:24:29+00:00",
   "3367781bbac23680b15e": "2026-11-16T10:11:01+00:00",
@@ -10040,7 +10041,74 @@
   },
   "2026-11-20 00:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Left Me Alone With Our Six-Month-Old Twins to Go Fishing, but When He Came Home Four Days Later, He Froze at the Door",
+     "warnings": [
+      "длина статьи 951 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 726,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T00:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/912093226_122155526037170576_1598157835613064748_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nIDoUWozCxoQ7kNvwH2HqGY&_nc_oc=AdpbBujbTcD2JDaMrICTNILP_qfvBgf0beejVMMOwS9XlocGnthbK5Qyn7GV33Tkl4o&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=IDi71BfDG-c-w1HZrGCLhw&_nc_tpa=Q5bMBQKLmHK-561dTQXXqxYP1r-HYSYoqoWJodyu8GY-pe1wPnr3q46lR-v9_IYL8pE2lSA0wlxMx_WAmg&oh=00_AQT61FNSYSyAQTZ-nMP8BuqgAaFWHDuiYHHkh56P1LJyaw&oe=6B0515FF",
@@ -10052,7 +10120,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-0030-en2.jpg"
    },
    "source_key": "post:61585117295331_122155526181170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -10461,7 +10529,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-20 00:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155689543170576": {
    "fingerprint": "5cb3967f8588313515b6",
