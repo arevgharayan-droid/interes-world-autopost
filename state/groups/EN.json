@@ -9,6 +9,7 @@
   "27418007e468ed693307": "2026-11-18T22:36:17+00:00",
   "2cafe86e0d53a56f3a9e": "2026-11-18T15:23:44+00:00",
   "30516d0029d7a2aa8337": "2026-11-09T19:59:12+00:00",
+  "374a6d32f4a0cab0862b": "2026-11-19T17:17:21+00:00",
   "3798fd4c18a181248af5": "2026-11-12T20:02:21+00:00",
   "380b68f0138903517b50": "2026-11-14T09:17:58+00:00",
   "3b1bd09f3324c9ccaad0": "2026-11-10T22:02:12+00:00",
@@ -10297,7 +10298,72 @@
    "status": "missed"
   },
   "2026-11-19 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A Week Before He Died, My Ex-Husband Called Me to His Hospital Room and Said He Never Cheated",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 713,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/916418302_122155783017170576_231766817998288900_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=60LSD3mw_5UQ7kNvwHf_ktJ&_nc_oc=AdoeYNoMh0y9aoRMBP3HqcUQpRal-PxTWN3fGLqS6jaVDsAo5aUhq4h5QqOh_V0LEms&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=9iI7TFypgOepbIXuil4uwg&_nc_tpa=Q5bMBQKOFifIX_T681gq3FpiTgqp8MPH3QzbdHHO3g3Qw5_gOoyUXAfoE8gQvVyF3xcJTKbmDnRXdYd2EA&oh=00_AQRUkN4GSUvZiAd6c92_Xx-vUVfJCwq1rUkbvla4uqmeOQ&oe=6B04F048",
@@ -10309,7 +10375,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-2100-en.jpg"
    },
    "source_key": "post:61585117295331_122155783149170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -10754,7 +10820,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
