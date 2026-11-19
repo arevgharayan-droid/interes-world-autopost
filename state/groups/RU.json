@@ -17,6 +17,7 @@
   "10f20c4033c5982d7320": "2026-11-15T10:15:20+00:00",
   "120fae17c366708f1b15": "2026-11-18T08:52:36+00:00",
   "131aaa912b9beae262e7": "2026-11-17T12:29:11+00:00",
+  "13a340f5c6e650d35e88": "2026-11-19T17:35:44+00:00",
   "151eb58f03724b2a8ed0": "2026-11-09T20:03:21+00:00",
   "16bbaf31647a771b625c": "2026-11-09T20:00:50+00:00",
   "17291d408906d44b96db": "2026-11-14T11:40:46+00:00",
@@ -36,6 +37,7 @@
   "43fc1331d6fb4f0c421e": "2026-11-17T20:47:52+00:00",
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
   "46493e9155ece290d86b": "2026-11-19T10:26:47+00:00",
+  "495041b7bf9b15be8fa3": "2026-11-19T17:35:44+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
   "511f35f875db7d4a056d": "2026-11-13T14:37:39+00:00",
   "53b56a6026d7d16218d9": "2026-11-17T10:39:05+00:00",
@@ -114,6 +116,7 @@
   "e1b27c7dab073d04d921": "2026-11-16T00:18:30+00:00",
   "e264befb548c9459d95b": "2026-11-10T22:04:30+00:00",
   "e2f11ad134f9c6c0943e": "2026-11-13T10:15:12+00:00",
+  "e4c3b6193a5b35d09d06": "2026-11-19T17:35:44+00:00",
   "e4f444f1bf6288cdb116": "2026-11-19T10:26:47+00:00",
   "e53482ea7556e3ad83e6": "2026-11-19T08:31:53+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
@@ -12408,7 +12411,88 @@
   },
   "2026-11-19 21:33": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Diante do tribunal, meu ex-marido me mandou morar debaixo da ponte grávida de sete meses, mas bastou um telefonema para o império dele ruir",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 422,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Бывший муж выставил меня на улицу на седьмом месяце беременности, но один мой звонок заморозил карты всей его семьи и перевернул его жизнь",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 420,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mahkeme önünde yedi aylık hamile halimle beni köprü altına gönderen eski kocam, tek bir telefonumdan sonra havalimanında kartlarının donduğunu öğrenince yüzündeki gülümseme silindi",
+     "warnings": [
+      "часть 3: 398 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 421,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T21:33:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/911695695_122155733871170576_6369527635988177608_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pLbzLJHXAU0Q7kNvwGpSjiC&_nc_oc=AdoYmmT6eMZtvPA79Ut53H5gXSvUsUmbkLfe7favu_Ky3BfwrUos8DOR8foSGv97LGw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2yMtWcVfIc46AYPzvXMA_Q&_nc_tpa=Q5bMBQIDo-9wkrOqbS7yQNEmmSaaLB8SV8O1f1-NOWkABN-T3eilLyCiq9UmSAcLBvs3vh9T9Z5DSqqqiw&oh=00_AQQbGtcNkrUTcUUCZmNM9DhhXtWspxyIiAvdB6s1CmemJQ&oe=6B04F77E",
@@ -12420,7 +12504,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261119-2133-ru.jpg"
    },
    "source_key": "post:61585117295331_122155734075170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -12903,7 +12987,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 21:33",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122143810737210709": {
    "fingerprint": "5b16116dc7df14500fc7",
