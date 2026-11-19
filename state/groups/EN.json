@@ -1140,7 +1140,7 @@
   "975714512286925_122150402919209153": "2026-11-18T18:30:43+00:00",
   "975714512286925_122150420193209153": "2026-11-18T22:37:25+00:00",
   "975714512286925_122150421831209153": "2026-11-19T08:15:04+00:00",
-  "975714512286925_122150469075209153": "2026-11-19T10:29:35+00:00"
+  "975714512286925_122150469075209153": "2026-11-19T11:14:52+00:00"
  },
  "slots": {
   "2026-11-05 15:00": {
@@ -10218,21 +10218,24 @@
       "921611111039858": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122144896731200344_2249023782686326",
        "error": null,
        "last_attempt": "2026-11-19T14:28:13+04:00",
        "mode": "schedule",
        "photo_id": "122144896701200344",
        "post_id": "921611111039858_122144896731200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122150469075209153_1862233181449807",
        "error": null,
        "last_attempt": "2026-11-19T14:29:33+04:00",
        "mode": "schedule",
        "photo_id": "122150469045209153",
        "post_id": "975714512286925_122150469075209153",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "He Shut the Door on Me Christmas Eve and Called Me \"Nobody,\" So I Stopped Paying His Bills, and By Morning He'd Called 25 Times",
@@ -10295,7 +10298,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1500-en.jpg"
    },
    "source_key": "post:61585117295331_122155758855170576",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
