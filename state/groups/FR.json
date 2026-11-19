@@ -12,6 +12,7 @@
   "3f016791a0afbbb7ef04": "2026-11-18T08:52:10+00:00",
   "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
+  "4a12667ae8855b24c947": "2026-11-19T21:13:15+00:00",
   "4a73690c41800c227951": "2026-11-16T16:00:49+00:00",
   "5475522c07f16a70e1ac": "2026-11-10T22:04:58+00:00",
   "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
@@ -7625,7 +7626,72 @@
   },
   "2026-11-20 02:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Après 25 ans de dévouement, sa belle-mère lui lance devant tous les invités qu'elle doit connaître sa place : Olga se lève et prend la parole",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 748,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T02:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/911925368_1720907102932141_5540867018035529353_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cCoYbtlw5vUQ7kNvwGSrnGY&_nc_oc=AdpgWgGEBzakK7lDDnnZit8eclfXPcMIwyjJceUPoKbQbooItRYofcWxwBtbj0f8Flc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=YtwMZ2Zpubs4kfrSvR_XIQ&_nc_tpa=Q5bMBQK2G_ypS7IzYS5hqcSO8v__t5M4W_w4ByiTQiLL_ymyUg1Jfd5Lq6H9h0jZv2BItoJ9v7PNIN2tjQ&oh=00_AQQSCNCOq7izPk2JlNG2mAiRpSxqccWM5qQ9CrVM_uABbA&oe=6B052704",
@@ -7637,7 +7703,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-0230-fr.jpg"
    },
    "source_key": "post:100050386034442_1720907142932137",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7941,7 +8007,7 @@
    "origin": "manual",
    "page_id": "100050386034442",
    "slot": "2026-11-20 02:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
