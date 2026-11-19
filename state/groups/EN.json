@@ -26,6 +26,7 @@
   "6587278d41ae2a4f390e": "2026-11-19T10:26:30+00:00",
   "6dfa0fbc6e60232c2ca8": "2026-11-10T22:06:51+00:00",
   "76b6de784429bf75aead": "2026-11-12T10:26:33+00:00",
+  "7c60aadfcb6e70610f7f": "2026-11-19T22:00:19+00:00",
   "96f4674e8eb6ca36b64c": "2026-11-17T17:51:55+00:00",
   "97674e3e8b0598bc24b5": "2026-11-09T20:07:40+00:00",
   "b034d1046357d847cce2": "2026-11-16T16:00:37+00:00",
@@ -11158,7 +11159,72 @@
    }
   },
   "2026-11-20 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "One Week After Mom Died, We Found Nearly 30 Packages at Her Door, and the First Box Left Me in Tears",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 755,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/907093303_1715921899926502_9218696425683995742_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QEojcAaN8X0Q7kNvwFSmiYs&_nc_oc=Adrrr-FkWeSL0m8O7MPDyVChWs1jy6EQvUb_37_qtg5dKkfGC6H8zmAx64Pbjtxu-78&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=yntOj02o7He11zqxOsTM0Q&_nc_tpa=Q5bMBQK1yudR4rB4auxkNDWlXZrGogcRnRbx9dcZorODACJ2J6qKRZjXXqB05u99vLogBNh95T_dyEtYAQ&oh=00_AQQQq3YSIzKLZpoNrunYBiBdgvN4Fkoe8O-OjBq-B2HoJw&oe=6B05452A",
@@ -11170,7 +11236,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-1200-en.jpg"
    },
    "source_key": "post:100045261260562_1715922003259825",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11448,7 +11514,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-20 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1718272799691412": {
    "fingerprint": "bb4358345d78e4bb3363",
