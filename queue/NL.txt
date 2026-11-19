@@ -93,3 +93,5 @@ https://www.facebook.com/story.php?story_fbid=1718272799691412&id=10004526126056
 https://www.facebook.com/story.php?story_fbid=122155646181170576&id=61585117295331
 # 19.11.2026: 18:00 (ссылка pfbid раскрыта через браузер)
 https://www.facebook.com/story.php?story_fbid=122155558209170576&id=61585117295331
+# 19.11.2026: внеочередной «сейчас» (сообщение 21:31) — pfbid раскрыта через браузер
+https://www.facebook.com/story.php?story_fbid=122314558454071088&id=61552132650894
