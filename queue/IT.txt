@@ -86,3 +86,5 @@ https://www.facebook.com/share/p/1McaFWCcon/
 https://www.facebook.com/story.php?story_fbid=1719091009609591&id=100045261260562
 # 19.11.2026: 12:00
 https://www.facebook.com/story.php?story_fbid=1718339016351457&id=100045261260562
+# 19.11.2026: 15:00 (ссылка pfbid раскрыта через браузер)
+https://www.facebook.com/story.php?story_fbid=122155654917170576&id=61585117295331

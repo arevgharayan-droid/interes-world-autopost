@@ -89,3 +89,5 @@ https://www.facebook.com/story.php?story_fbid=122314392830071088&id=615521326508
 https://www.facebook.com/story.php?story_fbid=1718872332964792&id=100045261260562
 # 19.11.2026: 12:00
 https://www.facebook.com/story.php?story_fbid=1718272799691412&id=100045261260562
+# 19.11.2026: 15:00 (ссылка pfbid раскрыта через браузер)
+https://www.facebook.com/story.php?story_fbid=122155646181170576&id=61585117295331
