@@ -8423,3 +8423,8 @@
 {"slot": "2026-11-20 12:00", "lang": "ES", "action": "wp_post", "id": 446, "status": "future", "t": "2026-11-19T22:00:57+00:00", "group": "MIX"}
 {"slot": "2026-11-20 12:00", "lang": "RO", "action": "wp_post", "id": 447, "status": "future", "t": "2026-11-19T22:00:58+00:00", "group": "MIX"}
 {"slot": "2026-11-20 12:00", "lang": "AR", "action": "wp_post", "id": 448, "status": "future", "t": "2026-11-19T22:00:58+00:00", "group": "MIX"}
+{"slot": "2026-11-20 12:00", "lang": "FR", "page": "1202025962997153", "action": "fb_schedule", "photo_id": "122122440909409328", "post_id": "1202025962997153_122122440939409328", "t": "2026-11-19T22:01:00+00:00", "group": "FR"}
+{"slot": "2026-11-20 12:00", "lang": "NL", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-19T22:01:01+00:00", "group": "NL"}
+{"slot": "2026-11-20 12:00", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-19T22:01:01+00:00", "group": "NL"}
+{"slot": "2026-11-20 12:00", "lang": "NL", "action": "wp_post", "id": 760, "status": "future", "t": "2026-11-19T22:01:01+00:00", "group": "NL"}
+{"slot": "2026-11-20 12:00", "lang": "DE", "action": "wp_post", "id": 761, "status": "future", "t": "2026-11-19T22:01:02+00:00", "group": "NL"}

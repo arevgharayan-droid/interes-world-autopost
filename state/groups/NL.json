@@ -74,6 +74,7 @@
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
   "d4aa094230f5d5c483b0": "2026-11-16T00:16:52+00:00",
   "d828a4f0896689812001": "2026-11-17T20:47:11+00:00",
+  "d9b6b49a99deb6db04fd": "2026-11-19T22:01:01+00:00",
   "dad3376516ebf7607694": "2026-11-17T20:47:11+00:00",
   "dcf04943e849a446709a": "2026-11-16T19:28:25+00:00",
   "e2b93dcc96be27aa58cc": "2026-11-17T12:28:57+00:00",
@@ -83,6 +84,7 @@
   "ebc91716c611bd42ee20": "2026-11-09T20:07:46+00:00",
   "ecd7a0840dd1ae067df4": "2026-11-18T22:49:31+00:00",
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
+  "f1de2b6a7b4cb66798b0": "2026-11-19T22:01:01+00:00",
   "f3c8eaafc0e1dc9038f5": "2026-11-09T13:26:40+00:00",
   "f3db1dfbfdb7df061663": "2026-11-14T11:39:08+00:00",
   "f5bea5f3ca119019e8c7": "2026-11-09T19:59:42+00:00",
@@ -8848,7 +8850,79 @@
    }
   },
   "2026-11-20 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Leerer Umschlag zum Abschluss: Als Opa seinen Enkel vor allen demütigte, traf sein Vater in dieser Nacht eine Entscheidung, die niemand kommen sah",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 761,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn zoon kreeg bij zijn diploma-etentje een lege envelop van opa, terwijl zijn neefjes laptops en $1.500 kregen. Die nacht ontdekte ik waar mijn geld naartoe ging",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 760,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/897701625_1707622100756482_4683207982154459626_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e5c1b6&_nc_ohc=KaryXmJfL64Q7kNvwGuVITf&_nc_oc=Ado40zBl1idHHf6TKNxEVDOxWyBw2qDfr2tVcM7VN_3CoZvL2RnAwsQ8T2Wu30Uf0r4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AMAeTUEEAAAA&_nc_gid=mhzCnRFVQwFikzpYRZOzGA&_nc_tpa=Q5bMBQLgv8Es605w3RpaUBLw1YLq5hSXYPN58v6jS_OcQ5PQUEGQmhYbOXoEYPleg-LO91CwWQPze-XO3Q&oh=00_AQSGHd9dedYRfaaa4U8dwqisPbrsDX2Vf2CXUDSQMxqnoA&oe=6B05505B",
@@ -8860,7 +8934,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-1200-nl.jpg"
    },
    "source_key": "post:photo_1707746027410756",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -9490,7 +9564,7 @@
    "origin": "manual",
    "page_id": "622403774625234",
    "slot": "2026-11-20 12:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
