@@ -8090,63 +8090,76 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132463873310273_1453149913001828",
        "error": null,
        "last_attempt": "2026-11-19T18:12:02+04:00",
        "mode": "immediate",
        "photo_id": "122132463849310273",
        "post_id": "1028964020310052_122132463873310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130390903321366_2015231535830419",
        "error": null,
        "last_attempt": "2026-11-19T18:12:25+04:00",
        "mode": "immediate",
        "photo_id": "122130390879321366",
        "post_id": "1089186904280406_122130390903321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127900117309032_1161647389732482",
        "error": null,
        "last_attempt": "2026-11-19T18:11:17+04:00",
        "mode": "immediate",
        "photo_id": "122127900093309032",
        "post_id": "1102464712951594_122127900117309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126086227316035_1475546531357753",
        "error": null,
        "last_attempt": "2026-11-19T18:11:39+04:00",
        "mode": "immediate",
        "photo_id": "122126086203316035",
        "post_id": "1129908326870761_122126086227316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131730409418602_1456073686719788",
        "error": null,
        "last_attempt": "2026-11-19T18:10:29+04:00",
        "mode": "immediate",
        "photo_id": "122131730385418602",
        "post_id": "1208422892355505_122131730409418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134197819436382_4612574438980811",
        "error": null,
        "last_attempt": "2026-11-19T18:10:54+04:00",
        "mode": "immediate",
        "photo_id": "122134197789436382",
        "post_id": "1268633826332790_122134197819436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ich fand meine neunjährige Tochter bewusstlos im Regen vor der Tür meines Ex-Mannes – im Krankenhaus entdeckte ich in ihrem Rucksack einen versteckten Zettel",
      "warnings": [],
      "wp_error": null,
      "wp_id": 708,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -8183,21 +8196,25 @@
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130872511424769_1660205648888059",
        "error": null,
        "last_attempt": "2026-11-19T18:10:05+04:00",
        "mode": "immediate",
        "photo_id": "122130872487424769",
        "post_id": "1180417388497186_122130872511424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130988509430924_1456744886661717",
        "error": null,
        "last_attempt": "2026-11-19T18:09:41+04:00",
        "mode": "immediate",
        "photo_id": "122130988485430924",
        "post_id": "1205543595981082_122130988509430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
@@ -8288,7 +8305,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1800-nl.jpg"
    },
    "source_key": "post:61585117295331_122155558209170576",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
