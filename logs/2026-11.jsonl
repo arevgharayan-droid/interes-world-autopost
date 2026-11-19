@@ -8077,3 +8077,5 @@
 {"slot": "2026-11-20 00:30", "action": "wp_media", "id": 722, "t": "2026-11-19T17:51:44+00:00", "group": "FR"}
 {"slot": "2026-11-20 00:30", "action": "wp_media", "id": 723, "t": "2026-11-19T17:51:44+00:00", "group": "EN"}
 {"slot": "2026-11-20 00:30", "action": "wp_media", "id": 724, "t": "2026-11-19T17:51:47+00:00", "group": "EN2"}
+{"slot": "2026-11-20 00:30", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-19T17:52:25+00:00", "group": "EN"}
+{"slot": "2026-11-20 00:30", "lang": "EN", "action": "wp_post", "id": 725, "status": "future", "t": "2026-11-19T17:52:26+00:00", "group": "EN"}

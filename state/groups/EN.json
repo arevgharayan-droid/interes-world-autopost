@@ -36,6 +36,7 @@
   "cb24f2fe5112af4485e2": "2026-11-12T09:03:54+00:00",
   "ce058a0bf1cf5d38a3da": "2026-11-18T08:51:57+00:00",
   "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
+  "d1e7d87ca5c11863154f": "2026-11-19T17:52:25+00:00",
   "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00",
   "ed1263949be80f9f9314": "2026-11-16T20:28:09+00:00",
   "f0fbe62a6e965138d9e2": "2026-11-16T00:21:36+00:00",
@@ -10601,7 +10602,72 @@
   },
   "2026-11-20 00:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Mom Left My Kids at a Freezing Gas Station on Christmas Eve While I Worked 911, and One Text Changed Everything",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 725,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T00:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/912426404_122155909557170576_4963430499770117361_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=He5-8FBG56YQ7kNvwGnmBPc&_nc_oc=AdrD3rmCfB-kozQB-zeYWQWRvCCsP4j1S8k9itvL2uls49qIwzTcmGYRBEslAZ6b5HE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=wGr8hH4zY7n_2wMet2cydA&_nc_tpa=Q5bMBQKl0WmglyHfuc79sXanUMv5alGA2Fa4YJZvZgzel_byGiPvuqIreKLozaflwpQaRjjIeUELZ2oRIA&oh=00_AQT1Buj7vsuB_ashEyeECoIDrl2gfuILlg4RAC1RCkYvZQ&oe=6B050A8F",
@@ -10613,7 +10679,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-0030-en.jpg"
    },
    "source_key": "post:61585117295331_122155909671170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11062,7 +11128,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-20 00:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
