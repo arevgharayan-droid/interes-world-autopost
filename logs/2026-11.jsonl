@@ -7377,3 +7377,9 @@
 {"slot": "2026-11-19 15:00", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-19T10:26:43+00:00", "group": "NL"}
 {"slot": "2026-11-19 15:00", "lang": "NL", "action": "wp_post", "id": 688, "status": "future", "t": "2026-11-19T10:26:44+00:00", "group": "NL"}
 {"slot": "2026-11-19 15:00", "lang": "DE", "action": "wp_post", "id": 689, "status": "future", "t": "2026-11-19T10:26:44+00:00", "group": "NL"}
+{"slot": "2026-11-19 15:00", "lang": "EN", "page": "1167352663135230", "action": "fb_schedule", "photo_id": "122147845287384760", "post_id": "1167352663135230_122147845317384760", "t": "2026-11-19T10:26:46+00:00", "group": "EN"}
+{"slot": "2026-11-19 15:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-19T10:26:46+00:00", "group": "FR"}
+{"slot": "2026-11-19 15:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": ["часть 1: 308 слов"], "t": "2026-11-19T10:26:47+00:00", "group": "RU"}
+{"slot": "2026-11-19 15:00", "lang": "TR", "action": "generated", "backend": "subscription", "warnings": ["часть 1: 258 слов", "часть 3: 395 слов"], "t": "2026-11-19T10:26:47+00:00", "group": "RU"}
+{"slot": "2026-11-19 15:00", "lang": "PT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-19T10:26:47+00:00", "group": "RU"}
+{"slot": "2026-11-19 15:00", "lang": "FR", "action": "wp_post", "id": 690, "status": "future", "t": "2026-11-19T10:26:47+00:00", "group": "FR"}

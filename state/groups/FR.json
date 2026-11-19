@@ -35,6 +35,7 @@
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
   "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00",
+  "d4fb32bab10e6ad46945": "2026-11-19T10:26:46+00:00",
   "d7f8167190d0b9b93782": "2026-11-18T22:20:27+00:00",
   "decab325bccbd36f9888": "2026-11-18T18:29:16+00:00",
   "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00",
@@ -6975,7 +6976,72 @@
    }
   },
   "2026-11-19 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Un garçon de 7 ans a supplié une policière de le suivre chez lui : ce qu'elle a découvert derrière la porte de la maison jaune l'a bouleversée",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 690,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-19T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/912757207_122155635057170576_4606622872551629568_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TsIG-UER0MwQ7kNvwEugtPj&_nc_oc=AdpslPNVXcf5iIV56IYwdJUHEZkfzLjYZNNsL-ZuOEuw6fhPmBxr5SfuoeiAyxkI9vc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=7tDpdiZea5RqIyesw2Thuw&_nc_tpa=Q5bMBQLVi4zxbuOjd4sICB_t1FsYY5nk1Deaq0fmZj3Y8ZgM1ATrvN2udoXBXM_cMKHGW3-rEvcVySsMTQ&oh=00_AQRSNtvf2Iz8GSLsofbLGvG2cs5gJ06Pd8haMMRZQSm4lQ&oe=6B04A30E",
@@ -6987,7 +7053,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1500-fr.jpg"
    },
    "source_key": "post:61585117295331_122155635159170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -7419,7 +7485,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-19 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586759032853_122141835273225301": {
    "fingerprint": "c5d2f7be97c376b3095e",
