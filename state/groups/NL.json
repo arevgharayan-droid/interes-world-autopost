@@ -7883,12 +7883,13 @@
       "1268633826332790": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122134159281436382_997877106153865",
        "error": null,
        "last_attempt": "2026-11-19T14:32:26+04:00",
        "mode": "schedule",
        "photo_id": "122134159245436382",
        "post_id": "1268633826332790_122134159281436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "34 Morgen fütterte sie eine Krähe – dann ließ der Vogel am Tag von Birdies Verschwinden eine rosa Haarspange vor ihre Füße fallen",
@@ -8041,7 +8042,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261119-1500-nl.jpg"
    },
    "source_key": "post:61585117295331_122155646181170576",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
