@@ -2,9 +2,11 @@
  "enabled_since": "2026-11-16T21:06:31+04:00",
  "output_fps": {
   "0368c00b16379902b100": "2026-11-19T17:36:01+00:00",
+  "0385791f90b04d0306b7": "2026-11-20T22:45:57+00:00",
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
   "0ad80be2e1cea7e03b4f": "2026-11-20T16:46:26+00:00",
   "0be13b58727dd30b5837": "2026-11-17T17:52:42+00:00",
+  "0d6931716754091b432c": "2026-11-20T22:45:57+00:00",
   "1674a1862ef8141ef8d2": "2026-11-20T19:26:13+00:00",
   "183e5b82cea64a1af2e4": "2026-11-20T16:46:26+00:00",
   "18b10ac52aef32d53a3b": "2026-11-20T16:46:26+00:00",
@@ -28,6 +30,7 @@
   "50dd1f88b6c06defc96d": "2026-11-18T22:20:58+00:00",
   "50f5e9765c68d246b206": "2026-11-19T17:36:01+00:00",
   "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
+  "54c053d9c2cdb7b89e79": "2026-11-20T22:45:57+00:00",
   "6144e4570a19cb701fa3": "2026-11-19T14:08:16+00:00",
   "61b6c834065a37df649e": "2026-11-19T17:36:01+00:00",
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
@@ -75,6 +78,7 @@
   "e43f4ace31d9e29c4367": "2026-11-19T19:58:49+00:00",
   "e53caf42617e72941741": "2026-11-17T12:28:51+00:00",
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
+  "ea611fa8f80432de1914": "2026-11-20T22:45:57+00:00",
   "eb19c503b19e6605601a": "2026-11-18T15:24:21+00:00",
   "ef90411773fe09e82bf0": "2026-11-18T22:20:58+00:00",
   "f113b22975dc330f28ae": "2026-11-20T14:41:48+00:00",
@@ -4664,7 +4668,97 @@
    }
   },
   "2026-11-21 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "سخر منها جندي مارينز في المطار وقال إن زيّها العسكري مجرد تنكّر، ثم التفت فرأى جنرالًا بأربع نجوم خلفه",
+     "warnings": [
+      "длина текста FB 499 слов (исходник 661, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 508,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Un joven marine se burló de mi uniforme en pleno aeropuerto, sin saber que un general de cuatro estrellas lo estaba escuchando",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 506,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Un tânăr pușcaș marin a luat-o în râs în aeroport, spunând că uniforma ei e un costum, dar un general cu patru stele auzise totul",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 507,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Настоящие офицеры так не выглядят»: морпех высмеял женщину в форме, не заметив генерала за спиной",
+     "warnings": [
+      "длина текста FB 491 слов (исходник 661, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 505,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/900799341_122154601545170576_4264424431856730100_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yVbhi1zictgQ7kNvwGHuSRE&_nc_oc=Adr4hkSXyhKv1H4TycQWL1aIgveD3Gr0WFyyuQM7Js2I_jIsHFCayu-KojkjZ8enAkU&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=ID9mKzAzaL0rWeJPFrvF-w&_nc_tpa=Q5bMBQLI_dsQyOTSjefVlWscQREcwqZkidWKWtqwgAxp9W7IDAnzkodjFJkOSBq1EWGyc2vMAl7OEMmhBQ&oh=00_AQQo21cYkv5Qa-H8CM9z22c4adUfmkWLimfKBOLlUdnGBA&oe=6B06B64F",
@@ -4676,7 +4770,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-1200-mix.jpg"
    },
    "source_key": "post:61585117295331_122154601647170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4858,7 +4952,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-21 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155455411170576": {
    "fingerprint": "be4fce600d9ddc11fc0e",
