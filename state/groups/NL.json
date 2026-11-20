@@ -9436,12 +9436,14 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132636943310273_1411944574043629",
        "error": null,
        "last_attempt": "2026-11-20T21:11:53+04:00",
        "mode": "immediate",
        "photo_id": "122132636919310273",
        "post_id": "1028964020310052_122132636943310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
@@ -9454,39 +9456,47 @@
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128023777309032_1846739009842429",
        "error": null,
        "last_attempt": "2026-11-20T21:10:31+04:00",
        "mode": "immediate",
        "photo_id": "122128023753309032",
        "post_id": "1102464712951594_122128023777309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126187963316035_1427419306226960",
        "error": null,
        "last_attempt": "2026-11-20T21:11:13+04:00",
        "mode": "immediate",
        "photo_id": "122126187939316035",
        "post_id": "1129908326870761_122126187963316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131957509418602_2032233534116880",
        "error": null,
        "last_attempt": "2026-11-20T21:09:10+04:00",
        "mode": "immediate",
        "photo_id": "122131957485418602",
        "post_id": "1208422892355505_122131957509418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134388187436382_1671343228108650",
        "error": null,
        "last_attempt": "2026-11-20T21:09:51+04:00",
        "mode": "immediate",
        "photo_id": "122134388163436382",
        "post_id": "1268633826332790_122134388187436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Du entschuldigst dich jetzt vor allen bei Mama!“, brüllte er – doch dann legte Luisa die Kreditkartenbelege auf den Tisch",
@@ -9495,6 +9505,7 @@
      ],
      "wp_error": null,
      "wp_id": 799,
+     "wp_live": true,
      "wp_status": "future"
     },
     "EN": {
@@ -9531,12 +9542,14 @@
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131058151424769_1113538234853065",
        "error": null,
        "last_attempt": "2026-11-20T21:08:32+04:00",
        "mode": "immediate",
        "photo_id": "122131058127424769",
        "post_id": "1180417388497186_122131058151424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
