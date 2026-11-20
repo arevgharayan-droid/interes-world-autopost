@@ -10736,12 +10736,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122139750530776189_1627723719108960",
        "error": null,
        "last_attempt": "2026-11-20T02:00:33+04:00",
        "mode": "schedule",
        "photo_id": "122139750494776189",
        "post_id": "994273113779575_122139750530776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Family Threw Me Out of a Five-Star Hotel Lobby, Not Knowing I Owned Every Marble Inch of It",
@@ -10806,7 +10807,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-1200-en2.jpg"
    },
    "source_key": "post:photo_1704034624448563",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
