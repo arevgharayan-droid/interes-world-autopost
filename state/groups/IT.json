@@ -14808,7 +14808,10 @@
      "title": "Na pohřbu jsem v zadní lavici uviděla ženu s mým obličejem. Když vstala, pochopila jsem, co mi máma celých pětapadesát let tajila",
      "warnings": [
       "длина текста FB 812 слов (исходник 1016, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 786,
+     "wp_status": "publish"
     },
     "DE": {
      "pages": {},
@@ -14832,7 +14835,10 @@
      "generated": true,
      "pages": {},
      "title": "Per cinquantacinque anni ho portato fiori su una lapide senza nome, poi al funerale di mia madre ho visto in fondo alla chiesa una donna con il mio stesso viso",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 784,
+     "wp_status": "publish"
     },
     "NL": {
      "pages": {},
@@ -14846,7 +14852,10 @@
      "title": "Przez 55 lat kładłam kwiaty na grobie córeczki, aż na pogrzebie mamy zobaczyłam w ostatniej ławce kobietę z moją twarzą",
      "warnings": [
       "длина текста FB 746 слов (исходник 1016, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 785,
+     "wp_status": "publish"
     },
     "PT": {
      "pages": {},
@@ -14869,6 +14878,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-20T18:39:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/905127150_122154988551170576_7534948653237871558_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lLANfvvxYTMQ7kNvwFv0DML&_nc_oc=Ado2Rm0mKKF39g0oG56BqD5BB70baMWgxzLA6NUHibb75RwTZdl6vk9999sg31EWzcg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=AeGAt1mcOwiHvCZY147NUg&_nc_tpa=Q5bMBQIaneuYWii7ydK9U9-LtX0ep0NnajGvWhkOvzvu5rLsModqbCVk8P9BsnyHRlQzg93XJ--BpujOFg&oh=00_AQTBXAMMZFvp973zRLZ_UktgAnRLtsgUG5-YAOd9OSnnzQ&oe=6B0629B4",
@@ -14880,7 +14890,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-1839-it.jpg"
    },
    "source_key": "post:61585117295331_122154988611170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15342,7 +15352,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-20 18:39",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155448631170576": {
    "fingerprint": "05211f12e7af011b9b25",
