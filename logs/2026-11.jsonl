@@ -8710,3 +8710,12 @@
 {"slot": "2026-11-20 18:39", "lang": "EN", "page": "530022363528890", "action": "fb_immediate", "photo_id": "122176077110720509", "post_id": "530022363528890_122176077134720509", "t": "2026-11-20T14:41:24+00:00", "group": "EN2"}
 {"slot": "2026-11-20 18:39", "lang": "NL", "action": "wp_post", "id": 780, "status": "publish", "t": "2026-11-20T14:41:24+00:00", "group": "NL"}
 {"slot": "2026-11-20 18:39", "lang": "DE", "action": "wp_post", "id": 781, "status": "publish", "t": "2026-11-20T14:41:25+00:00", "group": "NL"}
+{"slot": "2026-11-20 18:39", "lang": "EN", "page": "994273113779575", "action": "fb_immediate", "photo_id": "122139901028776189", "post_id": "994273113779575_122139901052776189", "t": "2026-11-20T14:41:29+00:00", "group": "EN2"}
+{"slot": "2026-11-20 18:39", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-20T14:41:36+00:00", "group": "RU"}
+{"slot": "2026-11-20 18:39", "lang": "TR", "action": "generated", "backend": "subscription", "warnings": ["часть 3: 373 слов"], "t": "2026-11-20T14:41:36+00:00", "group": "RU"}
+{"slot": "2026-11-20 18:39", "lang": "PT", "action": "generated", "backend": "subscription", "warnings": ["часть 2: 564 слов"], "t": "2026-11-20T14:41:36+00:00", "group": "RU"}
+{"slot": "2026-11-20 18:39", "lang": "NL", "page": "633031599904551", "action": "fb_immediate", "photo_id": "122223845558930012", "post_id": "633031599904551_122223845588930012", "t": "2026-11-20T14:41:37+00:00", "group": "NL"}
+{"slot": "2026-11-20 18:39", "lang": "RU", "action": "wp_post", "id": 461, "status": "publish", "t": "2026-11-20T14:41:37+00:00", "group": "RU"}
+{"slot": "2026-11-20 18:39", "lang": "TR", "action": "wp_post", "id": 462, "status": "publish", "t": "2026-11-20T14:41:38+00:00", "group": "RU"}
+{"slot": "2026-11-20 18:39", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 3727 слов (исходник 2858, цель ±10%)"], "t": "2026-11-20T14:41:38+00:00", "group": "EN"}
+{"slot": "2026-11-20 18:39", "lang": "PT", "action": "wp_post", "id": 463, "status": "publish", "t": "2026-11-20T14:41:39+00:00", "group": "RU"}
