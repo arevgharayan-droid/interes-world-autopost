@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "fb_block_until": "2026-11-14T14:14:33+04:00",
  "output_fps": {
+  "008ae4753ef603e30f4c": "2026-11-20T16:45:57+00:00",
   "04d6e76bc141df2ccb55": "2026-11-10T22:04:40+00:00",
   "06b9a4fa459e62ade690": "2026-11-16T16:00:45+00:00",
   "0802407a599099da93c3": "2026-11-09T13:27:37+00:00",
@@ -11082,7 +11083,68 @@
    }
   },
   "2026-11-20 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Husband Secretly Added His Mother to Our Condo Deed Before Closing, So I Took Back My $118,000 and Bought the Unit Next Door",
+     "warnings": []
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/888584455_1107739135361258_8593560159398763373_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G8-QlYdDS3YQ7kNvwGfUAoq&_nc_oc=Adocoa7qpavpP2VvJW2Fr1UF4xRHPwEHbtdZ3xsWvfhcl3V_atGB3HQ_WRinqs6knQo&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=-8pzw8YajG6k0BP9uyfLrA&_nc_tpa=Q5bMBQLvISvgXLNwLeR7Tg79W9R1J8QEofavqk6tdQ1cLQQCqfcVKy9JllNTTckcXSuByo-vRfb2HPVXtg&oh=00_AQSZtQgGTiz2fXzOHm3dqfEF3to_KvTKhjNLlLEO8SJoTA&oe=6B06393F",
