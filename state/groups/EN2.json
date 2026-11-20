@@ -11342,7 +11342,23 @@
   "2026-11-21 00:00": {
    "langs": {},
    "slot_iso": "2026-11-21T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/905013252_1712836916901667_4479909964368525819_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-YbMFwRmBB4Q7kNvwHdj0r7&_nc_oc=Adqbz-oizTguNvcKIwvkmwdYglrdrz--uU2k4rZ6-yQ3YydieHjqTgCOb-VWwuJXP58&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=dp1fUNhU9rQLDupHOgvtRA&_nc_tpa=Q5bMBQKlYN7b0XEml3YPsqktOC6KBULr9Tpv5cbI5tv6tEd0Cf9hmnh0G1sdWx63yEjjuE4Wweeb_1fMJw&oh=00_AQToE3ndlKWIbqjATI29RGZtDpy4nvOlDzEuAU0JTIbRmA&oe=6B068AC2",
+    "link": "https://www.facebook.com/story.php?story_fbid=1713596790159013&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "“WE DON'T WANT YOU THERE, MOM. JUST STAY HOME!” My Son Told Me After I Discovered He'd Taken His Wife and Her Entire Family on the $12,500 Christmas Vacation I'd Paid For. They'd Even Removed Me From Our Family Group Chat to Conceal Their Plans. I Didn't Beg or Start an Argument. Instead, I Opened My Laptop and Made Three Clicks. Hours Later, My Son Called From the Luxury Resort, Shouting, “MOM! THEY WON'T LET US CHECK IN! WHAT HAVE YOU DONE?” I Had One Question for Him—and Another Surprise Awaiting Them at Home.\n\n“WE THOUGHT YOU'D ENJOY SOME PEACE AND QUIET, HELENA,” my daughter-in-law explained after secretly departing with her relatives for the $12,500 Christmas vacation I'd financed.\n\nShe sounded almost pleased with herself.\n\nMy son, his wife, their two children, and her relatives were already heading toward a luxurious mountain resort.\n\nThey'd packed their luggage, left my house empty, and deleted me from the family group chat so I wouldn't discover what they were doing.\n\nUnfortunately for them, I'd spotted the resort's room assignment list among the rubbish in my kitchen.\n\nMy name appeared nowhere on it.\n\nBefore they arrived at the resort, I'd already made three decisions that would have consequences extending well beyond their Christmas getaway.\n\n**The Empty House**\n\nAt six o'clock on Christmas Eve morning, I woke to a sound that seemed completely unfamiliar.\n\nSilence.\n\nDuring the preceding three years, quiet mornings had become rare in my home.\n\nMy son Caleb, his wife Sloan, and their two children had been occupying the downstairs bedrooms without paying any rent.\n\nUsually, the house was filled with the hum of the coffee maker, the noise of children's cartoons, and someone calling upstairs to ask whether I'd seen a missing shoe.\n\nBut that morning, the house was deserted.\n\nCaleb's SUV was gone.\n\nSo was the rented van that had been parked in my driveway the previous evening.\n\nTheir luggage, winter jackets, and skiing gear had disappeared as well.\n\nI checked my phone, expecting to find a message explaining that they'd gone shopping early or needed to handle some last-minute Christmas task.\n\nInstead, I noticed something strange.\n\nOur family group chat was no longer there.\n\nI searched my messages a second time.\n\nThen I dialed Caleb's number.\n\nSloan answered.\n\n“Oh, Helena! We were going to call you.”\n\n“Where are you?”\n\n“On our way to the mountains. Things got hectic, and we decided to leave early.”\n\nI gazed through the window at the empty driveway.\n\n“Without me?”\n\nShe released an impatient sigh, clearly irritated that I'd called.\n\n“Please don't make this difficult. You've seemed stressed lately. We thought you'd enjoy some peace and quiet.”\n\nPeace and quiet.\n\nI'd spent $12,500 organizing the Christmas trip they'd always wanted.\n\nAnd somehow, their ideal holiday involved making sure I wasn't included.\n\n“Well,” I said quietly, “Merry Christmas, Sloan.”\n\nI disconnected the call before she had a chance to reply.\n\nFor several minutes, I stood alone in the kitchen, looking toward the Christmas stockings hanging above the fireplace.\n\nI'd embroidered the initials on four stockings for the adults and children myself.\n\nI'd also stitched a small silver H onto the stocking I'd planned to take along to the resort.\n\nThen I noticed something protruding from the kitchen trash.\n\nA wrinkled sheet of paper.\n\nI reached down and pulled it out.\n\nIt was the resort's room allocation list.\n\nCaleb and Sloan had been assigned the master suite.\n\nSloan's parents were given another bedroom.\n\nHer sister and brother-in-law would occupy the third.\n\nThe children were scheduled to sleep in the bunk room.\n\nThere was no room listed for me.\n\nI'd paid $12,500 because I wanted to spend Christmas surrounded by my family.\n\nYet my own son had decided the celebration would be more enjoyable without his mother.\n\nHe'd invited his wife's entire family, removed me from our shared conversation, and abandoned me in the very house where I'd let him and his family live rent-free for three years.\n\nThey had no difficulty accepting my money.\n\nThey simply had no interest in spending time with me.\n\nWhat kind of son lets his mother pay for the entire family's Christmas holiday, only to tell her to stay behind in an empty house?",
+    "wp_media_id": 811,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-0000-en2.jpg"
+   },
+   "source_key": "post:100045261260562_1713596790159013",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 12:00": {
    "langs": {},
@@ -11599,6 +11615,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-11 12:00",
    "status": "used"
+  },
+  "post:100045261260562_1713596790159013": {
+   "fingerprint": "94cf60472c7a12dc591c",
+   "link": "https://www.facebook.com/story.php?story_fbid=1713596790159013&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-21 00:00",
+   "status": "reserved"
   },
   "post:100045261260562_1714169616768397": {
    "fingerprint": "f70732704814776e8811",
