@@ -11102,7 +11102,10 @@
      "generated": true,
      "pages": {},
      "title": "My Husband Secretly Added His Mother to Our Condo Deed Before Closing, So I Took Back My $118,000 and Bought the Unit Next Door",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 793,
+     "wp_status": "future"
     },
     "ES": {
      "pages": {},
@@ -11145,6 +11148,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/888584455_1107739135361258_8593560159398763373_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G8-QlYdDS3YQ7kNvwGfUAoq&_nc_oc=Adocoa7qpavpP2VvJW2Fr1UF4xRHPwEHbtdZ3xsWvfhcl3V_atGB3HQ_WRinqs6knQo&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=-8pzw8YajG6k0BP9uyfLrA&_nc_tpa=Q5bMBQLvISvgXLNwLeR7Tg79W9R1J8QEofavqk6tdQ1cLQQCqfcVKy9JllNTTckcXSuByo-vRfb2HPVXtg&oh=00_AQSZtQgGTiz2fXzOHm3dqfEF3to_KvTKhjNLlLEO8SJoTA&oe=6B06393F",
@@ -11156,7 +11160,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-2100-en2.jpg"
    },
    "source_key": "post:100083755444423_1107739618694543",
-   "status": "preparing",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11505,7 +11509,7 @@
    "origin": "manual",
    "page_id": "100083755444423",
    "slot": "2026-11-20 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122102295536536431": {
    "fingerprint": "abe1f9853a8335e60c0e",
