@@ -13985,30 +13985,36 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129394705306316_1475739571290356",
        "error": null,
        "last_attempt": "2026-11-20T18:57:48+04:00",
        "mode": "immediate",
        "photo_id": "122129394681306316",
        "post_id": "1138572272664180_122129394705306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119372821471857_1174782571907482",
        "error": null,
        "last_attempt": "2026-11-20T18:57:30+04:00",
        "mode": "immediate",
        "photo_id": "122119372797471857",
        "post_id": "1338630212673029_122119372821471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122077789505599_2601125467028436",
        "error": null,
        "last_attempt": "2026-11-20T18:57:12+04:00",
        "mode": "immediate",
        "photo_id": "122122077765505599",
        "post_id": "1448441201677530_122122077789505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Às seis da manhã meu marido me sacudiu da cama exigindo que eu voltasse a sustentar a mãe dele, mas a minha resposta calma o deixou sem palavras",
@@ -14017,6 +14023,7 @@
      ],
      "wp_error": null,
      "wp_id": 463,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -14285,12 +14292,14 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125013127304633_29208979298768016",
        "error": null,
        "last_attempt": "2026-11-20T18:56:38+04:00",
        "mode": "immediate",
        "photo_id": "122125013103304633",
        "post_id": "1083701291497481_122125013127304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
@@ -14306,21 +14315,24 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127622275307134_2552539271900536",
        "error": null,
        "last_attempt": "2026-11-20T18:56:15+04:00",
        "mode": "immediate",
        "photo_id": "122127622245307134",
        "post_id": "1164575726728296_122127622275307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124052545305562_1082746628127610",
        "error": null,
        "last_attempt": "2026-11-20T18:56:55+04:00",
        "mode": "immediate",
        "photo_id": "122124052521305562",
        "post_id": "1180583925128715_122124052545305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Sabah altıda kocam beni uykumdan sarsarak kaldırdı ve annesine yapılan havaleleri geri istedi, ama ona verdiğim sakin cevap her şeyi değiştirdi",
@@ -14349,7 +14361,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261120-1839-ru.jpg"
    },
    "source_key": "post:100050386034442_1714848903537961",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
