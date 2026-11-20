@@ -9124,7 +9124,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-20T18:39:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/900603502_122154798393170576_1454168320073162799_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wHqpcP1Jx3gQ7kNvwF4LOHt&_nc_oc=Adomwz_QXciappcpX_NpW_zRQR5Eh9IWE9uGdYdh7-4xjYJ-uuQNlSqikbZtRCuM2xA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=Wv5ROSZLu3d2N4xkH6BWsA&_nc_tpa=Q5bMBQL4rLoe3megCLjNKcYxitcLGqmlqBw-1GMFGecyrT_FDJn1wxflpc53n3CvV3HNLllxRJKYN-SC_w&oh=00_AQT8mPVeJnR5xAx2qhj5FlYme8JSTANT1nXa7z1JtEQtlw&oe=6B063AAD",
+    "link": "https://www.facebook.com/story.php?story_fbid=122154798591170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "A Navy officer placed a microphone in my eleven-year-old son's hand before three hundred students and demanded he repeat: \"My mom is a Navy SEAL.\" Then he told the entire gym that my boy was lying. Ten minutes later, I entered with sand still stuck to my boots and said, \"He's right. I'm not a SEAL.\" The gym erupted in laughter. That was when the actual SEAL at the next table stood up.\n\nMy son Matty had spent all week counting down to Career Day at Shoreline Middle School in Virginia Beach. He'd cleaned his glasses twice that morning and asked if I'd really arrive by eleven-thirty.\n\nI promised I'd try.\n\nAt 11:00, three hundred sixth graders packed the gym. Firefighters, nurses, police officers, and Coast Guard members had arranged displays, but the Navy booth attracted the largest crowd. Under a banner that read COURAGE STARTS HERE, Lieutenant Easton Wyler answered questions.\n\nMatty raised his hand and asked why SEAL training was so difficult. Then he proudly explained that his mother was a Navy SEAL.\n\nThe lieutenant didn't just correct him. He summoned my little boy from the bleachers, seated him on a folding chair, and shoved a microphone toward his face.\n\n\"Repeat that, son.\"\n\nMatty did as he was told.\n\n\"My mom is a Navy SEAL.\"\n\nWyler faced the audience. \"No woman has ever earned a SEAL Trident. Which means either your mom lied to you, or you're lying to us.\"\n\nLaughter swept through the gym. A chorus of \"SEAL boy!\" started in the upper bleachers. Even after Matty climbed down, the lieutenant continued lecturing about stolen valor, as if embarrassing an eleven-year-old were part of his presentation.\n\nHis teacher stared at the floor.\n\nMatty returned to his seat and gazed at his hands. He didn't cry. Later, he told me he'd repeated something I'd taught him: The truth doesn't have to yell.\n\nAt 11:20, I entered through the side door wearing my blue-gray work uniform, accompanied by two base security sailors and their explosives-detection dogs, Rex and Tank. We'd spent that morning at Sandbridge Beach handling a rusted World War II practice bomb. Sand was still lodged in the seams of my boots.\n\nI noticed Matty's face before I knew what had happened.\n\nWyler spotted MERRICK on my name tape and grinned like someone who'd just been given the perfect punch line.\n\n\"Your son claims you're a Navy SEAL,\" he announced, holding out the microphone. \"Want to tell everyone the truth?\"\n\nI looked at the boy who'd waited for me, even after everyone else had laughed.\n\n\"I'm not a SEAL.\"\n\nThe gym erupted. Someone shouted, \"BUSTED!\" Matty covered his face.\n\nThen a metal chair screeched sharply against the floor.\n\nAt the neighboring booth, a gray-bearded man wearing a gold SEAL Trident shot to his feet so suddenly that coffee spilled across his table. His gaze remained locked on my face. He wasn't laughing.\n\n\"Lieutenant,\" he said, loud enough to silence the entire gym, \"do you have any idea who you're speaking to?\"\n\nAnd for the first time that morning, Lieutenant Wyler couldn't find a single word.\n\nNEXT PART and the FULL ENDING are coming. Type ‘RULE’ and press ‘LIKE’ so we can post full story. Your [LIKE] helps these honest stories reach the people who need them most. Thank you for the support.",
+    "wp_media_id": 778,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-1839-nl.jpg"
+   },
+   "source_key": "post:61585117295331_122154798591170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-20 21:00": {
    "langs": {},
@@ -9594,6 +9610,14 @@
    "page_id": "61582058363232",
    "slot": "2026-11-02 00:00",
    "status": "used"
+  },
+  "post:61585117295331_122154798591170576": {
+   "fingerprint": "e296fb35aa45f652de5a",
+   "link": "https://www.facebook.com/story.php?story_fbid=122154798591170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-20 18:39",
+   "status": "reserved"
   },
   "post:61585117295331_122155558209170576": {
    "fingerprint": "dc17e24a0cd4e4d73974",
