@@ -5,6 +5,7 @@
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
   "0ad80be2e1cea7e03b4f": "2026-11-20T16:46:26+00:00",
   "0be13b58727dd30b5837": "2026-11-17T17:52:42+00:00",
+  "1674a1862ef8141ef8d2": "2026-11-20T19:26:13+00:00",
   "183e5b82cea64a1af2e4": "2026-11-20T16:46:26+00:00",
   "18b10ac52aef32d53a3b": "2026-11-20T16:46:26+00:00",
   "197afdcf4ca2d2cf2e80": "2026-11-19T10:26:49+00:00",
@@ -32,6 +33,7 @@
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
   "697bf1e866b0d768ab37": "2026-11-18T22:49:45+00:00",
   "6d23ba98be07175e84bf": "2026-11-20T14:41:48+00:00",
+  "6f7aeb7cd42f63728918": "2026-11-20T19:26:13+00:00",
   "704e349d3d23b38ec128": "2026-11-19T14:08:16+00:00",
   "70c05379b999f4d41de6": "2026-11-18T15:24:21+00:00",
   "72cfa8c608946a546f2e": "2026-11-18T18:56:12+00:00",
@@ -46,6 +48,7 @@
   "93c7cd65e2a500a2cf38": "2026-11-18T08:52:49+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
   "95d798f47b5adbd505b6": "2026-11-19T17:36:01+00:00",
+  "99e8d9f189af8f08dfeb": "2026-11-20T19:26:13+00:00",
   "9e9961bac78dda63c754": "2026-11-17T00:19:13+00:00",
   "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
   "a6fdd2c0df68079b8482": "2026-11-18T18:56:12+00:00",
@@ -61,6 +64,7 @@
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "cfa7b21c90a2cad9b78e": "2026-11-18T08:52:49+00:00",
+  "d305c96ab228138b6cd5": "2026-11-20T19:26:13+00:00",
   "d3eb8ba6065409a69dcd": "2026-11-20T16:46:26+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e1b66eb6a566198daa27": "2026-11-17T17:52:42+00:00",
@@ -4439,7 +4443,95 @@
    }
   },
   "2026-11-21 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "رمى أخي ملابسي على العشب يوم دفن أبينا وقال: \"هذا لم يعد بيتك\"، لكنه لم يعرف ما كتبه أبي في وصيته",
+     "warnings": [
+      "длина текста FB 755 слов (исходник 974, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 492,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hermano tiró mi ropa al césped el día del funeral de papá, sin saber que su testamento me dejaba 9,5 millones",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 490,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Fratele meu mi-a aruncat hainele pe gazon în ziua înmormântării tatei, dar nu știa ce scrie în testament",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 491,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Брат выбросил мои вещи на лужайку в день похорон отца, не зная, что всё его наследство в 9,5 миллиона долларов досталось мне",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 489,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/911573217_1715495133302512_2503751708789572405_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TBO9kwLiKsgQ7kNvwGwLssF&_nc_oc=AdpEUIIgx1AiD5nrtnAVFweoKSH5kg5SK-p38dNjzLqUmCpieLtL0Jb9s8JU7eWyTt4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=LKW54bPUT-RSA0jv6CmOug&_nc_tpa=Q5bMBQKwLDayJGtHrD85XlXXRcd88J8dS2gm8qZXZlf1mZrZxXixFlubkn91AnXxAbttywiVCVkXpupBhQ&oh=00_AQRk14VRPnul_bd-d7my_tkkSTuNNaFarMbWzO6KB1RMSQ&oe=6B06733F",
@@ -4451,7 +4543,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-0000-mix.jpg"
    },
    "source_key": "post:100045261260562_1715615996623759",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4536,7 +4628,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-21 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1717199963132029": {
    "fingerprint": "ffa95c95fe862fb1b317",
