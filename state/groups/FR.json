@@ -38,6 +38,7 @@
   "b120e497dba6ca6aff31": "2026-11-10T22:02:37+00:00",
   "bb2f93acd716a89559fd": "2026-11-16T10:16:47+00:00",
   "bb6775e0f7693f38a811": "2026-11-16T20:28:20+00:00",
+  "bdb644c483d6549c1d00": "2026-11-20T19:26:23+00:00",
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
   "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00",
@@ -8513,7 +8514,75 @@
    }
   },
   "2026-11-21 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle a envoyé 60 dollars à sa belle-sœur qui en exigeait 30 000 : giflée, frappée et chassée de sa propre maison, elle a découvert le secret que son mari cachait",
+     "warnings": [
+      "длина текста FB 2511 слов (исходник 2074, цель ±10%)",
+      "в тексте упоминается AI/перевод — проверьте"
+     ],
+     "wp_error": null,
+     "wp_id": 817,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/907920092_1717054596479899_7464627125747937046_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XHxebesm0a8Q7kNvwEtr34f&_nc_oc=AdpEZQ5oHggTZ1pkziCrBujdaJyw-Ms7Fetk0g3izrAnd8Dv5dFd5taGEtpTHld8lQY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hfGZ2J8dENtTUP1tPlQSbA&_nc_tpa=Q5bMBQIOHOzbWWKLJBCy6yWzWJ8Gxdoke9bTPLozXKWPOpSEONdMBlQE2cgRp4D6_21Lu4JkgxQ88RQiPw&oh=00_AQRWoz3hmH584v3pfAViMipOXoFtwKMP_fSF3EaBSL5uwg&oe=6B06632E",
@@ -8525,7 +8594,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-0000-fr.jpg"
    },
    "source_key": "post:100045261260562_1717055716479787",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -8812,7 +8881,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-21 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1718132079705484": {
    "fingerprint": "3460b0ad36391709df64",
