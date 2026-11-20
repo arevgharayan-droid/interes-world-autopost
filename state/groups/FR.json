@@ -8352,21 +8352,25 @@
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144085806738075_1546328730655034",
        "error": null,
        "last_attempt": "2026-11-20T21:08:59+04:00",
        "mode": "immediate",
        "photo_id": "122144085782738075",
        "post_id": "1041497042386258_122144085806738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109488702457428_1461368295381045",
        "error": null,
        "last_attempt": "2026-11-20T21:10:20+04:00",
        "mode": "immediate",
        "photo_id": "122109488678457428",
        "post_id": "1058598924006917_122109488702457428",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -8381,12 +8385,14 @@
       },
       "1103884436136482": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105535590536887_1682375579957803",
        "error": null,
        "last_attempt": "2026-11-20T21:08:20+04:00",
        "mode": "immediate",
        "photo_id": "122105535566536887",
        "post_id": "1103884436136482_122105535590536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
@@ -8434,12 +8440,14 @@
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130122103425731_1004182269422888",
        "error": null,
        "last_attempt": "2026-11-20T21:09:40+04:00",
        "mode": "immediate",
        "photo_id": "122130122079425731",
        "post_id": "1280413955154689_122130122103425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Elle pleurait son mari en route vers ses obsèques, on l'a reléguée au dernier rang de l'avion, puis le commandant de bord s'est agenouillé devant elle",
@@ -8496,7 +8504,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-2100-fr.jpg"
    },
    "source_key": "post:61554699685419_122290708202156656",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
