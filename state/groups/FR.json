@@ -8322,7 +8322,10 @@
      "title": "Elle pleurait son mari en route vers ses obsèques, on l'a reléguée au dernier rang de l'avion, puis le commandant de bord s'est agenouillé devant elle",
      "warnings": [
       "длина статьи 956 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 794,
+     "wp_status": "future"
     },
     "IT": {
      "pages": {},
@@ -8357,6 +8360,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/913490569_122290680752156656_3439261606823331097_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-AK25Z7htSAQ7kNvwEl0v0d&_nc_oc=Adq9uQHMBxd_rPYfGyH-SI0yf2UDTCpiq4e0cT5_qTBaej8GGFDlSyoPCFoexUiUhhY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=NDCqqOK59PxXJPzZQAM1PQ&_nc_tpa=Q5bMBQKmGBZBKJG_4pCs62qA9o4SDaCeXNXA9ND77RAFzYD6giiMbPaWVFJuzNVGlrocMFZR8FwI7I8i_w&oh=00_AQSs7SQlBa-tnn0NcNG-89COIQKkAzRUKsQUEM_rp8eQnQ&oe=6B063714",
@@ -8368,7 +8372,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-2100-fr.jpg"
    },
    "source_key": "post:61554699685419_122290708202156656",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -8758,7 +8762,7 @@
    "origin": "manual",
    "page_id": "61554699685419",
    "slot": "2026-11-20 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61559846438723_122235736226328214": {
    "fingerprint": "98d150943fe56597b6ba",
