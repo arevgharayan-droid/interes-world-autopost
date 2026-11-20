@@ -8893,12 +8893,13 @@
       "1028964020310052": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122132509623310273_1416596993576475",
        "error": null,
        "last_attempt": "2026-11-20T02:07:56+04:00",
        "mode": "schedule",
        "photo_id": "122132509593310273",
        "post_id": "1028964020310052_122132509623310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
