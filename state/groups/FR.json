@@ -8294,7 +8294,23 @@
   "2026-11-20 21:00": {
    "langs": {},
    "slot_iso": "2026-11-20T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/913490569_122290680752156656_3439261606823331097_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-AK25Z7htSAQ7kNvwEl0v0d&_nc_oc=Adq9uQHMBxd_rPYfGyH-SI0yf2UDTCpiq4e0cT5_qTBaej8GGFDlSyoPCFoexUiUhhY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=NDCqqOK59PxXJPzZQAM1PQ&_nc_tpa=Q5bMBQKmGBZBKJG_4pCs62qA9o4SDaCeXNXA9ND77RAFzYD6giiMbPaWVFJuzNVGlrocMFZR8FwI7I8i_w&oh=00_AQSs7SQlBa-tnn0NcNG-89COIQKkAzRUKsQUEM_rp8eQnQ&oe=6B063714",
+    "link": "https://www.facebook.com/story.php?story_fbid=122290708202156656&id=61554699685419",
+    "origin": "manual",
+    "page_id": "61554699685419",
+    "text": "A passenger complained because I couldn't stop crying, so a flight attendant moved me from first class to the last row beside the bathrooms. I was traveling alone to bury my husband. But later, the captain emerged from the cockpit, walked through the plane searching for someone, and knelt beside me. 💔\n\nI'm seventy-six years old.\n\nWalt and I were married for fifty-three wonderful years.\n\nHe served twenty-two years in the Navy, reaching the rank of chief, before spending another twenty-one years teaching high school students woodworking and shop skills.\n\nLast October, he passed away in his favorite recliner, an unfinished crossword puzzle lying across his lap.\n\nWalt had always wanted to be laid to rest in his home state of Virginia, with the military honors he deserved.\n\nSo I boarded a flight from Phoenix to Norfolk by myself.\n\nMy daughter had used her frequent-flyer miles to book me a first-class ticket.\n\nI'd never traveled in first class before.\n\nBut the comfortable seat couldn't make up for the empty space beside me.\n\nFor fifty-three years, whenever Walt and I flew together, he insisted on sitting in the middle so I could have the aisle and stretch my aching knees.\n\nNow I was taking my very first flight without him.\n\nAs we traveled somewhere above New Mexico, I opened my handbag and took out his old wooden folding ruler.\n\nWalt had carried it for forty years.\n\nAt nineteen, while serving aboard a Navy destroyer, he'd carved his initials into the wood.\n\nI wanted nothing more than to hold something he'd touched so many times.\n\nBut then the tears came.\n\nI wasn't sobbing or disturbing anyone.\n\nI simply couldn't hold them back after eleven days of trying to remain strong for our family.\n\nThe businessman in seat 3C pulled out one of his earbuds, gave me an annoyed glance, and pressed the flight attendant button.\n\n\"Could you move this lady somewhere else? She's been crying for twenty minutes. I bought a first-class ticket because I need to work.\"\n\nA young flight attendant came over and knelt beside my seat.\n\nI quietly explained that I was on my way to my husband's funeral.\n\nShe offered a sympathetic smile.\n\n\"There are a few empty seats toward the rear. You might have more privacy back there.\"\n\nI should have said no.\n\nI'd done nothing wrong.\n\nBut I'd been raised to believe that a woman should never make herself a burden to others.\n\nSo I agreed.\n\nThe attendant picked up my purse and led me toward the back.\n\nWe passed through the first-class curtain.\n\nThen we walked past rows of passengers who briefly glanced at my tear-stained face before returning to their screens.\n\nFinally, we reached row 32.\n\nThe final row on the airplane.\n\nMy seat wouldn't lean back, and the restroom doors kept opening and banging shut just behind me.\n\nThe attendant handed me some water and a little packet of pretzels before walking away.\n\nI leaned my forehead against the chilly window.\n\nAnd one thought kept running through my mind.\n\nMy husband had willingly sat in the cramped middle seat for fifty-three years because he wanted me to be comfortable.\n\nYet on the first flight I took after his death, I'd been sent to the back of the plane because my sadness inconvenienced a stranger.\n\nNearly an hour later, an older flight attendant named Denise stopped beside me.\n\nWe began talking, and she mentioned that her father had also served as a Navy chief.\n\nThen she asked what my husband's name was.\n\nI told her.\n\nHer expression changed immediately.\n\nShe stood motionless for a moment before speaking.\n\n\"Stay right here, sweetheart.\"\n\nThen she hurried toward the front of the aircraft.\n\nTen minutes passed.\n\nSuddenly, the passengers around me grew quiet.\n\nA tall man wearing a pilot's uniform, with four gold stripes on his shoulders, was making his way slowly down the aisle.\n\nHe paused at each row, carefully looking at the passengers as though trying to find someone.\n\nEventually, he arrived at the very back.\n\nHis eyes met mine.\n\nHe stopped.\n\nThen he removed his cap.\n\nAnd right there, with approximately 160 passengers watching, the captain lowered himself onto one knee beside my seat.\n\nHe looked directly at me.\n\nThen he addressed me using a nickname that only Walt had ever called me throughout our fifty-three years together. The rest of the story is waiting in the comments below. Drop a “YES” and give us a Like if you're ready to find out!",
+    "wp_media_id": 788,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-2100-fr.jpg"
+   },
+   "source_key": "post:61554699685419_122290708202156656",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 00:00": {
    "langs": {},
@@ -8671,6 +8687,14 @@
    "page_id": "61552132650894",
    "slot": "2026-11-20 00:30",
    "status": "used"
+  },
+  "post:61554699685419_122290708202156656": {
+   "fingerprint": "c9180de32d76bbf1c425",
+   "link": "https://www.facebook.com/story.php?story_fbid=122290708202156656&id=61554699685419",
+   "origin": "manual",
+   "page_id": "61554699685419",
+   "slot": "2026-11-20 21:00",
+   "status": "reserved"
   },
   "post:61559846438723_122235736226328214": {
    "fingerprint": "98d150943fe56597b6ba",
