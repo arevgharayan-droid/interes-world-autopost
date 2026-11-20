@@ -40,6 +40,7 @@
   "cad5cdd2ed73c48ea1dc": "2026-11-09T20:01:56+00:00",
   "cb24f2fe5112af4485e2": "2026-11-12T09:03:54+00:00",
   "ce058a0bf1cf5d38a3da": "2026-11-18T08:51:57+00:00",
+  "d09bc66b258d0b539a07": "2026-11-20T22:45:45+00:00",
   "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
   "d1e7d87ca5c11863154f": "2026-11-19T17:52:25+00:00",
   "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00",
@@ -12387,7 +12388,74 @@
    }
   },
   "2026-11-21 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "For 11 Winters I Secretly Shoveled the Neighborhood Grinch's Driveway, Then I Found Him Frozen on His Steps and Learned What He Had Hidden From Me",
+     "warnings": [
+      "длина статьи 975 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 836,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/915850570_122155952529170576_4625711809493234961_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XXQ8W6k-_TcQ7kNvwHe13vG&_nc_oc=Ado4jlb2ixkobLg7BIZQi6L-IVlEbROz71qZRnTcrRz_0A2sUms_1VKRAPt1VVcvEAM&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=uEDgWCBBXLIld9M2mdqzzg&_nc_tpa=Q5bMBQKjqhIYzkPYTzqMsalJVUsWIOH3j3a3Z5LtuKdlzTkKbcTbBviWvfhbgH4PwD6hvoGOq2N4pPtGAg&oh=00_AQTp5EBSGUfrV6agtGmt-vAQFc_hTxSVJJrtW1pwj7XUXA&oe=6B06948A",
@@ -12399,7 +12467,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1200-en.jpg"
    },
    "source_key": "post:61585117295331_122155952859170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12894,7 +12962,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-21 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
