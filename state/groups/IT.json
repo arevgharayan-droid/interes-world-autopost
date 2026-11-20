@@ -31,6 +31,7 @@
   "60f9c89309a199527b79": "2026-11-17T18:29:53+00:00",
   "628ca1701fa9d7a8990a": "2026-11-16T16:01:05+00:00",
   "66a2647af0e1f8e411ad": "2026-11-17T20:38:41+00:00",
+  "687b58d7f631c7172828": "2026-11-20T19:26:25+00:00",
   "6884b2c23c3fd385192c": "2026-11-19T22:00:47+00:00",
   "68ca5e3edbe7ee1a0e42": "2026-11-19T10:26:56+00:00",
   "6952b5032d1e9adae87b": "2026-11-09T20:00:59+00:00",
@@ -66,6 +67,7 @@
   "9cbea19285daf02db497": "2026-11-15T10:15:15+00:00",
   "9de178bf596b4ce2bdc8": "2026-11-16T19:28:24+00:00",
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
+  "a422bdb38f331c5fee32": "2026-11-20T19:26:25+00:00",
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
   "a52a4b60aa043581ace2": "2026-11-17T18:29:53+00:00",
   "a6ab527d80c6afd66a30": "2026-11-18T22:36:42+00:00",
@@ -83,6 +85,7 @@
   "c3a669114cbd1e96b360": "2026-11-12T10:26:53+00:00",
   "c8020142d83ca272273c": "2026-11-16T00:18:19+00:00",
   "cf29e5e2e8b5770866b0": "2026-11-16T10:16:33+00:00",
+  "d2bd36c62fe9db3a15cc": "2026-11-20T19:26:25+00:00",
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
   "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
   "d4cab6ef35142d4bedc3": "2026-11-19T10:26:56+00:00",
@@ -15692,7 +15695,88 @@
    }
   },
   "2026-11-21 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Snoubenka mého syna mě na zásnubách před třiceti hosty polila hadicí a smála se mi. Netušila, že všechno natáčím a že jsem matka jejího budoucího manžela",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 820,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi ha inzuppata con un tubo da giardino davanti a trenta invitati, ma non sapeva che fossi la madre dello sposo e che il mio telefono stesse registrando tutto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 818,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Oblała ją wodą z węża na zaręczynach syna, nie wiedząc, że to jego matka, a telefon w torbie nagrał wszystko",
+     "warnings": [
+      "длина текста FB 1201 слов (исходник 1430, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 819,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/895091366_1707342277451131_1552055766802902072_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=Qt3NsqeO_U8Q7kNvwHb0MvR&_nc_oc=AdrHCul4GYvNjuVGiw0UC2-1sn_dNP65QTwHNVRZSKog6Axrzdpbg2R4Tu74VRHQGl0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AMAeTUEEAAAA&_nc_gid=xj5dgE4a1zcSIo_RO5bTIA&_nc_tpa=Q5bMBQIBXi4CkA9tg0lrIWrhnW35e1VoWcSDCSxJdJvuStDoRCzrlkrQqVbHvI5-vgo7PEWmIwvv8NNhMw&oh=00_AQSCgjY2jP41yOC4vu3G4y0qmeVt5CWY-R8Hcrf1tgwO8g&oe=6B068730",
@@ -15704,7 +15788,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-0000-it.jpg"
    },
    "source_key": "post:photo_1707342274117798",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -16348,7 +16432,7 @@
    "origin": "manual",
    "page_id": "622403774625234",
    "slot": "2026-11-21 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_1710175797167779": {
    "fingerprint": "b3bf9cdbb9e93b3a6ac3",
