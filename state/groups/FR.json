@@ -38,6 +38,7 @@
   "b120e497dba6ca6aff31": "2026-11-10T22:02:37+00:00",
   "bb2f93acd716a89559fd": "2026-11-16T10:16:47+00:00",
   "bb6775e0f7693f38a811": "2026-11-16T20:28:20+00:00",
+  "bc0fa73c3a728155dad8": "2026-11-20T22:45:41+00:00",
   "bdb644c483d6549c1d00": "2026-11-20T19:26:23+00:00",
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
   "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
@@ -8735,7 +8736,72 @@
    }
   },
   "2026-11-21 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Après 15 ans d'armée, je suis rentrée et j'ai trouvé ma mère de 76 ans endormie sur un matelas crasseux dans une grange, pendant que mon frère profitait de sa maison",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 835,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/904731882_1715056323346393_8352133781206523457_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4m5ry6FewXgQ7kNvwHQGIS0&_nc_oc=AdqPZ2v34IHQQDgxwV99oI7BOQogoe7N3mymMKNuZEba9Zyhs3FrDulfYbb67JJXRLk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KQsWvtrjpZh_yF_KqpRNoA&_nc_tpa=Q5bMBQLKqp6jTjamCfmAjyST_KY4GCgnt4YrNFnQZl7TdKqifMjmuzacgvwdYGR_7HAQl-M7E9DKWQdaTw&oh=00_AQSoaQ_fhtjBM0h_scwQ6rkUeN6qNpoY91xK5jsB7f8hDA&oe=6B06861C",
@@ -8747,7 +8813,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1200-fr.jpg"
    },
    "source_key": "post:100045261260562_1715056463346379",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -9035,7 +9101,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-21 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1717055716479787": {
    "fingerprint": "4c45bbe94f77fb77f695",
