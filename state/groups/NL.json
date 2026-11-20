@@ -18,7 +18,9 @@
   "16dff82487a20e2b89e6": "2026-11-10T22:04:40+00:00",
   "17a667176c2b4e39c2f0": "2026-11-16T20:28:19+00:00",
   "18ce6ab9d592b0877673": "2026-11-14T11:39:08+00:00",
+  "1ae2df6170635ea8dab2": "2026-11-20T22:46:03+00:00",
   "20a7a509199cfbe519fc": "2026-11-15T14:18:37+00:00",
+  "25b78f14c93b0017d12c": "2026-11-20T22:46:03+00:00",
   "282775455f9afac79cda": "2026-11-10T22:03:35+00:00",
   "2c102128a6bdf6cc4b13": "2026-11-16T16:00:57+00:00",
   "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
@@ -9934,7 +9936,72 @@
    }
   },
   "2026-11-21 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nach neun Monaten Einsatz fand sie ihr ganzes Leben in Müllsäcken – doch die Urkunde ihres Großvaters änderte alles",
+     "warnings": []
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na negen maanden uitzending vond ze haar hele leven in vuilniszakken, maar haar ouders wisten niet wiens huis het écht was",
+     "warnings": []
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-21T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/899614044_122154523857170576_661354670448290514_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MrZlI_Z6vJQQ7kNvwHSIBDS&_nc_oc=AdoqbiywQ0z3KjGJlEFYgb-kd1yMFj-mZJJC_vLlruG9RGzcLoVPaorWV4tH-zGe2u4&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=WwHJ7eMpA16mIoNGzpUCZA&_nc_tpa=Q5bMBQLIrSPQpCo7r0czCVqo08V3cjfDDSAu_qOkPyhqkcspfNR9FooOJddn1ThSDmi0bnnhQjOBvzLyfw&oh=00_AQSHDrZReUBL52n8sNON-pnqXb8ZtLTn6IWRVd-b3l5TWQ&oe=6B068DC3",

@@ -16157,7 +16157,10 @@
      "title": "Hodiny před smrtí mi otčím vtiskl do dlaně útržek papíru: „Jeď tam. Hned.\" Když se otevřely dveře, vykřikla jsem",
      "warnings": [
       "длина текста FB 320 слов (исходник 396, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 839,
+     "wp_status": "future"
     },
     "DE": {
      "pages": {},
@@ -16222,6 +16225,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-21T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/899906718_122154606591170576_3144866042624380273_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8Yrxos0BHwcQ7kNvwFY8_bY&_nc_oc=AdotiCh_lCFB9MFMzB5B_l_2SyAPw8q6fpsKEoG6Xpo46JwgWYU7XwFar2D304lqmFE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xW4JhbkTrlLNccUk1_rLPw&_nc_tpa=Q5bMBQIWPpjedsYECYcyciBF8ZpVkhJdlmls5qmEaEHuRWKFEhLLG3jMa_SvZ-7ze_alzKjSw2xWI4m2Tg&oh=00_AQSCMytft0ZZhneqAXKBiOkMCzlM7E58zTicx93k_xm6ag&oe=6B069C3F",
@@ -16233,7 +16237,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1200-it.jpg"
    },
    "source_key": "post:61585117295331_122154606699170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -16701,7 +16705,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-21 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122154988611170576": {
    "fingerprint": "cb3788d7d4ffa733852b",
