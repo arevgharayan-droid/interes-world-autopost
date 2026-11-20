@@ -15352,7 +15352,23 @@
   "2026-11-21 12:00": {
    "langs": {},
    "slot_iso": "2026-11-21T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/920847267_122216545544841094_1688973052023056973_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZRmjH7WlkD0Q7kNvwFEmDC2&_nc_oc=AdqpBbev9ESN3aJIrvBCNitjYmFmVIhDh33VMlkeXsEDH-TwK_wxtIU8coW_MlqjDyo&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=kU17dXStvJ5RU4Ykul0DzQ&_nc_tpa=Q5bMBQIKwAt8enbs6RTVXGg3MsJ2Eogzr7RpoAphdLBtLMAfUooI7OaqZnFOHogJkNbtgmCnDcCsGMkw1g&oh=00_AQSGj7w508hXihjwgM7xXnxUEdGF5IoaRbBU0MUAgM_r2g&oe=6B068812",
+    "link": "https://www.facebook.com/story.php?story_fbid=122216545568841094&id=61575232821594",
+    "origin": "manual",
+    "page_id": "61575232821594",
+    "text": "At 65, I walked into a bank to withdraw the $3,000 my ex-husband had given me when he abandoned our 37-year marriage. I hadn't touched a penny in five years, even when I was starving. But when the teller checked the account, her face went pale. “Ma'am, there's something you need to know.” Minutes later, the manager appeared holding a sealed envelope with my full name on it.\n\nFive years earlier, Gregory had walked away from me as though nearly four decades together meant absolutely nothing.\n\nOutside a Minneapolis courthouse, moments after our divorce became final, he pressed a bank card into my trembling hand. “Keep it,” he said coldly. “There's $3,000 on there. It should help you get by.”\n\nI stared at the man I'd loved, cooked for, cared for, and built a family with. He turned and walked down the courthouse hallway without looking back once.\n\nI refused to let him see me cry.\n\nThat afternoon, I packed what little I owned and moved into a tiny rented room with water stains on the ceiling. Every winter, icy air slipped through the rattling window, and I slept beneath two worn blankets to stay warm.\n\nI cleaned strangers' kitchens until my hands cracked. I watched parked cars outside a pharmacy for spare change and collected empty bottles and cardboard whenever I couldn't afford groceries.\n\nSome nights, dinner was nothing but hot tea.\n\nMy children helped whenever they could, but they had mortgages, children, and bills of their own. Whenever they asked how I was managing, I forced a smile and whispered, “I'm doing just fine, sweetheart.”\n\nBut I wasn't fine.\n\nThrough every hungry night and every overdue bill, Gregory's bank card remained untouched inside an old wooden box. That $3,000 felt like the price he'd placed on 37 years of my love, sacrifice, and loyalty.\n\nI would rather go hungry than let him believe he'd bought his way out of everything we'd shared.\n\nThen, five years later, my body finally gave me a warning I couldn't ignore.\n\nI nearly collapsed outside my front door. At the clinic, the doctor studied my test results and said, “You can't keep putting off treatment. Your condition could become much harder to manage.”\n\nThat evening, I opened the wooden box and held Gregory's card beneath my kitchen lamp. Its edges were worn, and my hands looked older than I remembered.\n\nFor the first time, I considered using his money.\n\nPerhaps $3,000 could cover the first hospital payment, buy my prescriptions, or give me enough time to get proper treatment. Pride suddenly seemed less important than staying alive.\n\nThe next morning, I put on my carefully mended shoes, picked up my patched handbag, and entered the bank.\n\nEveryone around me looked comfortable and confident. I felt painfully out of place as I approached the counter and handed the young teller my card.\n\n“I'd like to withdraw everything,” I said quietly.\n\nShe typed something into her computer, paused, and tried again. Her expression changed so suddenly that my stomach tightened.\n\n“Ma'am... this account doesn't contain $3,000.”\n\nMy chest went cold. Had Gregory deceived me one final time?\n\n“Then how much is there?” I whispered.\n\nInstead of answering, she picked up the telephone. Moments later, the bank manager approached in a navy suit, carrying a sealed envelope bearing my full name.\n\nShe looked at me with an expression I couldn't understand.\n\nThen she placed the envelope on the counter, and I noticed her hands were trembling too.\n\nWhatever Gregory had hidden from me had been waiting in this bank for five years.\n\nThank you for your understanding and support! If you want to see the full story, please comment “YES” below, give us a LIKE, and FOLLOW our page so you don’t miss the rest of the story!\n\nWe were genuinely moved by this one. Curious how it lands with you — the story continues just below 👇",
+    "wp_media_id": 500,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-1200-ru.jpg"
+   },
+   "source_key": "post:61575232821594_122216545568841094",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 15:00": {
    "langs": {},
@@ -15807,6 +15823,14 @@
    "page_id": "61574270220252",
    "slot": "2026-11-10 00:00",
    "status": "used"
+  },
+  "post:61575232821594_122216545568841094": {
+   "fingerprint": "ee7ffb545c2cdbab26ca",
+   "link": "https://www.facebook.com/story.php?story_fbid=122216545568841094&id=61575232821594",
+   "origin": "manual",
+   "page_id": "61575232821594",
+   "slot": "2026-11-21 12:00",
+   "status": "reserved"
   },
   "post:61576792898556_122130707162893096": {
    "fingerprint": "3d9e42965d1ca564a559",

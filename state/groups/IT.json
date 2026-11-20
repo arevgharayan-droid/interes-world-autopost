@@ -16143,7 +16143,23 @@
   "2026-11-21 12:00": {
    "langs": {},
    "slot_iso": "2026-11-21T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/899906718_122154606591170576_3144866042624380273_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8Yrxos0BHwcQ7kNvwFY8_bY&_nc_oc=AdotiCh_lCFB9MFMzB5B_l_2SyAPw8q6fpsKEoG6Xpo46JwgWYU7XwFar2D304lqmFE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xW4JhbkTrlLNccUk1_rLPw&_nc_tpa=Q5bMBQIWPpjedsYECYcyciBF8ZpVkhJdlmls5qmEaEHuRWKFEhLLG3jMa_SvZ-7ze_alzKjSw2xWI4m2Tg&oh=00_AQSCMytft0ZZhneqAXKBiOkMCzlM7E58zTicx93k_xm6ag&oe=6B069C3F",
+    "link": "https://www.facebook.com/story.php?story_fbid=122154606699170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "My stepdad raised me after I lost my mother — just hours before he died, he gripped my hand and whispered, \"There’s something I’ve hidden from you your entire life.\"\nI was four when Frank married my mother. She passed away not long afterward, but he never abandoned me.\nHe walked me down the aisle. He stood proudly beside me at my daughter’s christening. Even after I was grown, he would sometimes surprise me with the apple pancakes I had adored as a child.\nFrank wasn’t just my stepfather.\nHe was my dad.\nSo when his health began failing rapidly, I barely left his hospital bedside.\nThe night the doctor told me he had only hours left, Frank suddenly closed his hand around my wrist.\n\"Promise you’ll listen before you decide to hate me.\"\n\"I could never hate you.\"\nHis icy fingers tightened against my skin.\n\"I’ve lied to you your entire life. Everything you believe about your childhood — and about who I am — is a lie.\"\nThe room seemed to tilt beneath me, but I forced a nervous smile.\n\"Dad, you’re not making sense. Should I call the doctor?\"\nFrank slowly shook his head.\n\"My mind is perfectly clear. I need you to learn the truth before I die, even though someone begged me to carry it to my grave.\"\nQuestions collided inside my head. Before I could ask a single one, Frank pressed a folded scrap of paper into my palm and pushed my hand away.\n\"Go there. Now.\"\nTears slipped into his gray stubble.\nThose were the last words he ever spoke to me.\nI stumbled into the hallway and unfolded the paper with trembling hands. An address had been scrawled across it.\nThe house was only a short drive from Frank’s home — the place where I had spent nearly my entire childhood.\nEvery instinct told me not to go, but I couldn’t deny him his final request.\nTwenty minutes later, I stopped outside an ordinary-looking house.\nAs I approached the porch, I silently rehearsed an apology for disturbing strangers so late at night.\nBut the moment my knuckles touched the door, it swung wide open.\nAnd when I saw the person waiting behind it, I screamed. - Leave a \"YES\" and a \"Like\" to unlock the full story. The complete piece is down below",
+    "wp_media_id": 829,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1200-it.jpg"
+   },
+   "source_key": "post:61585117295331_122154606699170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 15:00": {
    "langs": {},
@@ -16598,6 +16614,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-13 00:00",
    "status": "used"
+  },
+  "post:61585117295331_122154606699170576": {
+   "fingerprint": "c5d592a39ff41d658681",
+   "link": "https://www.facebook.com/story.php?story_fbid=122154606699170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-21 12:00",
+   "status": "reserved"
   },
   "post:61585117295331_122154988611170576": {
    "fingerprint": "cb3788d7d4ffa733852b",

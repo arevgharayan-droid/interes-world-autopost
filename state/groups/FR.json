@@ -8737,7 +8737,23 @@
   "2026-11-21 12:00": {
    "langs": {},
    "slot_iso": "2026-11-21T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/904731882_1715056323346393_8352133781206523457_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4m5ry6FewXgQ7kNvwHQGIS0&_nc_oc=AdqPZ2v34IHQQDgxwV99oI7BOQogoe7N3mymMKNuZEba9Zyhs3FrDulfYbb67JJXRLk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KQsWvtrjpZh_yF_KqpRNoA&_nc_tpa=Q5bMBQLKqp6jTjamCfmAjyST_KY4GCgnt4YrNFnQZl7TdKqifMjmuzacgvwdYGR_7HAQl-M7E9DKWQdaTw&oh=00_AQSoaQ_fhtjBM0h_scwQ6rkUeN6qNpoY91xK5jsB7f8hDA&oe=6B06861C",
+    "link": "https://www.facebook.com/story.php?story_fbid=1715056463346379&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "After 15 Years of Military Service, I Returned Home and Discovered My 76-Year-Old Mother Sleeping on a F!lthy Mattress Inside a Barn While My Brother Enjoyed Living in Her House. “SHE'S NOTHING BUT A BURDEN NOW. YOU CAN TAKE HER IF YOU WANT HER!” He Declared Without the Slightest Shame. But His Crvelty Wasn't What Hurt Me Most. It Was Hearing My Mother's Shaking Voice as She Whispered, “I'm Sorry, Sweetheart. I Tried to Be Good So They'd Let Me Back Inside.” I Wrapped My Arms Around Her, Struggling to Hold Back Tears. Then She Revealed Something About My Late Father That My Brother Had Been Desperate to Conceal...\n\n“SHE'S SEVENTY-SIX, EMILY. SHE CAN'T TAKE CARE OF HERSELF ANYMORE. WHAT DID YOU EXPECT ME TO DO WITH HER?”\n\nMy brother spoke those words while our mother sat on a dirty mattress in the old horse barn, dressed in a ripped sweater and holding an empty plastic water bottle.\n\nI'd just come back to Kentucky after serving fifteen years in the military, believing I'd find Mom enjoying the peaceful retirement she'd spent decades working toward.\n\nInstead, I discovered a padlock on the barn entrance and a woman who appeared almost too ashamed to meet my eyes.\n\nBut when I draped my coat over her shoulders, she gripped my sleeve and murmured something that made me look toward the farmhouse.\n\n“Emily, your brother's been signing papers with your father's name. And your father has been gone for six years.”\n\nI was fifty-one, a colonel in the United States Army, and much of my adult life had been devoted to learning how to stay calm in difficult circumstances.\n\nYet no military training could have prepared me to discover my own mother living in the building where our family once housed horses.\n\nHer name was Margaret Carter.\n\nAt seventy-six, she was a retired school secretary who'd devoted almost fifty years to making our farmhouse outside Lexington a warm, welcoming place.\n\nShe remembered everyone's birthdays, mailed handwritten notes of appreciation, and always insisted visitors eat something before leaving.\n\nWhen I'd last visited two years earlier, Mom had begun moving more slowly, but she was still determined to remain independent.\n\nShe maintained her vegetable garden, went to church every Sunday, and regularly complained that Richard wasted money on costly equipment when perfectly usable machinery was already stored in the shed.\n\nNow her silver hair was badly tangled, her fingers shook, and a fading bruise marked one wrist.\n\nThe barn carried the musty smell of damp hay and aging timber.\n\nAgainst one wall rested a thin mattress, with a plastic bowl, an old blanket, and several pieces of clothing nearby.\n\n“Mom, how long have you been staying out here?” I asked, lowering myself beside her.\n\nBefore replying, she glanced anxiously toward the entrance.\n\n“Richard said it was temporary. Just until they finished fixing up the house.”\n\nI turned my attention across the yard.\n\nThe farmhouse now had freshly installed white siding, new windows, and a beautifully renovated front porch.\n\nTwo expensive pickup trucks were parked beneath the maple trees.\n\n“When did they start fixing the house?”\n\n“Last winter, I think.”\n\nMy stomach clenched.\n\n“Mom, it's November.”\n\nShe dropped her gaze.\n\n“I know, sweetheart.”\n\nI took off my coat and carefully settled it around her shoulders.\n\nShe attempted to sit straighter, running her hands over her damaged sweater as though she felt embarrassed by how she looked.\n\n“I would've cleaned up if I'd known you were coming,” she whispered.\n\nI couldn't bear to keep looking at her.\n\nMy mother was apologizing for the state of a barn in which she should never have been forced to live.\n\nThroughout my military assignments, I'd made a habit of calling her regularly.\n\nBut over the previous year, Richard had begun answering her phone more and more often.\n\nHe claimed she was asleep, spending time with friends, or experiencing memory problems.\n\nWhenever I insisted on talking to her personally, he usually assured me she'd return my call.\n\nOccasionally, she did.\n\nBut those conversations rarely lasted long.\n\nShe always sounded exhausted and avoided giving clear answers when I asked about the ranch.\n\nI'd persuaded myself that these changes were simply part of growing older.\n\nStanding in that barn, I began questioning how many warning signs I'd failed to recognize.\n\nThen I heard footsteps approaching from behind.\n\n“Well, look who finally decided to come home.”\"",
+    "wp_media_id": 830,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1200-fr.jpg"
+   },
+   "source_key": "post:100045261260562_1715056463346379",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 15:00": {
    "langs": {},
@@ -9012,6 +9028,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-14 16:00",
    "status": "used"
+  },
+  "post:100045261260562_1715056463346379": {
+   "fingerprint": "111a7adc5ddc488e348e",
+   "link": "https://www.facebook.com/story.php?story_fbid=1715056463346379&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-21 12:00",
+   "status": "reserved"
   },
   "post:100045261260562_1717055716479787": {
    "fingerprint": "4c45bbe94f77fb77f695",
