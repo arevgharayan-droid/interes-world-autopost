@@ -4221,7 +4221,10 @@
      "generated": true,
      "pages": {},
      "title": "استيقظتُ في طوكيو فلم أجد زوجي ولا حماتي، وجواز سفري مسروق، ورحلتي ملغاة، وفاتورة الفندق ٢٧٬٦٠٠ دولار، لكن بعد يومين دخلتُ قاعة الاجتماعات ومعي ما سيحطّمهما معًا",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 473,
+     "wp_status": "future"
     },
     "CS": {
      "pages": {},
@@ -4276,7 +4279,10 @@
      "title": "M-am trezit în Tokyo fără soț, fără pașaport și cu o datorie de 27.600 de dolari la hotel, dar la 48 de ore am intrat în sala consiliului cu dovezi care i-au distrus pe el și pe soacra mea",
      "warnings": [
       "часть 1: 727 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 472,
+     "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
@@ -4298,6 +4304,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/913363881_1122025180599320_8704809112507720753_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e5c1b6&_nc_ohc=6kWFjJqjFIwQ7kNvwGpNVzr&_nc_oc=Adpn5q1b96xH52idXaVNn4u2ecjq8mLHGOKCGOolHTm0kL9RwIdy9DgnVAPN7-ByC4w&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AMAeTUEEAAAA&_nc_gid=zuAvjQX9Lc_B620n2G0v5Q&_nc_tpa=Q5bMBQLaoMKqWJau6iltRcNtzBAPjQNxxQWy3EfPh0mKUWw6601goaJTOhY1JtSBvfN9mfB7nPjnANCMSA&oh=00_AQQIqjTqQJ6TtPWChMLDrU-32laRXZFy128KUm5Z9F6zHg&oe=6B063C20",
@@ -4309,7 +4316,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261120-2100-mix.jpg"
    },
    "source_key": "post:photo_1122025177265987",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4529,7 +4536,7 @@
    "origin": "manual",
    "page_id": "114671953294029",
    "slot": "2026-11-20 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_1709093697275989": {
    "fingerprint": "6d689281bc20e6e89d54",
