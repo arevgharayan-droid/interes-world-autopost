@@ -14475,30 +14475,36 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129404761306316_2717897475291976",
        "error": null,
        "last_attempt": "2026-11-20T21:20:55+04:00",
        "mode": "immediate",
        "photo_id": "122129404737306316",
        "post_id": "1138572272664180_122129404761306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119394979471857_1610703820323767",
        "error": null,
        "last_attempt": "2026-11-20T21:20:36+04:00",
        "mode": "immediate",
        "photo_id": "122119394955471857",
        "post_id": "1338630212673029_122119394979471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122109247505599_1451563969776234",
        "error": null,
        "last_attempt": "2026-11-20T21:20:19+04:00",
        "mode": "immediate",
        "photo_id": "122122109223505599",
        "post_id": "1448441201677530_122122109247505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Vi meu marido fechar o zíper do vestido vermelho da secretária no nosso quarto, vendi minha parte por 45 milhões e deixei que ele descobrisse a verdade na sala de reuniões",
@@ -14507,6 +14513,7 @@
      ],
      "wp_error": null,
      "wp_id": 476,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RO": {
@@ -14775,12 +14782,14 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125023735304633_3613839188783619",
        "error": null,
        "last_attempt": "2026-11-20T21:19:33+04:00",
        "mode": "immediate",
        "photo_id": "122125023711304633",
        "post_id": "1083701291497481_122125023735304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
@@ -14806,12 +14815,14 @@
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124060747305562_1863207698335855",
        "error": null,
        "last_attempt": "2026-11-20T21:20:02+04:00",
        "mode": "immediate",
        "photo_id": "122124060723305562",
        "post_id": "1180583925128715_122124060747305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Kocamın sekreterinin kırmızı elbisesinin fermuarını çektiğini gördüm, sessizce yüzde 69 hissemi sattım ve yeni alıcı toplantı odasına girdiğinde Grant gerçeği öğrendi",
@@ -14840,7 +14851,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261120-2100-ru.jpg"
    },
    "source_key": "post:100083755444423_1116741441127694",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
