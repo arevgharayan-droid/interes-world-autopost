@@ -8131,21 +8131,25 @@
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144071778738075_1367959833078251",
        "error": null,
        "last_attempt": "2026-11-20T18:46:49+04:00",
        "mode": "immediate",
        "photo_id": "122144071736738075",
        "post_id": "1041497042386258_122144071778738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109484988457428_1022489800109359",
        "error": null,
        "last_attempt": "2026-11-20T18:48:10+04:00",
        "mode": "immediate",
        "photo_id": "122109484964457428",
        "post_id": "1058598924006917_122109484988457428",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -8160,12 +8164,14 @@
       },
       "1103884436136482": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105532848536887_1725236172525963",
        "error": null,
        "last_attempt": "2026-11-20T18:46:09+04:00",
        "mode": "immediate",
        "photo_id": "122105532824536887",
        "post_id": "1103884436136482_122105532848536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
@@ -8213,12 +8219,14 @@
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130105297425731_1637346028122704",
        "error": null,
        "last_attempt": "2026-11-20T18:47:30+04:00",
        "mode": "immediate",
        "photo_id": "122130105273425731",
        "post_id": "1280413955154689_122130105297425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mon beau-frère a isolé mon grenier sans me demander et voulait la moitié de ma maison, jusqu'à ce que je compose un numéro sur une carte de visite",
@@ -8275,7 +8283,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-1839-fr.jpg"
    },
    "source_key": "post:100050386034442_1719062946449890",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
