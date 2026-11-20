@@ -14418,7 +14418,10 @@
      "title": "Vi meu marido fechar o zíper do vestido vermelho da secretária no nosso quarto, vendi minha parte por 45 milhões e deixei que ele descobrisse a verdade na sala de reuniões",
      "warnings": [
       "часть 1: 691 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 476,
+     "wp_status": "future"
     },
     "RO": {
      "pages": {},
@@ -14443,13 +14446,17 @@
      "title": "Kocamın sekreterinin kırmızı elbisesinin fermuarını çektiğini gördüm, sessizce yüzde 69 hissemi sattım ve yeni alıcı toplantı odasına girdiğinde Grant gerçeği öğrendi",
      "warnings": [
       "часть 3: 409 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 475,
+     "wp_status": "future"
     },
     "UK": {
      "pages": {},
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/906181756_1116436027824902_403600268068943042_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=aQOTJqvdw9sQ7kNvwEIeriR&_nc_oc=Adr9IEGWSArTuuwZ9DgO9AgTHSOKtwObDAZfXb_ZoPdNhFuppJGQ-0e3TL4CYEPrgB8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=qxR_--uBvfRhAHPbkSR9EA&_nc_tpa=Q5bMBQIxYw-u83kE0WuicvaDHjlIXtMx6Rq8QqH2dFrTINrqegE6xhbK4BjYqvOQDJe0XuiQWx1TGR-vBw&oh=00_AQSsfGqtu0mK7ZaAaaQtR-liGwWIc9iQ0ODk0S0HdCi1IA&oe=6B065079",
@@ -14461,7 +14468,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261120-2100-ru.jpg"
    },
    "source_key": "post:100083755444423_1116741441127694",
-   "status": "preparing",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -14847,7 +14854,7 @@
    "origin": "manual",
    "page_id": "100083755444423",
    "slot": "2026-11-20 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122102285582536431": {
    "fingerprint": "ee49e5bda02151657312",
