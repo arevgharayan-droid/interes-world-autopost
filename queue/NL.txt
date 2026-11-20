@@ -103,3 +103,5 @@ https://www.facebook.com/photo/?fbid=1707746027410756
 https://www.facebook.com/story.php?story_fbid=122154798591170576&id=61585117295331
 # 20.11.2026: 21:00
 https://www.facebook.com/story.php?story_fbid=1715932000096318&id=100050386034442
+# 21.11.2026: 00:00
+https://www.facebook.com/story.php?story_fbid=1114688324666339&id=100083755444423
