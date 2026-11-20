@@ -42,6 +42,7 @@
   "43fc1331d6fb4f0c421e": "2026-11-17T20:47:52+00:00",
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
   "46493e9155ece290d86b": "2026-11-19T10:26:47+00:00",
+  "47efee54144eca0bf8cf": "2026-11-20T19:26:10+00:00",
   "495041b7bf9b15be8fa3": "2026-11-19T17:35:44+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
   "511f35f875db7d4a056d": "2026-11-13T14:37:39+00:00",
@@ -60,6 +61,7 @@
   "5efa9fb5844a5d5a2b35": "2026-11-14T09:18:33+00:00",
   "5f1d161a583653849674": "2026-11-19T10:26:47+00:00",
   "5fe659aaf3f073ce93ab": "2026-11-10T22:04:30+00:00",
+  "5ff512b122746f16012b": "2026-11-20T19:26:10+00:00",
   "621d8638ecdca37c7909": "2026-11-15T10:15:20+00:00",
   "66da1067d99e1be59d56": "2026-11-12T10:26:34+00:00",
   "6a9dc74cd9fef54c67d7": "2026-11-10T22:03:12+00:00",
@@ -99,6 +101,7 @@
   "a21b9dc024828d2ffa55": "2026-11-16T20:28:20+00:00",
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
   "a5f6cb6b12cb1a5de0de": "2026-11-16T23:52:12+00:00",
+  "a666eb2658819ee1c52b": "2026-11-20T19:26:10+00:00",
   "a9e10d9cc64a78fbdd24": "2026-11-19T14:08:05+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
   "ad60f5b2c01f76106a34": "2026-11-16T20:28:20+00:00",
@@ -14860,7 +14863,90 @@
    }
   },
   "2026-11-21 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Cinco dias após a cesárea, ele me deu 12 dólares para voltar de ônibus com o bebê e levou a mãe para almoçar no meu SUV, sem saber quem era meu pai",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 488,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Муж отправил меня с новорождённым на автобусе, а сам укатил с мамой на моём внедорожнике — но он не знал, кем на самом деле был мой отец",
+     "warnings": [
+      "длина текста FB 752 слов (исходник 901, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 486,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sezaryenden 5 Gün Sonra Kocam Elime 12 Dolar Verip Beni Otobüse Bindirdi, Ama Babamın Tek Telefonu Her Şeyi Değiştirdi",
+     "warnings": [
+      "длина текста FB 657 слов (исходник 901, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 487,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/857822292_122145578487211763_5564639650322319666_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e5c1b6&_nc_ohc=wA9_7c-ojwQQ7kNvwGQLVHw&_nc_oc=AdrH8aBfwr5HKcCZTUGevtwq9BwYbPITLTRsyDsWyN8CZuPtNE5pO7r47yzKoy9lGd8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=AMAeTUEEAAAA&_nc_gid=pNmYkU0QzWViYUXtnqTXuQ&_nc_tpa=Q5bMBQKaCl3_xkV_5rsmfWYQAnnR4hJc-kEqN3egCiqGzlqUMvOLAK_E1ymzEpnRctaMYxY8LNEIJREIQw&oh=00_AQQ0YnGCIH_ptnsmHjP3Bk8I_26qgPXH-AHAg5eQkmTouA&oe=6B06649A",
@@ -14872,7 +14958,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-0000-ru.jpg"
    },
    "source_key": "post:photo_122145578481211763",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -15516,7 +15602,7 @@
    "origin": "manual",
    "page_id": "951867798011690",
    "slot": "2026-11-21 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_1708415650677127": {
    "fingerprint": "46de356d2c4fe6e31c17",
