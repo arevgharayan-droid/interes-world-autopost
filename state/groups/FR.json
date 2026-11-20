@@ -22,6 +22,7 @@
   "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
   "7a8b9787a9038db6d1c3": "2026-11-10T22:06:09+00:00",
   "82146aa95a8c25effbbd": "2026-11-10T22:03:44+00:00",
+  "82514212930f6a077dae": "2026-11-20T16:46:01+00:00",
   "85bf867d0894576de121": "2026-11-12T17:47:48+00:00",
   "8660e8f9c6f8d691b287": "2026-11-09T13:25:53+00:00",
   "87d1e0f4518d99214498": "2026-11-12T09:04:05+00:00",
@@ -8292,7 +8293,70 @@
    }
   },
   "2026-11-20 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle pleurait son mari en route vers ses obsèques, on l'a reléguée au dernier rang de l'avion, puis le commandant de bord s'est agenouillé devant elle",
+     "warnings": [
+      "длина статьи 956 слов"
+     ]
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/913490569_122290680752156656_3439261606823331097_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-AK25Z7htSAQ7kNvwEl0v0d&_nc_oc=Adq9uQHMBxd_rPYfGyH-SI0yf2UDTCpiq4e0cT5_qTBaej8GGFDlSyoPCFoexUiUhhY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=NDCqqOK59PxXJPzZQAM1PQ&_nc_tpa=Q5bMBQKmGBZBKJG_4pCs62qA9o4SDaCeXNXA9ND77RAFzYD6giiMbPaWVFJuzNVGlrocMFZR8FwI7I8i_w&oh=00_AQSs7SQlBa-tnn0NcNG-89COIQKkAzRUKsQUEM_rp8eQnQ&oe=6B063714",
