@@ -8989,3 +8989,7 @@
 {"slot": "2026-11-20 21:00", "lang": "CS", "action": "wp_post", "id": 797, "status": "future", "t": "2026-11-20T16:46:28+00:00", "group": "IT"}
 {"slot": "2026-11-20 21:00", "lang": "RO", "action": "wp_post", "id": 472, "status": "future", "t": "2026-11-20T16:46:29+00:00", "group": "MIX"}
 {"slot": "2026-11-20 21:00", "lang": "AR", "action": "wp_post", "id": 473, "status": "future", "t": "2026-11-20T16:46:30+00:00", "group": "MIX"}
+{"slot": "2026-11-20 21:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-20T16:46:35+00:00", "group": "RU"}
+{"slot": "2026-11-20 21:00", "lang": "TR", "action": "generated", "backend": "subscription", "warnings": ["часть 3: 409 слов"], "t": "2026-11-20T16:46:35+00:00", "group": "RU"}
+{"slot": "2026-11-20 21:00", "lang": "PT", "action": "generated", "backend": "subscription", "warnings": ["часть 1: 691 слов"], "t": "2026-11-20T16:46:35+00:00", "group": "RU"}
+{"slot": "2026-11-20 21:00", "lang": "RU", "action": "wp_post", "id": 474, "status": "future", "t": "2026-11-20T16:46:36+00:00", "group": "RU"}

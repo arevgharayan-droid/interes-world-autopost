@@ -34,8 +34,10 @@
   "309b8aec5b9ce1b07f14": "2026-11-16T10:16:47+00:00",
   "33582b0afea138144804": "2026-11-12T20:02:43+00:00",
   "34f5d1ae4690346695c5": "2026-11-12T17:48:06+00:00",
+  "35bb7b02c3a3eec981f5": "2026-11-20T16:46:35+00:00",
   "37295985ca4da18995cf": "2026-11-20T14:41:36+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
+  "3db8bd1517b5c6101ae3": "2026-11-20T16:46:35+00:00",
   "430a2b7c726cdc7d25cd": "2026-11-14T19:42:40+00:00",
   "43fc1331d6fb4f0c421e": "2026-11-17T20:47:52+00:00",
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
@@ -128,6 +130,7 @@
   "e53482ea7556e3ad83e6": "2026-11-19T08:31:53+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
   "e6f22af68ae4ec05d8cd": "2026-11-19T19:59:16+00:00",
+  "e7dc1043c75d906e8893": "2026-11-20T16:46:35+00:00",
   "e841ab38d6d5db285501": "2026-11-19T22:01:08+00:00",
   "e84337ab74e96356bcfe": "2026-11-10T22:05:49+00:00",
   "e883d8565fbbc8af866b": "2026-11-16T19:28:42+00:00",
@@ -14370,7 +14373,83 @@
    }
   },
   "2026-11-20 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vi meu marido fechar o zíper do vestido vermelho da secretária no nosso quarto, vendi minha parte por 45 milhões e deixei que ele descobrisse a verdade na sala de reuniões",
+     "warnings": [
+      "часть 1: 691 слов"
+     ]
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я застала мужа, который застёгивал молнию на красном платье секретарши в нашей спальне, промолчала и продала свою долю за 45 миллионов, а он узнал правду, когда новый владелец вошёл в его переговорную",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 474,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kocamın sekreterinin kırmızı elbisesinin fermuarını çektiğini gördüm, sessizce yüzde 69 hissemi sattım ve yeni alıcı toplantı odasına girdiğinde Grant gerçeği öğrendi",
+     "warnings": [
+      "часть 3: 409 слов"
+     ]
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/906181756_1116436027824902_403600268068943042_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=aQOTJqvdw9sQ7kNvwEIeriR&_nc_oc=Adr9IEGWSArTuuwZ9DgO9AgTHSOKtwObDAZfXb_ZoPdNhFuppJGQ-0e3TL4CYEPrgB8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=qxR_--uBvfRhAHPbkSR9EA&_nc_tpa=Q5bMBQIxYw-u83kE0WuicvaDHjlIXtMx6Rq8QqH2dFrTINrqegE6xhbK4BjYqvOQDJe0XuiQWx1TGR-vBw&oh=00_AQSsfGqtu0mK7ZaAaaQtR-liGwWIc9iQ0ODk0S0HdCi1IA&oe=6B065079",
