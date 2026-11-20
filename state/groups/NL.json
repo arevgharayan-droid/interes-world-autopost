@@ -12,6 +12,7 @@
   "120edbf2984526605544": "2026-11-18T22:36:37+00:00",
   "122da30c84d729a1b892": "2026-11-09T20:00:55+00:00",
   "12a6e95bcd0629af0097": "2026-11-10T22:02:31+00:00",
+  "138fd0cf94033d45ace5": "2026-11-20T16:46:47+00:00",
   "13db4df12dcefc769231": "2026-11-09T13:24:24+00:00",
   "15be0b388fcdf33795f9": "2026-11-10T22:02:31+00:00",
   "16dff82487a20e2b89e6": "2026-11-10T22:04:40+00:00",
@@ -33,6 +34,7 @@
   "4ca334761547934cbacc": "2026-11-18T22:49:31+00:00",
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
+  "5902057f0f114c578fb0": "2026-11-20T16:46:47+00:00",
   "611c7e4517c03c81dabc": "2026-11-19T10:26:43+00:00",
   "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
   "69fca282f43c87f63475": "2026-11-14T19:42:34+00:00",
@@ -9392,7 +9394,79 @@
    }
   },
   "2026-11-20 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Du entschuldigst dich jetzt vor allen bei Mama!“, brüllte er – doch dann legte Luisa die Kreditkartenbelege auf den Tisch",
+     "warnings": [
+      "длина текста FB 2140 слов (исходник 1662, цель ±10%)"
+     ]
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Voor de ogen van alle gasten eiste hij dat ze zich zou verontschuldigen voor haar gierigheid, tot zij één bonnetje op tafel legde",
+     "warnings": [
+      "длина текста FB 2269 слов (исходник 1662, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 798,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/903684238_1715931946762990_3990841161191318195_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=t3G14Vc4pdAQ7kNvwEr3_gk&_nc_oc=Adq_W7HF4OgptmfeXBBzkcAIIv1y0-DKoA-Oh0EkAku2eM47z_fUrh48Rsz5pDhJFFU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2fudlccPQh4pYcE6G4p3Rw&_nc_tpa=Q5bMBQLWfHRTmr5hGnfrnGbLI4LvGU5VgMsLcyl8IPt2wzZHfltfWF5upicN6sfouobEEqsqBtFpvwZqmw&oh=00_AQTTj4ZcCUDF0OeBSONZbSTzO9oqCudZJW4S7ieu41ZftA&oe=6B065598",
