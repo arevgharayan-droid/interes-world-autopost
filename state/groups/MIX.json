@@ -3,7 +3,10 @@
  "output_fps": {
   "0368c00b16379902b100": "2026-11-19T17:36:01+00:00",
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
+  "0ad80be2e1cea7e03b4f": "2026-11-20T16:46:26+00:00",
   "0be13b58727dd30b5837": "2026-11-17T17:52:42+00:00",
+  "183e5b82cea64a1af2e4": "2026-11-20T16:46:26+00:00",
+  "18b10ac52aef32d53a3b": "2026-11-20T16:46:26+00:00",
   "197afdcf4ca2d2cf2e80": "2026-11-19T10:26:49+00:00",
   "1daa19c39dada9f31106": "2026-11-20T14:41:48+00:00",
   "1e2c7dd943d79ef1c8d0": "2026-11-18T22:49:45+00:00",
@@ -58,6 +61,7 @@
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "cfa7b21c90a2cad9b78e": "2026-11-18T08:52:49+00:00",
+  "d3eb8ba6065409a69dcd": "2026-11-20T16:46:26+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e1b66eb6a566198daa27": "2026-11-17T17:52:42+00:00",
   "e245fd7320627341a5e4": "2026-11-18T22:49:45+00:00",
@@ -4210,7 +4214,90 @@
    }
   },
   "2026-11-20 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "استيقظتُ في طوكيو فلم أجد زوجي ولا حماتي، وجواز سفري مسروق، ورحلتي ملغاة، وفاتورة الفندق ٢٧٬٦٠٠ دولار، لكن بعد يومين دخلتُ قاعة الاجتماعات ومعي ما سيحطّمهما معًا",
+     "warnings": []
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Desperté en Tokio sin marido, sin suegra, sin pasaporte y con una deuda de 27.600 dólares, pero 48 horas después entré a la sala de juntas con la prueba que los hundiría",
+     "warnings": [
+      "часть 1: 688 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 471,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "M-am trezit în Tokyo fără soț, fără pașaport și cu o datorie de 27.600 de dolari la hotel, dar la 48 de ore am intrat în sala consiliului cu dovezi care i-au distrus pe el și pe soacra mea",
+     "warnings": [
+      "часть 1: 727 слов"
+     ]
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я проснулась в Токио без мужа, свекрови и паспорта, отель требовал 27 600 долларов, но через двое суток я вошла в зал совета директоров с доказательствами",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 470,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/913363881_1122025180599320_8704809112507720753_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e5c1b6&_nc_ohc=6kWFjJqjFIwQ7kNvwGpNVzr&_nc_oc=Adpn5q1b96xH52idXaVNn4u2ecjq8mLHGOKCGOolHTm0kL9RwIdy9DgnVAPN7-ByC4w&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=AMAeTUEEAAAA&_nc_gid=zuAvjQX9Lc_B620n2G0v5Q&_nc_tpa=Q5bMBQLaoMKqWJau6iltRcNtzBAPjQNxxQWy3EfPh0mKUWw6601goaJTOhY1JtSBvfN9mfB7nPjnANCMSA&oh=00_AQQIqjTqQJ6TtPWChMLDrU-32laRXZFy128KUm5Z9F6zHg&oe=6B063C20",

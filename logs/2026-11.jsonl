@@ -8975,3 +8975,15 @@
 {"slot": "2026-11-20 21:00", "lang": "EN", "action": "wp_post", "id": 793, "status": "future", "t": "2026-11-20T16:45:58+00:00", "group": "EN2"}
 {"slot": "2026-11-20 21:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": ["длина статьи 956 слов"], "t": "2026-11-20T16:46:01+00:00", "group": "FR"}
 {"slot": "2026-11-20 21:00", "lang": "FR", "action": "wp_post", "id": 794, "status": "future", "t": "2026-11-20T16:46:02+00:00", "group": "FR"}
+{"slot": "2026-11-20 21:00", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-20T16:46:26+00:00", "group": "IT"}
+{"slot": "2026-11-20 21:00", "lang": "PL", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 1137 слов (исходник 1379, цель ±10%)"], "t": "2026-11-20T16:46:26+00:00", "group": "IT"}
+{"slot": "2026-11-20 21:00", "lang": "CS", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-20T16:46:26+00:00", "group": "IT"}
+{"slot": "2026-11-20 21:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-20T16:46:26+00:00", "group": "MIX"}
+{"slot": "2026-11-20 21:00", "lang": "ES", "action": "generated", "backend": "subscription", "warnings": ["часть 1: 688 слов"], "t": "2026-11-20T16:46:26+00:00", "group": "MIX"}
+{"slot": "2026-11-20 21:00", "lang": "RO", "action": "generated", "backend": "subscription", "warnings": ["часть 1: 727 слов"], "t": "2026-11-20T16:46:26+00:00", "group": "MIX"}
+{"slot": "2026-11-20 21:00", "lang": "AR", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-20T16:46:26+00:00", "group": "MIX"}
+{"slot": "2026-11-20 21:00", "lang": "IT", "action": "wp_post", "id": 795, "status": "future", "t": "2026-11-20T16:46:27+00:00", "group": "IT"}
+{"slot": "2026-11-20 21:00", "lang": "RU", "action": "wp_post", "id": 470, "status": "future", "t": "2026-11-20T16:46:27+00:00", "group": "MIX"}
+{"slot": "2026-11-20 21:00", "lang": "PL", "action": "wp_post", "id": 796, "status": "future", "t": "2026-11-20T16:46:27+00:00", "group": "IT"}
+{"slot": "2026-11-20 21:00", "lang": "ES", "action": "wp_post", "id": 471, "status": "future", "t": "2026-11-20T16:46:28+00:00", "group": "MIX"}
+{"slot": "2026-11-20 21:00", "lang": "CS", "action": "wp_post", "id": 797, "status": "future", "t": "2026-11-20T16:46:28+00:00", "group": "IT"}

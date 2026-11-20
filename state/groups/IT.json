@@ -8,6 +8,7 @@
   "08b0488d45dded8d095f": "2026-11-16T00:18:19+00:00",
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
   "0fb22b8844bea06fae2d": "2026-11-16T20:28:05+00:00",
+  "1022f1ba4618e21c8ceb": "2026-11-20T16:46:26+00:00",
   "17bbf28063304bc8e308": "2026-11-17T12:28:51+00:00",
   "19a57f6af7fdd9942bfb": "2026-11-19T19:58:46+00:00",
   "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
@@ -43,6 +44,7 @@
   "7ed5bfe70e10ffa40f11": "2026-11-19T17:35:32+00:00",
   "8010f06d690dbd6a283e": "2026-11-14T09:15:08+00:00",
   "801a18eaab6ae5192881": "2026-11-18T15:24:10+00:00",
+  "82b093e20d19aacb9c9d": "2026-11-20T16:46:26+00:00",
   "82dedf152cfc4e82672b": "2026-11-18T22:36:42+00:00",
   "84db3c73ebdd880ee5e3": "2026-11-10T22:02:27+00:00",
   "8552c7ef849f34e97736": "2026-11-16T16:01:05+00:00",
@@ -69,6 +71,7 @@
   "a6ab527d80c6afd66a30": "2026-11-18T22:36:42+00:00",
   "ab5adc5ddd83c831c3ba": "2026-11-19T14:07:51+00:00",
   "ad8c2ece3cec5e65114f": "2026-11-16T20:28:05+00:00",
+  "ae98003cc9368817f7b5": "2026-11-20T16:46:26+00:00",
   "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "ba5f05202837b2fb860d": "2026-11-14T11:39:45+00:00",
@@ -15243,7 +15246,88 @@
    }
   },
   "2026-11-20 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Radši umřu, než si ji vezmu,\" vtipkoval přítel před třiadvaceti lidmi. Té noci jsem zjistila, co udělal s mými financemi, a po sedmi měsících stál u mých dveří s prstenem",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 797,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Preferirei morire che sposarla\": ha riso davanti a tutti, ma quella notte ho scoperto cosa aveva fatto alle mie spalle",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 795,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wolałbym umrzeć, niż się z nią ożenić” – zażartował mój chłopak. Tej nocy odkryłam, co zrobił z moimi finansami za moimi plecami",
+     "warnings": [
+      "длина текста FB 1137 слов (исходник 1379, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 796,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/913267520_1123040287164476_8446345150421111252_n.webp?stp=dst-jpg_p720x720_tt6&_nc_cat=1&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5JwwfqmCgBcQ7kNvwEn-Ik5&_nc_oc=Adqo7tBcQ33zPSDwEvV5s78QAZDgbCDAiruGgYv5xW6f8QmysJfsfj4314jJfUVRS6k&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Ys-s-7VukRaj3pJwYmAjtg&_nc_tpa=Q5bMBQIc9NUthMmOGDnT_EtOgcmkLk-Xn9wvfGArwLCnff87a0R4PUwP58gddp6xpHg02TYRdRWAe7_P7A&oh=00_AQRHe4bn97NYQmsF6GRiLk8kAGTOe4r8U5EHA2Ps3P7uZw&oe=6B065D95",
@@ -15255,7 +15339,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-2100-it.jpg"
    },
    "source_key": "post:100083755444423_1123040340497804",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15617,7 +15701,7 @@
    "origin": "manual",
    "page_id": "100083755444423",
    "slot": "2026-11-20 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100092328442705_1078152595272345": {
    "fingerprint": "364e0f21d006d36fc581",
