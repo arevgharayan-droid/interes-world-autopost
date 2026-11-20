@@ -95,3 +95,5 @@ https://www.facebook.com/story.php?story_fbid=122314662704071088&id=615521326508
 https://www.facebook.com/story.php?story_fbid=1720907142932137&id=100050386034442
 # 20.11.2026: 12:00
 https://www.facebook.com/photo/?fbid=1709660463885979
+# 20.11.2026: внеочередной («Հիմա», сообщение 18:39)
+https://www.facebook.com/story.php?story_fbid=1719062946449890&id=100050386034442
