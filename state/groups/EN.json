@@ -11681,12 +11681,14 @@
       },
       "921611111039858": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122145022905200344_2595454690960226",
        "error": null,
        "last_attempt": "2026-11-20T18:44:43+04:00",
        "mode": "immediate",
        "photo_id": "122145022881200344",
        "post_id": "921611111039858_122145022905200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,

@@ -9184,12 +9184,14 @@
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128013853309032_1627339145143458",
        "error": null,
        "last_attempt": "2026-11-20T18:46:55+04:00",
        "mode": "immediate",
        "photo_id": "122128013829309032",
        "post_id": "1102464712951594_122128013853309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
@@ -9214,12 +9216,13 @@
       "1268633826332790": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122134370313436382_2127974158093262",
        "error": null,
        "last_attempt": "2026-11-20T18:46:14+04:00",
        "mode": "immediate",
        "photo_id": "122134370277436382",
        "post_id": "1268633826332790_122134370313436382",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Er zwang meinen elfjährigen Sohn, vor 300 Schülern zu sagen „Meine Mama ist ein Navy SEAL“ – dann stand der echte SEAL auf",
