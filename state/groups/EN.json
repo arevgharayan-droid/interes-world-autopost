@@ -11548,12 +11548,13 @@
       "1016419758218222": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122147918091204972_3884137741727768",
        "error": null,
        "last_attempt": "2026-11-20T18:45:21+04:00",
        "mode": "immediate",
        "photo_id": "122147918067204972",
        "post_id": "1016419758218222_122147918091204972",
-       "status": "published"
+       "status": "done"
       },
       "108881571809093": {
        "attempts": 1,
