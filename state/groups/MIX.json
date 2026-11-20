@@ -5,6 +5,7 @@
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
   "0be13b58727dd30b5837": "2026-11-17T17:52:42+00:00",
   "197afdcf4ca2d2cf2e80": "2026-11-19T10:26:49+00:00",
+  "1daa19c39dada9f31106": "2026-11-20T14:41:48+00:00",
   "1e2c7dd943d79ef1c8d0": "2026-11-18T22:49:45+00:00",
   "1f198156f3d98bc7ff76": "2026-11-19T10:26:49+00:00",
   "208463d4781b94b70452": "2026-11-19T14:08:16+00:00",
@@ -27,6 +28,7 @@
   "61b6c834065a37df649e": "2026-11-19T17:36:01+00:00",
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
   "697bf1e866b0d768ab37": "2026-11-18T22:49:45+00:00",
+  "6d23ba98be07175e84bf": "2026-11-20T14:41:48+00:00",
   "704e349d3d23b38ec128": "2026-11-19T14:08:16+00:00",
   "70c05379b999f4d41de6": "2026-11-18T15:24:21+00:00",
   "72cfa8c608946a546f2e": "2026-11-18T18:56:12+00:00",
@@ -34,6 +36,7 @@
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
   "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
   "839d2c1cc7df4856d81d": "2026-11-18T22:20:58+00:00",
+  "83e0ecc2ed03651d9650": "2026-11-20T14:41:48+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
   "8ac1ecf8185542e95941": "2026-11-19T10:26:49+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
@@ -66,6 +69,7 @@
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
   "eb19c503b19e6605601a": "2026-11-18T15:24:21+00:00",
   "ef90411773fe09e82bf0": "2026-11-18T22:20:58+00:00",
+  "f113b22975dc330f28ae": "2026-11-20T14:41:48+00:00",
   "f6a4a30022b8eb2699ca": "2026-11-19T10:26:49+00:00",
   "fa38d523740b3642a359": "2026-11-17T10:38:26+00:00",
   "fad065ee1746d78e40db": "2026-11-18T15:24:21+00:00",
@@ -3982,7 +3986,98 @@
   },
   "2026-11-20 18:39": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "قال لها زوج أمها على العشاء: ربّيناكِ فدبّري أمرك، الشقة لابنتي الحقيقية، بعد ستة أعوام دفعت فيها نصف راتبها لترميمها",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 467,
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi padrastro me gritó en plena cena que el piso sería solo para su hija de verdad, sin saber que yo llevaba seis años pagándolo",
+     "warnings": [
+      "часть 2: 533 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 465,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "După șase ani în care a plătit renovarea casei părinților, Dasha a aflat la cină că apartamentul merge doar fiicei lor de sânge, iar răspunsul ei a schimbat totul",
+     "warnings": [
+      "часть 2: 555 слов",
+      "часть 3: 809 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 466,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Отчим объявил за семейным ужином, что квартира достанется только родной дочери, но Даша молча открыла банковское приложение, и через год всё изменилось",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 464,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T18:39:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/907427690_1717217333301118_968899654559184550_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sTJ1DKlsXpAQ7kNvwFzjjvA&_nc_oc=Adq__LssmGP3lSQmnOtMl92Qo6MPg9qFoMG_CuhIJfEcvDeVrh_xie6Tk53F9UgArmc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ndoTMHltosIvYi7TQobGLQ&_nc_tpa=Q5bMBQIcU7xqmF51EOLdyOdVRPmsFIvbzBgK_BJqZnSEz54YO6QjvXku4K5Sg0idJ_ZgpiqX-SV2w32Yww&oh=00_AQRb7D1R7xz2qQXL7ZeTYW6WgY0UiIz1Jz8BgDSrAXJdWw&oe=6B063477",
@@ -3994,7 +4089,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261120-1839-mix.jpg"
    },
    "source_key": "post:100050386034442_1717217389967779",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4106,7 +4201,7 @@
    "origin": "manual",
    "page_id": "100050386034442",
    "slot": "2026-11-20 18:39",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100059505912199_1480124753981041": {
    "fingerprint": "a62a867050c94734098a",
