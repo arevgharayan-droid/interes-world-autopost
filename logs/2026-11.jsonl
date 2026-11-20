@@ -8719,3 +8719,4 @@
 {"slot": "2026-11-20 18:39", "lang": "TR", "action": "wp_post", "id": 462, "status": "publish", "t": "2026-11-20T14:41:38+00:00", "group": "RU"}
 {"slot": "2026-11-20 18:39", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 3727 слов (исходник 2858, цель ±10%)"], "t": "2026-11-20T14:41:38+00:00", "group": "EN"}
 {"slot": "2026-11-20 18:39", "lang": "PT", "action": "wp_post", "id": 463, "status": "publish", "t": "2026-11-20T14:41:39+00:00", "group": "RU"}
+{"slot": "2026-11-20 18:39", "lang": "EN", "action": "wp_post", "id": 782, "status": "publish", "t": "2026-11-20T14:41:39+00:00", "group": "EN"}

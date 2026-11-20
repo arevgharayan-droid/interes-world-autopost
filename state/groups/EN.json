@@ -11516,7 +11516,10 @@
      "title": "She Told the Travel Agent to Cancel the Trip the Moment Her Mother-in-Law Revealed Her \"Surprise,\" Then Changed the Locks",
      "warnings": [
       "длина текста FB 3727 слов (исходник 2858, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 782,
+     "wp_status": "publish"
     },
     "ES": {
      "pages": {},
@@ -11559,6 +11562,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-20T18:39:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/903610304_1714382776917907_192228900119161286_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CkLlijikpEoQ7kNvwHFHY98&_nc_oc=Adqw0uEJ2aDLqEbtTRmUOMxtJtVbxKQIsSvQhakSyMwG1MTIVB6mo1nzmWbQ2CcUOMg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=9vHzDXcjn8CcPPhtDC7_Rw&_nc_tpa=Q5bMBQKD9-1yraAZ_QUZemSrv5ekiZiocC_-knnvgtfUvQ3Lh_lQ27pQ8RJh1N86B5hfh-X1Z7GhKWk-FQ&oh=00_AQR1CYV1iBcJV03Q6KJT3P32e48v1y68xnCBVlgjGV3kIQ&oe=6B062F25",
@@ -11570,7 +11574,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-1839-en.jpg"
    },
    "source_key": "post:100050386034442_1714382830251235",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11891,7 +11895,7 @@
    "origin": "manual",
    "page_id": "100050386034442",
    "slot": "2026-11-20 18:39",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100059505912199_1501978228462360": {
    "fingerprint": "f033634731845716b275",
