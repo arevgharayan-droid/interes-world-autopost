@@ -26,6 +26,7 @@
   "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
   "3e5507315a39fb0137e8": "2026-11-10T22:04:40+00:00",
   "40d2199f7d29b9f3db58": "2026-11-19T14:07:53+00:00",
+  "414c7dea2c3785876288": "2026-11-20T14:41:24+00:00",
   "46a1728a5126f9af6c13": "2026-11-16T00:16:52+00:00",
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
   "4c218b53bb5fd5b6f1b3": "2026-11-16T19:28:25+00:00",
@@ -70,6 +71,7 @@
   "cce306c23605b2fd33c0": "2026-11-18T08:52:12+00:00",
   "cd39e670f61e621b3317": "2026-11-18T08:52:12+00:00",
   "cda4a9c0ba0b01ac967a": "2026-11-19T17:35:36+00:00",
+  "d0e868f744c502100d70": "2026-11-20T14:41:24+00:00",
   "d3c887e243c06a04d9a4": "2026-11-19T17:35:36+00:00",
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
   "d4aa094230f5d5c483b0": "2026-11-16T00:16:52+00:00",
@@ -9122,7 +9124,81 @@
   },
   "2026-11-20 18:39": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Er zwang meinen elfjährigen Sohn, vor 300 Schülern zu sagen „Meine Mama ist ein Navy SEAL“ – dann stand der echte SEAL auf",
+     "warnings": [
+      "длина статьи 962 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 781,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Een officier dwong mijn elfjarige zoon voor de hele school te zeggen dat zijn moeder een SEAL was, en toen ik binnenkwam met zand op mijn laarzen, stond er iemand op",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 780,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-20T18:39:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/900603502_122154798393170576_1454168320073162799_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wHqpcP1Jx3gQ7kNvwF4LOHt&_nc_oc=Adomwz_QXciappcpX_NpW_zRQR5Eh9IWE9uGdYdh7-4xjYJ-uuQNlSqikbZtRCuM2xA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=Wv5ROSZLu3d2N4xkH6BWsA&_nc_tpa=Q5bMBQL4rLoe3megCLjNKcYxitcLGqmlqBw-1GMFGecyrT_FDJn1wxflpc53n3CvV3HNLllxRJKYN-SC_w&oh=00_AQT8mPVeJnR5xAx2qhj5FlYme8JSTANT1nXa7z1JtEQtlw&oe=6B063AAD",
@@ -9134,7 +9210,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-1839-nl.jpg"
    },
    "source_key": "post:61585117295331_122154798591170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -9617,7 +9693,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-20 18:39",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155558209170576": {
    "fingerprint": "dc17e24a0cd4e4d73974",
