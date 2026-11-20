@@ -15192,12 +15192,13 @@
       "1118090254718709": {
        "attempts": 1,
        "comment_attempts": 1,
-       "error": "комментарий: FB 2/None: An unexpected error has occurred. Please retry your request later.",
+       "comment_id": "122103835808556634_1859565071863124",
+       "error": null,
        "last_attempt": "2026-11-20T23:34:00+04:00",
        "mode": "schedule",
        "photo_id": "122103835760556634",
        "post_id": "1118090254718709_122103835808556634",
-       "status": "published"
+       "status": "done"
       },
       "1125468037313193": {
        "attempts": 1,
@@ -15340,7 +15341,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-0000-ru.jpg"
    },
    "source_key": "post:photo_122145578481211763",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
