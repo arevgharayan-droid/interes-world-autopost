@@ -9411,7 +9411,10 @@
      "title": "Du entschuldigst dich jetzt vor allen bei Mama!“, brüllte er – doch dann legte Luisa die Kreditkartenbelege auf den Tisch",
      "warnings": [
       "длина текста FB 2140 слов (исходник 1662, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 799,
+     "wp_status": "future"
     },
     "EN": {
      "pages": {},
@@ -9467,6 +9470,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-20T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/903684238_1715931946762990_3990841161191318195_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=t3G14Vc4pdAQ7kNvwEr3_gk&_nc_oc=Adq_W7HF4OgptmfeXBBzkcAIIv1y0-DKoA-Oh0EkAku2eM47z_fUrh48Rsz5pDhJFFU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2fudlccPQh4pYcE6G4p3Rw&_nc_tpa=Q5bMBQLWfHRTmr5hGnfrnGbLI4LvGU5VgMsLcyl8IPt2wzZHfltfWF5upicN6sfouobEEqsqBtFpvwZqmw&oh=00_AQTTj4ZcCUDF0OeBSONZbSTzO9oqCudZJW4S7ieu41ZftA&oe=6B065598",
@@ -9478,7 +9482,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-2100-nl.jpg"
    },
    "source_key": "post:100050386034442_1715932000096318",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -9800,7 +9804,7 @@
    "origin": "manual",
    "page_id": "100050386034442",
    "slot": "2026-11-20 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100059505912199_1492825629377620": {
    "fingerprint": "588eb4b7a25151e7caa6",

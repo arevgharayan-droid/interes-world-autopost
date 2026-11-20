@@ -8998,3 +8998,4 @@
 {"slot": "2026-11-20 21:00", "lang": "NL", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 2269 слов (исходник 1662, цель ±10%)"], "t": "2026-11-20T16:46:47+00:00", "group": "NL"}
 {"slot": "2026-11-20 21:00", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 2140 слов (исходник 1662, цель ±10%)"], "t": "2026-11-20T16:46:47+00:00", "group": "NL"}
 {"slot": "2026-11-20 21:00", "lang": "NL", "action": "wp_post", "id": 798, "status": "future", "t": "2026-11-20T16:46:48+00:00", "group": "NL"}
+{"slot": "2026-11-20 21:00", "lang": "DE", "action": "wp_post", "id": 799, "status": "future", "t": "2026-11-20T16:46:48+00:00", "group": "NL"}
