@@ -15310,18 +15310,21 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116672143328231_1675384077303086",
        "error": null,
        "last_attempt": "2026-11-20T21:20:07+04:00",
        "mode": "immediate",
        "photo_id": "122116672119328231",
        "post_id": "1106793902521611_122116672143328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Radši umřu, než si ji vezmu,\" vtipkoval přítel před třiadvaceti lidmi. Té noci jsem zjistila, co udělal s mými financemi, a po sedmi měsících stál u mých dveří s prstenem",
      "warnings": [],
      "wp_error": null,
      "wp_id": 797,
+     "wp_live": true,
      "wp_status": "future"
     },
     "DE": {
@@ -15347,21 +15350,25 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133101547302250_1495546212484805",
        "error": null,
        "last_attempt": "2026-11-20T21:12:11+04:00",
        "mode": "immediate",
        "photo_id": "122133101511302250",
        "post_id": "1012250151981057_122133101547302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141446214808945_1533382251949379",
        "error": null,
        "last_attempt": "2026-11-20T21:10:09+04:00",
        "mode": "immediate",
        "photo_id": "122141446184808945",
        "post_id": "1030877436782212_122141446214808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
@@ -15376,21 +15383,25 @@
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131589895306132_1160870009720393",
        "error": null,
        "last_attempt": "2026-11-20T21:13:33+04:00",
        "mode": "immediate",
        "photo_id": "122131589871306132",
        "post_id": "1068567606345452_122131589895306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128174281305584_1163500226156143",
        "error": null,
        "last_attempt": "2026-11-20T21:17:15+04:00",
        "mode": "immediate",
        "photo_id": "122128174251305584",
        "post_id": "1078100405390763_122128174281305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -15405,57 +15416,69 @@
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133853647308548_2558551687967620",
        "error": null,
        "last_attempt": "2026-11-20T21:12:54+04:00",
        "mode": "immediate",
        "photo_id": "122133853623308548",
        "post_id": "1086658774532679_122133853647308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123156313296683_1895627291871688",
        "error": null,
        "last_attempt": "2026-11-20T21:11:30+04:00",
        "mode": "immediate",
        "photo_id": "122123156289296683",
        "post_id": "1087342844462554_122123156313296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130039675300251_4575768556033077",
        "error": null,
        "last_attempt": "2026-11-20T21:16:39+04:00",
        "mode": "immediate",
        "photo_id": "122130039651300251",
        "post_id": "1093003583899107_122130039675300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114771558601707_1160847566522979",
        "error": null,
        "last_attempt": "2026-11-20T21:15:29+04:00",
        "mode": "immediate",
        "photo_id": "122114771534601707",
        "post_id": "1099258949937246_122114771558601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141990942811401_1680896890110669",
        "error": null,
        "last_attempt": "2026-11-20T21:09:29+04:00",
        "mode": "immediate",
        "photo_id": "122141990918811401",
        "post_id": "1114015015119414_122141990942811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105121332533031_29364223786550856",
        "error": null,
        "last_attempt": "2026-11-20T21:14:56+04:00",
        "mode": "immediate",
        "photo_id": "122105121308533031",
        "post_id": "1128937866962526_122105121332533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
@@ -15481,21 +15504,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130574779314630_1124228480248895",
        "error": null,
        "last_attempt": "2026-11-20T21:14:14+04:00",
        "mode": "immediate",
        "photo_id": "122130574755314630",
        "post_id": "1149681171551323_122130574779314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123065311318395_2434194760657441",
        "error": null,
        "last_attempt": "2026-11-20T21:16:04+04:00",
        "mode": "immediate",
        "photo_id": "122123065287318395",
        "post_id": "1159996950522974_122123065311318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -15510,30 +15537,36 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129224479300955_2701014477000728",
        "error": null,
        "last_attempt": "2026-11-20T21:10:49+04:00",
        "mode": "immediate",
        "photo_id": "122129224455300955",
        "post_id": "1160240797163045_122129224479300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126413677301482_1518505763672591",
        "error": null,
        "last_attempt": "2026-11-20T21:17:43+04:00",
        "mode": "immediate",
        "photo_id": "122126413653301482",
        "post_id": "1174674892385169_122126413677301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126381787405175_1160681719793706",
        "error": null,
        "last_attempt": "2026-11-20T21:08:48+04:00",
        "mode": "immediate",
        "photo_id": "122126381763405175",
        "post_id": "1191480207389219_122126381787405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
@@ -15565,39 +15598,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126738673304793_4156984004610366",
        "error": null,
        "last_attempt": "2026-11-20T21:19:38+04:00",
        "mode": "immediate",
        "photo_id": "122126738649304793",
        "post_id": "1079800528556354_122126738673304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114315678359745_1511346424395323",
        "error": null,
        "last_attempt": "2026-11-20T21:18:11+04:00",
        "mode": "immediate",
        "photo_id": "122114315654359745",
        "post_id": "1083785318156771_122114315678359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123148327302807_1214068938263389",
        "error": null,
        "last_attempt": "2026-11-20T21:18:41+04:00",
        "mode": "immediate",
        "photo_id": "122123148303302807",
        "post_id": "1089456087587677_122123148327302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141566023313481_1020948633599263",
        "error": null,
        "last_attempt": "2026-11-20T21:19:09+04:00",
        "mode": "immediate",
        "photo_id": "122141565999313481",
        "post_id": "1107966229066828_122141566023313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Wolałbym umrzeć, niż się z nią ożenić” – zażartował mój chłopak. Tej nocy odkryłam, co zrobił z moimi finansami za moimi plecami",
@@ -15606,6 +15647,7 @@
      ],
      "wp_error": null,
      "wp_id": 796,
+     "wp_live": true,
      "wp_status": "future"
     },
     "PT": {
@@ -15641,7 +15683,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261120-2100-it.jpg"
    },
    "source_key": "post:100083755444423_1123040340497804",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
