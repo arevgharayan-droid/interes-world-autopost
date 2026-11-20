@@ -15102,6 +15102,12 @@
        "photo_id": "122123141517302807",
        "post_id": "1089456087587677_122123141541302807",
        "status": "published"
+      },
+      "1107966229066828": {
+       "attempts": 1,
+       "last_attempt": "2026-11-20T18:56:32+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "Przez 55 lat kładłam kwiaty na grobie córeczki, aż na pogrzebie mamy zobaczyłam w ostatniej ławce kobietę z moją twarzą",
