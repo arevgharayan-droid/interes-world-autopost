@@ -17557,12 +17557,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116736007328231_1456171059250236",
        "error": null,
        "last_attempt": "2026-11-21T21:20:17+04:00",
        "mode": "immediate",
        "photo_id": "122116735983328231",
        "post_id": "1106793902521611_122116736007328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Na pohřbu dcery zeť ukázal na své tři děvčátka a prohlásil, že půjdou do pěstounské péče. V noci mi vnučka položila na stůl fialovou tašku",
@@ -17571,6 +17573,7 @@
      ],
      "wp_error": null,
      "wp_id": 896,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -17596,21 +17599,25 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133243597302250_1121638887523648",
        "error": null,
        "last_attempt": "2026-11-21T21:12:31+04:00",
        "mode": "immediate",
        "photo_id": "122133243567302250",
        "post_id": "1012250151981057_122133243597302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141585738808945_1162612239632984",
        "error": null,
        "last_attempt": "2026-11-21T21:10:29+04:00",
        "mode": "immediate",
        "photo_id": "122141585714808945",
        "post_id": "1030877436782212_122141585738808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
@@ -17625,21 +17632,25 @@
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131688763306132_4655255941386115",
        "error": null,
        "last_attempt": "2026-11-21T21:13:53+04:00",
        "mode": "immediate",
        "photo_id": "122131688739306132",
        "post_id": "1068567606345452_122131688763306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128281885305584_1136305812519584",
        "error": null,
        "last_attempt": "2026-11-21T21:17:27+04:00",
        "mode": "immediate",
        "photo_id": "122128281861305584",
        "post_id": "1078100405390763_122128281885305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -17654,57 +17665,69 @@
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134005441308548_1146347027898700",
        "error": null,
        "last_attempt": "2026-11-21T21:13:11+04:00",
        "mode": "immediate",
        "photo_id": "122134005411308548",
        "post_id": "1086658774532679_122134005441308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123238711296683_4606370542934579",
        "error": null,
        "last_attempt": "2026-11-21T21:11:52+04:00",
        "mode": "immediate",
        "photo_id": "122123238687296683",
        "post_id": "1087342844462554_122123238711296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130195189300251_1852408989416829",
        "error": null,
        "last_attempt": "2026-11-21T21:16:52+04:00",
        "mode": "immediate",
        "photo_id": "122130195165300251",
        "post_id": "1093003583899107_122130195189300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114830202601707_2057631802291072",
        "error": null,
        "last_attempt": "2026-11-21T21:15:43+04:00",
        "mode": "immediate",
        "photo_id": "122114830178601707",
        "post_id": "1099258949937246_122114830202601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142147956811401_1610994354136882",
        "error": null,
        "last_attempt": "2026-11-21T21:09:49+04:00",
        "mode": "immediate",
        "photo_id": "122142147926811401",
        "post_id": "1114015015119414_122142147956811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105153294533031_1132668772859410",
        "error": null,
        "last_attempt": "2026-11-21T21:15:07+04:00",
        "mode": "immediate",
        "photo_id": "122105153270533031",
        "post_id": "1128937866962526_122105153294533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
@@ -17730,21 +17753,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130717081314630_2401729307311769",
        "error": null,
        "last_attempt": "2026-11-21T21:14:34+04:00",
        "mode": "immediate",
        "photo_id": "122130717057314630",
        "post_id": "1149681171551323_122130717081314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123148513318395_4404965983087267",
        "error": null,
        "last_attempt": "2026-11-21T21:16:18+04:00",
        "mode": "immediate",
        "photo_id": "122123148489318395",
        "post_id": "1159996950522974_122123148513318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -17759,21 +17786,25 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129323323300955_978687898275330",
        "error": null,
        "last_attempt": "2026-11-21T21:11:11+04:00",
        "mode": "immediate",
        "photo_id": "122129323299300955",
        "post_id": "1160240797163045_122129323323300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126509551301482_3113071112221742",
        "error": null,
        "last_attempt": "2026-11-21T21:18:00+04:00",
        "mode": "immediate",
        "photo_id": "122126509527301482",
        "post_id": "1174674892385169_122126509551301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
@@ -17816,45 +17847,54 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126834001304793_1902703234425721",
        "error": null,
        "last_attempt": "2026-11-21T21:19:54+04:00",
        "mode": "immediate",
        "photo_id": "122126833977304793",
        "post_id": "1079800528556354_122126834001304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114366204359745_1993290338722807",
        "error": null,
        "last_attempt": "2026-11-21T21:18:33+04:00",
        "mode": "immediate",
        "photo_id": "122114366180359745",
        "post_id": "1083785318156771_122114366204359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123219829302807_1160891249765136",
        "error": null,
        "last_attempt": "2026-11-21T21:19:02+04:00",
        "mode": "immediate",
        "photo_id": "122123219805302807",
        "post_id": "1089456087587677_122123219829302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141675775313481_1131076026365032",
        "error": null,
        "last_attempt": "2026-11-21T21:19:32+04:00",
        "mode": "immediate",
        "photo_id": "122141675751313481",
        "post_id": "1107966229066828_122141675775313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Na pogrzebie córki zięć wskazał na trzy wnuczki i oznajmił, że trafią do rodziny zastępczej. O trzeciej w nocy najstarsza położyła na moim stole fioletową torbę",
      "warnings": [],
      "wp_error": null,
      "wp_id": 895,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -17890,7 +17930,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-2100-it.jpg"
    },
    "source_key": "post:61581309613138_122139126693043653",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
