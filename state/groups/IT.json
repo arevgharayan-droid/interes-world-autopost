@@ -20,6 +20,7 @@
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "316757cc420944c1b668": "2026-11-21T17:04:20+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
+  "3b79121acdb58cc4cc71": "2026-11-21T19:44:42+00:00",
   "3cd0bbe178487279f165": "2026-11-20T14:41:44+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
   "459bbfad275aecbd52c3": "2026-11-21T14:12:51+00:00",
@@ -35,6 +36,7 @@
   "60500c1dfc38f30a516c": "2026-11-16T20:28:05+00:00",
   "60f9c89309a199527b79": "2026-11-17T18:29:53+00:00",
   "628ca1701fa9d7a8990a": "2026-11-16T16:01:05+00:00",
+  "6381b46ba9ce35422261": "2026-11-21T19:44:42+00:00",
   "66a2647af0e1f8e411ad": "2026-11-17T20:38:41+00:00",
   "687b58d7f631c7172828": "2026-11-20T19:26:25+00:00",
   "6884b2c23c3fd385192c": "2026-11-19T22:00:47+00:00",
@@ -70,6 +72,7 @@
   "9756467f006a63dbc5a8": "2026-11-19T19:58:46+00:00",
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
   "98dd9e98fb5a18ee8918": "2026-11-19T22:00:47+00:00",
+  "99414842390abfdc6d9d": "2026-11-21T19:44:42+00:00",
   "9c394bc05e808391b2ce": "2026-11-17T20:38:41+00:00",
   "9cbea19285daf02db497": "2026-11-15T10:15:15+00:00",
   "9de178bf596b4ce2bdc8": "2026-11-16T19:28:24+00:00",
@@ -17939,7 +17942,83 @@
    }
   },
   "2026-11-22 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Babička mi odkázala chatu za 450 000 dolarů, rodiče ji tajně prodali na cestu kolem světa – netušili, že jim jeden detail všechno zboří",
+     "warnings": []
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mia nonna mi lasciò la casa sul lago, i miei genitori la vendettero per un giro del mondo: ma avevano dimenticato un dettaglio",
+     "warnings": [
+      "длина статьи 970 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 904,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Babcia zostawiła mi domek nad jeziorem i prośbę: „chroń go za wszelką cenę”. Rodzice sprzedali go, gdy byłam w delegacji",
+     "warnings": [
+      "длина текста FB 395 слов (исходник 520, цель ±10%)"
+     ]
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-22T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/644558356_1325477172936630_3321058241216657775_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Hx66Ol4_R0YQ7kNvwGOTrk3&_nc_oc=Adpg7YJb8qHsCn5iYpVoN6mT1XkOCGzUU1dA3qQYat8kHdfnPEn6XMdeMj34UKYBrQo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=T3sDscVEPI3nO4uTRTkvzA&_nc_tpa=Q5bMBQJvHVWYknR0Jfryi92m9furJ3oEixrJIFNZ-x_7skgcIFbtjVpExkLJ9MPSSxNmboOdWHv82VInRA&oh=00_AQQoHWWd6kBeq73_gmrBigZ8_q1B2tqHPOWnMZKmTpEaNQ&oe=6B07CC87",
