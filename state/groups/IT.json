@@ -17650,6 +17650,12 @@
        "post_id": "1142735408923607_122139522585311525",
        "status": "published"
       },
+      "1149681171551323": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T21:14:34+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "1160223747182678": {
        "attempts": 1,
        "error": null,
