@@ -40,6 +40,7 @@
   "35bb7b02c3a3eec981f5": "2026-11-20T16:46:35+00:00",
   "37295985ca4da18995cf": "2026-11-20T14:41:36+00:00",
   "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
+  "3944404d935075c532ec": "2026-11-21T17:03:58+00:00",
   "399b0797378aa4e1ed79": "2026-11-20T22:45:49+00:00",
   "3db8bd1517b5c6101ae3": "2026-11-20T16:46:35+00:00",
   "430a2b7c726cdc7d25cd": "2026-11-14T19:42:40+00:00",
@@ -110,6 +111,7 @@
   "a5f6cb6b12cb1a5de0de": "2026-11-16T23:52:12+00:00",
   "a666eb2658819ee1c52b": "2026-11-20T19:26:10+00:00",
   "a9e10d9cc64a78fbdd24": "2026-11-19T14:08:05+00:00",
+  "ac682cc7279a82d7c450": "2026-11-21T17:03:58+00:00",
   "acc498911b8a20a4f2c2": "2026-11-10T22:03:12+00:00",
   "ad60f5b2c01f76106a34": "2026-11-16T20:28:20+00:00",
   "afba6d3581e5ecf1ee81": "2026-11-17T10:39:05+00:00",
@@ -125,6 +127,7 @@
   "bfb817244f318e72fc69": "2026-11-16T19:28:42+00:00",
   "c05aa08deef8d17993ed": "2026-11-17T20:47:52+00:00",
   "c0ab8702c15d393140db": "2026-11-19T14:08:05+00:00",
+  "c10c30cd53689834d2f0": "2026-11-21T17:03:58+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
   "c4a184a2f318ec90e101": "2026-11-19T08:31:53+00:00",
@@ -16824,7 +16827,88 @@
    }
   },
   "2026-11-21 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meus pais riram quando minha irmã herdou R$ 6,9 milhões e eu, apenas um dólar, até o advogado abrir a carta do meu avô",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 545,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Родители хохотали, когда мне достался один доллар, но письмо дедушки заставило маму закричать",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 543,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vasiyet Okunurken Ailem Kız Kardeşime Düşen 6,9 Milyon Dolara Güldü, Bana Kalan Tek Doları Görünce Alay Ettiler – Ta ki Dedemin Mektubu Açılana Kadar",
+     "warnings": [
+      "длина текста FB 436 слов (исходник 566, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 544,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/637805933_1475219927330035_1680535065473100924_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3Q4sRzylW-IQ7kNvwF2qX0l&_nc_oc=Adp6pFH2JSnh0uBhPn_ZPAxsbPJd635uNxr0Civ08eBwRHrz-7rc8fVkFZK01N6juJE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=OA4usOdgVxJevXCMjiTkvA&_nc_tpa=Q5bMBQJ86UJFRjaLjlR989qpz2eSr-LYhJnSB58CA5zg5vCkRVYB59svn8rMRaDGS_5OUV7Ctq3wngF4Dw&oh=00_AQTp3oqxV-TfHPDLzJxrjePz3oREXeG7eS7UxoRBgnBrzQ&oe=6B078ABA",
@@ -16836,7 +16920,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-2100-ru.jpg"
    },
    "source_key": "post:100045261260562_1475219943996700",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -17107,7 +17191,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-21 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699103431608349": {
    "fingerprint": "72333163c518fa427e98",
