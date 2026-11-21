@@ -17106,12 +17106,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116725963328231_1632677831180332",
        "error": null,
        "last_attempt": "2026-11-21T18:28:16+04:00",
        "mode": "immediate",
        "photo_id": "122116725939328231",
        "post_id": "1106793902521611_122116725963328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Když mi manžel řekl, že jsem přítěž, a vyhodil mě z domu při porodu, do nemocničního pokoje vešel třítícový generál a zasalutoval mi",
@@ -17120,6 +17122,7 @@
      ],
      "wp_error": null,
      "wp_id": 878,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -17145,12 +17148,14 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133197895302250_1009289131581920",
        "error": null,
        "last_attempt": "2026-11-21T18:19:34+04:00",
        "mode": "immediate",
        "photo_id": "122133197871302250",
        "post_id": "1012250151981057_122133197895302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
@@ -17176,21 +17181,25 @@
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131675749306132_4602331676689901",
        "error": null,
        "last_attempt": "2026-11-21T18:20:54+04:00",
        "mode": "immediate",
        "photo_id": "122131675719306132",
        "post_id": "1068567606345452_122131675749306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128269219305584_2366914117378172",
        "error": null,
        "last_attempt": "2026-11-21T18:24:52+04:00",
        "mode": "immediate",
        "photo_id": "122128269195305584",
        "post_id": "1078100405390763_122128269219305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -17205,12 +17214,14 @@
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133979215308548_2244098906537159",
        "error": null,
        "last_attempt": "2026-11-21T18:20:14+04:00",
        "mode": "immediate",
        "photo_id": "122133979191308548",
        "post_id": "1086658774532679_122133979215308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
@@ -17225,21 +17236,25 @@
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130185361300251_1140394068757280",
        "error": null,
        "last_attempt": "2026-11-21T18:24:18+04:00",
        "mode": "immediate",
        "photo_id": "122130185337300251",
        "post_id": "1093003583899107_122130185361300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114822078601707_4368493426627375",
        "error": null,
        "last_attempt": "2026-11-21T18:22:56+04:00",
        "mode": "immediate",
        "photo_id": "122114822048601707",
        "post_id": "1099258949937246_122114822078601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
@@ -17254,12 +17269,14 @@
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105149502533031_1662799005377632",
        "error": null,
        "last_attempt": "2026-11-21T18:22:17+04:00",
        "mode": "immediate",
        "photo_id": "122105149478533031",
        "post_id": "1128937866962526_122105149502533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
@@ -17285,21 +17302,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130702429314630_1492832759431433",
        "error": null,
        "last_attempt": "2026-11-21T18:21:35+04:00",
        "mode": "immediate",
        "photo_id": "122130702405314630",
        "post_id": "1149681171551323_122130702429314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123139219318395_2707401256355399",
        "error": null,
        "last_attempt": "2026-11-21T18:23:37+04:00",
        "mode": "immediate",
        "photo_id": "122123139195318395",
        "post_id": "1159996950522974_122123139219318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -17325,12 +17346,14 @@
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126498931301482_1151039087893963",
        "error": null,
        "last_attempt": "2026-11-21T18:25:28+04:00",
        "mode": "immediate",
        "photo_id": "122126498907301482",
        "post_id": "1174674892385169_122126498931301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
@@ -17373,39 +17396,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126823561304793_1438683335143506",
        "error": null,
        "last_attempt": "2026-11-21T18:27:47+04:00",
        "mode": "immediate",
        "photo_id": "122126823537304793",
        "post_id": "1079800528556354_122126823561304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114359844359745_2713768249040170",
        "error": null,
        "last_attempt": "2026-11-21T18:26:05+04:00",
        "mode": "immediate",
        "photo_id": "122114359820359745",
        "post_id": "1083785318156771_122114359844359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123210775302807_2052114438793435",
        "error": null,
        "last_attempt": "2026-11-21T18:26:38+04:00",
        "mode": "immediate",
        "photo_id": "122123210751302807",
        "post_id": "1089456087587677_122123210775302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141663493313481_1524671226153376",
        "error": null,
        "last_attempt": "2026-11-21T18:27:13+04:00",
        "mode": "immediate",
        "photo_id": "122141663469313481",
        "post_id": "1107966229066828_122141663493313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mąż wyrzucił ją z domu w trakcie porodu i przyszedł do szpitala z nową żoną, ale wtedy do sali wszedł generał i zasalutował",
@@ -17414,6 +17445,7 @@
      ],
      "wp_error": null,
      "wp_id": 877,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -17449,7 +17481,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1800-it.jpg"
    },
    "source_key": "post:61585117295331_122156050467170576",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
