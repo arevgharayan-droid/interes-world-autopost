@@ -17180,6 +17180,12 @@
        "post_id": "1087342844462554_122123225685296683",
        "status": "published"
       },
+      "1093003583899107": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T18:24:18+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "1099258949937246": {
        "attempts": 1,
        "error": null,
