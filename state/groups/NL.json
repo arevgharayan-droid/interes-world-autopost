@@ -26,6 +26,7 @@
   "2c102128a6bdf6cc4b13": "2026-11-16T16:00:57+00:00",
   "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
   "31ed525cac6f302a760e": "2026-11-18T15:23:57+00:00",
+  "328058e82fda872a8b75": "2026-11-21T22:45:45+00:00",
   "3533a55fa077da0c19af": "2026-11-20T19:26:18+00:00",
   "36f06768685fbf905768": "2026-11-19T19:58:54+00:00",
   "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
@@ -48,6 +49,7 @@
   "6a5fb8d3a145316fa770": "2026-11-12T09:04:19+00:00",
   "6f01f72feadb6fecb5ce": "2026-11-15T14:18:37+00:00",
   "6fcb14f617ec70672575": "2026-11-21T19:44:57+00:00",
+  "71261dc1524c8f04c4de": "2026-11-21T22:45:45+00:00",
   "76987c00bbd404e3cd24": "2026-11-12T10:26:46+00:00",
   "7b147e020095c6199d1d": "2026-11-10T22:05:36+00:00",
   "81de3c9a0a991fc9bf6a": "2026-11-09T20:03:33+00:00",
@@ -11352,7 +11354,79 @@
    }
   },
   "2026-11-22 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Er verließ mich und unsere sieben Söhne für meine Schwester – doch das Hochzeitsgeschenk unseres Ältesten ließ den ganzen Saal verstummen",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 930,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn man verliet mij en onze zeven zonen voor mijn eigen zus, want met haar was het leven \"makkelijker\". Toen pakte onze oudste zoon een huwelijkscadeau voor hem in",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 929,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/829973261_1512892224195123_7722349434315566987_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uhbxHii2t-AQ7kNvwGPbqNw&_nc_oc=AdrdTpHF8cejMvfcd0NMSLoCVbTITi9IyXtcp_kTXK7CJE-pB_IXBjmNUpawUmpCyPs&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=VVMmiHTZWVKPtnUgDyryRA&_nc_tpa=Q5bMBQKrxu7JNzJjUJzqglGOaUq_ETaTS5KF0REAOsndLsCMLjvV_J0D3_1AYhzo36chamgqUj7b9a6yIQ&oh=00_AQTYjUVB4RCumJT_Pp3PB887z0uF3hhpkigPSvvk0epwPg&oe=6B07EDC4",
@@ -11364,7 +11438,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1200-nl.jpg"
    },
    "source_key": "post:100064230806326_1512892317528447",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11725,7 +11799,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1599735255518336": {
    "fingerprint": "c319c595abd42758fc88",
