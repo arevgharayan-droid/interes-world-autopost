@@ -9068,6 +9068,12 @@
        "photo_id": "122130373413441679",
        "post_id": "1260826840455724_122130373449441679",
        "status": "scheduled"
+      },
+      "1280413955154689": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T14:22:14+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "Mon mari réclamait notre maison et la garde de notre fille de 6 ans, quand elle a sorti un petit téléphone violet devant la juge",
