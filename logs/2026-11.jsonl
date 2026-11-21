@@ -9773,3 +9773,6 @@
 {"slot": "2026-11-21 15:00", "lang": "EN", "action": "wp_post", "id": 855, "status": "future", "t": "2026-11-21T10:17:01+00:00", "group": "EN2"}
 {"slot": "2026-11-21 15:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-21T10:17:03+00:00", "group": "EN"}
 {"slot": "2026-11-21 15:00", "lang": "EN", "action": "wp_post", "id": 856, "status": "future", "t": "2026-11-21T10:17:04+00:00", "group": "EN"}
+{"slot": "2026-11-21 15:00", "lang": "EN", "page": "233545296514172", "action": "fb_schedule", "photo_id": "122337581162241259", "post_id": "233545296514172_122337581192241259", "t": "2026-11-21T10:17:07+00:00", "group": "EN2"}
+{"slot": "2026-11-21 15:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-21T10:17:08+00:00", "group": "FR"}
+{"slot": "2026-11-21 15:00", "lang": "FR", "action": "wp_post", "id": 857, "status": "future", "t": "2026-11-21T10:17:09+00:00", "group": "FR"}
