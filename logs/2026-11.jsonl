@@ -10342,3 +10342,4 @@
 {"slot": "2026-11-21 21:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 869 слов (исходник 729, цель ±10%)"], "t": "2026-11-21T17:04:08+00:00", "group": "FR"}
 {"slot": "2026-11-21 21:00", "lang": "NL", "action": "wp_post", "id": 891, "status": "publish", "t": "2026-11-21T17:04:08+00:00", "group": "NL"}
 {"slot": "2026-11-21 21:00", "lang": "FR", "action": "wp_post", "id": 892, "status": "publish", "t": "2026-11-21T17:04:09+00:00", "group": "FR"}
+{"slot": "2026-11-21 21:00", "lang": "DE", "action": "wp_post", "id": 893, "status": "publish", "t": "2026-11-21T17:04:09+00:00", "group": "NL"}

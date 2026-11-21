@@ -10781,7 +10781,10 @@
      "generated": true,
      "pages": {},
      "title": "Sechs Jahre zahlte ich heimlich die Wasserrechnung meiner Nachbarin – am Morgen nach ihrer Beerdigung stand ihr Sohn mit einem Anwalt vor meiner Tür",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 893,
+     "wp_status": "publish"
     },
     "EN": {
      "pages": {},
@@ -10835,6 +10838,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-21T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/778309946_1625432772308749_1404883927263865642_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NAEQpF8JT2oQ7kNvwHnamdj&_nc_oc=AdoKGLVlxW93IAkyY7rMe98DqdREmEwF54nEamZLo7ZBZm1WLKvsXXP_iNwfXINPxd8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hc4Q4TIeL_6x-NAFZSmpQg&_nc_tpa=Q5bMBQLnv9ziHPqF1KFdvhQ9uCFmCyMYJ95tbuPoyOF8D8sXMVwr54T3xliwnA421CbcBQyM0dHav3d1sA&oh=00_AQQzRWnfqsqCVOdIivE2XFQo0iK7UsF3mJvXoFvU1Agcdw&oe=6B07BC99",
@@ -10846,7 +10850,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-2100-nl.jpg"
    },
    "source_key": "post:100045261260562_1625432835642076",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11112,7 +11116,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-21 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698998888285470": {
    "fingerprint": "82ad13dcc80155984bd8",
