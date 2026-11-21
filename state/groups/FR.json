@@ -9938,7 +9938,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-22T02:45:44+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Ma petite-fille a disparu en kayak avec son oncle : sept ans plus tard, ce que j'ai trouvé dans son vieux gilet de sauvetage m'a fait appeler la police",
      "warnings": [
       "длина текста FB 474 слов (исходник 411, цель ±10%)"
