@@ -9201,7 +9201,10 @@
      "generated": true,
      "pages": {},
      "title": "Le juge m'a tout retiré devant mon mari et sa maîtresse, mais un milliardaire a fait exploser les portes du tribunal pour me réclamer comme sa fille",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 879,
+     "wp_status": "publish"
     },
     "IT": {
      "pages": {},
@@ -9236,6 +9239,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-21T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/906133002_122155106535170576_7443817393711679641_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HH6Zb4amdRUQ7kNvwHgpZrX&_nc_oc=AdpEyBDaV4XurXlOeVDTBNHotfQMjo9v3x0x89X1FfeYRL4eglAzS0IrnaXfgZSd_6g&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=FC4-OIwiAgGZ3IfB8UBuvg&_nc_tpa=Q5bMBQKRh9iGwAXJl7S3pZnwb3N_FPMtoqR1EgzUMP2R3O8e5bztU6c5P-Mnc4vqM4PI5WXvGF7fCECy3A&oh=00_AQSwgyP7zqpKloEHaT55VNzKRd0WrjtcMYGRmUVjDtI3zQ&oe=6B076BD3",
@@ -9247,7 +9251,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1800-fr.jpg"
    },
    "source_key": "post:61585117295331_122155106589170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -9753,7 +9757,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-21 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122155635159170576": {
    "fingerprint": "a802f1da257574a06eef",

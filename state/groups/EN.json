@@ -13003,7 +13003,10 @@
      "generated": true,
      "pages": {},
      "title": "My Husband Abandoned Me at a Rundown Bus Stop With No Money or Phone, Then a Blind Woman Sat Beside Me and Whispered, \"Pretend You're My Granddaughter",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 880,
+     "wp_status": "publish"
     },
     "ES": {
      "pages": {},
@@ -13046,6 +13049,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-21T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/917341912_1721386326046726_8085074418017929902_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BtWNpOw3NAcQ7kNvwFJ9C3T&_nc_oc=Adpc0wyQQ_iyfATKRYlAsfzvomim8NsI067SO_PV820iAwK1JfSUz1tNiNiueun5S7M&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=ktXKzGjjHACVDlZVJSKNYA&_nc_tpa=Q5bMBQKAtutgbafGtFhYivLduiKMBx5fTdwPurLT3ShOqpAfKwZUehR76IbKBPGkvX-JUnKZTeiAGkHlFg&oh=00_AQRY-a4-Rjjg6YqZxZe9cXNm4w8Wd6cWwtlr5g84ilhEqQ&oe=6B078EEE",
@@ -13057,7 +13061,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1800-en.jpg"
    },
    "source_key": "post:100045261260562_1721386566046702",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13378,7 +13382,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-21 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100050386034442_1714382830251235": {
    "fingerprint": "0c124da3304c244bc06b",

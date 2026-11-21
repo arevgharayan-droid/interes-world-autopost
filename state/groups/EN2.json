@@ -15,6 +15,7 @@
   "3015169f17e68b6fd1bf": "2026-11-09T13:24:29+00:00",
   "3367781bbac23680b15e": "2026-11-16T10:11:01+00:00",
   "35f4dc18fe1b6e9d863f": "2026-11-09T20:07:49+00:00",
+  "3a97f3e137c54cf90644": "2026-11-21T14:12:55+00:00",
   "405a9e8158205d645adc": "2026-11-09T20:00:27+00:00",
   "457a0c3996dd22980ee2": "2026-11-12T17:47:23+00:00",
   "52ffcff1570a8d759ae4": "2026-11-18T08:52:00+00:00",
@@ -12116,7 +12117,72 @@
    }
   },
   "2026-11-21 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Ten-Year-Old Son Whispered \"Mom, Don't Get on That Plane\" — What I Found Hidden in My Closet Exposed My Husband's Secret",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 881,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/914453589_1564948608989484_5345251364788872011_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rTyMhxaI7v4Q7kNvwGdpoNo&_nc_oc=AdpYJSK5_KFtYFu31XhKD3uf7LykRBsgQf88iJ986bNMN9YkCIwvDLi9dA1-wHvvUC8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=bIj8HbTaIV6sV2PMA5rPZg&_nc_tpa=Q5bMBQJIf4i-AB38gUd_pQmqVa1QoecNTdLUMGlub0ZEn3gXqGDJV6t89gQYx6QbzJxhACT0WK3X5SA1ew&oh=00_AQTkGRnsgouispJxSO0cA7F64lPfSpUP-F-WmcGsPgdlWA&oe=6B077A16",
@@ -12128,7 +12194,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1800-en2.jpg"
    },
    "source_key": "post:100064230806326_1565705885580423",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12473,7 +12539,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-21 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1458749583026046": {
    "fingerprint": "7054a17b16072531704b",
