@@ -12038,12 +12038,13 @@
       "994273113779575": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122140029518776189_2025207864840213",
        "error": null,
        "last_attempt": "2026-11-21T14:17:31+04:00",
        "mode": "schedule",
        "photo_id": "122140029488776189",
        "post_id": "994273113779575_122140029518776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "A Corporal Locked Me in a Cell on the Marine Base I Was About to Command, and My Brother Grinned Through the Bars",
@@ -12106,7 +12107,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1500-en2.jpg"
    },
    "source_key": "post:61585117295331_122154538941170576",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
