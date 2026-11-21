@@ -17327,12 +17327,13 @@
       "1191480207389219": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122126482347405175_1118639567647241",
        "error": null,
        "last_attempt": "2026-11-21T18:16:18+04:00",
        "mode": "immediate",
        "photo_id": "122126482323405175",
        "post_id": "1191480207389219_122126482347405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
