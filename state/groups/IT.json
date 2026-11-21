@@ -18187,12 +18187,13 @@
       "1142735408923607": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122139535737311525_1821464145769005",
        "error": null,
        "last_attempt": "2026-11-21T23:45:05+04:00",
        "mode": "schedule",
        "photo_id": "122139535707311525",
        "post_id": "1142735408923607_122139535737311525",
-       "status": "published"
+       "status": "done"
       },
       "1149681171551323": {
        "attempts": 1,
