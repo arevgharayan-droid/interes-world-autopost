@@ -39,6 +39,7 @@
   "6f7aeb7cd42f63728918": "2026-11-20T19:26:13+00:00",
   "704e349d3d23b38ec128": "2026-11-19T14:08:16+00:00",
   "70c05379b999f4d41de6": "2026-11-18T15:24:21+00:00",
+  "724e0627e5a1d92bef00": "2026-11-21T10:17:16+00:00",
   "72cfa8c608946a546f2e": "2026-11-18T18:56:12+00:00",
   "7599ebffd8f3d4caa6ef": "2026-11-18T08:52:49+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
@@ -51,6 +52,7 @@
   "93c7cd65e2a500a2cf38": "2026-11-18T08:52:49+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
   "95d798f47b5adbd505b6": "2026-11-19T17:36:01+00:00",
+  "98415c4e620c5fec9c54": "2026-11-21T10:17:16+00:00",
   "99e8d9f189af8f08dfeb": "2026-11-20T19:26:13+00:00",
   "9e9961bac78dda63c754": "2026-11-17T00:19:13+00:00",
   "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
@@ -63,6 +65,7 @@
   "bdb1bbcd6e4c0469fdaa": "2026-11-19T19:58:49+00:00",
   "c2bc42d5c2d6930640d5": "2026-11-18T22:49:45+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
+  "c7a23463c38efad77763": "2026-11-21T10:17:16+00:00",
   "c849b1d0af5703028d05": "2026-11-19T14:08:16+00:00",
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
@@ -80,6 +83,7 @@
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
   "ea611fa8f80432de1914": "2026-11-20T22:45:57+00:00",
   "eb19c503b19e6605601a": "2026-11-18T15:24:21+00:00",
+  "eeed500779e35890c78a": "2026-11-21T10:17:16+00:00",
   "ef90411773fe09e82bf0": "2026-11-18T22:20:58+00:00",
   "f113b22975dc330f28ae": "2026-11-20T14:41:48+00:00",
   "f6a4a30022b8eb2699ca": "2026-11-19T10:26:49+00:00",
@@ -4891,7 +4895,95 @@
    }
   },
   "2026-11-21 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "حبسها زوجها في الخارج في ثلج قارس وهي حامل في شهرها الثامن، وعندما وصل الشرطي همس: \"ليس مجدداً يا فوريست، ليس بعد ما حدث لجيد",
+     "warnings": [
+      "длина текста FB 553 слов (исходник 697, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 521,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Embarazada de ocho meses, mi esposo me dejó afuera con 9 grados bajo cero, y cuando llegó el policía, era su hermano y susurró: \"Otra vez no, después de lo de Jade",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 519,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Însărcinată în opt luni, soțul a lăsat-o încuiată afară pe ger, dar când a venit polițistul, a șoptit un nume care a schimbat tot",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 520,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Муж запер беременную жену на морозе в одной ночнушке, но приехавший полицейский оказался его братом и прошептал: «Не после Джейд",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 518,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/915551397_1721278332724192_642254084683887324_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=i8BIcIfNwDUQ7kNvwHJLLWp&_nc_oc=Adr4YLkfero7WITp9wQVQwjfMljqfB6LsF0WmphIFqosnpKZAtW72DN-gY42IM59Aj8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=PqzryQQoSOMg9rxXNIf1XA&_nc_tpa=Q5bMBQIqJS0vr3IEJ8-pK5zsjPWOEw2zbhj-RB-CJODpd1Wcv3-7XEP0-KvSW-_Hd7FUI3ZzuWh3On-3gg&oh=00_AQRb9ja9SWL0qCYnHPQq-lXmU-UwOmtohhop7JOMs11L3Q&oe=6B0759EA",
@@ -4903,7 +4995,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-1500-mix.jpg"
    },
    "source_key": "post:100045261260562_1721278456057513",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -5022,7 +5114,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-21 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100050386034442_1717217389967779": {
    "fingerprint": "8d1870056c456e3ef9ad",
