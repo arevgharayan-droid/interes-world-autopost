@@ -17953,7 +17953,10 @@
      "generated": true,
      "pages": {},
      "title": "Babička mi odkázala chatu za 450 000 dolarů, rodiče ji tajně prodali na cestu kolem světa – netušili, že jim jeden detail všechno zboří",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 906,
+     "wp_status": "future"
     },
     "DE": {
      "pages": {},
@@ -17996,7 +17999,10 @@
      "title": "Babcia zostawiła mi domek nad jeziorem i prośbę: „chroń go za wszelką cenę”. Rodzice sprzedali go, gdy byłam w delegacji",
      "warnings": [
       "длина текста FB 395 слов (исходник 520, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 905,
+     "wp_status": "future"
     },
     "PT": {
      "pages": {},
@@ -18019,6 +18025,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-22T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/644558356_1325477172936630_3321058241216657775_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Hx66Ol4_R0YQ7kNvwGOTrk3&_nc_oc=Adpg7YJb8qHsCn5iYpVoN6mT1XkOCGzUU1dA3qQYat8kHdfnPEn6XMdeMj34UKYBrQo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=T3sDscVEPI3nO4uTRTkvzA&_nc_tpa=Q5bMBQJvHVWYknR0Jfryi92m9furJ3oEixrJIFNZ-x_7skgcIFbtjVpExkLJ9MPSSxNmboOdWHv82VInRA&oh=00_AQQoHWWd6kBeq73_gmrBigZ8_q1B2tqHPOWnMZKmTpEaNQ&oe=6B07CC87",
@@ -18030,7 +18037,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-0000-it.jpg"
    },
    "source_key": "post:100064230806326_1325477259603288",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -18374,7 +18381,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1450160977218240": {
    "fingerprint": "68ee500f66d9ec24283c",
