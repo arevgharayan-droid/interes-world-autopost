@@ -17417,30 +17417,36 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129518911306316_3346261562245925",
        "error": null,
        "last_attempt": "2026-11-22T00:14:52+04:00",
        "mode": "immediate",
        "photo_id": "122129518887306316",
        "post_id": "1138572272664180_122129518911306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119710033471857_1901235484387646",
        "error": null,
        "last_attempt": "2026-11-22T00:14:30+04:00",
        "mode": "immediate",
        "photo_id": "122119710009471857",
        "post_id": "1338630212673029_122119710033471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122431231505599_1641360596852267",
        "error": null,
        "last_attempt": "2026-11-22T00:14:09+04:00",
        "mode": "immediate",
        "photo_id": "122122431189505599",
        "post_id": "1448441201677530_122122431231505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Minha mãe chamou a polícia para minha filha de 5 anos e disse \"levem-na para aprender a lição\". Voltei um dia antes e cancelei tudo",
@@ -17449,6 +17455,7 @@
      ],
      "wp_error": null,
      "wp_id": 554,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RO": {
@@ -17730,30 +17737,36 @@
       },
       "1129620776897151": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128420491311884_970379599184258",
        "error": null,
        "last_attempt": "2026-11-22T00:12:08+04:00",
        "mode": "immediate",
        "photo_id": "122128420467311884",
        "post_id": "1129620776897151_122128420491311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127756639307134_1664678488489651",
        "error": null,
        "last_attempt": "2026-11-22T00:12:43+04:00",
        "mode": "immediate",
        "photo_id": "122127756615307134",
        "post_id": "1164575726728296_122127756639307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124181947305562_1663721071802496",
        "error": null,
        "last_attempt": "2026-11-22T00:13:46+04:00",
        "mode": "immediate",
        "photo_id": "122124181923305562",
        "post_id": "1180583925128715_122124181947305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Annem ve Kardeşim Beş Yaşındaki Kızıma Polis Çağırdı, Ben de Yıllardır Yaptığım Ödemelerin Hepsini Tek Dokunuşla Durdurdum",
@@ -17782,7 +17795,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-0000-ru.jpg"
    },
    "source_key": "post:100044802900629_1605386430964772",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
