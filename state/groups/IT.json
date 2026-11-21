@@ -21,9 +21,11 @@
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
   "3cd0bbe178487279f165": "2026-11-20T14:41:44+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
+  "459bbfad275aecbd52c3": "2026-11-21T14:12:51+00:00",
   "45d99698e588bacd7f5c": "2026-11-18T08:52:43+00:00",
   "499bb9b863a39969c565": "2026-11-17T20:38:41+00:00",
   "4d09f6c7134467d99fa5": "2026-11-16T23:51:59+00:00",
+  "50234f1f193de2230c6f": "2026-11-21T14:12:51+00:00",
   "52860ad6d022a2bd90ef": "2026-11-17T10:38:47+00:00",
   "5925113003b25213dc5b": "2026-11-15T14:13:20+00:00",
   "59ba199024c504005873": "2026-11-13T10:14:50+00:00",
@@ -57,6 +59,7 @@
   "885f2e137e5a0835d33e": "2026-11-14T09:18:15+00:00",
   "89c6b9a751ed3bd87da5": "2026-11-14T09:15:08+00:00",
   "8af2ac126626c3379771": "2026-11-10T22:07:11+00:00",
+  "8b5558dda0b7f4acd1f8": "2026-11-21T14:12:51+00:00",
   "8ce4da47da5cb5603868": "2026-11-17T10:38:47+00:00",
   "8d6dd84f3fd108530c61": "2026-11-14T09:18:15+00:00",
   "8dcd9b38604c3a494e89": "2026-11-18T08:52:43+00:00",
@@ -17039,9 +17042,108 @@
    }
   },
   "2026-11-21 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Když mi manžel řekl, že jsem přítěž, a vyhodil mě z domu při porodu, do nemocničního pokoje vešel třítícový generál a zasalutoval mi",
+     "warnings": [
+      "длина текста FB 485 слов (исходник 699, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 878,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi ha cacciata di casa mentre avevo le contrazioni e il giorno dopo è venuto in ospedale con un'altra donna: poi è entrato un generale a tre stelle e ha salutato me",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 876,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mąż wyrzucił ją z domu w trakcie porodu i przyszedł do szpitala z nową żoną, ale wtedy do sali wszedł generał i zasalutował",
+     "warnings": [
+      "длина текста FB 499 слов (исходник 699, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 877,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/916365025_122156050407170576_1055927709610626027_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GHHQvE0_v_AQ7kNvwHojFM7&_nc_oc=AdoILjiyTIkOD_JqWoYmiuK1g1B5roNOAQRErlEVuv-n8xjxbrR2zwLrIfEyg1PjbV0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=zbVncIbUZnD3Kp6rUIALeg&_nc_tpa=Q5bMBQJDWBWtD5cvNKYmTJaxqgHNxpFkgQqeGQuTPVwyR86XKIfz95cyZshmmp073i8K7nOJcDNnKmBBnw&oh=00_AQTpNW7KrDyvIvzSXOim4XRcHFLXhMUFOz1h1wrFAZkfTg&oe=6B075F33",
+    "link": "https://www.facebook.com/story.php?story_fbid=122156050467170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "While I was deployed overseas, I inherited twenty million dollars without telling my husband a single word. Then, as I was going into labor with our child, he threw me out of our house, called me dead weight, and showed up in my hospital room with another woman wearing a wedding ring. He thought he'd finally gotten rid of his helpless wife—until a three-star general walked in, saluted me, and exposed the identity I'd been keeping secret from him.\n\nMy name is Emily Carter, and the most heartbreaking day of my marriage became the day my husband finally learned who I really was.\n\nA few months earlier, my grandfather had passed away, leaving me a twenty-million-dollar inheritance held in a family trust. The military legal office overseeing his estate had ordered me to keep everything confidential until the transfer was officially completed.\n\nI hadn't shared the news with anyone—not even Jason.\n\nIt wasn't because I didn't trust my husband. I was legally required to remain silent.\n\nAt the time, I was seven months pregnant and serving in a role I wasn't authorized to discuss with civilians. Jason believed I was simply an administrative officer working for the Department of Defense.\n\nHe had no idea whatsoever that I was a decorated Army Colonel entrusted with commanding one of the military's most highly respected operational units.\n\nFor months, Jason had excused his behavior by blaming “stress.” It was the explanation he offered whenever he skipped my prenatal appointments, came home after midnight, or treated my pregnancy like a burden instead of the child we'd once prayed so desperately to have.\n\nThe night my entire world fell apart, my contractions had already started.\n\nI gripped the kitchen counter as another wave of pain tightened across my belly. “Jason,” I whispered, “I think the baby's coming. My doctor told me I need to go to the hospital.”\n\nHe barely looked in my direction.\n\n“Not this again,” he muttered. “I've got somewhere else I need to be.”\n\nThen his expression hardened. “You're nothing but dead weight. I'm sick of having to carry you.”\n\nHe snatched my hospital bag from the hallway closet and flung it onto the floor.\n\n“Get out. Find someone else who's willing to deal with your drama.”\n\nAnother contraction hit so violently that my knees nearly gave way. I couldn't even bend down to close the zipper on my bag.\n\nJason just stood there, silently watching as I struggled.\n\nWith shaking hands, I phoned my elderly neighbor, Mrs. Alvarez. She rushed over within minutes, wrapped an arm around my shoulders, picked up the bag Jason had thrown on the floor, and helped me slowly reach her car.\n\nAs we approached the front door, Jason crossed his arms over his chest.\n\n“Don't even think about coming back.”\n\nBy midnight, I had been admitted to the military medical center. The nurses checked my baby's heartbeat and helped me settle comfortably into bed, showing me more kindness than my own husband had offered in months.\n\nMy phone stayed completely silent.\n\nJason never called.\n\nThe following afternoon, the door to my hospital room slowly opened.\n\nJason walked inside wearing the same cold expression he'd had when he kicked me out. Beside him stood an elegantly dressed woman, a sparkling new wedding ring shining on her finger.\n\nShe smiled at me as though she was completely convinced she'd already replaced me.\n\nBefore either of them could utter a word, the sound of approaching footsteps rang out from the hallway.\n\nA three-star Army General entered my hospital room.\n\nEvery nearby doctor and nurse immediately snapped to attention. The General walked toward my bedside, stopped directly in front of me, and lifted his hand in a flawless military salute.\n\n“Colonel Emily Carter,” he declared.\n\nJason's mouth fell open in disbelief.\n\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a 'YES' comment below and give us a \"Like \" to get full story",
+    "wp_media_id": 871,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1800-it.jpg"
+   },
+   "source_key": "post:61585117295331_122156050467170576",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 21:00": {
    "langs": {},
@@ -17553,6 +17655,14 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-20 00:30",
+   "status": "used"
+  },
+  "post:61585117295331_122156050467170576": {
+   "fingerprint": "657db9daa3fa8e910088",
+   "link": "https://www.facebook.com/story.php?story_fbid=122156050467170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-21 18:00",
    "status": "used"
   },
   "post:61585369480106_122145778227178982": {

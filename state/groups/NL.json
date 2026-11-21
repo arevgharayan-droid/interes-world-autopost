@@ -10472,7 +10472,23 @@
   "2026-11-21 18:00": {
    "langs": {},
    "slot_iso": "2026-11-21T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/913810778_122236124702328214_4594317176141720175_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=UIfRH-H_LeYQ7kNvwGtQMNl&_nc_oc=AdpdMscnW1Bwo575dsSXBV7uO2_fMmtEsiqNRnaQ5z9AII71pwlCq9AR0zqTH6h8fAA&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=olf_B0zcRxGgHkJxkNuLaw&_nc_tpa=Q5bMBQJNuaUMo7t7OyynHAFGhJaRnt9qYtTxxiMaiYHIIKk6DfLbD0yX56EyfL5hRAhm0uV-DHPza9Zjig&oh=00_AQR4Sq7H3W6IRzHaXzTtm9gzYfxo-V-mDnlydRXJBvgy4A&oe=6B07771E",
+    "link": "https://www.facebook.com/story.php?story_fbid=122236261454328214&id=61559846438723",
+    "origin": "manual",
+    "page_id": "61559846438723",
+    "text": "Every Veterans Day for 9 years, an old Marine came into my diner, ordered 2 coffees, and left one untouched across the table. I always paid his bill. This year, he didn't come. A young Marine in dress blues did. He handed me an envelope. \"He said you'd want to know who the second coffee was for.\"\n My name is Roberta Kane. Everybody calls me Bobbie. I'm 58. I've waited tables at the Harbor Diner in Oceanside, California, for twenty-two years.\n Oceanside is a Marine Corps town. Camp Pendleton is right up the road. We see a lot of uniforms.\n Nine years ago, on November 11th, an old man came in at 7 a.m. and sat down in Booth 4.\n Gray crew cut. Marine Corps ball cap. A Vietnam service ribbon pinned to his jacket.\n \"Two coffees, please, ma'am,\" he said. \"Black.\"\n I brought them. He slid one across the table to the empty seat. He didn't touch it.\n He sat there for three hours. Staring out the window. Drinking his one coffee.\n When he got up to pay, his hands were shaking.\n I told him it was on me.\n \"Thank you for your service, sir,\" I said.\n He looked at my name tag for a long time. Then he said, \"Thank you, Roberta,\" and left.\n He came back the next Veterans Day. And the next. Every year. Same booth. Same two coffees. Same untouched cup.\n His name was Mr. Cyrus Lambert. That's all he ever told me.\n Every year, I sat with him for five minutes. Every year, I paid his bill.\n My father was a Marine too. He was killed in Vietnam when I was three months old. I never knew him. I have one photo of him, holding me in a hospital blanket, in his uniform.\n Maybe that's why I always sat with Mr. Lambert.\n Last spring, the owner of the diner retired. His son, Chad, took over.\n Chad is thirty-one. He wears a headset and talks about \"table turnover.\"\n This Veterans Day morning, I set up Booth 4 like I always do. Two cups. A pot of coffee.\n Chad saw it.\n \"Who's that for?\"\n \"Mr. Lambert. He comes every year.\"\n \"The old guy who sits for three hours and orders two coffees? I heard about him.\" Chad rolled his eyes. \"Three hours. One booth. Zero tip. That's a cheapskate, Bobbie, not a customer.\"\n \"I pay his bill.\"\n \"That's the problem.\" He crossed his arms. \"This is a restaurant, not a museum for old soldiers. If he comes in, he orders food or he leaves. And you're not paying for anybody. That's coming out of your paycheck from now on.\"\n I didn't argue.\n I've worked for a lot of managers. Most of them don't last.\n I just poured the coffee and waited.\n 7 a.m. came. Then 7:30. Then 8.\n Mr. Lambert didn't come.\n At 8:15, the bell over the door rang.\n A young man walked in. Tall. Early twenties. Marine Corps dress blues. White cover tucked under his arm. Every button shining.\n The whole diner went quiet.\n He looked around until he saw my name tag. Then he walked straight to me.\n \"Ma'am, are you Roberta Kane?\"\n \"Yes.\"\n \"I'm Corporal Devin Lambert. Cyrus Lambert was my grandfather.\"\n Was.\n \"He passed away in September,\" he said gently. \"He made me promise to come here today. In uniform. And to give you this.\"\n He held out a thick, worn envelope. My name was written on the front in shaky handwriting.\n Chad walked over, smiling his manager smile.\n \"Sir, we have a fifteen-minute booth limit during the holiday rush.\"\n The young Marine didn't even look at him.\n \"Ma'am,\" he said to me. \"My grandfather told me something before he died.\"\n \"He said you'd want to know who the second coffee was for.\"\n ──────────────\nFULL ENDING : PLEASE type \" OK \" and Press \" Like \" so we can post full story. Thank you ❤👇👇👇",
+    "wp_media_id": 875,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1800-nl.jpg"
+   },
+   "source_key": "post:61559846438723_122236261454328214",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 21:00": {
    "langs": {},
@@ -10894,6 +10910,14 @@
    "page_id": "61559846438723",
    "slot": "2026-11-16 23:26",
    "status": "used"
+  },
+  "post:61559846438723_122236261454328214": {
+   "fingerprint": "723fc1e67ea355adeb8e",
+   "link": "https://www.facebook.com/story.php?story_fbid=122236261454328214&id=61559846438723",
+   "origin": "manual",
+   "page_id": "61559846438723",
+   "slot": "2026-11-21 18:00",
+   "status": "reserved"
   },
   "post:61560353781750_122118713858345126": {
    "fingerprint": "5884cb21f7124cdb4a71",
