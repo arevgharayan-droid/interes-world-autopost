@@ -8,6 +8,7 @@
   "1d9175966e062556cf08": "2026-11-09T20:02:35+00:00",
   "1de1978484aefe0b2b8a": "2026-11-14T11:39:11+00:00",
   "1e5353b2a2e832230c83": "2026-11-10T22:07:10+00:00",
+  "20eeac9f368eb6b6f94d": "2026-11-21T22:45:27+00:00",
   "2fe82e12e4ad9907ad54": "2026-11-14T19:42:21+00:00",
   "3dce7e6988a88bf961cd": "2026-11-19T17:52:54+00:00",
   "3f016791a0afbbb7ef04": "2026-11-18T08:52:10+00:00",
@@ -9912,7 +9913,74 @@
    }
   },
   "2026-11-22 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ma petite-fille a disparu en kayak avec son oncle : sept ans plus tard, ce que j'ai trouvé dans son vieux gilet de sauvetage m'a fait appeler la police",
+     "warnings": [
+      "длина текста FB 474 слов (исходник 411, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 925,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/758863681_1565399761630106_5744844037629692137_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ORTFLmLQd4cQ7kNvwHXXi27&_nc_oc=AdpremAHB9JuEJp7IOnFA6TIXRCJk28zspIhu-1ZGe-mgjzxoF45ke56s1jwDfYhwEo&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=qhwpzQqDQd1hrSoBhMlRoQ&_nc_tpa=Q5bMBQJ91iJwuBQrATtTdqRTGQ51qcXjSLxtCAPu9VgqGBITMg49BvPe5LuCbYSHyB6jgOEihlYwYcvVpg&oh=00_AQTqVBXD5IyfOfwloraJNReD1oB3uJHby3Zw17YvY38FEQ&oe=6B07ED14",
@@ -9924,7 +9992,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1200-fr.jpg"
    },
    "source_key": "post:100044802900629_1566442334859182",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -10161,7 +10229,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-22 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100044802900629_1665425358294212": {
    "fingerprint": "ecfa3daf4117a638921a",
