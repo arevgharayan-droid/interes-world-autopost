@@ -993,7 +993,7 @@
   "1160223747182678_122137884201400586": "2026-11-21T11:44:34+00:00",
   "1160223747182678_122137916757400586": "2026-11-21T14:13:11+00:00",
   "1160223747182678_122137943649400586": "2026-11-21T17:05:44+00:00",
-  "1160223747182678_122137968867400586": "2026-11-21T19:45:35+00:00",
+  "1160223747182678_122137968867400586": "2026-11-21T20:19:17+00:00",
   "1160240797163045_122128198287300955": "2026-11-14T19:43:53+00:00",
   "1160240797163045_122128246209300955": "2026-11-16T00:16:54+00:00",
   "1160240797163045_122128297911300955": "2026-11-16T08:16:40+00:00",
@@ -1104,7 +1104,7 @@
   "1191480207389219_122126460321405175": "2026-11-21T11:45:14+00:00",
   "1191480207389219_122126482347405175": "2026-11-21T14:16:22+00:00",
   "1191480207389219_122126498247405175": "2026-11-21T17:09:15+00:00",
-  "1191480207389219_122126510811405175": "2026-11-21T19:48:01+00:00",
+  "1191480207389219_122126510811405175": "2026-11-21T20:19:49+00:00",
   "122104899380533031": "2026-11-14T10:24:36+00:00",
   "122104899818533031": "2026-11-14T10:27:25+00:00",
   "122104904852533031": "2026-11-14T11:40:24+00:00",
@@ -2197,7 +2197,7 @@
   "997772916762884_122113380860437662": "2026-11-21T11:45:22+00:00",
   "997772916762884_122113390316437662": "2026-11-21T14:13:41+00:00",
   "997772916762884_122113396844437662": "2026-11-21T17:06:32+00:00",
-  "997772916762884_122113402124437662": "2026-11-21T19:46:05+00:00"
+  "997772916762884_122113402124437662": "2026-11-21T20:20:01+00:00"
  },
  "slots": {
   "2026-11-09 18:00": {
@@ -18006,18 +18006,21 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116744467328231_1853108549446627",
        "error": null,
        "last_attempt": "2026-11-22T00:14:03+04:00",
        "mode": "immediate",
        "photo_id": "122116744443328231",
        "post_id": "1106793902521611_122116744467328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Babička mi odkázala chatu za 450 000 dolarů, rodiče ji tajně prodali na cestu kolem světa – netušili, že jim jeden detail všechno zboří",
      "warnings": [],
      "wp_error": null,
      "wp_id": 906,
+     "wp_live": true,
      "wp_status": "future"
     },
     "DE": {
@@ -18197,66 +18200,80 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130744873314630_1889584565793600",
        "error": null,
        "last_attempt": "2026-11-22T00:07:10+04:00",
        "mode": "immediate",
        "photo_id": "122130744843314630",
        "post_id": "1149681171551323_122130744873314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123157711318395_1495961259050084",
        "error": null,
        "last_attempt": "2026-11-22T00:09:11+04:00",
        "mode": "immediate",
        "photo_id": "122123157687318395",
        "post_id": "1159996950522974_122123157711318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137968867400586_1051416414639569",
        "error": null,
        "last_attempt": "2026-11-21T23:45:33+04:00",
        "mode": "schedule",
        "photo_id": "122137968837400586",
        "post_id": "1160223747182678_122137968867400586",
-       "status": "scheduled"
+       "status": "done"
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129336901300955_29260033460317026",
        "error": null,
        "last_attempt": "2026-11-22T00:03:48+04:00",
        "mode": "immediate",
        "photo_id": "122129336877300955",
        "post_id": "1160240797163045_122129336901300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126524731301482_1174503335075537",
        "error": null,
        "last_attempt": "2026-11-22T00:11:12+04:00",
        "mode": "immediate",
        "photo_id": "122126524707301482",
        "post_id": "1174674892385169_122126524731301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126510811405175_1728774908667375",
        "error": null,
        "last_attempt": "2026-11-21T23:47:58+04:00",
        "mode": "schedule",
        "photo_id": "122126510781405175",
        "post_id": "1191480207389219_122126510811405175",
-       "status": "scheduled"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113402124437662_1670539511083764",
        "error": null,
        "last_attempt": "2026-11-21T23:46:02+04:00",
        "mode": "schedule",
        "photo_id": "122113402094437662",
        "post_id": "997772916762884_122113402124437662",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Mia nonna mi lasciò la casa sul lago, i miei genitori la vendettero per un giro del mondo: ma avevano dimenticato un dettaglio",
@@ -18279,39 +18296,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126843679304793_1790238176436362",
        "error": null,
        "last_attempt": "2026-11-22T00:13:35+04:00",
        "mode": "immediate",
        "photo_id": "122126843655304793",
        "post_id": "1079800528556354_122126843679304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114371406359745_1477483577598090",
        "error": null,
        "last_attempt": "2026-11-22T00:11:51+04:00",
        "mode": "immediate",
        "photo_id": "122114371382359745",
        "post_id": "1083785318156771_122114371406359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123230713302807_2393955174752424",
        "error": null,
        "last_attempt": "2026-11-22T00:12:26+04:00",
        "mode": "immediate",
        "photo_id": "122123230689302807",
        "post_id": "1089456087587677_122123230713302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141688171313481_29324584857195724",
        "error": null,
        "last_attempt": "2026-11-22T00:13:01+04:00",
        "mode": "immediate",
        "photo_id": "122141688141313481",
        "post_id": "1107966229066828_122141688171313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Babcia zostawiła mi domek nad jeziorem i prośbę: „chroń go za wszelką cenę”. Rodzice sprzedali go, gdy byłam w delegacji",
@@ -18320,6 +18345,7 @@
      ],
      "wp_error": null,
      "wp_id": 905,
+     "wp_live": true,
      "wp_status": "future"
     },
     "PT": {
@@ -18355,7 +18381,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-0000-it.jpg"
    },
    "source_key": "post:100064230806326_1325477259603288",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
