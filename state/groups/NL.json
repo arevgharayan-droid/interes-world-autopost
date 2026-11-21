@@ -10887,6 +10887,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 893,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -10912,66 +10913,80 @@
      "pages": {
       "1144269682096701": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125690509304553_1672163894651057",
        "error": null,
        "last_attempt": "2026-11-21T21:06:43+04:00",
        "mode": "immediate",
        "photo_id": "122125690485304553",
        "post_id": "1144269682096701_122125690509304553",
-       "status": "published"
+       "status": "done"
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131224357424769_1590880303056490",
        "error": null,
        "last_attempt": "2026-11-21T21:08:46+04:00",
        "mode": "immediate",
        "photo_id": "122131224333424769",
        "post_id": "1180417388497186_122131224357424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131369305430924_1512182760751133",
        "error": null,
        "last_attempt": "2026-11-21T21:08:05+04:00",
        "mode": "immediate",
        "photo_id": "122131369275430924",
        "post_id": "1205543595981082_122131369305430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135354289306170_1486809869999925",
        "error": null,
        "last_attempt": "2026-11-21T21:06:02+04:00",
        "mode": "immediate",
        "photo_id": "122135354265306170",
        "post_id": "1210451145474950_122135354289306170",
-       "status": "published"
+       "status": "done"
       },
       "1239848699214091": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127738033439695_2024587562260768",
        "error": null,
        "last_attempt": "2026-11-21T21:07:24+04:00",
        "mode": "immediate",
        "photo_id": "122127738009439695",
        "post_id": "1239848699214091_122127738033439695",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122224020794930012_1814209266395765",
        "error": null,
        "last_attempt": "2026-11-21T21:04:41+04:00",
        "mode": "immediate",
        "photo_id": "122224020758930012",
        "post_id": "633031599904551_122224020794930012",
-       "status": "published"
+       "status": "done"
       },
       "715935674934966": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122203661774922316_2691366901323181",
        "error": null,
        "last_attempt": "2026-11-21T21:05:23+04:00",
        "mode": "immediate",
        "photo_id": "122203661750922316",
        "post_id": "715935674934966_122203661774922316",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Zes jaar betaalde ik stiekem de waterrekening van mijn buurvrouw, tot haar zoon na de begrafenis met een advocaat voor mijn deur stond",
