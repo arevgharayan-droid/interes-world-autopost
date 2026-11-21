@@ -18152,6 +18152,12 @@
        "photo_id": "122127767499307134",
        "post_id": "1164575726728296_122127767553307134",
        "status": "scheduled"
+      },
+      "1180583925128715": {
+       "attempts": 1,
+       "last_attempt": "2026-11-22T02:56:18+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "Rahmetli Ninemin Kolyesini Rehinciye Götürdüm, Adam Yüzü Bembeyaz: \"Seni Yirmi Yıldır Arıyoruz",
