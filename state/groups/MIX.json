@@ -5621,6 +5621,7 @@
      ],
      "wp_error": null,
      "wp_id": 558,
+     "wp_live": true,
      "wp_status": "future"
     },
     "CS": {
@@ -5697,21 +5698,25 @@
      "pages": {
       "1017413568132885": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126210841301832_2075980699708260",
        "error": null,
        "last_attempt": "2026-11-22T00:07:22+04:00",
        "mode": "immediate",
        "photo_id": "122126210817301832",
        "post_id": "1017413568132885_122126210841301832",
-       "status": "published"
+       "status": "done"
       },
       "1150924154761110": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140277397316765_2134351297202561",
        "error": null,
        "last_attempt": "2026-11-22T00:06:42+04:00",
        "mode": "immediate",
        "photo_id": "122140277373316765",
        "post_id": "1150924154761110_122140277397316765",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Soțul meu milionar a adus acasă o femeie fără adăpost și mi-a cerut să o spăl cu mâna mea. Când i-am văzut semnul de pe umăr, mi s-a oprit respirația",

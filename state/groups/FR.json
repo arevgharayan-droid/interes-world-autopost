@@ -943,7 +943,7 @@
   "1260826840455724_122130373449441679": "2026-11-21T11:40:53+00:00",
   "1260826840455724_122130415197441679": "2026-11-21T14:17:29+00:00",
   "1260826840455724_122130438735441679": "2026-11-21T17:09:21+00:00",
-  "1260826840455724_122130468195441679": "2026-11-21T19:48:36+00:00",
+  "1260826840455724_122130468195441679": "2026-11-21T20:12:00+00:00",
   "1280413955154689_122129417877425731": "2026-11-16T19:33:49+00:00",
   "1280413955154689_122129425035425731": "2026-11-16T22:01:56+00:00",
   "1280413955154689_122129447679425731": "2026-11-17T08:12:26+00:00",
@@ -9818,30 +9818,35 @@
       "1250374694822508": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122124850383415639_3547838418756279",
        "error": null,
        "last_attempt": "2026-11-21T23:45:39+04:00",
        "mode": "schedule",
        "photo_id": "122124850353415639",
        "post_id": "1250374694822508_122124850383415639",
-       "status": "published"
+       "status": "done"
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130468195441679_1149834700784628",
        "error": null,
        "last_attempt": "2026-11-21T23:48:33+04:00",
        "mode": "schedule",
        "photo_id": "122130468165441679",
        "post_id": "1260826840455724_122130468195441679",
-       "status": "scheduled"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130301365425731_931675923244231",
        "error": null,
        "last_attempt": "2026-11-22T00:04:35+04:00",
        "mode": "immediate",
        "photo_id": "122130301341425731",
        "post_id": "1280413955154689_122130301365425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Un sans-abri m'a demandé de l'épouser avant de mourir, et la lettre qu'il m'a laissée a tout bouleversé",
@@ -9898,7 +9903,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-0000-fr.jpg"
    },
    "source_key": "post:100064230806326_1510587571092255",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
