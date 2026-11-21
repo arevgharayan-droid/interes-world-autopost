@@ -17163,12 +17163,14 @@
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111918522456562_2628619280989260",
        "error": null,
        "last_attempt": "2026-11-21T18:14:56+04:00",
        "mode": "immediate",
        "photo_id": "122111918498456562",
        "post_id": "1064982806700854_122111918522456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
@@ -17190,12 +17192,14 @@
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108607776506427_1709755277172351",
        "error": null,
        "last_attempt": "2026-11-21T18:14:19+04:00",
        "mode": "immediate",
        "photo_id": "122108607752506427",
        "post_id": "1079964265201139_122108607776506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
@@ -17253,12 +17257,14 @@
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110858844543006_1125246007169178",
        "error": null,
        "last_attempt": "2026-11-21T18:15:37+04:00",
        "mode": "immediate",
        "photo_id": "122110858820543006",
        "post_id": "1140835409106424_122110858844543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -17329,12 +17335,14 @@
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113390316437662_1159597556510569",
        "error": null,
        "last_attempt": "2026-11-21T18:13:37+04:00",
        "mode": "immediate",
        "photo_id": "122113390292437662",
        "post_id": "997772916762884_122113390316437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi ha cacciata di casa mentre avevo le contrazioni e il giorno dopo è venuto in ospedale con un'altra donna: poi è entrato un generale a tre stelle e ha salutato me",
