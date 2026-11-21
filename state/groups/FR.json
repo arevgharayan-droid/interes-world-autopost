@@ -20,6 +20,7 @@
   "5d67279da1e3d48db9cd": "2026-11-16T00:18:23+00:00",
   "69c3ac847b66c7a0472e": "2026-11-17T17:51:44+00:00",
   "6d1360b71c35b272374f": "2026-11-21T14:12:53+00:00",
+  "6ea240ce08a9828f6d3b": "2026-11-21T19:44:46+00:00",
   "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
   "7a8b9787a9038db6d1c3": "2026-11-10T22:06:09+00:00",
   "82146aa95a8c25effbbd": "2026-11-10T22:03:44+00:00",
@@ -9665,7 +9666,74 @@
    }
   },
   "2026-11-22 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Un sans-abri m'a demandé de l'épouser avant de mourir, et la lettre qu'il m'a laissée a tout bouleversé",
+     "warnings": [
+      "длина текста FB 1783 слов (исходник 1441, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 907,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/825274128_1510411797776499_2973966107465432711_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9Nf1IhawfxkQ7kNvwE6kURh&_nc_oc=Adorm3shqqbWTgFwcJbHcesGs_mA1QaTT1_iMiUkB0VrNeyI7lsPwglWr7okSigH9Ws&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=svI3mvv0ttGpfx00mthBsw&_nc_tpa=Q5bMBQIrw0YN5ghZvbdS2RuVjk-7g5sDqofzzNtEN82xinpm-xUTjKvQICBuzbKwMuaovzMNdz_Q1bh6Sw&oh=00_AQRThP-psMq_WIPmwlKUDGFmd8akArJDcybVvzYDv6aECQ&oe=6B07DB86",
@@ -9677,7 +9745,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-0000-fr.jpg"
    },
    "source_key": "post:100064230806326_1510587571092255",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -10017,7 +10085,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
