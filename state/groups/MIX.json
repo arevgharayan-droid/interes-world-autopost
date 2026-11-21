@@ -5583,7 +5583,10 @@
      "title": "طلب مني زوجي المليونير أن أستحم امرأة مشرّدة بيدي، وحين رأيت شامة الهلال على كتفها ارتجف قلبي",
      "warnings": [
       "длина текста FB 997 слов (исходник 1247, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 558,
+     "wp_status": "future"
     },
     "CS": {
      "pages": {},
@@ -5634,7 +5637,10 @@
      "generated": true,
      "pages": {},
      "title": "Soțul meu milionar a adus acasă o femeie fără adăpost și mi-a cerut să o spăl cu mâna mea. Când i-am văzut semnul de pe umăr, mi s-a oprit respirația",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 557,
+     "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
@@ -5656,6 +5662,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-22T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/779842475_1476254164525596_7093657170809562713_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=P0Y982dzosIQ7kNvwEwJWik&_nc_oc=Adpbe2Ky1NNlK0nQDfEibvHC50qmfJagX2pnA1NlAVjy8JC4GeCKgoYD3dkZCC-vfUI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=w11PX6MRw_g6GWLifBUJMg&_nc_tpa=Q5bMBQIspwFzdP9ueHn2z8tAxnglhjUX1Q1z1Y7m6bFdAGH9zIvVA8gn4-2P9ClaoU7uQu5NglV4wc-Qaw&oh=00_AQRz4GT2FSXk2wlepgOzMDYWINhKaB4YAIqab0Lowwxguw&oe=6B07AE8F",
@@ -5667,7 +5674,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-0000-mix.jpg"
    },
    "source_key": "post:100064230806326_1476347067849639",
-   "status": "preparing",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -5821,7 +5828,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066526927953_1230477055846514": {
    "fingerprint": "3ffb836f972ddd299f2a",

@@ -17373,7 +17373,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1008693642337213": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T23:44:59+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Мама и сестра вызвали полицию на мою пятилетнюю дочь, а я вернулась на день раньше и всё увидела",
      "warnings": [
       "длина текста FB 583 слов (исходник 726, цель ±10%)"
