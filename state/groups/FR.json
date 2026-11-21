@@ -9591,12 +9591,13 @@
       "1280413955154689": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122130282351425731_2105640856807241",
        "error": null,
        "last_attempt": "2026-11-21T21:11:17+04:00",
        "mode": "immediate",
        "photo_id": "122130282327425731",
        "post_id": "1280413955154689_122130282351425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Au enterrement de mon père, le fossoyeur m'a glissé une clé et m'a dit de ne surtout pas rentrer chez moi",
