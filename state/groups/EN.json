@@ -13682,6 +13682,12 @@
        "photo_id": "122119707267408404",
        "post_id": "1235940142932696_122119707297408404",
        "status": "scheduled"
+      },
+      "914823471720372": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T23:45:17+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "A Teacher Called My 7-Year-Old's Family Photo \"Inappropriate\" — Then the Principal Read It and Locked the Classroom Door",
