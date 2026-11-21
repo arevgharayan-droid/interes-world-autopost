@@ -17941,7 +17941,23 @@
   "2026-11-22 00:00": {
    "langs": {},
    "slot_iso": "2026-11-22T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/644558356_1325477172936630_3321058241216657775_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Hx66Ol4_R0YQ7kNvwGOTrk3&_nc_oc=Adpg7YJb8qHsCn5iYpVoN6mT1XkOCGzUU1dA3qQYat8kHdfnPEn6XMdeMj34UKYBrQo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=T3sDscVEPI3nO4uTRTkvzA&_nc_tpa=Q5bMBQJvHVWYknR0Jfryi92m9furJ3oEixrJIFNZ-x_7skgcIFbtjVpExkLJ9MPSSxNmboOdWHv82VInRA&oh=00_AQQoHWWd6kBeq73_gmrBigZ8_q1B2tqHPOWnMZKmTpEaNQ&oe=6B07CC87",
+    "link": "https://www.facebook.com/story.php?story_fbid=1325477259603288&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "My grandmother left me her $450,000 lakehouse with one clear instruction: protect it at any cost. While I was away on a business trip, my parents secretly sold it to fund a round-the-world vacation. Then my phone buzzed with a cheerful text: “Thanks for making our dream come true.” Minutes later, they were wheeling their suitcases through the airport, grinning like they’d just hit the jackpot—unaware that one overlooked detail was about to shut everything down.\n\nI used to think a “family legacy” meant warmth—photo albums, long Sunday dinners, the scent of my grandmother’s cinnamon rolls drifting through the house. Then Nana Maggie Carter passed away and left me her Lake Tahoe cabin—a cedar lakehouse tucked among tall pines, its dock creaking like it carried secrets.\n\nThe will was straightforward. The property, valued at around $450,000, belonged to me. Attached was a handwritten note in her looping script with a single request: Protect it at all costs.\n\nNana practically raised me there each summer after my parents got “too busy” with their careers. I learned to swim off that dock, steer her old skiff across the water, and find comfort in quiet. She called the cabin “our anchor.” I promised I’d never let anyone cut that line.\n\nSo I handled everything responsibly. I paid the taxes. I hired a caretaker, Luis, to check on the place regularly. I installed a basic smart security system. Following her attorney’s advice, I also filed a trust certificate and recorded notice stating the property was held in the Maggie Carter Family Trust—with me as the sole trustee.\n\nTwo months later, work pulled me to Chicago for a three-day conference. I left Tahoe under a blanket of fresh snow, confident the cabin was secure.\n\nOn the second night—between conference sessions and bitter hotel coffee—my phone buzzed.\n\nThanks for making our dream come true.\n\nAnother message followed: my father smiling beside stacked luggage in a brightly lit airport terminal.\n\nRound-the-world, baby. Finally!\n\nA chill spread through me. I called immediately. Voicemail. I checked my bank accounts, half expecting some kind of joke. Nothing. No transfers. No alerts.\n\nThen I logged into the county’s property monitoring service Nana’s lawyer had insisted I enroll in—the one that sends notifications if anything changes on your deed.\n\nThere it was, timestamped that afternoon:\n\nDOCUMENT RECORDED: GRANT DEED — TRANSFER OF OWNERSHIP.\n\nMy hands shook as I opened it. A sale. My lakehouse. Sold.\n\nI called Luis. He answered out of breath. “Emily—there are strangers inside. A realtor put a lockbox on the door. They said your parents authorized it.”\n\nChicago’s skyline blurred outside my hotel window as I pictured my parents heading toward their gate, smiling like they’d won.\n\nThen another email landed in my inbox—from a title company.\n\nURGENT: Verification required for trustee signature.\n\nI read it once. Then again.\n\nAnd that’s when I spotted the one detail my parents had overlooked—and everything inside me sharpened into focus.\n\n…To be continued in the comments 👇",
+    "wp_media_id": 897,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-0000-it.jpg"
+   },
+   "source_key": "post:100064230806326_1325477259603288",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 12:00": {
    "langs": {},
@@ -18272,6 +18288,14 @@
    "page_id": "100059505912199",
    "slot": "2026-11-17 18:00",
    "status": "used"
+  },
+  "post:100064230806326_1325477259603288": {
+   "fingerprint": "f5496fe896747df4e7ce",
+   "link": "https://www.facebook.com/story.php?story_fbid=1325477259603288&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 00:00",
+   "status": "reserved"
   },
   "post:100066730531753_1450160977218240": {
    "fingerprint": "68ee500f66d9ec24283c",

@@ -17314,7 +17314,23 @@
   "2026-11-22 00:00": {
    "langs": {},
    "slot_iso": "2026-11-22T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/798743027_1605386404298108_7746552168905320324_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=neKAibQZEHoQ7kNvwGjZl0m&_nc_oc=AdpoRRytxwPcr2CByswCOhZIsmmS2g5kCZcdBcuyzOoQ-2lhsdDvHVd4JuqZvpAuYAU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2IlHJ0GXaGjFp_vWU-3UUg&_nc_tpa=Q5bMBQJXfXfm6ACrnqEyCkSzbqg9-O0-V9lBHzMcsgYjRjYprcISzkZF6TGFzgdE3-lP7OK6e7o-M2nf8Q&oh=00_AQQLatGB58ckQ6aEogkFxn9fYI_4bPLCilBGAkRbIf_h4Q&oe=6B07C15C",
+    "link": "https://www.facebook.com/story.php?story_fbid=1605386430964772&id=100044802900629",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "My Mother and Sister Called the Police on My Five-Year-Old Daughter and Said, “Take Her Away So She Can Learn Her Lesson.” I Came Home One Day Early and Found Her Shaking in Front of Two Officers. I Didn’t Argue. I Simply Canceled Three Monthly Transfers Adding Up to 18,000 Dollars... One Week Later, They Received a Notice They Never Saw Coming.\n\nPART 1\n\n“Take her away so she can learn her lesson!” my mother yelled, pointing toward my five-year-old daughter as two police officers stood in the center of my living room.\n\nI came back from San Jose a day earlier than planned after my client canceled our final meeting.\n\nI caught the earliest flight to Albuquerque, excited to surprise Bella with the cinnamon rolls she loved for breakfast.\n\nBut when I opened the door to my house in North Valley, I found my little girl curled tightly on the couch, silently crying, as though even making a sound might somehow get her into more trouble.\n\nMy mother, Penelope, stood nearby with her arms folded across her chest.\n\nMy sister, Genevieve, was holding her four-year-old daughter, Chloe, who was pretending to cry while happily eating a cookie.\n\nOne of the officers was crouched in front of Bella, calmly reassuring her that nobody was going to take her away.\n\n“What happened?” I asked.\n\nThe officer rose to his feet.\n\n“We received a report concerning an altercation between two children. We were informed that you were out of state.”\n\nI turned toward my mother.\n\n“You called the police because two little girls got into a fight?”\n\n“Bella pushed Chloe,” Genevieve said.\n\n“She got aggressive because she refused to let Chloe borrow a doll.”\n\nBella finally lifted her head.\n\nHer eyes were red and swollen.\n\n“Mommy, Grandma said they were going to lock me up.”\n\nSomething inside me broke, but I kept my voice calm.\n\nI sat down beside her and pulled her into my arms.\n\nThe younger officer glanced at Penelope, clearly irritated.\n\n“Ma’am, the emergency line isn’t meant to frighten a child over a disagreement involving toys. There are no injuries, and there are no grounds for any legal action. If you misuse emergency services this way again, there may be consequences.”\n\nGenevieve immediately objected.\n\n“So you’re not even going to put anything on her record?”\n\nThe officer looked at her as though he couldn’t believe what he was hearing.\n\n“She’s five years old.”\n\nBefore walking out, he approached Bella.\n\n“You’re not a bad little girl. Pushing someone isn’t okay, but nobody is taking you anywhere. If something makes you upset, ask an adult for help.”\n\nThe door shut behind them, and my mother stood there expecting me to apologize.\n\n“You’ve completely lost your mind,” I said.\n\n“You will never be left alone with my daughter again.”\n\nPenelope didn’t even flinch.\n\n“You spoil her far too much. Eventually, someone has to teach her discipline.”\n\n“You scared her.”\n\n“Maybe that’s what it takes for her to learn.”\n\nGenevieve kept insisting they had only done it “for her own good.”\n\nThen Bella quietly explained that Chloe had tried to take the doll her father had sent her for her birthday, and Grandma had told her to give it to Chloe because “Chloe knows how to take care of nice things.”\n\nThat evening, while I washed her hair, Bella admitted something that hurt even more.\n\n“Grandma said you were ashamed of me... and that maybe you didn’t want to be my mommy anymore.”\n\nI held her in my arms until she finally fell asleep.\n\nThen I opened my banking app and stopped every automatic transfer I had been making to Penelope and Genevieve for years.\n\nMy mother’s health insurance, my sister’s car loan, the so-called repairs around the house, and every utility bill that somehow always ended up being my responsibility.\n\nI didn’t call them.\n\nI didn’t threaten either of them.\n\nI simply tapped Cancel.\n\nFive days later, my mother found out what I had done.\n\nAnd once she realized she could no longer control the money I had been giving her, she decided to destroy the one place where my daughter still felt safe.\n\nShe had absolutely no idea what was coming.\n\n…PART 2 👇👇👇",
+    "wp_media_id": 550,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-0000-ru.jpg"
+   },
+   "source_key": "post:100044802900629_1605386430964772",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 12:00": {
    "langs": {},
@@ -17536,6 +17552,14 @@
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
    "status": "used"
+  },
+  "post:100044802900629_1605386430964772": {
+   "fingerprint": "95e522cc04d1e1b2c1fc",
+   "link": "https://www.facebook.com/story.php?story_fbid=1605386430964772&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-22 00:00",
+   "status": "reserved"
   },
   "post:100044802900629_1660558355447579": {
    "fingerprint": "7a0f4a00da2e016a2568",

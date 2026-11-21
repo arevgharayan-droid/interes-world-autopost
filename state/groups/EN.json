@@ -13633,7 +13633,23 @@
   "2026-11-22 00:00": {
    "langs": {},
    "slot_iso": "2026-11-22T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/838699384_1630494115120670_5092958066717038177_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=deWlS8IhcMAQ7kNvwGyJ7hz&_nc_oc=AdrMyCcH4jSzIf84JtOZanPwum9gb3AZKYYc6SqKvracblOhtZwbaNF1KNswp8ph33A&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Xa9vbRsVd2Hjd3WPbE7kKg&_nc_tpa=Q5bMBQLU4ABkIygMvybABaOD9UVSRihdHpf0CIU755K1P5Lec0C7sFBLbIzWrKg4ns8EZlSLD8VxjZDQ3A&oh=00_AQRD4umXxpib1idafDPmRlBi5C5zXzkJO7dH_lfilOuajg&oe=6B07BE64",
+    "link": "https://www.facebook.com/story.php?story_fbid=1631049155065166&id=100044802900629",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "A TEACHER CALLED MY 7-YEAR-OLD DAUGHTER'S FAMILY PHOTO \"INAPPROPRIATE\" — THEN THE PRINCIPAL LOOKED AT IT AND ASKED EVERYONE TO REMAIN SEATED.\n\nLast Monday, my daughter’s teacher told every student to bring a family photograph for a classroom project.\n\nMy seven-year-old, Sophie, was adopted.\n\nShe knew she had biological parents before becoming part of our family, and we had always responded to her questions gently and honestly. They had both died in a car accident when she was a baby.\n\nThat evening, I showed her dozens of photos from our family albums.\n\nShe picked one of us at the beach.\n\nAt least, that was what I believed.\n\nThe following afternoon, I received a call from the school.\n\nWhen I got there, Sophie’s classmates were still seated at their desks.\n\nHer teacher, Mrs. Parker, appeared annoyed.\n\n\"Your daughter brought something completely inappropriate for a second-grade project.\"\n\nShe passed me a folded newspaper clipping.\n\nMy stomach dropped.\n\nI had stored it inside a box on the highest shelf of my closet.\n\nIt was an article covering the accident that had killed Sophie’s biological parents.\n\nUnder the headline was a photograph.\n\nHer mother and father, smiling beside each other.\n\n\"I wanted my first family too,\" Sophie whispered.\n\nMy anger disappeared.\n\nBefore I had a chance to respond, the principal, Mr. Harris, entered.\n\nMrs. Parker gave him the clipping.\n\n\"That's what she brought.\"\n\nHe looked at it.\n\nThen froze.\n\nHis gaze went back to the photograph.\n\nHe moved closer to the window and read the entire article from beginning to end.\n\n\"Where did Sophie get this?\"\n\n\"From my house.\"\n\nHe surveyed the classroom.\n\n\"Everyone stay seated.\"\n\nMrs. Parker frowned.\n\n\"Why?\"\n\nHe gave no answer.\n\nInstead, he pulled out his phone and took a picture of one tiny section near the bottom of the clipping.\n\nI had never noticed it before.\n\nAlongside the article was a fragment of another photograph, nearly completely cut off when I had saved the story years ago.\n\nOnly half of a man’s face was still visible.\n\nMr. Harris stared at it.\n\nThen at Sophie.\n\nHe locked the classroom door.\n\n\"Mr. Harris, what's going on?\"\n\npart 2 👇👇",
+    "wp_media_id": 899,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-0000-en.jpg"
+   },
+   "source_key": "post:100044802900629_1631049155065166",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 12:00": {
    "langs": {},
@@ -13850,6 +13866,14 @@
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
    "status": "used"
+  },
+  "post:100044802900629_1631049155065166": {
+   "fingerprint": "808de7cda503f40da11b",
+   "link": "https://www.facebook.com/story.php?story_fbid=1631049155065166&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-22 00:00",
+   "status": "reserved"
   },
   "post:100044802900629_1661889575314457": {
    "fingerprint": "311a77d621957d576c1d",
