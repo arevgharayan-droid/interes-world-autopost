@@ -10901,3 +10901,12 @@
 {"slot": "2026-11-22 12:00", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-21T22:45:45+00:00", "group": "NL"}
 {"slot": "2026-11-22 12:00", "lang": "NL", "action": "wp_post", "id": 929, "status": "future", "t": "2026-11-21T22:45:46+00:00", "group": "NL"}
 {"slot": "2026-11-22 12:00", "lang": "DE", "action": "wp_post", "id": 930, "status": "future", "t": "2026-11-21T22:45:47+00:00", "group": "NL"}
+{"slot": "2026-11-22 12:00", "lang": "FR", "page": "1202025962997153", "action": "fb_schedule", "photo_id": "122122692321409328", "post_id": "1202025962997153_122122692357409328", "t": "2026-11-21T22:45:48+00:00", "group": "FR"}
+{"slot": "2026-11-22 12:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 663 слов (исходник 832, цель ±10%)"], "t": "2026-11-21T22:45:49+00:00", "group": "MIX"}
+{"slot": "2026-11-22 12:00", "lang": "ES", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-21T22:45:49+00:00", "group": "MIX"}
+{"slot": "2026-11-22 12:00", "lang": "RO", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-21T22:45:49+00:00", "group": "MIX"}
+{"slot": "2026-11-22 12:00", "lang": "AR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 594 слов (исходник 832, цель ±10%)", "длина статьи 551 слов"], "t": "2026-11-21T22:45:49+00:00", "group": "MIX"}
+{"slot": "2026-11-22 12:00", "lang": "RU", "action": "wp_post", "id": 571, "status": "future", "t": "2026-11-21T22:45:50+00:00", "group": "MIX"}
+{"slot": "2026-11-22 12:00", "lang": "ES", "action": "wp_post", "id": 572, "status": "future", "t": "2026-11-21T22:45:51+00:00", "group": "MIX"}
+{"slot": "2026-11-22 12:00", "lang": "RO", "action": "wp_post", "id": 573, "status": "future", "t": "2026-11-21T22:45:52+00:00", "group": "MIX"}
+{"slot": "2026-11-22 12:00", "lang": "AR", "action": "wp_post", "id": 574, "status": "future", "t": "2026-11-21T22:45:53+00:00", "group": "MIX"}

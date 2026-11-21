@@ -38,6 +38,7 @@
   "6144e4570a19cb701fa3": "2026-11-19T14:08:16+00:00",
   "61b6c834065a37df649e": "2026-11-19T17:36:01+00:00",
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
+  "63f465a06c7653f04fe0": "2026-11-21T22:45:49+00:00",
   "697bf1e866b0d768ab37": "2026-11-18T22:49:45+00:00",
   "6d23ba98be07175e84bf": "2026-11-20T14:41:48+00:00",
   "6f7aeb7cd42f63728918": "2026-11-20T19:26:13+00:00",
@@ -55,6 +56,7 @@
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
   "8ac1ecf8185542e95941": "2026-11-19T10:26:49+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
+  "9379ebc571b51d826e03": "2026-11-21T22:45:49+00:00",
   "93c7cd65e2a500a2cf38": "2026-11-18T08:52:49+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
   "95d798f47b5adbd505b6": "2026-11-19T17:36:01+00:00",
@@ -67,6 +69,7 @@
   "ab007dd685935f2c3980": "2026-11-17T10:38:26+00:00",
   "adaccf4f9fde1143ba93": "2026-11-21T19:44:56+00:00",
   "adfb1bdeac99773333bd": "2026-11-18T22:20:58+00:00",
+  "af66d81965162985fdc0": "2026-11-21T22:45:49+00:00",
   "b14671f51218be3c2ac4": "2026-11-21T19:44:56+00:00",
   "b380f193a4d40b198fda": "2026-11-19T22:00:55+00:00",
   "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
@@ -101,6 +104,7 @@
   "f6a4a30022b8eb2699ca": "2026-11-19T10:26:49+00:00",
   "fa38d523740b3642a359": "2026-11-17T10:38:26+00:00",
   "fad065ee1746d78e40db": "2026-11-18T15:24:21+00:00",
+  "fb212181c33709aab8ed": "2026-11-21T22:45:49+00:00",
   "ff32133b1d57816b36e8": "2026-11-17T10:38:26+00:00"
  },
  "outputs": {
@@ -5795,7 +5799,98 @@
    }
   },
   "2026-11-22 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "جارتها سرقت كل ثمار زوجها الراحل بعد دفنه بأيام، فلم تصرخ في وجهها، بل جهّزت لها مفاجأة جعلت الحي كله يخرج من بيوته",
+     "warnings": [
+      "длина текста FB 594 слов (исходник 832, цель ±10%)",
+      "длина статьи 551 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 574,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi vecina se llevó hasta la última manzana del huerto de mi esposo fallecido, y lo que hice al amanecer la dejó gritando frente a toda la calle",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 572,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vecina a golit pomii lui Daniel în noaptea de după înmormântare, dar răspunsul unei văduve a adus toată strada în fața porții ei",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 573,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Соседка обобрала сад моего покойного мужа в день похорон, а я устроила ей самый публичный урок в жизни",
+     "warnings": [
+      "длина текста FB 663 слов (исходник 832, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 571,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/808298605_1503057161845296_1708322259258081185_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0LgxFPMmUfYQ7kNvwHGrFMk&_nc_oc=AdpacI0EZGtKoKcyPAIcSETTXkiMqzKHUqDVdeaZmpn7QBcRRiBRlTkiw4xRvcOA_a0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ODXPMz2FZcRokkBuOAAEAg&_nc_tpa=Q5bMBQIrmeVUnwn3BrxmXT9KFZKgJI-ZIOVPzauk69NITiLnOkz6ZUzyxQ_1aN300MDYjBrP3IgSMR7aig&oh=00_AQS0f6S4wsnLQWcxgwgZo3aaQ_ocZS7Yjk2mWXRaYrw81Q&oe=6B07E30D",
@@ -5807,7 +5902,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-1200-mix.jpg"
    },
    "source_key": "post:100064230806326_1503057308511948",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -5970,7 +6065,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066526927953_1230477055846514": {
    "fingerprint": "3ffb836f972ddd299f2a",
