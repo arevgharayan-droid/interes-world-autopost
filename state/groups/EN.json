@@ -6,6 +6,7 @@
   "13f592d7784f33684a59": "2026-11-15T14:15:49+00:00",
   "1422a482f54759518464": "2026-11-13T10:14:30+00:00",
   "17fe118fb129ce285808": "2026-11-17T10:38:06+00:00",
+  "19c6a566489a5c956a03": "2026-11-21T17:03:47+00:00",
   "1d3d436a2f7d527c8e72": "2026-11-17T20:47:00+00:00",
   "2013fe48343be6df642c": "2026-11-21T14:12:53+00:00",
   "27418007e468ed693307": "2026-11-18T22:36:17+00:00",
@@ -13306,7 +13307,74 @@
    }
   },
   "2026-11-21 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Late Father's Lawyer Handed Me a Secret Letter Before His Funeral, Asking Me to Follow My Stepmother and Her Children",
+     "warnings": [
+      "длина статьи 973 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 890,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/501668373_1265458194972877_102753118336597675_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=r4O4JC-IZNQQ7kNvwFawz_n&_nc_oc=Adrbbj4oflSuSUp1nx8sJkfFIyR3RtREPiSRwNvl4S7sMkRJonfcJgye3R1CmTvoxCY&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=F-p2E26Q-ar33dcZrK4_1g&_nc_tpa=Q5bMBQJILQLyl-xR7VMIEdGCrbNZW9S0JPIBLTB8jLCrkIwkl0aSNa1-RP67pzqn4xZSQlmsIipTApEwGA&oh=00_AQS2eF4miYTwgCflrWdMkASjeDwySJkFVfinMmu8-TxS3Q&oe=6B07A4D4",
@@ -13318,7 +13386,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-2100-en.jpg"
    },
    "source_key": "post:100045261260562_1265458214972875",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13579,7 +13647,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-21 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699289931589699": {
    "fingerprint": "947d4507699df6d24615",

@@ -12392,7 +12392,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T21:03:43+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "At My Daughter's Funeral, Her Husband's Mistress Wore Her Bracelet and Whispered \"I've Won\" — Then the Lawyer Opened the Will",
      "warnings": [],
      "wp_error": null,
