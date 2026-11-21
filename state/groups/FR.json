@@ -9691,7 +9691,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T23:45:11+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Un sans-abri m'a demandé de l'épouser avant de mourir, et la lettre qu'il m'a laissée a tout bouleversé",
      "warnings": [
       "длина текста FB 1783 слов (исходник 1441, цель ±10%)"
