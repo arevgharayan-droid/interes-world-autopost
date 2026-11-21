@@ -11,6 +11,7 @@
   "183e5b82cea64a1af2e4": "2026-11-20T16:46:26+00:00",
   "18b10ac52aef32d53a3b": "2026-11-20T16:46:26+00:00",
   "197afdcf4ca2d2cf2e80": "2026-11-19T10:26:49+00:00",
+  "1ae882c4b0c2b065d2e8": "2026-11-21T14:13:33+00:00",
   "1daa19c39dada9f31106": "2026-11-20T14:41:48+00:00",
   "1e2c7dd943d79ef1c8d0": "2026-11-18T22:49:45+00:00",
   "1f198156f3d98bc7ff76": "2026-11-19T10:26:49+00:00",
@@ -43,6 +44,7 @@
   "72cfa8c608946a546f2e": "2026-11-18T18:56:12+00:00",
   "7599ebffd8f3d4caa6ef": "2026-11-18T08:52:49+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
+  "8059428dfc5fc80b5e65": "2026-11-21T14:13:33+00:00",
   "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
   "839d2c1cc7df4856d81d": "2026-11-18T22:20:58+00:00",
   "83e0ecc2ed03651d9650": "2026-11-20T14:41:48+00:00",
@@ -62,6 +64,7 @@
   "adfb1bdeac99773333bd": "2026-11-18T22:20:58+00:00",
   "b380f193a4d40b198fda": "2026-11-19T22:00:55+00:00",
   "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
+  "ba4752512e3fefd45f2a": "2026-11-21T14:13:33+00:00",
   "bdb1bbcd6e4c0469fdaa": "2026-11-19T19:58:49+00:00",
   "c2bc42d5c2d6930640d5": "2026-11-18T22:49:45+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
@@ -86,6 +89,7 @@
   "eeed500779e35890c78a": "2026-11-21T10:17:16+00:00",
   "ef90411773fe09e82bf0": "2026-11-18T22:20:58+00:00",
   "f113b22975dc330f28ae": "2026-11-20T14:41:48+00:00",
+  "f3cd5b63a749e358c2d5": "2026-11-21T14:13:33+00:00",
   "f6a4a30022b8eb2699ca": "2026-11-19T10:26:49+00:00",
   "fa38d523740b3642a359": "2026-11-17T10:38:26+00:00",
   "fad065ee1746d78e40db": "2026-11-18T15:24:21+00:00",
@@ -5116,7 +5120,97 @@
    }
   },
   "2026-11-21 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "قطعت ست ساعات وسط عاصفة ثلجية لأفاجئ عائلتي في العيد، فسمعت أختي تقول: «أتمنى ألا تصل أبدًا فنرث كل شيء",
+     "warnings": [
+      "длина текста FB 922 слов (исходник 1129, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 540,
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Conduje seis horas entre la nieve para sorprender a mi familia en Navidad, pero oí a mi hermana decir: «Ojalá no llegue nunca",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 538,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Am condus șase ore prin viscol ca să-mi surprind familia de Crăciun, dar ce am auzit în hol m-a făcut să plec fără un cuvânt",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 539,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я шесть часов ехала сквозь метель, чтобы удивить семью на Рождество, но на пороге услышала, как сестра сказала: «Надеюсь, она не доедет",
+     "warnings": [
+      "длина текста FB 890 слов (исходник 1129, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 537,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/913486304_1721145892737436_3105628336975276753_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yOxJidnepGgQ7kNvwEJzPee&_nc_oc=AdqtsfIZrjjQUcRgO6A87KHU_2avK33EhpHPCC6KQelu-uamSiJgDArwfToI9oRAUls&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=EBKynDzsXUR1FG_Kcsc0Sg&_nc_tpa=Q5bMBQJKqCWSrIyzPsG4Ma_d-RKfakCnJIQB0gE1D5JnRVP5nt9Bum-FyqdZX6f8JKP7lW_5RaugYIiPbQ&oh=00_AQSdGt0Ps1ApUqktx1I7nTZYMLEIDXIqBlHkIoxt9vXtog&oe=6B075E5F",
@@ -5128,7 +5222,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-1800-mix.jpg"
    },
    "source_key": "post:100045261260562_1721146079404084",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -5248,7 +5342,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-21 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1721278456057513": {
    "fingerprint": "8d266b6239bbd41910b3",
