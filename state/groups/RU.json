@@ -16068,12 +16068,14 @@
       },
       "1069814529551887": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127690777303687_1604064808416097",
        "error": null,
        "last_attempt": "2026-11-21T14:26:59+04:00",
        "mode": "schedule",
        "photo_id": "122127690747303687",
        "post_id": "1069814529551887_122127690777303687",
-       "status": "published"
+       "status": "done"
       },
       "1075346445663696": {
        "attempts": 1,
