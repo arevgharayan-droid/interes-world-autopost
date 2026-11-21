@@ -16681,6 +16681,12 @@
        "photo_id": "122127730629307134",
        "post_id": "1164575726728296_122127730659307134",
        "status": "published"
+      },
+      "1180583925128715": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T18:29:07+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "Gece 02.17'de 911'i Arayan 7 Yaşındaki Kız Fısıldadı: \"Elektrikleri Yine O Kesti",
