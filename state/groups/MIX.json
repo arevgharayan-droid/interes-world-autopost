@@ -5598,21 +5598,25 @@
      "pages": {
       "1085853177948572": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128139739317111_2192907054938810",
        "error": null,
        "last_attempt": "2026-11-22T00:08:01+04:00",
        "mode": "immediate",
        "photo_id": "122128139715317111",
        "post_id": "1085853177948572_122128139739317111",
-       "status": "published"
+       "status": "done"
       },
       "1145996375255489": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133347739310364_2376060626563719",
        "error": null,
        "last_attempt": "2026-11-22T00:08:42+04:00",
        "mode": "immediate",
        "photo_id": "122133347715310364",
        "post_id": "1145996375255489_122133347739310364",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "طلب مني زوجي المليونير أن أستحم امرأة مشرّدة بيدي، وحين رأيت شامة الهلال على كتفها ارتجف قلبي",
@@ -5782,7 +5786,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-0000-mix.jpg"
    },
    "source_key": "post:100064230806326_1476347067849639",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
