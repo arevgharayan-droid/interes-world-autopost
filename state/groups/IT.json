@@ -3,6 +3,7 @@
  "fb_block_until": "2026-11-14T14:15:14+04:00",
  "output_fps": {
   "01e12e5644fd826a0d81": "2026-11-17T10:38:47+00:00",
+  "02c45daf513c9a8ec932": "2026-11-21T22:45:36+00:00",
   "05691ada2c15180a0929": "2026-11-18T18:29:38+00:00",
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
   "08b0488d45dded8d095f": "2026-11-16T00:18:19+00:00",
@@ -79,6 +80,7 @@
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
   "a422bdb38f331c5fee32": "2026-11-20T19:26:25+00:00",
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
+  "a4c8a85e7db7d89e2752": "2026-11-21T22:45:36+00:00",
   "a52a4b60aa043581ace2": "2026-11-17T18:29:53+00:00",
   "a6ab527d80c6afd66a30": "2026-11-18T22:36:42+00:00",
   "aa8bb29f51a1fed6c541": "2026-11-21T10:17:43+00:00",
@@ -102,6 +104,7 @@
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
   "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
   "d4cab6ef35142d4bedc3": "2026-11-19T10:26:56+00:00",
+  "da0db905a429fdb30957": "2026-11-21T22:45:36+00:00",
   "de3fafdb1cf0cbce4e54": "2026-11-16T23:51:59+00:00",
   "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
   "e5620b751bed22ad8486": "2026-11-16T19:28:24+00:00",
@@ -18390,7 +18393,86 @@
    }
   },
   "2026-11-22 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Babička uviděla vnučku s miminem v obnošeném oblečení a zbledla: „Copak nestačilo 180 000 dolarů, co jsem ti poslala?",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 928,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Non bastavano i 180.000 dollari che ti ho mandato?»: la nonna vide la nipote con la bimba in braccio e vestiti consumati, e quella domanda fece gelare tutta la casa",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 926,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Czy 180 tysięcy dolarów to było za mało?” – babcia zamarła, gdy zobaczyła mnie z dzieckiem w znoszonych ubraniach, a ciotka upuściła świecę",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 927,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/751055787_1444824227668590_3940083097192000369_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lpngfBi-ePkQ7kNvwFSJdSX&_nc_oc=AdojAH8sSS9TS7P3lIEn5Hbeqp5E8OCtY-y-ywrSnsAVjp007SyVtgdNccmbAxvkFII&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=7rkAPV6DZbGwOS4yaqWgVw&_nc_tpa=Q5bMBQItzLhgpq5Wacu-WcMJqoJqA3g4-_FCzAQn01E32naTs0BBLnU047No7ASZCDBY08suRZwmiRXBgg&oh=00_AQRcVFMDdpFP_Zde7dKM6dGW-oqz9nRXzwuEiZxTqZAr1w&oe=6B07F54A",
@@ -18402,7 +18484,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1200-it.jpg"
    },
    "source_key": "post:100064230806326_1445104960973850",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -18755,7 +18837,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1450160977218240": {
    "fingerprint": "68ee500f66d9ec24283c",
