@@ -11106,57 +11106,69 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132782641310273_2225808804945340",
        "error": null,
        "last_attempt": "2026-11-22T00:12:55+04:00",
        "mode": "immediate",
        "photo_id": "122132782617310273",
        "post_id": "1028964020310052_122132782641310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130668967321366_1536898851600244",
        "error": null,
        "last_attempt": "2026-11-22T00:13:29+04:00",
        "mode": "immediate",
        "photo_id": "122130668943321366",
        "post_id": "1089186904280406_122130668967321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128148127309032_1623382908930276",
        "error": null,
        "last_attempt": "2026-11-22T00:11:39+04:00",
        "mode": "immediate",
        "photo_id": "122128148103309032",
        "post_id": "1102464712951594_122128148127309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126290191316035_4731668357064075",
        "error": null,
        "last_attempt": "2026-11-22T00:12:19+04:00",
        "mode": "immediate",
        "photo_id": "122126290167316035",
        "post_id": "1129908326870761_122126290191316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132133951418602_2157777908173757",
        "error": null,
        "last_attempt": "2026-11-22T00:10:21+04:00",
        "mode": "immediate",
        "photo_id": "122132133921418602",
        "post_id": "1208422892355505_122132133951418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134616001436382_1465759015509613",
        "error": null,
        "last_attempt": "2026-11-22T00:11:01+04:00",
        "mode": "immediate",
        "photo_id": "122134615977436382",
        "post_id": "1268633826332790_122134616001436382",
-       "status": "published"
+       "status": "done"
       },
       "363312640206172": {
        "attempts": 1,
@@ -11171,12 +11183,14 @@
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229340610543856_1130017680030169",
        "error": null,
        "last_attempt": "2026-11-22T00:09:40+04:00",
        "mode": "immediate",
        "photo_id": "122229340586543856",
        "post_id": "444776585382502_122229340610543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Sie warf meinen Koffer in den Regen und sagte, ich gehe mit nichts – sechs Monate später kam ich im Maybach zur Gala",
@@ -11329,7 +11343,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-0000-nl.jpg"
    },
    "source_key": "post:100044802900629_1623379742498774",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
