@@ -875,7 +875,7 @@
   "1280413955154689_122130105297425731": "2026-11-20T14:47:34+00:00",
   "1280413955154689_122130122103425731": "2026-11-20T17:09:43+00:00",
   "1280413955154689_122130137991425731": "2026-11-20T20:41:55+00:00",
-  "1280413955154689_122130158811425731": "2026-11-20T22:50:53+00:00"
+  "1280413955154689_122130158811425731": "2026-11-21T08:41:47+00:00"
  },
  "slots": {
   "2026-11-09 18:00": {
@@ -8872,21 +8872,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130296745441679_2543291586196453",
        "error": null,
        "last_attempt": "2026-11-21T02:48:46+04:00",
        "mode": "schedule",
        "photo_id": "122130296715441679",
        "post_id": "1260826840455724_122130296745441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130158811425731_2174360326483094",
        "error": null,
        "last_attempt": "2026-11-21T02:50:51+04:00",
        "mode": "schedule",
        "photo_id": "122130158781425731",
        "post_id": "1280413955154689_122130158811425731",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Après 15 ans d'armée, je suis rentrée et j'ai trouvé ma mère de 76 ans endormie sur un matelas crasseux dans une grange, pendant que mon frère profitait de sa maison",
@@ -8941,7 +8945,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1200-fr.jpg"
    },
    "source_key": "post:100045261260562_1715056463346379",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
