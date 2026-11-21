@@ -8956,7 +8956,23 @@
   "2026-11-21 15:00": {
    "langs": {},
    "slot_iso": "2026-11-21T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/900769888_122154687291170576_2732120942005476569_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=02e4pLY1DH8Q7kNvwGzOdAD&_nc_oc=AdpcLdiZ3vfwJud_FOs0RKA_xb0iqMB5Fo_RwcDebkVrLM5AZ_fqiOfYvN4s98VcblU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6qAaOmQUmNFU9K_9ebjY3w&_nc_tpa=Q5bMBQJgJX1IZa8ZadgjLxR-XrOC03cSdcoecaryx0mHTSDYYohkpigB13W1HjPMuASLijbektqrU4b2Tw&oh=00_AQQPVfSar-Tj0VvG-sdBwWdLFpXLT_gQO7HMzSBvc8-3FA&oe=6B075C8A",
+    "link": "https://www.facebook.com/story.php?story_fbid=122154687345170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "My Husband Was Asking the Judge for Our House and Full Custody of Our 6-Year-Old Daughter When She Quietly Pulled Out a Little Purple Phone and Said, “Your Honor, Mom Doesn’t Know I Have This.” The Judge Asked Her to Play It—and Suddenly, No One in the Courtroom Said a Word.\nThe Morning Everything Changed\n\nOn the morning my husband asked a family court in Connecticut to give him primary custody of our six-year-old daughter, he arrived wearing a charcoal suit I remembered far too well, because it was the same one he had bought for the small courthouse ceremony where we renewed our vows five years earlier, back when I still believed promises meant something simply because two people spoke them while looking into each other’s eyes.\n\nI was sitting across the aisle in a plain blue dress, my hands resting together on my lap, when Grant Holloway walked in beside his attorney.\n\nHe glanced at me and smiled.\n\nIt was not a warm smile, nor even an angry one. It was the calm expression of a man who believed the difficult part was already over.\n\nGrant wanted nearly everything we had built during eleven years of marriage: our colonial house outside Hartford, most of our savings, and, most painfully, primary custody of our daughter, Sophie.\n\nHis filing described me as impulsive, emotionally unpredictable, irresponsible with money, and unable to provide the stable home Sophie supposedly needed.\n\nHis attorney, a polished man named Richard Hale, repeated those claims so smoothly that for a few minutes I had the strange sensation that everyone in the courtroom was discussing another woman who merely happened to have my name.\n\nBehind Grant sat his mother, Margaret, wearing pearls and a pale lavender jacket. Beside her sat Natalie Price, Grant’s administrative coordinator, who had somehow transformed herself from an employee I had met twice at company holiday dinners into a “close family friend” deeply concerned about Sophie’s well-being.\n\nI noticed the silver bracelet around Natalie’s wrist.\n\nI had seen it before.\n\nMonths earlier, I had discovered the receipt for it tucked inside Grant’s car console.\n\nI said nothing.\n\nSilence had become useful to me.\n\nFor most of our marriage, Grant had mistaken silence for surrender.\n\nJudge Rebecca Whitmore, an older woman with silver hair and a steady expression, looked down at the paperwork in front of her.\n\n“Mrs. Holloway, I understand you do not have counsel appearing with you today.”\n\n“That’s correct, Your Honor. I’ll be speaking for myself.”\n\nRichard glanced toward Grant.\n\nGrant lowered his head, hiding a smile.\n\nThey believed I was alone because I had run out of options.\n\nWhat they had forgotten was what I had done before Sophie was born.\n\nFor almost nine years, I had worked as a financial compliance investigator, examining corporate records, tracing irregular payments, and finding patterns people assumed nobody would ever notice. I had left that career when Sophie was a toddler because Grant’s business was expanding and we agreed one parent should have more flexibility at home.\n\nDuring our separation, however, I had started looking at our finances the way I once looked at a questionable set of company books.\n\nWhat I found changed everything.\n\nThere were transfers to unfamiliar accounts, invoices from businesses that appeared to perform no real services, payments connected to Natalie’s family, and money quietly moved away from accounts I could access.\n\nBut the money was only part of what frightened me.\n\nGrant had also begun telling Sophie that certain things were “family secrets.”\n\nWhenever she came home from a weekend with him, she seemed quieter.\n\nOne Sunday evening, while I was helping her wash her hair, she asked me whether judges became angry when children said the wrong thing.\n\nI turned off the faucet.\n\n“Why would you ask that, honey?”\n\nShe immediately looked down.\n\n“I don’t know.”\n\nI did not push her.\n\nThat decision may have mattered more than anything else I did.\n(I know you’re curious to discover what happens next, so please continue reading the story in the comments below. Thank you for your patience and understanding. Please leave a “Look” comment and give us a “Like” to receive the full story.)",
+    "wp_media_id": 852,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1500-fr.jpg"
+   },
+   "source_key": "post:61585117295331_122154687345170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 18:00": {
    "langs": {},
@@ -9440,6 +9456,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-10 21:00",
    "status": "used"
+  },
+  "post:61585117295331_122154687345170576": {
+   "fingerprint": "4150d4991935283f6fd8",
+   "link": "https://www.facebook.com/story.php?story_fbid=122154687345170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-21 15:00",
+   "status": "reserved"
   },
   "post:61585117295331_122155635159170576": {
    "fingerprint": "a802f1da257574a06eef",

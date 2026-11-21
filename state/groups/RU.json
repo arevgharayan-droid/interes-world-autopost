@@ -15843,7 +15843,23 @@
   "2026-11-21 15:00": {
    "langs": {},
    "slot_iso": "2026-11-21T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/903576515_122154876765170576_2292922498675719375_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ENcgL_jFNDMQ7kNvwH0rMHE&_nc_oc=AdpVU7U2gjpkfoRBiWBne5KrxhXUvvL9q1MYOSTetg2gUEqNudSp8f_bR55A_2BpWK0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=HWlcAgUgcPD1uvQDE0luUA&_nc_tpa=Q5bMBQLeLm-LTY6uh5gPynf7NijmFz73aIr1lMl9itEbB4Zb9b8anSDNX3PtmbKJkBFN3gKtezVD_HUiag&oh=00_AQRr6sdasVSFNmXxXoI8kYviRUg5iKDbgaTsLLBjYtM7mA&oe=6B07341C",
+    "link": "https://www.facebook.com/story.php?story_fbid=122154876849170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "\"\"At my wife's funeral, my son pulled me aside and delivered a cold announcement. “Dad, we're ending your allowance. You'll have to take care of yourself from now on!” His wife stood there smiling without the slightest shame. I merely nodded. That Saturday, I packed a single suitcase and vanished. By midnight, my phone displayed 140 missed calls. They believed I was a helpless elderly man—until they learned who really owned their luxurious six-bedroom home...\nMy wife had been buried less than an hour earlier when my son took me aside and declared, “Dad, we're stopping your allowance. From now on, you'll be responsible for your own expenses.” Four days afterward, I disappeared with just one suitcase, and by midnight, there were 140 missed calls on my phone.\nMy name is Robert Mitchell. I'm seventy-one years old, and I spent forty-six years married to the most wonderful and kindhearted woman I'd ever known.\nHer name was Evelyn.\nWhen cancer took her away, a part of me seemed to fall completely silent.\nAt her funeral, I stood next to her coffin, barely able to breathe as friends came forward to offer their condolences.\nThen my son, Brandon, came over.\n“Dad, there's something we need to talk about.”\nHis wife, Melissa, remained behind him, adjusting the costly pearl necklace around her neck.\n“Could it wait?” I whispered.\n“No. This is about money.”\nI looked at him in disbelief.\nThe flowers from my wife's funeral were still inside the church.\nBut Brandon went on.\n“Melissa and I have decided we can't continue paying for your lifestyle. Beginning next month, your allowance will stop.”\nMelissa crossed her arms.\n“You have to learn to be financially independent, Robert. We need to think about our own future.”\nI nearly laughed.\nFor the past three years, I'd let Brandon transfer two thousand dollars into my checking account each month.\nHe genuinely believed that money was keeping me afloat.\nWhat he never realized was that I'd secretly been putting twice that amount into a college fund for his children every single month.\nBrandon also assumed the beautiful six-bedroom home where he lived actually belonged to him.\nIt didn't.\nFourteen years earlier, I'd bought that property through a family property company and allowed him to live there without paying rent.\nI'd also covered the property taxes, insurance, and all maintenance expenses.\nIn total, his family received benefits worth nearly eighty thousand dollars every year.\nEvelyn had always wanted us to keep that arrangement confidential.\n“Let them believe they're independent,” she used to say.\nBut my wife had also given me a warning.\n“Robert, generosity becomes dangerous when people confuse it with weakness.”\nNow, as I stood beside her grave, I finally understood what she'd meant.\nBrandon gave my shoulder a gentle pat.\n“Don't take it the wrong way, Dad. You're getting older. We can't keep supporting you forever.”\nMelissa didn't show even a hint of embarrassment.\nI nodded quietly.\n“You're right. Everybody should take responsibility for their own expenses.”\nBrandon smiled with satisfaction.\n“I'm glad you understand.”\nThat evening, I went back to our modest guest apartment behind their house.\nA sealed envelope was resting on Evelyn's dresser.\nShe had written my name across it before going into the hospital.\nInside was a message of just six words.\nRobert, please begin living for yourself.\nI sat down on our bed and wept.\nThen I picked up the phone and called my attorney.\n“Margaret,” I told her, “it's time for us to make some changes.\"\" \"..........(I KNOW YOU’RE CURIOUS ABOUT THE NEXT PART, SO PLEASE BE PATIENT AND KEEP READING IN THE COMMENTS BELOW. THANK YOU FOR YOUR UNDERSTANDING OF THE INCONVENIENCE.\nPLEASE LEAVE A “YES” COMMENT BELOW AND PRESS “LIKE” TO GET THE FULL STORY.)\nPart 2 is already in the first comment\nYou won’t believe what happened next…\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a 'YES' comment below and give us a \"Like \" to get full story )",
+    "wp_media_id": 516,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-1500-ru.jpg"
+   },
+   "source_key": "post:61585117295331_122154876849170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 18:00": {
    "langs": {},
@@ -16331,6 +16347,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-17 12:00",
    "status": "used"
+  },
+  "post:61585117295331_122154876849170576": {
+   "fingerprint": "4d6fc87dca291761fae8",
+   "link": "https://www.facebook.com/story.php?story_fbid=122154876849170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-21 15:00",
+   "status": "reserved"
   },
   "post:61585117295331_122155316763170576": {
    "fingerprint": "379b6d7ed7b1fd5cbc86",

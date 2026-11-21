@@ -10204,7 +10204,23 @@
   "2026-11-21 15:00": {
    "langs": {},
    "slot_iso": "2026-11-21T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/914000607_122155958793170576_4387411971952903998_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X03RzkKlHD4Q7kNvwGGfREv&_nc_oc=AdpfqaIgMOsz-jF0dfwLVeatznjJ7MwU19QYPLKHdbHpuYvnkYFp1dAW0TiN2mTgxRg&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=fWdV6rknU6eHVLU2Y4VFnw&_nc_tpa=Q5bMBQKy7FrIswKDqhoTfa7NdF0nUu3TKedI9osh8eOff5BFLmr_Y6FK2y16qhhmVanrvND_Q5yF7aXxQg&oh=00_AQRsk6dCVOIefsNde5cgmEGwhAtHp5N9PLNFawDedEQwlQ&oe=6B072ED6",
+    "link": "https://www.facebook.com/story.php?story_fbid=122155959087170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "“TAKE YOUR HAND OFF ME, SERGEANT.” HER VOICE WAS SO CALM THAT THE ENTIRE MESS HALL WENT SILENT.\n\n“Or what?” Sergeant Jaxson Miller taunted, tightening his hold on her ponytail.\n\nShe looked straight into his eyes.\n\n“You're about to make the biggest mistake of your entire military career.”\n\nJaxson erupted into laughter.\n\nHe had absolutely no idea who the woman sitting beneath him really was.\n\nAnd by the time he finally learned the truth, it would be far too late.\n\nIt all started with a single word.\n\n“Move.”\n\nSergeant Jaxson Miller stood beside a table in the packed American military mess hall, holding his lunch tray. His broad shoulders and intimidating reputation generally guaranteed that others obeyed his commands without question.\n\nBut the woman sitting in his favorite seat didn't even glance up.\n\nShe was occupied with peeling an orange.\n\nA thin ribbon of peel curled beneath her thumb before dropping neatly onto the table.\n\nJaxson frowned.\n\n“Didn't you hear what I said?”\n\nAnother strip of orange peel fell beside the first.\n\nThe woman remained entirely still, except for the movement of her fingers.\n\nBehind Jaxson, a few soldiers exchanged entertained glances. They knew his temper well. They had seen what happened whenever anyone was foolish enough to stand up to him.\n\nAnd this woman, whoever she was, seemed determined to do exactly that.\n\nJaxson slammed his lunch tray onto the table.\n\nThe utensils rattled. A fork bounced against the edge of the table.\n\n“You're sitting in the wrong seat,” he growled. “Final warning.”\n\nThe woman separated another orange segment and gently placed it beside the discarded peel.\n\nOnly after that did she respond.\n\n“I'm eating my lunch, Sergeant.”\n\nHer voice stayed even. Almost indifferent.\n\nJaxson stared at her in disbelief.\n\nHe wasn't accustomed to being dismissed, especially in front of his own men.\n\n“Say that again?”\n\nShe continued peeling the orange.\n\n“Was there something about my words you didn't understand?” he demanded.\n\n“No, Sergeant.”\n\nHer answer came without hesitation.\n\nNo trembling. No nervous grin. Not even the slightest indication of fear.\n\nSomething about her composed attitude unsettled him more than outright defiance ever would have.\n\nHe bent closer.\n\n“Listen carefully. I don't care if you're a clerk, a contractor, or some tourist who somehow wandered onto this base. You're sitting in my seat.”\n\nShe didn't respond.\n\nThroughout the room, conversations gradually began fading away.\n\nSeveral soldiers stopped eating.\n\nOthers turned around in their seats.\n\nEveryone knew Jaxson Miller.\n\nNo one recognized the woman.\n\nAnd that made the confrontation even more fascinating.\n\nJaxson glanced back over his shoulder, noticing that the crowd watching him was growing larger.\n\nHis friends chuckled softly, encouraging him to continue.\n\nA chilly smile spread across his face.\n\n“You think you're somebody important?”\n\nThe woman placed another slice of orange on the tabletop.\n\n“I'm simply trying to eat my lunch.”\n\nA soldier standing behind Jaxson gave a short snort.\n\nFor one brief second, Jaxson wondered whether the soldier was laughing at him.\n\nHis expression instantly turned cold.\n\n“Stand up.”\n\nNothing.\n\n“I SAID, STAND UP!”\n\nHis enraged order echoed across the mess hall.\n\nBut the woman remained seated.\n\nJaxson tightened his jaw.\n\nHe had spent years building a reputation that made younger soldiers straighten their backs whenever he entered a room.\n\nAnd now an unfamiliar woman was humiliating him with nothing but an orange.\n\nHe wasn't about to put up with that.\n\nNot while everyone was watching.\n\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a 'YES' comment below and give us a \"Like \" to get full story )",
+    "wp_media_id": 854,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1500-nl.jpg"
+   },
+   "source_key": "post:61585117295331_122155959087170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 18:00": {
    "langs": {},
@@ -10721,6 +10737,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-19 15:00",
    "status": "used"
+  },
+  "post:61585117295331_122155959087170576": {
+   "fingerprint": "90bc05b31baf18e55bc3",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155959087170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-21 15:00",
+   "status": "reserved"
   },
   "post:61586759032853_122141640519225301": {
    "fingerprint": "26a181813ad8d196c62d",

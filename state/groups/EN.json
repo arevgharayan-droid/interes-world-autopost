@@ -12688,7 +12688,23 @@
   "2026-11-21 15:00": {
    "langs": {},
    "slot_iso": "2026-11-21T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/914450509_122156019963170576_3849787838973589877_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kZZK0vG0a7cQ7kNvwH8WHm2&_nc_oc=AdqBqzq79_IVFeZySRmTsmHIBftFBe0AFb4_R_yc4gtzVMx5qABc3I_5Evty7gCjYnA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=lBaovSZCoAM7gxuPOGNEeQ&_nc_tpa=Q5bMBQKOMKGGD5_juW9HhiUcJGQNF8FSvU2dCpiGjVVLmntXKBumj6lLEmCGD3swRjDfBfu2jw02wP30XQ&oh=00_AQRfaNZHGzgXWn4eQ806-rV9R-dpSeb02gLH5pVIUSdOHQ&oe=6B07265B",
+    "link": "https://www.facebook.com/story.php?story_fbid=122156019987170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "My family dragged me into court, claiming I had been faking my military service. “She never served. She brought shame on our family. She made the entire story up,” my mother spat from the other side of the courtroom. I showed no reaction—I merely shifted my gaze toward the judge. Then she slowly stood. A silent reckoning. And without a single warning, she began removing her robe.\n\nMy name is Alyssa Kincaid. This morning, in Courtroom 14B, I sat facing the very people who had brought me into this world, watching as they carefully attempted to erase every piece of the life I had lived.\n\nMy parents had filed a fraud lawsuit against me. Their legal complaint sounded like a masterfully crafted work of fiction, accusing me of stealing a veteran’s identity and forging official government records. Their lawyer, a slick courtroom predator named Mr. Sterling, moved confidently before the bench, painting a vicious picture of who I supposedly was.\n\n“This is a matter of delusion, Your Honor,” Sterling declared with a sneer. “A daughter so desperate for attention that she constructed an elaborate fantasy to take advantage of state resources and disgrace a respectable family.”\n\nI remained silent, my hands resting neatly together on the table. My parents refused to look at me. Not a single time. To them, my silence was an admission of guilt. What they never understood was that silence is often the very first language a soldier comes to know.\n\nInside my head, I was no longer seated in that courtroom. I could still taste the metallic copper of Kandahar’s sand lingering at the back of my throat. I could feel the ghostly irritation of a combat patch rubbing against my skin, and I could still hear the medic’s desperate cries as our Humvee rocked violently somewhere between life and death.\n\n“I recognize the defendant.”\n\nJudge Talia Mendez’s voice cut straight through Sterling’s argument like a sharpened blade.\n\nThe entire courtroom fell motionless. Mr. Sterling stopped in the middle of a step, his arrogant smile vanishing from his face. My parents looked up in bewilderment, blinking toward the judge’s bench.\n\nJudge Mendez showed no hint of a smile. Slowly, she removed her glasses and locked her dark eyes on my father with a stare cold enough to freeze hell itself. The atmosphere inside the courtroom shifted immediately, turning tense, heavy, and electric.\n\n“Mr. Kincaid,” she said quietly, her tone steady but filled with unmistakable authority. “Are you telling this court, while under oath, that your daughter has never set foot on a battlefield? That every statement she has made is false?”\n\nMy father nodded, although the certainty that had filled his expression was beginning to fracture. “Yes, Your Honor. She never…”\n\nJudge Mendez slowly stood from her chair. Then, in one deliberate motion, she pulled back the collar of her black judicial robe, revealing a deep, jagged scar running across her right shoulder.\n\n“Mr. Kincaid,” she said in a low voice, “you have accused this woman of stealing military valor. Before we go any further, I strongly suggest you examine the scar on my right shoulder very carefully. Because your daughter is….”\n\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a 'YES' comment below and give us a \"Like \" to get full story )",
+    "wp_media_id": 850,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1500-en.jpg"
+   },
+   "source_key": "post:61585117295331_122156019987170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-21 18:00": {
    "langs": {},
@@ -13179,6 +13195,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-21 12:00",
    "status": "used"
+  },
+  "post:61585117295331_122156019987170576": {
+   "fingerprint": "1f7b487ec59a2a01e05d",
+   "link": "https://www.facebook.com/story.php?story_fbid=122156019987170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-21 15:00",
+   "status": "reserved"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
