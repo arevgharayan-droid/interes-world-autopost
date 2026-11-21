@@ -107,3 +107,5 @@ https://www.facebook.com/story.php?story_fbid=122155119513170576&id=615851172953
 https://www.facebook.com/story.php?story_fbid=122154538941170576&id=61585117295331
 # 21.11.2026: «Сейчас» (сообщение 18:11) — в выпуск 18:00
 https://www.facebook.com/story.php?story_fbid=1565705885580423&id=100064230806326
+# 21.11.2026: «Сейчас» (сообщение 21:01) — в выпуск 21:00
+https://www.facebook.com/story.php?story_fbid=1599090314942995&id=100045261260562
