@@ -16191,6 +16191,12 @@
        "photo_id": "122127707907307134",
        "post_id": "1164575726728296_122127707937307134",
        "status": "scheduled"
+      },
+      "1180583925128715": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T14:27:44+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "Eşimin Cenazesinde Oğlum Harçlığımı Kesti, Ben Sessizce Gittim: Gece Yarısı Telefonumda 140 Cevapsız Arama Vardı",
