@@ -10812,57 +10812,69 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132766207310273_1462735619169673",
        "error": null,
        "last_attempt": "2026-11-21T21:13:28+04:00",
        "mode": "immediate",
        "photo_id": "122132766183310273",
        "post_id": "1028964020310052_122132766207310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130657951321366_990637730326896",
        "error": null,
        "last_attempt": "2026-11-21T21:14:10+04:00",
        "mode": "immediate",
        "photo_id": "122130657927321366",
        "post_id": "1089186904280406_122130657951321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128133073309032_2135810230379328",
        "error": null,
        "last_attempt": "2026-11-21T21:12:08+04:00",
        "mode": "immediate",
        "photo_id": "122128133049309032",
        "post_id": "1102464712951594_122128133073309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126277105316035_1187458443938122",
        "error": null,
        "last_attempt": "2026-11-21T21:12:48+04:00",
        "mode": "immediate",
        "photo_id": "122126277063316035",
        "post_id": "1129908326870761_122126277105316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132118465418602_1764944324605296",
        "error": null,
        "last_attempt": "2026-11-21T21:10:47+04:00",
        "mode": "immediate",
        "photo_id": "122132118441418602",
        "post_id": "1208422892355505_122132118465418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134596477436382_1879323423237046",
        "error": null,
        "last_attempt": "2026-11-21T21:11:28+04:00",
        "mode": "immediate",
        "photo_id": "122134596453436382",
        "post_id": "1268633826332790_122134596477436382",
-       "status": "published"
+       "status": "done"
       },
       "363312640206172": {
        "attempts": 1,
@@ -10877,12 +10889,14 @@
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229327236543856_2125790121638640",
        "error": null,
        "last_attempt": "2026-11-21T21:10:07+04:00",
        "mode": "immediate",
        "photo_id": "122229327212543856",
        "post_id": "444776585382502_122229327236543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Sechs Jahre zahlte ich heimlich die Wasserrechnung meiner Nachbarin – am Morgen nach ihrer Beerdigung stand ihr Sohn mit einem Anwalt vor meiner Tür",
@@ -11035,7 +11049,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-2100-nl.jpg"
    },
    "source_key": "post:100045261260562_1625432835642076",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
