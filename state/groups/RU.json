@@ -17376,7 +17376,20 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1138572272664180": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1338630212673029": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1448441201677530": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "Minha mãe chamou a polícia para minha filha de 5 anos e disse \"levem-na para aprender a lição\". Voltei um dia antes e cancelei tudo",
      "warnings": [
       "длина статьи 970 слов"
@@ -17403,6 +17416,14 @@
        "post_id": "1008693642337213_122118891962640467",
        "status": "scheduled"
       },
+      "1018759874664543": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1036597159544783": {
+       "attempts": 0,
+       "status": "new"
+      },
       "1038143956055997": {
        "attempts": 1,
        "error": null,
@@ -17420,6 +17441,26 @@
        "photo_id": "122117726438623459",
        "post_id": "1042837395585806_122117726468623459",
        "status": "scheduled"
+      },
+      "1051766924693580": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1066862079844179": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1069814529551887": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1075346445663696": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1075712068960532": {
+       "attempts": 0,
+       "status": "new"
       },
       "1084212424777390": {
        "attempts": 1,
@@ -17439,6 +17480,14 @@
        "post_id": "1092061600653020_122112006398588206",
        "status": "scheduled"
       },
+      "1097710383424105": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1098718609991464": {
+       "attempts": 0,
+       "status": "new"
+      },
       "1113548795169055": {
        "attempts": 1,
        "error": null,
@@ -17457,6 +17506,10 @@
        "post_id": "1117846738074068_122136337995311273",
        "status": "scheduled"
       },
+      "1118090254718709": {
+       "attempts": 0,
+       "status": "new"
+      },
       "1125468037313193": {
        "attempts": 1,
        "error": null,
@@ -17474,6 +17527,14 @@
        "photo_id": "122141376848737651",
        "post_id": "1125676667286378_122141376878737651",
        "status": "scheduled"
+      },
+      "1146158698570676": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1167733113080371": {
+       "attempts": 0,
+       "status": "new"
       },
       "988042774402200": {
        "attempts": 1,
@@ -17497,7 +17558,24 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1083701291497481": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1129620776897151": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1164575726728296": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1180583925128715": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "Annem ve Kardeşim Beş Yaşındaki Kızıma Polis Çağırdı, Ben de Yıllardır Yaptığım Ödemelerin Hepsini Tek Dokunuşla Durdurdum",
      "warnings": [
       "длина текста FB 489 слов (исходник 726, цель ±10%)"
@@ -17523,7 +17601,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-0000-ru.jpg"
    },
    "source_key": "post:100044802900629_1605386430964772",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
