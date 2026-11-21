@@ -10258,12 +10258,13 @@
       "1089186904280406": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122130625905321366_1409338067671320",
        "error": null,
        "last_attempt": "2026-11-21T14:24:45+04:00",
        "mode": "schedule",
        "photo_id": "122130625875321366",
        "post_id": "1089186904280406_122130625905321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
