@@ -17677,8 +17677,10 @@
        "status": "published"
       },
       "1180583925128715": {
-       "attempts": 0,
-       "status": "new"
+       "attempts": 1,
+       "last_attempt": "2026-11-22T00:13:46+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "Annem ve Kardeşim Beş Yaşındaki Kızıma Polis Çağırdı, Ben de Yıllardır Yaptığım Ödemelerin Hepsini Tek Dokunuşla Durdurdum",
