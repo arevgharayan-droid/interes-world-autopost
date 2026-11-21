@@ -48,6 +48,7 @@
   "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00",
   "ed1263949be80f9f9314": "2026-11-16T20:28:09+00:00",
   "f0fbe62a6e965138d9e2": "2026-11-16T00:21:36+00:00",
+  "f1dd63afb3367f635d39": "2026-11-21T19:44:17+00:00",
   "f702b99551dc88a9c658": "2026-11-21T10:17:03+00:00",
   "f87c8c178aeaa21eef02": "2026-11-10T22:04:28+00:00",
   "feb1dde7e2dbbf5351ce": "2026-11-10T22:05:38+00:00",
@@ -13631,7 +13632,72 @@
    }
   },
   "2026-11-22 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A Teacher Called My 7-Year-Old's Family Photo \"Inappropriate\" — Then the Principal Read It and Locked the Classroom Door",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 903,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/838699384_1630494115120670_5092958066717038177_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=deWlS8IhcMAQ7kNvwGyJ7hz&_nc_oc=AdrMyCcH4jSzIf84JtOZanPwum9gb3AZKYYc6SqKvracblOhtZwbaNF1KNswp8ph33A&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Xa9vbRsVd2Hjd3WPbE7kKg&_nc_tpa=Q5bMBQLU4ABkIygMvybABaOD9UVSRihdHpf0CIU755K1P5Lec0C7sFBLbIzWrKg4ns8EZlSLD8VxjZDQ3A&oh=00_AQRD4umXxpib1idafDPmRlBi5C5zXzkJO7dH_lfilOuajg&oe=6B07BE64",
@@ -13643,7 +13709,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-0000-en.jpg"
    },
    "source_key": "post:100044802900629_1631049155065166",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13873,7 +13939,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-22 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100044802900629_1661889575314457": {
    "fingerprint": "311a77d621957d576c1d",
