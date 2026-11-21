@@ -18,6 +18,7 @@
   "2aa9f772fe9ff6d1ed19": "2026-11-21T10:17:43+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
+  "316757cc420944c1b668": "2026-11-21T17:04:20+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
   "3cd0bbe178487279f165": "2026-11-20T14:41:44+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
@@ -82,6 +83,7 @@
   "ad8c2ece3cec5e65114f": "2026-11-16T20:28:05+00:00",
   "ae98003cc9368817f7b5": "2026-11-20T16:46:26+00:00",
   "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
+  "b4aed3404e941135191d": "2026-11-21T17:04:20+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "ba5f05202837b2fb860d": "2026-11-14T11:39:45+00:00",
   "bafb37100cdb3ff9df9b": "2026-11-19T10:26:56+00:00",
@@ -115,6 +117,7 @@
   "fc7afd4f1a31db559569": "2026-11-15T10:15:15+00:00",
   "fcf4e0ed885a332215e7": "2026-11-18T18:29:38+00:00",
   "fd55d03047e1e70fc424": "2026-11-19T17:35:32+00:00",
+  "fe06a02ccb05b09a0efa": "2026-11-21T17:04:20+00:00",
   "ff177c2141f7f0364278": "2026-11-09T13:24:27+00:00"
  },
  "outputs": {
@@ -17490,7 +17493,88 @@
    }
   },
   "2026-11-21 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na pohřbu dcery zeť ukázal na své tři děvčátka a prohlásil, že půjdou do pěstounské péče. V noci mi vnučka položila na stůl fialovou tašku",
+     "warnings": [
+      "длина текста FB 559 слов (исходник 664, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 896,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Al funerale di mia figlia, mio genero ha indicato le sue tre bambine e ha detto «Andranno in affidamento». Alle 3 di notte, la più grande ha posato sul mio tavolo una borsa viola",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 894,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na pogrzebie córki zięć wskazał na trzy wnuczki i oznajmił, że trafią do rodziny zastępczej. O trzeciej w nocy najstarsza położyła na moim stole fioletową torbę",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 895,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/749066349_122139126633043653_2260837557478034593_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-zPqwTfq0yMQ7kNvwGWiErf&_nc_oc=AdoWawEk6Tu-i7dASwFbXWHvXupXmwGGlfahuWwKjr4JfdCt2vvJpvcM9VPJNmBpcK0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=gfgTU3XhrS2H88SbHKOZ1g&_nc_tpa=Q5bMBQKKABIzqutKIjIRbgNa_EqjZNGGn0wJQ6YY1uu1HjmdlTrsPpXSvFhUGdvXzEnFyXbQ_8-VXuQ5Fg&oh=00_AQROvxufjy9rXGzRY9CMdw0Aoi4ArBu3emoTOt6gD22M8Q&oe=6B07A047",
@@ -17502,7 +17586,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-2100-it.jpg"
    },
    "source_key": "post:61581309613138_122139126693043653",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -17973,7 +18057,7 @@
    "origin": "manual",
    "page_id": "61581309613138",
    "slot": "2026-11-21 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122154606699170576": {
    "fingerprint": "c5d592a39ff41d658681",
