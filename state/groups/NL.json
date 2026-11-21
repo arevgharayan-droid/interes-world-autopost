@@ -10554,12 +10554,14 @@
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132101317418602_2266320850901171",
        "error": null,
        "last_attempt": "2026-11-21T18:19:39+04:00",
        "mode": "immediate",
        "photo_id": "122132101287418602",
        "post_id": "1208422892355505_122132101317418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
@@ -10573,21 +10575,24 @@
       "363312640206172": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122203949114461850_2227031024824642",
        "error": null,
        "last_attempt": "2026-11-21T18:18:22+04:00",
        "mode": "immediate",
        "photo_id": "122203949090461850",
        "post_id": "363312640206172_122203949114461850",
-       "status": "published"
+       "status": "done"
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229310754543856_2108515009790283",
        "error": null,
        "last_attempt": "2026-11-21T18:19:02+04:00",
        "mode": "immediate",
        "photo_id": "122229310730543856",
        "post_id": "444776585382502_122229310754543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Neun Jahre lang bestellte er zwei Kaffee und rührte einen nie an – dann stand ein junger Marine in Ausgehuniform vor der Kellnerin",

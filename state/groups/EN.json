@@ -13040,12 +13040,14 @@
      "pages": {
       "1016419758218222": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122148045285204972_3194827817540399",
        "error": null,
        "last_attempt": "2026-11-21T18:16:29+04:00",
        "mode": "immediate",
        "photo_id": "122148045261204972",
        "post_id": "1016419758218222_122148045285204972",
-       "status": "published"
+       "status": "done"
       },
       "108881571809093": {
        "attempts": 1,
@@ -13136,12 +13138,14 @@
       },
       "236129656261330": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122230755506294596_1779883430521315",
        "error": null,
        "last_attempt": "2026-11-21T18:17:47+04:00",
        "mode": "immediate",
        "photo_id": "122230755482294596",
        "post_id": "236129656261330_122230755506294596",
-       "status": "published"
+       "status": "done"
       },
       "237939756073256": {
        "attempts": 1,
@@ -13203,12 +13207,14 @@
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122150727759209153_1185679124124046",
        "error": null,
        "last_attempt": "2026-11-21T18:17:08+04:00",
        "mode": "immediate",
        "photo_id": "122150727735209153",
        "post_id": "975714512286925_122150727759209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Husband Abandoned Me at a Rundown Bus Stop With No Money or Phone, Then a Blind Woman Sat Beside Me and Whispered, \"Pretend You're My Granddaughter",
