@@ -9248,30 +9248,36 @@
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144213270738075_1761457178270790",
        "error": null,
        "last_attempt": "2026-11-21T18:18:45+04:00",
        "mode": "immediate",
        "photo_id": "122144213246738075",
        "post_id": "1041497042386258_122144213270738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109526202457428_4675417872687734",
        "error": null,
        "last_attempt": "2026-11-21T18:20:02+04:00",
        "mode": "immediate",
        "photo_id": "122109526178457428",
        "post_id": "1058598924006917_122109526202457428",
-       "status": "published"
+       "status": "done"
       },
       "106591088255968": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1478054684463928_1191618646873086",
        "error": null,
        "last_attempt": "2026-11-21T18:16:46+04:00",
        "mode": "immediate",
        "photo_id": "1478054667797263",
        "post_id": "106591088255968_1478054684463928",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -9286,12 +9292,14 @@
       },
       "1103884436136482": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105559044536887_1486494530241913",
        "error": null,
        "last_attempt": "2026-11-21T18:18:05+04:00",
        "mode": "immediate",
        "photo_id": "122105559020536887",
        "post_id": "1103884436136482_122105559044536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
@@ -9328,21 +9336,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130415197441679_1354500336693889",
        "error": null,
        "last_attempt": "2026-11-21T18:17:25+04:00",
        "mode": "immediate",
        "photo_id": "122130415173441679",
        "post_id": "1260826840455724_122130415197441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130261033425731_2194409384806908",
        "error": null,
        "last_attempt": "2026-11-21T18:19:23+04:00",
        "mode": "immediate",
        "photo_id": "122130261009425731",
        "post_id": "1280413955154689_122130261033425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Le juge m'a tout retiré devant mon mari et sa maîtresse, mais un milliardaire a fait exploser les portes du tribunal pour me réclamer comme sa fille",
@@ -9397,7 +9409,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1800-fr.jpg"
    },
    "source_key": "post:61585117295331_122155106589170576",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
