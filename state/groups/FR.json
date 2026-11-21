@@ -45,6 +45,7 @@
   "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
   "c338c20baa78f376320d": "2026-11-21T10:17:08+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00",
+  "d12c2709c825b0d9c8d1": "2026-11-21T17:04:08+00:00",
   "d4fb32bab10e6ad46945": "2026-11-19T10:26:46+00:00",
   "d7f8167190d0b9b93782": "2026-11-18T22:20:27+00:00",
   "decab325bccbd36f9888": "2026-11-18T18:29:16+00:00",
@@ -9418,7 +9419,74 @@
    }
   },
   "2026-11-21 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Au enterrement de mon père, le fossoyeur m'a glissé une clé et m'a dit de ne surtout pas rentrer chez moi",
+     "warnings": [
+      "длина текста FB 869 слов (исходник 729, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 892,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/742129887_122194601042841094_4757432719911183183_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4zTI74X7ru0Q7kNvwEiufWf&_nc_oc=AdoX0F7JdJLaqr4b5K06895S99TME-pxCm1K3gsOZXuaIxus4yWCIzzXY1Wg3rkFNKE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=jKG6zCKp8RnIm20a5V71Qg&_nc_tpa=Q5bMBQJU1aIHUMz62gZHIoojLAZjuEbIumm3wSSpUTX__c9Gq1nd5sGXHg02V6Mj7f7z_jQPhfJ9LMIK_A&oh=00_AQSkP42VxO1Bb1ILulXojpGIsuf7pez_YrCkgY8UeuLEbg&oe=6B079669",
@@ -9430,7 +9498,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-2100-fr.jpg"
    },
    "source_key": "post:61575232821594_122194601090841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -9921,7 +9989,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-21 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130803336893096": {
    "fingerprint": "73438ab2de4d3a1891d4",
