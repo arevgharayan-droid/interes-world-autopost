@@ -13,8 +13,8 @@ languages:
       - {page_id: "1079295351933311", name: "Destins Touchants", profile_id: "61588970250161", make_post_module: 104}
       - {page_id: "1145306638657445", name: "Larmes de Vie", profile_id: "61589095164260", make_post_module: 106}
       - {page_id: "1032441206625600", name: "La Vie Telle Qu’elle Est", profile_id: "61569006174952", make_post_module: 108}
-      - {page_id: "1011074408765807", name: "Émotions Virales | Paris", profile_id: "61566092952750", make_post_module: 110}  # отключена 29.10.2026, снова включена 21.11.2026
-      - {page_id: "106591088255968", name: "Soleil et Amour", profile_id: "100067782307867", make_post_module: 112}  # отключена 29.10.2026, снова включена 21.11.2026
+      - {page_id: "1011074408765807", name: "Émotions Virales | Paris", profile_id: "61566092952750", make_post_module: 110, disabled: true}  # 21.11.2026: включить, когда страница будет назначена системному пользователю (сейчас нет токена)
+      - {page_id: "106591088255968", name: "Soleil et Amour", profile_id: "100067782307867", make_post_module: 112, disabled: true}  # 21.11.2026: включить, когда страница будет назначена системному пользователю (сейчас нет токена)
       - {page_id: "1260826840455724", name: "Visages de la Vie", profile_id: "61593250385737", added: "2026-11-09"}
       - {page_id: "1103884436136482", name: "Vie en Stories", profile_id: "61566106633253", added: "2026-11-13"}
       - {page_id: "1041497042386258", name: "Une Histoire Qui Vous Touchera", profile_id: "61572142269665", added: "2026-11-13"}
@@ -63,8 +63,8 @@ languages:
       - {page_id: "162144310308183", name: "Sweet Paws #1", profile_id: "61552800502749", make_post_module: 322}
       - {page_id: "108881571809093", name: "Sweet Paws #2", profile_id: "100080908917745", make_post_module: 324}
       - {page_id: "237939756073256", name: "Love This World", profile_id: "61557022889720", make_post_module: 326}
-      - {page_id: "1164984823367955", name: "Fates Behind Closed Doors", profile_id: "61591304800504", make_post_module: 328}  # отключена 29.10.2026, снова включена 21.11.2026
-      - {page_id: "621364207735841", name: "Beautiful Babies", profile_id: "61577288221627", make_post_module: 330}  # отключена 29.10.2026, снова включена 21.11.2026
+      - {page_id: "1164984823367955", name: "Fates Behind Closed Doors", profile_id: "61591304800504", make_post_module: 328, disabled: true}  # 21.11.2026: включить, когда страница будет назначена системному пользователю (сейчас нет токена)
+      - {page_id: "621364207735841", name: "Beautiful Babies", profile_id: "61577288221627", make_post_module: 330, disabled: true}  # 21.11.2026: включить, когда страница будет назначена системному пользователю (сейчас нет токена)
       # --- добавлены 25.10.2026 (не из Make) — группа EN2: своя английская история в каждом выпуске ---
       - {page_id: "233545296514172", name: "Cute Stories", profile_id: "61557237771185", added: "2026-10-25", group: EN2}
       - {page_id: "530022363528890", name: "Sunny Days", profile_id: "61571615293165", added: "2026-10-25", group: EN2}
