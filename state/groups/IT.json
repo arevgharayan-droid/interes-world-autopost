@@ -6,6 +6,7 @@
   "05691ada2c15180a0929": "2026-11-18T18:29:38+00:00",
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
   "08b0488d45dded8d095f": "2026-11-16T00:18:19+00:00",
+  "0d54eec8b6a3e32a0a35": "2026-11-21T10:17:43+00:00",
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
   "0fb22b8844bea06fae2d": "2026-11-16T20:28:05+00:00",
   "1022f1ba4618e21c8ceb": "2026-11-20T16:46:26+00:00",
@@ -14,6 +15,7 @@
   "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
+  "2aa9f772fe9ff6d1ed19": "2026-11-21T10:17:43+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
@@ -72,6 +74,7 @@
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
   "a52a4b60aa043581ace2": "2026-11-17T18:29:53+00:00",
   "a6ab527d80c6afd66a30": "2026-11-18T22:36:42+00:00",
+  "aa8bb29f51a1fed6c541": "2026-11-21T10:17:43+00:00",
   "ab5adc5ddd83c831c3ba": "2026-11-19T14:07:51+00:00",
   "ad8c2ece3cec5e65114f": "2026-11-16T20:28:05+00:00",
   "ae98003cc9368817f7b5": "2026-11-20T16:46:26+00:00",
@@ -16590,7 +16593,88 @@
    }
   },
   "2026-11-21 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sedmiletý Eli čekal na maminku čtyři dny. Když zavolal na tísňovou linku, policistka v kuchyni našla něco, co mluvilo o jeho mamince úplně jinak, než si myslela celá ulice",
+     "warnings": [
+      "длина текста FB 737 слов (исходник 898, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 862,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Un bambino di 7 anni chiama il 911 dopo quattro giorni senza la mamma: quello che l'agente ha scoperto in casa ha cambiato tutto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 860,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Siedmioletni Eli cztery dni czekał na mamę, która obiecała wrócić za pół godziny. To, co policjantka zobaczyła w kuchni, zmieniło wszystko",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 861,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/905598865_122154870741170576_6923906446554865058_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G8_9S2ieZEMQ7kNvwGeXD35&_nc_oc=AdqeAKfxJ3bQ_j-DNdQY__r12L5SlHH0-n3dFWQk13o-IXTOLfU8lkdQLBI63yUcAtQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=4igC3vIB1mtzxQzL4YcuDA&_nc_tpa=Q5bMBQJqdQTSrrp9IOH3-MeorPC0ZDiS7qxeMOG70Y0xUnHqIK3JoQuYV-uHir68mOzo4a8-IFVNAP-G7g&oh=00_AQSzH7JWzgkS3b8tf3UZu-O84KWVKOVPF_q75z2UTRlWBA&oe=6B074D38",
@@ -16602,7 +16686,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1500-it.jpg"
    },
    "source_key": "post:61585117295331_122154870807170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -17079,7 +17163,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-21 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122154988611170576": {
    "fingerprint": "cb3788d7d4ffa733852b",
