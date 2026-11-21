@@ -896,7 +896,7 @@
   "1280413955154689_122130122103425731": "2026-11-20T17:09:43+00:00",
   "1280413955154689_122130137991425731": "2026-11-20T20:41:55+00:00",
   "1280413955154689_122130158811425731": "2026-11-21T08:41:47+00:00",
-  "1280413955154689_122130227739425731": "2026-11-21T10:22:17+00:00"
+  "1280413955154689_122130227739425731": "2026-11-21T11:41:34+00:00"
  },
  "slots": {
   "2026-11-09 18:00": {
@@ -9091,21 +9091,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130373449441679_1791867391875269",
        "error": null,
        "last_attempt": "2026-11-21T14:20:13+04:00",
        "mode": "schedule",
        "photo_id": "122130373413441679",
        "post_id": "1260826840455724_122130373449441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130227739425731_1713512600374751",
        "error": null,
        "last_attempt": "2026-11-21T14:22:14+04:00",
        "mode": "schedule",
        "photo_id": "122130227703425731",
        "post_id": "1280413955154689_122130227739425731",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Mon mari réclamait notre maison et la garde de notre fille de 6 ans, quand elle a sorti un petit téléphone violet devant la juge",
@@ -9160,7 +9164,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1500-fr.jpg"
    },
    "source_key": "post:61585117295331_122154687345170576",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
