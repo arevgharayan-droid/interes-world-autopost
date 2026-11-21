@@ -17778,7 +17778,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1083785318156771": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T21:18:33+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Na pogrzebie córki zięć wskazał na trzy wnuczki i oznajmił, że trafią do rodziny zastępczej. O trzeciej w nocy najstarsza położyła na moim stole fioletową torbę",
      "warnings": [],
      "wp_error": null,
