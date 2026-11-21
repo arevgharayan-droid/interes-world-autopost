@@ -12892,7 +12892,23 @@
   "2026-11-22 12:00": {
    "langs": {},
    "slot_iso": "2026-11-22T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/719919384_1311182704475932_5769394380445162385_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rZAYA2BbRWIQ7kNvwFXstZo&_nc_oc=AdpiC5P4MIfPn3Pk5AkrTjC5A7sHgskIFlLdGZimOxwRVtTs58uREP3fwx5lA4QS6qA&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0syqPdSRRUVp00kYtOofkg&_nc_tpa=Q5bMBQL-6YY3UCYbF9z00Q7tPA5_2rfBxcO9_kT2niJb6TBUpcX9ZlBjAuOfdtSBqCaRmIVyqlndlcEFFw&oh=00_AQT9syX7k2VLm1N3jbjE581ehQ6JK1iGwmiYuLQ6veTrQg&oe=6B07E681",
+    "link": "https://www.facebook.com/story.php?story_fbid=1311182747809261&id=100067526447776",
+    "origin": "manual",
+    "page_id": "100067526447776",
+    "text": "My father blocked me from entering my own medical school graduation ceremony because my stepmother insisted her daughter should use my ticket instead. “You’re only a nurse’s assistant. Let your sister have the attention for once,” my father sneered while pu:shing me toward the exit. I remained outside in the pouring rain, watching them smile for pictures. What none of them knew was that I wasn’t just another graduate—I had been chosen to deliver the keynote address and receive the university’s highest research honor. The moment the Dean announced the special guest, my family’s expressions instantly froze...\n\nThe second I walked through the front door after an exhausting twenty-two-hour shift, my stepmother’s voice cut through the house.\n\n“Amelia, take care of those dirty plates. Madison has a professional photo shoot tomorrow. Don’t ruin the atmosphere.”\n\nRichard Brooks sat absorbed in his tablet and barely acknowledged my presence.\n\nIgnoring my fatigue, I removed a gold-trimmed envelope from my bag.\n\n“Dad,” I began softly, “my graduation ceremony is this Friday. I only have one VIP invitation, and I hoped you’d come.”\n\nThe response came before I could finish speaking.\n\nRichard grabbed the invitation from my hands and passed it directly to Madison.\n\n“Don’t be so selfish, Amelia,” he scoffed. “You’re only a low-ranking assistant. You’ll be hidden somewhere in the crowd. Madison can use this access to connect with wealthy physicians and influencers. Let her enjoy the opportunity.”\n\nI felt completely numb.\n\nFor four long years, I had kept my real accomplishments hidden.\n\nWhen graduation day arrived, the weather was miserable. Gray clouds covered the sky while icy rain swept across campus.\n\nStanding outside Jefferson Medical Hall, I hugged myself against the cold.\n\nA black taxi soon arrived at the VIP entrance.\n\nOut stepped my family.\n\nMadison proudly held up the gold invitation while twirling around in an expensive designer coat.\n\n“This VIP pass is going to make my social media explode!” she laughed.\n\nI inhaled deeply and started toward the entrance, planning to explain that graduates didn’t need tickets.\n\nBut before I could reach the doors, Richard grabbed my arm.\n\n“What are you doing?” he snapped. “Look at yourself. You’ll ruin Madison’s photos.”\n\nHis fingers dug into my arm as he pulled me backward into the rain.\n\n“You’re just an assistant. Don’t make a scene in front of important people. Go wait somewhere else.”\n\nMy stepmother glanced at me with open contempt.\n\n“Do as your father says, Amelia. This is Madison’s moment. Stay out of sight.”\n\nThen came one final pu:sh.\n\nI staggered backward onto the rain-soaked steps as they entered the magnificent building without another glance.\n\nThey left me standing alone in the storm.\n\nFor years, they had underestimated me, used me, and dismissed everything I accomplished.\n\nI brushed away my tears and prepared to leave.\n\nThen the rain above me suddenly disappeared.\n\nA large black umbrella shielded me from the downpour.\n\nLooking up, I found Dean William Carter standing before me in full ceremonial attire.\n\nThe Dean’s eyes widened in astonishment.\n\n“Dr. Brooks?!” he called out. “Why are you standing out here? Everyone has been looking for you! The entire Board of Trustees is backstage waiting. We need you immediately to prepare for your valedictorian speech!”\n\n❤️ Thank you for taking the time to read this part of the story 🙏📖 This is only the first part; the continuation and the ending have already been posted in the comments 👇 If you don't see them, click on \"see all comments\" and look for them to read them 💬✨",
+    "wp_media_id": 921,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1200-en2.jpg"
+   },
+   "source_key": "post:100067526447776_1311182747809261",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 15:00": {
    "langs": {},
@@ -13259,6 +13275,14 @@
    "page_id": "100066730531753",
    "slot": "2026-11-12 00:00",
    "status": "used"
+  },
+  "post:100067526447776_1311182747809261": {
+   "fingerprint": "9811386dfa06e4527b06",
+   "link": "https://www.facebook.com/story.php?story_fbid=1311182747809261&id=100067526447776",
+   "origin": "manual",
+   "page_id": "100067526447776",
+   "slot": "2026-11-22 12:00",
+   "status": "reserved"
   },
   "post:100070118924538_1411872534493364": {
    "fingerprint": "31280654571f034aabd3",

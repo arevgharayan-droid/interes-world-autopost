@@ -17806,7 +17806,23 @@
   "2026-11-22 12:00": {
    "langs": {},
    "slot_iso": "2026-11-22T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/656439795_1341958301288517_4522702677636725296_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qaQ1ZopDb8QQ7kNvwH8jiny&_nc_oc=AdomJTxgrM2CMBsSjhr9-KBvYvhnobv9dJz2gO-bQwfTFPBxw7lj9bjRLqXl5CmN_x0&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ibUPtGqSL2UdT9vYbANEXQ&_nc_tpa=Q5bMBQLPAHnMbvZkaGIWjGkCg3Pw2TKQU4bvVdHw50JX6PFPyRAM9-I-Ly8G65mPdVqcsoroD4HxnJtD4w&oh=00_AQQstkjNn-oo1sNQbAgGd_PqZG6OS_AqHHz7eJChYsiwgQ&oe=6B0808E1",
+    "link": "https://www.facebook.com/story.php?story_fbid=1341958847955129&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "I brought my late grandmother’s necklace into a pawn shop—and the instant the dealer saw it, all the color drained from his face. In a hushed voice, he said, “We’ve been searching for you… for twenty years.”\n\nAfter my divorce, I was left with almost nothing. Just a cracked phone, a couple of bags stuffed with clothes, and the necklace my grandmother had given me.\n\nMy husband had abandoned me after I lost our baby, choosing someone younger without a second thought. I got by on diner tips and stubborn determination.\n\nThen one day, my landlord taped a bright red notice on my door: FINAL WARNING. I didn’t have the money—nowhere near enough.\n\nThat’s when I made a decision I never imagined I would.\n\nI opened the old shoebox where I had kept my grandmother’s necklace for over twenty years. It was the last piece of her I had—beautiful, weighty, and filled with memories that felt far too valuable for the life I was living.\n\n“I’m sorry, Nana,” I whispered. “I just need to survive this.”\n\nI cried the entire night.\n\nThe next morning, I walked into a pawn shop downtown, guilt weighing heavily on my chest.\n\n“Can I help you?” the older man behind the counter asked.\n\n“I… I need to sell this,” I said, carefully placing the necklace down, as if letting go of it might break something inside me.\n\nAt first, he barely glanced at it.\n\nThen suddenly—he froze.\n\nHis hands stopped. The color drained from his face so fast it startled me.\n\n“Where did you get this?” he asked quietly.\n\n“It was my grandmother’s,” I replied. “I just need enough to cover my rent.”\n\n“What was her name?” he asked, his voice tense.\n\n“Merinda L. Why?”\n\nHe stepped back, visibly shaken, like something had just hit him.\n\n“Miss… you should sit down.”\n\nMy stomach dropped.\n\n“Is it fake?”\n\n“No,” he said, almost out of breath. “It’s very real.”\n\nThen he grabbed a cordless phone, his hands trembling, and pressed a speed dial.\n\n“I have it. The necklace… she’s here,” he said urgently.\n\nI stepped back, confused.\n\n“Who are you calling?”\n\nHe covered the receiver, staring at me wide-eyed.\n\n“Miss… someone has been trying to find you for twenty years.”\n\nBefore I could understand what he meant, I heard a lock click from the back of the shop.\n\nThe door slowly opened.\n\nAnd the moment I saw who walked in—\n\nI gasped.\n\n👇 Full story continues in the first comment…",
+    "wp_media_id": 566,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-1200-ru.jpg"
+   },
+   "source_key": "post:100064230806326_1341958847955129",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 15:00": {
    "langs": {},
@@ -18162,6 +18178,14 @@
    "page_id": "100050386034442",
    "slot": "2026-11-20 00:30",
    "status": "used"
+  },
+  "post:100064230806326_1341958847955129": {
+   "fingerprint": "a1d1035f54dd93b5b384",
+   "link": "https://www.facebook.com/story.php?story_fbid=1341958847955129&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 12:00",
+   "status": "reserved"
   },
   "post:100064456312444_1605697694922092": {
    "fingerprint": "7aa9a9d1f00ac27915f6",

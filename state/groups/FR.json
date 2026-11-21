@@ -9914,7 +9914,23 @@
   "2026-11-22 12:00": {
    "langs": {},
    "slot_iso": "2026-11-22T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/758863681_1565399761630106_5744844037629692137_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ORTFLmLQd4cQ7kNvwHXXi27&_nc_oc=AdpremAHB9JuEJp7IOnFA6TIXRCJk28zspIhu-1ZGe-mgjzxoF45ke56s1jwDfYhwEo&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=qhwpzQqDQd1hrSoBhMlRoQ&_nc_tpa=Q5bMBQJ91iJwuBQrATtTdqRTGQ51qcXjSLxtCAPu9VgqGBITMg49BvPe5LuCbYSHyB6jgOEihlYwYcvVpg&oh=00_AQTqVBXD5IyfOfwloraJNReD1oB3uJHby3Zw17YvY38FEQ&oe=6B07ED14",
+    "link": "https://www.facebook.com/story.php?story_fbid=1566442334859182&id=100044802900629",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "My granddaughter disappeared during a kayaking trip with her uncle—7 years later, something hidden inside his old life vest made me pick up the phone and call the police.\n\nWhen my daughter and her husband died in a car crash, little Maya had only me left.\n\nShe was just three. I was sixty-one. I completely changed my retirement, my home, and my daily life without thinking twice.\n\nMy son Daniel was twenty at the time. He became more dependable than I ever imagined. Every weekend he came to see Maya, taught her to ride a bike, and proudly cheered from the front row at every school performance with huge signs bearing her name.\n\nShe called him Danny. She absolutely adored him.\n\n\"He's like my brother,\" she once told her teacher when asked about her family. \"Except he's old.\"\n\nShe was eleven when they went kayaking that summer.\n\nIt was meant to be a simple day trip to a river forty minutes away. Daniel had been there countless times. Two years earlier, he had bought Maya a bright red paddle and written her name on the handle with permanent marker.\n\nThey left home at eight in the morning.\n\nDaniel returned by himself at four.\n\nHe was completely soaked and shaking so hard he could barely stand upright. His life vest remained buckled.\n\n\"She went under,\" he kept saying. \"I tried. I tried to get her. I couldn't find her.\"\n\nFor two weeks, divers, boats, and volunteers searched every stretch of the river.\n\nMaya was never found.\n\nThe police concluded it was a tragic accident. Daniel was interviewed three times, and his account remained exactly the same.\n\nI never doubted him.\n\nHe looked like a man who had drowned with her but somehow survived.\n\nFor seven years, his life vest stayed hanging on a hook inside his garage.\n\nI noticed it every single visit.\n\nLast Saturday, I brought fresh vegetables to his house while he was working.\n\nThe kitchen was dark and cold, and the refrigerator was full, so I chose to leave everything in the garage.\n\nWhen I accidentally bumped into the vest, it dropped to the floor.\n\nA cloth-wrapped package slipped out from inside it.\n\nMy hands were trembling as I unwrapped it.\n\nThe moment I saw what was inside, I fell to my knees and screamed. I suddenly understood that I had lived through seven years of lies.\n\nThen I dialed 911.\n\n…PART 2 👇👇👇",
+    "wp_media_id": 919,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1200-fr.jpg"
+   },
+   "source_key": "post:100044802900629_1566442334859182",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 15:00": {
    "langs": {},
@@ -10138,6 +10154,14 @@
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
    "status": "used"
+  },
+  "post:100044802900629_1566442334859182": {
+   "fingerprint": "9f1810bb088d0123eec9",
+   "link": "https://www.facebook.com/story.php?story_fbid=1566442334859182&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-22 12:00",
+   "status": "reserved"
   },
   "post:100044802900629_1665425358294212": {
    "fingerprint": "ecfa3daf4117a638921a",
