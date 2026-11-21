@@ -13090,6 +13090,12 @@
        "post_id": "117220714573166_1157017753928119",
        "status": "published"
       },
+      "1210639158790064": {
+       "attempts": 1,
+       "last_attempt": "2026-11-21T18:24:29+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "1235940142932696": {
        "attempts": 1,
        "error": null,
