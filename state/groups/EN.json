@@ -13529,12 +13529,13 @@
       "975714512286925": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122150745195209153_29667308436289465",
        "error": null,
        "last_attempt": "2026-11-21T21:07:18+04:00",
        "mode": "immediate",
        "photo_id": "122150745171209153",
        "post_id": "975714512286925_122150745195209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Late Father's Lawyer Handed Me a Secret Letter Before His Funeral, Asking Me to Follow My Stepmother and Her Children",
