@@ -9801,3 +9801,11 @@
 {"slot": "2026-11-21 15:00", "lang": "PL", "action": "wp_post", "id": 861, "status": "future", "t": "2026-11-21T10:17:45+00:00", "group": "IT"}
 {"slot": "2026-11-21 15:00", "lang": "FR", "page": "1250374694822508", "action": "fb_schedule", "photo_id": "122124773031415639", "post_id": "1250374694822508_122124773079415639", "t": "2026-11-21T10:17:45+00:00", "group": "FR"}
 {"slot": "2026-11-21 15:00", "lang": "CS", "action": "wp_post", "id": 862, "status": "future", "t": "2026-11-21T10:17:46+00:00", "group": "IT"}
+{"slot": "2026-11-21 15:00", "lang": "NL", "page": "633031599904551", "action": "fb_schedule", "photo_id": "122223979790930012", "post_id": "633031599904551_122223979820930012", "t": "2026-11-21T10:17:50+00:00", "group": "NL"}
+{"slot": "2026-11-21 15:00", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 579 слов (исходник 715, цель ±10%)"], "t": "2026-11-21T10:17:55+00:00", "group": "RU"}
+{"slot": "2026-11-21 15:00", "lang": "TR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 498 слов (исходник 715, цель ±10%)"], "t": "2026-11-21T10:17:55+00:00", "group": "RU"}
+{"slot": "2026-11-21 15:00", "lang": "PT", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 516 слов (исходник 715, цель ±10%)"], "t": "2026-11-21T10:17:55+00:00", "group": "RU"}
+{"slot": "2026-11-21 15:00", "lang": "RU", "action": "wp_post", "id": 522, "status": "future", "t": "2026-11-21T10:17:56+00:00", "group": "RU"}
+{"slot": "2026-11-21 15:00", "lang": "EN", "page": "1165836896614851", "action": "fb_schedule", "photo_id": "122146005585384677", "post_id": "1165836896614851_122146005615384677", "t": "2026-11-21T10:17:57+00:00", "group": "EN"}
+{"slot": "2026-11-21 15:00", "lang": "TR", "action": "wp_post", "id": 523, "status": "future", "t": "2026-11-21T10:17:57+00:00", "group": "RU"}
+{"slot": "2026-11-21 15:00", "lang": "PT", "action": "wp_post", "id": 524, "status": "future", "t": "2026-11-21T10:17:58+00:00", "group": "RU"}
