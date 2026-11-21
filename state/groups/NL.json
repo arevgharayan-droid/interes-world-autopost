@@ -11160,12 +11160,14 @@
       },
       "363312640206172": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122203974788461850_2167455657204220",
        "error": null,
        "last_attempt": "2026-11-22T00:09:00+04:00",
        "mode": "immediate",
        "photo_id": "122203974758461850",
        "post_id": "363312640206172_122203974788461850",
-       "status": "published"
+       "status": "done"
       },
       "444776585382502": {
        "attempts": 1,
@@ -11181,6 +11183,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 909,
+     "wp_live": true,
      "wp_status": "future"
     },
     "EN": {
@@ -11206,66 +11209,80 @@
      "pages": {
       "1144269682096701": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125699581304553_2714935822242390",
        "error": null,
        "last_attempt": "2026-11-22T00:06:19+04:00",
        "mode": "immediate",
        "photo_id": "122125699557304553",
        "post_id": "1144269682096701_122125699581304553",
-       "status": "published"
+       "status": "done"
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131248813424769_1754460242870905",
        "error": null,
        "last_attempt": "2026-11-22T00:08:19+04:00",
        "mode": "immediate",
        "photo_id": "122131248783424769",
        "post_id": "1180417388497186_122131248813424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131391103430924_1698056012057179",
        "error": null,
        "last_attempt": "2026-11-22T00:07:38+04:00",
        "mode": "immediate",
        "photo_id": "122131391079430924",
        "post_id": "1205543595981082_122131391103430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135377617306170_2028779858079429",
        "error": null,
        "last_attempt": "2026-11-22T00:05:38+04:00",
        "mode": "immediate",
        "photo_id": "122135377593306170",
        "post_id": "1210451145474950_122135377617306170",
-       "status": "published"
+       "status": "done"
       },
       "1239848699214091": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127758979439695_1138564011995040",
        "error": null,
        "last_attempt": "2026-11-22T00:06:57+04:00",
        "mode": "immediate",
        "photo_id": "122127758955439695",
        "post_id": "1239848699214091_122127758979439695",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122224043348930012_1645944463679186",
        "error": null,
        "last_attempt": "2026-11-22T00:04:18+04:00",
        "mode": "immediate",
        "photo_id": "122224043324930012",
        "post_id": "633031599904551_122224043348930012",
-       "status": "published"
+       "status": "done"
       },
       "715935674934966": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122203679846922316_1706138287613231",
        "error": null,
        "last_attempt": "2026-11-22T00:05:00+04:00",
        "mode": "immediate",
        "photo_id": "122203679822922316",
        "post_id": "715935674934966_122203679846922316",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ze gooiden mijn koffer in de regen omdat ze dachten dat ik niets had, maar op het gala zeven maanden later vielen ze stil",
