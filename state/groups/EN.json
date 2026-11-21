@@ -13308,7 +13308,23 @@
   "2026-11-21 21:00": {
    "langs": {},
    "slot_iso": "2026-11-21T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/501668373_1265458194972877_102753118336597675_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=r4O4JC-IZNQQ7kNvwFawz_n&_nc_oc=Adrbbj4oflSuSUp1nx8sJkfFIyR3RtREPiSRwNvl4S7sMkRJonfcJgye3R1CmTvoxCY&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=F-p2E26Q-ar33dcZrK4_1g&_nc_tpa=Q5bMBQJILQLyl-xR7VMIEdGCrbNZW9S0JPIBLTB8jLCrkIwkl0aSNa1-RP67pzqn4xZSQlmsIipTApEwGA&oh=00_AQS2eF4miYTwgCflrWdMkASjeDwySJkFVfinMmu8-TxS3Q&oe=6B07A4D4",
+    "link": "https://www.facebook.com/story.php?story_fbid=1265458214972875&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "MY LATE FATHER'S LAWYER HANDED ME A LETTER BEFORE THE FUNERAL—HE ASKED ME TO FOLLOW MY STEPMOTHER AND HER CHILDREN SECRETLY AFTER THE CEREMONY\nThe funeral was drawing near, and I could feel the weight of grief pressing down on me. Just as the priest was about to speak, a hand gently tapped my shoulder.\nTurning around, I found my father’s lawyer standing behind me, his face stoic and unreadable.\n“This is from your father,” he said softly, placing a sealed envelope in my hands.\nI stared at the envelope, my mind racing with a thousand thoughts. It felt surreal.\n\"\"My dear, if you're reading this, I’m gone,\"\" the letter began, my father's handwriting unmistakable, even from beyond the grave. \"\"But I need you to do something for me—watch Ava (your stepmother) and her children very closely after the ceremony. Follow them discreetly. Keep track of where they go, and don’t let them know you're watching. You need to uncover the truth.”\nA shiver ran down my spine. What was my father trying to tell me? Why this cryptic request right before his funeral?\nAs the ceremony concluded, I couldn’t shake the weight of my father’s words. I glanced over at Ava and her children. They were acting strangely—not devastated, but almost indifferent, as if they were just waiting for this to be over. My stepmother seemed overly eager to leave, as if she couldn’t wait for the final guests to depart.\nAfter the last guest said their goodbyes, I saw them exchange hushed words before rushing toward their car. My curiosity piqued, I decided to follow them.\nI got into my own car, keeping a safe distance, and followed them as they drove away. The mystery of my father’s request burned in my mind. What were they hiding? What could they possibly want to keep secret?\nEventually, they pulled up to an unfamiliar, unmarked building. It wasn’t a house or a place of business. My stomach sank as I parked a little further down the street, my mind racing with a thousand possibilities.\nI took a deep breath, steadying myself before stepping out of the car. My heart was pounding, and I tried to calm my nerves as I walked toward the building.\nI reached for the door, hesitated, then pushed it open. What I saw inside is in the ⬇️",
+    "wp_media_id": 884,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-2100-en.jpg"
+   },
+   "source_key": "post:100045261260562_1265458214972875",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 00:00": {
    "langs": {},
@@ -13556,6 +13572,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-16 15:00",
    "status": "used"
+  },
+  "post:100045261260562_1265458214972875": {
+   "fingerprint": "4446b48f10bd4217b706",
+   "link": "https://www.facebook.com/story.php?story_fbid=1265458214972875&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-21 21:00",
+   "status": "reserved"
   },
   "post:100045261260562_1699289931589699": {
    "fingerprint": "947d4507699df6d24615",

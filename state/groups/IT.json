@@ -17492,7 +17492,23 @@
   "2026-11-21 21:00": {
    "langs": {},
    "slot_iso": "2026-11-21T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/749066349_122139126633043653_2260837557478034593_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-zPqwTfq0yMQ7kNvwGWiErf&_nc_oc=AdoWawEk6Tu-i7dASwFbXWHvXupXmwGGlfahuWwKjr4JfdCt2vvJpvcM9VPJNmBpcK0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=gfgTU3XhrS2H88SbHKOZ1g&_nc_tpa=Q5bMBQKKABIzqutKIjIRbgNa_EqjZNGGn0wJQ6YY1uu1HjmdlTrsPpXSvFhUGdvXzEnFyXbQ_8-VXuQ5Fg&oh=00_AQROvxufjy9rXGzRY9CMdw0Aoi4ArBu3emoTOt6gD22M8Q&oe=6B07A047",
+    "link": "https://www.facebook.com/story.php?story_fbid=122139126693043653&id=61581309613138",
+    "origin": "manual",
+    "page_id": "61581309613138",
+    "text": "At My Daughter’s Funeral, My Son-in-Law Pointed at His Three Girls—12, 9, and 6—and Announced, “They’re Going Into Foster Care. My New Fiancée and I Deserve a Fresh Start.” I Took Them Home Without Arguing, but at 3 A.M., the Oldest Placed a Purple Bag on My Table and Whispered, “Mom Said to Open This Before Dad’s Wedding.” What She Had Protected for Months Changed Everything We Thought We Knew..\nThe Things My Daughter Left Behind\nA Promise Beside the Grave\n\nMy son-in-law waited until the minister had finished the final prayer before announcing that he no longer wanted his children.\n\nNearly two hundred people were still gathered beneath the old oak trees of a quiet cemetery outside Charlottesville, Virginia. A light spring rain had passed through earlier, leaving the grass wet and the air scented with earth and white roses. My daughter Julia’s coffin had just been lowered, and her three girls stood beside me in matching navy coats, each of them trying in her own way to understand why their mother would never walk through the front door again.\n\nTwelve-year-old Avery held Julia’s photograph against her chest. Nine-year-old Beth stared at the flowers without blinking, while six-year-old June pressed herself against my side and clung to my hand.\n\nTheir father, Bradley Keene, stood several feet away in a perfectly tailored charcoal suit. His shoes were polished, his silver watch gleamed beneath his cuff, and his expression carried none of the tenderness I would have expected from a husband saying farewell to his wife of fourteen years.\n\nHis phone vibrated. He glanced at the screen, and for the briefest moment, a smile appeared at the corner of his mouth.\n\nThen he looked toward the girls and spoke loudly enough for everyone nearby to hear.\n\n“If no one in this family wants to take responsibility for them, I’ll contact social services on Monday. Paige and I are starting a new life, and she didn’t agree to raise three children who aren’t hers.”\n\nAt first, I thought grief had caused me to misunderstand him.\n\n“What did you say?” I asked.\n\nBradley exhaled impatiently, as though I had interrupted an important business meeting.\n\n“Martin, please don’t make this harder than it needs to be. Julia is gone. I’m still young, and I have the right to move forward.”\n\n“Those are your daughters.”\n\nHe gave them a passing glance.\n\n“They’ve never liked Paige, and Paige doesn’t want them living with us. You’re their grandfather. If you care so much, you can take them.”\n\nA silence spread through the mourners. Julia’s aunt covered her mouth. One of Bradley’s cousins lowered his head, embarrassed to be standing near him. Even the minister seemed unable to find words.\n\nFor one heated second, I imagined grabbing Bradley by the collar, but then June tightened her fingers around mine, and every ounce of anger in me turned into a promise.\n\nI looked down at my granddaughters. Avery wasn’t in tears. Her face was pale, but her expression was strangely controlled. She looked at Beth, Beth looked at June, and something passed silently among the three sisters—an understanding that felt too serious for children their age.\n\nThey already knew something.\n\nI knelt in front of them.\n\n“You’re coming home with me,” I said. “All three of you.”\n\nBradley gave a small laugh.\n\n“Good. Then that’s settled.”\n\nHe did not embrace them. He did not ask whether they had packed clothes or whether June still needed her evening medicine. He simply turned and walked toward a black SUV waiting near the cemetery entrance.\n\nA blonde woman in oversized sunglasses sat in the passenger seat. The moment Bradley opened the door, she leaned toward him with a pleased smile.\n\nThe vehicle pulled away without either of them looking back.\nPART 2 IN C0MMENT 👇👇👇",
+    "wp_media_id": 886,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-2100-it.jpg"
+   },
+   "source_key": "post:61581309613138_122139126693043653",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 00:00": {
    "langs": {},
@@ -17950,6 +17966,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-13 00:00",
    "status": "used"
+  },
+  "post:61581309613138_122139126693043653": {
+   "fingerprint": "46e40b262bbb97256598",
+   "link": "https://www.facebook.com/story.php?story_fbid=122139126693043653&id=61581309613138",
+   "origin": "manual",
+   "page_id": "61581309613138",
+   "slot": "2026-11-21 21:00",
+   "status": "reserved"
   },
   "post:61585117295331_122154606699170576": {
    "fingerprint": "c5d592a39ff41d658681",

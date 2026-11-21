@@ -5345,7 +5345,23 @@
   "2026-11-21 21:00": {
    "langs": {},
    "slot_iso": "2026-11-21T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/895706742_1471092305118320_4568465513301302459_n.avif?stp=dst-jpg_s720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=q1Ef1M1taXEQ7kNvwGHXaOp&_nc_oc=AdqcwJcWecPXpGazPmJStOEn8nJpVHL8YCjCJvgOzd3kugPgTKiGLQKQ7W2tlLm6EQM&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=_RXl0aPxxke7miDXDKTsjQ&_nc_tpa=Q5bMBQK23A-Yk-d3KT0onnUD10zo1XG6prym29zDUKDIgx9p3n168fdrZXMf7-3a_TpbQh8shsn29G5sKQ&oh=00_AQSdzBzrQ7tcO5odxRlBQjAcq0df306UdodX_E7b7nvJ4w&oe=6B079536",
+    "link": "https://www.facebook.com/story.php?story_fbid=1230477055846514&id=100066526927953",
+    "origin": "manual",
+    "page_id": "100066526927953",
+    "text": "My grandfather brought my grandmother flowers every week for 57 years—after he passed away, a stranger brought flowers and a letter revealing his secret.\n----------------\n\nMy grandparents were married for fifty-seven years. Their love felt timeless, like something lifted straight from a romantic film. My grandfather, Thomas, never once broke his routine. Every Saturday, without fail, he brought my grandmother fresh flowers.\n\nSome weeks it was wildflowers, other times tulips, sometimes whatever was in season. He always woke early, while she was still asleep, and quietly placed the bouquet into a vase before she even stirred.\n\nA week ago, my grandfather passed away. My grandmother held his hand until his very last breath.\n\nAfter that, the house felt unbearably quiet.\n\nI stayed with my grandmother that week—to comfort her, to help her, and to sort through my grandfather’s belongings.\n\nThen Saturday morning came.\n\nThere was a knock at the door.\n\nWhen I opened it, a man stood there wearing a coat. He didn’t introduce himself. He simply cleared his throat and said,\n\n“Good morning. I’m here for Thomas. He asked me to deliver this to his wife after his death.”\n\nMy hands started to shake.\n\nMy grandmother hurried toward the door.\n\nThe man handed her a bouquet of flowers and an envelope, then turned and left without another word.\n\nMy grandmother opened the envelope immediately. Inside was a LETTER, written in my grandfather’s handwriting.\n\nIt read:\n\n“I’m sorry I didn’t tell you this earlier. There’s something I hid from you for most of my life, but you deserve to know the truth. You urgently need to go to this address…”\n\nMy grandmother stared at the note for a long time, her hands trembling.\n\nThe address was about an hour away. We grabbed our jackets, got into the car, and left right away—without knowing what we were about to find.\n\nWhen we arrived, we saw a small house.\n\nWe knocked on the door. My stomach was already in knots.\n\nA woman opened it. When she saw us, she froze.\n\nThen she said,\n\n“I KNOW WHO YOU ARE. I’VE BEEN WAITING FOR YOU FOR A VERY LONG TIME. YOU NEED TO KNOW SOMETHING THOMAS WAS HIDING FROM YOU. COME IN.”\n\nMy grandmother didn’t move. \n\n“What are you saying?” she managed... Full story in the first c0mment.",
+    "wp_media_id": 542,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-2100-mix.jpg"
+   },
+   "source_key": "post:100066526927953_1230477055846514",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 00:00": {
    "langs": {},
@@ -5485,6 +5501,14 @@
    "page_id": "100059505912199",
    "slot": "2026-11-17 18:00",
    "status": "used"
+  },
+  "post:100066526927953_1230477055846514": {
+   "fingerprint": "3ffb836f972ddd299f2a",
+   "link": "https://www.facebook.com/story.php?story_fbid=1230477055846514&id=100066526927953",
+   "origin": "manual",
+   "page_id": "100066526927953",
+   "slot": "2026-11-21 21:00",
+   "status": "reserved"
   },
   "post:100066585605572_1464940149068825": {
    "fingerprint": "ff6b8e95f3d6e12c1305",

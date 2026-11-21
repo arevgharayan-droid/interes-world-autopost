@@ -16826,7 +16826,23 @@
   "2026-11-21 21:00": {
    "langs": {},
    "slot_iso": "2026-11-21T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/637805933_1475219927330035_1680535065473100924_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3Q4sRzylW-IQ7kNvwF2qX0l&_nc_oc=Adp6pFH2JSnh0uBhPn_ZPAxsbPJd635uNxr0Civ08eBwRHrz-7rc8fVkFZK01N6juJE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=OA4usOdgVxJevXCMjiTkvA&_nc_tpa=Q5bMBQJ86UJFRjaLjlR989qpz2eSr-LYhJnSB58CA5zg5vCkRVYB59svn8rMRaDGS_5OUV7Ctq3wngF4Dw&oh=00_AQTp3oqxV-TfHPDLzJxrjePz3oREXeG7eS7UxoRBgnBrzQ&oe=6B078ABA",
+    "link": "https://www.facebook.com/story.php?story_fbid=1475219943996700&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "At the reading of the will, my parents actually laughed when my sister was awarded $6.9 million. When it was my turn, the attorney announced I’d inherited one dollar.\n\nMom slid the bill across the table toward me. “Go make your own,” she said coolly. Then, with a thin smile, she added, “Some children just don’t measure up.”\n\nThey were still amused—until the lawyer opened my grandfather’s final letter.\n\nThat’s when my mother began to scream.\n\nThe morning after Grandpa Walter Hayes was laid to rest, my parents escorted my sister and me into a sleek law office in downtown Denver.\n\nDad wore his “important meeting” suit. Mom’s pearl necklace shone like she was attending a gala. Brooke sat perfectly poised, as always.\n\nI’d come straight from my shift at the hospital cafeteria, the scent of disinfectant still clinging faintly to my hands. Mom eyed my plain black dress and muttered, “This is about family money.”\n\nFamily money had never truly included me.\n\nBrooke had always been the golden child—private tutors, a new car at sixteen, constant praise. I was the spare, expected to be thankful for whatever was left over.\n\nThe only one who ever treated me like I mattered was Grandpa. He’d quietly ask about my classes and once told me, “Pay attention to how people behave when they think they’ve already won.”\n\nAttorney Harris adjusted his glasses and opened a folder.\n\n“This is the last will and testament of Walter Hayes,” he began. “I will start with the primary bequests.”\n\nMom’s foot tapped eagerly beneath the table. Dad’s hand rested proudly on Brooke’s shoulder. I focused on breathing.\n\n“To my granddaughter, Brooke Elaine Miller, I leave six million nine hundred thousand dollars.”\n\nBrooke inhaled sharply. Dad let out a pleased chuckle. Mom clapped once and leaned toward me.\n\n“Some children just don’t measure up,” she murmured.\n\nHarris continued reading.\n\n“To my daughter, Diane Miller, and my son-in-law, Robert Miller…”\n\nMom lifted her chin, expectant.\n\n“…I leave one dollar each.”\n\nHer smile faltered.\n\nHe flipped the page.\n\n“To my granddaughter, Claire Miller…”\n\nHearing my name echoed in that room felt surreal.\n\n“…I leave one dollar.”\n\nA beat of silence—then my parents erupted in careless laughter, the sound bouncing off the glass walls.\n\n“One dollar,” Dad repeated with satisfaction.\n\nMom slid a crisp bill toward me like a tip to a stranger. “Go build your own life.”\n\nI swallowed hard but didn’t reach for it. Brooke remained composed, hands folded, eyes lowered. This was exactly what they’d anticipated.\n\nThen Attorney Harris cleared his throat and lifted a sealed envelope.\n\n“Mr. Hayes left a final letter,” he said. “He requested it be read aloud in full.”\n\nMom waved dismissively. “Fine. Read it.”\n\nHarris broke the seal. As his eyes scanned the first lines, his expression shifted. He looked directly at my mother.\n\n“Diane… are you certain?”\n\nHer irritation sharpened. “Just read it.”\n\nHe began:\n\n“My dearest family. If you are hearing this, I am gone. Diane, I can no longer protect you from the consequences of your actions. The withdrawals from my accounts. The forged signatures. The—”\n\nMom’s chair screeched backward.\n\n“Stop!” she shouted, her voice cracking through the room. “You cannot read that!”\n\nIn an instant, the laughter vanished. Full story in 1st comment 👇",
+    "wp_media_id": 541,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-2100-ru.jpg"
+   },
+   "source_key": "post:100045261260562_1475219943996700",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 00:00": {
    "langs": {},
@@ -17084,6 +17100,14 @@
    "error": "не удалось прочитать пост: 100044802900629_1676478713855543: нет текста или фото | 1676478713855543: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1676478713855543: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher",
    "link": "https://www.facebook.com/story.php?story_fbid=1676478713855543&id=100044802900629",
    "status": "failed"
+  },
+  "post:100045261260562_1475219943996700": {
+   "fingerprint": "8dedce02f3415e702972",
+   "link": "https://www.facebook.com/story.php?story_fbid=1475219943996700&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-21 21:00",
+   "status": "reserved"
   },
   "post:100045261260562_1699103431608349": {
    "fingerprint": "72333163c518fa427e98",
