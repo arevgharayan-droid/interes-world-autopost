@@ -46,6 +46,7 @@
   "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00",
   "ed1263949be80f9f9314": "2026-11-16T20:28:09+00:00",
   "f0fbe62a6e965138d9e2": "2026-11-16T00:21:36+00:00",
+  "f702b99551dc88a9c658": "2026-11-21T10:17:03+00:00",
   "f87c8c178aeaa21eef02": "2026-11-10T22:04:28+00:00",
   "feb1dde7e2dbbf5351ce": "2026-11-10T22:05:38+00:00",
   "ff8b8a08f34b59eee8c4": "2026-11-16T23:51:06+00:00"
@@ -12686,7 +12687,72 @@
    }
   },
   "2026-11-21 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Parents Sued Me for Faking My Military Service, Then the Judge Pulled Back Her Robe",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 856,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/914450509_122156019963170576_3849787838973589877_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kZZK0vG0a7cQ7kNvwH8WHm2&_nc_oc=AdqBqzq79_IVFeZySRmTsmHIBftFBe0AFb4_R_yc4gtzVMx5qABc3I_5Evty7gCjYnA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=lBaovSZCoAM7gxuPOGNEeQ&_nc_tpa=Q5bMBQKOMKGGD5_juW9HhiUcJGQNF8FSvU2dCpiGjVVLmntXKBumj6lLEmCGD3swRjDfBfu2jw02wP30XQ&oh=00_AQRfaNZHGzgXWn4eQ806-rV9R-dpSeb02gLH5pVIUSdOHQ&oe=6B07265B",
@@ -12698,7 +12764,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1500-en.jpg"
    },
    "source_key": "post:61585117295331_122156019987170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13202,7 +13268,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-21 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122144249169210709": {
    "fingerprint": "e5d68479642997b336d5",
