@@ -13528,6 +13528,7 @@
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-21T21:07:18+04:00",
        "mode": "immediate",
