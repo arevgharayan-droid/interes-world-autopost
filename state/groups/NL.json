@@ -10674,12 +10674,14 @@
       },
       "715935674934966": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122203647182922316_1111276328337295",
        "error": null,
        "last_attempt": "2026-11-21T18:14:24+04:00",
        "mode": "immediate",
        "photo_id": "122203647158922316",
        "post_id": "715935674934966_122203647182922316",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Negen jaar lang liet een oude marinier elke Veterans Day een koffie onaangeroerd staan, tot een jonge marinier in galauniform vertelde voor wie die tweede kop was",
