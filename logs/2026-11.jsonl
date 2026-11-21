@@ -10332,3 +10332,7 @@
 {"slot": "2026-11-21 21:00", "lang": "RO", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-21T17:04:01+00:00", "group": "MIX"}
 {"slot": "2026-11-21 21:00", "lang": "AR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 275 слов (исходник 396, цель ±10%)"], "t": "2026-11-21T17:04:01+00:00", "group": "MIX"}
 {"slot": "2026-11-21 21:00", "lang": "PT", "action": "wp_post", "id": 545, "status": "publish", "t": "2026-11-21T17:04:02+00:00", "group": "RU"}
+{"slot": "2026-11-21 21:00", "lang": "RU", "action": "wp_post", "id": 546, "status": "publish", "t": "2026-11-21T17:04:02+00:00", "group": "MIX"}
+{"slot": "2026-11-21 21:00", "lang": "ES", "action": "wp_post", "id": 547, "status": "publish", "t": "2026-11-21T17:04:03+00:00", "group": "MIX"}
+{"slot": "2026-11-21 21:00", "lang": "RO", "action": "wp_post", "id": 548, "status": "publish", "t": "2026-11-21T17:04:04+00:00", "group": "MIX"}
+{"slot": "2026-11-21 21:00", "lang": "AR", "action": "wp_post", "id": 549, "status": "publish", "t": "2026-11-21T17:04:05+00:00", "group": "MIX"}

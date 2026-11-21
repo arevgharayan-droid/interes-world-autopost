@@ -5356,7 +5356,10 @@
      "title": "بعد وفاة جدي طرق غريب بابنا بباقة ورد ورسالة بخط يده، وما كشفته جدتي في ذلك البيت الصغير غيّر كل شيء",
      "warnings": [
       "длина текста FB 275 слов (исходник 396, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 549,
+     "wp_status": "publish"
     },
     "CS": {
      "pages": {},
@@ -5376,7 +5379,10 @@
      "generated": true,
      "pages": {},
      "title": "Durante 57 años le llevó flores cada sábado a su esposa, y tras su muerte un desconocido llegó con un ramo y una carta que revelaba su secreto",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 547,
+     "wp_status": "publish"
     },
     "FR": {
      "pages": {},
@@ -5404,7 +5410,10 @@
      "generated": true,
      "pages": {},
      "title": "Bunicul i-a adus flori în fiecare săptămână, 57 de ani. După moartea lui, un străin a bătut la ușă cu un buchet și o scrisoare care dezvăluia secretul lui",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 548,
+     "wp_status": "publish"
     },
     "RU": {
      "backend": "subscription",
@@ -5414,7 +5423,10 @@
      "title": "57 лет дед каждую субботу дарил бабушке цветы, а после его смерти незнакомец принёс букет и письмо с тайной",
      "warnings": [
       "длина текста FB 318 слов (исходник 396, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 546,
+     "wp_status": "publish"
     },
     "TR": {
      "pages": {},
@@ -5425,6 +5437,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-21T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/895706742_1471092305118320_4568465513301302459_n.avif?stp=dst-jpg_s720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=q1Ef1M1taXEQ7kNvwGHXaOp&_nc_oc=AdqcwJcWecPXpGazPmJStOEn8nJpVHL8YCjCJvgOzd3kugPgTKiGLQKQ7W2tlLm6EQM&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=_RXl0aPxxke7miDXDKTsjQ&_nc_tpa=Q5bMBQK23A-Yk-d3KT0onnUD10zo1XG6prym29zDUKDIgx9p3n168fdrZXMf7-3a_TpbQh8shsn29G5sKQ&oh=00_AQSdzBzrQ7tcO5odxRlBQjAcq0df306UdodX_E7b7nvJ4w&oe=6B079536",
@@ -5436,7 +5449,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261121-2100-mix.jpg"
    },
    "source_key": "post:100066526927953_1230477055846514",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -5589,7 +5602,7 @@
    "origin": "manual",
    "page_id": "100066526927953",
    "slot": "2026-11-21 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066585605572_1464940149068825": {
    "fingerprint": "ff6b8e95f3d6e12c1305",
