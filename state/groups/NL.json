@@ -8,6 +8,7 @@
   "097beede44a6fb9a71b7": "2026-11-17T17:52:09+00:00",
   "0c6e8a7efc71f173e15e": "2026-11-16T10:16:48+00:00",
   "0d1837969ae0e3704a2b": "2026-11-09T20:00:55+00:00",
+  "0d8e1b277acd69617505": "2026-11-21T10:17:21+00:00",
   "118a7c202280ee104d0c": "2026-11-13T10:14:57+00:00",
   "120edbf2984526605544": "2026-11-18T22:36:37+00:00",
   "122da30c84d729a1b892": "2026-11-09T20:00:55+00:00",
@@ -38,6 +39,7 @@
   "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
   "5902057f0f114c578fb0": "2026-11-20T16:46:47+00:00",
+  "5baf059a2cf94b9c1bc6": "2026-11-21T10:17:21+00:00",
   "611c7e4517c03c81dabc": "2026-11-19T10:26:43+00:00",
   "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
   "69fca282f43c87f63475": "2026-11-14T19:42:34+00:00",
@@ -10202,7 +10204,79 @@
    }
   },
   "2026-11-21 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nehmen Sie die Hand von mir, Sergeant\": Wie eine Orange einen Soldaten vor dem ganzen Speisesaal zu Fall brachte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 859,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Hij greep haar bij de paardenstaart in de kantine, maar had geen idee wie ze werkelijk was",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 858,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-21T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/914000607_122155958793170576_4387411971952903998_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X03RzkKlHD4Q7kNvwGGfREv&_nc_oc=AdpfqaIgMOsz-jF0dfwLVeatznjJ7MwU19QYPLKHdbHpuYvnkYFp1dAW0TiN2mTgxRg&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=fWdV6rknU6eHVLU2Y4VFnw&_nc_tpa=Q5bMBQKy7FrIswKDqhoTfa7NdF0nUu3TKedI9osh8eOff5BFLmr_Y6FK2y16qhhmVanrvND_Q5yF7aXxQg&oh=00_AQRsk6dCVOIefsNde5cgmEGwhAtHp5N9PLNFawDedEQwlQ&oe=6B072ED6",
@@ -10214,7 +10288,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261121-1500-nl.jpg"
    },
    "source_key": "post:61585117295331_122155959087170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -10744,7 +10818,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-21 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586759032853_122141640519225301": {
    "fingerprint": "26a181813ad8d196c62d",
