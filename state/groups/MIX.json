@@ -7,6 +7,7 @@
   "0ad80be2e1cea7e03b4f": "2026-11-20T16:46:26+00:00",
   "0be13b58727dd30b5837": "2026-11-17T17:52:42+00:00",
   "0d6931716754091b432c": "2026-11-20T22:45:57+00:00",
+  "12b8aa47a4d7c4cb6051": "2026-11-21T19:44:56+00:00",
   "1674a1862ef8141ef8d2": "2026-11-20T19:26:13+00:00",
   "183e5b82cea64a1af2e4": "2026-11-20T16:46:26+00:00",
   "18b10ac52aef32d53a3b": "2026-11-20T16:46:26+00:00",
@@ -64,7 +65,9 @@
   "a6fdd2c0df68079b8482": "2026-11-18T18:56:12+00:00",
   "aaba67c9a1c5ee2c6122": "2026-11-19T19:58:49+00:00",
   "ab007dd685935f2c3980": "2026-11-17T10:38:26+00:00",
+  "adaccf4f9fde1143ba93": "2026-11-21T19:44:56+00:00",
   "adfb1bdeac99773333bd": "2026-11-18T22:20:58+00:00",
+  "b14671f51218be3c2ac4": "2026-11-21T19:44:56+00:00",
   "b380f193a4d40b198fda": "2026-11-19T22:00:55+00:00",
   "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
   "ba4752512e3fefd45f2a": "2026-11-21T14:13:33+00:00",
@@ -76,6 +79,7 @@
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "cfa7b21c90a2cad9b78e": "2026-11-18T08:52:49+00:00",
+  "d14043f3b91f3d7be5bb": "2026-11-21T19:44:56+00:00",
   "d305c96ab228138b6cd5": "2026-11-20T19:26:13+00:00",
   "d3eb8ba6065409a69dcd": "2026-11-20T16:46:26+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
@@ -5570,7 +5574,88 @@
    }
   },
   "2026-11-22 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "طلب مني زوجي المليونير أن أستحم امرأة مشرّدة بيدي، وحين رأيت شامة الهلال على كتفها ارتجف قلبي",
+     "warnings": [
+      "длина текста FB 997 слов (исходник 1247, цель ±10%)"
+     ]
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi esposo millonario trajo a casa a una anciana sin hogar y me pidió que la bañara yo misma; al ver su hombro, se me cayó la esponja",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 556,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Soțul meu milionar a adus acasă o femeie fără adăpost și mi-a cerut să o spăl cu mâna mea. Când i-am văzut semnul de pe umăr, mi s-a oprit respirația",
+     "warnings": []
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Муж привёл в дом пожилую бездомную и велел мне самой её искупать, но на её плече я увидела знак, который не забывала двадцать лет",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 555,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-22T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/779842475_1476254164525596_7093657170809562713_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=P0Y982dzosIQ7kNvwEwJWik&_nc_oc=Adpbe2Ky1NNlK0nQDfEibvHC50qmfJagX2pnA1NlAVjy8JC4GeCKgoYD3dkZCC-vfUI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=w11PX6MRw_g6GWLifBUJMg&_nc_tpa=Q5bMBQIspwFzdP9ueHn2z8tAxnglhjUX1Q1z1Y7m6bFdAGH9zIvVA8gn4-2P9ClaoU7uQu5NglV4wc-Qaw&oh=00_AQRz4GT2FSXk2wlepgOzMDYWINhKaB4YAIqab0Lowwxguw&oe=6B07AE8F",

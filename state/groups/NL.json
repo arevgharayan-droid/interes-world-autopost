@@ -43,9 +43,11 @@
   "5baf059a2cf94b9c1bc6": "2026-11-21T10:17:21+00:00",
   "611c7e4517c03c81dabc": "2026-11-19T10:26:43+00:00",
   "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
+  "67a1af36132f7ae75c63": "2026-11-21T19:44:57+00:00",
   "69fca282f43c87f63475": "2026-11-14T19:42:34+00:00",
   "6a5fb8d3a145316fa770": "2026-11-12T09:04:19+00:00",
   "6f01f72feadb6fecb5ce": "2026-11-15T14:18:37+00:00",
+  "6fcb14f617ec70672575": "2026-11-21T19:44:57+00:00",
   "76987c00bbd404e3cd24": "2026-11-12T10:26:46+00:00",
   "7b147e020095c6199d1d": "2026-11-10T22:05:36+00:00",
   "81de3c9a0a991fc9bf6a": "2026-11-09T20:03:33+00:00",
@@ -11058,7 +11060,79 @@
    }
   },
   "2026-11-22 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sie warf meinen Koffer in den Regen und sagte, ich gehe mit nichts – sechs Monate später kam ich im Maybach zur Gala",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 909,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ze gooiden mijn koffer in de regen omdat ze dachten dat ik niets had, maar op het gala zeven maanden later vielen ze stil",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 908,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/825266932_1623379429165472_5599342384305586443_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Bi-o2SmraOcQ7kNvwEFSvKi&_nc_oc=AdoH9V-DGav6hbez0tcFzyy4FKQlrBUvYWpvY75m5YQZCoSew-VymcB7Ckz5MJV5eLQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=a0cWMB3zPions64c8D-S1A&_nc_tpa=Q5bMBQJCrMxVl4fb_NuGgm_oPAuwa0hr0jUYEuoWn9X2xV1D24hcQI93-lOBZTHlvRGl4GIb0w1SAXbOFw&oh=00_AQSlIUSyRWxexaboTg6Df9lSNPCNQBqqVlYnK1Qy7mfxKg&oe=6B07B0B2",
@@ -11070,7 +11144,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-0000-nl.jpg"
    },
    "source_key": "post:100044802900629_1623379742498774",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11305,7 +11379,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-22 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100044802900629_1662788041891277": {
    "fingerprint": "b1fe33cfd7aae96bd88e",
