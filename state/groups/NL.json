@@ -13595,7 +13595,23 @@
   "2026-11-24 00:00": {
    "langs": {},
    "slot_iso": "2026-11-24T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/825327807_1520759093408436_5985194925596970547_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OcyJ8rMOKGcQ7kNvwEMzhHT&_nc_oc=AdoNDNpxe1QW8aecWJV0y_Hgr2eTxdfOJERZjks2xsDcFATToAjUz6mu45vOMZ9lEv0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=_aRbqxaZkhUYOuc5kCdl7g&_nc_tpa=Q5bMBQKKXMVHnEiVqcbVoH0t5Rd_EMPQG6rrRgh18M0AqKlCF5_c0tt0UOsPzBupl1ZidyGbJg0Svudo1A&oh=00_AQQRogAlO7C98MmT3SHEOyzIH72wHIgp6kWm6bxq5mfEOg&oe=6B093A64",
+    "link": "https://www.facebook.com/story.php?story_fbid=1520759550075057&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "While I fought for my life in the ICU, my parents ignored nine emergency calls. Days later, my father mocked me as a “broken soldier” and pressured me to surrender a $5 million settlement. My family believed they had won—until my colonel entered with my medical records, stared them down, and said, “You abandoned your own daughter to die for a payday.”\n\n## Part 1: The Nine Calls They Silenced\n\nThe first sound I heard was the steady beeping of the monitor beside my bed. The ceiling lights swam above me, my throat burned, and pain throbbed through my fractured ribs, injured hip, and bandaged abdomen.\n\nFragments returned slowly—twisted metal, terrified voices, and a military evacuation exercise that became a real emergency when our vehicle overturned.\n\nI was **Captain Mara Ellison**, a trauma surgeon assigned to a military medical unit. I had spent years rushing toward wounded soldiers. That afternoon, I became one of them.\n\nA nurse named **Nora** noticed my eyes opening and checked the monitors.\n\n**“Do you know where you are?”**\n\n**“The military hospital in San Antonio,”** I whispered.\n\n**“And what happened?”**\n\n**“Our vehicle rolled.”**\n\nHer expression softened. **“You underwent surgery. You have several fractures and internal injuries, but you’re stable.”**\n\nStable seemed like an odd word when every breath felt borrowed.\n\nMy phone rested in a clear plastic bag beside my military ID and my grandmother’s silver watch. When I asked to use it, Nora urged me to rest, but I insisted.\n\n**“I need to call my parents.”**\n\nMy father’s number was saved as **Home**. **Victor Ellison** remembered every property his company had purchased in twenty years, yet often forgot my birthday. My mother, **Celeste**, could be affectionate when cameras were present, but she disliked anything in my life that involved sacrifice, uncertainty, or pain she could not neatly control.\n\nStill, they were my parents. After nearly dying, I wanted only one familiar voice to say, **“We’re coming.”**\n\nThe first call went to voicemail. So did the next three.\n\nBy the sixth, I wondered whether something was wrong with my phone. During the seventh, Nora adjusted my blanket and politely pretended not to notice the tears slipping into my hair.\n\nI called twice more.\n\nNine calls. No answer.\n\nAcross the country, my younger sister, **Lena**, was celebrating her engagement to **Adrian Cross** at my parents’ estate outside Boston. Later, I would see photographs of white roses, chandeliers, champagne towers, and my parents smiling proudly beside the happy couple.\n\nI would also learn that my name had appeared nine times on my father’s screen.\n\nCeleste saw it. Lena saw it.\n\nThey had not missed my calls.\n\nThey had silenced them while I lay alone in intensive care, surrounded by strangers fighting to keep me alive.\n\n---------------------------------------------------------------\nPlease type “Life ” if you’re ready for the next part and I’ll send it right away. 👇👇",
+    "wp_media_id": 1030,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-nl.jpg"
+   },
+   "source_key": "post:100064230806326_1520759550075057",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-10-29T16:39:48+00:00",
@@ -13765,6 +13781,7 @@
    "link": "https://www.facebook.com/share/p/1DwW8G4ma5/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1714202370098455&id=100045261260562"
   },
+  "link:d2044d54183da0c9e636": {},
   "link:d7839abadc46b11b808c": {
    "link": "https://www.facebook.com/share/p/1EpcczRDxS/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122135497227339253&id=61590177596600"
@@ -13986,6 +14003,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-22 12:00",
    "status": "used"
+  },
+  "post:100064230806326_1520759550075057": {
+   "fingerprint": "84b2b1074f35fc74df80",
+   "link": "https://www.facebook.com/story.php?story_fbid=1520759550075057&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 00:00",
+   "status": "reserved"
   },
   "post:100064456312444_1599735255518336": {
    "fingerprint": "c319c595abd42758fc88",
