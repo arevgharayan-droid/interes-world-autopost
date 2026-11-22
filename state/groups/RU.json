@@ -18836,7 +18836,10 @@
      "generated": true,
      "pages": {},
      "title": "Perdi a mansão e o dinheiro para os meus filhos, mas ao dar o último que tinha a uma família na neve, descobri o segredo do meu marido",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 599,
+     "wp_status": "publish"
     },
     "RO": {
      "pages": {},
@@ -18874,6 +18877,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-22T20:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/860299932_1692735948911764_1869915209088177239_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MnHhKUGU-8EQ7kNvwG_N-yd&_nc_oc=AdqvWMHW4pXG1vjpThNeoBc4A6oKPY-EZXKwiT51L2cQwcZxZuyyEiw5qmGOgcqLPFM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GETv2Qilb3XgAiVeXyMkfw&_nc_tpa=Q5bMBQJkXDjRPOesoCkNhgX4DCu9eIB-ZghKI8zKI-jBca2e9omH4QnUiSoY4gcjP-ao6rjA3UIsff73fg&oh=00_AQRBZA1h-tO_vG0Xe5j_qnIZcohWMN45gQop3dyLOzTh8g&oe=6B08E386",
@@ -18885,7 +18889,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-2030-ru.jpg"
    },
    "source_key": "post:100045261260562_1692783712240321",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -19189,7 +19193,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-22 20:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699103431608349": {
    "fingerprint": "72333163c518fa427e98",

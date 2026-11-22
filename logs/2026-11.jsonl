@@ -11455,3 +11455,4 @@
 {"slot": "2026-11-22 20:30", "lang": "EN", "page": "914823471720372", "action": "fb_immediate", "photo_id": "122149396581209718", "post_id": "914823471720372_122149396605209718", "t": "2026-11-22T16:32:01+00:00", "group": "EN"}
 {"slot": "2026-11-22 20:30", "lang": "TR", "action": "wp_post", "id": 597, "status": "publish", "t": "2026-11-22T16:32:02+00:00", "group": "RU"}
 {"slot": "2026-11-22 20:30", "lang": "AR", "action": "wp_post", "id": 598, "status": "publish", "t": "2026-11-22T16:32:02+00:00", "group": "MIX"}
+{"slot": "2026-11-22 20:30", "lang": "PT", "action": "wp_post", "id": 599, "status": "publish", "t": "2026-11-22T16:32:03+00:00", "group": "RU"}
