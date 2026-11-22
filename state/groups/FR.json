@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "fb_block_until": "2026-11-14T14:14:30+04:00",
  "output_fps": {
+  "0558b5c7136e6c324348": "2026-11-22T21:41:49+00:00",
   "0cc919e89bd6281c811b": "2026-11-17T20:47:02+00:00",
   "0eae76a4b0a9fac31d88": "2026-11-22T19:48:31+00:00",
   "15762788a9c71b2165b1": "2026-11-09T19:59:18+00:00",
@@ -11579,7 +11580,75 @@
    }
   },
   "2026-11-23 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Dix ans après son expulsion, elle revient aux obsèques de son beau-père en uniforme, avec cinq enfants qui ont tous les yeux de son ex-mari",
+     "warnings": [
+      "длина текста FB 596 слов (исходник 512, цель ±10%)",
+      "длина статьи 990 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1016,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/778735965_1474731724677840_332453781571364952_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jsuafwh5UHAQ7kNvwHBFgjW&_nc_oc=AdpqixwwabBepkOfdtA5rLFAbPv-UB0uKKQwJUj3j2ej8RBTjdbNyUSVeVgY4zaGi5s&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=AwUtGZkdKt1WpBjLWFoFCA&_nc_tpa=Q5bMBQIiw-cQ8Ujd6AWqN7PlD8vRnsnW0n3780WwpEc3Mv6k3mFXIWUV8_TYOJ8VLxGfhX3nEwNK7snx_w&oh=00_AQSxT_4E_mKPk49QpBuDRkGFWDmOGZ5OU89ND6czPEaAug&oe=6B091D80",
@@ -11591,7 +11660,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-2100-fr.jpg"
    },
    "source_key": "post:100064230806326_1475520404598972",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11940,7 +12009,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1510587571092255": {
    "fingerprint": "30344627231317a71e8f",
