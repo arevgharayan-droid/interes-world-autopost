@@ -19436,6 +19436,12 @@
        "post_id": "1114015015119414_122142283898811401",
        "status": "published"
       },
+      "1128937866962526": {
+       "attempts": 1,
+       "last_attempt": "2026-11-22T20:42:40+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "1140835409106424": {
        "attempts": 1,
        "error": null,
