@@ -11581,7 +11581,23 @@
   "2026-11-23 21:00": {
    "langs": {},
    "slot_iso": "2026-11-23T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/778735965_1474731724677840_332453781571364952_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jsuafwh5UHAQ7kNvwHBFgjW&_nc_oc=AdpqixwwabBepkOfdtA5rLFAbPv-UB0uKKQwJUj3j2ej8RBTjdbNyUSVeVgY4zaGi5s&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=AwUtGZkdKt1WpBjLWFoFCA&_nc_tpa=Q5bMBQIiw-cQ8Ujd6AWqN7PlD8vRnsnW0n3780WwpEc3Mv6k3mFXIWUV8_TYOJ8VLxGfhX3nEwNK7snx_w&oh=00_AQSxT_4E_mKPk49QpBuDRkGFWDmOGZ5OU89ND6czPEaAug&oe=6B091D80",
+    "link": "https://www.facebook.com/story.php?story_fbid=1475520404598972&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "Ten years after my ex-husband threw me out and believed another woman’s lie, I returned to his father’s funeral in my military uniform with five children beside me. He stared at their faces, and the truth finally hit him: every child had his eyes, his jaw, and the life he had refused to ask about. Then I handed him the envelope that destroyed the lie he had lived with for a decade.\nPart 1: The Funeral Where the Truth Walked In\n\nTen years after I was pushed off Sterling property in disgrace, I returned under a gray Georgia sky in my military dress uniform—not as the woman they had shamed into silence, but as the mother of five children no one could deny.\n\nMy name is Savannah Cole, and the black SUV stopped near the cemetery as church bells rang for Harrison Whitmore’s funeral. I stepped out first, shoulders squared, carrying a decade of silence.\n\nThen the back doors opened.\n\nOne by one, my children climbed out.\n\nEvan. Noah. Liam. Ruby. Emma.\n\nThe whispers started immediately.\n\nFive children.\n\nFive faces.\n\nFive living reminders of the truth everyone had refused to hear.\n\nBecause every one of them looked like Grant Whitmore, my ex-husband—the man who gave me ten minutes to defend myself before signing away our marriage.\n\nI had not come for money. I had not come to beg. I had not come to prove myself to people who had already chosen their verdict.\n\nI came because Harrison was the only person in that family who ever treated me like I mattered. Years after the divorce, he had sent one handwritten Christmas card to my Army post office box, never knowing I kept it folded inside my Bible.\n\nMy children deserved to say goodbye to the grandfather who never knew them.\n\nThen Victoria Hale stepped in front of us.\n\nShe was the woman who had waited for my marriage to collapse before it was even over. She looked at my children and smiled like she still controlled the story.\n\n“Well,” she said loudly, “I suppose the military doesn’t teach shame.”\n\nEvan tightened his hand around mine.\n\nI looked at her. “Move.”\n\nVictoria’s eyes swept over my children. “Do you really expect people to believe this little parade happened by accident?”\n\n“They came to say goodbye.”\n\n“To a man who was not their family.”\n\nThat was when Ruby stepped forward.\n\nMy youngest daughter looked toward Harrison’s grave and said clearly, “He was our grandfather.”\n\nThe cemetery changed.\n\nGrant turned from the coffin. His eyes moved from Evan to Noah, then Liam, Ruby, and Emma.\n\nConfusion.\n\nDisbelief.\n\nRecognition.\n\nVictoria saw it too.\n\nThe past she thought she had buried had walked back into the cemetery holding my children’s hands.\n\nGrant stepped closer, his voice shaking.\n\n“Savannah… what is this?”\n\nI lifted the sealed envelope in my hand.\n\n“This,” I said, “is what you left behind ten years ago.”\n\nStory continued in the comments! Drop a comment if you want to know what happens next. 👇👇",
+    "wp_media_id": 1014,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-2100-fr.jpg"
+   },
+   "source_key": "post:100064230806326_1475520404598972",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 00:00": {
    "langs": {},
@@ -11709,6 +11725,7 @@
   },
   "link:7701a846fa4b1a7b85b6": {},
   "link:792c88f05dd1afb23e95": {},
+  "link:7c06084d6ffd58f66eed": {},
   "link:7c2d24b1120ea9d23dd5": {},
   "link:80d8d97a17cf53c7a21a": {
    "link": "https://www.facebook.com/share/p/1Hvdxhuu2i/",
@@ -11916,6 +11933,14 @@
    "page_id": "100050386034442",
    "slot": "2026-11-20 02:30",
    "status": "used"
+  },
+  "post:100064230806326_1475520404598972": {
+   "fingerprint": "d3469d6d9fbac4d77f74",
+   "link": "https://www.facebook.com/story.php?story_fbid=1475520404598972&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 21:00",
+   "status": "reserved"
   },
   "post:100064230806326_1510587571092255": {
    "fingerprint": "30344627231317a71e8f",

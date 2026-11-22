@@ -18,6 +18,7 @@
   "1e2c7dd943d79ef1c8d0": "2026-11-18T22:49:45+00:00",
   "1f198156f3d98bc7ff76": "2026-11-19T10:26:49+00:00",
   "208463d4781b94b70452": "2026-11-19T14:08:16+00:00",
+  "20f6a7628fd976769436": "2026-11-22T21:41:20+00:00",
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
   "292c1d04504fd06c6ac5": "2026-11-18T18:56:12+00:00",
   "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
@@ -48,6 +49,7 @@
   "696ac8bfafbb80f4597b": "2026-11-22T21:17:18+00:00",
   "697bf1e866b0d768ab37": "2026-11-18T22:49:45+00:00",
   "6d23ba98be07175e84bf": "2026-11-20T14:41:48+00:00",
+  "6dc5e66caab24581679e": "2026-11-22T21:41:20+00:00",
   "6e8045cb6246a1b6be62": "2026-11-22T21:29:29+00:00",
   "6f7aeb7cd42f63728918": "2026-11-20T19:26:13+00:00",
   "704e349d3d23b38ec128": "2026-11-19T14:08:16+00:00",
@@ -117,8 +119,10 @@
   "e3404d19673afcbaa7f8": "2026-11-16T19:28:27+00:00",
   "e3992e9b4140b4c106ed": "2026-11-19T22:00:55+00:00",
   "e43f4ace31d9e29c4367": "2026-11-19T19:58:49+00:00",
+  "e51e90e45f994a8595e0": "2026-11-22T21:41:20+00:00",
   "e53caf42617e72941741": "2026-11-17T12:28:51+00:00",
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
+  "e9beb34f431aebda58f0": "2026-11-22T21:41:20+00:00",
   "ea611fa8f80432de1914": "2026-11-20T22:45:57+00:00",
   "eae2f6a78ec7ccc86634": "2026-11-21T17:04:01+00:00",
   "eb19c503b19e6605601a": "2026-11-18T15:24:21+00:00",
@@ -7538,7 +7542,97 @@
    }
   },
   "2026-11-24 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "اتصلت بي حفيدتي في الثانية فجرًا وهي تهمس بأنها لا تقوى على الوقوف، وحين وصلت وجدت البيت خاليًا وورقة تقول: «لا تتصلوا بأحد",
+     "warnings": [
+      "длина текста FB 358 слов (исходник 467, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 641,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi nieta me llamó a las 2 de la madrugada susurrando que no podía ponerse de pie. Lo que encontré en su casa vacía me heló la sangre",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 639,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La 1:58 noaptea, nepoțica mea m-a sunat șoptit că nu se poate ridica. Am găsit-o arzând de febră într-o casă goală, cu un bilet: „Nu chema pe nimeni",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 640,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "В 1:58 ночи внучка прошептала, что не может встать. В пустом доме меня ждала записка: «Никому не звони",
+     "warnings": [
+      "длина текста FB 368 слов (исходник 467, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 638,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/775523818_1471974638286882_62104408031219958_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WgPwqWGcum8Q7kNvwFTbrlz&_nc_oc=AdrmxoA9qaiHdv5hhxquhQPGRtWzLmatyY3YOxzP48gKudbYkQ4ZpolWq5xVSlQwWi8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=dU57wqXchsE0iKJv-f2HrQ&_nc_tpa=Q5bMBQLxhg-7gpq1Wl4iI61hOBAqsIsZvCQYLvMNj7foxjI1TT7n6xpM7JV-lQBzep_7EvQaJe5GTnpVaQ&oh=00_AQTenRr1zT0bZ6Pv913WT_udqVmHVZd6nLEDmZR4NtuWjw&oe=6B092D14",
@@ -7550,7 +7644,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-0000-mix.jpg"
    },
    "source_key": "post:100064230806326_1472616188222727",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -7741,7 +7835,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1476347067849639": {
    "fingerprint": "0255b715739d4f985fef",
