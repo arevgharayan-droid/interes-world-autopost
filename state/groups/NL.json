@@ -1058,7 +1058,7 @@
   "444776585382502_122229310754543856": "2026-11-21T14:19:07+00:00",
   "444776585382502_122229327236543856": "2026-11-21T17:10:13+00:00",
   "444776585382502_122229340610543856": "2026-11-21T20:09:44+00:00",
-  "444776585382502_122229353114543856": "2026-11-21T22:51:33+00:00",
+  "444776585382502_122229353114543856": "2026-11-22T08:44:05+00:00",
   "633031599904551_122221801610930012": "2026-11-09T14:09:46+00:00",
   "633031599904551_122221802162930012": "2026-11-09T17:06:58+00:00",
   "633031599904551_122221802312930012": "2026-11-09T20:06:26+00:00",
@@ -11477,12 +11477,14 @@
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229353114543856_1442537480917392",
        "error": null,
        "last_attempt": "2026-11-22T02:51:30+04:00",
        "mode": "schedule",
        "photo_id": "122229353084543856",
        "post_id": "444776585382502_122229353114543856",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Er verließ mich und unsere sieben Söhne für meine Schwester – doch das Hochzeitsgeschenk unseres Ältesten ließ den ganzen Saal verstummen",
@@ -11635,7 +11637,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1200-nl.jpg"
    },
    "source_key": "post:100064230806326_1512892317528447",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
