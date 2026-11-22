@@ -12342,12 +12342,13 @@
       "1268633826332790": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122134808445436382_1125718620240132",
        "error": null,
        "last_attempt": "2026-11-22T23:55:21+04:00",
        "mode": "immediate",
        "photo_id": "122134808409436382",
        "post_id": "1268633826332790_122134808445436382",
-       "status": "published"
+       "status": "done"
       },
       "363312640206172": {
        "attempts": 1,
