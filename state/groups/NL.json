@@ -12562,7 +12562,10 @@
      "generated": true,
      "pages": {},
      "title": "Noch ein Wort über mein Geld, und Schluss mit höflich\": Wie eine Soldatin am Esstisch ihrer Stiefmutter die Stirn bot und drei Tage später die ganze Wahrheit erfuhr",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 987,
+     "wp_status": "future"
     },
     "EN": {
      "pages": {},
@@ -12586,7 +12589,10 @@
      "generated": true,
      "pages": {},
      "title": "Ik keek mijn vader recht aan en waarschuwde hem: nog één woord van mijn stiefmoeder over mijn legergeld en het is afgelopen met de beleefdheid",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 986,
+     "wp_status": "future"
     },
     "PL": {
      "pages": {},
@@ -12613,6 +12619,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-23T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/747191144_1441957224621957_7162768071523407987_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Tvj6xekJ9UAQ7kNvwHWqlgK&_nc_oc=Adpi0qb3MOEqvu9RaxwipgDc73vTfQgJn8epRX_LAWdL2Jehw6yGuRX6UysEnrX4JTw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=iqU0zSP4SaFgLXkMsnq3Hg&_nc_tpa=Q5bMBQIEw8hpbrgtFzThQdA0Ui3ejXN-OmoCgZXhx3jFSMsMmYWHyl4E9BVah4Q1ZFONwd_dGCaV-Gp8AQ&oh=00_AQQnmGMOAy1VYjii-z5oJ1Ias4L6qAYKN4hT1mj5udeYWQ&oe=6B091800",
@@ -12624,7 +12631,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1200-nl.jpg"
    },
    "source_key": "post:100064230806326_1443265554491124",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13013,7 +13020,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1512892317528447": {
    "fingerprint": "9e1c9c49e6a6d10feb28",
