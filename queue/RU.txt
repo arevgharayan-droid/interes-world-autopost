@@ -119,3 +119,5 @@ https://www.facebook.com/story.php?story_fbid=1341958847955129&id=10006423080632
 https://www.facebook.com/story.php?story_fbid=1606060957563986&id=100044802900629
 # 22.11.2026: внеочередной 20:30 («Հիմա»)
 https://www.facebook.com/story.php?story_fbid=1692783712240321&id=100045261260562
+# 22.11.2026: внеочередной («Հիմա», сообщение 23:46)
+https://www.facebook.com/story.php?story_fbid=1304112321739782&id=100064230806326
