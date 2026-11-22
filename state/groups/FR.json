@@ -16,6 +16,7 @@
   "4869fa026bfe3f1db7ce": "2026-11-09T13:26:56+00:00",
   "4a12667ae8855b24c947": "2026-11-19T21:13:15+00:00",
   "4a73690c41800c227951": "2026-11-16T16:00:49+00:00",
+  "4bc4dacea6526b7a3a41": "2026-11-22T14:04:08+00:00",
   "5475522c07f16a70e1ac": "2026-11-10T22:04:58+00:00",
   "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
   "5d67279da1e3d48db9cd": "2026-11-16T00:18:23+00:00",
@@ -10164,7 +10165,74 @@
    "status": "missed"
   },
   "2026-11-22 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mon père m'a interdit de rentrer pour Noël pour ne pas faire d'ombre à mon demi-frère, mais quelques heures plus tard, toute sa fête a découvert où j'étais",
+     "warnings": [
+      "длина текста FB 748 слов (исходник 632, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 946,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/825327397_1513975704086775_5690957668008236148_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6eIF7C1oLuMQ7kNvwH54soI&_nc_oc=AdoH9pwWWyzSI0qtK84xgSTQ1-6lStG8IucrJ9VR5ru8AH_l_9YLyHlHuQtZj89rb9c&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ixaAvumajTl0QfSvlJfkoA&_nc_tpa=Q5bMBQJikfzLsPVaziJ-hz0wWFrRWEjKKhzwAb3Xh-tN_N1lVzM9noehZKgsGly1s62qPO94TUivyBTxuw&oh=00_AQQqP51GEFhbK3-G1MtUF9IPMTfPvrvbl55MtABAwgyWwg&oe=6B08B426",
@@ -10176,7 +10244,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1800-fr.jpg"
    },
    "source_key": "post:100064230806326_1513975780753434",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -10534,7 +10602,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
