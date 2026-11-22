@@ -6258,7 +6258,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-22T20:30:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/792441248_1601749201328495_4271000406075114355_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3zEOvFqC-NsQ7kNvwEzmgQN&_nc_oc=AdqtoWtaa4cFd-_meHcTklfdG6e176hR4JWeMr8M3bANz_maFUh4ZDW2QCYjmC5JtNc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=UgJNiw7yiFVFId1M2M0Y4A&_nc_tpa=Q5bMBQIFiAgKewcKZYnKZV4-yIoqCoU547AJsTGM7imbGYRNY6mbXs7MxU3ZOdSLSW5RhcGoo557DM27WQ&oh=00_AQR0OC02jLQHVKx5tBxresEr0-ZZMvEZvlBBIGJqOIO_zA&oe=6B08DF80",
+    "link": "https://www.facebook.com/story.php?story_fbid=1602053574631391&id=100044802900629",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "\"MY HUSBAND ABANDONED ME WHILE I WAS IN LABOR BECAUSE HIS MOTHER’S BIRTHDAY DINNER MATTERED MORE TO HIM THAN THE BIRTH OF OUR SON. “Handle it yourself. Stop being so dramatic,” he snapped before hanging up, but three days later, he stepped through our door and went completely white when he saw the man holding his newborn baby.\n\nThe contraction struck so hard that my knees almost gave way beneath me. My phone shook in my hand as I heard Rowan’s voice become colder than the hospital floor beneath my shoes.\n\n“Handle it yourself, Phoebe. Stop being so dramatic.”\n\nThen he hung up.\n\nFor several moments, I could only stare at the black screen, trying to comprehend how the man who had promised to hold my hand during childbirth could abandon me when I needed him most. Another contraction ripped through my body, and a nurse quickly rushed over with a wheelchair.\n\n“Is someone coming?” she asked gently.\n\nMy gaze fell to the silent phone in my hand. “Not my husband.”\n\nAt thirty-eight weeks pregnant, I sat by myself at the maternity entrance, one hand against my stomach as warm fluid soaked through my dress. For months, Rowan had promised he would be there, but his mother, Selina, had declared her sixtieth birthday dinner a “once-in-a-lifetime family event.”\n\nApparently, our son’s birth wasn’t.\n\nI called Rowan once more, desperate enough to give him one last opportunity. Music, laughter, and the sound of clinking glasses filled the background when he answered.\n\n“Rowan, my water broke,” I said through another surge of pain. “The contractions are four minutes apart.”\n\nBefore he could respond, Selina’s voice came through the phone. “Tell her women have been giving birth for thousands of years.”\n\nRowan actually laughed.\n\n“See? Mom gets it,” he said. “Call a cab.”\n\nSomething inside me suddenly became completely still. The fear was still there, and the pain hadn’t disappeared, but the part of me that had been pleading with my husband to choose me was suddenly gone.\n\n“All right,” I whispered. “Enjoy the cake.”\n\nThen I called the one person I had refused to contact for nearly two years.\n\nMy father.\n\n“Dad,” I managed when he answered.\n\nHe heard a single shaky breath before his voice changed. “Where are you?”\n\nTwenty minutes later, Gideon Sterling entered the hospital wearing an old gray coat, with no entourage, driver, or anything that suggested financial newspapers regularly printed his photograph beside words like founder, chairman, and billionaire investor.\n\nRowan knew exactly who Gideon Sterling was.\n\nHe simply didn’t know that Gideon Sterling was my father.\n\nWhen Rowan and I met, I used my late mother’s family surname because I wanted one relationship untouched by my father’s wealth. When Rowan mocked “trust-fund parasites,” I said nothing, and when Selina brushed off my father as “some absent retired salesman,” I allowed her to believe it.\n\nThat night, Dad held my hand through fourteen excruciating hours of labor.\n\nRowan never showed up.\n\nAt 4:17 a.m., my son Leo came into the world. When Dad gently cradled him against his chest, tears silently rolled down his face.\n\n“He’s perfect,” he whispered.\n\nAs I watched my father hold my sleeping baby, I felt the last fragile piece of my marriage quietly shatter inside me. Then my phone lit up with a message from Rowan.\n\nMom loved the watch I bought her. Coming home Monday. Don’t start another fight.\n\nMy hands stopped trembling.\n\nI took a screenshot because Rowan still believed I was the woman who would cry, forgive him, and remain by his side. He had forgotten something very important about his wife.\n\nI was a forensic accountant.\n\nAnd three days later, when Rowan finally stepped through our front door and saw Gideon Sterling sitting in our living room with Leo peacefully sleeping in his arms, every bit of color disappeared from his face.\n\n“Phoebe...” Rowan whispered. “Why is Gideon Sterling holding my son?”\n\nMy father slowly lifted his eyes toward him.\n\nAnd before I could respond, Dad said six words that made Rowan freeze where he stood...\n\npart 2 👇👇\"",
+    "wp_media_id": 592,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-2030-mix.jpg"
+   },
+   "source_key": "post:100044802900629_1602053574631391",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 21:00": {
    "langs": {},
@@ -6344,6 +6360,14 @@
    "resolved": "https://www.facebook.com/story.php?story_fbid=122141158047244044&id=61587321322233"
   },
   "link:f598ae9de50059da3be5": {},
+  "post:100044802900629_1602053574631391": {
+   "fingerprint": "d9d10abc1bbae60a1007",
+   "link": "https://www.facebook.com/story.php?story_fbid=1602053574631391&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-22 20:30",
+   "status": "reserved"
+  },
   "post:100045261260562_1700942794757746": {
    "fingerprint": "e1c2e363a787f46cf67c",
    "link": "https://www.facebook.com/story.php?story_fbid=1700942794757746&id=100045261260562",

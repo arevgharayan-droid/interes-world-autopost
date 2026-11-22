@@ -10414,7 +10414,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-22T20:30:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/833298804_1520761926741486_2373485013697860887_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Z-FVfn4nFaIQ7kNvwEiunIe&_nc_oc=AdrUZ0GeQjQqaQYS3DXbby9MbBnWSi4bbPTYLI2JUPn2MR5dqAACm6GaOs5EqY3BzHo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=iQy2-G75Mksd9Tb31tGFwA&_nc_tpa=Q5bMBQLsB5xxYJI-coPgCVB1mbddBanA6FnwUZiWJvbElerPFn_9L89wEqkD5gsmakABZnYimTL2pFeg1g&oh=00_AQQI0movf2fL1xcsscZIYxc8hvi2X1umhJXl2uDJEMTCpg&oe=6B08F933",
+    "link": "https://www.facebook.com/story.php?story_fbid=1520762226741456&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "At Easter dinner, my family dragged my four-year-old daughter away from the table. My mother yanked her by the hair, knocking her onto the hardwood floor, while my sister shouted, “Get out before you ruin dinner!” They thought they had humiliated us. What they didn’t know was that the Easter gift inside my purse would cost them the very house they were so desperate to protect.\n\n## Part 1: The Easter Gift They Never Expected\n\nI had always been the disappointment of the **Hale** family. My older sister, **Beatrice**, married into political influence, while I married **Daniel**, a quiet man my mother dismissed as an ordinary office worker.\n\nThey never bothered to learn that Daniel managed investment funds worth hundreds of millions—or that I had secretly paid the overdue taxes on my parents’ historic estate for years. Without my money, the property would already have been seized.\n\nEaster dinner began like every other family gathering. Beatrice mocked my plain dress, and my mother, **Vivian Hale**, criticized my hair before calmly making her latest demand.\n\n**“I need two hundred thousand dollars by Tuesday,”** she said, swirling her wine. **“Consider it repayment for everything I’ve done for you.”**\n\nBefore I could respond, my four-year-old daughter, **Emma**, reached toward one of the jeweled Easter eggs decorating the table. Vivian lunged across the table, grabbed Emma by her ponytail, and violently pulled her backward.\n\nThen she kicked her.\n\nEmma struck the hardwood floor and burst into terrified sobs. I rushed toward her, but Beatrice blocked my path and dug her nails into my arm.\n\n**“Stop being so dramatic,”** she hissed. **“Mother told you to control that brat.”**\n\nVivian stood over my crying daughter without the slightest sign of remorse. **“Get out of my house. Neither of you belongs at my table.”**\n\nSomething inside me became completely still. I gathered Emma into my arms, held her against my chest, and pressed the emergency button hidden inside her stuffed bunny.\n\nA small vibration confirmed the signal had been sent.\n\n**“What are you doing?”** Vivian demanded.\n\n**“Leaving.”**\n\nBeatrice smirked. **“Finally.”**\n\nI reached into my purse as I turned toward the door. Inside was the Easter envelope they had been waiting for—the one they believed contained financial documents that would rescue the estate from foreclosure.\n\nInstead, it held proof that the anonymous company paying their property taxes for the past decade belonged to me. It also contained legal notice that every payment would end immediately.\n\nVivian still believed the mansion was hers. Beatrice still assumed I would rescue them again.\n\nNeither understood that they had just driven away the only person standing between them and losing everything.\n\n---------------------------------------------------------------\nPlease type “Y” if you’re ready for the next part and I’ll send it right away. 👇👇",
+    "wp_media_id": 953,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-2030-fr.jpg"
+   },
+   "source_key": "post:100064230806326_1520762226741456",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 21:00": {
    "langs": {},
@@ -10773,6 +10789,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-22 18:00",
    "status": "used"
+  },
+  "post:100064230806326_1520762226741456": {
+   "fingerprint": "a52366f88acfa4766dbc",
+   "link": "https://www.facebook.com/story.php?story_fbid=1520762226741456&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 20:30",
+   "status": "reserved"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
