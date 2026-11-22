@@ -7333,7 +7333,23 @@
   "2026-11-23 21:00": {
    "langs": {},
    "slot_iso": "2026-11-23T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/715040745_1561429148709112_4504820851762351049_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DvRQ3J8i7ioQ7kNvwGb9UgO&_nc_oc=AdqY5TcALuQ-riFZyhkEqWPluWLtE4N2MEj27_uRb55CsiblcHhhwQPV6LzCpdt7qLI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=-c4_FwunBvKixmZ0NvViOw&_nc_tpa=Q5bMBQK5kLI88l2VzS05T2TOFyUfp8bdCoQugeegY-gZNvQ2uoXb9kaBJSLw5NBshQ_i6brupLOzaYRxcA&oh=00_AQSCmBUWyf2yIgJ41-Po-EOngofxGjsvzhaIMzxl150EBw&oe=6B094250",
+    "link": "https://www.facebook.com/story.php?story_fbid=1561429625375731&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "My wealthy grandmother left me $0 in her will after promising that I would inherit everything — then her lawyer handed me a garage key she had left for me, and when I saw WHAT was inside, I dropped to my knees.\n\nAfter my parents passed away in a car a:ccident, my grandmother raised me.\n\nAnd I'm grateful that she took me in, but our relationship was never easy.\n\nMy grandmother was a wealthy woman. She had built a chain of grocery stores.\n\nBut she never gave me any money and always said she wasn't my \"mom\" or \"dad,\" so I shouldn't expect her to worry about what I needed.\n\nI never counted her money. I loved her. Truly.\n\nBut I never understood why she was always so cold toward me.\n\nEventually, I moved to another city and enrolled in college on my own — thanks to student loans and two part-time jobs.\n\nMy grandmother didn't give me a single cent.\n\nEven after graduating from college, I was still drowning in debt, struggling with work, and emotionally exhausted.\n\nThen one day, my grandmother called me and told me she was seriously ill.\n\nShe added:\n\n\"Please come take care of me. In return, my entire inheritance will go to you.\"\n\nI agreed.\n\nI drove her to doctor appointments, helped her get dressed, took her on walks, and did everything she asked.\n\nThree years later, my grandmother passed away.\n\nAfter the funeral, the lawyer announced that all of her estates were being donated to charity. Her savings were left to her housekeeper.\n\nHer jewelry was distributed among friends and acquaintances.\n\nMe? NOTHING. $0.\n\nI was devastated.\n\nThe next morning, the same lawyer knocked on my door and said my grandmother had left specific instructions that he deliver an envelope to me on THAT exact day.\n\nI opened it.\n\nA key and a note fell out.\n\nIn my grandmother's handwriting, the note read:\n\n\"You'll find a garage at this address... INSIDE IS WHAT YOU TRULY DESERVE.\"\n\nSo I drove to the address and found a rented garage under her name.\n\nI unlocked it.\n\nThe first thing that hit me was a STRONG SMELL.\n\nWhen I stepped inside, I dropped to my knees and screamed:\n\n\"OH MY GOD... WHAT IS THIS?!\" ⬇️",
+    "wp_media_id": 628,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-2100-mix.jpg"
+   },
+   "source_key": "post:100045261260562_1561429625375731",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 00:00": {
    "langs": {},
@@ -7397,6 +7413,7 @@
   "link:dc8e0f12687271a572d8": {},
   "link:e1a44e3566a0d7fb08ea": {},
   "link:e5f88e3edf5d168a728c": {},
+  "link:e688709150c78e165b44": {},
   "link:e6d90c0f0cfc362ed111": {},
   "link:ed5cbee56eaeb56f6f7a": {
    "link": "https://www.facebook.com/share/p/1FiPkvb4LJ/",
@@ -7410,6 +7427,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-22 20:30",
    "status": "used"
+  },
+  "post:100045261260562_1561429625375731": {
+   "fingerprint": "b0fa498d4c428b9748f7",
+   "link": "https://www.facebook.com/story.php?story_fbid=1561429625375731&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-23 21:00",
+   "status": "reserved"
   },
   "post:100045261260562_1680880160097343": {
    "fingerprint": "d65c3bf6d45a7e223486",

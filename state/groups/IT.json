@@ -13,8 +13,10 @@
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
   "0fb22b8844bea06fae2d": "2026-11-16T20:28:05+00:00",
   "1022f1ba4618e21c8ceb": "2026-11-20T16:46:26+00:00",
+  "12ef0a4c6ea0840ec006": "2026-11-22T21:35:02+00:00",
   "17bbf28063304bc8e308": "2026-11-17T12:28:51+00:00",
   "19a57f6af7fdd9942bfb": "2026-11-19T19:58:46+00:00",
+  "1a13bfd0bf844bdd07ba": "2026-11-22T21:35:02+00:00",
   "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
   "20a11149af6c5503382f": "2026-11-22T16:32:05+00:00",
   "2305cc152c8bf5b805c5": "2026-11-22T19:49:03+00:00",
@@ -49,6 +51,7 @@
   "628ca1701fa9d7a8990a": "2026-11-16T16:01:05+00:00",
   "6381b46ba9ce35422261": "2026-11-21T19:44:42+00:00",
   "66a2647af0e1f8e411ad": "2026-11-17T20:38:41+00:00",
+  "6763b65e85eb1fe33006": "2026-11-22T21:35:02+00:00",
   "687b58d7f631c7172828": "2026-11-20T19:26:25+00:00",
   "6884b2c23c3fd385192c": "2026-11-19T22:00:47+00:00",
   "68ca5e3edbe7ee1a0e42": "2026-11-19T10:26:56+00:00",
@@ -20599,7 +20602,90 @@
    }
   },
   "2026-11-23 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Po pohřbu manžela jsem našla doma jeho rodinu, jak si balí kufry a vyhazuje mě. Pak jsem se začala smát",
+     "warnings": [
+      "длина текста FB 399 слов (исходник 511, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1007,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Tornata a casa dal funerale del marito, trova la suocera e otto parenti a fare le valigie: «Questa casa è nostra». Lei scoppia a ridere, perché loro non sapevano cosa aveva firmato Bradley",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1005,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wróciłam z pogrzebu męża, a teściowa z ośmiorgiem krewnych pakowała już jego rzeczy. Kiedy kazali mi się wynosić, wybuchnęłam śmiechem",
+     "warnings": [
+      "длина текста FB 392 слов (исходник 511, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1006,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/644711976_1326524606165220_5021808009947075730_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-PMsyDrk0OsQ7kNvwHVvAGp&_nc_oc=AdqIR7hnuj3bnML3Q-8j9G_Qtb2bzKnqbHffv8i020YLoEzH9q2iyTkG1yIREb3-MwM&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=c0EXO9KRvFtL6ogA3p06Jg&_nc_tpa=Q5bMBQJwm_YnJnpKmUGjLyluFe2v9hkAjTc1U5OA562TygH6-BfPZESaRFXs-9CamMeF9N2y9s-LfdTaKA&oh=00_AQQI0qo-yVm6ucCIP9eAxKz47DBL8V1ZpMQ9oBlTiqOI_g&oe=6B0943F0",
@@ -20611,7 +20697,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1500-it.jpg"
    },
    "source_key": "post:100064230806326_1326525072831840",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -20980,7 +21066,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1437334075084272": {
    "fingerprint": "4ce4131a8d291d66d3a0",
