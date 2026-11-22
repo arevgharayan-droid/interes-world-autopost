@@ -19417,12 +19417,13 @@
       "1064982806700854": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122111968016456562_1698828854991862",
        "error": null,
        "last_attempt": "2026-11-22T20:35:15+04:00",
        "mode": "immediate",
        "photo_id": "122111967992456562",
        "post_id": "1064982806700854_122111968016456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,

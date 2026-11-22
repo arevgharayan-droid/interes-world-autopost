@@ -14729,12 +14729,14 @@
       },
       "1210639158790064": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122153651061346409_2339361860250085",
        "error": null,
        "last_attempt": "2026-11-22T20:41:01+04:00",
        "mode": "immediate",
        "photo_id": "122153651025346409",
        "post_id": "1210639158790064_122153651061346409",
-       "status": "published"
+       "status": "done"
       },
       "1235940142932696": {
        "attempts": 1,
@@ -14918,7 +14920,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-2030-en.jpg"
    },
    "source_key": "post:100081660603136_1088006870597990",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
