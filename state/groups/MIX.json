@@ -43,6 +43,7 @@
   "61b6c834065a37df649e": "2026-11-19T17:36:01+00:00",
   "63ee584193ddc398e7da": "2026-11-17T20:47:15+00:00",
   "63f465a06c7653f04fe0": "2026-11-21T22:45:49+00:00",
+  "696ac8bfafbb80f4597b": "2026-11-22T21:17:18+00:00",
   "697bf1e866b0d768ab37": "2026-11-18T22:49:45+00:00",
   "6d23ba98be07175e84bf": "2026-11-20T14:41:48+00:00",
   "6f7aeb7cd42f63728918": "2026-11-20T19:26:13+00:00",
@@ -60,6 +61,7 @@
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
   "8a2057d3bf2ba60fdf02": "2026-11-22T14:05:02+00:00",
   "8ac1ecf8185542e95941": "2026-11-19T10:26:49+00:00",
+  "8b3ea60fda1dceeaaae5": "2026-11-22T21:17:18+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
   "9220f00f6df17351719e": "2026-11-22T19:48:27+00:00",
   "9379ebc571b51d826e03": "2026-11-21T22:45:49+00:00",
@@ -79,6 +81,7 @@
   "adfb1bdeac99773333bd": "2026-11-18T22:20:58+00:00",
   "af66d81965162985fdc0": "2026-11-21T22:45:49+00:00",
   "b14671f51218be3c2ac4": "2026-11-21T19:44:56+00:00",
+  "b1d745971b95bc663365": "2026-11-22T21:17:18+00:00",
   "b380f193a4d40b198fda": "2026-11-19T22:00:55+00:00",
   "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
   "b55d3bb5e53f309a89d5": "2026-11-22T14:05:02+00:00",
@@ -117,6 +120,7 @@
   "fa38d523740b3642a359": "2026-11-17T10:38:26+00:00",
   "fad065ee1746d78e40db": "2026-11-18T15:24:21+00:00",
   "fb212181c33709aab8ed": "2026-11-21T22:45:49+00:00",
+  "fd0757f90d3b854f9872": "2026-11-22T21:17:18+00:00",
   "ff32133b1d57816b36e8": "2026-11-17T10:38:26+00:00"
  },
  "outputs": {
@@ -6717,7 +6721,95 @@
    "status": "missed"
   },
   "2026-11-23 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "ناداني ابني \"عبئاً\" فبعتُ البيت الذي كان ينتظر ميراثه بينما كان يتنزه في أوروبا، وعندما عاد لم يعد مفتاحه يفتح الباب",
+     "warnings": [
+      "длина текста FB 891 слов (исходник 1090, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 614,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hijo me llamó una carga, así que vendí la casa de 875.000 dólares que esperaba heredar mientras él se iba de vacaciones a Europa",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 612,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Fiul meu m-a numit povară, așa că am vândut casa de 875.000 de dolari pe care se aștepta s-o moștenească, iar când s-a întors din Europa, cheia lui nu mai mergea",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 613,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Сын назвал меня обузой, и пока он отдыхал в Европе, я продала дом за 875 тысяч долларов, который он уже считал своим",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 611,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/911190069_1722315459287146_7381069148070513297_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LnZh-UTyyq8Q7kNvwECZCzm&_nc_oc=Adp4eFnRJZqJFyV3VSJe1HYEG_lKdIuvcSRr-DR7-gj8vKZyRO3iY1iH3AoIpG11dD4&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=qXRPe8Ib8RNOKZm2BceHIw&_nc_tpa=Q5bMBQJBiW2_FwVnuLL274_lyFM-BpYt_yP9aaj6_iyL4u2UUyuEDW9Y3MI6Jz6Tm4VJJqcNQeQWhmvhMw&oh=00_AQR-0sVLUeWworC49W6mdZuNEy7tjRVONsezeZZQLaA3vw&oe=6B093F97",
@@ -6729,7 +6821,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-1200-mix.jpg"
    },
    "source_key": "post:100045261260562_1722315575953801",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -6888,7 +6980,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-23 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100050386034442_1717217389967779": {
    "fingerprint": "8d1870056c456e3ef9ad",
