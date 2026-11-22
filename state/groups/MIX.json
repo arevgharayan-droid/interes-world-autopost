@@ -7540,7 +7540,23 @@
   "2026-11-24 00:00": {
    "langs": {},
    "slot_iso": "2026-11-24T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/775523818_1471974638286882_62104408031219958_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WgPwqWGcum8Q7kNvwFTbrlz&_nc_oc=AdrmxoA9qaiHdv5hhxquhQPGRtWzLmatyY3YOxzP48gKudbYkQ4ZpolWq5xVSlQwWi8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=dU57wqXchsE0iKJv-f2HrQ&_nc_tpa=Q5bMBQLxhg-7gpq1Wl4iI61hOBAqsIsZvCQYLvMNj7foxjI1TT7n6xpM7JV-lQBzep_7EvQaJe5GTnpVaQ&oh=00_AQTenRr1zT0bZ6Pv913WT_udqVmHVZd6nLEDmZR4NtuWjw&oe=6B092D14",
+    "link": "https://www.facebook.com/story.php?story_fbid=1472616188222727&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "At 1:58 a.m., my eight-year-old granddaughter called and whispered that she was too sick to stand. Twenty minutes later, I found her on the floor of an empty house, burning with fever, beside a note from my son that said, “Don’t call anyone.” I thought leaving Lily alone like that was the worst thing I would find. Then a soft knock came from inside the hallway closet. And I heard my ten-year-old grandson’s voice.\n\nPart 1: The Call at 1:58 A.M.\n\nMy eight-year-old granddaughter called me at exactly 1:58 in the morning and whispered that she felt too sick to stand. Less than twenty minutes later, I found her burning with fever on the hallway floor of an empty house, with a note from my own son telling me not to call anyone.\n\nMy name is Robert, and I had always believed I knew my son, Michael, well enough to recognize when something was wrong. That belief started falling apart the moment I saw my granddaughter’s name glowing on my phone in the dark.\n\nI almost missed the call because I had been asleep. When I answered, Sophie didn’t speak right away. I heard her breathing first—shallow, uneven, frightening.\n\n“Grandpa,” she whispered, “I feel really hot.”\n\nI sat up and reached for my glasses. “Where are you, sweetheart?”\n\n“At home.”\n\nThat confused me. Michael and his wife, Denise, had told me Sophie would be staying with Denise’s sister for the weekend because she had a mild cold. They were supposedly taking her ten-year-old brother, Carter, on a short birthday trip.\n\n“Where’s your aunt?”\nSophie didn’t answer.\n“Where’s your mom?”\nAnother pause.\n“They left.”\n\nI was already getting dressed. “Is Carter there?”\n“I don’t know.”\n\nThat scared me more than anything she had said. I told her to stay on the phone and promised I was coming. Michael lived about fifteen minutes away. I remember almost nothing about the drive except checking again and again that Sophie was still breathing, while forcing my voice to stay calm enough that she wouldn’t hear how terrified I was.\n\nWhen I reached the house, the driveway was empty. I used the emergency key Michael had given me years earlier. Inside, the kitchen light was on. A glass of water sat near the sink. One of Carter’s sneakers lay sideways in the hallway.\n\nThen I saw Sophie. She was curled on the hardwood floor in pink pajamas, her cheek pressed to the wood, her hair damp with sweat.\n\n“Grandpa…”\n\nI dropped beside her and touched her forehead. Then I called 911\n\nStory continued in the comments! Drop a comment if you want to know what happens next. 👇👇",
+    "wp_media_id": 637,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-0000-mix.jpg"
+   },
+   "source_key": "post:100064230806326_1472616188222727",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-11-16T17:06:31+00:00",
@@ -7552,6 +7568,7 @@
   },
   "link:06236baa894b6e5fc917": {},
   "link:178b198ccc9e2afbb645": {},
+  "link:21c35740e1d4a0ac92f8": {},
   "link:39b9396305a928e376e4": {},
   "link:482755492e860caa0373": {
    "link": "https://www.facebook.com/share/p/1JihSRDE4s/",
@@ -7717,6 +7734,14 @@
    "page_id": "100059505912199",
    "slot": "2026-11-17 18:00",
    "status": "used"
+  },
+  "post:100064230806326_1472616188222727": {
+   "fingerprint": "afb1a743733f585ccabb",
+   "link": "https://www.facebook.com/story.php?story_fbid=1472616188222727&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 00:00",
+   "status": "reserved"
   },
   "post:100064230806326_1476347067849639": {
    "fingerprint": "0255b715739d4f985fef",
