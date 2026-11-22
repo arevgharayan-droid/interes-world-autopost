@@ -11804,7 +11804,23 @@
   "2026-11-24 00:00": {
    "langs": {},
    "slot_iso": "2026-11-24T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/831616949_1670783277773698_5205988596333963673_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=eE_r_oBhwZMQ7kNvwGRNIIq&_nc_oc=AdoeCvMVGGLjwskmsF61A7Os0A2mt5fH7pyRj5BJoq4lK2OgsWOyijH2D5OLQdsEOjo&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Zj-RGBr8tRu0KPDxexBHhw&_nc_tpa=Q5bMBQKYPoqSH4mUJ7OWfgRqQl90NcZeI1L6HhxeYW6UDq9C3Qc6rS7oQQoe_Qza0-z-kz5wqTV8PWFZPw&oh=00_AQSSToqF_BpSPUjvWDIdvAxq8Fp3OtQUTMRvtaoHwmFR2A&oe=6B093F62",
+    "link": "https://www.facebook.com/story.php?story_fbid=1670783311107028&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "My mother rejected my 6-year-old’s handmade gift at dinner and said children from poverty weren’t her grandchildren, but the moment my 15-year-old son stood up and spoke, everything at the table changed...\n\nMy mother pushed my six-year-old daughter’s handmade card away from her plate as though it were something filthy.\n\n“I told you already,” she said, loud enough for the entire table to hear. “Children from poverty don’t call me Grandma.”\n\nThe entire room went silent.\n\nMy daughter, Lily, still had one hand reaching toward the card.\n\nShe had spent two nights making it.\n\nPink paper.\n\nCrayon flowers.\n\nA crooked little heart surrounding the words: I love you, Grandma.\n\nNow she slowly drew her hand back.\n\nSomething inside me turned cold.\n\nMy mother had never approved of my marriage to Daniel because he grew up in foster care and worked as a city electrician when we met. She treated his background like some kind of stain that could spread to the rest of us.\n\nWhen we adopted Lily three years earlier, Mom’s attitude became even worse.\n\nShe never directly said Lily wasn’t welcome.\n\nShe did something crueler.\n\nShe forgot birthdays.\n\nSkipped school plays.\n\nBought expensive presents for my sister’s children and nothing for Lily.\n\nThen told me I was “too sensitive” whenever I pointed it out.\n\nThat evening was supposed to be my father’s birthday dinner.\n\nI had nearly refused to attend.\n\nBut my fifteen-year-old son, Ethan, asked me to come.\n\n“Just once,” he said. “I want to see if Grandma can act normal.”\n\nEthan was my biological son from my first marriage.\n\nMom adored him.\n\nAnd Ethan had never failed to notice the difference.\n\nWhen Mom pushed Lily’s card aside, Ethan stared at her for a long moment.\n\nDad whispered, “Margaret, enough.”\n\nMy sister lowered her eyes.\n\nMom raised her wineglass.\n\n“What? I’m being honest. Family has standards.”\n\nI pushed my chair back.\n\n“We’re leaving.”\n\nLily looked at me with tear-filled eyes but didn’t cry.\n\nThat almost broke me.\n\nThen Ethan stood.\n\nHe didn’t raise his voice.\n\nHe didn’t slam the table.\n\nHe simply looked at my mother and said four words.\n\n“She owns this house.”\n\nMom’s face went white.\n\nI stared at him.\n\n“What?”\n\nEthan reached inside his jacket and placed a folder beside Lily’s card.\n\nMy mother’s hand started trembling.\n\nThat was when I remembered the meeting Ethan had insisted on attending with my late grandfather’s attorney two months earlier.\n\nGrandpa had died the previous spring.\n\nEveryone believed his estate had already been settled.\n\nApparently, not everything had been revealed.\n\nDad stared at the folder.\n\n“Ethan, what are you talking about?”\n\nHe opened it.\n\nThe first page was a deed.\n\nNot in my mother’s name.\n\nNot in Dad’s.\n\nIn Lily’s trust.\n\nBeneath it was a letter written in Grandpa’s unmistakable handwriting.\n\nMy mother whispered, “That’s impossible.”\n\nEthan looked at her.\n\n“No. You just never bothered to ask what Grandpa left her.”\n\nThe full story continues in the comments section.",
+    "wp_media_id": 1020,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-fr.jpg"
+   },
+   "source_key": "post:100045261260562_1670783311107028",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-10-29T16:35:35+00:00",
@@ -11829,6 +11845,7 @@
    "link": "https://www.facebook.com/share/p/1Ukt7rsNro/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122130803336893096&id=61576792898556"
   },
+  "link:287188ed3db8273596c4": {},
   "link:2c9d1a969d296cd96efe": {
    "link": "https://www.facebook.com/share/p/1HnoPVwZTy/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1644261257070495&id=100044599086455"
@@ -12039,6 +12056,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-16 15:00",
    "status": "used"
+  },
+  "post:100045261260562_1670783311107028": {
+   "fingerprint": "f6eb0f67c8dd63288f97",
+   "link": "https://www.facebook.com/story.php?story_fbid=1670783311107028&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-24 00:00",
+   "status": "reserved"
   },
   "post:100045261260562_1699072051611487": {
    "fingerprint": "f8fa08ba8c7252c10bbb",
