@@ -56,8 +56,10 @@
   "47efee54144eca0bf8cf": "2026-11-20T19:26:10+00:00",
   "495041b7bf9b15be8fa3": "2026-11-19T17:35:44+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
+  "4eb137f1b2e39b2c8546": "2026-11-22T22:13:48+00:00",
   "511f35f875db7d4a056d": "2026-11-13T14:37:39+00:00",
   "516cde4fc7cf9247b820": "2026-11-19T22:01:08+00:00",
+  "51ba57e157b253b5188f": "2026-11-22T22:13:48+00:00",
   "53b56a6026d7d16218d9": "2026-11-17T10:39:05+00:00",
   "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
   "5579983a5a4919598caf": "2026-11-14T09:18:33+00:00",
@@ -168,6 +170,7 @@
   "e4c3b6193a5b35d09d06": "2026-11-19T17:35:44+00:00",
   "e4f444f1bf6288cdb116": "2026-11-19T10:26:47+00:00",
   "e53482ea7556e3ad83e6": "2026-11-19T08:31:53+00:00",
+  "e57396e630eef2d4f899": "2026-11-22T22:13:48+00:00",
   "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
   "e6f22af68ae4ec05d8cd": "2026-11-19T19:59:16+00:00",
   "e75f509640a7f4914317": "2026-11-21T10:17:55+00:00",
@@ -21492,9 +21495,107 @@
    }
   },
   "2026-11-24 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ela exigiu que eu esvaziasse meu quarto até as onze, então esvaziei um quarto — mas não o que ela esperava",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 653,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Невестка велела мне освободить спальню до одиннадцати — и я освободила. Только не ту, которую она имела в виду",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 651,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Gelinim \"Yatak odanı saat on bire kadar boşalt\" dedi, ben de tek bir eşyama dokunmadan bir oda boşalttım",
+     "warnings": [
+      "длина текста FB 580 слов (исходник 717, цель ±10%)",
+      "длина статьи 561 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 652,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/845844663_1696585768526782_271667496761487914_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AorO6mHH90AQ7kNvwHLPMpy&_nc_oc=AdosXZTtc3_ZI44j6t1qpTbK_C6eDQx4Ux_m-6KUGZwN_mJvrj-wBC2VgaiBVlxS9yU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0pb7ksXDDExhDy3dPksnew&_nc_tpa=Q5bMBQJwVrGFh64Nwfj0_mBsXW1SHBGTCfDe5Hgg3gVmjLKYTUgGuDb8cCHmjmowqbwfeZhxd9J9JLfeGA&oh=00_AQSGQmgzsiy-98j5Hq5kmZQWflzSQ4XD7-mT5VNR0IhnrA&oe=6B0953BC",
+    "link": "https://www.facebook.com/story.php?story_fbid=1696791515172874&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "Three days after I allowed my son and daughter-in-law to move into my four-bedroom house rent-free, Chloe stood in my kitchen holding an iced latte and made an unbelievable demand.\n\n“Margaret, you need to clear out your master bedroom before eleven. Lucas and I are moving in there.”\n\nMy own son nodded.\n\n“Mom, stop being difficult. Show my wife some respect.”\n\nI didn't argue. I simply waited until they left, went upstairs, and started packing.\n\nBut I didn't touch a single thing in my bedroom.\n\nAt exactly 10:55, their SUV pulled into the driveway. Chloe stepped out, saw seven pieces of luggage arranged neatly on my front porch, and froze.\n\n“WHAT HAVE YOU DONE?”\n\nI smiled.\n\n“Exactly what you asked. I cleared out a bedroom.”\n\nMy name is Margaret Foster. I'm sixty-four, and I've lived in my Columbus, Ohio, home for twenty years.\n\nMy late husband, Thomas, and I purchased it together. We raised our son there, celebrated holidays, and created memories in every room.\n\nOur master bedroom was especially meaningful.\n\nThomas's oak reading chair still stood beside the window, where he used to enjoy his Sunday newspaper.\n\nAfter he passed away, that room became my most cherished connection to him.\n\nA month earlier, Lucas called with a problem.\n\n“Mom, our rent is increasing again. Chloe and I need somewhere to stay while we save money.”\n\nI immediately offered my home.\n\nThey could use the guest bedroom, an additional workspace, and the kitchen without paying rent.\n\nI thought I was helping my family.\n\nBut three days after moving in, Chloe began acting as though the house belonged to her.\n\n“The guest room is too small,” she complained that morning.\n\n“You're welcome to use the additional room,” I replied.\n\nShe shook her head.\n\n“No. We're taking the master suite. It has a bigger closet and private bathroom.”\n\nI stared at her.\n\n“Chloe, that's my bedroom.”\n\nLucas entered and sighed.\n\n“Mom, we're married. We need more space. Just be respectful.”\n\nI couldn't believe what I was hearing.\n\n“Lucas, I'm letting you live here for free.”\n\n“And we appreciate that,” he replied. “But Chloe needs to be comfortable.”\n\nChloe checked her phone.\n\n“Our furniture arrives today. Have your room empty by eleven.”\n\nThen they left to run errands.\n\nI stood in silence for several minutes.\n\nAt 9:15, I went upstairs.\n\nI passed my bedroom without disturbing anything.\n\nThe blue quilt remained perfectly arranged, and Thomas's chair stayed beside the window.\n\nInstead, I entered the guest room.\n\nChloe's clothes covered the furniture. Lucas's shoes were scattered across the floor, and their toiletries filled the bathroom.\n\nI carefully packed everything into four suitcases and three boxes.\n\nNothing was damaged or discarded.\n\nBy 10:30, their belongings were neatly arranged on my covered porch, where they remained protected while I prepared to discuss ending their temporary stay and any necessary arrangements.\n\nAt 10:55, their SUV returned.\n\nChloe stepped out laughing into her phone.\n\nThen she spotted the luggage.\n\nHer smile disappeared.\n\n“LUCAS! WHY IS OUR STUFF OUTSIDE?”\n\nMy son rushed over.\n\n“Mom, what's going on?”\n\nI opened the front door.\n\n“Chloe said a bedroom had to be cleared before eleven.”\n\nShe stared at me.\n\n“I meant YOUR bedroom!”\n\n“I know exactly what you meant.”\n\nLucas looked stunned.\n\n“Mom, you can't be serious.”\n\n“I'm completely serious. I invited you here because you needed help, not because I was surrendering my home.”\n\nChloe folded her arms.\n\n“So you're choosing a bedroom over your own family?”\n\nI shook my head.\n\n“No. I'm choosing respect.”\n\nThen I looked at Lucas.\n\n“Your father and I worked twenty years for this house. You were welcome to stay as guests, but you don't get to decide where I sleep.”\n\nFor once, neither had an answer.\n\nThey had mistaken my generosity for permission to take whatever they wanted.\n\nAnd as I explained that our living arrangement was coming to an end, I realized something important.\n\nHelping family should never mean losing the right to feel comfortable in your own home.\n\nWould you have given up your bedroom to keep the peace, or stood your ground?\n\nThe full story continues in the first comment. 👇",
+    "wp_media_id": 650,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-0000-ru.jpg"
+   },
+   "source_key": "post:100045261260562_1696791515172874",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-10-29T16:40:38+00:00",
@@ -21596,6 +21697,7 @@
    "link": "https://www.facebook.com/share/p/1TLvApp3rr/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122131533812893096&id=61576792898556"
   },
+  "link:83b045cb3ce197bd5e59": {},
   "link:87e3e6578e972ad8e04a": {
    "link": "https://www.facebook.com/share/p/1G38qerPGy/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1717835236401835&id=100045261260562"
@@ -21780,6 +21882,14 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-22 20:30",
+   "status": "used"
+  },
+  "post:100045261260562_1696791515172874": {
+   "fingerprint": "fff499f1242e9a25598d",
+   "link": "https://www.facebook.com/story.php?story_fbid=1696791515172874&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-24 00:00",
    "status": "used"
   },
   "post:100045261260562_1697386608446698": {
