@@ -12,6 +12,7 @@
   "0d1837969ae0e3704a2b": "2026-11-09T20:00:55+00:00",
   "0d8e1b277acd69617505": "2026-11-21T10:17:21+00:00",
   "0f513c6fe9dce53b3342": "2026-11-22T19:48:30+00:00",
+  "0fc961dac25a65f8bd8e": "2026-11-22T21:48:03+00:00",
   "118a7c202280ee104d0c": "2026-11-13T10:14:57+00:00",
   "120edbf2984526605544": "2026-11-18T22:36:37+00:00",
   "122da30c84d729a1b892": "2026-11-09T20:00:55+00:00",
@@ -23,6 +24,7 @@
   "17a667176c2b4e39c2f0": "2026-11-16T20:28:19+00:00",
   "18ce6ab9d592b0877673": "2026-11-14T11:39:08+00:00",
   "1ae2df6170635ea8dab2": "2026-11-20T22:46:03+00:00",
+  "1b611cc50216f8888d60": "2026-11-22T21:48:03+00:00",
   "20a7a509199cfbe519fc": "2026-11-15T14:18:37+00:00",
   "25b78f14c93b0017d12c": "2026-11-20T22:46:03+00:00",
   "282775455f9afac79cda": "2026-11-10T22:03:35+00:00",
@@ -13331,9 +13333,97 @@
    }
   },
   "2026-11-23 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meine Schwester nannte mich „dreckig“ und verspottete mein Erbe, eine alte Hütte – doch als ich sie betrat, erstarrte ich",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1019,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn zus lachte me uit om de vervallen hut die ik erfde, maar wat er onder de vloer verborgen lag, veranderde alles",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1018,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/792970436_1487829823368030_964887480094371372_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8NvQMOm7vggQ7kNvwHddLOD&_nc_oc=AdqYP40CoAeXUXQ0xga9eb5b4TpTTvcCpxHrX5JaDvdfI4UQTJqhxhZ5ZFtpK1UVTS4&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=jfrnrWanXt1Tdp4HqJS0zQ&_nc_tpa=Q5bMBQIJEbcdUWsHjlcv20UUPcKT8tZsO04l75oiAhv7kOC0kxU9gEMdsKT9ef3qj0XcxX22h6UpdVeR3w&oh=00_AQRKeLOuxDLlcJ55-8GV18E6Mn8ceOToi2nxjxsUg2c-Yg&oe=6B091D81",
+    "link": "https://www.facebook.com/story.php?story_fbid=1488987449918934&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "I inherited an old cabin, while my sister got a Miami apartment. She laughed in my face and said, “That place fits you perfectly, you filthy woman.” Then she told me never to come near her again. So I stopped arguing and drove to the cabin to spend the night. But when I arrived and saw what was waiting inside, I froze. Because that old cabin was hiding something my sister never saw coming.\n\n**Part 1: The Cabin Nobody Wanted**\n\nMy father’s funeral had barely ended before my family started turning grief into inheritance.\n\nI was still in my Army uniform after flying in from Fort Bragg when attorney **Daniel Brooks** arrived at my mother **Evelyn’s** house to read the will. My younger sister, **Vanessa**, sat at the dining table looking almost eager, as if she had been waiting all day to hear what Dad had left behind.\n\nVanessa received exactly what she wanted: a luxury Miami apartment overlooking Biscayne Bay and a minority share in **Whitmore Construction**.\n\nThen Daniel looked at me and announced that Dad had left me the family cabin and the surrounding 200 acres in the Adirondacks.\n\nCompared to Vanessa’s multimillion-dollar apartment, an old mountain cabin sounded almost insulting. I kept my face calm, but Vanessa leaned back in her chair and smiled.\n\n“A cabin fits you perfectly, you filthy woman.”\n\nShe said it loudly enough for everyone to hear, then mocked my military life, saying I already lived out of a duffel bag most of the year. According to her, the cabin was rustic, simple, and forgettable—just like me.\n\nWhat hurt most was not her insult.\n\nIt was my mother’s silence.\n\nI walked away before the argument could get worse, but Vanessa followed me into the hallway and accused me of abandoning the family to “play soldier” while she stayed home and handled everything.\n\nI finally turned around.\n\n“Dad built what you’re enjoying. You mostly learned how to take from it.”\n\nVanessa laughed.\n\n“And now I get the reward. Enjoy your little shack in the woods. Maybe you can use it for target practice.”\n\nOutside, Mom tried to excuse her.\n\n“She’s under a lot of stress.”\n\n“Stress?” I said. “She just inherited a two-million-dollar condo.”\n\nMom had no answer.\n\nThe next morning, she came to my apartment near base and suggested Vanessa should manage the cabin since my Army career kept me busy.\n\n“So Dad left me something,” I said, “and less than twenty-four hours later, you want me to hand it to Vanessa?”\n\nMom called it practical.\n\nI knew better.\n\nShe wasn’t trying to keep the family together.\n\nShe was trying to keep Vanessa happy.\n\nAfter a week of pressure, I finally agreed to visit the cabin.\n\n“Fine,” I said. “But I’m going for Dad. Not for Vanessa.”\n\nI reached the Adirondacks after dark. From the outside, the cabin looked exactly like the worthless shack Vanessa had described: old roof, shuttered windows, and no sign of anything special.\n\nThen I stepped inside.\n\nThe floors were polished. The furniture was cared for. Firewood had been neatly stacked beside the stone fireplace.\n\nSomeone had been maintaining the place.\n\nOn the mantle, I found an old photo of Dad as a young man standing beside an older woman I had never seen, right in front of the same cabin.\n\nOn the back, Dad had written:\n\n**With Grandma Rose, 1962. The place where everything began.**\n\nI was still staring at the photo when a knock came at the door.\n\nAn older man named **Jack Reynolds** stood outside carrying beef stew. He introduced himself as a retired Marine and said he had known my father well.\n\n“Your dad came here shortly before he died,” Jack told me. “He organized things. Said if you ever showed up looking like the world had turned on you, I should remind you that the most valuable treasures are often hidden where no one thinks to look.”\n\nBefore leaving, Jack gave me one final message.\n\n“He said to check under the kitchen floorboard when you’re ready.”\n\nNear the kitchen table, I found a loose plank. Beneath it was a metal box wrapped in oil cloth.\n\nInside were old photographs, property documents, Dad’s handwritten letter, and a geological survey filled with words I had to read twice: granite, feldspar, high-yield deposits, substantial commercial value.\n\nSlowly, the truth became clear.\n\nVanessa thought Dad had punished me with an old cabin.\n\nBut the 200 acres beneath my feet could be worth a fortune.\n\nThen I opened Dad’s letter and understood he had known exactly what he was doing. He had trusted me with the land because Vanessa would only see money, while he wanted me to see the legacy.\n\nFor the first time since the funeral, Vanessa’s insult no longer mattered.\n\nShe thought she had inherited the prize.\n\nShe had no idea what was hidden beneath my so-called worthless cabin.\n\nPlease type “YES” if you’re ready for the next part and I’ll send it right away. 👇👇",
+    "wp_media_id": 1017,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-2100-nl.jpg"
+   },
+   "source_key": "post:100064230806326_1488987449918934",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 00:00": {
    "langs": {},
@@ -13449,6 +13539,7 @@
    "link": "https://www.facebook.com/share/p/19nTJHwjbg/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122105272880536431&id=61566092952750"
   },
+  "link:8b2f6528710450908748": {},
   "link:8b3770fdf866298dfbf6": {},
   "link:8c742fe484b1114635d9": {
    "link": "https://www.facebook.com/share/p/1AAS6GuJUT/",
@@ -13711,6 +13802,14 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 18:00",
+   "status": "used"
+  },
+  "post:100064230806326_1488987449918934": {
+   "fingerprint": "ff438658282b66d8a3c3",
+   "link": "https://www.facebook.com/story.php?story_fbid=1488987449918934&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 21:00",
    "status": "used"
   },
   "post:100064230806326_1512892317528447": {
