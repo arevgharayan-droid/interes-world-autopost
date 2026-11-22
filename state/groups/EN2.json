@@ -7,6 +7,7 @@
   "06b9a4fa459e62ade690": "2026-11-16T16:00:45+00:00",
   "0802407a599099da93c3": "2026-11-09T13:27:37+00:00",
   "08830b18a47934fa45d5": "2026-11-21T10:17:00+00:00",
+  "0a0d9556acadc96f687f": "2026-11-22T21:24:06+00:00",
   "0d731ec18bdd9c2184b7": "2026-11-19T19:58:20+00:00",
   "0e747318903c9a689ac2": "2026-11-13T10:14:29+00:00",
   "10148b6a82229cc06f82": "2026-11-10T22:03:30+00:00",
@@ -14170,9 +14171,92 @@
    }
   },
   "2026-11-23 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Mom Laughed and Said I Wasn't Family Enough for the Christmas Vacation I Planned, Then I Opened My Bank Account",
+     "warnings": [
+      "длина текста FB 441 слов (исходник 527, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 992,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/847116789_1680979100087449_7576454986400437466_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G7jutQYreXsQ7kNvwFltWZ6&_nc_oc=Adrax5rFi5AY1Tt_CuqJX1R5eJrpMhSEnMQOqRN-TZfAr-9wD2SDYo2PuHMyjVd2m34&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=48L0mzzbZKRU-qDLTEG5dg&_nc_tpa=Q5bMBQI6bvdf7FYXCn5LG3d4IiysNqz9tGTzrFg2XyH-Qvq5VkrPKDtdeNaRPZM_FzHylmwz6T0bEHBHCg&oh=00_AQTYdcyv5TXlMI-GzkFtcL2WiBU4Q-vTXb3facNHxC_xLg&oe=6B093EC8",
+    "link": "https://www.facebook.com/story.php?story_fbid=1680979186754107&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "\"The vacation is for family, sweetheart. And that doesn't include you!\"\" my mother laughed at Thanksgiving dinner. Everyone joined in while I quietly walked away. One week later, my phone flashed: $13,000 transfer pending! I immediately blocked it. Seconds later, Mom called, screaming, \"\"CLAIRE! WHAT DID YOU DO?! YOU'VE RUINED EVERYTHING!\"\" I smiled. \"\"No, Mom. I just stopped you from stealing my money.\"\" But the real nightmare for her was only beginning...\n\n\"\"The vacation is for family, sweetheart. And that doesn't include you.\"\"\n\nMy mother said those words across the Thanksgiving dinner table, smiling as everyone laughed.\n\nI stared at her, waiting for the punchline.\n\nThere wasn't one.\n\nThree months earlier, I'd enthusiastically agreed to organize our family Christmas vacation to a luxury resort in Aspen, Colorado.\n\nI'd researched flights, reserved accommodations, and paid the $2,400 deposit.\n\nNow my mother, Patricia, was informing me that everyone was going except me.\n\nMy sister, Brittany, smirked over her wineglass.\n\n\"\"Don't look so surprised, Claire. It's supposed to be a relaxing vacation.\"\"\n\nMy brother, Jason, chuckled.\n\n\"\"Yeah, nobody wants your spreadsheets ruining the fun.\"\"\n\nI looked at my father.\n\nHe concentrated on cutting his turkey.\n\n\"\"Mom,\"\" I said quietly, \"\"I planned that vacation.\"\"\n\n\"\"And we're grateful,\"\" she replied. \"\"But your sister's children need quality family time. You wouldn't understand.\"\"\n\nI was thirty-four, unmarried, and apparently disqualified from belonging to my own family.\n\n\"\"Besides,\"\" Brittany added, \"\"you're always working. You'll survive.\"\"\n\nI'd heard variations of those words my entire life.\n\nI was the responsible daughter.\n\nThe one who paid unexpected medical bills, rescued Jason from credit card debt, and covered Brittany's overdue mortgage payments.\n\nI worked as a financial compliance manager for a regional bank.\n\nMy family called my career boring.\n\nYet somehow, my boring career had funded their emergencies for nearly a decade.\n\n\"\"Well?\"\" Mom demanded. \"\"Are you going to make Thanksgiving uncomfortable?\"\"\n\nI looked around the table.\n\nMy father avoided my eyes.\n\nJason grinned.\n\nBrittany raised her glass.\n\nThey were enjoying this.\n\nI slowly placed my napkin beside my plate.\n\n\"\"Enjoy your vacation.\"\"\n\nMom blinked.\n\n\"\"That's it?\"\"\n\n\"\"That's it.\"\"\n\nI stood, collected my coat, and walked outside.\n\nNobody followed.\n\nInside my car, I finally cried.\n\nNot because I was excluded from a vacation.\n\nBecause I'd spent fourteen years purchasing affection from people who regarded me as an unlimited checking account.\n\nThen my phone buzzed.\n\nA message from Brittany.\n\nDon't forget the remaining resort payment is due next Friday. Mom says you'll handle it.\n\nI stared at those words.\n\nThen I opened my banking application.\n\nFor years, Mom had been a trusted contact for emergencies. She also knew my old account credentials from when she'd helped me recover access during surgery.\n\nI'd never imagined she'd abuse that trust.\n\nI changed every password, reviewed connected accounts, and called my bank.\n\nWhat I discovered made my hands go cold.\n\nSomeone had recently attempted to add a new external transfer destination.\n\nAnd the account holder's name was Patricia Morgan.\n\nMy mother.\n--To be continued in C0mments 👇",
+    "wp_media_id": 991,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1500-en2.jpg"
+   },
+   "source_key": "post:100045261260562_1680979186754107",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 18:00": {
    "langs": {},
@@ -14359,6 +14443,7 @@
    "link": "https://www.facebook.com/share/1KPLouJPi4/",
    "resolved": "https://www.facebook.com/61586759032853/posts/122141363457225301/?rdid=86tXYqQQ3Z1Xbbeg&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1KPLouJPi4%2F"
   },
+  "link:fa32931517d2352c63a1": {},
   "link:fd02a06414918dc0f17e": {
    "link": "https://www.facebook.com/share/p/1MUcu9rpwe/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1675250207311727&id=100044802900629"
@@ -14441,6 +14526,14 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-21 21:00",
+   "status": "used"
+  },
+  "post:100045261260562_1680979186754107": {
+   "fingerprint": "73a3201b871d68fe8ac6",
+   "link": "https://www.facebook.com/story.php?story_fbid=1680979186754107&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-23 15:00",
    "status": "used"
   },
   "post:100045261260562_1699156498269709": {
