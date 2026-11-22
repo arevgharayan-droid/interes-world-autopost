@@ -40,6 +40,7 @@
   "8a4d3ab5696ac234c463": "2026-11-19T17:17:19+00:00",
   "8daf6c11c0451ea812bb": "2026-11-15T14:13:56+00:00",
   "9991f589010d4cbe9a56": "2026-11-14T09:18:00+00:00",
+  "99ac782568fe4999df83": "2026-11-22T14:03:59+00:00",
   "9bfc8089323bc8a27bd2": "2026-11-17T10:38:06+00:00",
   "a98f523ba4a671831ff7": "2026-11-17T12:28:37+00:00",
   "ab12b39c82a984be6a9e": "2026-11-12T10:26:25+00:00",
@@ -13153,9 +13154,90 @@
    "status": "missed"
   },
   "2026-11-22 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Mother Told Me I Was Always Grandma's Least Favorite at the Will Reading, Until a Silver-Haired Lawyer Opened a Second Envelope",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 945,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/666010237_1510385083813519_1483710006681206741_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ht7MeQ74B4MQ7kNvwGLHM75&_nc_oc=AdoyK7yaX20kTtxAJgDP6PTLOCtFnOI1ezJXLpHhezSSzFA0wmhXcK-r7SjpRUvx8JQ&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=jJukKuAnlXDZqiEo4IdXxg&_nc_tpa=Q5bMBQL1wpKrYbPOtJJcJQTraLYOqKR5ZzlQLAtRphztlMUAoYCQrczeN7WpxOjfehZswoz193qAL7GUEw&oh=00_AQRoiGLcz3iAD4xC7zgzN0c27-5YXa__TCNx0wUZyTzeRQ&oe=6B08D99E",
+    "link": "https://www.facebook.com/story.php?story_fbid=1510385177146843&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "At my grandmother’s will reading, my mother sat calmly in front of fourteen people and looked straight at me before saying, “You were always her least favorite.” I had just been erased from a $2.3 million inheritance—but what she didn’t expect was the silver-haired lawyer in the corner quietly lifting a second envelope, revealing that Grandma had been preparing for this moment for seven years. And suddenly, the silence in that bright room didn’t feel like grief anymore… it felt like a trap closing on the wrong people.\n\nMy mother waited until the room was completely still, then delivered those words across the oak table like she had rehearsed them. No one stopped her. My father said nothing. My brother didn’t even look up. The only sound was the ticking clock on the wall.\n\nMy name is Thea Lawson. I’m thirty-one, a third-grade teacher in Hartford—and in my family, that has always been treated like a small, unimpressive failure.\n\nI grew up in Westport, Connecticut, where appearances mattered more than anything. My father ran a real estate business. My mother controlled the family image. And my older brother Brandon was the one they shaped, praised, and prepared to inherit everything.\n\nBrandon received admiration. I got comments like, “Third grade? That’s cute.”\n\nThe only person who never made me feel less than enough was my grandmother, Eleanor.\n\nOn my thirtieth birthday, my parents didn’t even show up to dinner. My mother arrived late, handed me fifty dollars, and left shortly after. That same week, Brandon received a Rolex for his promotion.\n\nBut early that morning, my grandmother had called, singing happy birthday off-key, laughing like always, and telling me something I would never forget:\n\n“You are the best thing this family ever created.”\n\nLater, a tin of her homemade cookies arrived with a note: Keep being yourself. The world needs more Theas.\n\nThree weeks ago, my father called late at night to tell me she had passed away in her sleep.\n\nI drove ninety minutes to Westport with shaking hands. When I arrived, every light was on—but no one hugged me. My mother simply said, “The funeral home is coming at eight.”\n\nI went upstairs alone. Her room still looked the same. The lamp was on. Her blanket folded neatly. A photo of us at the beach sat untouched. I sat beside her and held her hand, while downstairs, my parents spoke in low, hurried voices that sounded more like planning than mourning.\n\nThat feeling stayed with me through the funeral. I asked to give the eulogy, but my mother refused. “Brandon is better with crowds,” she said.\n\nFive days later, I called my father and asked one question:\n\n“Am I in the will?”\n\nHis silence told me everything before he answered.\n\nThat night, I started reading probate law like someone preparing for a fight.\n\nThen the letter arrived.\n\nA thick envelope from a law firm I had never heard of—Kesler and Web. Inside was an invitation to the same will reading… but with two words that made my stomach drop: separate matter.\n\nI read it three times.\n\nThe last time I saw my grandmother alive, she held my hand and said, “No matter what happens, you’re taken care of.”\n\nI thought she meant emotionally.\n\nI didn’t understand.\n\nThe night before the reading, I wore the blazer she once told me made me look like “a woman who knows her worth.” I barely slept.\n\nThe next morning, we gathered in a conference room. My father sat at the head of the table. My mother beside him, composed in black and pearls. Brandon sat nearby with his wife.\n\nAnd in the corner sat a silver-haired man holding a leather envelope. Watching. Silent.\n\nThen the will was read.\n\nThe house went to my father.\nThe investments to Brandon.\nThe remaining assets to my mother.\n\nMy name was never mentioned.\n\nNot once.\n\nI kept my hands clenched under the table, forcing myself not to react. The sunlight streamed through the windows, reflecting off my mother’s earrings as she turned toward me.\n\nThen she said it.\n\n“You were always her least favorite. She knew you’d waste it on your little school.”\n\nNo one moved.\n\nBrandon stared down. My father looked satisfied.\n\nThen a voice broke the silence.\n\n“That’s not true.”\n\nIt was Maggie, my grandmother’s neighbor.\n\nThe room shifted.\n\nAnd then everything changed.\n\nThe lawyer in the corner stood up.\n\nHe introduced himself as Harold Kesler and explained that my grandmother had hired him seven years earlier—for something separate from the will.\n\nMy father snapped that he had never heard of him.\n\nKesler calmly replied, “That was intentional.”\n\nMy mother slammed her hand on the table, but the original lawyer simply said he had been instructed to let Kesler speak—after the “primary” reading.\n\nPrimary.\n\nThat word changed everything.\n\nKesler stepped forward, placed the envelope on the table, and looked directly at me.\n\n“Miss Lawson,” he said evenly, “your grandmother asked me to be here for you.”\n\nNo one in that room was breathing normally anymore.\n\nMy father gripped his chair. My mother went pale. Brandon finally looked up—and for the first time, he looked uncertain.\n\nKesler slid a finger under the seal.\n\n“Before anyone leaves,” he said, “there is one more document your grandmother wanted read aloud in this room.”\n\nAnd the moment he opened that envelope…\n\nEvery face at that table changed. Full story in 1st comment 👇👇",
+    "wp_media_id": 942,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1800-en2.jpg"
+   },
+   "source_key": "post:100045261260562_1510385177146843",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 21:00": {
    "langs": {},
@@ -13394,6 +13476,14 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-17 12:00",
+   "status": "used"
+  },
+  "post:100045261260562_1510385177146843": {
+   "fingerprint": "4fdf948820c4215e587f",
+   "link": "https://www.facebook.com/story.php?story_fbid=1510385177146843&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-22 18:00",
    "status": "used"
   },
   "post:100045261260562_1599090314942995": {

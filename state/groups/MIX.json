@@ -6030,7 +6030,23 @@
   "2026-11-22 18:00": {
    "langs": {},
    "slot_iso": "2026-11-22T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/863535305_1700475421471150_5956660371718964938_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qBFNZCuR45gQ7kNvwG-sw0t&_nc_oc=Ado5MuUdQgp0PSH689QQZF2iVe6bFDuVe0Ek6XOvebh8oYX3mhovKVpMiQ_Oc7780O0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fgYuq_Kz6k4P76E5VD17hQ&_nc_tpa=Q5bMBQJbqzH167mq7t-ZZSPRs214ktTD0CcySqP23NY8ZWPjqTZq_K4au7NCKUMZAlD6be1kkY_Tqfu5tg&oh=00_AQR_-Sun7sM_zID5L_7mS52Pdh4QokwyDxSQ8Orf9V0UfA&oe=6B08E1EC",
+    "link": "https://www.facebook.com/story.php?story_fbid=1700942794757746&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "At Dinner With My Daughter's Fiancé's Family, His Father, a Navy Captain, Shoved His Empty Glass Toward Me. \"Make yourself useful. Pour the wine.\" Then He Mocked Me. \"A single mother? No wonder your daughter doesn't know what a real family looks like.\" Tears Filled My Daughter's Eyes. I Rose, Took Her Hand, and Left. He Never Imagined I Was an Army General. The Following Monday, He Was About to Receive the Sh0ck of His Life...\n\nThe Navy captain pushed his empty wineglass in my direction, smirking as though I were hired help. “Make yourself useful,” he said. “Pour the wine. A single mother should be grateful she's even sitting at this table.”\n\nMy daughter's face drained of color. I kept my expression completely composed.\n\nCaptain Richard Whitmore had no idea that the woman he'd just insulted commanded more troops than he could imagine—or that he'd be standing before me on Monday morning.\n\nI'm General Victoria Hayes, fifty-three, a three-star general in the United States Army and the proud mother of my twenty-six-year-old daughter, Olivia.\n\nBut that Friday night, I wasn't dressed in military uniform.\n\nI'd chosen a plain navy dress, understated pearl earrings, and comfortable heels Olivia had bought me for Christmas. I wanted her fiancé's relatives to meet me as a mother rather than a high-ranking military officer.\n\nThat choice nearly ended her engagement.\n\nThe Whitmore family occupied a sprawling waterfront estate near Annapolis, Maryland. Captain Richard Whitmore, his wife Patricia, and their son Ethan welcomed us beneath a chandelier that likely cost more than my first home.\n\nRichard examined me from head to toe.\n\n“So,” he said, “you're the famous single mother.”\n\n“Just Victoria,” I answered.\n\nHe chuckled. “Of course.”\n\nThroughout the meal, Richard questioned me relentlessly about my income, education, and whether I'd raised Olivia respectably.\n\n“What exactly do you do?” he asked.\n\n“I work for the federal government.”\n\n“Administrative work?”\n\n“Something like that.”\n\nHe gave me a patronizing smile.\n\nPatricia turned toward her husband. “Richard, darling, don't embarrass her. Government clerks are important too.”\n\nBeneath the table, Olivia squeezed my hand.\n\nThen Richard slid his wineglass toward me.\n\n“Pour the wine.”\n\nI glanced at the empty glass.\n\n“Excuse me?”\n\n“You heard me.” He chuckled. “A single mother? No wonder your daughter doesn't know what a real family looks like.”\n\nThe dining room fell completely silent.\n\nTears welled in Olivia's eyes.\n\nEthan kept staring down at his plate.\n\nI waited for him to stand up for the woman he planned to marry.\n\nHe remained quiet.\n\nRichard settled back in his chair, visibly satisfied with himself.\n\n“Don't look so offended. In this family, we respect tradition.”\n\nI carefully laid my napkin alongside my plate.\n\n“Olivia,” I said softly, “get your coat.”\n\nRichard scowled. “We're not finished.”\n\n“Yes,” I replied, standing. “We are.”\n\nOlivia stood beside me.\n\nAs we reached the entrance, Richard shouted after us.\n\n“Your daughter should learn that marrying into a military family requires discipline!”\n\nI turned to face him.\n\nFor the first time that night, I allowed myself a smile.\n\n“Captain Whitmore, I understand military discipline considerably better than you think.”\n\nHe burst into laughter.\n\nWithout another word, I turned and left.\n\nAs I walked away, I overheard Patricia murmur, “What an arrogant little woman.”\n\nThey hadn't the slightest idea who I really was.\n\nAnd Olivia herself had no idea what would be waiting on my desk Monday morning...\n\nTo be continued in C0mments 👇",
+    "wp_media_id": 583,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-1800-mix.jpg"
+   },
+   "source_key": "post:100045261260562_1700942794757746",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 21:00": {
    "langs": {},
@@ -6110,6 +6126,14 @@
    "resolved": "https://www.facebook.com/story.php?story_fbid=122141158047244044&id=61587321322233"
   },
   "link:f598ae9de50059da3be5": {},
+  "post:100045261260562_1700942794757746": {
+   "fingerprint": "e1c2e363a787f46cf67c",
+   "link": "https://www.facebook.com/story.php?story_fbid=1700942794757746&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-22 18:00",
+   "status": "reserved"
+  },
   "post:100045261260562_1715615996623759": {
    "fingerprint": "ae9e624608ecd5275312",
    "link": "https://www.facebook.com/story.php?story_fbid=1715615996623759&id=100045261260562",

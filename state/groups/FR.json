@@ -10166,7 +10166,23 @@
   "2026-11-22 18:00": {
    "langs": {},
    "slot_iso": "2026-11-22T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/825327397_1513975704086775_5690957668008236148_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6eIF7C1oLuMQ7kNvwH54soI&_nc_oc=AdoH9pwWWyzSI0qtK84xgSTQ1-6lStG8IucrJ9VR5ru8AH_l_9YLyHlHuQtZj89rb9c&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ixaAvumajTl0QfSvlJfkoA&_nc_tpa=Q5bMBQJikfzLsPVaziJ-hz0wWFrRWEjKKhzwAb3Xh-tN_N1lVzM9noehZKgsGly1s62qPO94TUivyBTxuw&oh=00_AQQqP51GEFhbK3-G1MtUF9IPMTfPvrvbl55MtABAwgyWwg&oe=6B08B426",
+    "link": "https://www.facebook.com/story.php?story_fbid=1513975780753434&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "My father told me not to come home for Christmas because he was worried my Army career would “steal the spotlight” from my stepbrother’s promotion. So I quietly canceled my ticket and volunteered for the overnight shift instead—never expecting that just hours later, everyone at my father’s Christmas party would turn on the national news and see exactly where I had spent Christmas Eve.\n\nDad removed me from the family Christmas plans with the same controlled, emotionless voice he used when letting employees go.\n\n“Don’t come home, Leah,” he said. “Your Army career might take attention away from Bryce’s promotion.”\n\nFor several seconds, I just sat there on the edge of my barracks bed.\n\nMy dress uniform hung beside me.\n\nMy flight confirmation was still open on my phone.\n\nAnd some small, childish part of me waited for Dad to laugh and tell me he was joking.\n\nHe never did.\n\nThrough the phone, I heard my stepmother, Celeste, moving glass ornaments around the tree.\n\n“Tell her it isn’t personal,” she said in the background.\n\nThen Bryce laughed.\n\nMy stepbrother had always laughed like someone admiring a bank balance.\n\n“It’s Christmas,” I said quietly.\n\n“And it’s Bryce’s evening,” Dad answered. “Regional Vice President at thirty-one. That’s a major accomplishment. Your medals, the uniform, your Army career… people always make such a big deal about those things.”\n\n“Those things,” I repeated.\n\nDad sighed impatiently.\n\n“Don’t turn this into something dramatic. You know how people react when they see you now. Everyone acts like you’re the real success in the family. Bryce worked hard to earn this.”\n\nI almost reminded him what Bryce’s version of “hard work” looked like.\n\nHe had lost two important contracts.\n\nBlamed one failure on his assistant.\n\nAnd used photographs from my deployment in company newsletters beneath the slogan:\n\nServing Those Who Serve.\n\nI nearly reminded Dad that I had stopped depending on him financially when I turned eighteen.\n\nMeanwhile, Bryce was still signing company checks from an office partly funded through my late mother’s trust.\n\nBut I said none of that.\n\nInstead, I looked at the silver bars on my uniform.\n\n“Understood.”\n\nDad paused.\n\nHe had never liked hearing that word from me.\n\nIt sounded too much like an order had been received.\n\nToo disciplined.\n\nToo final.\n\n“Leah—”\n\n“Merry Christmas, Dad.”\n\nI ended the call before he could hear my voice crack.\n\nThen I canceled my flight to Virginia.\n\nI sent a message to my commander and volunteered for overnight duty at Fort Mason’s emergency operations center.\n\nA major winter storm was approaching.\n\nPlenty of people on the night roster had spouses, children, and families waiting for them at home.\n\nI didn’t anymore.\n\nAt 1900 hours, I walked into the operations center carrying a cup of coffee, my hair secured in a neat bun, and the steady expression years in the Army had taught me to wear.\n\nMy phone kept vibrating.\n\nCeleste:\n\nThis really is for the best. Please don’t punish your father over it.\n\nThen Bryce:\n\nTry not to invade the North Pole tonight, Captain Spotlight.\n\nI stared at the messages for a moment.\n\nThen I placed my phone face down on the desk.\n\nThere were a few things my family didn’t know.\n\nTwo weeks earlier, a civilian attorney had contacted me regarding my late mother’s trust.\n\nThey didn’t know that Mercer Logistics—the company my father treated as though it belonged entirely to him—wasn’t completely his.\n\nAnd Bryce certainly didn’t know that the promotion he was celebrating that night had just put him directly in front of a federal audit.\n\nAn audit I had already formally recused myself from....\n\nTo be continued in C0mments 👇",
+    "wp_media_id": 939,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1800-fr.jpg"
+   },
+   "source_key": "post:100064230806326_1513975780753434",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 21:00": {
    "langs": {},
@@ -10511,6 +10527,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-22 00:00",
    "status": "used"
+  },
+  "post:100064230806326_1513975780753434": {
+   "fingerprint": "927f3764e591df61a474",
+   "link": "https://www.facebook.com/story.php?story_fbid=1513975780753434&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 18:00",
+   "status": "reserved"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",

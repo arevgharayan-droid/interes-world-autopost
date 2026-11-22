@@ -18301,7 +18301,23 @@
   "2026-11-22 18:00": {
    "langs": {},
    "slot_iso": "2026-11-22T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/802858374_1604927037677378_2348757686312726146_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Xzth3T8seHUQ7kNvwEpL_sQ&_nc_oc=AdqUfxwvBYIo5XQAGCmD7h0ymdMYQc2-Oc6ZnWbe6fkesMij5aTXaFQuBEhNuqNq1tI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=uGzizP0dXr8Am22BU2ayEQ&_nc_tpa=Q5bMBQIkLJfK11p592Pm3mE7_P_BXBsL3Jni94riF8ye0Gg3Ypgiyxf7OsJJ_ZptblCHOHP2AUgLsc_MXA&oh=00_AQR-8-UjSuyttrisqPCbAEuL51Hl0QWJG5BEsXAE5Z7o1A&oe=6B08B91A",
+    "link": "https://www.facebook.com/story.php?story_fbid=1606060957563986&id=100044802900629",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "\"MY EX-HUSBAND NEVER FOUGHT TO KEEP CUSTODY OF OUR FOUR DAUGHTERS. AS WE LEFT COURT, HE ONLY TOLD ME, “I have other responsibilities now.” THIRTY MINUTES LATER, I TOOK MY GIRLS AND LEFT WHILE HE PREPARED TO INTRODUCE HIS MISTRESS’S SON AS THE FAMILY HEIR. BUT JUST AS HIS MOTHER RAISED THE OLD FAMILY RING, THE HOUSEKEEPER PRODUCED A RECEIPT, MENTIONED A SIX-YEAR-OLD GIRL, AND TURNED THE CELEBRATION INTO A NIGHTMARE.\n\nPART 1\n\n“I’m going to deposit the girls’ child support every month. Beyond that, don’t expect a single dollar from my family.”\n\nThose were the last words Arthur Vance said to me as my husband, outside the domestic relations court in Chicago, while our four daughters stood behind me.\n\nMy name is Mariana Vance. I am forty-two years old, and for sixteen years, I believed I had created a family. That morning, I finally realized that to my husband and his mother, I had only built an estate they intended to pass down to a male heir.\n\nChloe, my fifteen-year-old eldest daughter, reacted first.\n\n“Did you not fight for custody because you wanted to avoid a mess... or because you never actually wanted us?”\n\nArthur remained completely silent.\n\nCami stared down at her shoes. Sophia tightly pressed her lips together. Maya, my six-year-old, held onto my coat.\n\nArthur gestured toward our luggage. “Are you really leaving today?”\n\n“To Boston,” I answered calmly. “My sister found us a place.”\n\nHe gave a dry smirk that still makes my blood boil. “When you realize that starting over from scratch with four girls isn't as easy as you think, give me a call.”\n\nI said nothing.\n\nAn hour later, we were riding in a cab toward O'Hare International Airport.\n\nAs the city buildings passed outside the window, Maya asked something that broke my heart: “Mom, is Grandma Beatrice going to give all my toys to Mateo now?”\n\nMateo was Selina's son, the woman Arthur had been cheating on me with for months. Or, at least, that was everything I knew then.\n\nMy mother-in-law, Beatrice, was completely obsessed with that boy. Arthur had shown her a paternity test that supposedly confirmed Mateo was his biological son. After four granddaughters, she finally had her \"\"male heir.\"\"\n\nThat one phrase had destroyed our household.\n\nWhen Chloe was born, Beatrice said one girl was fine \"\"to start.\"\" When Cami arrived, she asked when we would try for a boy. When Sophia was born, she stopped visiting the hospital altogether. And when Maya was born, she stared at my newborn from the foot of the bed and asked, “Who is going to inherit the company one day if you only produce girls?”\n\nThe company.\n\nVance Fine Furniture.\n\nThe same family business I had personally rescued sixteen years earlier when it was on the verge of complete bankruptcy.\n\nWhen I first met Arthur, his father, Arthur Sr., operated a small workshop in Indiana that was buried in debt. I had spent years working in commercial furniture distribution and saving my money. My parents even sold a parcel of land so I could invest. Together, we put nearly $600,000 into the company. I upgraded the machinery, secured major retail distributors, organized the books, and created their corporate administrative structure.\n\nYears later, we owned two manufacturing plants, employed more than one hundred and eighty people, and had distribution contracts across the country.\n\nLegally, I held forty-three percent of the company. Arthur Sr. held twenty-four percent. Arthur held thirty-three percent.\n\nDiego, Arthur's younger brother, never received shares because he was constantly pursuing get-rich-quick schemes and had already caused enormous financial losses. Maybe that was why he hated me.\n\nMy phone vibrated just as we entered the departure terminal.\n\nIt was Carmen, the woman who had worked as my in-laws' housekeeper for almost ten years.\n\nHer message said:\n\n“Take the girls far away, Mrs. Vance. Tonight, I am telling the absolute truth. After what I reveal tonight, that family will never be able to look anyone in the eye again.”\n\nI immediately tried calling her back. She didn't answer.\n\nWhat I didn't know was that while my daughters and I boarded our flight to Boston, Beatrice was having caterers arrange outdoor tables, floral decorations, and a huge canopy in the gardens of the family estate.\n\nThey had planned an extravagant celebration to officially introduce Selina and Mateo to their social circle. On a wooden display table sat Arthur Sr.’s antique gold signet ring on a velvet cushion. Beatrice intended to place it on the boy's finger before the entire family.\n\nAccording to her, the \"\"first grandson\"\" would be recognized that evening as the official future heir to the Vance family legacy.\n\nAnd behind the kitchen door, Carmen stared at that ring, gripping a thick yellow envelope against her apron. Inside was evidence capable of destroying not only the marriage that had just ended, but the very lie the entire family was celebrating...\n\npart 2 👇👇\n\"",
+    "wp_media_id": 582,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-1800-ru.jpg"
+   },
+   "source_key": "post:100044802900629_1606060957563986",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 21:00": {
    "langs": {},
@@ -18533,6 +18549,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-22 00:00",
    "status": "used"
+  },
+  "post:100044802900629_1606060957563986": {
+   "fingerprint": "545535d99dd304e81e58",
+   "link": "https://www.facebook.com/story.php?story_fbid=1606060957563986&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-22 18:00",
+   "status": "reserved"
   },
   "post:100044802900629_1660558355447579": {
    "fingerprint": "7a0f4a00da2e016a2568",

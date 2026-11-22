@@ -37,6 +37,7 @@
   "97674e3e8b0598bc24b5": "2026-11-09T20:07:40+00:00",
   "b034d1046357d847cce2": "2026-11-16T16:00:37+00:00",
   "b1899a39d4a80bf0017e": "2026-11-15T10:15:24+00:00",
+  "b19c949be9bfbd28cd40": "2026-11-22T14:03:58+00:00",
   "b49b03bb1b007b0a80de": "2026-11-09T20:02:56+00:00",
   "bd7c5a3d358209d3b58a": "2026-11-18T18:29:08+00:00",
   "c7642b06a93420a0f1dc": "2026-11-16T19:28:15+00:00",
@@ -14282,9 +14283,97 @@
    "status": "missed"
   },
   "2026-11-22 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-11-22T18:03:59+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
+     "title": "My Father Mocked Me at My Sister's Wedding and Shoved Me Into a Fountain, Not Knowing the Husband I'd Hidden for Three Years Was About to Walk In",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 944,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/792578644_1601988584637890_8843372198440783522_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Kpe2eQLcRcEQ7kNvwFNDIGJ&_nc_oc=Ado2if7l3s4f20vbqFYJaLKqWZN0SjDmjcKvguarEQJVEd3-doOBuL1ipdMWoL_32ZI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=z_IpiTaKf4nOcoD3o48rig&_nc_tpa=Q5bMBQLbb9e5sXm_6Ef6xiGnghT1S2ZY95-p5DFxZGF-cqRI6oG2VWxoUmSepYgy_gKgeynteKiXjvLoZA&oh=00_AQQSMqusIJuUknEK32gQ5N3c6AtQmNwvLhwROa9AWWj0Xw&oe=6B08AE10",
+    "link": "https://www.facebook.com/story.php?story_fbid=1601988637971218&id=100044802900629",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "My family laughed when I arrived alone at my sister’s wedding, and my father made sure everyone heard him say, “She couldn’t even find a date.” A few minutes later, after he shoved me into the fountain and the applause finally faded, I looked him straight in the eye. “Remember this moment.” Because the secret I had protected for three years was already walking toward the ballroom doors.\n\nPART 1\n\nMy father made four hundred wedding guests laugh at me, then pushed me into a fountain and expected me to vanish quietly.\n\nFor thirty-two years, my family treated me as the difficult, lonely older daughter whose main role was making my younger sister, Chloe, look brighter. Her lavish wedding was meant to be one more night of me smiling through it.\n\nThen my father, Arthur Sterling, took the microphone.\n\n“Look, there’s Jessi,” he announced, his voice carrying across the ballroom. “All by herself. Couldn’t even find a date for her sister’s big day.”\n\nThe room erupted in laughter.\n\nI went out to the terrace fountain, trying to breathe, but Arthur followed me. He put both hands on my shoulders and sneered, “Stop sulking. You’re ruining the aesthetic.”\n\nThen he shoved me.\n\nNot hard enough to look violent. Just careless enough to humiliate me.\n\nMy heel caught the slick stone edge, and I fell backward into freezing water. My pale green dress clung to me, ruined and heavy.\n\nThe worst part was not the cold. It was the applause.\n\nNo one gasped. No one rushed forward. They clapped while my father stood above me, still holding the microphone, smiling as if he had delivered the perfect joke.\n\nSomething inside me went completely still.\n\nThirty-two years of being the family punchline ended in that fountain.\n\nI wiped water from my lashes and looked straight at him.\n\n“Remember this moment,” I said quietly. “Remember exactly what you just did to me. Because I will.”\n\nHis smile faltered.\n\nI climbed out, walked to the lobby restroom, peeled off the soaked dress, and changed into the black cocktail dress I had packed as a backup. Then I painted my lips red and looked at the woman in the mirror.\n\nShe was not disappearing anymore.\n\nI pulled out my damaged phone and sent two words to the hidden contact I had protected for three years: Come now.\n\nMy family loved calling me lonely. Tonight, they were about to meet my husband...\n…PART 2 👇👇👇",
+    "wp_media_id": 940,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1800-en.jpg"
+   },
+   "source_key": "post:100044802900629_1601988637971218",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-22 21:00": {
    "langs": {},
@@ -14502,6 +14591,14 @@
    "origin": "manual",
    "page_id": "100044599086455",
    "slot": "2026-11-10 15:00",
+   "status": "used"
+  },
+  "post:100044802900629_1601988637971218": {
+   "fingerprint": "d0ed9d615c518f327450",
+   "link": "https://www.facebook.com/story.php?story_fbid=1601988637971218&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-22 18:00",
    "status": "used"
   },
   "post:100044802900629_1631049155065166": {
