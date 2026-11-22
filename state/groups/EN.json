@@ -28,6 +28,7 @@
   "5e336a9c8f71c9075c40": "2026-11-12T17:47:39+00:00",
   "62447349d9ef3a0a66d8": "2026-11-18T22:49:09+00:00",
   "6587278d41ae2a4f390e": "2026-11-19T10:26:30+00:00",
+  "6c4b76a418d4153ed908": "2026-11-22T21:17:03+00:00",
   "6dfa0fbc6e60232c2ca8": "2026-11-10T22:06:51+00:00",
   "73fa8ade928983b592f6": "2026-11-20T19:25:51+00:00",
   "76b6de784429bf75aead": "2026-11-12T10:26:33+00:00",
@@ -15263,7 +15264,72 @@
    "status": "missed"
   },
   "2026-11-23 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Parents Begged Me to Hand My Husband Everything Because of My Sister, So I Said \"Fine\" and Walked Into Court With a Folder They Never Bothered to Open",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 984,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/825271378_1675747107277315_5410588857278403962_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xUZ5bautBDsQ7kNvwHCRgue&_nc_oc=AdrcuYQnAZn8paQxy484SyAGHbYZm9fEBos-mop8PhlKGvnA0kKiYZiIqNWc9ohWYDk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=345oIUxdKu6g6YougPsTQA&_nc_tpa=Q5bMBQJuZiwqIPq-8zw2SFUCx7Wz5b_w1GUaQRKHgpNxbP_JXXwek_F1Dd1GSWK-dOy0zMRlwYabr11uZw&oh=00_AQQGK4bPm5euEtoNIMS-nl2kcG9ie24eGpZukXFiFrlf3A&oe=6B093C56",
@@ -15275,7 +15341,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1200-en.jpg"
    },
    "source_key": "post:100045261260562_1675747187277307",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15574,7 +15640,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-23 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699289931589699": {
    "fingerprint": "947d4507699df6d24615",
