@@ -11703,3 +11703,17 @@
 {"slot": "2026-11-22 20:30", "lang": "PT", "page": "1448441201677530", "action": "comment", "id": "122122709733505599_2376523259770075", "t": "2026-11-22T16:54:44+00:00", "group": "RU"}
 {"slot": "2026-11-22 20:30", "lang": "PT", "page": "1338630212673029", "action": "comment", "id": "122119946853471857_1528265572690454", "t": "2026-11-22T16:54:47+00:00", "group": "RU"}
 {"slot": "2026-11-22 20:30", "lang": "PT", "page": "1138572272664180", "action": "comment", "id": "122129596323306316_1471611481581386", "t": "2026-11-22T16:54:53+00:00", "group": "RU"}
+{"slot": "2026-11-22 23:47", "action": "wp_media", "id": 965, "t": "2026-11-22T19:47:40+00:00", "group": "NL"}
+{"slot": "2026-11-22 23:47", "action": "wp_media", "id": 966, "t": "2026-11-22T19:47:43+00:00", "group": "EN"}
+{"slot": "2026-11-22 23:47", "action": "wp_media", "id": 967, "t": "2026-11-22T19:47:43+00:00", "group": "FR"}
+{"slot": "2026-11-22 23:47", "action": "wp_media", "id": 968, "t": "2026-11-22T19:47:43+00:00", "group": "IT"}
+{"slot": "2026-11-22 23:47", "action": "wp_media", "id": 600, "t": "2026-11-22T19:47:44+00:00", "group": "RU"}
+{"slot": "2026-11-22 23:47", "action": "wp_media", "id": 969, "t": "2026-11-22T19:47:44+00:00", "group": "EN2"}
+{"slot": "2026-11-22 23:47", "action": "wp_media", "id": 601, "t": "2026-11-22T19:47:44+00:00", "group": "MIX"}
+{"slot": "2026-11-22 23:47", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:25+00:00", "group": "EN"}
+{"slot": "2026-11-22 23:47", "lang": "EN", "action": "wp_post", "id": 970, "status": "publish", "t": "2026-11-22T19:48:26+00:00", "group": "EN"}
+{"slot": "2026-11-22 23:47", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:27+00:00", "group": "EN2"}
+{"slot": "2026-11-22 23:47", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:27+00:00", "group": "MIX"}
+{"slot": "2026-11-22 23:47", "lang": "ES", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:27+00:00", "group": "MIX"}
+{"slot": "2026-11-22 23:47", "lang": "RO", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:27+00:00", "group": "MIX"}
+{"slot": "2026-11-22 23:47", "lang": "AR", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:27+00:00", "group": "MIX"}

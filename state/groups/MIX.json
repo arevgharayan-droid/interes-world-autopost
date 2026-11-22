@@ -30,6 +30,7 @@
   "41a87afdd7d64f5cd23b": "2026-11-18T15:24:21+00:00",
   "43914945f65de17447f6": "2026-11-17T20:47:15+00:00",
   "45bf9dffb612764cec37": "2026-11-21T17:04:01+00:00",
+  "46239c141e3b133be1eb": "2026-11-22T19:48:27+00:00",
   "4790fa987cd605bce59b": "2026-11-17T20:47:15+00:00",
   "4f13f9b9d0dd8a5ad9e9": "2026-11-21T17:04:01+00:00",
   "50dd1f88b6c06defc96d": "2026-11-18T22:20:58+00:00",
@@ -60,6 +61,7 @@
   "8a2057d3bf2ba60fdf02": "2026-11-22T14:05:02+00:00",
   "8ac1ecf8185542e95941": "2026-11-19T10:26:49+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
+  "9220f00f6df17351719e": "2026-11-22T19:48:27+00:00",
   "9379ebc571b51d826e03": "2026-11-21T22:45:49+00:00",
   "93c7cd65e2a500a2cf38": "2026-11-18T08:52:49+00:00",
   "940cecb8cdf3b8db0c78": "2026-11-16T20:28:52+00:00",
@@ -67,6 +69,7 @@
   "98415c4e620c5fec9c54": "2026-11-21T10:17:16+00:00",
   "99e8d9f189af8f08dfeb": "2026-11-20T19:26:13+00:00",
   "9d1c191d91ce7d4e3876": "2026-11-22T16:31:59+00:00",
+  "9e8d9919483b58994148": "2026-11-22T19:48:27+00:00",
   "9e9961bac78dda63c754": "2026-11-17T00:19:13+00:00",
   "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
   "a6fdd2c0df68079b8482": "2026-11-18T18:56:12+00:00",
@@ -81,6 +84,7 @@
   "b55d3bb5e53f309a89d5": "2026-11-22T14:05:02+00:00",
   "ba4752512e3fefd45f2a": "2026-11-21T14:13:33+00:00",
   "bdb1bbcd6e4c0469fdaa": "2026-11-19T19:58:49+00:00",
+  "be5b1350a2ae46ec948a": "2026-11-22T19:48:27+00:00",
   "c2bc42d5c2d6930640d5": "2026-11-18T22:49:45+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
   "c75c8dae9f549626580f": "2026-11-22T16:31:59+00:00",
@@ -6489,9 +6493,98 @@
   },
   "2026-11-22 23:47": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "أربعة أشهر سخروا مني وأنا أمسك بيد ابنتي الغائبة عن الوعي، وفي ليلة واحدة فتحت عينيها وهمست: \"لا تدعي دانيال يعلم",
+     "warnings": []
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Durante cuatro meses me burlaron por sentarme junto a mi hija en coma, hasta que despertó y susurró: \"Él sabe lo que descubrí",
+     "warnings": []
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Soțul și soacra își băteau joc de mama care stătea lângă fiica în comă, până când Emily a deschis ochii și a șoptit: „Seiful... în spatele tabloului",
+     "warnings": []
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Четыре месяца я не отходила от дочери в коме, а когда она открыла глаза, прошептала: «Он не пытался меня спасти",
+     "warnings": []
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-22T23:47:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/903313015_1556838519800493_7138431555596346088_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Ki2LwasqzREQ7kNvwH4KXsE&_nc_oc=AdqSKJJGI1NoXuRwM8kIYKtDgaZpkzWUZyFKmUGEAhKUTiAyZMp122D-s2ve72L9TBo&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=G975S_0p5KQB8ZUV9Jxnzg&_nc_tpa=Q5bMBQLi74_NUzixqCZ_8PnAUf024SFYn7K07x4t-c7V1YviB8duoaN7oGfi-y75dFEE8odksj2xMoxT2Q&oh=00_AQSxNL5wLD70BYaFKO8F38MaDJncp8c3IBArrqhslmEJVw&oe=6B09075B",
+    "link": "https://www.facebook.com/story.php?story_fbid=1556838546467157&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "\"For four agonizing months, I refused to leave my unconscious daughter's side, even as her husband and his mother ridiculed me. “She can't hear you, Margaret!” Patricia snapped. “Quit pretending your little visits make a difference!” Daniel laughed alongside her, calling me a foolish old woman who couldn't accept reality. I never fought back. I simply held Emily's hand, spoke to her softly, and prayed she would someday open her eyes.\n\nThen, one night, the impossible happened.\n\nEmily's fingers suddenly tightened around mine.\n\nHer eyes slowly opened.\n\n“Mom…” she whispered.\n\nI leaned closer, barely able to breathe.\n\n“Emily? Sweetheart, I'm here!”\n\nHer lips trembled.\n\n“He knows what I discovered.”\n\nMy heart began pounding.\n\n“Who knows, honey? What did you find?”\n\nShe struggled to speak.\n\n“The safe… behind the painting. Don't let Daniel know.”\n\nI froze.\n\nThen she whispered something that sent a chill through me.\n\n“He wasn't trying to save me.”\n\nBefore I could ask another question, the heart monitor began sounding an alarm. Medical staff rushed into the room and asked me to step outside.\n\nStanding in the hallway was Daniel Whitmore, my daughter's wealthy husband.\n\nHis mother, Patricia, stood beside him.\n\n“What happened?” Daniel demanded.\n\n“Emily woke up,” I answered.\n\nHis expression changed instantly.\n\nBut it wasn't happiness or relief.\n\nIt was unmistakable fear.\n\nPatricia stared at me.\n\n“That's impossible! The doctors said she might never wake up!”\n\nDaniel immediately pulled out his phone.\n\nAnd that's when I realized my daughter's words hadn't been confused rambling.\n\nShe'd been warning me about something terrible.\n\nFour months earlier, Emily had supposedly fallen down the marble staircase of the luxurious mansion she shared with Daniel.\n\nHe claimed she'd been drinking wine, lost her balance, and suffered a devastating head injury.\n\nBut I'd never believed his story.\n\nEmily was a successful thirty-five-year-old financial consultant who rarely drank.\n\nAnd just one day before her accident, she'd called me sounding frightened.\n\n“Mom, I discovered something about Daniel. Something awful.”\n\nBefore she could explain, someone entered the room.\n\n“I'll call you tomorrow,” she whispered.\n\nBut that call never came.\n\nInstead, Emily ended up unconscious in a hospital bed.\n\nFor months, I sat beside her, refusing to give up hope.\n\nDaniel and Patricia repeatedly mocked my visits.\n\nThey assumed I was a helpless, grieving mother who had no idea what was really happening.\n\nWhat neither of them knew was that I'd spent twenty-seven years investigating financial crimes before retiring.\n\nI'd examined fraudulent transactions, uncovered hidden accounts, and dealt with powerful people who believed their money could protect them from consequences.\n\nI knew how to recognize suspicious financial activity.\n\nAnd I knew that people with dangerous secrets often revealed more than they intended when they thought nobody was watching.\n\nThat evening, while Daniel argued with hospital staff about entering Emily's room, I quietly slipped into the stairwell.\n\nI took out my phone and called Rebecca Shaw, a former colleague who worked as a federal financial investigator.\n\n“Rebecca,” I whispered, “I think my son-in-law may have deliberately hurt my daughter.”\n\nShe went silent.\n\nThen she asked, “Margaret, what do you need me to do?”\n\nI looked through the glass toward Daniel, who was pacing nervously outside Emily's hospital room.\n\nI took a deep breath.\n\n“First, I need your help opening a safe.”\n\nTO BE CONTINUED IN THE FIRST COMMENT. 👇\"",
+    "wp_media_id": 601,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-2347-mix.jpg"
+   },
+   "source_key": "post:100064230806326_1556838546467157",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 00:00": {
    "langs": {},
@@ -6673,6 +6766,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-22 12:00",
    "status": "used"
+  },
+  "post:100064230806326_1556838546467157": {
+   "fingerprint": "56890aad8d41f280b3c9",
+   "link": "https://www.facebook.com/story.php?story_fbid=1556838546467157&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 23:47",
+   "status": "reserved"
   },
   "post:100066526927953_1230477055846514": {
    "fingerprint": "3ffb836f972ddd299f2a",

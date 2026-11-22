@@ -19751,7 +19751,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-22T23:47:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/777515957_1629385911913435_7023938450176655950_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ACQF0xn83mEQ7kNvwHnqaYL&_nc_oc=AdqjwUy-LlbEtwk8lk3ADE5dD6It5bABuICxutYI7p7biR0vfNWAgls0N2eoiiomIZI&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=KZ1KXsu1St037Yxuv9pC1Q&_nc_tpa=Q5bMBQJvlASicf4lOg9Tp_ErLSg9hoLRx8L7dcWEmTQSuD9a91rKseSSsWqVkxtPvPuxoPyFmxZOImlRVg&oh=00_AQSbYghy7xdf9qIRfCd5oqzhKK_OYxqAwsnLiruzammClw&oe=6B093018",
+    "link": "https://www.facebook.com/story.php?story_fbid=1629385935246766&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "My 72-year-old mom's younger boyfriend always left family dinner before dessert—one night, my daughter followed him and came back in tears.\nMy seventy-two-year-old mom had been alone for eleven years when she met Richard, a charming fifty-seven-year-old man at her community gardening club.\nWithin months, I saw a version of Mom I thought we'd lost with Dad. She bought a red dress, started wearing perfume again, and sometimes smiled at her phone like a teenager.\nRichard seemed wonderful too. He brought her flowers, repaired her porch railing without being asked, and treated my fifteen-year-old daughter, Chloe, kindly.\nThere was just one thing none of us understood.\nHe never stayed past 7:30 p.m., which seemed strange for a fifty-seven-year-old man who supposedly lived alone and answered to nobody.\nRichard joined us for Sunday dinner almost every week, but around seven, he'd start checking his watch. By 7:25, his leather briefcase would already be in his hand.\nHis explanations changed constantly.\nOnce, he had to call an overseas client at exactly eight. Another Sunday, his neighbor supposedly needed help taking medication. The following week, a plumber was somehow coming to his house at night.\nIndividually, the excuses sounded possible. Together, they sounded ridiculous.\nEven stranger, after six months of dating, Mom had never been invited inside his house. Chloe had also noticed twice that he drove south after dinner when he supposedly lived twenty minutes north.\nWe started wondering whether Richard had another woman—or even another family.\nMom refused to believe it.\nThen, during her birthday dinner, Richard checked his watch just as she brought out the chocolate pie she'd made especially for him.\n7:26.\n\"\"I'm sorry, sweetheart. I have to go.\"\"\nMom's smile disappeared.\n\"\"Can't you stay ten minutes? It's my birthday.\"\"\n\"\"I really can't.\"\"\nHe kissed her cheek, grabbed his briefcase, and hurried outside.\nChloe watched him through the window.\nA moment later, she mumbled something about needing to run out and disappeared too.\nNearly forty minutes passed.\nThen our front door burst open.\nChloe stood there, crying.\nAnd clutched against her chest was Richard's leather briefcase.\n\"\"Chloe, where did you get THAT?\"\"\nShe shook her head.\n\"\"Don't ask how I got it. You need to see what he hides in here... and why he never stays past 7:30.\"\"\nShe put the briefcase on the table and opened it.\nMom looked inside.\nHer hand flew to her mouth.\n\"\"Oh my God...\"\"\nThen Chloe wiped her tears and whispered,\n\"\"Grandma, that's not even the worst part. I saw who he takes this to.\"\"\nThe full story continues in the comments section👇",
+    "wp_media_id": 968,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-2347-it.jpg"
+   },
+   "source_key": "post:100045261260562_1629385935246766",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 00:00": {
    "langs": {},
@@ -20014,6 +20030,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-13 00:00",
    "status": "used"
+  },
+  "post:100045261260562_1629385935246766": {
+   "fingerprint": "f8f749cc5a4b240d9667",
+   "link": "https://www.facebook.com/story.php?story_fbid=1629385935246766&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-22 23:47",
+   "status": "reserved"
   },
   "post:100045261260562_1698682471650445": {
    "fingerprint": "805fb8b83171cdb61fb9",

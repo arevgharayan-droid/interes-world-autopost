@@ -12248,7 +12248,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-22T23:47:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/845924437_1681370116715014_500751051307022255_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6No_UnID3zMQ7kNvwFiyaxg&_nc_oc=AdoyI_6740WXccn6jV9Nlx0uS3D0m_VT-qTfHaZRNIuek2mhUNkGIQWMVKZ9_ozaU1s&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=IjTi3Iu4KLU9sCi-xKoDZg&_nc_tpa=Q5bMBQKUzzbM3blBp3O5y4qtASVTEann44oD_AAzmYkq5w7XUQab3G4iKM7ezbMtPKYKURJqLMrom8W9rQ&oh=00_AQR89Y9usvO7NcFrrMOxxl62GvNW0SuFNr_haISRl--tvw&oe=6B091FF0",
+    "link": "https://www.facebook.com/story.php?story_fbid=1681547693363923&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "\"GET OUT! YOU'RE NOTHING WITHOUT US!\" my father screamed, throwing my backpack onto the porch. I was only seventeen. My mother watched silently while my brother laughed. Then our 71-year-old neighbor stepped outside and whispered five words: \"You can stay with me.\" I broke down crying. Nine years later, my parents appeared at my office, begging for $400,000. My father smiled confidently until I turned my laptop toward him. His face went completely pale...\n\n\"Get out! You're seventeen now, and we're done wasting money on you!\" my father screamed before slamming the front door.\n\nI stood on the porch with one backpack, nowhere to sleep, and tears running down my face. Then our seventy-one-year-old neighbor stepped outside and said five words that changed my life forever.\n\n\"You can stay with me.\"\n\nMy name is Sarah Mitchell, and nine years ago, those words were the only thing standing between me and homelessness.\n\nMy parents never wanted a daughter.\n\nThey wanted someone who would obey, clean, cook, and never complain.\n\nMy younger brother, Tyler, received everything.\n\nA new car at sixteen. Expensive clothes. Private tutoring.\n\nI received secondhand textbooks and lectures about gratitude.\n\nThe final argument started when I won a full academic scholarship to a prestigious university.\n\nMy father, Richard, wanted me to decline it.\n\n\"You're staying here and helping with the family business,\" he announced.\n\nMy mother nodded.\n\n\"Tyler needs your help more than you need college.\"\n\nI refused.\n\nThat was my crime.\n\nThe following evening, Dad packed my clothes into a faded backpack and threw it onto the porch.\n\n\"You're nothing without us!\"\n\nMy mother watched from the doorway.\n\nShe didn't intervene.\n\nMy brother laughed through the window.\n\nI stood outside for twenty minutes, trembling.\n\nThen Mrs. Eleanor Whitaker appeared.\n\nShe was seventy-one, widowed, and lived in the small white house next door.\n\nShe had always been kind, occasionally leaving homemade cookies on our doorstep.\n\nBut that night, she became something much more.\n\n\"You can stay with me,\" she repeated.\n\nI started crying.\n\n\"I don't have any money.\"\n\nShe gently took my backpack.\n\n\"Sweetheart, I didn't ask.\"\n\nShe brought me inside, made hot chocolate, and covered my shoulders with a blanket.\n\nThen she called a trusted family attorney to arrange appropriate temporary care and involve the necessary authorities because I was still seventeen.\n\nWithin days, she helped establish a lawful guardianship arrangement.\n\nFor the first time in my life, someone asked what I wanted for my future.\n\n\"Engineering,\" I whispered.\n\nShe smiled.\n\n\"Then we'll make you an engineer.\"\n\nI didn't know it then, but Eleanor had a secret.\n\nAnd years later, that secret would become the reason my parents regretted abandoning me.\n--To be continued in C0mments 👇",
+    "wp_media_id": 965,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-2347-nl.jpg"
+   },
+   "source_key": "post:100045261260562_1681547693363923",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 00:00": {
    "langs": {},
@@ -12543,6 +12559,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-22 20:30",
    "status": "used"
+  },
+  "post:100045261260562_1681547693363923": {
+   "fingerprint": "0ec21e061f5f457d83c7",
+   "link": "https://www.facebook.com/story.php?story_fbid=1681547693363923&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-22 23:47",
+   "status": "reserved"
   },
   "post:100045261260562_1698998888285470": {
    "fingerprint": "82ad13dcc80155984bd8",

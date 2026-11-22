@@ -10665,7 +10665,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-22T23:47:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/858481244_1532770602207285_8360355534794639223_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BOYx24arcrwQ7kNvwEzvHwY&_nc_oc=Adr__Hg8IBSV_6tL4KqQ1XmfpeRNIEbDzd0QaNM2AFsAPRIPMsYqj9XJ4IxA1TUii-U&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Ac1lpFUgCwUDyBNZphcpXg&_nc_tpa=Q5bMBQIqrqpccm5XjCAP2v2rm6IhtKL9Ha4FjicuNuLR_YMsfdIdPYIcBPRoZWEEpqXEocR_FM73OROMjg&oh=00_AQQterw_9BJ2gS15XrZ6Eqk-r3SK8sB3eHKVnuED-76H7g&oe=6B093338",
+    "link": "https://www.facebook.com/story.php?story_fbid=1532770882207257&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "“You’re wasting money, Mom! Learn to live within your means!” my son yelled, hum:iliating me in front of everyone. I smiled and didn't say anything. That night, I canceled all 16 payments I had secretly been making for him. By morning, his luxury car was being repossessed, his credit cards were declined, and his wife was screaming. Then my phone rang. “MOM! WHAT HAVE YOU DONE?!” I calmly replied, “Exactly what you told me to do.”\n\n“You’re living too extravagantly, Mom. Maybe you should learn to survive on less,” my son sneered across the dinner table. Twelve hours later, his luxury SUV was being repossessed, his credit cards were useless, and his wife was screaming into my voicemail.\n\nMy name is Evelyn Carter. I’m sixty-nine years old, a widow, and apparently the most financially irresponsible woman in my family.\n\nAt least, that's what my son, Brandon, wanted everyone to believe.\n\nIt started at my birthday dinner.\n\nI had bought myself a beautiful sapphire necklace, my first expensive personal purchase in nearly ten years.\n\nBrandon stared at it like I had committed a crime.\n\n“Seriously, Mom? Jewelry at your age?”\n\nHis wife, Melissa, laughed.\n\n“She probably thinks money grows on trees.”\n\nI slowly put down my fork.\n\n“It's my money.”\n\nBrandon shook his head.\n\n“That's exactly your problem. You don't understand financial responsibility.”\n\nThe restaurant fell quiet.\n\nHe continued loudly enough for neighboring tables to hear.\n\n“You should downsize, stop shopping, and start saving. You won't always have someone protecting you.”\n\nI stared at the man I had raised.\n\nSomeone protecting me?\n\nFor eleven years, I had quietly funded the lifestyle he loved showing off.\n\nHis luxury SUV. His wife's leased Mercedes. Their country club membership. Their children's private school tuition. Their insurance premiums.\n\nEven the mortgage on their enormous house.\n\nBrandon believed those payments were automatic benefits of our family investments.\n\nHe never bothered asking where the money originated.\n\nAfter my husband died, I inherited his manufacturing company and eventually sold it for twenty-eight million dollars.\n\nBrandon knew about the sale.\n\nWhat he didn't know was how carefully I had protected the proceeds.\n\nEvery payment I made for him came from accounts in my name.\n\nEvery major vehicle was leased through arrangements I controlled.\n\nAnd every unnecessary expense could be canceled.\n\nAfter dinner, Melissa stopped me beside the parking lot.\n\n“Evelyn, don't embarrass Brandon again. He's trying to teach you some discipline.”\n\nI looked at her expensive handbag.\n\n“I'll remember that.”\n\nShe smiled smugly.\n\n“Good.”\n\nThat night, I sat at my kitchen table with my laptop.\n\nI opened sixteen recurring payment instructions.\n\nOne by one, I canceled them or scheduled their termination, including the luxury vehicle arrangements that would soon expire.\n\nThen I emailed my financial manager.\n\n“Effective immediately, no more discretionary support for Brandon Carter.”\n\nHis reply arrived within minutes.\n\n“Are you absolutely certain?”\n\nI looked at the sapphire necklace resting beside my computer.\n\n“Yes,” I typed. “It's time my son learned financial responsibility.”\n\n--To be continued in C0mments 👇",
+    "wp_media_id": 967,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-2347-fr.jpg"
+   },
+   "source_key": "post:100064230806326_1532770882207257",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 00:00": {
    "langs": {},
@@ -11033,6 +11049,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-22 20:30",
    "status": "used"
+  },
+  "post:100064230806326_1532770882207257": {
+   "fingerprint": "99411ae2153429650e84",
+   "link": "https://www.facebook.com/story.php?story_fbid=1532770882207257&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 23:47",
+   "status": "reserved"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
