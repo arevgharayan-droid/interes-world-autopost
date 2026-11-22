@@ -18909,12 +18909,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116793091328231_1644321827424562",
        "error": null,
        "last_attempt": "2026-11-22T18:20:11+04:00",
        "mode": "immediate",
        "photo_id": "122116793067328231",
        "post_id": "1106793902521611_122116793091328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Přišla na naše zasnoubení ve vybledlých šatech, za které jsem se styděla. Pak mi v toaletách řekla pravý důvod",
@@ -18923,6 +18925,7 @@
      ],
      "wp_error": null,
      "wp_id": 949,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -18948,21 +18951,25 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133373167302250_3787750588043399",
        "error": null,
        "last_attempt": "2026-11-22T18:12:11+04:00",
        "mode": "immediate",
        "photo_id": "122133373119302250",
        "post_id": "1012250151981057_122133373167302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141702642808945_1144158178200976",
        "error": null,
        "last_attempt": "2026-11-22T18:10:08+04:00",
        "mode": "immediate",
        "photo_id": "122141702618808945",
        "post_id": "1030877436782212_122141702642808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
@@ -18977,21 +18984,25 @@
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131768761306132_1434993242134207",
        "error": null,
        "last_attempt": "2026-11-22T18:13:30+04:00",
        "mode": "immediate",
        "photo_id": "122131768737306132",
        "post_id": "1068567606345452_122131768761306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128382949305584_1132350986448909",
        "error": null,
        "last_attempt": "2026-11-22T18:17:17+04:00",
        "mode": "immediate",
        "photo_id": "122128382925305584",
        "post_id": "1078100405390763_122128382949305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -19006,57 +19017,69 @@
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134156995308548_1135053226170719",
        "error": null,
        "last_attempt": "2026-11-22T18:12:51+04:00",
        "mode": "immediate",
        "photo_id": "122134156971308548",
        "post_id": "1086658774532679_122134156995308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123311323296683_29852601644346064",
        "error": null,
        "last_attempt": "2026-11-22T18:11:30+04:00",
        "mode": "immediate",
        "photo_id": "122123311299296683",
        "post_id": "1087342844462554_122123311323296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130271011300251_1818167619225026",
        "error": null,
        "last_attempt": "2026-11-22T18:16:45+04:00",
        "mode": "immediate",
        "photo_id": "122130270987300251",
        "post_id": "1093003583899107_122130271011300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114878892601707_2044246229573964",
        "error": null,
        "last_attempt": "2026-11-22T18:15:30+04:00",
        "mode": "immediate",
        "photo_id": "122114878868601707",
        "post_id": "1099258949937246_122114878892601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142267416811401_1683717249948755",
        "error": null,
        "last_attempt": "2026-11-22T18:09:28+04:00",
        "mode": "immediate",
        "photo_id": "122142267392811401",
        "post_id": "1114015015119414_122142267416811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105180996533031_1417806140335284",
        "error": null,
        "last_attempt": "2026-11-22T18:14:50+04:00",
        "mode": "immediate",
        "photo_id": "122105180972533031",
        "post_id": "1128937866962526_122105180996533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
@@ -19082,21 +19105,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130885015314630_1682420019916896",
        "error": null,
        "last_attempt": "2026-11-22T18:14:11+04:00",
        "mode": "immediate",
        "photo_id": "122130884991314630",
        "post_id": "1149681171551323_122130885015314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123244915318395_2069601193557460",
        "error": null,
        "last_attempt": "2026-11-22T18:16:11+04:00",
        "mode": "immediate",
        "photo_id": "122123244891318395",
        "post_id": "1159996950522974_122123244915318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -19111,30 +19138,36 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129402355300955_1427565532780906",
        "error": null,
        "last_attempt": "2026-11-22T18:10:49+04:00",
        "mode": "immediate",
        "photo_id": "122129402331300955",
        "post_id": "1160240797163045_122129402355300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126639781301482_2114597362537236",
        "error": null,
        "last_attempt": "2026-11-22T18:17:50+04:00",
        "mode": "immediate",
        "photo_id": "122126639757301482",
        "post_id": "1174674892385169_122126639781301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126592591405175_1164712116136839",
        "error": null,
        "last_attempt": "2026-11-22T18:08:49+04:00",
        "mode": "immediate",
        "photo_id": "122126592567405175",
        "post_id": "1191480207389219_122126592591405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
@@ -19166,39 +19199,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126908233304793_1616075386453690",
        "error": null,
        "last_attempt": "2026-11-22T18:19:47+04:00",
        "mode": "immediate",
        "photo_id": "122126908209304793",
        "post_id": "1079800528556354_122126908233304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114408144359745_1880728189616763",
        "error": null,
        "last_attempt": "2026-11-22T18:18:23+04:00",
        "mode": "immediate",
        "photo_id": "122114408120359745",
        "post_id": "1083785318156771_122114408144359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123291475302807_1466732398720731",
        "error": null,
        "last_attempt": "2026-11-22T18:18:57+04:00",
        "mode": "immediate",
        "photo_id": "122123291439302807",
        "post_id": "1089456087587677_122123291475302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141788857313481_1458829719000812",
        "error": null,
        "last_attempt": "2026-11-22T18:19:25+04:00",
        "mode": "immediate",
        "photo_id": "122141788833313481",
        "post_id": "1107966229066828_122141788857313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mama przyszła na obiad zaręczynowy w starej, wyblakłej sukience. Kiedy w toalecie powiedziała mi, dlaczego, zapomniałam o wstydzie",
@@ -19207,6 +19248,7 @@
      ],
      "wp_error": null,
      "wp_id": 948,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -19242,7 +19284,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1800-it.jpg"
    },
    "source_key": "post:100064230806326_1501820811968931",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
