@@ -13441,6 +13441,12 @@
        "photo_id": "122337798602241259",
        "post_id": "233545296514172_122337798626241259",
        "status": "published"
+      },
+      "530022363528890": {
+       "attempts": 1,
+       "last_attempt": "2026-11-22T20:32:09+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "My Husband Hid Me From His Boss Because I Looked Like a \"Neglected Old Woman\" — Then the Boss Came Back and Said Four Words That Changed Everything",

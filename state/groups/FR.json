@@ -10438,7 +10438,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-22T20:32:03+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Elle a jeté ma fille de 4 ans sur le parquet à Pâques, sans savoir que l'enveloppe dans mon sac leur ferait perdre leur maison",
      "warnings": [],
      "wp_error": null,

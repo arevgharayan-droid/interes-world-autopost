@@ -15,6 +15,7 @@
   "17bbf28063304bc8e308": "2026-11-17T12:28:51+00:00",
   "19a57f6af7fdd9942bfb": "2026-11-19T19:58:46+00:00",
   "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
+  "20a11149af6c5503382f": "2026-11-22T16:32:05+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
   "2aa9f772fe9ff6d1ed19": "2026-11-21T10:17:43+00:00",
@@ -25,6 +26,7 @@
   "33b23e888b18caa14bba": "2026-11-22T14:04:30+00:00",
   "3b79121acdb58cc4cc71": "2026-11-21T19:44:42+00:00",
   "3cd0bbe178487279f165": "2026-11-20T14:41:44+00:00",
+  "3f62142a218418288411": "2026-11-22T16:32:05+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
   "459bbfad275aecbd52c3": "2026-11-21T14:12:51+00:00",
   "45d99698e588bacd7f5c": "2026-11-18T08:52:43+00:00",
@@ -32,6 +34,7 @@
   "4d09f6c7134467d99fa5": "2026-11-16T23:51:59+00:00",
   "50234f1f193de2230c6f": "2026-11-21T14:12:51+00:00",
   "52860ad6d022a2bd90ef": "2026-11-17T10:38:47+00:00",
+  "55e8cd8f9d5e0e076dd4": "2026-11-22T16:32:05+00:00",
   "5925113003b25213dc5b": "2026-11-15T14:13:20+00:00",
   "59ba199024c504005873": "2026-11-13T10:14:50+00:00",
   "5b6a7d17142717d971b6": "2026-11-17T12:28:51+00:00",
@@ -19294,7 +19297,88 @@
   },
   "2026-11-22 20:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Rodila jsem dvojčata sama, zatímco manžel slavil s milenkou v domě, který jsem zachránila já. Pak přijela armáda",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 962,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi ha consegnato il divorzio in ospedale dopo il parto dei gemelli, ma non sapeva chi fossi davvero: tre giorni dopo, davanti a casa sua, un colonnello è tornato con la scorta",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 960,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Podpisałam papiery rozwodowe w szpitalu, a trzy dni później pod domem teściów stanął wojskowy konwój",
+     "warnings": [
+      "длина текста FB 678 слов (исходник 826, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 961,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T20:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/742186161_1436699448481068_3143000712123197172_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DTpi1vyg7m0Q7kNvwG-J0Ob&_nc_oc=Adp6NKQR35vlNOYi8LrgKbbYffNeuUdXpVoXmrbawPAlmsYbp4OoF4LFeZCLV0_xLUE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Sokdw6bu9wUJta-c-ENtAA&_nc_tpa=Q5bMBQJ1QAGfIW44M8Xx8kZm0leBwY3fKBtbW5pKuw7-Q9zhDvlDWi_rSzYkU02N321R6BS4BWy46ztIlQ&oh=00_AQTXrk3LtAHNBl4OAlXwhgjiC-eFEdmmkLKMKvQN6qj8ag&oe=6B08E0DE",
@@ -19306,7 +19390,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-2030-it.jpg"
    },
    "source_key": "post:100064230806326_1437334075084272",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -19666,7 +19750,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 20:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1445104960973850": {
    "fingerprint": "f968f30b5cf5d6a6d3b9",
