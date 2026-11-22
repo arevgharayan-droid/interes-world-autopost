@@ -6500,7 +6500,10 @@
      "generated": true,
      "pages": {},
      "title": "أربعة أشهر سخروا مني وأنا أمسك بيد ابنتي الغائبة عن الوعي، وفي ليلة واحدة فتحت عينيها وهمست: \"لا تدعي دانيال يعلم",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 605,
+     "wp_status": "publish"
     },
     "CS": {
      "pages": {},
@@ -6551,7 +6554,10 @@
      "generated": true,
      "pages": {},
      "title": "Soțul și soacra își băteau joc de mama care stătea lângă fiica în comă, până când Emily a deschis ochii și a șoptit: „Seiful... în spatele tabloului",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 604,
+     "wp_status": "publish"
     },
     "RU": {
      "backend": "subscription",
@@ -6573,6 +6579,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-22T23:47:00+04:00",
    "source": {
     "image_url": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/903313015_1556838519800493_7138431555596346088_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Ki2LwasqzREQ7kNvwH4KXsE&_nc_oc=AdqSKJJGI1NoXuRwM8kIYKtDgaZpkzWUZyFKmUGEAhKUTiAyZMp122D-s2ve72L9TBo&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=G975S_0p5KQB8ZUV9Jxnzg&_nc_tpa=Q5bMBQLi74_NUzixqCZ_8PnAUf024SFYn7K07x4t-c7V1YviB8duoaN7oGfi-y75dFEE8odksj2xMoxT2Q&oh=00_AQSxNL5wLD70BYaFKO8F38MaDJncp8c3IBArrqhslmEJVw&oe=6B09075B",
@@ -6584,7 +6591,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-2347-mix.jpg"
    },
    "source_key": "post:100064230806326_1556838546467157",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -6779,7 +6786,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 23:47",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066526927953_1230477055846514": {
    "fingerprint": "3ffb836f972ddd299f2a",
