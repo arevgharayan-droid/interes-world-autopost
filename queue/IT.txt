@@ -120,3 +120,13 @@ https://www.facebook.com/story.php?story_fbid=1501820811968931&id=10006423080632
 https://www.facebook.com/story.php?story_fbid=1437334075084272&id=100064230806326
 # 22.11.2026: внеочередной («Հիմա», сообщение 23:46)
 https://www.facebook.com/story.php?story_fbid=1629385935246766&id=100045261260562
+# 23.11.2026: 12:00
+https://www.facebook.com/story.php?story_fbid=1722433022608723&id=100045261260562
+# 23.11.2026: 15:00
+https://www.facebook.com/story.php?story_fbid=1326525072831840&id=100064230806326
+# 23.11.2026: 18:00
+https://www.facebook.com/story.php?story_fbid=1674297460755613&id=100045261260562
+# 23.11.2026: 21:00
+https://www.facebook.com/story.php?story_fbid=1688258559359503&id=100045261260562
+# 23.11.2026: 00:00 (24.11)
+https://www.facebook.com/story.php?story_fbid=1690624162456276&id=100045261260562
