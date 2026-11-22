@@ -47,16 +47,19 @@
   "696ac8bfafbb80f4597b": "2026-11-22T21:17:18+00:00",
   "697bf1e866b0d768ab37": "2026-11-18T22:49:45+00:00",
   "6d23ba98be07175e84bf": "2026-11-20T14:41:48+00:00",
+  "6e8045cb6246a1b6be62": "2026-11-22T21:29:29+00:00",
   "6f7aeb7cd42f63728918": "2026-11-20T19:26:13+00:00",
   "704e349d3d23b38ec128": "2026-11-19T14:08:16+00:00",
   "70c05379b999f4d41de6": "2026-11-18T15:24:21+00:00",
   "724e0627e5a1d92bef00": "2026-11-21T10:17:16+00:00",
   "72cfa8c608946a546f2e": "2026-11-18T18:56:12+00:00",
   "7599ebffd8f3d4caa6ef": "2026-11-18T08:52:49+00:00",
+  "7dc33c4d8f5a77db8910": "2026-11-22T21:29:29+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
   "8059428dfc5fc80b5e65": "2026-11-21T14:13:33+00:00",
   "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
   "82d4fe5bd6831b3ce279": "2026-11-21T17:04:01+00:00",
+  "836a363d9724ee5ae37a": "2026-11-22T21:29:29+00:00",
   "839d2c1cc7df4856d81d": "2026-11-18T22:20:58+00:00",
   "83e0ecc2ed03651d9650": "2026-11-20T14:41:48+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
@@ -102,6 +105,7 @@
   "d14043f3b91f3d7be5bb": "2026-11-21T19:44:56+00:00",
   "d305c96ab228138b6cd5": "2026-11-20T19:26:13+00:00",
   "d3eb8ba6065409a69dcd": "2026-11-20T16:46:26+00:00",
+  "dd60386fd5aa045d1aeb": "2026-11-22T21:29:29+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e1b66eb6a566198daa27": "2026-11-17T17:52:42+00:00",
   "e245fd7320627341a5e4": "2026-11-18T22:49:45+00:00",
@@ -7128,9 +7132,111 @@
    }
   },
   "2026-11-23 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "أنتِ لستِ مهمة بما يكفي لتحدثيني!\" أهانتني أمام ثلاثين ضيفًا، فألغيتُ صفقة بـ420 مليون دولار بمكالمة واحدة",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 627,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Me dijeron que no era lo bastante importante para hablar con ellos, hasta que cancelé una adquisición de 420 millones de dólares delante de todos",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 625,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nu ești suficient de importantă ca să-mi vorbești!” Soacra fiicei mele m-a umilit în fața a 30 de invitați, dar un singur telefon a schimbat totul",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 626,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Будущая свекровь унизила мать невесты при тридцати гостях, а через минуту её мужу позвонили из-за сорванной сделки на 420 миллионов",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 624,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/847553777_1680879710097388_4564081250009053402_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zvjdKPE1KtwQ7kNvwED1Vzf&_nc_oc=AdocyzkCTJ_IzReiZpJxC3e1uW9VaB9Wtkt4S6Oap7orAbMUdpKr_LFgbj9sTmIBPi4&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=_bsrnigUeArLLmfDJq1-8w&_nc_tpa=Q5bMBQKjcZKsh8WaEXRG4Fg4R5yzl44UtaCHjtFhCq6SzIbh1ABOxX0mNqdhEooEZ7ThUDE5CqDAMEZE9g&oh=00_AQSw6KiAcHDSCl2kwTvRawmXAGKzwYbvEkuXJNbdxQNd_A&oe=6B0941A9",
+    "link": "https://www.facebook.com/story.php?story_fbid=1680880160097343&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "\"YOU'RE NOT IMPORTANT ENOUGH TO SPEAK TO ME!\"\" my daughter's future mother-in-law yelled in front of thirty wealthy guests. Her husband laughed, \"\"Perhaps you'd be more comfortable with the staff.\"\" My daughter nearly cried. I simply smiled, picked up my phone, and said, \"\"Michael, cancel the $420 million acquisition. Immediately.\"\" Seconds later, her husband's phone rang. His face turned ghostly white. \"\"WAIT... YOU'RE CATHERINE BENNETT?!\"\" he gasped. But the worst news hadn't arrived yet...\n\n\"\"You're not important enough to speak to me,\"\" my daughter's future mother-in-law announced, cutting off my introduction.\n\nThirty wealthy guests went silent, and I realized the woman insulting me had no idea who was financing her husband's billion-dollar ambitions.\n\nMy name is Catherine Bennett. I'm fifty-eight, a widow, and the founder of a private investment firm based in Boston.\n\nBut that evening, I was simply Emma's mother.\n\nMy daughter was engaged to Andrew Whitmore, the charming thirty-two-year-old son of two prominent corporate executives.\n\nHis father, Richard Whitmore, ran a manufacturing conglomerate. His mother, Victoria, was CEO of an upscale retail company.\n\nThey owned mansions, collected expensive art, and treated ordinary people like furniture.\n\nI'd agreed to attend their engagement dinner at their estate outside Greenwich, Connecticut.\n\nEmma had warned me they were difficult.\n\nI hadn't expected cruelty.\n\nWhen Victoria asked what I did for a living, I smiled.\n\n\"\"I work in investments, primarily helping businesses grow.\"\"\n\nShe examined my simple navy dress.\n\n\"\"How quaint.\"\"\n\nI extended my hand.\n\n\"\"Catherine Bennett. It's lovely to finally meet you.\"\"\n\nShe didn't take it.\n\nInstead, she turned toward another guest.\n\n\"\"You're not important enough to speak to me.\"\"\n\nSomeone laughed nervously.\n\nEmma's face turned scarlet.\n\n\"\"Victoria, that's my mother!\"\"\n\n\"\"Precisely,\"\" Victoria answered. \"\"And she should understand that certain conversations are above her station.\"\"\n\nAndrew stared at his champagne glass.\n\nHe said nothing.\n\nRichard approached, smiling.\n\n\"\"Come now, Victoria. We shouldn't embarrass our guests.\"\"\n\nThen he looked directly at me.\n\n\"\"Perhaps you'd be more comfortable speaking with the household staff.\"\"\n\nMy daughter's eyes filled with tears.\n\nSomething inside me went cold.\n\nFor twenty-seven years, I'd built my investment company after my husband died suddenly.\n\nI'd raised Emma alone, worked eighteen-hour days, and quietly accumulated controlling stakes in several successful businesses.\n\nI never advertised my wealth.\n\nMoney had never impressed me.\n\nCharacter did.\n\nAnd I'd just learned everything I needed about the Whitmores.\n\nI took out my phone.\n\nRichard chuckled.\n\n\"\"Calling your driver?\"\"\n\n\"\"No,\"\" I answered.\n\nI selected my chief investment officer's number.\n\n\"\"Michael, cancel the Whitmore acquisition. Withdraw our preliminary offer and suspend further negotiations.\"\"\n\nRichard stopped smiling.\n\nVictoria turned around.\n\n\"\"What did you just say?\"\"\n\nI slipped the phone into my handbag.\n\n\"\"Exactly what you heard.\"\"\n\nThen Richard's phone began ringing.\n\nAnd when he recognized the caller, his face was priceless.\n--To be continued in C0mments 👇",
+    "wp_media_id": 623,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-1800-mix.jpg"
+   },
+   "source_key": "post:100045261260562_1680880160097343",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 21:00": {
    "langs": {},
@@ -7151,6 +7257,7 @@
    "status": "skipped"
   },
   "link:06236baa894b6e5fc917": {},
+  "link:178b198ccc9e2afbb645": {},
   "link:39b9396305a928e376e4": {},
   "link:482755492e860caa0373": {
    "link": "https://www.facebook.com/share/p/1JihSRDE4s/",
@@ -7210,6 +7317,14 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-22 20:30",
+   "status": "used"
+  },
+  "post:100045261260562_1680880160097343": {
+   "fingerprint": "d65c3bf6d45a7e223486",
+   "link": "https://www.facebook.com/story.php?story_fbid=1680880160097343&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-23 18:00",
    "status": "used"
   },
   "post:100045261260562_1700942794757746": {
