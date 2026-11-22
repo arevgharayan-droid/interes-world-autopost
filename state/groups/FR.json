@@ -25,6 +25,7 @@
   "69c3ac847b66c7a0472e": "2026-11-17T17:51:44+00:00",
   "6d1360b71c35b272374f": "2026-11-21T14:12:53+00:00",
   "6ea240ce08a9828f6d3b": "2026-11-21T19:44:46+00:00",
+  "6ef6e1fee3c933942094": "2026-11-22T21:17:15+00:00",
   "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
   "7a8b9787a9038db6d1c3": "2026-11-10T22:06:09+00:00",
   "82146aa95a8c25effbbd": "2026-11-10T22:03:44+00:00",
@@ -10915,7 +10916,74 @@
    "status": "missed"
   },
   "2026-11-23 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ma mère a humilié mon bébé devant toute la famille à Noël, alors j'ai repris chaque cadeau et je suis partie",
+     "warnings": [
+      "длина текста FB 1137 слов (исходник 967, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 985,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/838818578_1518124017005277_3780240296325644585_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_Uzp1V3nZMMQ7kNvwF6Ts3n&_nc_oc=AdpXe_LpAEwuzd9L4et63l6LWsjPRxVnSg-x_EadzgFHHEJ_YrLqVE2d4MskBjZOiNo&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fCm1Bgxswshe0gy321OBUQ&_nc_tpa=Q5bMBQJM2xyEe-TLpWPSD9Q0eWPioAgSxnlEQGuGGn3m27tlZt7aOq-DTdWj1OmFUdkkwCHOe4WkwmeLag&oh=00_AQTHIHHOdHDgFcBJ11jfxLFAJNorAFbWMGEKg8Wqv9H25w&oe=6B091879",
@@ -10927,7 +10995,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1200-fr.jpg"
    },
    "source_key": "post:100064230806326_1518124223671923",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11296,7 +11364,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1520762226741456": {
    "fingerprint": "a52366f88acfa4766dbc",

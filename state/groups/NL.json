@@ -42,6 +42,7 @@
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
   "51ed2d668f83bd64e5b9": "2026-11-21T14:13:09+00:00",
   "5215bc8037371581d0af": "2026-11-22T16:32:11+00:00",
+  "587ace5848a338139c99": "2026-11-22T21:17:16+00:00",
   "5902057f0f114c578fb0": "2026-11-20T16:46:47+00:00",
   "5baf059a2cf94b9c1bc6": "2026-11-21T10:17:21+00:00",
   "611c7e4517c03c81dabc": "2026-11-19T10:26:43+00:00",
@@ -69,6 +70,7 @@
   "97323cd5e0665a1c91cb": "2026-11-17T10:52:26+00:00",
   "98ed0f869b67d7d406ea": "2026-11-10T22:05:36+00:00",
   "9c78715925df820d8556": "2026-11-19T14:07:53+00:00",
+  "9cccf2b5be38effe7634": "2026-11-22T21:17:16+00:00",
   "9d46e8fea6457743c2b6": "2026-11-22T14:04:34+00:00",
   "9ebaa99cdb5b7bfedbf0": "2026-11-18T18:56:13+00:00",
   "a05041cc410db1a5d901": "2026-11-19T10:26:43+00:00",
@@ -12545,7 +12547,72 @@
    "status": "missed"
   },
   "2026-11-23 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Noch ein Wort über mein Geld, und Schluss mit höflich\": Wie eine Soldatin am Esstisch ihrer Stiefmutter die Stirn bot und drei Tage später die ganze Wahrheit erfuhr",
+     "warnings": []
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ik keek mijn vader recht aan en waarschuwde hem: nog één woord van mijn stiefmoeder over mijn legergeld en het is afgelopen met de beleefdheid",
+     "warnings": []
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-23T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/747191144_1441957224621957_7162768071523407987_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Tvj6xekJ9UAQ7kNvwHWqlgK&_nc_oc=Adpi0qb3MOEqvu9RaxwipgDc73vTfQgJn8epRX_LAWdL2Jehw6yGuRX6UysEnrX4JTw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=iqU0zSP4SaFgLXkMsnq3Hg&_nc_tpa=Q5bMBQIEw8hpbrgtFzThQdA0Ui3ejXN-OmoCgZXhx3jFSMsMmYWHyl4E9BVah4Q1ZFONwd_dGCaV-Gp8AQ&oh=00_AQQnmGMOAy1VYjii-z5oJ1Ias4L6qAYKN4hT1mj5udeYWQ&oe=6B091800",
