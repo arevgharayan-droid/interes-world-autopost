@@ -18404,36 +18404,43 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129585295306316_3173405999530915",
        "error": null,
        "last_attempt": "2026-11-22T18:21:24+04:00",
        "mode": "immediate",
        "photo_id": "122129585259306316",
        "post_id": "1138572272664180_122129585295306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119919025471857_2446418229435647",
        "error": null,
        "last_attempt": "2026-11-22T18:21:02+04:00",
        "mode": "immediate",
        "photo_id": "122119919001471857",
        "post_id": "1338630212673029_122119919025471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122676421505599_1165767002629935",
        "error": null,
        "last_attempt": "2026-11-22T18:20:41+04:00",
        "mode": "immediate",
        "photo_id": "122122676397505599",
        "post_id": "1448441201677530_122122676421505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ele não lutou pela guarda das nossas quatro filhas e foi apresentar o filho da amante como herdeiro, mas a empregada apareceu com um recibo e a festa virou um pesadelo",
      "warnings": [],
      "wp_error": null,
      "wp_id": 586,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -18704,40 +18711,47 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125220475304633_1869091900913876",
        "error": null,
        "last_attempt": "2026-11-22T18:19:53+04:00",
        "mode": "immediate",
        "photo_id": "122125220451304633",
        "post_id": "1083701291497481_122125220475304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128502991311884_1183740014609685",
        "error": null,
        "last_attempt": "2026-11-22T18:19:03+04:00",
        "mode": "immediate",
        "photo_id": "122128502961311884",
        "post_id": "1129620776897151_122128502991311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127856437307134_1872774854145452",
        "error": null,
        "last_attempt": "2026-11-22T18:19:30+04:00",
        "mode": "immediate",
        "photo_id": "122127856413307134",
        "post_id": "1164575726728296_122127856437307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124252387305562_29637203792569982",
        "error": null,
        "last_attempt": "2026-11-22T18:20:17+04:00",
        "mode": "immediate",
        "photo_id": "122124252363305562",
        "post_id": "1180583925128715_122124252387305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Boşandığı Gün Dört Kızını Alıp Gitti, Aynı Akşam Eski Kayınvalidesinin Bahçesinde Evin Hizmetçisi Her Şeyi Ortaya Döktü",
@@ -18766,7 +18780,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-1800-ru.jpg"
    },
    "source_key": "post:100044802900629_1606060957563986",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
