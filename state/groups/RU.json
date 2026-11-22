@@ -31,6 +31,7 @@
   "21906656fcce609e6170": "2026-11-20T14:41:36+00:00",
   "230cd00d6980ef22fb86": "2026-11-20T22:45:49+00:00",
   "257eec644da23ef7d3ca": "2026-11-21T14:13:00+00:00",
+  "27c68c846bc4be467b2b": "2026-11-22T21:17:23+00:00",
   "285546559f89fcbaefe2": "2026-11-15T10:15:20+00:00",
   "2918f58ba47afcae805f": "2026-11-15T14:15:11+00:00",
   "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
@@ -84,6 +85,8 @@
   "70f1397700ba9303490e": "2026-11-13T14:37:39+00:00",
   "7190bb9b1a6b1f4049a8": "2026-11-09T13:27:14+00:00",
   "72de7386867e661b1a44": "2026-11-16T16:01:05+00:00",
+  "72f76b7b820e96c8b960": "2026-11-22T21:17:23+00:00",
+  "7339795cbd24430bf250": "2026-11-22T21:17:23+00:00",
   "73d864bb7b93d90f8cd1": "2026-11-18T08:52:36+00:00",
   "76d5322eded92004a16e": "2026-11-10T22:03:12+00:00",
   "76e6b04d54d754094e2a": "2026-11-21T14:13:00+00:00",
@@ -19782,7 +19785,88 @@
    "status": "missed"
   },
   "2026-11-23 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Aos 49 anos, ela acordou após uma cirurgia de emergência e viu no pescoço do médico a cruz que escondeu no cobertor do filho que perdeu 31 anos antes",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 617,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Тридцать один год я искала сына, которого у меня забрали родители, а потом хирург, спасший мне жизнь, достал из-под рубашки тот самый крестик",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 615,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "31 Yıl Önce Bebeğimi Vermeye Zorlandım; Ameliyattan Sonra Cerrahın Boynundaki Gümüş Haçı Görünce Kalbim Durdu",
+     "warnings": [
+      "длина текста FB 702 слов (исходник 933, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 616,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/869974060_1697386538446705_4722980210406577642_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GHM7AFYrcG4Q7kNvwEVV6EC&_nc_oc=Adogy9lAaoV3nRY7LCgrIQzuktF1KJbUv21MX_a0u9XsvYlTt85b1yD1YPhB0BpQzp4&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=c13c1077skkMcZz_LOXZsg&_nc_tpa=Q5bMBQLVHZL7_cKcAmrzezniP24Y0ZUvVrCw1DjPBHA4uqFK4LQ1udHJyqcESpgXzpYkG1GLhVcaXo18jA&oh=00_AQQFGZLEMVjQji6dgiOQ9U2XET6v-XHcZOllHpKtAJ-HYA&oe=6B09452D",
@@ -19794,7 +19878,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-1200-ru.jpg"
    },
    "source_key": "post:100045261260562_1697386608446698",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -20103,7 +20187,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-23 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699103431608349": {
    "fingerprint": "72333163c518fa427e98",
