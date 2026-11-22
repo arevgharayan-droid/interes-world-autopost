@@ -11774,6 +11774,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 951,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -11799,48 +11800,58 @@
      "pages": {
       "1144269682096701": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125763463304553_1500336155316446",
        "error": null,
        "last_attempt": "2026-11-22T18:07:11+04:00",
        "mode": "immediate",
        "photo_id": "122125763439304553",
        "post_id": "1144269682096701_122125763463304553",
-       "status": "published"
+       "status": "done"
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131369389424769_1136611489241210",
        "error": null,
        "last_attempt": "2026-11-22T18:09:12+04:00",
        "mode": "immediate",
        "photo_id": "122131369365424769",
        "post_id": "1180417388497186_122131369389424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131513707430924_1166983012582672",
        "error": null,
        "last_attempt": "2026-11-22T18:08:32+04:00",
        "mode": "immediate",
        "photo_id": "122131513683430924",
        "post_id": "1205543595981082_122131513707430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135483871306170_1678751610709896",
        "error": null,
        "last_attempt": "2026-11-22T18:06:32+04:00",
        "mode": "immediate",
        "photo_id": "122135483847306170",
        "post_id": "1210451145474950_122135483871306170",
-       "status": "published"
+       "status": "done"
       },
       "1239848699214091": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127857193439695_4910091109224377",
        "error": null,
        "last_attempt": "2026-11-22T18:07:52+04:00",
        "mode": "immediate",
        "photo_id": "122127857169439695",
        "post_id": "1239848699214091_122127857193439695",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,

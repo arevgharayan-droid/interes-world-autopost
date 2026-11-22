@@ -14339,12 +14339,14 @@
      "pages": {
       "1016419758218222": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122148153057204972_2353955965380005",
        "error": null,
        "last_attempt": "2026-11-22T18:06:03+04:00",
        "mode": "immediate",
        "photo_id": "122148153033204972",
        "post_id": "1016419758218222_122148153057204972",
-       "status": "published"
+       "status": "done"
       },
       "108881571809093": {
        "attempts": 1,
@@ -14366,12 +14368,14 @@
       },
       "1165836896614851": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122146275969384677_1156729323457388",
        "error": null,
        "last_attempt": "2026-11-22T18:04:28+04:00",
        "mode": "immediate",
        "photo_id": "122146275945384677",
        "post_id": "1165836896614851_122146275969384677",
-       "status": "published"
+       "status": "done"
       },
       "1167352663135230": {
        "attempts": 1,
@@ -14478,30 +14482,36 @@
       },
       "914823471720372": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122149387881209718_1669684764953377",
        "error": null,
        "last_attempt": "2026-11-22T18:04:45+04:00",
        "mode": "immediate",
        "photo_id": "122149387857209718",
        "post_id": "914823471720372_122149387881209718",
-       "status": "published"
+       "status": "done"
       },
       "921611111039858": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122145271533200344_29024189107253264",
        "error": null,
        "last_attempt": "2026-11-22T18:05:20+04:00",
        "mode": "immediate",
        "photo_id": "122145271509200344",
        "post_id": "921611111039858_122145271533200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122150844519209153_2475282979666025",
        "error": null,
        "last_attempt": "2026-11-22T18:06:44+04:00",
        "mode": "immediate",
        "photo_id": "122150844495209153",
        "post_id": "975714512286925_122150844519209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Father Mocked Me at My Sister's Wedding and Shoved Me Into a Fountain, Not Knowing the Husband I'd Hidden for Three Years Was About to Walk In",
