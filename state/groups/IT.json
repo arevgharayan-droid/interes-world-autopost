@@ -19816,18 +19816,21 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116810065328231_1728470612137709",
        "error": null,
        "last_attempt": "2026-11-23T00:04:55+04:00",
        "mode": "immediate",
        "photo_id": "122116810041328231",
        "post_id": "1106793902521611_122116810065328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Přítel mojí 72leté mámy vždycky odešel před dezertem. Když za ním šla dcera, vrátila se s jeho aktovkou a v slzách",
      "warnings": [],
      "wp_error": null,
      "wp_id": 977,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -19853,21 +19856,25 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133404037302250_1609307707181509",
        "error": null,
        "last_attempt": "2026-11-22T23:56:57+04:00",
        "mode": "immediate",
        "photo_id": "122133404013302250",
        "post_id": "1012250151981057_122133404037302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141737454808945_2374963113255504",
        "error": null,
        "last_attempt": "2026-11-22T23:54:59+04:00",
        "mode": "immediate",
        "photo_id": "122141737430808945",
        "post_id": "1030877436782212_122141737454808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
@@ -19882,21 +19889,25 @@
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131794147306132_1454820859427636",
        "error": null,
        "last_attempt": "2026-11-22T23:58:18+04:00",
        "mode": "immediate",
        "photo_id": "122131794123306132",
        "post_id": "1068567606345452_122131794147306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128409337305584_2174598173132308",
        "error": null,
        "last_attempt": "2026-11-23T00:01:50+04:00",
        "mode": "immediate",
        "photo_id": "122128409313305584",
        "post_id": "1078100405390763_122128409337305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -19911,57 +19922,69 @@
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134198131308548_2120773731907923",
        "error": null,
        "last_attempt": "2026-11-22T23:57:38+04:00",
        "mode": "immediate",
        "photo_id": "122134198101308548",
        "post_id": "1086658774532679_122134198131308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123328837296683_3811324012349651",
        "error": null,
        "last_attempt": "2026-11-22T23:56:19+04:00",
        "mode": "immediate",
        "photo_id": "122123328813296683",
        "post_id": "1087342844462554_122123328837296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130291399300251_1630136311434051",
        "error": null,
        "last_attempt": "2026-11-23T00:01:18+04:00",
        "mode": "immediate",
        "photo_id": "122130291375300251",
        "post_id": "1093003583899107_122130291399300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114896382601707_2318687015619901",
        "error": null,
        "last_attempt": "2026-11-23T00:00:07+04:00",
        "mode": "immediate",
        "photo_id": "122114896358601707",
        "post_id": "1099258949937246_122114896382601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142301820811401_1459191615752201",
        "error": null,
        "last_attempt": "2026-11-22T23:54:20+04:00",
        "mode": "immediate",
        "photo_id": "122142301790811401",
        "post_id": "1114015015119414_122142301820811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105187464533031_29217200507974145",
        "error": null,
        "last_attempt": "2026-11-22T23:59:32+04:00",
        "mode": "immediate",
        "photo_id": "122105187428533031",
        "post_id": "1128937866962526_122105187464533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
@@ -19987,21 +20010,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130922209314630_2594518781049550",
        "error": null,
        "last_attempt": "2026-11-22T23:58:59+04:00",
        "mode": "immediate",
        "photo_id": "122130922185314630",
        "post_id": "1149681171551323_122130922209314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123271585318395_4576795459202489",
        "error": null,
        "last_attempt": "2026-11-23T00:00:42+04:00",
        "mode": "immediate",
        "photo_id": "122123271561318395",
        "post_id": "1159996950522974_122123271585318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -20016,21 +20043,25 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129422665300955_1148998887758545",
        "error": null,
        "last_attempt": "2026-11-22T23:55:39+04:00",
        "mode": "immediate",
        "photo_id": "122129422641300955",
        "post_id": "1160240797163045_122129422665300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126677341301482_2455805821891888",
        "error": null,
        "last_attempt": "2026-11-23T00:02:25+04:00",
        "mode": "immediate",
        "photo_id": "122126677317301482",
        "post_id": "1174674892385169_122126677341301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
@@ -20075,45 +20106,54 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126933223304793_1086089314448144",
        "error": null,
        "last_attempt": "2026-11-23T00:04:33+04:00",
        "mode": "immediate",
        "photo_id": "122126933199304793",
        "post_id": "1079800528556354_122126933223304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114421974359745_1134493816008884",
        "error": null,
        "last_attempt": "2026-11-23T00:03:02+04:00",
        "mode": "immediate",
        "photo_id": "122114421950359745",
        "post_id": "1083785318156771_122114421974359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123310237302807_918864977882704",
        "error": null,
        "last_attempt": "2026-11-23T00:03:35+04:00",
        "mode": "immediate",
        "photo_id": "122123310213302807",
        "post_id": "1089456087587677_122123310237302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141816085313481_1440683194845129",
        "error": null,
        "last_attempt": "2026-11-23T00:04:04+04:00",
        "mode": "immediate",
        "photo_id": "122141816061313481",
        "post_id": "1107966229066828_122141816085313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Młodszy chłopak mojej 72-letniej mamy zawsze znikał przed deserem. Gdy wnuczka pobiegła za nim, wróciła we łzach i z jego aktówką w rękach",
      "warnings": [],
      "wp_error": null,
      "wp_id": 976,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -20149,7 +20189,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-2347-it.jpg"
    },
    "source_key": "post:100045261260562_1629385935246766",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
