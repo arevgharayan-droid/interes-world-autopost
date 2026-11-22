@@ -64,6 +64,7 @@
   "55c68668d71f5fde2cc3": "2026-11-17T12:29:11+00:00",
   "5618275c15c5eed06004": "2026-11-09T19:59:32+00:00",
   "56b10fd7cd3d1bca37f0": "2026-11-17T17:52:52+00:00",
+  "56e4adfb3a5ff83561a9": "2026-11-22T22:08:29+00:00",
   "59a8c94efb9a24d75d95": "2026-11-18T18:30:01+00:00",
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5b204109299ad4dcd429": "2026-11-12T20:02:43+00:00",
@@ -95,6 +96,7 @@
   "78229d059b1f03d27989": "2026-11-09T20:08:16+00:00",
   "788e0e4a8634b7c3a3a3": "2026-11-10T22:05:49+00:00",
   "7970cd008ee6e52ce2bc": "2026-11-18T22:20:46+00:00",
+  "7a8a80996216afc6152d": "2026-11-22T22:08:29+00:00",
   "7a8fd36d00723b018f69": "2026-11-16T23:52:12+00:00",
   "7b3c2db1ce97e02b8057": "2026-11-22T16:32:00+00:00",
   "7e7d87c648bf2747328c": "2026-11-22T16:32:00+00:00",
@@ -152,6 +154,7 @@
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
   "c24d2247a48deeca4338": "2026-11-22T16:32:00+00:00",
   "c4a184a2f318ec90e101": "2026-11-19T08:31:53+00:00",
+  "c5807d8e5cb187f95ff1": "2026-11-22T22:08:29+00:00",
   "cd020394bd98ae198dbd": "2026-11-22T14:04:32+00:00",
   "ce9b469d5e589f4050b1": "2026-11-22T19:48:34+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
@@ -21063,7 +21066,90 @@
    }
   },
   "2026-11-23 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Expulsa com uma mala velha após o funeral do marido, ela não sabia que a carta no bolso destruiria a família Monroe",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 649,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Свекровь вышвырнула вдову на улицу с одним чемоданом, не зная, какую тайну муж спрятал в её кармане",
+     "warnings": [
+      "длина текста FB 381 слов (исходник 472, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 647,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kayınvalidesi Cenazeden Sonra Onu Eski Bir Bavulla Sokağa Attı, Ama Kocasının Ceketine Bıraktığı Mektup Her Şeyi Değiştirecekti",
+     "warnings": [
+      "длина текста FB 330 слов (исходник 472, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 648,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/643880233_1483281013190593_6898376219835205104_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kywL1iWJ1_gQ7kNvwGdI_eE&_nc_oc=AdprPVIZDfuhSI2kd-hm8F22DZkWuUCf3AsQSL-uvOudU3yb3-Lef6VtcMJeR2Isu50&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=zkka4kcCQcW7AuWsJREyuQ&_nc_tpa=Q5bMBQIZ5sXoo1aKiusvh0ACa7EWpLkx5Z2PpFE0jLlUMnyTC5KEcpGKNTQW1DQfV4qvpeFJm7c2aSI3rw&oh=00_AQRfcbqnsD0AG_npoCs6zqxDNtQqW2D3zSRofYCSv9aQzw&oe=6B0922BA",
@@ -21075,7 +21161,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-2100-ru.jpg"
    },
    "source_key": "post:100045261260562_1483281243190570",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -21364,7 +21450,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-23 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1692783712240321": {
    "fingerprint": "913ce270a7c791d385c7",
