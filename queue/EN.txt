@@ -113,3 +113,5 @@ https://www.facebook.com/story.php?story_fbid=1631049155065166&id=10004480290062
 https://www.facebook.com/story.php?story_fbid=1005177905962495&id=100094108842537
 # 22.11.2026: «Հիմա» (сообщение 18:02) — в выпуск 18:00
 https://www.facebook.com/story.php?story_fbid=1601988637971218&id=100044802900629
+# 22.11.2026: внеочередной 20:30 («Հիմա»)
+https://www.facebook.com/story.php?story_fbid=1088006870597990&id=100081660603136
