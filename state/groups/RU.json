@@ -89,6 +89,8 @@
   "788e0e4a8634b7c3a3a3": "2026-11-10T22:05:49+00:00",
   "7970cd008ee6e52ce2bc": "2026-11-18T22:20:46+00:00",
   "7a8fd36d00723b018f69": "2026-11-16T23:52:12+00:00",
+  "7b3c2db1ce97e02b8057": "2026-11-22T16:32:00+00:00",
+  "7e7d87c648bf2747328c": "2026-11-22T16:32:00+00:00",
   "7f161e8140c5e01c01eb": "2026-11-18T18:30:01+00:00",
   "80517b7021da26730a52": "2026-11-18T15:24:43+00:00",
   "822b3e6fa186814bd262": "2026-11-12T17:48:06+00:00",
@@ -137,6 +139,7 @@
   "c10c30cd53689834d2f0": "2026-11-21T17:03:58+00:00",
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
+  "c24d2247a48deeca4338": "2026-11-22T16:32:00+00:00",
   "c4a184a2f318ec90e101": "2026-11-19T08:31:53+00:00",
   "cd020394bd98ae198dbd": "2026-11-22T14:04:32+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
@@ -18790,7 +18793,87 @@
   },
   "2026-11-22 20:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Perdi a mansão e o dinheiro para os meus filhos, mas ao dar o último que tinha a uma família na neve, descobri o segredo do meu marido",
+     "warnings": []
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Дети оставили вдову с одной лишь старой хижиной, а она отдала её замерзающей семье, и под полом нашли тайну мужа",
+     "warnings": [
+      "длина текста FB 964 слов (исходник 1150, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 595,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kocam ölünce çocuklarım beni meteliksiz bıraktı, elimde sadece eski bir kulübe kaldı; onu üşüyen bir aileye verdim, haftalar sonra altında bulunan kapak her şeyi değiştirdi",
+     "warnings": [
+      "длина текста FB 831 слов (исходник 1150, цель ±10%)",
+      "длина статьи 560 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 597,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-22T20:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/860299932_1692735948911764_1869915209088177239_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MnHhKUGU-8EQ7kNvwG_N-yd&_nc_oc=AdqvWMHW4pXG1vjpThNeoBc4A6oKPY-EZXKwiT51L2cQwcZxZuyyEiw5qmGOgcqLPFM&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GETv2Qilb3XgAiVeXyMkfw&_nc_tpa=Q5bMBQJkXDjRPOesoCkNhgX4DCu9eIB-ZghKI8zKI-jBca2e9omH4QnUiSoY4gcjP-ao6rjA3UIsff73fg&oh=00_AQRBZA1h-tO_vG0Xe5j_qnIZcohWMN45gQop3dyLOzTh8g&oe=6B08E386",
