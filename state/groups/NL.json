@@ -11668,7 +11668,10 @@
      "generated": true,
      "pages": {},
      "title": "Eine Woche vor der Hochzeit verschwand mein Verlobter spurlos und ließ mich mit seinen 5 Kindern zurück – 30 Jahre später stand sein Anwalt vor meiner Tür",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 951,
+     "wp_status": "publish"
     },
     "EN": {
      "pages": {},
@@ -11722,6 +11725,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-22T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/784354372_1587012502802165_3512356165905408402_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ja9m_sT3FRIQ7kNvwEjlzB2&_nc_oc=AdrupwKbR0YOeklhWlqYMXDExVWItUoecHU_bK75ev4AzUy4sU-WsisO5VFF7ecqsQ8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=EqtCcuYQuR4I5qiFEknVaw&_nc_tpa=Q5bMBQLo6n9LvmcInFSYHX2taA0xhS5nWDke2VDOc_jvisSWqOMojEZ3WRlaZAXkpM-mbIJQDgiFnFWfoQ&oh=00_AQTxhE_6xEbxXU7xqGjwVoBPrl71wxNIS0yxhN-Q2BfrTw&oe=6B08AE08",
@@ -11733,7 +11737,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1800-nl.jpg"
    },
    "source_key": "post:100044802900629_1587013016135447",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11970,7 +11974,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-22 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100044802900629_1623379742498774": {
    "fingerprint": "a424fbed0c34d74b1e2d",
