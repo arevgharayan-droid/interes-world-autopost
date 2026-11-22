@@ -21065,7 +21065,23 @@
   "2026-11-23 21:00": {
    "langs": {},
    "slot_iso": "2026-11-23T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/643880233_1483281013190593_6898376219835205104_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kywL1iWJ1_gQ7kNvwGdI_eE&_nc_oc=AdprPVIZDfuhSI2kd-hm8F22DZkWuUCf3AsQSL-uvOudU3yb3-Lef6VtcMJeR2Isu50&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=zkka4kcCQcW7AuWsJREyuQ&_nc_tpa=Q5bMBQIZ5sXoo1aKiusvh0ACa7EWpLkx5Z2PpFE0jLlUMnyTC5KEcpGKNTQW1DQfV4qvpeFJm7c2aSI3rw&oh=00_AQRfcbqnsD0AG_npoCs6zqxDNtQqW2D3zSRofYCSv9aQzw&oe=6B0922BA",
+    "link": "https://www.facebook.com/story.php?story_fbid=1483281243190570&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "“Get out of here, you wretch!” The mother-in-law kicked her out into the street with an old suitcase after the funeral, never imagining the secret her son had left hidden in her pocket…\n\nPart 1 — Thrown Out With a Suitcase\nThe door slammed hard enough to rattle the stained-glass sidelights, and Lucia Vega found herself on a cold sidewalk with one worn suitcase at her feet.\n\nInside was her whole life: patched jeans, a few T-shirts, and the only framed photo she still had of Dr. Edward Monroe—the husband she’d buried three months ago.\n\n“Don’t come back, you trash!” Margaret Monroe screamed from the balcony of the stone mansion, fingers grazing a pearl necklace worth more than Lucia had ever earned. “My son isn’t here to protect you anymore. You don’t belong here!”\n\nLucia didn’t turn around. She refused to give them the satisfaction of watching her break, even though she could feel herself splintering inside.\n\nFor three years, she’d lived in that house as Edward’s wife and the Monroe family’s tolerated mistake—the housekeeper’s daughter, the stain on a perfect bloodline. They’d only behaved because Edward had made it clear: nobody touched her. Nobody humiliated her.\n\nBut Edward was gone—a “car accident” on a mountain road—and the wolves had been waiting for the day his protection disappeared.\n\nThen Richard Monroe, Edward’s older brother and the man who controlled the family money, walked down the driveway with a yellow envelope and a smile that didn’t reach his eyes.\n\n“Here,” he said, tossing it onto the asphalt like a bone. “Ten thousand dollars. Sign the waiver. Walk away from the estate. Disappear.”\n\nLucia stared at the envelope as wind worried its corners.\n\n“I don’t want your money,” she said, voice shaking but steady as she grabbed her suitcase handle. “I just needed time. I’m alone.”\n\n“That’s your problem,” Richard snapped. “You have until the gates close to get off my property.”\n\nLucia walked toward the bus stop without looking back once.\n\nBut halfway down the street, her hand slid inside her old jacket—into the inner pocket where a sealed letter pressed against her heart.\n\nEdward had given it to her weeks before he died.\n\nAnd he’d said one thing, strange enough that she’d laughed it off at the time:\n\n“Only open this if one day I’m not around… and you feel cornered.”\n\nOn the bus, Lucia held that letter like a hidden blade.\n\nThe Monroes thought they’d stripped her down to nothing.\n\nThey didn’t know she was carrying the one thing that could collapse their entire empire.\n\n1️⃣ Like this post\n2️⃣ Tap ALL COMMENTS\n3️⃣ Click the \"Most relevant\" to read the full story",
+    "wp_media_id": 646,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-2100-ru.jpg"
+   },
+   "source_key": "post:100045261260562_1483281243190570",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 00:00": {
    "langs": {},
@@ -21246,6 +21262,7 @@
    "link": "https://www.facebook.com/share/p/1WCxvo95CW/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1660558355447579&id=100044802900629"
   },
+  "link:f00d790ad58f6c9524bc": {},
   "link:f00e673e05bbf73e25c1": {},
   "link:f4e24c5746a9fc65c2a8": {
    "link": "https://www.facebook.com/share/p/1EhJLVhddX/",
@@ -21340,6 +21357,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-21 21:00",
    "status": "used"
+  },
+  "post:100045261260562_1483281243190570": {
+   "fingerprint": "ca28c8727f12ba680936",
+   "link": "https://www.facebook.com/story.php?story_fbid=1483281243190570&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-23 21:00",
+   "status": "reserved"
   },
   "post:100045261260562_1692783712240321": {
    "fingerprint": "913ce270a7c791d385c7",
