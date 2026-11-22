@@ -67,12 +67,14 @@
   "97323cd5e0665a1c91cb": "2026-11-17T10:52:26+00:00",
   "98ed0f869b67d7d406ea": "2026-11-10T22:05:36+00:00",
   "9c78715925df820d8556": "2026-11-19T14:07:53+00:00",
+  "9d46e8fea6457743c2b6": "2026-11-22T14:04:34+00:00",
   "9ebaa99cdb5b7bfedbf0": "2026-11-18T18:56:13+00:00",
   "a05041cc410db1a5d901": "2026-11-19T10:26:43+00:00",
   "a333d126c2a07536f0f3": "2026-11-13T10:14:57+00:00",
   "a373ece8d16ef871e0a9": "2026-11-09T20:07:46+00:00",
   "a964ea608100bdcf9bf6": "2026-11-18T15:23:57+00:00",
   "aa92d1f8736cff43c0f0": "2026-11-19T19:58:54+00:00",
+  "aedb3670a0e95e3b4e8e": "2026-11-22T14:04:34+00:00",
   "afa3a18208d092faed7a": "2026-11-16T23:51:32+00:00",
   "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
   "b924e8960efa86262e90": "2026-11-12T20:02:32+00:00",
@@ -11651,7 +11653,75 @@
    "status": "missed"
   },
   "2026-11-22 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Eine Woche vor der Hochzeit verschwand mein Verlobter spurlos und ließ mich mit seinen 5 Kindern zurück – 30 Jahre später stand sein Anwalt vor meiner Tür",
+     "warnings": []
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn verloofde verdween een week voor onze bruiloft en liet vijf kinderen achter. Dertig jaar later stond zijn advocaat voor mijn deur met een envelop",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 950,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-22T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/784354372_1587012502802165_3512356165905408402_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ja9m_sT3FRIQ7kNvwEjlzB2&_nc_oc=AdrupwKbR0YOeklhWlqYMXDExVWItUoecHU_bK75ev4AzUy4sU-WsisO5VFF7ecqsQ8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=EqtCcuYQuR4I5qiFEknVaw&_nc_tpa=Q5bMBQLo6n9LvmcInFSYHX2taA0xhS5nWDke2VDOc_jvisSWqOMojEZ3WRlaZAXkpM-mbIJQDgiFnFWfoQ&oh=00_AQTxhE_6xEbxXU7xqGjwVoBPrl71wxNIS0yxhN-Q2BfrTw&oe=6B08AE08",

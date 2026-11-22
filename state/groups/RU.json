@@ -18345,7 +18345,10 @@
      "generated": true,
      "pages": {},
      "title": "Ele não lutou pela guarda das nossas quatro filhas e foi apresentar o filho da amante como herdeiro, mas a empregada apareceu com um recibo e a festa virou um pesadelo",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 586,
+     "wp_status": "publish"
     },
     "RO": {
      "pages": {},
@@ -18359,7 +18362,10 @@
      "title": "Он не стал бороться за четырёх дочерей и отдал им лишь «алименты», а вечером на празднике в честь «наследника» экономка достала конверт и квитанцию",
      "warnings": [
       "длина текста FB 685 слов (исходник 850, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 584,
+     "wp_status": "publish"
     },
     "TR": {
      "backend": "subscription",
@@ -18369,13 +18375,17 @@
      "title": "Boşandığı Gün Dört Kızını Alıp Gitti, Aynı Akşam Eski Kayınvalidesinin Bahçesinde Evin Hizmetçisi Her Şeyi Ortaya Döktü",
      "warnings": [
       "длина текста FB 626 слов (исходник 850, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 585,
+     "wp_status": "publish"
     },
     "UK": {
      "pages": {},
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-22T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/802858374_1604927037677378_2348757686312726146_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Xzth3T8seHUQ7kNvwEpL_sQ&_nc_oc=AdqUfxwvBYIo5XQAGCmD7h0ymdMYQc2-Oc6ZnWbe6fkesMij5aTXaFQuBEhNuqNq1tI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=uGzizP0dXr8Am22BU2ayEQ&_nc_tpa=Q5bMBQIkLJfK11p592Pm3mE7_P_BXBsL3Jni94riF8ye0Gg3Ypgiyxf7OsJJ_ZptblCHOHP2AUgLsc_MXA&oh=00_AQR-8-UjSuyttrisqPCbAEuL51Hl0QWJG5BEsXAE5Z7o1A&oe=6B08B91A",
@@ -18387,7 +18397,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-1800-ru.jpg"
    },
    "source_key": "post:100044802900629_1606060957563986",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -18632,7 +18642,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-22 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100044802900629_1660558355447579": {
    "fingerprint": "7a0f4a00da2e016a2568",

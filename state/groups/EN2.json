@@ -13193,6 +13193,12 @@
        "photo_id": "122176256960720509",
        "post_id": "530022363528890_122176257014720509",
        "status": "published"
+      },
+      "994273113779575": {
+       "attempts": 1,
+       "last_attempt": "2026-11-22T18:04:34+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "My Mother Told Me I Was Always Grandma's Least Favorite at the Will Reading, Until a Silver-Haired Lawyer Opened a Second Envelope",
