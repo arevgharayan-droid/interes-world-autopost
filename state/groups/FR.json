@@ -10465,48 +10465,58 @@
      "pages": {
       "1011074408765807": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105610248536431_1765250171441652",
        "error": null,
        "last_attempt": "2026-11-22T20:35:20+04:00",
        "mode": "immediate",
        "photo_id": "122105610212536431",
        "post_id": "1011074408765807_122105610248536431",
-       "status": "published"
+       "status": "done"
       },
       "1032441206625600": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118072332633539_1852712819379929",
        "error": null,
        "last_attempt": "2026-11-22T20:34:41+04:00",
        "mode": "immediate",
        "photo_id": "122118072278633539",
        "post_id": "1032441206625600_122118072332633539",
-       "status": "published"
+       "status": "done"
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144377412738075_2303071813605171",
        "error": null,
        "last_attempt": "2026-11-22T20:38:04+04:00",
        "mode": "immediate",
        "photo_id": "122144377376738075",
        "post_id": "1041497042386258_122144377412738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109571586457428_1889031182459910",
        "error": null,
        "last_attempt": "2026-11-22T20:39:23+04:00",
        "mode": "immediate",
        "photo_id": "122109571550457428",
        "post_id": "1058598924006917_122109571586457428",
-       "status": "published"
+       "status": "done"
       },
       "106591088255968": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1479203647682365_1124074003798199",
        "error": null,
        "last_attempt": "2026-11-22T20:36:00+04:00",
        "mode": "immediate",
        "photo_id": "1479203614349035",
        "post_id": "106591088255968_1479203647682365",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -10521,12 +10531,14 @@
       },
       "1103884436136482": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105594798536887_1807820823757391",
        "error": null,
        "last_attempt": "2026-11-22T20:37:22+04:00",
        "mode": "immediate",
        "photo_id": "122105594762536887",
        "post_id": "1103884436136482_122105594798536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
@@ -10563,21 +10575,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130629193441679_2881995805534591",
        "error": null,
        "last_attempt": "2026-11-22T20:36:42+04:00",
        "mode": "immediate",
        "photo_id": "122130629157441679",
        "post_id": "1260826840455724_122130629193441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130430407425731_1668709014701157",
        "error": null,
        "last_attempt": "2026-11-22T20:38:45+04:00",
        "mode": "immediate",
        "photo_id": "122130430371425731",
        "post_id": "1280413955154689_122130430407425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Elle a jeté ma fille de 4 ans sur le parquet à Pâques, sans savoir que l'enveloppe dans mon sac leur ferait perdre leur maison",
@@ -10632,7 +10648,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-2030-fr.jpg"
    },
    "source_key": "post:100064230806326_1520762226741456",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

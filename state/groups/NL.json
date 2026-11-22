@@ -12069,6 +12069,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 964,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -12094,66 +12095,80 @@
      "pages": {
       "1144269682096701": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125772943304553_1969190794453576",
        "error": null,
        "last_attempt": "2026-11-22T20:34:53+04:00",
        "mode": "immediate",
        "photo_id": "122125772919304553",
        "post_id": "1144269682096701_122125772943304553",
-       "status": "published"
+       "status": "done"
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131387173424769_1154887920463455",
        "error": null,
        "last_attempt": "2026-11-22T20:36:53+04:00",
        "mode": "immediate",
        "photo_id": "122131387149424769",
        "post_id": "1180417388497186_122131387173424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131532085430924_1485159063553999",
        "error": null,
        "last_attempt": "2026-11-22T20:36:11+04:00",
        "mode": "immediate",
        "photo_id": "122131532061430924",
        "post_id": "1205543595981082_122131532085430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135499999306170_1824677265349055",
        "error": null,
        "last_attempt": "2026-11-22T20:34:13+04:00",
        "mode": "immediate",
        "photo_id": "122135499975306170",
        "post_id": "1210451145474950_122135499999306170",
-       "status": "published"
+       "status": "done"
       },
       "1239848699214091": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127870981439695_29453727770932188",
        "error": null,
        "last_attempt": "2026-11-22T20:35:32+04:00",
        "mode": "immediate",
        "photo_id": "122127870957439695",
        "post_id": "1239848699214091_122127870981439695",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122224173836930012_2713986432382422",
        "error": null,
        "last_attempt": "2026-11-22T20:32:49+04:00",
        "mode": "immediate",
        "photo_id": "122224173812930012",
        "post_id": "633031599904551_122224173836930012",
-       "status": "published"
+       "status": "done"
       },
       "715935674934966": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122203787480922316_981241838003124",
        "error": null,
        "last_attempt": "2026-11-22T20:33:32+04:00",
        "mode": "immediate",
        "photo_id": "122203787456922316",
        "post_id": "715935674934966_122203787480922316",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Toen opa het gezicht van mijn pasgeboren dochter zag, begon hij te huilen: \"Dit kan niet waar zijn",
