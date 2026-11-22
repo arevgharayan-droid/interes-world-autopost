@@ -13696,7 +13696,10 @@
      "generated": true,
      "pages": {},
      "title": "I Climbed Into the Wrong Black Mercedes After a 24-Hour Nursing Shift and a Stranger Threw Me Out, but the Next Morning in Room 407 He Couldn't Look Me in the Eye",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 971,
+     "wp_status": "publish"
     },
     "ES": {
      "pages": {},
@@ -13739,6 +13742,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-22T23:47:00+04:00",
    "source": {
     "image_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/907833817_1720062149512477_4174277620439600700_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kc9Omr41fewQ7kNvwFGMMPg&_nc_oc=AdqEiyBnMuwFSU528FhpQqzUHhsVfLk5BW3HnAzcmt-ZQEiXzlsjJAmUzIjHOOQcDvM&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=3q4XSCTrw3TRFN8J0Kzmnw&_nc_tpa=Q5bMBQJAAuHDe66oumOonMij5vRemI6afGj-FLVTN3ssnzo2bvj7_DAjb-4DmFXmfbBqYwg4RYGsASCJUQ&oh=00_AQQCuMUb27MhqnMAB0uHfTZvsMQYpWsTUT9gWGXfthtnKQ&oe=6B091401",
@@ -13750,7 +13754,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-2347-en2.jpg"
    },
    "source_key": "post:100045261260562_1720062862845739",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14114,7 +14118,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-22 23:47",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100050386034442_1716204673402384": {
    "fingerprint": "1af7da8547af99cafa74",

@@ -11717,3 +11717,8 @@
 {"slot": "2026-11-22 23:47", "lang": "ES", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:27+00:00", "group": "MIX"}
 {"slot": "2026-11-22 23:47", "lang": "RO", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:27+00:00", "group": "MIX"}
 {"slot": "2026-11-22 23:47", "lang": "AR", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:27+00:00", "group": "MIX"}
+{"slot": "2026-11-22 23:47", "lang": "EN", "action": "wp_post", "id": 971, "status": "publish", "t": "2026-11-22T19:48:28+00:00", "group": "EN2"}
+{"slot": "2026-11-22 23:47", "lang": "RU", "action": "wp_post", "id": 602, "status": "publish", "t": "2026-11-22T19:48:29+00:00", "group": "MIX"}
+{"slot": "2026-11-22 23:47", "lang": "NL", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:30+00:00", "group": "NL"}
+{"slot": "2026-11-22 23:47", "lang": "DE", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:48:30+00:00", "group": "NL"}
+{"slot": "2026-11-22 23:47", "lang": "ES", "action": "wp_post", "id": 603, "status": "publish", "t": "2026-11-22T19:48:30+00:00", "group": "MIX"}
