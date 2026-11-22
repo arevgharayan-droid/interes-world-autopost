@@ -11735,3 +11735,14 @@
 {"slot": "2026-11-22 23:47", "lang": "EN", "page": "1235940142932696", "action": "fb_immediate", "photo_id": "122119809783408404", "post_id": "1235940142932696_122119809807408404", "t": "2026-11-22T19:48:35+00:00", "group": "EN"}
 {"slot": "2026-11-22 23:47", "lang": "TR", "action": "wp_post", "id": 607, "status": "publish", "t": "2026-11-22T19:48:35+00:00", "group": "RU"}
 {"slot": "2026-11-22 23:47", "lang": "PT", "action": "wp_post", "id": 608, "status": "publish", "t": "2026-11-22T19:48:36+00:00", "group": "RU"}
+{"slot": "2026-11-22 23:47", "lang": "EN", "page": "233545296514172", "action": "fb_immediate", "photo_id": "122337824444241259", "post_id": "233545296514172_122337824468241259", "t": "2026-11-22T19:48:40+00:00", "group": "EN2"}
+{"slot": "2026-11-22 23:47", "lang": "RU", "page": "1003672546173662", "action": "fb_immediate", "photo_id": "122114554352602036", "post_id": "1003672546173662_122114554376602036", "t": "2026-11-22T19:48:46+00:00", "group": "MIX"}
+{"slot": "2026-11-22 23:47", "lang": "NL", "page": "633031599904551", "action": "fb_immediate", "photo_id": "122224194560930012", "post_id": "633031599904551_122224194596930012", "t": "2026-11-22T19:48:52+00:00", "group": "NL"}
+{"slot": "2026-11-22 23:47", "lang": "FR", "page": "1202025962997153", "action": "fb_immediate", "photo_id": "122122805535409328", "post_id": "1202025962997153_122122805559409328", "t": "2026-11-22T19:48:57+00:00", "group": "FR"}
+{"slot": "2026-11-22 23:47", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": ["длина статьи 995 слов"], "t": "2026-11-22T19:49:03+00:00", "group": "IT"}
+{"slot": "2026-11-22 23:47", "lang": "PL", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:49:03+00:00", "group": "IT"}
+{"slot": "2026-11-22 23:47", "lang": "CS", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T19:49:03+00:00", "group": "IT"}
+{"slot": "2026-11-22 23:47", "lang": "IT", "action": "wp_post", "id": 975, "status": "publish", "t": "2026-11-22T19:49:04+00:00", "group": "IT"}
+{"slot": "2026-11-22 23:47", "lang": "EN", "page": "1167352663135230", "action": "fb_immediate", "photo_id": "122148678735384760", "post_id": "1167352663135230_122148678759384760", "t": "2026-11-22T19:49:05+00:00", "group": "EN"}
+{"slot": "2026-11-22 23:47", "lang": "PL", "action": "wp_post", "id": 976, "status": "publish", "t": "2026-11-22T19:49:05+00:00", "group": "IT"}
+{"slot": "2026-11-22 23:47", "lang": "CS", "action": "wp_post", "id": 977, "status": "publish", "t": "2026-11-22T19:49:06+00:00", "group": "IT"}

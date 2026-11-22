@@ -16,6 +16,7 @@
   "19a57f6af7fdd9942bfb": "2026-11-19T19:58:46+00:00",
   "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
   "20a11149af6c5503382f": "2026-11-22T16:32:05+00:00",
+  "2305cc152c8bf5b805c5": "2026-11-22T19:49:03+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
   "2aa9f772fe9ff6d1ed19": "2026-11-21T10:17:43+00:00",
@@ -37,6 +38,7 @@
   "55e8cd8f9d5e0e076dd4": "2026-11-22T16:32:05+00:00",
   "5925113003b25213dc5b": "2026-11-15T14:13:20+00:00",
   "59ba199024c504005873": "2026-11-13T10:14:50+00:00",
+  "5a76175c0e8ea4b11a08": "2026-11-22T19:49:03+00:00",
   "5b6a7d17142717d971b6": "2026-11-17T12:28:51+00:00",
   "5ed1e3d3fe4b9a121c18": "2026-11-16T23:51:59+00:00",
   "60500c1dfc38f30a516c": "2026-11-16T20:28:05+00:00",
@@ -76,6 +78,7 @@
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "9491a2fcaecca6d4b3e8": "2026-11-22T14:04:30+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
+  "974f4aeedbccbb305374": "2026-11-22T19:49:03+00:00",
   "9756467f006a63dbc5a8": "2026-11-19T19:58:46+00:00",
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
   "98dd9e98fb5a18ee8918": "2026-11-19T22:00:47+00:00",
@@ -19749,7 +19752,88 @@
   },
   "2026-11-22 23:47": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Přítel mojí 72leté mámy vždycky odešel před dezertem. Když za ním šla dcera, vrátila se s jeho aktovkou a v slzách",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 977,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il fidanzato di mia madre se ne andava sempre alle 7:30, prima del dolce: quando mia figlia lo ha seguito, è tornata in lacrime con la sua valigetta",
+     "warnings": [
+      "длина статьи 995 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 975,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Młodszy chłopak mojej 72-letniej mamy zawsze znikał przed deserem. Gdy wnuczka pobiegła za nim, wróciła we łzach i z jego aktówką w rękach",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 976,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T23:47:00+04:00",
    "source": {
     "image_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/777515957_1629385911913435_7023938450176655950_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ACQF0xn83mEQ7kNvwHnqaYL&_nc_oc=AdqjwUy-LlbEtwk8lk3ADE5dD6It5bABuICxutYI7p7biR0vfNWAgls0N2eoiiomIZI&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=KZ1KXsu1St037Yxuv9pC1Q&_nc_tpa=Q5bMBQJvlASicf4lOg9Tp_ErLSg9hoLRx8L7dcWEmTQSuD9a91rKseSSsWqVkxtPvPuxoPyFmxZOImlRVg&oh=00_AQSbYghy7xdf9qIRfCd5oqzhKK_OYxqAwsnLiruzammClw&oe=6B093018",
@@ -19761,7 +19845,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-2347-it.jpg"
    },
    "source_key": "post:100045261260562_1629385935246766",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -20037,7 +20121,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-22 23:47",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698682471650445": {
    "fingerprint": "805fb8b83171cdb61fb9",
