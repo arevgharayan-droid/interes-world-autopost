@@ -6,6 +6,7 @@
   "02c45daf513c9a8ec932": "2026-11-21T22:45:36+00:00",
   "05691ada2c15180a0929": "2026-11-18T18:29:38+00:00",
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
+  "0899af47dd13160fe513": "2026-11-22T21:17:32+00:00",
   "08b0488d45dded8d095f": "2026-11-16T00:18:19+00:00",
   "0b4814997aa3da6b7d13": "2026-11-22T14:04:30+00:00",
   "0d54eec8b6a3e32a0a35": "2026-11-21T10:17:43+00:00",
@@ -18,6 +19,7 @@
   "20a11149af6c5503382f": "2026-11-22T16:32:05+00:00",
   "2305cc152c8bf5b805c5": "2026-11-22T19:49:03+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
+  "24635a53ddd9eb319000": "2026-11-22T21:17:32+00:00",
   "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
   "2aa9f772fe9ff6d1ed19": "2026-11-21T10:17:43+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
@@ -33,6 +35,7 @@
   "45d99698e588bacd7f5c": "2026-11-18T08:52:43+00:00",
   "499bb9b863a39969c565": "2026-11-17T20:38:41+00:00",
   "4d09f6c7134467d99fa5": "2026-11-16T23:51:59+00:00",
+  "4e51be650afb415ceaed": "2026-11-22T21:17:32+00:00",
   "50234f1f193de2230c6f": "2026-11-21T14:12:51+00:00",
   "52860ad6d022a2bd90ef": "2026-11-17T10:38:47+00:00",
   "55e8cd8f9d5e0e076dd4": "2026-11-22T16:32:05+00:00",
@@ -20203,7 +20206,90 @@
    "status": "missed"
   },
   "2026-11-23 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Přítel ji opustil krátce po diagnóze rakoviny, ale na maturitním plese se objevil s oholenou hlavou a v dlouhých šatech",
+     "warnings": [
+      "длина текста FB 675 слов (исходник 863, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 990,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi ha lasciata dopo la diagnosi di cancro, ma al ballo di fine anno si è presentato con la testa rasata e un lungo vestito: quando ha preso il microfono, tutto è cambiato",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 988,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Rzucił ją tydzień po diagnozie raka, a na balu maturalnym pojawił się z ogoloną głową i w sukni. To, co powiedział do mikrofonu, zmroziło salę",
+     "warnings": [
+      "длина текста FB 679 слов (исходник 863, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 989,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/913504442_1722432989275393_1278113083525390277_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=DwGiW2wu7QIQ7kNvwFwBPFk&_nc_oc=AdpT2hC7oMBXJMyBehmJtktvr7T0QdDafWpMicSKlFhLuquDvCAQwKNWotpCXRM_03o&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=Plj31CGe1TyLEuufsmTeog&_nc_tpa=Q5bMBQJtZW3-Q1q1eXO0KWSD4vvS0RMXh-lT6I0my2i-3GDCLmGP0kkQATIXSQ_SUxp3guMuMkJ_PzVvgQ&oh=00_AQTRwisKr5A5ZjaG0CQ5AHf2MJahGhcdZH587KO7ADO2ig&oe=6B092A86",
@@ -20215,7 +20301,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1200-it.jpg"
    },
    "source_key": "post:100045261260562_1722433022608723",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -20564,7 +20650,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-23 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100059505912199_1492703076056542": {
    "fingerprint": "c1d2275ae88bb298bc7b",
