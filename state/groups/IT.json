@@ -23,6 +23,7 @@
   "2305cc152c8bf5b805c5": "2026-11-22T19:49:03+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "24635a53ddd9eb319000": "2026-11-22T21:17:32+00:00",
+  "2574bb167b0f1c84e051": "2026-11-22T22:13:01+00:00",
   "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
   "2aa7b211311ac724f32e": "2026-11-22T22:07:10+00:00",
   "2aa9f772fe9ff6d1ed19": "2026-11-21T10:17:43+00:00",
@@ -32,6 +33,7 @@
   "316757cc420944c1b668": "2026-11-21T17:04:20+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
   "33b23e888b18caa14bba": "2026-11-22T14:04:30+00:00",
+  "38bfd746765ee4a3638e": "2026-11-22T22:13:01+00:00",
   "3b79121acdb58cc4cc71": "2026-11-21T19:44:42+00:00",
   "3cd0bbe178487279f165": "2026-11-20T14:41:44+00:00",
   "3f62142a218418288411": "2026-11-22T16:32:05+00:00",
@@ -141,6 +143,7 @@
   "f5c0e175c68a336e3e47": "2026-11-09T20:09:08+00:00",
   "f5fa51622000296f919b": "2026-11-19T22:00:47+00:00",
   "f88499cf7fca06c3125e": "2026-11-19T19:58:46+00:00",
+  "f8b74b7a2d0b11f1f37c": "2026-11-22T22:13:01+00:00",
   "fc7afd4f1a31db559569": "2026-11-15T10:15:15+00:00",
   "fcf4e0ed885a332215e7": "2026-11-18T18:29:38+00:00",
   "fd55d03047e1e70fc424": "2026-11-19T17:35:32+00:00",
@@ -21787,9 +21790,104 @@
    }
   },
   "2026-11-24 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Babička se na Díkuvzdání zeptala, proč v domě za milion dolarů, který mi koupila, bydlí cizí lidé – já přitom spal v autě",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1042,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mia nonna ha chiesto perché due sconosciuti vivessero nella villa da un milione di dollari che mi aveva comprato: io dormivo in auto e la mia famiglia è ammutolita",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1040,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Babcia zapytała, dlaczego obcy ludzie mieszkają w domu za milion dolarów, który mi kupiła. Ja od miesięcy spałem w samochodzie",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1041,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/855412480_1690459555806070_6081445112174457314_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YOdm8En8scYQ7kNvwF3F0SC&_nc_oc=AdobpnoIDlaRFefCdYSZFQZHbMtA6sF8l_RA15YcYrB8pGGNUvIpUrx1kSuPZJTvWG4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=T3V1dhCX36P23UC7whkU1g&_nc_tpa=Q5bMBQKYSuuAzvcr0BM_csEac8PiB0f0qSCmbQzsns6SY7KbApeZqEcuUUguICHxym0l9NOmuetKeHVjeQ&oh=00_AQRii04at7hPKXlEIZiHm-n1nhaG2mJfEGu2vPvz3y1Wzg&oe=6B095675",
+    "link": "https://www.facebook.com/story.php?story_fbid=1690624162456276&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "My grandmother asked why strangers were living in the million-dollar house she bought me—when I told her I was homeless, my family went silent\n\nThanksgiving dinner came to a sudden halt when my grandmother stood up and demanded:\n\n\"Zaden, why are two elderly strangers living in the million-dollar vacation home I purchased for you?\"\n\nI stared at her in disbelief.\n\n\"Grandma, what house? I've been sleeping in my car for months!\"\n\nMy sister's face turned white. My father dropped his knife, and my mother's smile disappeared.\n\nThen Grandma made a phone call.\n\nMinutes later, a lawyer arrived carrying a briefcase.\n\nAnd what he revealed would expose the secret my family had carefully hidden from me.\n\nMy name is Zaden Cross, and until that Thanksgiving, I'd believed my life was falling apart because of my own bad luck.\n\nI'd lost my apartment after my landlord refused to renew the lease. My credit score had mysteriously plummeted, and several promising job interviews ended without explanation.\n\nSome nights, I slept in parking lots.\n\nOther days, I skipped meals to save enough for gasoline.\n\nMeanwhile, my sister Belle enjoyed a comfortable lifestyle, and my parents constantly reminded me how disappointed they were.\n\n\"You need to grow up and take responsibility,\" Dad frequently said.\n\nMom preferred calling me emotionally unstable.\n\nBut now, sitting around Grandma Evelyn's Thanksgiving table, neither seemed interested in speaking.\n\n\"Grandma,\" I repeated, \"I don't own a vacation home.\"\n\nShe gripped her chair.\n\n\"I bought you a beautiful lakefront property in Georgia three years ago!\"\n\nMy mother's hands began trembling.\n\n\"Evelyn, perhaps you're remembering incorrectly. You've spent so much time overseas.\"\n\nGrandma narrowed her eyes.\n\n\"I know precisely what I purchased.\"\n\nDad interrupted.\n\n\"This isn't the place to discuss private financial matters.\"\n\nI turned toward him.\n\n\"Private matters? I've been homeless while apparently owning a million-dollar house!\"\n\n\"Lower your voice, Zaden!\"\n\n\"No! Someone needs to explain this!\"\n\nGrandma reached into her handbag and produced a photograph.\n\nIt showed an enormous lakeside home with floor-to-ceiling windows and a spacious wooden deck.\n\nStanding outside were my sister, her husband Logan, and an elderly couple.\n\nI recognized them immediately.\n\n\"Those are Logan's parents!\"\n\nGrandma nodded.\n\n\"They answered the door when I visited yesterday. Apparently, they've been living there quite comfortably.\"\n\nI slowly turned toward Belle.\n\n\"Your in-laws are living in my house?\"\n\nHer eyes filled with tears.\n\n\"Zaden, please. It's complicated.\"\n\n\"What's complicated about giving away something that belongs to me?\"\n\nDad slammed his hand against the table.\n\n\"You weren't responsible enough to manage valuable property! We made decisions for your own protection!\"\n\nI stared at him.\n\n\"Protection? You let me sleep in my car!\"\n\nThen Grandma asked another question.\n\n\"Zaden, why did you stop answering my letters?\"\n\nI blinked.\n\n\"What letters?\"\n\n\"I've written to you every month for three years. Your father told me you wanted nothing to do with me.\"\n\nMy stomach tightened.\n\n\"I never received a single letter.\"\n\nMom nervously twisted her napkin.\n\n\"We thought it was better to keep them until you were emotionally ready.\"\n\nI looked around the table.\n\nThey hadn't simply concealed my inheritance.\n\nThey'd deliberately kept me away from the one person trying to help.\n\nSuddenly, Grandma picked up her phone.\n\n\"Malcolm, you can come inside now.\"\n\nThe doorbell rang.\n\nA distinguished man entered carrying a leather briefcase.\n\nDad's expression changed instantly.\n\n\"Who is this?\"\n\n\"My attorney,\" Grandma replied.\n\nMalcolm opened his briefcase and placed several documents before me.\n\n\"Mr. Cross, we've discovered something extremely concerning.\"\n\nHe handed me a property deed.\n\n\"Your home was transferred to another party using what appears to be your signature.\"\n\nI examined the page.\n\nThe signature looked remarkably similar to mine.\n\nBut I'd never signed it.\n\nBelle began crying.\n\nThen Malcolm reached for another document.\n\n\"And unfortunately, Mr. Cross, the property transfer may not be the only transaction involving your identity.\"\n\nMy father's face went pale.\n\nI looked toward Grandma.\n\n\"What else did they do?\"\n\nFull story in the first comment... 👇",
+    "wp_media_id": 1039,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-it.jpg"
+   },
+   "source_key": "post:100045261260562_1690624162456276",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-10-29T16:36:25+00:00",
@@ -21923,6 +22021,7 @@
    "link": "https://www.facebook.com/share/p/14yrw3gKgBf/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1715363373315688&id=100045261260562"
   },
+  "link:bb529b537713d56c2b98": {},
   "link:c0969c643e5e3d89f655": {},
   "link:c3e1ee968b73094c565b": {
    "link": "https://www.facebook.com/share/p/1McaFWCcon/",
@@ -22054,6 +22153,14 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-23 21:00",
+   "status": "used"
+  },
+  "post:100045261260562_1690624162456276": {
+   "fingerprint": "80846ecb60b18a7447f8",
+   "link": "https://www.facebook.com/story.php?story_fbid=1690624162456276&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-24 00:00",
    "status": "used"
   },
   "post:100045261260562_1698682471650445": {
