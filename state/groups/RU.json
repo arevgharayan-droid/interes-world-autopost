@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "fb_block_until": "2026-11-14T14:14:26+04:00",
  "output_fps": {
+  "030221e7345a0804af40": "2026-11-22T21:54:31+00:00",
   "03e362655081aa4b05fb": "2026-11-18T22:20:46+00:00",
   "04468dcabed0743dca47": "2026-11-10T22:08:57+00:00",
   "0474e7d1c3adb78e01d1": "2026-11-12T20:02:43+00:00",
@@ -121,6 +122,7 @@
   "9d236a06f2c553cf0edc": "2026-11-15T14:15:11+00:00",
   "9f68477819cc7f2b978d": "2026-11-09T20:02:09+00:00",
   "a21b9dc024828d2ffa55": "2026-11-16T20:28:20+00:00",
+  "a37fe01142c5ffe55d2f": "2026-11-22T21:54:31+00:00",
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
   "a587db723316c918fb61": "2026-11-22T21:36:39+00:00",
   "a5f6cb6b12cb1a5de0de": "2026-11-16T23:52:12+00:00",
@@ -138,6 +140,7 @@
   "ba8f3a95256fb1f89569": "2026-11-14T09:18:33+00:00",
   "bbf91fc3e81dd214569b": "2026-11-17T12:29:11+00:00",
   "bd3dd864aeb563b3def7": "2026-11-17T10:39:05+00:00",
+  "bd79d7f5837e5c310fd3": "2026-11-22T21:54:31+00:00",
   "be23e984142f21e3c44a": "2026-11-14T19:42:40+00:00",
   "be38faec6f9e0849079a": "2026-11-13T10:15:12+00:00",
   "bfb817244f318e72fc69": "2026-11-16T19:28:42+00:00",
@@ -20636,9 +20639,106 @@
    }
   },
   "2026-11-23 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu filho disse que não podia pagar a cirurgia que salvaria minha visão, mas à noite minha filha adotiva bateu à porta com um envelope",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 645,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Сын отказал матери в 3500 долларов на операцию глаз, а вечером к ней пришла приёмная дочь с конвертом",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 643,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Oğlum gözlerim için para vermedi, o gece kapıma evlatlık kızım elinde mühürlü bir zarfla geldi",
+     "warnings": [
+      "длина текста FB 364 слов (исходник 561, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 644,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/765855277_1462178539266492_3838593834513348098_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WvkL7XPLjdQQ7kNvwGhPhWN&_nc_oc=AdqfZRcJxRZppLz-VKYqKnHysMr5QAhZcWU1DZKVebuiO3uLOSFADwPv6l860Gn367k&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=9SRKAW3153b-rk3ShMfpiA&_nc_tpa=Q5bMBQJmpCskjVxE4dBnf2UzMDzF3I1qa7q2SoKCsKElgyfLSm9-9KXs9b6sZcFDustq46X5a5GKo08b6w&oh=00_AQQ4QaOuqWPrBM-v3PAAA1FiyULfLx55QgRBevYogTRmig&oe=6B09396C",
+    "link": "https://www.facebook.com/story.php?story_fbid=1463688665782146&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "I needed $3,500 to protect my eyesight, but my son told me he couldn’t help because he had just bought a vacation home. Then my daughter-in-law snapped, “Stop asking my husband for money.” He hung up before I could say another word. That evening, my adopted daughter came to my door with a sealed envelope in her hand.\n\nPart 1: The Price of My Sight\n\nI needed $3,500 to save my eyesight.\n\nThat was the exact amount printed at the bottom of the estimate from Dr. Karen Miles’s office in Cleveland. My insurance refused to cover it because the procedure was “urgent but not immediately life-threatening.”\n\nI laughed when I read those words.\n\nNot because they were funny.\n\nBecause if I didn’t laugh, I would have cried right there in the clinic hallway.\n\nMy left eye had already gone cloudy. My right eye was starting to fail too. Dr. Miles leaned toward me and spoke gently.\n\n“Mrs. Bennett, if we do this within two weeks, we have a strong chance of saving your vision. If we wait too long, I can’t promise the result.”\n\nI was sixty-eight, widowed, and living alone in the small yellow house my late husband, Henry, had painted twenty years earlier. I had $412 in checking, a Social Security deposit nine days away, and a son named Marcus who sold commercial properties and posted pictures of steak dinners online.\n\nSo I called him.\n\n“Mom,” Marcus said after I explained everything, “the timing is bad.”\n\n“Bad timing?” I whispered. “Marcus, I may lose my sight.”\n\nHe sighed like I had asked for something unreasonable.\n\n“We just bought a lake house. Property isn’t cheap. We can’t spare anything right now.”\n\nBefore I could answer, his wife, Vanessa, spoke in the background.\n\n“Stop asking my husband for money, Elaine. You should have planned better.”\n\nPlanned better.\n\nAs if I had planned the disease in my eyes. As if I had planned Henry’s sudden death. As if I had planned using my retirement savings to help Marcus through college after he promised he would repay me when life became stable.\n\n“Marcus,” I said quietly. “Please.”\n\nBut he only replied, “I can’t deal with this right now,” and hung up.\n\nThat evening, rain tapped against the windows when someone knocked at my door.\n\nWhen I opened it, my adopted daughter, Lily, stood on the porch in navy nurse’s scrubs, her dark hair damp from the rain. She had been eight when Henry and I adopted her after her mother, my best friend, died.\n\nShe stepped inside and placed a sealed envelope on my kitchen table.\n\n“What is this?” I asked.\n\n“Open it after I leave,” she said softly.\n\n“Lily—”\n\n“No, Mom. Just promise me you’ll call Dr. Miles tomorrow.”\n\nThen she hugged me so tightly I felt her trembling.\n\nInside the envelope was a cashier’s check for $3,500 and a note that read:\n\nMom, you saved my life when I had no one. Let me save your sight now.\n\nThree days later, I came home from the procedure with a bandage over one eye and hope in my chest.\n\nThat was when Marcus came pounding on my door.\n\nStory continued in the comments! Drop a comment if you want to know what happens next. 👇👇",
+    "wp_media_id": 642,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-1800-ru.jpg"
+   },
+   "source_key": "post:100064230806326_1463688665782146",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 21:00": {
    "langs": {},
@@ -20686,6 +20786,7 @@
    "resolved": "https://www.facebook.com/story.php?story_fbid=122152554351350229&id=61590506886446"
   },
   "link:3803590da15e9c3b6797": {},
+  "link:3c605f33a3b730299759": {},
   "link:42070b03adb0d91e1b84": {},
   "link:42c0ddb8e0dfb12140ce": {
    "link": "https://www.facebook.com/share/p/16NPRXs4vLJ/",
@@ -21036,6 +21137,14 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 12:00",
+   "status": "used"
+  },
+  "post:100064230806326_1463688665782146": {
+   "fingerprint": "96d6368906f9c3d5c5e2",
+   "link": "https://www.facebook.com/story.php?story_fbid=1463688665782146&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 18:00",
    "status": "used"
   },
   "post:100064456312444_1605697694922092": {
