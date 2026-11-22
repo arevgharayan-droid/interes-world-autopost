@@ -23,6 +23,7 @@
   "16dff82487a20e2b89e6": "2026-11-10T22:04:40+00:00",
   "17a667176c2b4e39c2f0": "2026-11-16T20:28:19+00:00",
   "18ce6ab9d592b0877673": "2026-11-14T11:39:08+00:00",
+  "1a2b81e644a3178c5112": "2026-11-22T21:56:46+00:00",
   "1ae2df6170635ea8dab2": "2026-11-20T22:46:03+00:00",
   "1b611cc50216f8888d60": "2026-11-22T21:48:03+00:00",
   "20a7a509199cfbe519fc": "2026-11-15T14:18:37+00:00",
@@ -91,6 +92,7 @@
   "b924e8960efa86262e90": "2026-11-12T20:02:32+00:00",
   "ba5124bf926776f201e6": "2026-11-09T13:25:52+00:00",
   "bc1a8f9edd9975cdd2d1": "2026-11-22T16:32:11+00:00",
+  "c036910f5671f8e0661e": "2026-11-22T21:56:46+00:00",
   "c15e234ffa8f454c8fc9": "2026-11-17T10:52:26+00:00",
   "c45432e6978031cef601": "2026-11-13T14:37:35+00:00",
   "c7f5d2b135602dc721d7": "2026-11-15T10:15:33+00:00",
@@ -13593,7 +13595,81 @@
    }
   },
   "2026-11-24 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Neun Anrufe von der Intensivstation blieben unbeantwortet – dann stand mein Oberst mit meiner Krankenakte vor meiner Familie",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1032,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ze negeerden negen noodoproepen van hun dochter op de intensive care, maar kwamen opdagen voor haar schikking van 5 miljoen dollar",
+     "warnings": [
+      "длина статьи 1011 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1031,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/825327807_1520759093408436_5985194925596970547_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OcyJ8rMOKGcQ7kNvwEMzhHT&_nc_oc=AdoNDNpxe1QW8aecWJV0y_Hgr2eTxdfOJERZjks2xsDcFATToAjUz6mu45vOMZ9lEv0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=_aRbqxaZkhUYOuc5kCdl7g&_nc_tpa=Q5bMBQKKXMVHnEiVqcbVoH0t5Rd_EMPQG6rrRgh18M0AqKlCF5_c0tt0UOsPzBupl1ZidyGbJg0Svudo1A&oh=00_AQQRogAlO7C98MmT3SHEOyzIH72wHIgp6kWm6bxq5mfEOg&oe=6B093A64",
@@ -13605,7 +13681,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-nl.jpg"
    },
    "source_key": "post:100064230806326_1520759550075057",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14010,7 +14086,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1599735255518336": {
    "fingerprint": "c319c595abd42758fc88",
