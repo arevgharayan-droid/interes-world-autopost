@@ -13069,12 +13069,14 @@
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140108250776189_2142432563084386",
        "error": null,
        "last_attempt": "2026-11-22T02:46:02+04:00",
        "mode": "schedule",
        "photo_id": "122140108220776189",
        "post_id": "994273113779575_122140108250776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Father Shoved Me Out Into the Rain at My Own Medical School Graduation, Then the Dean Called Me \"Dr. Brooks",
@@ -13137,7 +13139,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1200-en2.jpg"
    },
    "source_key": "post:100067526447776_1311182747809261",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
