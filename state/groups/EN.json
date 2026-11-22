@@ -15551,7 +15551,23 @@
   "2026-11-23 15:00": {
    "langs": {},
    "slot_iso": "2026-11-23T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/738976663_1587623602756333_4142263999987247662_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aAQf9-JBPDIQ7kNvwEkuOqH&_nc_oc=AdqByGdlG1lRl8cnZHF95Mec5muhZZPxHGK4U_awqetbtxJ-5uUXxj77YJXX2mo-ZUU&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=z-1OnpT7I03F-ZEbRPiwDQ&_nc_tpa=Q5bMBQIU5syMgxsxLgpGA2ciL4ouTLJmDFq2yxRhAOKXHQx-KNk8yvJomxXI4E0zKHOIXR55su63buNENQ&oh=00_AQSGriZh6qbGZpS-slJDRduZ1wp9hEzwtb4BKlGvm2ilPA&oe=6B0941B1",
+    "link": "https://www.facebook.com/story.php?story_fbid=1587623816089645&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "My husband had two secret children with his assistant, and I chose to stay completely silent. But during a routine medical checkup, the doctor turned to him with a grim expression and asked, 'Has your wife still not told you?' In a split second, the smug smile wiped right off his face.\nPART 1\n\nThe first time I saw my husband carrying his secretary’s second child in his arms, I smiled so evenly that everyone assumed I had already broken inside. I hadn’t. I was counting.\n\nRichard Hawthorne thrived on admiration more than honesty. At the annual Hawthorne Meridian charity gala, he arrived with Jessica Bennett at his side—one toddler clinging to his jacket and a newborn resting against his chest. Cameras exploded with flashes. Guests leaned in, whispering. Then Richard lifted the baby higher and declared, loud enough for every donor in the room, “My legacy is expanding.”\n\nAcross the ballroom, Jessica met my eyes with a soft, precise smile—sharp enough to wound without ever raising her voice.\n\nI was his wife of nine years. I was also the woman he had publicly described as “too fragile” to give him children.\n\nPeople came to me with sympathy. I thanked them politely. His mother squeezed my hand and said, “Endure quietly, Lauren. A man needs heirs.” I nodded as though I agreed. When Richard leaned in and warned, “Don’t embarrass me tonight,” I simply looked at the children and said, “Of course not.”\n\nHe mistook my silence for surrender.\n\nFive years earlier, he had walked out of a fertility appointment he insisted I attend with him. He told the doctor, “Speak to my wife. She handles difficult information.” So the doctor did.\n\nThe diagnosis wasn’t uncertain. It wasn’t conditional. It was final—permanent infertility caused by an old childhood surgery. No chance of reversal. No ambiguity left to hide behind.\n\nI cried that day, not because of what it meant for me, but because Richard never answered my calls afterward. By nightfall, he was already at a hotel bar with Jessica—then his assistant.\n\nTwo years later, Jessica announced her pregnancy. Richard came home radiant, triumphant, cruel. “See?” he said. “The problem was never me.”\n\nI looked at him then—at his smug, certain face—and understood something simple and irreversible: the truth would never matter if I said it out loud. To him, I would always be jealous. To her, I would be infertile. To his family, I would be inconvenient.\n\nSo I stopped speaking.\n\nInstead, I started observing.\n\nI learned where the money moved. I traced invoices labeled as “client hospitality” that were actually Jessica’s apartment. I cataloged luxury purchases disguised as business expenses. I saved emails where Richard casually referred to “our children” while promising company shares that were never meant to exist.\n\nAnd then I called the attorney who had drafted our prenup—the same man I had once been before marriage turned me into his polished ornament.\n\nEverything stayed quiet until the Monday he insisted I accompany him to his executive medical review. The board required spouses at the final consultation.\n\nRichard walked in like he owned the building.\n\nHe smiled at the doctor, relaxed and confident.\n\nThe doctor opened his file, frowned, and looked up.\n\n“Hasn’t your wife told you yet?” he asked.\n\nAnd for the first time in years, Richard’s smile disappeared completely.\n\nThe story is too long to post in the caption, so just say you \"Yes\". The full story will be in the comments below.👇👇",
+    "wp_media_id": 996,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1500-en.jpg"
+   },
+   "source_key": "post:100045261260562_1587623816089645",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 18:00": {
    "langs": {},
@@ -15672,6 +15688,7 @@
    "link": "https://www.facebook.com/share/p/1EhpSkouvF/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122234851268328214&id=61559846438723"
   },
+  "link:85c68b3c3d74a8d2e779": {},
   "link:88331a6563cda9235a86": {
    "link": "https://www.facebook.com/share/p/1DMeq1rB7Z/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1669680564535358&id=100044802900629"
@@ -15824,6 +15841,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-21 21:00",
    "status": "used"
+  },
+  "post:100045261260562_1587623816089645": {
+   "fingerprint": "27036feceb7a4e2bc4d7",
+   "link": "https://www.facebook.com/story.php?story_fbid=1587623816089645&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-23 15:00",
+   "status": "reserved"
   },
   "post:100045261260562_1663797955138897": {
    "fingerprint": "5d4dd4816b11756566b7",

@@ -4,6 +4,7 @@
  "output_fps": {
   "00182ac1c19f94717b38": "2026-11-16T23:51:32+00:00",
   "046c05ed889e24fde6e8": "2026-11-10T22:03:35+00:00",
+  "04801f1de620d4d27074": "2026-11-22T21:27:39+00:00",
   "082942ddf599434d8353": "2026-11-16T20:28:19+00:00",
   "097beede44a6fb9a71b7": "2026-11-17T17:52:09+00:00",
   "0c6e8a7efc71f173e15e": "2026-11-16T10:16:48+00:00",
@@ -53,6 +54,7 @@
   "6f01f72feadb6fecb5ce": "2026-11-15T14:18:37+00:00",
   "6fcb14f617ec70672575": "2026-11-21T19:44:57+00:00",
   "71261dc1524c8f04c4de": "2026-11-21T22:45:45+00:00",
+  "7477c933eb22d1c2c473": "2026-11-22T21:27:39+00:00",
   "76987c00bbd404e3cd24": "2026-11-12T10:26:46+00:00",
   "7b147e020095c6199d1d": "2026-11-10T22:05:36+00:00",
   "81de3c9a0a991fc9bf6a": "2026-11-09T20:03:33+00:00",
@@ -12807,7 +12809,79 @@
    }
   },
   "2026-11-23 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mutter verbot ihr die Uniform bei der Trauerfeier des Vaters – dann stand ein Veteran auf und sagte etwas, das die ganze Kirche verstummen ließ",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 998,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn moeder verbood me mijn uniform te dragen op de herdenking van mijn vader, tot een veteraan uit de eerste rij opstond",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 997,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/765997598_122198854574841094_2055867998823086816_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0waIWwuc_QsQ7kNvwGPhMxD&_nc_oc=AdqsRxcx7gdbq7h8_ZXB_8g3UuG_LRu7xRfoWlXF1NVF_cVEiTOPAmkaHTYVJ6Cr5WA&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=ThiIAgq3EmXNUmx1kcVDDw&_nc_tpa=Q5bMBQL5dhuEIqJvj89Oo8I_lw2fGYaa1KJbgczQyA_tUfLUJnmTJn4YbEeXBg-QzNHqdAsRBPlROJh0Lw&oh=00_AQTxBixl74JWRgzC5DIga8obsFAsbe6lLeeMqkAGhyANBw&oe=6B092E41",
@@ -12819,7 +12893,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1500-nl.jpg"
    },
    "source_key": "post:61575232821594_122198854628841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13361,7 +13435,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-23 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130695810893096": {
    "fingerprint": "76592ca14dc5478e537f",
