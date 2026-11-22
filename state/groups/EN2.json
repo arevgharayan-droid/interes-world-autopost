@@ -13292,12 +13292,13 @@
       "673710079162922": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122245393250895613_1159516280148810",
        "error": null,
        "last_attempt": "2026-11-22T18:07:00+04:00",
        "mode": "immediate",
        "photo_id": "122245393214895613",
        "post_id": "673710079162922_122245393250895613",
-       "status": "published"
+       "status": "done"
       },
       "714226118434052": {
        "attempts": 1,
