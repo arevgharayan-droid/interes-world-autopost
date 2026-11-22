@@ -25,6 +25,7 @@
   "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
   "2aa9f772fe9ff6d1ed19": "2026-11-21T10:17:43+00:00",
   "2e7fd6ab02417785dc1f": "2026-11-13T14:37:41+00:00",
+  "2edb7fffc7935274526d": "2026-11-22T21:51:29+00:00",
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "316757cc420944c1b668": "2026-11-21T17:04:20+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
@@ -38,6 +39,7 @@
   "499bb9b863a39969c565": "2026-11-17T20:38:41+00:00",
   "4d09f6c7134467d99fa5": "2026-11-16T23:51:59+00:00",
   "4e51be650afb415ceaed": "2026-11-22T21:17:32+00:00",
+  "4ff7a8b83395d83f68d4": "2026-11-22T21:51:29+00:00",
   "50234f1f193de2230c6f": "2026-11-21T14:12:51+00:00",
   "52860ad6d022a2bd90ef": "2026-11-17T10:38:47+00:00",
   "55e8cd8f9d5e0e076dd4": "2026-11-22T16:32:05+00:00",
@@ -84,6 +86,7 @@
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
   "9491a2fcaecca6d4b3e8": "2026-11-22T14:04:30+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
+  "95d237cdeb8abc1d25fb": "2026-11-22T21:51:29+00:00",
   "974f4aeedbccbb305374": "2026-11-22T19:49:03+00:00",
   "9756467f006a63dbc5a8": "2026-11-19T19:58:46+00:00",
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
@@ -20995,7 +20998,90 @@
    }
   },
   "2026-11-23 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Od dnešního dne jsi v tátově životě až druhá\": Co nevěsta řekla mé pětileté vnučce, mě donutilo vstát se sklenicí v ruce",
+     "warnings": [
+      "длина текста FB 952 слов (исходник 1132, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1029,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Al matrimonio del mio ex genero ho sentito cosa ha detto la sposa a mia nipote di 5 anni: due ore dopo mi sono alzato con il calice in mano",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1027,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na weselu zięcia usłyszałem, co panna młoda szepnęła mojej 5-letniej wnuczce. Dwie godziny później wstałem z kieliszkiem w dłoni",
+     "warnings": [
+      "длина текста FB 942 слов (исходник 1132, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1028,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/825271512_1674119114106781_8003925653918389866_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=g_L87KgyxoYQ7kNvwF6J9Wi&_nc_oc=AdrVCs88ozGszKQH5qMs4kSjsq-oKPJ9PKiotTy4hY-OroFetVemnPgePS23l1TFq0c&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=kx_FsMjCJIye98_RUrxAPQ&_nc_tpa=Q5bMBQIWYdJGESS4vkqkIOo_m_FgEzBz_oXNXyuNWrJrJq98XqCPbFBAToYZnBf1OMeZr4aZaglgBXbQnw&oh=00_AQT3cBuzWwEUYhgguNaHPM__gTTFhH8pRd9Jt-MtkdDRPg&oe=6B093487",
@@ -21007,7 +21093,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1800-it.jpg"
    },
    "source_key": "post:100045261260562_1674297460755613",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -21279,7 +21365,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-23 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1698682471650445": {
    "fingerprint": "805fb8b83171cdb61fb9",
