@@ -18895,36 +18895,43 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129596323306316_1471611481581386",
        "error": null,
        "last_attempt": "2026-11-22T20:49:13+04:00",
        "mode": "immediate",
        "photo_id": "122129596299306316",
        "post_id": "1138572272664180_122129596323306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119946853471857_1528265572690454",
        "error": null,
        "last_attempt": "2026-11-22T20:48:49+04:00",
        "mode": "immediate",
        "photo_id": "122119946829471857",
        "post_id": "1338630212673029_122119946853471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122709733505599_2376523259770075",
        "error": null,
        "last_attempt": "2026-11-22T20:48:28+04:00",
        "mode": "immediate",
        "photo_id": "122122709709505599",
        "post_id": "1448441201677530_122122709733505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Perdi a mansão e o dinheiro para os meus filhos, mas ao dar o último que tinha a uma família na neve, descobri o segredo do meu marido",
      "warnings": [],
      "wp_error": null,
      "wp_id": 599,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -19195,12 +19202,14 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125231857304633_2225054715035772",
        "error": null,
        "last_attempt": "2026-11-22T20:47:40+04:00",
        "mode": "immediate",
        "photo_id": "122125231833304633",
        "post_id": "1083701291497481_122125231857304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
@@ -19216,21 +19225,24 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127867675307134_1852352169218173",
        "error": null,
        "last_attempt": "2026-11-22T20:47:10+04:00",
        "mode": "immediate",
        "photo_id": "122127867651307134",
        "post_id": "1164575726728296_122127867675307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124270375305562_1106289202412151",
        "error": null,
        "last_attempt": "2026-11-22T20:48:04+04:00",
        "mode": "immediate",
        "photo_id": "122124270345305562",
        "post_id": "1180583925128715_122124270375305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Kocam ölünce çocuklarım beni meteliksiz bıraktı, elimde sadece eski bir kulübe kaldı; onu üşüyen bir aileye verdim, haftalar sonra altında bulunan kapak her şeyi değiştirdi",
@@ -19260,7 +19272,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-2030-ru.jpg"
    },
    "source_key": "post:100045261260562_1692783712240321",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
