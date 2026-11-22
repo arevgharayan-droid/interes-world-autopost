@@ -11699,57 +11699,69 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132874993310273_2333414153866837",
        "error": null,
        "last_attempt": "2026-11-22T18:13:53+04:00",
        "mode": "immediate",
        "photo_id": "122132874969310273",
        "post_id": "1028964020310052_122132874993310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130741549321366_1839378557085007",
        "error": null,
        "last_attempt": "2026-11-22T18:14:32+04:00",
        "mode": "immediate",
        "photo_id": "122130741525321366",
        "post_id": "1089186904280406_122130741549321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128224177309032_1452339597013606",
        "error": null,
        "last_attempt": "2026-11-22T18:12:33+04:00",
        "mode": "immediate",
        "photo_id": "122128224153309032",
        "post_id": "1102464712951594_122128224177309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126355099316035_1143463305095086",
        "error": null,
        "last_attempt": "2026-11-22T18:13:14+04:00",
        "mode": "immediate",
        "photo_id": "122126355075316035",
        "post_id": "1129908326870761_122126355099316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132243967418602_1151566427839797",
        "error": null,
        "last_attempt": "2026-11-22T18:11:12+04:00",
        "mode": "immediate",
        "photo_id": "122132243943418602",
        "post_id": "1208422892355505_122132243967418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134757535436382_1955824939159606",
        "error": null,
        "last_attempt": "2026-11-22T18:11:54+04:00",
        "mode": "immediate",
        "photo_id": "122134757511436382",
        "post_id": "1268633826332790_122134757535436382",
-       "status": "published"
+       "status": "done"
       },
       "363312640206172": {
        "attempts": 1,
@@ -11764,12 +11776,14 @@
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229420824543856_2193750278246608",
        "error": null,
        "last_attempt": "2026-11-22T18:10:31+04:00",
        "mode": "immediate",
        "photo_id": "122229420800543856",
        "post_id": "444776585382502_122229420824543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Eine Woche vor der Hochzeit verschwand mein Verlobter spurlos und ließ mich mit seinen 5 Kindern zurück – 30 Jahre später stand sein Anwalt vor meiner Tür",
@@ -11922,7 +11936,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1800-nl.jpg"
    },
    "source_key": "post:100044802900629_1587013016135447",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
