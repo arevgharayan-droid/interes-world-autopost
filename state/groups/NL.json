@@ -3,6 +3,7 @@
  "fb_block_until": "2026-11-14T14:14:29+04:00",
  "output_fps": {
   "00182ac1c19f94717b38": "2026-11-16T23:51:32+00:00",
+  "03a2e77bf9132f9c58fe": "2026-11-22T21:37:31+00:00",
   "046c05ed889e24fde6e8": "2026-11-10T22:03:35+00:00",
   "04801f1de620d4d27074": "2026-11-22T21:27:39+00:00",
   "082942ddf599434d8353": "2026-11-16T20:28:19+00:00",
@@ -46,6 +47,7 @@
   "587ace5848a338139c99": "2026-11-22T21:17:16+00:00",
   "5902057f0f114c578fb0": "2026-11-20T16:46:47+00:00",
   "5baf059a2cf94b9c1bc6": "2026-11-21T10:17:21+00:00",
+  "5e53a6e7b13f06a4ba12": "2026-11-22T21:37:31+00:00",
   "611c7e4517c03c81dabc": "2026-11-19T10:26:43+00:00",
   "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
   "67a1af36132f7ae75c63": "2026-11-21T19:44:57+00:00",
@@ -13069,9 +13071,97 @@
    }
   },
   "2026-11-23 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mein Vater verbot mir, meine eigene Villa zu betreten – doch am nächsten Morgen standen sie weinend vor verschlossenen Türen",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1010,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn vader verbood me mijn eigen villa te betreden, maar hij had geen idee wie er werkelijk de baas was",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1009,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/787205004_1480189984132014_5077151754137784975_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DCrTr5aVTL4Q7kNvwET1NrG&_nc_oc=AdpWPtMYtACUdLFNz2jW5IQmvrIWwhlMH7ZQT3IPnFImzyy3qStO67i_ohOf_QPBJNw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=jHIFfNsieAjUdyIBVKsHnA&_nc_tpa=Q5bMBQJIBKxbnE25SMYFCxjGonZzWe_s7IIpUzvu1tUsWv-UDkMXRpW0IKS4NZgGlyJJshzUJDDGtJMhpg&oh=00_AQRVQtuCtafTFFx3aZO-eRFpcxdoho5LhFB46QL1tNR_nA&oe=6B091DD6",
+    "link": "https://www.facebook.com/story.php?story_fbid=1482558217228524&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "For fifteen years, my family used my military pay, my grief, and my late husband’s final words to drain me dry. Then my father tried to hand my Lake Tahoe villa to my spoiled sister as if it belonged to him. I let them move in, suitcases and all. By sunrise, they were begging me to open the doors they had no right to enter.\n\nPART 1: The Day My Father Tried to Steal My Villa\n\nMy father stood on the rooftop terrace of the Lake Tahoe villa I had paid for and told me I was banned from entering my own home.\n\n“Go back to your base, Commander,” Victor Hale said, champagne in hand while my sister Melissa laughed beside him. “The military takes care of you now. This house belongs to your sister’s family.”\n\nMy duffel bag slipped from my shoulder and hit the floor.\n\nFor fifteen years, I had funded their emergencies, luxuries, and lies. I had bought Melissa and her husband Derek a thirty-five-thousand-dollar SUV. I had wired money to cover my father’s gambling debts during classified operations. I had even used nearly all of my late husband’s military death benefit to save their house after they claimed foreclosure was coming.\n\nThey never thanked me.\n\nThey only demanded more.\n\nMy husband, Ryan, had died three years earlier believing family should be protected. His final words to me were, “Take care of the family.”\n\nVictor turned those words into a weapon. Every time I resisted, he used Ryan’s memory to make me surrender one more boundary.\n\nBut that day, standing in the villa I had sacrificed everything to buy, something inside me finally went cold.\n\nI did not shout.\n\nI did not cry.\n\nI gave my father a thin smile, picked up my duffel bag, and walked out.\n\nThey thought they had won.\n\nThey thought the obedient daughter, grieving widow, and loyal soldier would keep paying for their comfort.\n\nThey forgot something important.\n\nI was not just their daughter.\n\nI was a decorated Navy commander with fifteen years of service, legal records in my name, and friends who understood loyalty better than blood ever had.\n\nThe next morning, I called Caleb Brooks, a former JAG officer turned real estate attorney. Then I contacted Ethan Ward, an old electronic-warfare officer who owed me nothing but answered anyway.\n\n“Ready?” he texted.\n\nI looked at the villa documents on my desk.\n\nThe deed.\n\nThe insurance.\n\nThe receipts.\n\nEvery page proved one thing.\n\nVictor had not taken an empty house.\n\nHe had declared war on a functioning command.\n\nPlease type “YES” if you’re ready for the next part and I’ll send it right away. 👇👇",
+    "wp_media_id": 1008,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1800-nl.jpg"
+   },
+   "source_key": "post:100064230806326_1482558217228524",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 21:00": {
    "langs": {},
@@ -13109,6 +13199,7 @@
    "link": "https://www.facebook.com/share/1LEhrNw2yK/",
    "resolved": "https://www.facebook.com/61590888316979/posts/122157060381362943/?rdid=6v4N6jkcdyPO1Bxh&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1LEhrNw2yK%2F"
   },
+  "link:1e3e84b382515f1699e3": {},
   "link:249e4f96197ebc09f10c": {},
   "link:26ed45b4bb65d3567162": {},
   "link:339a4308eb0d61490e43": {
@@ -13445,6 +13536,14 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 12:00",
+   "status": "used"
+  },
+  "post:100064230806326_1482558217228524": {
+   "fingerprint": "4c486e11f21178d3d4e0",
+   "link": "https://www.facebook.com/story.php?story_fbid=1482558217228524&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 18:00",
    "status": "used"
   },
   "post:100064230806326_1512892317528447": {
