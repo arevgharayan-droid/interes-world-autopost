@@ -18967,12 +18967,13 @@
       "1064982806700854": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122111959778456562_1810662476818599",
        "error": null,
        "last_attempt": "2026-11-22T18:07:28+04:00",
        "mode": "immediate",
        "photo_id": "122111959754456562",
        "post_id": "1064982806700854_122111959778456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
