@@ -20601,7 +20601,23 @@
   "2026-11-23 15:00": {
    "langs": {},
    "slot_iso": "2026-11-23T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/644711976_1326524606165220_5021808009947075730_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-PMsyDrk0OsQ7kNvwHVvAGp&_nc_oc=AdqIR7hnuj3bnML3Q-8j9G_Qtb2bzKnqbHffv8i020YLoEzH9q2iyTkG1yIREb3-MwM&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=c0EXO9KRvFtL6ogA3p06Jg&_nc_tpa=Q5bMBQJwm_YnJnpKmUGjLyluFe2v9hkAjTc1U5OA562TygH6-BfPZESaRFXs-9CamMeF9N2y9s-LfdTaKA&oh=00_AQQI0qo-yVm6ucCIP9eAxKz47DBL8V1ZpMQ9oBlTiqOI_g&oe=6B0943F0",
+    "link": "https://www.facebook.com/story.php?story_fbid=1326525072831840&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "After my husband’s funeral, I returned home with my black dress still clinging to my skin. I opened the door… and found my mother-in-law and eight family members packing suitcases as if it were a hotel. “This house is ours now. Everything of Bradley’s too. You, get out,” they said, without even lowering their voices. I stood motionless for a second… and then I laughed. I laughed so hard they all went quiet. Because if they truly believed Bradley “left nothing,” it was because they never knew who he really was… nor what he signed before he died.\n\nPart 1 — The Door I Didn’t Want to Open\nOn the day of my husband’s funeral, I walked back to our apartment with my black dress still clinging to my skin like wet paper.\n\nWe weren’t in Valencia anymore. We were in St. Augustine, Florida, where the air can smell like rain-soaked magnolia and hot pavement at the same time. I climbed to the third floor with my heels in my hand, like every step was a delay tactic.\n\nWhen I opened the door, I didn’t find quiet.\n\nI found Marjorie Hale—my mother-in-law—and eight relatives moving through my home like a checkout line. Closets were open. Hangers dragged across wood. Suitcases were stacked in the hallway. On the dining table sat keys, envelopes, and a handwritten list:\n\n“clothes — electronics — documents.”\n\n“This house is ours now,” Marjorie said, not even lowering her voice. “Everything of Bradley’s, too. You—get out.”\n\nA cousin named Declan lifted a suitcase and smiled like he was offering mercy.\n“Don’t take it personally, Avery. It’s only logical.”\n\nI stared at the couch where Bradley used to read, the framed photo of us at St. George Street, and the temporary urn with funeral flowers still sitting by the entryway.\n\nThey were walking all over my grief like it was a rug.\n\n“Who let you in?” I asked. My voice sounded wrong. Hollow.\n\nMarjorie tapped the lock.\n“I have a key. I always have. Bradley was my son.”\n\nSomebody opened Bradley’s desk drawer. I heard papers shuffle.\n\n“Don’t touch that,” I said.\n\n“And who are you?” an aunt—Fiona—spat, contempt sharp as vinegar. “A widow. That’s all.”\n\nThey said widow like it was a charge. Like it erased your right to exist.\n\nThen I laughed.\n\nNot nervous. Not fragile. I laughed so hard the room went still.\n\nMarjorie’s eyes narrowed. “Have you lost your mind?”\n\nI wiped a tear that wasn’t sadness—just disbelief.\n“You all think Bradley left nothing,” I said calmly. “You think he was only your son and that you are the inheritance.”\n\nDeclan frowned. “There’s no will. We already checked.”\n\nI nodded, almost smiling.\n“Of course you didn’t find it. Because you never knew who Bradley really was… or what he signed before he died.”\n\n1️⃣ Like this post\n2️⃣ Tap ALL COMMENTS\n3️⃣ Click the \"Most relevant\" to read the full story",
+    "wp_media_id": 1004,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1500-it.jpg"
+   },
+   "source_key": "post:100064230806326_1326525072831840",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 18:00": {
    "langs": {},
@@ -20676,6 +20692,7 @@
    "link": "https://www.facebook.com/share/p/1CJNoNzdfY/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122124401043447073&id=61593412202747"
   },
+  "link:526291117396dcae2b32": {},
   "link:56fe5a87f9b43bfae375": {},
   "link:5b9c5c3aa7997ef62b94": {
    "link": "https://www.facebook.com/share/p/19vGVCx4GY/",
@@ -20956,6 +20973,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-22 00:00",
    "status": "used"
+  },
+  "post:100064230806326_1326525072831840": {
+   "fingerprint": "dae04187b67a68f8567d",
+   "link": "https://www.facebook.com/story.php?story_fbid=1326525072831840&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 15:00",
+   "status": "reserved"
   },
   "post:100064230806326_1437334075084272": {
    "fingerprint": "4ce4131a8d291d66d3a0",
