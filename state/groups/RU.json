@@ -103,6 +103,7 @@
   "9080b378741e8f08ec4a": "2026-11-10T22:08:57+00:00",
   "90819c71275bd38dea2e": "2026-11-19T19:59:16+00:00",
   "91a1d555301edc6cd800": "2026-11-19T14:08:05+00:00",
+  "936ca69d5c4f8a9e5957": "2026-11-22T14:04:32+00:00",
   "950641cc5f0ddd9580f6": "2026-11-09T20:08:16+00:00",
   "959c0a3855f5dc48d671": "2026-11-09T20:03:21+00:00",
   "993b67355d685fd04e45": "2026-11-17T17:52:52+00:00",
@@ -137,6 +138,7 @@
   "c18d6a1169fa9762b3a9": "2026-11-09T19:59:32+00:00",
   "c21dcffeacfbd5f71fd3": "2026-11-12T10:26:34+00:00",
   "c4a184a2f318ec90e101": "2026-11-19T08:31:53+00:00",
+  "cd020394bd98ae198dbd": "2026-11-22T14:04:32+00:00",
   "dad4dba0916206811738": "2026-11-09T20:08:16+00:00",
   "de06c0b792c1e5d87078": "2026-11-20T22:45:49+00:00",
   "dec5e0bd063cc2c57d2d": "2026-11-18T22:20:46+00:00",
@@ -155,6 +157,7 @@
   "e841ab38d6d5db285501": "2026-11-19T22:01:08+00:00",
   "e84337ab74e96356bcfe": "2026-11-10T22:05:49+00:00",
   "e883d8565fbbc8af866b": "2026-11-16T19:28:42+00:00",
+  "f1f1897f294bbbd74a1b": "2026-11-22T14:04:32+00:00",
   "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00",
   "f4fbb08e36886ae63dd0": "2026-11-18T15:24:43+00:00",
   "fd395eead654da158a14": "2026-11-13T10:15:12+00:00"
@@ -18299,7 +18302,80 @@
    "status": "missed"
   },
   "2026-11-22 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ele não lutou pela guarda das nossas quatro filhas e foi apresentar o filho da amante como herdeiro, mas a empregada apareceu com um recibo e a festa virou um pesadelo",
+     "warnings": []
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Он не стал бороться за четырёх дочерей и отдал им лишь «алименты», а вечером на празднике в честь «наследника» экономка достала конверт и квитанцию",
+     "warnings": [
+      "длина текста FB 685 слов (исходник 850, цель ±10%)"
+     ]
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Boşandığı Gün Dört Kızını Alıp Gitti, Aynı Akşam Eski Kayınvalidesinin Bahçesinde Evin Hizmetçisi Her Şeyi Ortaya Döktü",
+     "warnings": [
+      "длина текста FB 626 слов (исходник 850, цель ±10%)"
+     ]
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-22T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/802858374_1604927037677378_2348757686312726146_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Xzth3T8seHUQ7kNvwEpL_sQ&_nc_oc=AdqUfxwvBYIo5XQAGCmD7h0ymdMYQc2-Oc6ZnWbe6fkesMij5aTXaFQuBEhNuqNq1tI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=uGzizP0dXr8Am22BU2ayEQ&_nc_tpa=Q5bMBQIkLJfK11p592Pm3mE7_P_BXBsL3Jni94riF8ye0Gg3Ypgiyxf7OsJJ_ZptblCHOHP2AUgLsc_MXA&oh=00_AQR-8-UjSuyttrisqPCbAEuL51Hl0QWJG5BEsXAE5Z7o1A&oe=6B08B91A",

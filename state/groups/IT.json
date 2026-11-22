@@ -7,6 +7,7 @@
   "05691ada2c15180a0929": "2026-11-18T18:29:38+00:00",
   "0581f1f30c809efdca9f": "2026-11-10T22:03:36+00:00",
   "08b0488d45dded8d095f": "2026-11-16T00:18:19+00:00",
+  "0b4814997aa3da6b7d13": "2026-11-22T14:04:30+00:00",
   "0d54eec8b6a3e32a0a35": "2026-11-21T10:17:43+00:00",
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
   "0fb22b8844bea06fae2d": "2026-11-16T20:28:05+00:00",
@@ -21,6 +22,7 @@
   "3009fc5f47bcf8ee0df1": "2026-11-09T13:25:51+00:00",
   "316757cc420944c1b668": "2026-11-21T17:04:20+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
+  "33b23e888b18caa14bba": "2026-11-22T14:04:30+00:00",
   "3b79121acdb58cc4cc71": "2026-11-21T19:44:42+00:00",
   "3cd0bbe178487279f165": "2026-11-20T14:41:44+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
@@ -69,6 +71,7 @@
   "8dcd9b38604c3a494e89": "2026-11-18T08:52:43+00:00",
   "90f10d92ae3c8949c582": "2026-11-18T18:29:38+00:00",
   "93877b482c1e26a4dae4": "2026-11-09T13:27:12+00:00",
+  "9491a2fcaecca6d4b3e8": "2026-11-22T14:04:30+00:00",
   "95159e0e64603895fcd7": "2026-11-09T19:59:26+00:00",
   "9756467f006a63dbc5a8": "2026-11-19T19:58:46+00:00",
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
@@ -18842,7 +18845,90 @@
    "status": "missed"
   },
   "2026-11-22 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Přišla na naše zasnoubení ve vybledlých šatech, za které jsem se styděla. Pak mi v toaletách řekla pravý důvod",
+     "warnings": [
+      "длина текста FB 879 слов (исходник 1051, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 949,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mia madre è arrivata alla cena del mio fidanzamento con il vestito più vecchio che aveva: il motivo mi ha lasciata senza parole",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 947,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mama przyszła na obiad zaręczynowy w starej, wyblakłej sukience. Kiedy w toalecie powiedziała mi, dlaczego, zapomniałam o wstydzie",
+     "warnings": [
+      "длина текста FB 872 слов (исходник 1051, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 948,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/799264472_1501633991987613_5660121377201568875_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FR6OaovGIzQQ7kNvwHxEkWG&_nc_oc=AdqtFG0f8TkuFl_woNurxE689UOrLyvXwsBax-uiLIbS2feiaWSj2mQDsR-QuoQm0ig&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=UWA_8M_ZiX9y3TsYFaRumQ&_nc_tpa=Q5bMBQIXiM-Gx2RMAHbzpchJqQu__9SVKoQ1pPPpI3a5VTXfkzI1cWjtfuB8oqUVdaL46SgSnAWicdJemw&oh=00_AQT79Oiukfm2HnO6x8QGIycAPoKKODdYPM5V_qfM0aNbrg&oe=6B08B7B9",
@@ -18854,7 +18940,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261122-1800-it.jpg"
    },
    "source_key": "post:100064230806326_1501820811968931",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -19216,7 +19302,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-22 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1450160977218240": {
    "fingerprint": "68ee500f66d9ec24283c",
