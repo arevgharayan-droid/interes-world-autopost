@@ -12547,7 +12547,23 @@
   "2026-11-23 12:00": {
    "langs": {},
    "slot_iso": "2026-11-23T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/747191144_1441957224621957_7162768071523407987_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Tvj6xekJ9UAQ7kNvwHWqlgK&_nc_oc=Adpi0qb3MOEqvu9RaxwipgDc73vTfQgJn8epRX_LAWdL2Jehw6yGuRX6UysEnrX4JTw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=iqU0zSP4SaFgLXkMsnq3Hg&_nc_tpa=Q5bMBQIEw8hpbrgtFzThQdA0Ui3ejXN-OmoCgZXhx3jFSMsMmYWHyl4E9BVah4Q1ZFONwd_dGCaV-Gp8AQ&oh=00_AQQnmGMOAy1VYjii-z5oJ1Ias4L6qAYKN4hT1mj5udeYWQ&oe=6B091800",
+    "link": "https://www.facebook.com/story.php?story_fbid=1443265554491124&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "I looked my father dead in the eye and delivered a final warning: \"If your wife says one more word about my military savings, the polite talk is over. I will handle her myself, making it crystal clear exactly where she stands and why she won't touch a single dime of my money. Do you understand?\"\n\nPart 1: The Dinner Warning\n\n“If I hear one more word about my money, there won’t be any polite conversations left.”\n\nI did not raise my voice. That was why the dining room went silent.\n\nMy father, Harold Bennett, sat at the head of the table with both hands wrapped around his coffee mug. Across from me, my stepmother, Vivian, froze with her fork halfway to her mouth. Three seconds earlier, she had been laughing.\n\nNot warmly. Vivian’s laugh always sounded sharp, like a spoon tapping glass.\n\nShe had just said, “Well, Elena has all that military money sitting around. If the family ever needed security, I’m sure she wouldn’t let us suffer.”\n\nThen she looked around the table, waiting for my father to chuckle and for me to play the role she had assigned me years ago: the grateful stepdaughter, the quiet soldier, the girl who sent money home because guilt was cheaper than peace.\n\nBut I was twenty-nine now. I was an Army combat medic, not the frightened teenager at the kitchen island pretending not to hear adults discuss her like a utility bill. I had learned how to stop bleeding in the dark, how to hear panic before a monitor caught it, and how to stay calm once I had decided what came next.\n\nSo I looked at my father and said, “If I hear one more word about my money, there won’t be any polite conversations left.”\n\nVivian lowered her fork.\n\n“Elena,” my father began, then stopped.\n\nThat had always been Harold’s talent: starting my name like it could soften what followed, then letting the rest die because Vivian’s eyes had warned him not to continue.\n\nI placed my napkin beside my plate. The dining room smelled of lemon polish, overcooked rosemary, and the vanilla candle Vivian lit whenever she wanted the house to feel more refined.\n\n“I will personally explain to her exactly where she stands,” I said, still looking at my father, “and why my money is not hers.”\n\nVivian set her fork down with a tiny click.\n\n“I was joking.”\n\n“No, you weren’t.”\n\nHer smile tightened. She had aged beautifully in the way women do when they spend other people’s money on soft lighting, expensive creams, and flattering mirrors. But her eyes were the same as when I was sixteen: cold, measuring, always calculating what a person cost and what they could be made to provide.\n\nMy father shrank into his chair. He was only fifty-seven, but whenever Vivian was in the room, he looked older, smaller, like a man trying to disappear inside his own house.\n\n“Honestly, Elena,” Vivian said, “the military has made you so dramatic.”\n\n“No,” I replied. “It made me accurate.”\n\nThe silence had weight.\n\nI stood.\n\nMy father finally looked up. His eyes were tired and frightened, but not surprised. That mattered.\n\nNot surprised meant this conversation had happened before without me. Vivian had already discussed my savings, benefits, future, and maybe even my death payout as if they belonged to the household if she wanted them badly enough.\n\nThat was the first clue.\n\nAs I drove away from their neat brick house that night, headlights sliding across maple trees and Vivian’s spotless mailbox, I told myself I was overreacting.\n\nI told myself she was greedy, not dangerous.\n\nI told myself my father was weak, not complicit.\n\nThree days later, from a barracks room five thousand miles away, I learned exactly how wrong I was.\n\nThe story is too long to post in the caption, so just say you \"Yes\". The full story will be in the comments below.👇👇",
+    "wp_media_id": 982,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1200-nl.jpg"
+   },
+   "source_key": "post:100064230806326_1443265554491124",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-23 15:00": {
    "langs": {},
@@ -12923,6 +12939,14 @@
    "page_id": "100059505912199",
    "slot": "2026-11-17 18:00",
    "status": "used"
+  },
+  "post:100064230806326_1443265554491124": {
+   "fingerprint": "98850f2ca9c573614c53",
+   "link": "https://www.facebook.com/story.php?story_fbid=1443265554491124&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 12:00",
+   "status": "reserved"
   },
   "post:100064230806326_1512892317528447": {
    "fingerprint": "9e1c9c49e6a6d10feb28",
