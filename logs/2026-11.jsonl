@@ -11437,3 +11437,6 @@
 {"slot": "2026-11-22 20:30", "lang": "EN", "page": "1167352663135230", "action": "fb_immediate", "photo_id": "122148651633384760", "post_id": "1167352663135230_122148651657384760", "t": "2026-11-22T16:31:43+00:00", "group": "EN"}
 {"slot": "2026-11-22 20:30", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T16:31:44+00:00", "group": "EN2"}
 {"slot": "2026-11-22 20:30", "lang": "EN", "action": "wp_post", "id": 958, "status": "publish", "t": "2026-11-22T16:31:45+00:00", "group": "EN2"}
+{"slot": "2026-11-22 20:30", "lang": "EN", "page": "1165836896614851", "action": "fb_immediate", "photo_id": "122146297023384677", "post_id": "1165836896614851_122146297053384677", "t": "2026-11-22T16:31:49+00:00", "group": "EN"}
+{"slot": "2026-11-22 20:30", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-22T16:31:51+00:00", "group": "FR"}
+{"slot": "2026-11-22 20:30", "lang": "FR", "action": "wp_post", "id": 959, "status": "publish", "t": "2026-11-22T16:31:52+00:00", "group": "FR"}
