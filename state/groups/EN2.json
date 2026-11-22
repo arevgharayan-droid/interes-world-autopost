@@ -29,6 +29,7 @@
   "5c4acd980a05247257c2": "2026-11-12T09:03:52+00:00",
   "5e14d1dd2e2aaba85e6e": "2026-11-12T20:02:22+00:00",
   "5e5969a688eef3e79eb2": "2026-11-20T14:41:11+00:00",
+  "62cfeb501c33b9b46ef8": "2026-11-22T21:50:16+00:00",
   "639e26827f29271e89c3": "2026-11-09T19:59:07+00:00",
   "64cee77292ce0f9e523e": "2026-11-10T22:02:16+00:00",
   "754024bf3c63e7110705": "2026-11-19T10:26:31+00:00",
@@ -14865,7 +14866,72 @@
    }
   },
   "2026-11-24 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Daughter-in-Law Told Me to Go Live on the Streets Five Days After My Husband's Funeral, but She Never Knew What He Left Me",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1023,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/862753577_1652177809618967_4669977755940308195_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4M3HauT0WbIQ7kNvwEILsr7&_nc_oc=AdoFJE3jRK7YdPeMVfGt4sA0f3bpFJAUnZc01UB97RpgLBVgH61p2R46ZGE8fipB2U8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=D9wD0DoiKDbUh7YCrujK3g&_nc_tpa=Q5bMBQJKClUHZHMEblXGD_QALwDVNzE7CIaMnZA7PmJEWX8E0jdTeYSRMvXfiF06iRApwJjzT9zKxaCZlA&oh=00_AQQsnC_iXIDb29PlEvIIAtvaF-yi5APLTjB-Ij5AS-nVTQ&oe=6B0941F8",
@@ -14877,7 +14943,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-en2.jpg"
    },
    "source_key": "post:100044802900629_1652177906285624",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15117,7 +15183,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-24 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100044802900629_1663836241786457": {
    "fingerprint": "ac9dd0aeba974b8c709a",

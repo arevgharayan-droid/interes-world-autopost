@@ -11828,7 +11828,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-23T01:50:17+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Ma mère a repoussé la carte faite main de ma fille de 6 ans en disant que les enfants de la pauvreté n'étaient pas ses petits-enfants, mais quand mon fils de 15 ans s'est levé, tout a basculé",
      "warnings": [
       "длина текста FB 634 слов (исходник 524, цель ±10%)",

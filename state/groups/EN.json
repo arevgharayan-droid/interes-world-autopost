@@ -16125,7 +16125,15 @@
   "2026-11-23 21:00": {
    "langs": {},
    "slot_iso": "2026-11-23T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/920793856_1723049599213732_1017291391042016873_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JH6yRqbd7tAQ7kNvwHyYX7K&_nc_oc=AdrM9PCbnO0iSW2LwcQpt_LESXsDLGt9DOysvoUAF5m2NUSnRJ3u-XWega9zYrfUcBM&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=pOU3GjLOF0-4F75cx4Hw2A&_nc_tpa=Q5bMBQK4YvII8Qqr7b_jwCTdHrX6Ad5CRVvby98mqCbaPbNFLRZBc5ZYNOFP-f0PZAlZ2RaD5N8RxBSuPw&oh=00_AQRPWPKX0iEH3lpUK8HbYR6De0E2kBbE5oPj2wJLTA75EA&oe=6B094EF6",
+    "link": "https://www.facebook.com/story.php?story_fbid=1723049765880382&id=100045261260562",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "My Mother-in-Law Announced to Her Dinner Guests: 'Tyler Is Filing For Divorce. She’ll Be Moving Out.' I Entered Carrying a Bowl of Hot Potatoes. My Husband Quickly Rose: 'Honey, I—' I Smiled. 'Perfect. Because I Have News, Too.' The Moment I Began Speaking, Everything Changed...\n\nPART 1 — THE FINAL DINNER\n\nMy mother-in-law publicly declared that my marriage was ending just as I entered her dining room carrying steaming potatoes. Before dessert was served, she'd learn that the woman she'd spent seven years treating as household help was the sole reason her family still possessed a luxurious home, a successful company, and a respectable name.\n\n“Tyler is filing for divorce,” Gloria Whitmore announced to her twelve dinner guests, raising her champagne glass. “She’ll be moving out by the end of the month. Frankly, it’s about time.”\n\nSeveral guests around the table laughed.\n\nI froze at the entrance.\n\nMy husband, Tyler, was seated next to Vanessa Carlisle, his attractive blonde business consultant. Her palm rested casually against his thigh. A familiar diamond necklace glittered around her neck.\n\nIt was my grandmother's.\n\nNoticing me, Tyler sprang to his feet, his chair scraping noisily against the floor.\n\n“Honey, I—”\n\nA smile crossed my face.\n\n“Perfect. Because I have news, too.”\n\nGloria sighed impatiently. “Emily, please. Don’t make this embarrassing.”\n\n“Embarrassing?” I set the bowl of potatoes down. “You just announced my divorce before telling me.”\n\nVanessa withdrew her hand from Tyler's thigh. “We were going to explain everything privately.”\n\n“How thoughtful.”\n\nThroughout our seven-year marriage, I'd played the role of the unassuming wife. I'd arranged family gatherings, kept track of birthdays, covered household bills, and assisted Tyler in transforming Whitmore Development from a struggling construction firm into a prosperous regional enterprise.\n\nGloria regarded me as little more than a secretary.\n\nTyler considered me his good-luck charm.\n\nNeither realized the extent of my contributions to their prosperity.\n\nThree weeks before, Tyler had forgotten to lock his tablet beside our bed. A notification from Vanessa flashed across its display.\n\nOnce Emily signs, the Lakeview money is ours. Your mother says she won’t fight.\n\nI'd read the message repeatedly until my fingers stopped trembling.\n\nThen I'd contacted my lawyer.\n\nThe next seventeen days involved confidential discussions, financial investigations, and revelations that made Tyler's infidelity seem relatively harmless.\n\nMy husband wasn't merely preparing to abandon our marriage.\n\nHe intended to rob me before leaving.\n\nNow, among Gloria's affluent acquaintances, I watched Tyler adjust his costly jacket.\n\n“Emily, we’ve grown apart,” he said. “I want to handle this generously. You can keep your car and receive fifty thousand dollars.”\n\nGloria gave an approving nod.\n\n“More than fair,” she remarked. “You came into this marriage with practically nothing.”\n\nI nearly laughed aloud.\n\nInstead, I opened my purse and retrieved a cream-colored envelope.\n\n“Before we discuss what I’m keeping,” I said, “perhaps we should establish what actually belongs to you.”\n\nTyler's confident smile disappeared.\n\nVanessa raised her fingers to the diamond necklace.\n\nAnd for the first time that night, Gloria slowly lowered her glass of champagne...\n\n**To be continued in C0mments 👇**"
+   },
+   "source_key": "post:100045261260562_1723049765880382",
+   "status": "preparing"
   },
   "2026-11-24 00:00": {
    "langs": {},
@@ -16203,6 +16211,7 @@
   },
   "link:5eaa4f26335e76b6f112": {},
   "link:5fb9fee5c3fa317e9dfd": {},
+  "link:60751ecbb1aaf5b0061f": {},
   "link:633c4625ddf120843ad8": {},
   "link:63d64b44555c91e57a63": {},
   "link:6bd4ad35a4e88cc380b6": {
@@ -16491,6 +16500,14 @@
    "page_id": "100045261260562",
    "slot": "2026-11-21 18:00",
    "status": "used"
+  },
+  "post:100045261260562_1723049765880382": {
+   "fingerprint": "e12243ea411406232332",
+   "link": "https://www.facebook.com/story.php?story_fbid=1723049765880382&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-23 21:00",
+   "status": "reserved"
   },
   "post:100050386034442_1714382830251235": {
    "fingerprint": "0c124da3304c244bc06b",
