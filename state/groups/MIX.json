@@ -20,6 +20,7 @@
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
   "292c1d04504fd06c6ac5": "2026-11-18T18:56:12+00:00",
   "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
+  "2aa801c5c237376e0441": "2026-11-22T14:05:02+00:00",
   "318874ecf561cd49140d": "2026-11-19T19:58:49+00:00",
   "3422afd10d8bd6c23618": "2026-11-19T22:00:55+00:00",
   "38255c46602154608a68": "2026-11-16T23:52:52+00:00",
@@ -34,6 +35,7 @@
   "50dd1f88b6c06defc96d": "2026-11-18T22:20:58+00:00",
   "50f5e9765c68d246b206": "2026-11-19T17:36:01+00:00",
   "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
+  "5425712d1992a649e398": "2026-11-22T14:05:02+00:00",
   "54c053d9c2cdb7b89e79": "2026-11-20T22:45:57+00:00",
   "6144e4570a19cb701fa3": "2026-11-19T14:08:16+00:00",
   "61b6c834065a37df649e": "2026-11-19T17:36:01+00:00",
@@ -54,6 +56,7 @@
   "839d2c1cc7df4856d81d": "2026-11-18T22:20:58+00:00",
   "83e0ecc2ed03651d9650": "2026-11-20T14:41:48+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
+  "8a2057d3bf2ba60fdf02": "2026-11-22T14:05:02+00:00",
   "8ac1ecf8185542e95941": "2026-11-19T10:26:49+00:00",
   "8fd42491e6a53f033fa8": "2026-11-16T20:28:52+00:00",
   "9379ebc571b51d826e03": "2026-11-21T22:45:49+00:00",
@@ -73,6 +76,7 @@
   "b14671f51218be3c2ac4": "2026-11-21T19:44:56+00:00",
   "b380f193a4d40b198fda": "2026-11-19T22:00:55+00:00",
   "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
+  "b55d3bb5e53f309a89d5": "2026-11-22T14:05:02+00:00",
   "ba4752512e3fefd45f2a": "2026-11-21T14:13:33+00:00",
   "bdb1bbcd6e4c0469fdaa": "2026-11-19T19:58:49+00:00",
   "c2bc42d5c2d6930640d5": "2026-11-18T22:49:45+00:00",
@@ -6028,7 +6032,97 @@
    "status": "missed"
   },
   "2026-11-22 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "دفع كأسه الفارغ نحوها وسخر منها لأنها أمّ عزباء، فنهضت بهدوء وأخذت ابنتها ومضت، ولم يكن يعلم أن صباح الاثنين سيقلب حياته",
+     "warnings": [
+      "длина текста FB 456 слов (исходник 597, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 590,
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Un capitán de la Marina le ordenó servir el vino y se burló de ella por ser madre soltera; no sabía que era una general del Ejército",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 588,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Căpitanul de marină i-a împins paharul gol unei mame singure și i-a poruncit să toarne vinul, fără să știe că în fața lui stă un general cu trei stele",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 589,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Капитан флота подтолкнул ко мне пустой бокал и приказал налить вино, а в понедельник узнал, кого оскорбил за ужином",
+     "warnings": [
+      "длина текста FB 469 слов (исходник 597, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 587,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-22T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/863535305_1700475421471150_5956660371718964938_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qBFNZCuR45gQ7kNvwG-sw0t&_nc_oc=Ado5MuUdQgp0PSH689QQZF2iVe6bFDuVe0Ek6XOvebh8oYX3mhovKVpMiQ_Oc7780O0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fgYuq_Kz6k4P76E5VD17hQ&_nc_tpa=Q5bMBQJbqzH167mq7t-ZZSPRs214ktTD0CcySqP23NY8ZWPjqTZq_K4au7NCKUMZAlD6be1kkY_Tqfu5tg&oh=00_AQR_-Sun7sM_zID5L_7mS52Pdh4QokwyDxSQ8Orf9V0UfA&oe=6B08E1EC",
@@ -6040,7 +6134,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261122-1800-mix.jpg"
    },
    "source_key": "post:100045261260562_1700942794757746",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -6132,7 +6226,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-22 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1715615996623759": {
    "fingerprint": "ae9e624608ecd5275312",
