@@ -6936,7 +6936,10 @@
      "warnings": [
       "длина текста FB 930 слов (исходник 1164, цель ±10%)",
       "длина статьи 577 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 622,
+     "wp_status": "future"
     },
     "CS": {
      "pages": {},
@@ -6956,7 +6959,10 @@
      "generated": true,
      "pages": {},
      "title": "Mis padres le dieron a mi hermano acceso a mi cuenta de jubilación de 185.000 dólares, sin saber que yo ya había movido todo el dinero",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 620,
+     "wp_status": "future"
     },
     "FR": {
      "pages": {},
@@ -6984,7 +6990,10 @@
      "generated": true,
      "pages": {},
      "title": "Părinții i-au dat fratelui meu acces la contul meu de pensie de 185.000 de dolari, dar nu știau că mutasem banii. „Perfect, să se pensioneze cu cei 0,08 dolari rămași",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 621,
+     "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
@@ -6992,7 +7001,10 @@
      "generated": true,
      "pages": {},
      "title": "Родители тайно разрешили брату снимать деньги с моего счёта на 185 000 долларов, но я уже всё перевела: «Пусть живёт на оставшиеся 8 центов",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 619,
+     "wp_status": "future"
     },
     "TR": {
      "pages": {},
@@ -7003,6 +7015,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-23T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/913332657_1720387392813286_3911413632794107488_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=EESkkik8mmoQ7kNvwEqEauI&_nc_oc=AdqnAN0YUx0NFrvScydT9D0U1-5YHeHXrINV_GjYMyOtkmBw33gR7ozg7C-TQzd6iPU&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=5rr9ZiysrHIQR8cuws0ZGg&_nc_tpa=Q5bMBQKShUDduMthZKNd6bn3EStDsp5jv4w4VW63EpfXjifoT51EMDmb1KnIvTVcKA1I22M03Ie1KWfhqA&oh=00_AQRf7MHlCruTNS_50x9k5vV9juq-PcN6Bfl1MIEwq4xC1g&oe=6B094900",
@@ -7014,7 +7027,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-1500-mix.jpg"
    },
    "source_key": "post:100045261260562_1720387429479949",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -7153,7 +7166,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-23 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1721146079404084": {
    "fingerprint": "8a238acfef37fe26b19d",
