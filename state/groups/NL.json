@@ -12060,12 +12060,13 @@
       "444776585382502": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122229435158543856_1152880167333410",
        "error": null,
        "last_attempt": "2026-11-22T20:38:16+04:00",
        "mode": "immediate",
        "photo_id": "122229435128543856",
        "post_id": "444776585382502_122229435158543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Als mein Opa das Gesicht meiner neugeborenen Tochter sah, zitterten seine Hände – und er gestand ein Geheimnis, das meine Mutter mit ins Grab nehmen wollte",
