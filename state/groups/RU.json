@@ -47,6 +47,7 @@
   "3944404d935075c532ec": "2026-11-21T17:03:58+00:00",
   "399b0797378aa4e1ed79": "2026-11-20T22:45:49+00:00",
   "3db8bd1517b5c6101ae3": "2026-11-20T16:46:35+00:00",
+  "418a807c55a21247717d": "2026-11-22T21:36:39+00:00",
   "430a2b7c726cdc7d25cd": "2026-11-14T19:42:40+00:00",
   "43fc1331d6fb4f0c421e": "2026-11-17T20:47:52+00:00",
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
@@ -121,7 +122,9 @@
   "9f68477819cc7f2b978d": "2026-11-09T20:02:09+00:00",
   "a21b9dc024828d2ffa55": "2026-11-16T20:28:20+00:00",
   "a4678cd33081da64edb6": "2026-11-10T22:07:29+00:00",
+  "a587db723316c918fb61": "2026-11-22T21:36:39+00:00",
   "a5f6cb6b12cb1a5de0de": "2026-11-16T23:52:12+00:00",
+  "a6060d6dc810de5fb6f4": "2026-11-22T21:36:39+00:00",
   "a666eb2658819ee1c52b": "2026-11-20T19:26:10+00:00",
   "a9e10d9cc64a78fbdd24": "2026-11-19T14:08:05+00:00",
   "ac682cc7279a82d7c450": "2026-11-21T17:03:58+00:00",
@@ -20209,7 +20212,88 @@
    }
   },
   "2026-11-23 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha filha de 18 anos morreu no parto e criei sozinha o filho dela, sem saber quem era o pai. Dez anos depois, uma desconhecida apareceu no túmulo dela com um envelope",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 636,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Моя 18-летняя дочь умерла при родах, а отца малыша мы так и не узнали. Через десять лет у её могилы появилась незнакомка с конвертом",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 634,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kızım Doğum Sırasında Hayatını Kaybetti, Torunumu Tek Başıma Büyüttüm: On Yıl Sonra Mezarında Tanımadığım Bir Kadın Bana \"Kızına Söz Vermiştim\" Dedi",
+     "warnings": [
+      "длина текста FB 275 слов (исходник 403, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 635,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/914620832_1723563522495673_5586354622157993247_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=1&ccb=1-7&_nc_sid=833d8c&_nc_ohc=LZXHEXty0-QQ7kNvwHME_IZ&_nc_oc=AdqIBw8LnYpi_VUJToF5NCpzzhoUrm0IZYOxW_j2O2Jb3v6nUzEjCAMihCGBfgeExgU&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=pvdvuQ6JuEDo50HGXAsczg&_nc_tpa=Q5bMBQJRVY9NwwYxzIVtq5c3cEybx83g6Iz2DX_MqWPQeZxvlwTsq59cPVj3Fs3xWWhZV0rilpZ5yauTqg&oh=00_AQSlOJKmk2zuopHmUoauVZ1ljdc1H_k7hQX97cAtZ_YwfA&oe=6B093A7E",
@@ -20221,7 +20305,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-1500-ru.jpg"
    },
    "source_key": "post:100045261260562_1723563595828999",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -20598,7 +20682,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-23 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100050386034442_1714848903537961": {
    "fingerprint": "49bd132ca69bce6720a2",
