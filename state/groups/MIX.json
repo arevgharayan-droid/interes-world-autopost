@@ -39,6 +39,7 @@
   "51b2379e17169f0b48b8": "2026-11-17T17:52:42+00:00",
   "5425712d1992a649e398": "2026-11-22T14:05:02+00:00",
   "54c053d9c2cdb7b89e79": "2026-11-20T22:45:57+00:00",
+  "56b3a13bcd9d39f65875": "2026-11-22T21:35:32+00:00",
   "59a66719433b723532c7": "2026-11-22T16:31:59+00:00",
   "6144e4570a19cb701fa3": "2026-11-19T14:08:16+00:00",
   "61b6c834065a37df649e": "2026-11-19T17:36:01+00:00",
@@ -63,6 +64,7 @@
   "839d2c1cc7df4856d81d": "2026-11-18T22:20:58+00:00",
   "83e0ecc2ed03651d9650": "2026-11-20T14:41:48+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
+  "89d194becaa93ddfb35a": "2026-11-22T21:35:32+00:00",
   "8a2057d3bf2ba60fdf02": "2026-11-22T14:05:02+00:00",
   "8ac1ecf8185542e95941": "2026-11-19T10:26:49+00:00",
   "8b3ea60fda1dceeaaae5": "2026-11-22T21:17:18+00:00",
@@ -78,6 +80,7 @@
   "9e8d9919483b58994148": "2026-11-22T19:48:27+00:00",
   "9e9961bac78dda63c754": "2026-11-17T00:19:13+00:00",
   "9ec8dc66cd645ebfcf63": "2026-11-22T21:23:40+00:00",
+  "9f7feb0a64ed0039062f": "2026-11-22T21:35:32+00:00",
   "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
   "a6fdd2c0df68079b8482": "2026-11-18T18:56:12+00:00",
   "aaba67c9a1c5ee2c6122": "2026-11-19T19:58:49+00:00",
@@ -105,6 +108,7 @@
   "d14043f3b91f3d7be5bb": "2026-11-21T19:44:56+00:00",
   "d305c96ab228138b6cd5": "2026-11-20T19:26:13+00:00",
   "d3eb8ba6065409a69dcd": "2026-11-20T16:46:26+00:00",
+  "dd10afabb1c82eab71d1": "2026-11-22T21:35:32+00:00",
   "dd60386fd5aa045d1aeb": "2026-11-22T21:29:29+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
   "e1b66eb6a566198daa27": "2026-11-17T17:52:42+00:00",
@@ -7331,7 +7335,97 @@
    }
   },
   "2026-11-23 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "وعدتني جدتي الثرية بكل شيء، ثم لم تترك لي سوى مفتاح مرآب… وحين فتحته سقطت على ركبتيّ",
+     "warnings": [
+      "длина текста FB 300 слов (исходник 383, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 633,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi abuela rica me dejó 0 dólares tras prometerme toda su herencia, pero la llave de un garaje me hizo caer de rodillas",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 631,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Bunica bogată nu mi-a lăsat nimic prin testament, dar când am deschis garajul din plicul avocatului, am căzut în genunchi",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 632,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Богатая бабушка обещала оставить мне всё, но в завещании мне достался $0 — а потом юрист вручил ключ от гаража, и я упала на колени",
+     "warnings": [
+      "длина текста FB 323 слов (исходник 383, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 630,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-23T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/715040745_1561429148709112_4504820851762351049_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DvRQ3J8i7ioQ7kNvwGb9UgO&_nc_oc=AdqY5TcALuQ-riFZyhkEqWPluWLtE4N2MEj27_uRb55CsiblcHhhwQPV6LzCpdt7qLI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=-c4_FwunBvKixmZ0NvViOw&_nc_tpa=Q5bMBQK5kLI88l2VzS05T2TOFyUfp8bdCoQugeegY-gZNvQ2uoXb9kaBJSLw5NBshQ_i6brupLOzaYRxcA&oh=00_AQSCmBUWyf2yIgJ41-Po-EOngofxGjsvzhaIMzxl150EBw&oe=6B094250",
@@ -7343,7 +7437,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-2100-mix.jpg"
    },
    "source_key": "post:100045261260562_1561429625375731",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -7434,7 +7528,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-23 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1680880160097343": {
    "fingerprint": "d65c3bf6d45a7e223486",
