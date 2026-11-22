@@ -12440,12 +12440,13 @@
       "633031599904551": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122224194596930012_1173201085235094",
        "error": null,
        "last_attempt": "2026-11-22T23:48:47+04:00",
        "mode": "immediate",
        "photo_id": "122224194560930012",
        "post_id": "633031599904551_122224194596930012",
-       "status": "published"
+       "status": "done"
       },
       "715935674934966": {
        "attempts": 1,
