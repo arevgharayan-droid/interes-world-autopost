@@ -41,6 +41,7 @@
   "a2b8600fa33561995bf2": "2026-11-15T14:18:32+00:00",
   "a4aa72c523a52ab5087f": "2026-11-17T12:28:26+00:00",
   "a61727f789dc90904a32": "2026-11-20T14:41:43+00:00",
+  "a710265e7eb7797bade3": "2026-11-22T21:49:48+00:00",
   "aa503d9655a302d21d57": "2026-11-14T09:18:04+00:00",
   "ad130c15729ad1a41316": "2026-11-19T17:17:43+00:00",
   "b094df1fc1c2da2733f6": "2026-11-12T10:26:33+00:00",
@@ -11802,7 +11803,75 @@
    }
   },
   "2026-11-24 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ma mère a repoussé la carte faite main de ma fille de 6 ans en disant que les enfants de la pauvreté n'étaient pas ses petits-enfants, mais quand mon fils de 15 ans s'est levé, tout a basculé",
+     "warnings": [
+      "длина текста FB 634 слов (исходник 524, цель ±10%)",
+      "длина статьи 968 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1022,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/831616949_1670783277773698_5205988596333963673_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=eE_r_oBhwZMQ7kNvwGRNIIq&_nc_oc=AdoeCvMVGGLjwskmsF61A7Os0A2mt5fH7pyRj5BJoq4lK2OgsWOyijH2D5OLQdsEOjo&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Zj-RGBr8tRu0KPDxexBHhw&_nc_tpa=Q5bMBQKYPoqSH4mUJ7OWfgRqQl90NcZeI1L6HhxeYW6UDq9C3Qc6rS7oQQoe_Qza0-z-kz5wqTV8PWFZPw&oh=00_AQSSToqF_BpSPUjvWDIdvAxq8Fp3OtQUTMRvtaoHwmFR2A&oe=6B093F62",
@@ -11814,7 +11883,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-fr.jpg"
    },
    "source_key": "post:100045261260562_1670783311107028",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12063,7 +12132,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-24 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1699072051611487": {
    "fingerprint": "f8fa08ba8c7252c10bbb",
