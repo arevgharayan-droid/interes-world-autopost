@@ -36,6 +36,7 @@
   "27c68c846bc4be467b2b": "2026-11-22T21:17:23+00:00",
   "285546559f89fcbaefe2": "2026-11-15T10:15:20+00:00",
   "2918f58ba47afcae805f": "2026-11-15T14:15:11+00:00",
+  "2cfb4e442451ac45fdbd": "2026-11-23T13:59:07+00:00",
   "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
   "2d8dfdcca7b3aaf10ee6": "2026-11-21T19:44:41+00:00",
   "3009334746196cd3581f": "2026-11-17T17:52:52+00:00",
@@ -50,6 +51,7 @@
   "399b0797378aa4e1ed79": "2026-11-20T22:45:49+00:00",
   "3db8bd1517b5c6101ae3": "2026-11-20T16:46:35+00:00",
   "418a807c55a21247717d": "2026-11-22T21:36:39+00:00",
+  "42958ca025f584b844e8": "2026-11-23T13:59:07+00:00",
   "430a2b7c726cdc7d25cd": "2026-11-14T19:42:40+00:00",
   "43fc1331d6fb4f0c421e": "2026-11-17T20:47:52+00:00",
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
@@ -182,6 +184,7 @@
   "e883d8565fbbc8af866b": "2026-11-16T19:28:42+00:00",
   "ed651dd4ef8f1e73b864": "2026-11-23T13:49:42+00:00",
   "f1f1897f294bbbd74a1b": "2026-11-22T14:04:32+00:00",
+  "f409314ee4c8e226005b": "2026-11-23T13:59:07+00:00",
   "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00",
   "f4fbb08e36886ae63dd0": "2026-11-18T15:24:43+00:00",
   "fd395eead654da158a14": "2026-11-13T10:15:12+00:00"
@@ -21739,8 +21742,90 @@
    }
   },
   "2026-11-24 00:00": {
-   "langs": {},
-   "prepared": false,
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Os sogros tentaram afastar meu pai do meu casamento por ser lixeiro, mas bastou ele pegar o microfone para o salão inteiro congelar",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 685,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Родители жениха попросили отца невесты уйти со свадьбы из-за его работы, но стоило ему взять микрофон, как в зале повисла тишина",
+     "warnings": [
+      "длина текста FB 303 слов (исходник 369, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 683,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kayınvalidem babamı çöpçü olduğu için düğünümden göndermek istedi ama babam mikrofonu eline alınca salon buz kesti",
+     "warnings": [
+      "длина текста FB 272 слов (исходник 369, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 684,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "replaced": {
     "at": "2026-11-23T13:38:08.786890+00:00",
     "old_link": "https://www.facebook.com/story.php?story_fbid=1696791515172874&id=100045261260562"
@@ -21756,7 +21841,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-0000-ru.jpg"
    },
    "source_key": "post:100064230806326_1293976516086696",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -22176,7 +22261,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1304112321739782": {
    "fingerprint": "2588dc717eaf7780d296",
