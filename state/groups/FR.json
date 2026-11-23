@@ -11379,12 +11379,13 @@
       "1202025962997153": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122122815039409328_1148452614446784",
        "error": null,
        "last_attempt": "2026-11-23T01:25:51+04:00",
        "mode": "schedule",
        "photo_id": "122122815003409328",
        "post_id": "1202025962997153_122122815039409328",
-       "status": "published"
+       "status": "done"
       },
       "1250374694822508": {
        "attempts": 1,
