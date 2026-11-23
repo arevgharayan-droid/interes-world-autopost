@@ -87,7 +87,6 @@
   "aa92d1f8736cff43c0f0": "2026-11-19T19:58:54+00:00",
   "aedb3670a0e95e3b4e8e": "2026-11-22T14:04:34+00:00",
   "afa3a18208d092faed7a": "2026-11-16T23:51:32+00:00",
-  "b39e6345646bb01b4079": "2026-11-09T16:00:47+00:00",
   "b924e8960efa86262e90": "2026-11-12T20:02:32+00:00",
   "bc1a8f9edd9975cdd2d1": "2026-11-22T16:32:11+00:00",
   "c036910f5671f8e0661e": "2026-11-22T21:56:46+00:00",
@@ -96,7 +95,6 @@
   "c7f5d2b135602dc721d7": "2026-11-15T10:15:33+00:00",
   "caa5eaf84705d4e68592": "2026-11-17T17:52:09+00:00",
   "caa9ee0aac3ceacdcbc5": "2026-11-09T20:02:27+00:00",
-  "cc90f9800f2ceb809223": "2026-11-09T16:00:03+00:00",
   "cce306c23605b2fd33c0": "2026-11-18T08:52:12+00:00",
   "cd39e670f61e621b3317": "2026-11-18T08:52:12+00:00",
   "cda4a9c0ba0b01ac967a": "2026-11-19T17:35:36+00:00",
@@ -412,7 +410,6 @@
   "1205543595981082_122131586775430924": "2026-11-23T14:05:40+00:00",
   "1205543595981082_122131587795430924": "2026-11-23T17:37:41+00:00",
   "1205543595981082_122131588641430924": "2026-11-22T21:59:06+00:00",
-  "1208422892355505_122130180549418602": "2026-11-09T17:07:11+00:00",
   "1208422892355505_122130180687418602": "2026-11-09T20:06:36+00:00",
   "1208422892355505_122130231051418602": "2026-11-10T08:07:46+00:00",
   "1208422892355505_122130233379418602": "2026-11-10T11:07:28+00:00",
@@ -702,8 +699,6 @@
   "122130078051321366": "2026-11-16T23:58:01+00:00",
   "122130140769321366": "2026-11-17T11:08:59+00:00",
   "122130147783321366": "2026-11-17T12:36:24+00:00",
-  "122130180519418602": "2026-11-09T16:00:11+00:00",
-  "122130180657418602": "2026-11-09T16:00:53+00:00",
   "122130208389321366": "2026-11-17T17:58:21+00:00",
   "122130209511321366": "2026-11-17T18:17:32+00:00",
   "122130218691321366": "2026-11-17T20:53:09+00:00",
@@ -864,8 +859,6 @@
   "122132011971418602": "2026-11-20T22:51:28+00:00",
   "122132032209310273": "2026-11-16T16:05:54+00:00",
   "122132054649310273": "2026-11-16T19:36:04+00:00",
-  "122132055333436382": "2026-11-09T16:00:14+00:00",
-  "122132055867436382": "2026-11-09T16:00:57+00:00",
   "122132061375310273": "2026-11-16T20:35:34+00:00",
   "122132077893418602": "2026-11-21T10:22:28+00:00",
   "122132082393310273": "2026-11-16T23:57:33+00:00",
@@ -1201,7 +1194,6 @@
   "1239848699214091_122127903735439695": "2026-11-23T14:07:00+00:00",
   "1239848699214091_122127905085439695": "2026-11-23T17:39:04+00:00",
   "1239848699214091_122127905775439695": "2026-11-22T21:58:43+00:00",
-  "1268633826332790_122132055387436382": "2026-11-09T17:07:16+00:00",
   "1268633826332790_122132055903436382": "2026-11-09T20:06:40+00:00",
   "1268633826332790_122132106009436382": "2026-11-10T08:07:50+00:00",
   "1268633826332790_122132106345436382": "2026-11-10T11:07:33+00:00",
@@ -1290,7 +1282,6 @@
   "444776585382502_122229462872543856": "2026-11-23T14:13:24+00:00",
   "444776585382502_122229463664543856": "2026-11-23T17:44:57+00:00",
   "444776585382502_122229464438543856": "2026-11-22T22:00:02+00:00",
-  "633031599904551_122221802162930012": "2026-11-09T17:06:58+00:00",
   "633031599904551_122221802312930012": "2026-11-09T20:06:26+00:00",
   "633031599904551_122221843820930012": "2026-11-10T08:07:33+00:00",
   "633031599904551_122221845224930012": "2026-11-10T11:07:16+00:00",
@@ -1355,7 +1346,6 @@
   "633031599904551_122224203806930012": "2026-11-23T14:07:41+00:00",
   "633031599904551_122224204940930012": "2026-11-23T17:39:44+00:00",
   "633031599904551_122224205654930012": "2026-11-22T21:57:12+00:00",
-  "715935674934966_122202019430922316": "2026-11-09T17:07:05+00:00",
   "715935674934966_122202019616922316": "2026-11-09T20:06:32+00:00",
   "715935674934966_122202055208922316": "2026-11-10T08:07:41+00:00",
   "715935674934966_122202055532922316": "2026-11-10T11:07:24+00:00",
@@ -1418,123 +1408,6 @@
   "715935674934966_122203814906922316": "2026-11-22T21:57:34+00:00"
  },
  "slots": {
-  "2026-11-09 21:00": {
-   "langs": {
-    "DE": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1208422892355505": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122130180549418602_2236583727288722",
-       "error": null,
-       "last_attempt": "2026-11-09T20:00:07+04:00",
-       "mode": "schedule",
-       "photo_id": "122130180519418602",
-       "post_id": "1208422892355505_122130180549418602",
-       "status": "done"
-      },
-      "1268633826332790": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122132055387436382_1284342343855571",
-       "error": null,
-       "last_attempt": "2026-11-09T20:00:11+04:00",
-       "mode": "schedule",
-       "photo_id": "122132055333436382",
-       "post_id": "1268633826332790_122132055387436382",
-       "status": "done"
-      }
-     },
-     "title": "Mama, ruf Ben bitte nicht an“: Zwei Tage nach dem Auszug kam mein Sohn weinend zurück und gab mir ein Blatt Papier, das alles veränderte",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 28,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "633031599904551": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122221802162930012_1471742838213166",
-       "error": null,
-       "last_attempt": "2026-11-09T17:25:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122221802120930012",
-       "post_id": "633031599904551_122221802162930012",
-       "status": "done"
-      },
-      "715935674934966": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122202019430922316_2226525844596740",
-       "error": null,
-       "last_attempt": "2026-11-09T17:25:59+04:00",
-       "mode": "schedule",
-       "photo_id": "122202019400922316",
-       "post_id": "715935674934966_122202019430922316",
-       "status": "done"
-      }
-     },
-     "title": "Mijn zoon (18) kwam na twee dagen huilend thuis, draaide de deur op slot en smeekte: \"Bel Ben niet.\" Wat op dat papier stond, sloeg me de adem uit het lijf",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 27,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-09T21:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/885082662_122125385349457373_1843866180522569932_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PeCQohDAEMoQ7kNvwEiejm5&_nc_oc=AdrctgVazkLTkVVne_NurN9X-zCX3Lz1RMc0ax6NpV3H-YedbhIhhsDB0mjv0_NNhaY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=VjhOklHr2fiywEJqTC4Fqg&_nc_tpa=Q5bMBQI9LgZlTy6P9_cDPcr0H2Xytifoy46xSF2CAWILvvsgLi7qKXMoN6FhvxwhdrUVzBMH88Tj_pboGA&oh=00_AQRN7877Tk_rxtyzOSlCEsRE3La4KaZGPK9TRCC6SRCmIw&oe=6AF78E9D",
-    "link": "https://www.facebook.com/share/p/1HCxLSi37s/",
-    "origin": "manual",
-    "page_id": "61593721215501",
-    "text": "My eighteen-year-old son had just moved into an apartment with his lifelong best friend. I believed they were ready to take their first steps toward independence. But only two days later, Luke returned home in tears. He immediately locked the front door and whispered, \"Mom, there's something I have to admit. Whatever you do, please don't contact Ben.\" Then he handed me a paper he'd discovered at Ben's house. The words on it left me so shaken I could barely stand.\n\nI was cooking dinner when Luke entered the kitchen, tears streaming down his face.\n\nI switched off the burner and pulled a chair away from the table.\n\n\"Come sit with me, sweetheart. What's happened?\"\n\nBut Luke wouldn't sit.\n\nHe brushed his face with his sleeve, looked nervously down the hallway, and hurried toward the entrance.\n\nI heard the lock click.\n\n\"Mom, is anyone else home?\"\n\n\"No, it's just us. What's wrong? Did something happen between you and Ben?\"\n\nHe answered so sharply that I flinched.\n\n\"No! And promise me you won't call him, no matter what I tell you.\"\n\nMy heart began pounding.\n\nLuke and Ben had been inseparable since childhood.\n\nThey'd spent most of their lives growing up together.\n\nStrangers frequently remarked on their similar appearance, occasionally mistaking them for siblings.\n\nWhen the boys told me they'd rented an apartment together, I'd been thrilled.\n\nBoth were eighteen and eager to experience life on their own, and their friendship had lasted longer than almost any other relationship in their lives.\n\nI couldn't have imagined a better roommate for Luke.\n\nBut forty-eight hours after leaving home, my son stood before me shaking, unable to look me in the eyes.\n\n\"Luke, there's nothing you can't tell me,\" I assured him. \"We can figure out whatever's troubling you.\"\n\nHis voice suddenly grew louder.\n\n\"Mom, you have no idea! Stop saying you can fix this when you don't even know what happened!\"\n\nI was speechless.\n\nWhat could have occurred in just two days to terrify him this badly?\n\nThen a possibility crossed my mind.\n\nI hesitated, knowing the question might make him uncomfortable.\n\n\"Luke, honey... have you and Ben been keeping something about your relationship from me?\"\n\nHe stared at me in confusion.\n\n\"What are you talking about?\"\n\n\"If your feelings for each other have changed, you don't have to be afraid to tell me. Nothing would change how much I love you.\"\n\n\"Mom, absolutely not!\" he cried, covering his forehead with both hands.\n\n\"That's not it. Believe me, I wish the problem were that easy.\"\n\nAt last, he lowered himself into the chair.\n\nHe was still wearing his coat.\n\n\"There's something you need to understand about why I left home.\"\n\nI took the seat across from him.\n\n\"All right. Tell me.\"\n\n\"Moving out wasn't really about having my own apartment.\"\n\n\"Then what was it about?\"\n\nLuke stared at the tabletop.\n\n\"Ben told me something about our family. Something that sounded completely impossible.\"\n\nA cold sensation spread through me.\n\n\"What exactly did he tell you?\"\n\n\"At first, I thought he was making it up,\" Luke explained. \"I only moved in with him because I wanted proof. I needed to know if what he said was real.\"\n\nMy throat tightened.\n\n\"Proof of what?\"\n\nHe slipped his hand into his jacket.\n\nAfter feeling through a pocket, he pulled out a sheet of paper folded several times.\n\nHis fingers trembled as he held it.\n\nBut he didn't hand it over.\n\n\"Mom, before I let you see this, I need one promise.\"\n\nI leaned forward.\n\n\"Of course, sweetheart.\"\n\nHis eyes finally met mine.\n\n\"Don't hide the truth from me. Please, don't lie to me again.\"\n\nThe word \"again\" sent a frightening chill through my body.\n\n\"Luke, how did you get that document?\"\n\n\"I found it at Ben's place.\"\n\nI stretched out my hand, desperately hoping there was some innocent explanation.\n\nPerhaps Luke had misunderstood what he'd seen.\n\nOr maybe Ben had arranged an awful prank.\n\nBut the moment I opened the folded page and started reading, those possibilities disappeared.\n\nI scanned the opening lines.\n\nA wave of coldness washed over me.\n\nMy knees felt unsteady, and I collapsed back into my chair.\n\nFor several seconds, I struggled to draw a breath.\n\nBecause the secret Luke had uncovered was something I'd never imagined would end up in his hands. The rest of the story is waiting in the comments below. Drop a “YES” and give us a Like if you're ready to find out!",
-    "wp_media_id": 10,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261109-2100-nl.jpg"
-   },
-   "source_key": "post:61593721215501_122125386465457373",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-10 00:00": {
    "langs": {
     "DE": {
