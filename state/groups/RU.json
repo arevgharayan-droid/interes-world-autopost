@@ -21680,6 +21680,7 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-23T18:04:00+04:00",
        "mode": "schedule",
