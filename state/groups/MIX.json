@@ -88,7 +88,9 @@
   "9f7feb0a64ed0039062f": "2026-11-22T21:35:32+00:00",
   "a29ac55b8f1da0a4d68b": "2026-11-23T13:49:23+00:00",
   "a2b96c71e5032475f25c": "2026-11-17T10:38:26+00:00",
+  "a30a96dbb33e5ca54882": "2026-11-23T13:50:45+00:00",
   "a6fdd2c0df68079b8482": "2026-11-18T18:56:12+00:00",
+  "aa4188d49622e58f5fe7": "2026-11-23T13:50:45+00:00",
   "aaba67c9a1c5ee2c6122": "2026-11-19T19:58:49+00:00",
   "ab007dd685935f2c3980": "2026-11-17T10:38:26+00:00",
   "adaccf4f9fde1143ba93": "2026-11-21T19:44:56+00:00",
@@ -99,6 +101,7 @@
   "b380f193a4d40b198fda": "2026-11-19T22:00:55+00:00",
   "b3a24235e98172e900f6": "2026-11-17T20:47:15+00:00",
   "b55d3bb5e53f309a89d5": "2026-11-22T14:05:02+00:00",
+  "b81f44ecabbd429b953b": "2026-11-23T13:50:45+00:00",
   "ba4752512e3fefd45f2a": "2026-11-21T14:13:33+00:00",
   "bdb1bbcd6e4c0469fdaa": "2026-11-19T19:58:49+00:00",
   "be5b1350a2ae46ec948a": "2026-11-22T19:48:27+00:00",
@@ -117,6 +120,7 @@
   "dd10afabb1c82eab71d1": "2026-11-22T21:35:32+00:00",
   "dd60386fd5aa045d1aeb": "2026-11-22T21:29:29+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
+  "e122f06baf4646b19a02": "2026-11-23T13:50:45+00:00",
   "e1b66eb6a566198daa27": "2026-11-17T17:52:42+00:00",
   "e245fd7320627341a5e4": "2026-11-18T22:49:45+00:00",
   "e253d6f4f0d39d6b4d98": "2026-11-19T22:00:55+00:00",
@@ -7348,8 +7352,99 @@
    }
   },
   "2026-11-23 21:00": {
-   "langs": {},
-   "prepared": false,
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "تزوجتُ متشرداً يحتضر لأنني أشفقت عليه، وبعد وفاته وصلتني رسالة كشفت أن السبب لم يكن ما ظننته",
+     "warnings": [
+      "длина текста FB 810 слов (исходник 1084, цель ±10%)",
+      "длина статьи 556 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 681,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Un hombre sin hogar me pidió matrimonio con un cartel: \"Solo me queda un mes\". Dije que sí, pero después de su muerte una carta lo cambió todo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 679,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Un om fără adăpost a ținut un carton: „Căsătorește-te cu mine, mai am o lună”. Am spus da, dar scrisoarea primită după moartea lui mi-a schimbat tot ce credeam",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 680,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Бездомный Ларри поднял табличку «Женись на мне, мне остался месяц», я согласилась, а после его смерти в почтовом ящике нашла письмо",
+     "warnings": [
+      "длина текста FB 903 слов (исходник 1084, цель ±10%)",
+      "длина статьи 593 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 678,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "replaced": {
     "at": "2026-11-23T13:33:42.546872+00:00",
     "old_link": "https://www.facebook.com/story.php?story_fbid=1561429625375731&id=100045261260562"
@@ -7365,7 +7460,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-2100-mix.jpg"
    },
    "source_key": "post:100064230806326_1502016955282650",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -7782,7 +7877,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1503057308511948": {
    "fingerprint": "06ae9bbbbbea184e795e",
