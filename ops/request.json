@@ -1,1 +1,58 @@
-{"id": "start-now-20261122234655", "cmd": "start-now", "args": {}}
+{
+ "id": "replace-2311-1549",
+ "cmd": "replace-source",
+ "args": {
+  "items": [
+   {
+    "group": "EN",
+    "slot": "2026-11-23 18:00",
+    "link": "https://www.facebook.com/story.php?story_fbid=1493604279457251&id=100064230806326"
+   },
+   {
+    "group": "IT",
+    "slot": "2026-11-23 18:00",
+    "link": "https://www.facebook.com/story.php?story_fbid=1443677054449974&id=100064230806326"
+   },
+   {
+    "group": "MIX",
+    "slot": "2026-11-23 18:00",
+    "link": "https://www.facebook.com/story.php?story_fbid=1440458744771805&id=100064230806326"
+   },
+   {
+    "group": "EN",
+    "slot": "2026-11-23 21:00",
+    "link": "https://www.facebook.com/story.php?story_fbid=1324686576349023&id=100064230806326"
+   },
+   {
+    "group": "IT",
+    "slot": "2026-11-23 21:00",
+    "link": "https://www.facebook.com/story.php?story_fbid=1321054696712211&id=100064230806326"
+   },
+   {
+    "group": "RU",
+    "slot": "2026-11-23 21:00",
+    "link": "https://www.facebook.com/story.php?story_fbid=1436771018473911&id=100064230806326"
+   },
+   {
+    "group": "MIX",
+    "slot": "2026-11-23 21:00",
+    "link": "https://www.facebook.com/story.php?story_fbid=1502016955282650&id=100064230806326"
+   },
+   {
+    "group": "FR",
+    "slot": "2026-11-24 00:00",
+    "link": "https://www.facebook.com/story.php?story_fbid=1539024094915269&id=100064230806326"
+   },
+   {
+    "group": "IT",
+    "slot": "2026-11-24 00:00",
+    "link": "https://www.facebook.com/story.php?story_fbid=1265872628897085&id=100064230806326"
+   },
+   {
+    "group": "RU",
+    "slot": "2026-11-24 00:00",
+    "link": "https://www.facebook.com/story.php?story_fbid=1293976516086696&id=100064230806326"
+   }
+  ]
+ }
+}
