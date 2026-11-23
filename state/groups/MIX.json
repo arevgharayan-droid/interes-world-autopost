@@ -7242,7 +7242,10 @@
      "warnings": [
       "длина текста FB 415 слов (исходник 607, цель ±10%)",
       "длина статьи 515 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 673,
+     "wp_status": "future"
     },
     "CS": {
      "pages": {},
@@ -7262,7 +7265,10 @@
      "generated": true,
      "pages": {},
      "title": "Llamé a mis padres desde la cama del hospital para que cuidaran a mi bebé de 4 semanas, y mi padre me colgó; a las 2 de la madrugada se abrió la puerta",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 671,
+     "wp_status": "future"
     },
     "FR": {
      "pages": {},
@@ -7290,7 +7296,10 @@
      "generated": true,
      "pages": {},
      "title": "M-am rugat de părinți din patul de spital să-mi ia bebelușul, dar tata a închis telefonul: „Astăzi e seara Whitney”. La 2 noaptea, ușa s-a deschis",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 672,
+     "wp_status": "future"
     },
     "RU": {
      "backend": "subscription",
@@ -7314,7 +7323,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "replaced": {
     "at": "2026-11-23T13:25:52.855754+00:00",
     "old_link": "https://www.facebook.com/story.php?story_fbid=1680880160097343&id=100045261260562"
@@ -7330,7 +7339,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-1800-mix.jpg"
    },
    "source_key": "post:100064230806326_1440458744771805",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -7741,7 +7750,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1472616188222727": {
    "fingerprint": "afb1a743733f585ccabb",
