@@ -22232,6 +22232,11 @@
     "url": "https://hetaqrqir.com",
     "wp_auth": "make_connector"
    }
+  },
+  "2026-11-24 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-24T12:00:00+04:00",
+   "status": "no_source"
   }
  },
  "source_cutoff": "2026-10-29T16:36:25+00:00",
@@ -22267,6 +22272,7 @@
    "link": "https://www.facebook.com/share/p/1D4J2nyb5j/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122120428167316334&id=61589490035610"
   },
+  "link:29d44a464eebcad332c8": {},
   "link:2d2e0eebdad45758246b": {
    "link": "https://www.facebook.com/share/p/18de8q2K3z/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1662788041891277&id=100044802900629"
