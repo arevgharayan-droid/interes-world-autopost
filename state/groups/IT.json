@@ -21513,6 +21513,12 @@
        "post_id": "1142735408923607_122139786177311525",
        "status": "published"
       },
+      "1149681171551323": {
+       "attempts": 1,
+       "last_attempt": "2026-11-23T18:13:54+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "1160223747182678": {
        "attempts": 1,
        "error": null,
