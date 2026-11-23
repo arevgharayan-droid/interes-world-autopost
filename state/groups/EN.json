@@ -5,6 +5,7 @@
   "0765758a363af2b0a34f": "2026-11-19T19:58:26+00:00",
   "13f592d7784f33684a59": "2026-11-15T14:15:49+00:00",
   "1422a482f54759518464": "2026-11-13T10:14:30+00:00",
+  "164d0de39787bdc82d8b": "2026-11-23T13:49:53+00:00",
   "17fe118fb129ce285808": "2026-11-17T10:38:06+00:00",
   "19c6a566489a5c956a03": "2026-11-21T17:03:47+00:00",
   "1d3d436a2f7d527c8e72": "2026-11-17T20:47:00+00:00",
@@ -16110,8 +16111,74 @@
    }
   },
   "2026-11-23 21:00": {
-   "langs": {},
-   "prepared": false,
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Told Me to Leave His House in Two Hours After Inheriting $7.3 Million, But One Sentence in His Grandmother's Will Changed Everything",
+     "warnings": [
+      "длина текста FB 522 слов (исходник 645, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1069,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "replaced": {
     "at": "2026-11-23T13:26:41.994112+00:00",
     "old_link": "https://www.facebook.com/story.php?story_fbid=1723049765880382&id=100045261260562"
@@ -16127,7 +16194,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-2100-en.jpg"
    },
    "source_key": "post:100064230806326_1324686576349023",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -16798,7 +16865,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1493604279457251": {
    "fingerprint": "4f49e143cca9f585ac82",
