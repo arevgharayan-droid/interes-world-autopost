@@ -1288,7 +1288,7 @@
   "444776585382502_122229461096543856": "2026-11-23T08:44:29+00:00",
   "444776585382502_122229461954543856": "2026-11-23T11:44:32+00:00",
   "444776585382502_122229462872543856": "2026-11-23T14:13:24+00:00",
-  "444776585382502_122229463664543856": "2026-11-22T21:52:32+00:00",
+  "444776585382502_122229463664543856": "2026-11-23T17:44:57+00:00",
   "444776585382502_122229464438543856": "2026-11-22T22:00:02+00:00",
   "633031599904551_122221802162930012": "2026-11-09T17:06:58+00:00",
   "633031599904551_122221802312930012": "2026-11-09T20:06:26+00:00",
@@ -13484,21 +13484,25 @@
       },
       "363312640206172": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122204094764461850_1522536243056262",
        "error": null,
        "last_attempt": "2026-11-23T01:51:53+04:00",
        "mode": "schedule",
        "photo_id": "122204094710461850",
        "post_id": "363312640206172_122204094764461850",
-       "status": "published"
+       "status": "done"
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229463664543856_1171332135332468",
        "error": null,
        "last_attempt": "2026-11-23T01:52:29+04:00",
        "mode": "schedule",
        "photo_id": "122229463604543856",
        "post_id": "444776585382502_122229463664543856",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Meine Schwester nannte mich „dreckig“ und verspottete mein Erbe, eine alte Hütte – doch als ich sie betrat, erstarrte ich",
@@ -13651,7 +13655,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-2100-nl.jpg"
    },
    "source_key": "post:100064230806326_1488987449918934",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
