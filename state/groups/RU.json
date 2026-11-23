@@ -21979,6 +21979,11 @@
     "url": "https://peakproductions.co",
     "wp_auth": "make_connector"
    }
+  },
+  "2026-11-24 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-24T12:00:00+04:00",
+   "status": "no_source"
   }
  },
  "source_cutoff": "2026-10-29T16:40:38+00:00",
@@ -22142,6 +22147,7 @@
   "link:dfd4b49dd40db94a2be0": {},
   "link:e113f786728d6a78408b": {},
   "link:e32b7aa6148bae36ed41": {},
+  "link:e414e1f188420fcd55d4": {},
   "link:e4e96ec0da921389d8f2": {
    "link": "https://www.facebook.com/share/p/1CGgzVSe9K/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=1663568758479872&id=100044802900629"
