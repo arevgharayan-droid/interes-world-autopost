@@ -59,6 +59,7 @@
   "60f9c89309a199527b79": "2026-11-17T18:29:53+00:00",
   "628ca1701fa9d7a8990a": "2026-11-16T16:01:05+00:00",
   "6381b46ba9ce35422261": "2026-11-21T19:44:42+00:00",
+  "660420edeb159b0967b6": "2026-11-23T13:58:44+00:00",
   "66a2647af0e1f8e411ad": "2026-11-17T20:38:41+00:00",
   "6763b65e85eb1fe33006": "2026-11-22T21:35:02+00:00",
   "687b58d7f631c7172828": "2026-11-20T19:26:25+00:00",
@@ -115,6 +116,7 @@
   "ae98003cc9368817f7b5": "2026-11-20T16:46:26+00:00",
   "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
   "b4aed3404e941135191d": "2026-11-21T17:04:20+00:00",
+  "b57cbd22e06c05929359": "2026-11-23T13:58:44+00:00",
   "b6941f1e1e183b8fe407": "2026-11-09T20:02:08+00:00",
   "ba5f05202837b2fb860d": "2026-11-14T11:39:45+00:00",
   "bafb37100cdb3ff9df9b": "2026-11-19T10:26:56+00:00",
@@ -125,6 +127,7 @@
   "c3a669114cbd1e96b360": "2026-11-12T10:26:53+00:00",
   "c73763bb1c4080ccec74": "2026-11-20T22:45:58+00:00",
   "c8020142d83ca272273c": "2026-11-16T00:18:19+00:00",
+  "ce41fb776b521b73c710": "2026-11-23T13:58:44+00:00",
   "cf29e5e2e8b5770866b0": "2026-11-16T10:16:33+00:00",
   "d2bd36c62fe9db3a15cc": "2026-11-20T19:26:25+00:00",
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
@@ -21783,8 +21786,86 @@
    }
   },
   "2026-11-24 00:00": {
-   "langs": {},
-   "prepared": false,
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Osmiletá dcera mi těsně po porodu pošeptala, ať se schovám pod nemocniční postel. Když jsem uslyšela babiččin hlas, pochopila jsem proč",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1076,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mia figlia di otto anni mi sussurrò di nascondermi sotto il letto d'ospedale, pochi istanti dopo il parto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1074,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mamo, schowaj się pod łóżko. Już!” – szepnęła ośmioletnia Emily tuż po porodzie, a po chwili do sali weszła teściowa z lekarzem",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1075,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "replaced": {
     "at": "2026-11-23T13:35:38.842430+00:00",
     "old_link": "https://www.facebook.com/story.php?story_fbid=1690624162456276&id=100045261260562"
@@ -21800,7 +21881,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-it.jpg"
    },
    "source_key": "post:100064230806326_1265872628897085",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -22190,7 +22271,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1321054696712211": {
    "fingerprint": "1990485a7580f6909b23",
