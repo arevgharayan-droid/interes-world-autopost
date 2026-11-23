@@ -21468,21 +21468,25 @@
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141834624808945_1443005071061192",
        "error": null,
        "last_attempt": "2026-11-23T18:10:23+04:00",
        "mode": "immediate",
        "photo_id": "122141834600808945",
        "post_id": "1030877436782212_122141834624808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112038528456562_1944961366913819",
        "error": null,
        "last_attempt": "2026-11-23T18:07:43+04:00",
        "mode": "immediate",
        "photo_id": "122112038504456562",
        "post_id": "1064982806700854_122112038528456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
@@ -21504,12 +21508,14 @@
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108696750506427_1690147569576474",
        "error": null,
        "last_attempt": "2026-11-23T18:07:03+04:00",
        "mode": "immediate",
        "photo_id": "122108696726506427",
        "post_id": "1079964265201139_122108696750506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
@@ -21549,12 +21555,14 @@
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142397832811401_1121609964209631",
        "error": null,
        "last_attempt": "2026-11-23T18:09:42+04:00",
        "mode": "immediate",
        "photo_id": "122142397808811401",
        "post_id": "1114015015119414_122142397832811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
@@ -21567,12 +21575,14 @@
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122110972118543006_1443877041283403",
        "error": null,
        "last_attempt": "2026-11-23T18:08:24+04:00",
        "mode": "immediate",
        "photo_id": "122110972094543006",
        "post_id": "1140835409106424_122110972118543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
@@ -21616,12 +21626,14 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129516085300955_3028233764183909",
        "error": null,
        "last_attempt": "2026-11-23T18:11:01+04:00",
        "mode": "immediate",
        "photo_id": "122129516043300955",
        "post_id": "1160240797163045_122129516085300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
@@ -21634,21 +21646,25 @@
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126713989405175_1389659186395730",
        "error": null,
        "last_attempt": "2026-11-23T18:09:04+04:00",
        "mode": "immediate",
        "photo_id": "122126713965405175",
        "post_id": "1191480207389219_122126713989405175",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113488974437662_1602067428390210",
        "error": null,
        "last_attempt": "2026-11-23T18:06:21+04:00",
        "mode": "immediate",
        "photo_id": "122113488950437662",
        "post_id": "997772916762884_122113488974437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Al matrimonio la famiglia di lei derise mia madre e la bagnò con una pompa da giardino: io mi tolsi l'anello e dissi che entro l'alba il loro impero sarebbe sparito",
