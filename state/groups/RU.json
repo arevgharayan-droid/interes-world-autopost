@@ -21562,12 +21562,13 @@
       "1075346445663696": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122144342420775004_1705781167830033",
        "error": null,
        "last_attempt": "2026-11-23T17:56:49+04:00",
        "mode": "schedule",
        "photo_id": "122144342360775004",
        "post_id": "1075346445663696_122144342420775004",
-       "status": "published"
+       "status": "done"
       },
       "1075712068960532": {
        "attempts": 1,
