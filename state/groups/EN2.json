@@ -14457,12 +14457,14 @@
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140247402776189_1915386803206093",
        "error": null,
        "last_attempt": "2026-11-23T01:25:56+04:00",
        "mode": "schedule",
        "photo_id": "122140247372776189",
        "post_id": "994273113779575_122140247402776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Mom Laughed and Said I Wasn't Family Enough for the Christmas Vacation I Planned, Then I Opened My Bank Account",
@@ -14527,7 +14529,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1500-en2.jpg"
    },
    "source_key": "post:100045261260562_1680979186754107",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
