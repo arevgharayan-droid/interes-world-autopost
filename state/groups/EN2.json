@@ -15121,6 +15121,11 @@
     "url": "https://hetaqrqir.com",
     "wp_auth": "make_connector"
    }
+  },
+  "2026-11-24 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-24T12:00:00+04:00",
+   "status": "no_source"
   }
  },
  "source_cutoff": "2026-10-29T16:38:32+00:00",
@@ -15270,6 +15275,7 @@
    "resolved": "https://www.facebook.com/story.php?story_fbid=122125242561457373&id=61593721215501"
   },
   "link:bcc9942eb8c7cc3307d4": {},
+  "link:bd86c6b8b2f2bd6aee86": {},
   "link:beb8d9aa055d10de7081": {},
   "link:c1362929eaedf29e07ce": {
    "link": "https://www.facebook.com/share/p/1F6Lwq6AtB/",
