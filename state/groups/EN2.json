@@ -14691,12 +14691,14 @@
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140250006776189_917798128086295",
        "error": null,
        "last_attempt": "2026-11-23T01:51:36+04:00",
        "mode": "schedule",
        "photo_id": "122140249976776189",
        "post_id": "994273113779575_122140250006776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Daughter-in-Law Told Me to Go Live on the Streets Five Days After My Husband's Funeral, but She Never Knew What He Left Me",
@@ -14759,7 +14761,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-en2.jpg"
    },
    "source_key": "post:100044802900629_1652177906285624",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

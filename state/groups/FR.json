@@ -5,9 +5,7 @@
   "0558b5c7136e6c324348": "2026-11-22T21:41:49+00:00",
   "0cc919e89bd6281c811b": "2026-11-17T20:47:02+00:00",
   "0eae76a4b0a9fac31d88": "2026-11-22T19:48:31+00:00",
-  "15762788a9c71b2165b1": "2026-11-09T19:59:18+00:00",
   "15db7f5bef45fafd3307": "2026-11-19T22:00:40+00:00",
-  "1d9175966e062556cf08": "2026-11-09T20:02:35+00:00",
   "1de1978484aefe0b2b8a": "2026-11-14T11:39:11+00:00",
   "1e5353b2a2e832230c83": "2026-11-10T22:07:10+00:00",
   "1fd17475bec6b972056b": "2026-11-22T16:31:51+00:00",
@@ -16,7 +14,6 @@
   "3da4775069ee736a2d78": "2026-11-22T21:33:46+00:00",
   "3dce7e6988a88bf961cd": "2026-11-19T17:52:54+00:00",
   "3f016791a0afbbb7ef04": "2026-11-18T08:52:10+00:00",
-  "4669803f0e3f6f3d3927": "2026-11-09T20:01:39+00:00",
   "4a12667ae8855b24c947": "2026-11-19T21:13:15+00:00",
   "4a73690c41800c227951": "2026-11-16T16:00:49+00:00",
   "4bc4dacea6526b7a3a41": "2026-11-22T14:04:08+00:00",
@@ -27,7 +24,6 @@
   "6d1360b71c35b272374f": "2026-11-21T14:12:53+00:00",
   "6ea240ce08a9828f6d3b": "2026-11-21T19:44:46+00:00",
   "6ef6e1fee3c933942094": "2026-11-22T21:17:15+00:00",
-  "6f29b2fcdf0d736e64fa": "2026-11-09T20:00:30+00:00",
   "7a8b9787a9038db6d1c3": "2026-11-10T22:06:09+00:00",
   "82146aa95a8c25effbbd": "2026-11-10T22:03:44+00:00",
   "82514212930f6a077dae": "2026-11-20T16:46:01+00:00",
@@ -74,7 +70,6 @@
   "1011074408765807_122105619764536431": "2026-11-23T17:36:32+00:00",
   "1011074408765807_122105620166536431": "2026-11-22T21:52:55+00:00",
   "1011074408765807_122105655086536431": "2026-11-23T20:06:36+00:00",
-  "1032441206625600_122117195630633539": "2026-11-09T20:06:26+00:00",
   "1032441206625600_122117215142633539": "2026-11-10T08:07:33+00:00",
   "1032441206625600_122117215352633539": "2026-11-10T11:07:16+00:00",
   "1032441206625600_122117215976633539": "2026-11-10T14:09:40+00:00",
@@ -177,7 +172,6 @@
   "1041497042386258_122144405138738075": "2026-11-23T17:37:19+00:00",
   "1041497042386258_122144405792738075": "2026-11-22T21:55:03+00:00",
   "1041497042386258_122144514674738075": "2026-11-23T20:07:26+00:00",
-  "1058598924006917_122109008924457428": "2026-11-09T20:06:33+00:00",
   "1058598924006917_122109017930457428": "2026-11-10T08:07:40+00:00",
   "1058598924006917_122109018206457428": "2026-11-10T11:07:24+00:00",
   "1058598924006917_122109018638457428": "2026-11-10T14:09:46+00:00",
@@ -527,10 +521,6 @@
   "122105620136536431": "2026-11-22T21:52:55+00:00",
   "122105622212536887": "2026-11-23T13:51:30+00:00",
   "122105655056536431": "2026-11-23T13:50:18+00:00",
-  "122109017900457428": "2026-11-09T19:59:40+00:00",
-  "122109018176457428": "2026-11-09T20:00:48+00:00",
-  "122109018608457428": "2026-11-09T20:01:58+00:00",
-  "122109018824457428": "2026-11-09T20:02:54+00:00",
   "122109019184457428": "2026-11-09T20:08:07+00:00",
   "122109063476457428": "2026-11-10T22:02:59+00:00",
   "122109063674457428": "2026-11-10T22:04:05+00:00",
@@ -585,10 +575,6 @@
   "122109579830457428": "2026-11-22T21:49:16+00:00",
   "122109580664457428": "2026-11-22T21:56:07+00:00",
   "122109608432457428": "2026-11-23T13:52:55+00:00",
-  "122117215112633539": "2026-11-09T19:59:35+00:00",
-  "122117215322633539": "2026-11-09T20:00:43+00:00",
-  "122117215946633539": "2026-11-09T20:01:54+00:00",
-  "122117216312633539": "2026-11-09T20:02:50+00:00",
   "122117216870633539": "2026-11-09T20:08:00+00:00",
   "122117289050633539": "2026-11-10T22:02:54+00:00",
   "122117289266633539": "2026-11-10T22:03:59+00:00",
@@ -643,10 +629,6 @@
   "122118101258633539": "2026-11-22T21:45:09+00:00",
   "122118101822633539": "2026-11-22T21:52:20+00:00",
   "122118148700633539": "2026-11-23T13:50:00+00:00",
-  "122121161931409328": "2026-11-09T19:59:24+00:00",
-  "122121162141409328": "2026-11-09T20:00:34+00:00",
-  "122121162549409328": "2026-11-09T20:01:44+00:00",
-  "122121162879409328": "2026-11-09T20:02:40+00:00",
   "122121163467409328": "2026-11-09T20:07:45+00:00",
   "122121314037409328": "2026-11-10T22:02:42+00:00",
   "122121314409409328": "2026-11-10T22:03:49+00:00",
@@ -687,10 +669,6 @@
   "122122548657409328": "2026-11-20T17:04:28+00:00",
   "122122564977409328": "2026-11-20T19:26:54+00:00",
   "122122576023409328": "2026-11-20T22:45:53+00:00",
-  "122122604361299008": "2026-11-09T19:59:29+00:00",
-  "122122604529299008": "2026-11-09T20:00:38+00:00",
-  "122122605021299008": "2026-11-09T20:01:48+00:00",
-  "122122605267299008": "2026-11-09T20:02:45+00:00",
   "122122605873299008": "2026-11-09T20:07:52+00:00",
   "122122621275409328": "2026-11-21T10:17:23+00:00",
   "122122646511409328": "2026-11-21T14:13:08+00:00",
@@ -720,10 +698,6 @@
   "122122909959409328": "2026-11-23T13:49:34+00:00",
   "122122925553299008": "2026-11-13T14:37:44+00:00",
   "122123025081299008": "2026-11-14T19:42:32+00:00",
-  "122123059485415639": "2026-11-09T19:59:27+00:00",
-  "122123059677415639": "2026-11-09T20:00:36+00:00",
-  "122123060121415639": "2026-11-09T20:01:47+00:00",
-  "122123060493415639": "2026-11-09T20:02:43+00:00",
   "122123060871415639": "2026-11-09T20:07:48+00:00",
   "122123073729299008": "2026-11-15T10:25:47+00:00",
   "122123134479299008": "2026-11-16T00:19:57+00:00",
@@ -817,10 +791,6 @@
   "122124997875415639": "2026-11-22T21:43:10+00:00",
   "122124998595415639": "2026-11-22T21:50:49+00:00",
   "122125083135415639": "2026-11-23T13:49:37+00:00",
-  "122125229649303172": "2026-11-09T19:59:32+00:00",
-  "122125229841303172": "2026-11-09T20:00:41+00:00",
-  "122125230255303172": "2026-11-09T20:01:51+00:00",
-  "122125230567303172": "2026-11-09T20:02:47+00:00",
   "122125231233303172": "2026-11-09T20:07:56+00:00",
   "122125390443303172": "2026-11-10T22:02:51+00:00",
   "122125390677303172": "2026-11-10T22:03:56+00:00",
@@ -875,10 +845,6 @@
   "122127104535303172": "2026-11-22T21:44:29+00:00",
   "122127104889303172": "2026-11-22T21:51:44+00:00",
   "122127169671303172": "2026-11-23T13:49:50+00:00",
-  "122128240707441679": "2026-11-09T19:59:38+00:00",
-  "122128241139441679": "2026-11-09T20:00:45+00:00",
-  "122128241823441679": "2026-11-09T20:01:56+00:00",
-  "122128242369441679": "2026-11-09T20:02:52+00:00",
   "122128243617441679": "2026-11-09T20:08:04+00:00",
   "122128426959441679": "2026-11-10T22:02:57+00:00",
   "122128427253441679": "2026-11-10T22:04:02+00:00",
@@ -1188,147 +1154,6 @@
   "1480100130926050": "2026-11-23T13:50:40+00:00"
  },
  "slots": {
-  "2026-11-10 00:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122117195630633539_1377093411053145",
-       "error": null,
-       "last_attempt": "2026-11-09T17:27:15+04:00",
-       "mode": "schedule",
-       "photo_id": "122117195600633539",
-       "post_id": "1032441206625600_122117195630633539",
-       "status": "done"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122109008924457428_2197289194198952",
-       "error": null,
-       "last_attempt": "2026-11-09T17:27:20+04:00",
-       "mode": "schedule",
-       "photo_id": "122109008894457428",
-       "post_id": "1058598924006917_122109008924457428",
-       "status": "done"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122122583325299008_1647327713600112",
-       "error": null,
-       "last_attempt": "2026-11-09T17:27:07+04:00",
-       "mode": "schedule",
-       "photo_id": "122122583295299008",
-       "post_id": "1079295351933311_122122583325299008",
-       "status": "done"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122125198977303172_3407333892988191",
-       "error": null,
-       "last_attempt": "2026-11-09T17:27:11+04:00",
-       "mode": "schedule",
-       "photo_id": "122125198947303172",
-       "post_id": "1145306638657445_122125198977303172",
-       "status": "done"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122121128631409328_3551255285035327",
-       "error": null,
-       "last_attempt": "2026-11-09T17:26:58+04:00",
-       "mode": "schedule",
-       "photo_id": "122121128601409328",
-       "post_id": "1202025962997153_122121128631409328",
-       "status": "done"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122123013849415639_1165685749370431",
-       "error": null,
-       "last_attempt": "2026-11-09T17:27:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122123013819415639",
-       "post_id": "1250374694822508_122123013849415639",
-       "status": "done"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122128195527441679_933052569741299",
-       "error": null,
-       "last_attempt": "2026-11-09T18:55:09+04:00",
-       "mode": "schedule",
-       "photo_id": "122128195491441679",
-       "post_id": "1260826840455724_122128195527441679",
-       "status": "done"
-      }
-     },
-     "title": "La fille de la domestique a lancé au parrain de la mafia : « Je suis ta nouvelle garde du corps » – quelques heures plus tard, elle accusait son homme de confiance",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 20,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-10T00:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/885055004_122140428500778984_7093970988081354034_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OcFs2rc4_jAQ7kNvwETy11k&_nc_oc=AdpDtGMll965QafhJ4XgWXxkfGT9JCP8jjNpYHeR_c8e_UgM3q8EFzJ6svfHfobvp7o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=yqz5IZHqMBs3l8luOGxKJA&_nc_tpa=Q5bMBQL638QfBcGztsR_a4KnzEF4F2mjE87EGQWrK572ucSXm2ZgwcuJCAswH9ybgGBWjrzlB-P3PetECw&oh=00_AQSJB3df5c7FGtJGYoYKiI0N2BeqXLl37i02uFdONTKFdQ&oe=6AF7A394",
-    "link": "https://www.facebook.com/share/p/14hXe1FrSdy/",
-    "origin": "manual",
-    "page_id": "61573369523860",
-    "text": "# The Maid’s Little Girl Told the Mafia Boss, “I’m Your New Bodyguard”—Hours Later, She Accused His Most Trusted Man\n\n“I am your new bodyguard.”\n\nVincent Moretti slowly lowered his newspaper.\n\nStanding in the doorway of his private study was four-year-old Lily Delgado, wearing a tiny black suit that was too big at the shoulders, a crooked red bow in her dark curls, and a plastic earpiece hooked around one ear.\n\nOne small hand rested on her hip.\n\nThe other pointed toward him importantly.\n\nVincent stared.\n\nBehind his chair, four armed security men stared too.\n\nLily straightened.\n\n“I’m protecting you now.”\n\nFor six years, nobody in the Moretti mansion had heard Vincent laugh.\n\nNot since his wife died.\n\nBut that morning, the most feared man in Chicago threw his head back and laughed so hard his newspaper slid onto the floor.\n\nHis guards looked almost alarmed.\n\n“You?” Vincent finally managed.\n\n“Yes.”\n\n“My bodyguard?”\n\n“Yes.”\n\nHe glanced toward the four enormous men behind him.\n\n“Should I fire them?”\n\nLily studied the guards seriously.\n\n“They can help.”\n\nVincent laughed even harder.\n\nHer mother, Rosa, rushed into the room seconds later.\n\n“Lily!”\n\nRosa stopped dead when she saw her daughter standing beside Vincent’s desk.\n\n“I’m so sorry, Mr. Moretti. She knows she isn’t supposed to be up here.”\n\n“Mommy,” Lily protested, “I’m working.”\n\nVincent wiped at the corner of one eye.\n\n“I feel safer already.”\n\nRosa closed her eyes.\n\n“Please don’t encourage her.”\n\nLily spent most days in the staff kitchen while Rosa worked. She colored, ate whatever Mama Gina slipped her, and watched everything with the quiet attention adults rarely notice in children.\n\nEvery morning she waved at Vincent.\n\nEvery afternoon she slid another crayon drawing beneath his office door.\n\nVincent never mentioned them.\n\nBut none ever appeared in the trash.\n\nBy lunchtime, Lily had returned to the kitchen, still wearing her ridiculous little suit.\n\nVincent passed through on his way to a meeting.\n\n“Security report?”\n\nLily nodded.\n\n“Everything safe.”\n\n“Excellent.”\n\nThen his expression softened.\n\n“Stay alert.”\n\n“I always do.”\n\nTwo hours later, Vincent opened the shallow drawer of his desk and stopped breathing.\n\nThe gold watch was gone.\n\nIt wasn’t his most expensive watch.\n\nIt was simply the only one that mattered.\n\nHis late wife Isabella had given it to him on their wedding day. Inside the case she had engraved four words:\n\n**Come home to me.**\n\nVincent had barely worn it since she died.\n\nBut he always knew exactly where it was.\n\nHis security chief, Dominic Cole, locked down the study.\n\nStaff were questioned.\n\nRooms searched.\n\nFifteen minutes later, Dominic returned holding the watch between two fingers.\n\n“Found it.”\n\nVincent’s jaw tightened.\n\n“Where?”\n\nDominic hesitated.\n\n“In Rosa’s apron pocket.”\n\nRosa’s face went white.\n\n“No.”\n\nThe entire room became still.\n\n“I never touched that watch.”\n\nDominic looked almost sympathetic.\n\n“Rosa, it was in your pocket.”\n\n“I don’t know how.”\n\nVincent stared at her.\n\nRosa had worked in his home for two years without a single problem.\n\nBut Dominic had been beside him for ten.\n\nHe knew every entrance to the estate, every guard rotation, every private route Vincent traveled.\n\nDominic lowered his voice.\n\n“She’s raising a child alone, boss. Money gets tight. People make mistakes.”\n\nRosa turned sharply.\n\n“What is that supposed to mean?”\n\nThen a tiny voice came from the doorway.\n\n“Mama?”\n\nLily stood there.\n\nHer little black jacket was still buttoned crookedly.\n\nRosa immediately crossed toward her.\n\n“Sweetheart, go downstairs.”\n\nBut Lily wasn’t looking at her mother.\n\nShe was staring at Dominic.\n\nAt his hand.\n\nAt the gold lion ring on his finger.\n\nHer small face became suddenly serious.\n\n“Mr. Dominic did it.”\n\nNobody moved.\n\nDominic gave a short laugh.\n\n“What?”\n\nLily stepped farther into the room.\n\nHer legs were shaking now.\n\nBut her voice wasn’t.\n\n“He put the watch in Mommy’s pocket.”\n\nDominic’s smile disappeared.\n\nVincent slowly turned toward his security chief.\n\nLily pointed directly at him.\n\n“I saw him.”\n\nFull story in c0mment 👇👇👇",
-    "wp_media_id": 19,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-0000-fr.jpg"
-   },
-   "source_key": "post:61573369523860_122140459448778984",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-10 12:00": {
    "langs": {
     "DE": {
