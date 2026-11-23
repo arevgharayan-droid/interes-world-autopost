@@ -1281,7 +1281,7 @@
   "444776585382502_122229461954543856": "2026-11-23T11:44:32+00:00",
   "444776585382502_122229462872543856": "2026-11-23T14:13:24+00:00",
   "444776585382502_122229463664543856": "2026-11-23T17:44:57+00:00",
-  "444776585382502_122229464438543856": "2026-11-22T22:00:02+00:00",
+  "444776585382502_122229464438543856": "2026-11-23T20:14:56+00:00",
   "633031599904551_122221802312930012": "2026-11-09T20:06:26+00:00",
   "633031599904551_122221843820930012": "2026-11-10T08:07:33+00:00",
   "633031599904551_122221845224930012": "2026-11-10T11:07:16+00:00",
@@ -13619,21 +13619,25 @@
       },
       "363312640206172": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122204095412461850_1528542445990305",
        "error": null,
        "last_attempt": "2026-11-23T01:59:37+04:00",
        "mode": "schedule",
        "photo_id": "122204095352461850",
        "post_id": "363312640206172_122204095412461850",
-       "status": "published"
+       "status": "done"
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229464438543856_1709326600798732",
        "error": null,
        "last_attempt": "2026-11-23T01:59:59+04:00",
        "mode": "schedule",
        "photo_id": "122229464384543856",
        "post_id": "444776585382502_122229464438543856",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Neun Anrufe von der Intensivstation blieben unbeantwortet – dann stand mein Oberst mit meiner Krankenakte vor meiner Familie",
@@ -13788,7 +13792,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-nl.jpg"
    },
    "source_key": "post:100064230806326_1520759550075057",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
