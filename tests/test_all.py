@@ -499,6 +499,44 @@ class CancelSlotTests(PipelineTests):
         self.assertEqual((len(graph.posts), len(wp.posts)), (0, 0))
 
 
+class ReplaceSourceTests(PipelineTests):
+    def test_replace_story_of_prepared_slot(self):
+        """Выпуск уже запланирован: новая ссылка заменяет историю — старые посты, статьи и фото удаляются,
+        следующий запуск готовит выпуск из новой истории; старая больше не берётся."""
+        from autopost.cli import replace_source
+        cfg, clock, graph, wp, st, run = self._setup(datetime(2030, 5, 1, 6, 7))
+        run()
+        key = "2030-05-01 09:00"
+        old_key = st.slots[key]["source_key"]
+        self.assertEqual(len(graph.posts), len(cfg.pages) - 1)
+        pid = cfg.pages[0].page_id
+        graph.source_posts[pid].append({
+            "id": f"{pid}_77", "message": "Совсем другая история. " + STORY,
+            "full_picture": "https://scontent.example/new.jpg", "attachments": {"data": [{"media_type": "photo"}]}})
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        bad = replace_source(cfg, "", key, f"{pid}_404", services=(graph, wp, FakeHTTP()), tokens=tokens, st=st,
+                             now=clock["now"])
+        self.assertTrue(bad.startswith("❌"), bad)                 # нечитаемая ссылка — выпуск не тронут
+        self.assertEqual(len(graph.posts), len(cfg.pages) - 1)
+        msg = replace_source(cfg, "", key, f"{pid}_77", services=(graph, wp, FakeHTTP()), tokens=tokens, st=st,
+                             now=clock["now"])
+        self.assertTrue(msg.startswith("✅"), msg)
+        self.assertEqual((len(graph.posts), len(wp.posts), len(wp.media)), (0, 0, 0))
+        self.assertEqual(st.sources[old_key]["status"], "skipped")
+        run()
+        s = st.slots[key]
+        self.assertTrue(s["prepared"])
+        self.assertEqual(s["source"]["link"], f"{pid}_77")
+        self.assertEqual(len(graph.posts), len(cfg.pages) - 1)
+        self.assertEqual(len(wp.posts), len(cfg.active_langs()))
+        texts = list(cfg.path("content/2030-05-01").glob("0900-*.json"))
+        self.assertTrue(texts)
+        self.assertTrue(all(json.loads(t.read_text(encoding="utf-8"))["source_link"] == f"{pid}_77" for t in texts))
+        late = replace_source(cfg, "", key, f"{pid}_42", services=(graph, wp, FakeHTTP()), tokens=tokens, st=st,
+                              now=clock["now"].replace(hour=8, minute=50))
+        self.assertTrue(late.startswith("❌"), late)               # слишком близко к выходу
+
+
 class GroupQueueTests(unittest.TestCase):
     """У каждой группы своя очередь и своя история: посты только на своих страницах, свои статьи и фото."""
 

@@ -849,6 +849,14 @@ def cmd_ops(cfg, args, req=None) -> int:
         return 0
     if cmd == "scheduled":
         return cmd_scheduled(cfg)
+    if cmd == "replace-source":
+        # {"items": [{"group": "EN", "slot": "2026-11-23 18:00", "link": "https://…"}, …]}
+        out = ["## Замена истории в выпусках", ""]
+        for it in a.get("items") or []:
+            out.append(f"- {cfg.group_label(it.get('group', ''))} {it.get('slot', '')}: "
+                       + replace_source(cfg, it.get("group", ""), it.get("slot", ""), it.get("link", "")))
+        summary("\n".join(out) + "\n", "previews/replace-source.md", cfg)
+        return 0
     if cmd == "redo-slot":
         out = [f"## Заново подготовить выпуск {a.get('slot', '')}", ""]
         for g, st in _group_states(cfg).items():
@@ -981,6 +989,79 @@ def _rename_slot_slugs(cfg, g, s, dt, wp) -> list:
         except WordPressError as err:
             errors.append(f"адрес фото: {err}")
     return errors
+
+
+def replace_source(cfg, g: str, key: str, link: str, services=None, tokens=None, st=None, now=None) -> str:
+    """Подготовленный, но ещё не вышедший выпуск получает другую историю: новая ссылка проверяется и читается,
+    затем отложенные посты, статьи и фото старой истории удаляются, а выпуск готовится заново из новой ссылки.
+    Старая история больше не публикуется (в очередь не возвращается)."""
+    from .state import text_fingerprint
+    gcfg = config_mod.group_view(cfg, g) if g else cfg
+    st = st or State(config_mod.group_state_path(cfg, g))
+    s = st.slots.get(key)
+    if not s:
+        return "❌ выпуск не найден"
+    if s.get("status") in ("done", "done_with_errors", "missed"):
+        return f"❌ выпуск уже вышел ({s.get('status')})"
+    now = now or datetime.now(timezone.utc)
+    if datetime.fromisoformat(s["slot_iso"]) <= now + timedelta(minutes=25):
+        return "❌ до выхода меньше 25 минут — не успеть подготовить заново, не трогаю"
+    if services is None:
+        services = real_services(gcfg)
+        if s.get("wp_site"):
+            services = (services[0], real_wp(s["wp_site"]), services[2])
+    graph, wp, _http = services
+    tokens = tokens or load_tokens(cfg)
+    # 1) новая ссылка: читается до любых удалений — если не читается, старый выпуск остаётся как был
+    try:
+        info = parse_link(normalize_link(link, st, graph, tokens, gcfg.fallback_source_page_id), gcfg.profile_to_page())
+        nkey = source_key(info["page_id"], info["part"])
+        if nkey == s.get("source_key"):
+            return "ссылка та же, что уже стоит в выпуске — ничего не меняю"
+        if st.source_used(nkey) or (st.sources.get(nkey) or {}).get("status") == "reserved":
+            prev = st.sources.get(nkey) or {}
+            return f"❌ этот пост уже выходил в группе ({prev.get('slot', '?')}) — выпуск не менял"
+        post = fetch_post(graph, info, tokens, gcfg.fallback_source_page_id)
+    except (SourceError, FacebookError) as e:
+        return f"❌ новая ссылка не читается ({e}) — выпуск не менял"
+    fp = text_fingerprint(post["text"])
+    if st.fingerprint_used(fp):
+        return "❌ эта история уже выходила в группе — выпуск не менял"
+    # 2) старая история: отложенные посты и статьи (как cancel-slot), фото из медиатеки, тексты
+    old_src, old_key = dict(s.get("source") or {}), s.get("source_key")
+    rc = cmd_cancel_slot(gcfg, key, services=services, tokens=tokens, state=st)
+    removed = sum(1 for L in (s.get("langs") or {}).values() for e in (L.get("pages") or {}).values()
+                  if e.get("status") == "cancelled")
+    wp_gone = sum(1 for L in (s.get("langs") or {}).values() if L.get("wp_cancelled"))
+    notes = []
+    if old_src.get("wp_media_id"):
+        try:
+            wp.delete_media(old_src["wp_media_id"])
+        except WordPressError as e:
+            notes.append(f"старое фото не удалено: {e}")
+    tz = ZoneInfo(cfg.tz)
+    dt = datetime.fromisoformat(s["slot_iso"]).astimezone(tz)
+    sub = f"{g}/" if g else ""
+    for p in cfg.path(f"content/{dt:%Y-%m-%d}/{sub}").glob(f"{dt:%H%M}-*.json"):
+        p.unlink()
+    if old_key:
+        st.mark_source(old_key, status="skipped", error="заменена другой историей по вашей просьбе",
+                       replaced_by=link)
+    # 3) выпуск заново: новая история уже выбрана, остальное (фото, тексты, статьи, посты) — следующий запуск
+    new = {k: v for k, v in s.items() if k not in ("langs", "prepared", "source", "source_key", "status", "wp_site")}
+    new.update(langs={}, prepared=False, status="preparing", source_key=nkey,
+               source={"page_id": post.get("owner_page_id") or info["page_id"], "text": post["text"],
+                       "image_url": post["image_url"], "origin": "manual", "link": link},
+               replaced={"at": now.isoformat(), "old_link": old_src.get("link")})
+    st.slots[key] = new
+    st.mark_source(nkey, status="reserved", slot=key, link=link, origin="manual", fingerprint=fp,
+                   page_id=new["source"]["page_id"])
+    st.save()
+    msg = f"удалено отложенных постов {removed}, статей {wp_gone}; новая история: {link[:90]}"
+    if rc:
+        notes.append("часть старых постов удалить не удалось — см. отчёт отмены")
+    return ("⚠️ " if notes else "✅ ") + msg + (f" ({'; '.join(notes)})" if notes else "") \
+        + " — следующий запуск подготовит фото, статьи и посты"
 
 
 def redo_slot(cfg, g: str, key: str, services=None, tokens=None) -> str:
