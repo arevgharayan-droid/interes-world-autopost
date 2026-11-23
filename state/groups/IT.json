@@ -51,6 +51,7 @@
   "59ba199024c504005873": "2026-11-13T10:14:50+00:00",
   "5a76175c0e8ea4b11a08": "2026-11-22T19:49:03+00:00",
   "5b6a7d17142717d971b6": "2026-11-17T12:28:51+00:00",
+  "5e292a2fa3cadf833fea": "2026-11-23T13:49:21+00:00",
   "5ed1e3d3fe4b9a121c18": "2026-11-16T23:51:59+00:00",
   "60500c1dfc38f30a516c": "2026-11-16T20:28:05+00:00",
   "60f9c89309a199527b79": "2026-11-17T18:29:53+00:00",
@@ -99,6 +100,7 @@
   "9c394bc05e808391b2ce": "2026-11-17T20:38:41+00:00",
   "9cbea19285daf02db497": "2026-11-15T10:15:15+00:00",
   "9de178bf596b4ce2bdc8": "2026-11-16T19:28:24+00:00",
+  "9f474425c5be14df68f2": "2026-11-23T13:49:21+00:00",
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
   "a422bdb38f331c5fee32": "2026-11-20T19:26:25+00:00",
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
@@ -131,6 +133,7 @@
   "de3fafdb1cf0cbce4e54": "2026-11-16T23:51:59+00:00",
   "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
   "e5620b751bed22ad8486": "2026-11-16T19:28:24+00:00",
+  "e5f95007f72d9b82c9a6": "2026-11-23T13:49:21+00:00",
   "e7e1a982f1a05c54040e": "2026-11-20T22:45:58+00:00",
   "e9d713c4cf15c5418f4d": "2026-11-18T22:49:46+00:00",
   "ea254955822bed5c2183": "2026-11-19T14:07:51+00:00",
@@ -21270,8 +21273,90 @@
    }
   },
   "2026-11-23 18:00": {
-   "langs": {},
-   "prepared": false,
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na svatbě se smáli mé matce a polili ji hadicí. Já sundal prsten a řekl, že do východu slunce jejich impérium skončí",
+     "warnings": [
+      "длина текста FB 463 слов (исходник 620, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1064,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Al matrimonio la famiglia di lei derise mia madre e la bagnò con una pompa da giardino: io mi tolsi l'anello e dissi che entro l'alba il loro impero sarebbe sparito",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1062,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na własnym weselu polała wodą z węża moją matkę, a ja zdjąłem obrączkę i obiecałem, że do świtu jej rodzina straci imperium",
+     "warnings": [
+      "длина текста FB 438 слов (исходник 620, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1063,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "replaced": {
     "at": "2026-11-23T13:23:21.432215+00:00",
     "old_link": "https://www.facebook.com/story.php?story_fbid=1674297460755613&id=100045261260562"
@@ -21287,7 +21372,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1800-it.jpg"
    },
    "source_key": "post:100064230806326_1443677054449974",
-   "status": "preparing",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -21753,7 +21838,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1445104960973850": {
    "fingerprint": "f968f30b5cf5d6a6d3b9",

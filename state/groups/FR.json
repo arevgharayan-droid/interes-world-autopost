@@ -58,6 +58,7 @@
   "d4fb32bab10e6ad46945": "2026-11-19T10:26:46+00:00",
   "d7f8167190d0b9b93782": "2026-11-18T22:20:27+00:00",
   "decab325bccbd36f9888": "2026-11-18T18:29:16+00:00",
+  "e74c48d9805792066531": "2026-11-23T13:49:24+00:00",
   "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00",
   "eedeb2476364b2162ac5": "2026-11-18T22:49:38+00:00",
   "f0de6209bc2c04ae4ddf": "2026-11-22T21:25:14+00:00"
@@ -11877,8 +11878,72 @@
    }
   },
   "2026-11-24 00:00": {
-   "langs": {},
-   "prepared": false,
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle a retrouvé la vue après 20 ans de cécité malgré les supplications de son mari, et en voyant son visage, elle a compris pourquoi",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1066,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "replaced": {
     "at": "2026-11-23T13:34:30.195048+00:00",
     "old_link": "https://www.facebook.com/story.php?story_fbid=1670783311107028&id=100045261260562"
@@ -11894,7 +11959,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-fr.jpg"
    },
    "source_key": "post:100064230806326_1539024094915269",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12316,7 +12381,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",

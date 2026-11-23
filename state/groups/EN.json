@@ -55,6 +55,7 @@
   "d11c80a2c5050f975d96": "2026-11-09T13:24:21+00:00",
   "d1e7d87ca5c11863154f": "2026-11-19T17:52:25+00:00",
   "e6def5df623bc59261c5": "2026-11-09T13:25:53+00:00",
+  "eba593e9b8815a78e890": "2026-11-23T13:49:24+00:00",
   "ed1263949be80f9f9314": "2026-11-16T20:28:09+00:00",
   "f0fbe62a6e965138d9e2": "2026-11-16T00:21:36+00:00",
   "f1dd63afb3367f635d39": "2026-11-21T19:44:17+00:00",
@@ -16019,8 +16020,72 @@
    }
   },
   "2026-11-23 18:00": {
-   "langs": {},
-   "prepared": false,
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "The Blue Flower Tattoo My Mother Never Explained Until a Nurse Saw It and Called Security",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1065,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "replaced": {
     "at": "2026-11-23T13:21:40.220357+00:00",
     "old_link": "https://www.facebook.com/story.php?story_fbid=1720899969428695&id=100045261260562"
@@ -16036,7 +16101,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1800-en.jpg"
    },
    "source_key": "post:100064230806326_1493604279457251",
-   "status": "preparing",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -16733,7 +16798,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064502274900_1601632268663500": {
    "fingerprint": "e9fe174303ae5ce56ad7",
