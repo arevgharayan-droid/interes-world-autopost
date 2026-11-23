@@ -11,11 +11,13 @@
   "0b4814997aa3da6b7d13": "2026-11-22T14:04:30+00:00",
   "0b6034a27523790be1ee": "2026-11-22T22:07:10+00:00",
   "0d54eec8b6a3e32a0a35": "2026-11-21T10:17:43+00:00",
+  "0ea3482f1cdaf9663ff5": "2026-11-23T13:49:59+00:00",
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
   "0fb22b8844bea06fae2d": "2026-11-16T20:28:05+00:00",
   "1022f1ba4618e21c8ceb": "2026-11-20T16:46:26+00:00",
   "12ef0a4c6ea0840ec006": "2026-11-22T21:35:02+00:00",
   "17bbf28063304bc8e308": "2026-11-17T12:28:51+00:00",
+  "18363b3ec6863c5f1434": "2026-11-23T13:49:59+00:00",
   "19a57f6af7fdd9942bfb": "2026-11-19T19:58:46+00:00",
   "1a13bfd0bf844bdd07ba": "2026-11-22T21:35:02+00:00",
   "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
@@ -132,6 +134,7 @@
   "db93b5a4d55941ca8bb9": "2026-11-22T22:07:10+00:00",
   "de3fafdb1cf0cbce4e54": "2026-11-16T23:51:59+00:00",
   "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
+  "e4d634875950303ab02e": "2026-11-23T13:49:59+00:00",
   "e5620b751bed22ad8486": "2026-11-16T19:28:24+00:00",
   "e5f95007f72d9b82c9a6": "2026-11-23T13:49:21+00:00",
   "e7e1a982f1a05c54040e": "2026-11-20T22:45:58+00:00",
@@ -21381,8 +21384,92 @@
    }
   },
   "2026-11-23 21:00": {
-   "langs": {},
-   "prepared": false,
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Dvouletá holčička přišla na policii s tím, že se musí přiznat k něčemu hrozném. Strážmistr při jejích slovech ztuhl",
+     "warnings": [
+      "длина текста FB 437 слов (исходник 545, цель ±10%)",
+      "длина статьи 544 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1072,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Una bimba di due anni è entrata in una stazione di polizia dicendo di dover confessare un crimine terribile: quello che ha detto dopo ha lasciato di sasso l'agente",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1070,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Dwuletnia dziewczynka weszła na komisariat, żeby się przyznać do winy. Gdy policjant usłyszał, co zrobiła, zamarł",
+     "warnings": [
+      "длина текста FB 419 слов (исходник 545, цель ±10%)",
+      "длина статьи 590 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1071,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "replaced": {
     "at": "2026-11-23T13:28:25.039723+00:00",
     "old_link": "https://www.facebook.com/story.php?story_fbid=1688258559359503&id=100045261260562"
@@ -21398,7 +21485,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-2100-it.jpg"
    },
    "source_key": "post:100064230806326_1321054696712211",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -21814,7 +21901,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1325477259603288": {
    "fingerprint": "f5496fe896747df4e7ce",
