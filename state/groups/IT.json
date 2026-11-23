@@ -21420,12 +21420,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116858461328231_1093396553720963",
        "error": null,
        "last_attempt": "2026-11-23T18:17:19+04:00",
        "mode": "immediate",
        "photo_id": "122116858437328231",
        "post_id": "1106793902521611_122116858461328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Na svatbě se smáli mé matce a polili ji hadicí. Já sundal prsten a řekl, že do východu slunce jejich impérium skončí",
@@ -21434,6 +21436,7 @@
      ],
      "wp_error": null,
      "wp_id": 1064,
+     "wp_live": true,
      "wp_status": "future"
     },
     "DE": {
@@ -21459,12 +21462,14 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133525579302250_1163257622871064",
        "error": null,
        "last_attempt": "2026-11-23T18:12:20+04:00",
        "mode": "immediate",
        "photo_id": "122133525555302250",
        "post_id": "1012250151981057_122133525579302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
@@ -21490,21 +21495,25 @@
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131856391306132_1362845639150825",
        "error": null,
        "last_attempt": "2026-11-23T18:13:26+04:00",
        "mode": "immediate",
        "photo_id": "122131856367306132",
        "post_id": "1068567606345452_122131856391306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128483479305584_1006087272558131",
        "error": null,
        "last_attempt": "2026-11-23T18:15:35+04:00",
        "mode": "immediate",
        "photo_id": "122128483455305584",
        "post_id": "1078100405390763_122128483479305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -21519,39 +21528,47 @@
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134320015308548_1144299008526030",
        "error": null,
        "last_attempt": "2026-11-23T18:12:56+04:00",
        "mode": "immediate",
        "photo_id": "122134319991308548",
        "post_id": "1086658774532679_122134320015308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123399169296683_1088014844271613",
        "error": null,
        "last_attempt": "2026-11-23T18:11:41+04:00",
        "mode": "immediate",
        "photo_id": "122123399145296683",
        "post_id": "1087342844462554_122123399169296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130430167300251_1141870738463850",
        "error": null,
        "last_attempt": "2026-11-23T18:15:17+04:00",
        "mode": "immediate",
        "photo_id": "122130430143300251",
        "post_id": "1093003583899107_122130430167300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114944460601707_1001269319168220",
        "error": null,
        "last_attempt": "2026-11-23T18:14:42+04:00",
        "mode": "immediate",
        "photo_id": "122114944436601707",
        "post_id": "1099258949937246_122114944460601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
@@ -21566,12 +21583,14 @@
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105212754533031_1441127671516096",
        "error": null,
        "last_attempt": "2026-11-23T18:14:18+04:00",
        "mode": "immediate",
        "photo_id": "122105212730533031",
        "post_id": "1128937866962526_122105212754533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
@@ -21597,21 +21616,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131011123314630_2334328944079439",
        "error": null,
        "last_attempt": "2026-11-23T18:13:54+04:00",
        "mode": "immediate",
        "photo_id": "122131011099314630",
        "post_id": "1149681171551323_122131011123314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123342769318395_2838027119926342",
        "error": null,
        "last_attempt": "2026-11-23T18:14:59+04:00",
        "mode": "immediate",
        "photo_id": "122123342745318395",
        "post_id": "1159996950522974_122123342769318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -21637,12 +21660,14 @@
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126768043301482_1663902825533180",
        "error": null,
        "last_attempt": "2026-11-23T18:15:53+04:00",
        "mode": "immediate",
        "photo_id": "122126768019301482",
        "post_id": "1174674892385169_122126768043301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
@@ -21685,39 +21710,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127009897304793_2237951553452174",
        "error": null,
        "last_attempt": "2026-11-23T18:17:01+04:00",
        "mode": "immediate",
        "photo_id": "122127009873304793",
        "post_id": "1079800528556354_122127009897304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114455124359745_1125785427127411",
        "error": null,
        "last_attempt": "2026-11-23T18:16:11+04:00",
        "mode": "immediate",
        "photo_id": "122114455100359745",
        "post_id": "1083785318156771_122114455124359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123363535302807_2160230804669214",
        "error": null,
        "last_attempt": "2026-11-23T18:16:29+04:00",
        "mode": "immediate",
        "photo_id": "122123363511302807",
        "post_id": "1089456087587677_122123363535302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141911707313481_945944978449227",
        "error": null,
        "last_attempt": "2026-11-23T18:16:46+04:00",
        "mode": "immediate",
        "photo_id": "122141911683313481",
        "post_id": "1107966229066828_122141911707313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Na własnym weselu polała wodą z węża moją matkę, a ja zdjąłem obrączkę i obiecałem, że do świtu jej rodzina straci imperium",
@@ -21726,6 +21759,7 @@
      ],
      "wp_error": null,
      "wp_id": 1063,
+     "wp_live": true,
      "wp_status": "future"
     },
     "PT": {
@@ -21765,7 +21799,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1800-it.jpg"
    },
    "source_key": "post:100064230806326_1443677054449974",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
