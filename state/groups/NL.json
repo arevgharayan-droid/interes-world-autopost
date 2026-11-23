@@ -9,13 +9,11 @@
   "082942ddf599434d8353": "2026-11-16T20:28:19+00:00",
   "097beede44a6fb9a71b7": "2026-11-17T17:52:09+00:00",
   "0c6e8a7efc71f173e15e": "2026-11-16T10:16:48+00:00",
-  "0d1837969ae0e3704a2b": "2026-11-09T20:00:55+00:00",
   "0d8e1b277acd69617505": "2026-11-21T10:17:21+00:00",
   "0f513c6fe9dce53b3342": "2026-11-22T19:48:30+00:00",
   "0fc961dac25a65f8bd8e": "2026-11-22T21:48:03+00:00",
   "118a7c202280ee104d0c": "2026-11-13T10:14:57+00:00",
   "120edbf2984526605544": "2026-11-18T22:36:37+00:00",
-  "122da30c84d729a1b892": "2026-11-09T20:00:55+00:00",
   "12a6e95bcd0629af0097": "2026-11-10T22:02:31+00:00",
   "138fd0cf94033d45ace5": "2026-11-20T16:46:47+00:00",
   "15be0b388fcdf33795f9": "2026-11-10T22:02:31+00:00",
@@ -42,7 +40,6 @@
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
   "4c218b53bb5fd5b6f1b3": "2026-11-16T19:28:25+00:00",
   "4ca334761547934cbacc": "2026-11-18T22:49:31+00:00",
-  "4d630eaad0cd2d82a2a8": "2026-11-09T20:03:33+00:00",
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
   "51ed2d668f83bd64e5b9": "2026-11-21T14:13:09+00:00",
   "5215bc8037371581d0af": "2026-11-22T16:32:11+00:00",
@@ -61,14 +58,11 @@
   "7477c933eb22d1c2c473": "2026-11-22T21:27:39+00:00",
   "76987c00bbd404e3cd24": "2026-11-12T10:26:46+00:00",
   "7b147e020095c6199d1d": "2026-11-10T22:05:36+00:00",
-  "81de3c9a0a991fc9bf6a": "2026-11-09T20:03:33+00:00",
   "82c4ef85daea167f4a95": "2026-11-21T17:04:07+00:00",
   "82d6245bac03a32fa117": "2026-11-12T10:26:46+00:00",
   "84b09bc98a9e61d6846f": "2026-11-18T18:56:13+00:00",
   "84b43238bfda7c42ae10": "2026-11-12T17:47:29+00:00",
   "87f9f8d27c5313018eee": "2026-11-14T09:18:09+00:00",
-  "88fe935e5a83ce556184": "2026-11-09T19:59:42+00:00",
-  "8df4cd808be1716777ea": "2026-11-09T20:02:27+00:00",
   "8ec979960001054d4223": "2026-11-20T19:26:18+00:00",
   "8fb663d9a2d916daa327": "2026-11-21T14:13:09+00:00",
   "93ceaa2d55e396b61730": "2026-11-10T22:06:32+00:00",
@@ -94,7 +88,6 @@
   "c45432e6978031cef601": "2026-11-13T14:37:35+00:00",
   "c7f5d2b135602dc721d7": "2026-11-15T10:15:33+00:00",
   "caa5eaf84705d4e68592": "2026-11-17T17:52:09+00:00",
-  "caa9ee0aac3ceacdcbc5": "2026-11-09T20:02:27+00:00",
   "cce306c23605b2fd33c0": "2026-11-18T08:52:12+00:00",
   "cd39e670f61e621b3317": "2026-11-18T08:52:12+00:00",
   "cda4a9c0ba0b01ac967a": "2026-11-19T17:35:36+00:00",
@@ -116,7 +109,6 @@
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
   "f1de2b6a7b4cb66798b0": "2026-11-19T22:01:01+00:00",
   "f3db1dfbfdb7df061663": "2026-11-14T11:39:08+00:00",
-  "f5bea5f3ca119019e8c7": "2026-11-09T19:59:42+00:00",
   "fabea08610bac51ffc8f": "2026-11-16T10:16:48+00:00"
  },
  "outputs": {
@@ -702,10 +694,6 @@
   "122130208389321366": "2026-11-17T17:58:21+00:00",
   "122130209511321366": "2026-11-17T18:17:32+00:00",
   "122130218691321366": "2026-11-17T20:53:09+00:00",
-  "122130230967418602": "2026-11-09T19:59:54+00:00",
-  "122130233253418602": "2026-11-09T20:01:05+00:00",
-  "122130235755418602": "2026-11-09T20:02:38+00:00",
-  "122130238797418602": "2026-11-09T20:03:45+00:00",
   "122130250461418602": "2026-11-09T20:08:01+00:00",
   "122130267603321366": "2026-11-18T09:00:23+00:00",
   "122130297933321366": "2026-11-18T15:30:41+00:00",
@@ -863,10 +851,6 @@
   "122132077893418602": "2026-11-21T10:22:28+00:00",
   "122132082393310273": "2026-11-16T23:57:33+00:00",
   "122132101287418602": "2026-11-21T14:19:43+00:00",
-  "122132105979436382": "2026-11-09T19:59:57+00:00",
-  "122132106315436382": "2026-11-09T20:01:08+00:00",
-  "122132106783436382": "2026-11-09T20:02:41+00:00",
-  "122132107275436382": "2026-11-09T20:03:48+00:00",
   "122132108145436382": "2026-11-09T20:08:04+00:00",
   "122132118441418602": "2026-11-21T17:10:52+00:00",
   "122132133921418602": "2026-11-21T20:10:24+00:00",
@@ -1013,10 +997,6 @@
   "122135524155306170": "2026-11-22T21:39:33+00:00",
   "122135524791306170": "2026-11-22T21:49:45+00:00",
   "122135525499306170": "2026-11-22T21:57:56+00:00",
-  "122202055178922316": "2026-11-09T19:59:51+00:00",
-  "122202055502922316": "2026-11-09T20:01:02+00:00",
-  "122202056084922316": "2026-11-09T20:02:34+00:00",
-  "122202056396922316": "2026-11-09T20:03:41+00:00",
   "122202056930922316": "2026-11-09T20:07:57+00:00",
   "122202193112922316": "2026-11-10T22:02:39+00:00",
   "122202193280922316": "2026-11-10T22:03:42+00:00",
@@ -1084,10 +1064,6 @@
   "122204093774461850": "2026-11-22T21:42:25+00:00",
   "122204094710461850": "2026-11-22T21:51:57+00:00",
   "122204095352461850": "2026-11-22T21:59:41+00:00",
-  "122221843790930012": "2026-11-09T19:59:48+00:00",
-  "122221845194930012": "2026-11-09T20:01:00+00:00",
-  "122221847000930012": "2026-11-09T20:02:32+00:00",
-  "122221847726930012": "2026-11-09T20:03:38+00:00",
   "122221850684930012": "2026-11-09T20:07:53+00:00",
   "122222113784930012": "2026-11-10T22:02:36+00:00",
   "122222114078930012": "2026-11-10T22:03:40+00:00",
@@ -1282,7 +1258,6 @@
   "444776585382502_122229462872543856": "2026-11-23T14:13:24+00:00",
   "444776585382502_122229463664543856": "2026-11-23T17:44:57+00:00",
   "444776585382502_122229464438543856": "2026-11-23T20:14:56+00:00",
-  "633031599904551_122221802312930012": "2026-11-09T20:06:26+00:00",
   "633031599904551_122221843820930012": "2026-11-10T08:07:33+00:00",
   "633031599904551_122221845224930012": "2026-11-10T11:07:16+00:00",
   "633031599904551_122221847036930012": "2026-11-10T14:09:40+00:00",
@@ -1346,7 +1321,6 @@
   "633031599904551_122224203806930012": "2026-11-23T14:07:41+00:00",
   "633031599904551_122224204940930012": "2026-11-23T17:39:44+00:00",
   "633031599904551_122224205654930012": "2026-11-23T20:09:41+00:00",
-  "715935674934966_122202019616922316": "2026-11-09T20:06:32+00:00",
   "715935674934966_122202055208922316": "2026-11-10T08:07:41+00:00",
   "715935674934966_122202055532922316": "2026-11-10T11:07:24+00:00",
   "715935674934966_122202056126922316": "2026-11-10T14:09:46+00:00",
@@ -1408,123 +1382,6 @@
   "715935674934966_122203814906922316": "2026-11-23T20:10:21+00:00"
  },
  "slots": {
-  "2026-11-10 00:00": {
-   "langs": {
-    "DE": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1208422892355505": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122130180687418602_1596575498439597",
-       "error": null,
-       "last_attempt": "2026-11-09T20:00:50+04:00",
-       "mode": "schedule",
-       "photo_id": "122130180657418602",
-       "post_id": "1208422892355505_122130180687418602",
-       "status": "done"
-      },
-      "1268633826332790": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122132055903436382_1121300783945354",
-       "error": null,
-       "last_attempt": "2026-11-09T20:00:53+04:00",
-       "mode": "schedule",
-       "photo_id": "122132055867436382",
-       "post_id": "1268633826332790_122132055903436382",
-       "status": "done"
-      }
-     },
-     "title": "Steig nicht ins Flugzeug!“, schrie das dreijährige Mädchen der Haushälterin den Mafiaboss an – Minuten später explodierte sein 40-Millionen-Dollar-Jet",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 31,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "633031599904551": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122221802312930012_4418816525047447",
-       "error": null,
-       "last_attempt": "2026-11-09T17:26:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122221802282930012",
-       "post_id": "633031599904551_122221802312930012",
-       "status": "done"
-      },
-      "715935674934966": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122202019616922316_906509122456126",
-       "error": null,
-       "last_attempt": "2026-11-09T17:26:48+04:00",
-       "mode": "schedule",
-       "photo_id": "122202019574922316",
-       "post_id": "715935674934966_122202019616922316",
-       "status": "done"
-      }
-     },
-     "title": "Stap niet in dat vliegtuig!” Het driejarige dochtertje van de huishoudster hield een maffiabaas tegen, en even later explodeerde zijn privéjet van 40 miljoen dollar",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 30,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-10T00:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/861573102_122139654914778984_7327529939183712380_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iW3iXczIytYQ7kNvwEHWz-z&_nc_oc=AdpaB8xS8H8QiCaqN1-HjOBmiBEdczLcMzU3FcTaJNzVJTdKbzgI7qTsYc9X_yNmWJ0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=aKdW5_EwHlEEMbflSiJ0Bw&_nc_tpa=Q5bMBQLlBYP5FunWpg6_qqKBB4rMtEjfJ73jo5oZW0x05Cbv24aTQfjSs8n7PcFAFspC6oMw_hu1CidNdA&oh=00_AQSD8wkAA_lUx4LIUYjhbOCuF0Tcs8yg_sRP89rsc2eFYQ&oe=6AF7A630",
-    "link": "https://www.facebook.com/share/p/1ZKeA1fh2S/",
-    "origin": "manual",
-    "page_id": "61573369523860",
-    "text": "# “DON'T GET ON THE PLANE!” the Maid's 3-Year-Old Daughter Screamed at the Mafia Boss—Minutes Later, His $40 Million Private Jet Exploded\n\n**“UNCLE LORENZO! DON'T GET ON THAT PLANE!”**\n\nThe little girl's scream cut through the morning air just as Lorenzo Moretti placed one polished shoe on the steps of his private jet.\n\nA tiny child in pink pajamas was running across the tarmac, dragging a worn gray stuffed rabbit behind her.\n\nThree security guards immediately moved to intercept her.\n\nBut she was too fast.\n\n**“PLEASE! THE BAD MEN SAID YOU WON'T COME BACK!”**\n\nShe threw both arms around Lorenzo's leg and began sobbing.\n\nLorenzo froze.\n\nAt thirty-eight, he was one of New York's most feared mafia bosses. Men twice his size lowered their eyes when he entered a room. His orders controlled shipping companies, luxury properties, and an empire worth hundreds of millions.\n\nYet a barefoot three-year-old had just brought his entire departure to a stop.\n\n“Mia!” a terrified woman cried.\n\nClara Bennett, one of the mansion's housekeepers, rushed toward them, her face pale with panic.\n\n“Mr. Moretti, I'm so sorry! She's only three. She doesn't understand what she's saying!”\n\nShe tried to lift her daughter.\n\nBut Mia clung desperately to Lorenzo's trousers.\n\n“No, Mommy! He can't go!”\n\nMarco Bellini, Lorenzo's longtime security chief, stepped forward impatiently.\n\n“Get the child away from him. We're already late.”\n\nLorenzo raised one hand.\n\nEveryone stopped.\n\nHe slowly crouched until his face was level with Mia's.\n\n“Sweetheart, why don't you want me on the airplane?”\n\nMia's little fingers trembled around her stuffed rabbit.\n\n“Because it's going to make a big fire.”\n\nLorenzo felt something cold move through his chest.\n\n“Who told you that?”\n\nThe girl glanced toward the men standing behind him.\n\nThen she leaned closer and whispered:\n\n**“The men in the dark room. They said you get on the plane... and you don't come back.”**\n\nFor several seconds, Lorenzo said nothing.\n\nMarco forced a laugh.\n\n“She's a child, boss. Probably had a nightmare.”\n\nClara nodded frantically.\n\n“Yes! That's all it was. Please forgive her.”\n\nBut Lorenzo kept looking at Mia.\n\nThe little girl was genuinely terrified.\n\nHe stood and turned toward the pilot.\n\n“Hold departure.”\n\nMarco frowned.\n\n“Lorenzo, the Chicago meeting—”\n\n“Five minutes.”\n\n“Because of a little girl?”\n\nLorenzo's gray eyes narrowed.\n\n“Did I ask you to argue?”\n\nMarco fell silent.\n\nClara lifted Mia into her arms, apologizing repeatedly.\n\nLorenzo glanced at them.\n\n“Take her home. I'll speak with you later.”\n\nThen he walked toward the terminal.\n\nHe had gone barely thirty yards when a sharp alarm sounded behind him.\n\nA ground technician began shouting.\n\nSomeone screamed.\n\nLorenzo turned.\n\n**BOOOOM!**\n\nA blinding orange fireball erupted beneath his private jet.\n\nThe explosion shook the terminal windows.\n\nBlack smoke swallowed the aircraft as burning debris scattered across the runway.\n\nMarco grabbed Lorenzo and pulled him behind a concrete barrier.\n\nEmergency sirens erupted.\n\nFirefighters rushed toward the wreckage.\n\nLorenzo stared at the flames, unable to move.\n\nHis briefcase was still on that plane.\n\nHis seat was waiting.\n\n**If Mia hadn't stopped him, he would have been inside.**\n\nAcross the tarmac, Clara was kneeling beside a security vehicle, hugging her sobbing daughter.\n\nLorenzo looked at them.\n\nThen at the burning jet.\n\nFor the first time in nineteen years, the most feared man in New York couldn't hide the fear in his eyes.\n\nHours later, inside his mansion's security room, six monitors displayed the smoldering remains.\n\nMarco stood beside him.\n\n“The Castellanos,” he said coldly. “They must have arranged this.”\n\nBut Lorenzo barely heard him.\n\nHe kept remembering Mia's terrified whisper.\n\n*The men in the dark room.*\n\nAnd something else.\n\n**The way the little girl had glanced toward the men standing behind him before revealing what she'd heard.**\n\nLorenzo slowly turned toward Marco.\n\n“Find Clara Bennett,” he said. “I need to know exactly what her daughter saw last night.”",
-    "wp_media_id": 29,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-0000-nl.jpg"
-   },
-   "source_key": "post:61573369523860_122139776786778984",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-10 12:00": {
    "langs": {
     "DE": {
