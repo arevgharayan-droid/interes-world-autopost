@@ -7300,6 +7300,7 @@
      ],
      "wp_error": null,
      "wp_id": 673,
+     "wp_live": true,
      "wp_status": "future"
     },
     "CS": {
@@ -7376,21 +7377,25 @@
      "pages": {
       "1017413568132885": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126386305301832_1650655059864035",
        "error": null,
        "last_attempt": "2026-11-23T18:08:36+04:00",
        "mode": "immediate",
        "photo_id": "122126386281301832",
        "post_id": "1017413568132885_122126386305301832",
-       "status": "published"
+       "status": "done"
       },
       "1150924154761110": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140475751316765_1845659976462701",
        "error": null,
        "last_attempt": "2026-11-23T18:07:54+04:00",
        "mode": "immediate",
        "photo_id": "122140475721316765",
        "post_id": "1150924154761110_122140475751316765",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "M-am rugat de părinți din patul de spital să-mi ia bebelușul, dar tata a închis telefonul: „Astăzi e seara Whitney”. La 2 noaptea, ușa s-a deschis",
