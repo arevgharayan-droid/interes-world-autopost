@@ -14226,12 +14226,14 @@
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140246016776189_1189510197082688",
        "error": null,
        "last_attempt": "2026-11-23T01:17:17+04:00",
        "mode": "schedule",
        "photo_id": "122140245986776189",
        "post_id": "994273113779575_122140246016776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "They Gave Their Other Kids $20,000 for a House and Us a Greeting Card, Until Grandma Opal Saw the Home We Bought at Auction",
@@ -14294,7 +14296,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1200-en2.jpg"
    },
    "source_key": "post:100044802900629_1641682654001816",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
