@@ -1603,7 +1603,7 @@
   "994273113779575_122140246016776189": "2026-11-23T08:43:18+00:00",
   "994273113779575_122140247402776189": "2026-11-23T11:43:32+00:00",
   "994273113779575_122140248086776189": "2026-11-23T14:12:08+00:00",
-  "994273113779575_122140248914776189": "2026-11-22T21:43:33+00:00",
+  "994273113779575_122140248914776189": "2026-11-23T17:44:00+00:00",
   "994273113779575_122140250006776189": "2026-11-22T21:51:39+00:00"
  },
  "slots": {
@@ -14671,21 +14671,25 @@
       },
       "892503027289970": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122143951401219808_1150706224229047",
        "error": null,
        "last_attempt": "2026-11-23T01:47:23+04:00",
        "mode": "schedule",
        "photo_id": "122143951371219808",
        "post_id": "892503027289970_122143951401219808",
-       "status": "published"
+       "status": "done"
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140248914776189_1629293618194575",
        "error": null,
        "last_attempt": "2026-11-23T01:43:31+04:00",
        "mode": "schedule",
        "photo_id": "122140248884776189",
        "post_id": "994273113779575_122140248914776189",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "He Gave My First-Class Seat to His \"Colleague\" on Christmas Eve, So I Shut Down the Company Cards Paying for Their Trip",
@@ -14748,7 +14752,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-2100-en2.jpg"
    },
    "source_key": "post:100064230806326_1547894260694919",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
