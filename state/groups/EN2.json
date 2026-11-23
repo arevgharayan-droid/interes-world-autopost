@@ -1614,7 +1614,7 @@
   "994273113779575_122140238636776189": "2026-11-22T19:49:55+00:00",
   "994273113779575_122140246016776189": "2026-11-23T08:43:18+00:00",
   "994273113779575_122140247402776189": "2026-11-23T11:43:32+00:00",
-  "994273113779575_122140248086776189": "2026-11-22T21:34:48+00:00",
+  "994273113779575_122140248086776189": "2026-11-23T14:12:08+00:00",
   "994273113779575_122140248914776189": "2026-11-22T21:43:33+00:00",
   "994273113779575_122140250006776189": "2026-11-22T21:51:39+00:00"
  },
@@ -14640,21 +14640,25 @@
       },
       "892503027289970": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122143950411219808_2947154238999780",
        "error": null,
        "last_attempt": "2026-11-23T01:38:17+04:00",
        "mode": "schedule",
        "photo_id": "122143950381219808",
        "post_id": "892503027289970_122143950411219808",
-       "status": "published"
+       "status": "done"
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140248086776189_1779840223106752",
        "error": null,
        "last_attempt": "2026-11-23T01:34:45+04:00",
        "mode": "schedule",
        "photo_id": "122140248056776189",
        "post_id": "994273113779575_122140248086776189",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "My Groom Never Showed Up on Our Wedding Day, and Then His Mother Demanded $9,000 and the Ring Back",
@@ -14717,7 +14721,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1800-en2.jpg"
    },
    "source_key": "post:100044802900629_1646267930209955",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

@@ -7332,12 +7332,14 @@
       },
       "1091526457386175": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126335029298778_2293551698707848",
        "error": null,
        "last_attempt": "2026-11-23T18:07:14+04:00",
        "mode": "immediate",
        "photo_id": "122126335005298778",
        "post_id": "1091526457386175_122126335029298778",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Llamé a mis padres desde la cama del hospital para que cuidaran a mi bebé de 4 semanas, y mi padre me colgó; a las 2 de la madrugada se abrió la puerta",
@@ -7395,6 +7397,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 672,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RU": {
