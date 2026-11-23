@@ -46,7 +46,6 @@
   "34f5d1ae4690346695c5": "2026-11-12T17:48:06+00:00",
   "35bb7b02c3a3eec981f5": "2026-11-20T16:46:35+00:00",
   "37295985ca4da18995cf": "2026-11-20T14:41:36+00:00",
-  "38f2ba618b28dff0436a": "2026-11-09T16:01:40+00:00",
   "3944404d935075c532ec": "2026-11-21T17:03:58+00:00",
   "399b0797378aa4e1ed79": "2026-11-20T22:45:49+00:00",
   "3db8bd1517b5c6101ae3": "2026-11-20T16:46:35+00:00",
@@ -74,7 +73,6 @@
   "5ae46c974cf61ea8eb42": "2026-11-09T19:59:32+00:00",
   "5b204109299ad4dcd429": "2026-11-12T20:02:43+00:00",
   "5d014620f15f95df1195": "2026-11-10T22:05:49+00:00",
-  "5d8e7b263748aa84253f": "2026-11-09T16:00:31+00:00",
   "5eb6f82f1ff85094dce8": "2026-11-21T22:45:41+00:00",
   "5efa9fb5844a5d5a2b35": "2026-11-14T09:18:33+00:00",
   "5f1d161a583653849674": "2026-11-19T10:26:47+00:00",
@@ -110,7 +108,6 @@
   "872c066fea909c2bfe8d": "2026-11-13T14:37:39+00:00",
   "8985ae5cfef71c642a06": "2026-11-10T22:08:57+00:00",
   "89cadb48fbfb54415a59": "2026-11-15T14:15:11+00:00",
-  "8b9faa48bdaaf3de1280": "2026-11-09T16:00:31+00:00",
   "8d212afd28041fbd462e": "2026-11-09T20:00:50+00:00",
   "8d9c5dde4968ee4bd37e": "2026-11-09T20:03:21+00:00",
   "8f0c6fea6ae58ae86b21": "2026-11-21T22:45:41+00:00",
@@ -173,7 +170,6 @@
   "e4f444f1bf6288cdb116": "2026-11-19T10:26:47+00:00",
   "e53482ea7556e3ad83e6": "2026-11-19T08:31:53+00:00",
   "e57396e630eef2d4f899": "2026-11-22T22:13:48+00:00",
-  "e6683c09219dcfd38d30": "2026-11-09T16:01:40+00:00",
   "e6f22af68ae4ec05d8cd": "2026-11-19T19:59:16+00:00",
   "e75f509640a7f4914317": "2026-11-21T10:17:55+00:00",
   "e7dc1043c75d906e8893": "2026-11-20T16:46:35+00:00",
@@ -187,7 +183,6 @@
   "fd395eead654da158a14": "2026-11-13T10:15:12+00:00"
  },
  "outputs": {
-  "1008693642337213_122117985908640467": "2026-11-09T17:06:58+00:00",
   "1008693642337213_122117986298640467": "2026-11-09T20:06:26+00:00",
   "1008693642337213_122118008954640467": "2026-11-10T08:07:31+00:00",
   "1008693642337213_122118009080640467": "2026-11-10T11:07:16+00:00",
@@ -932,7 +927,6 @@
   "1125468037313193_122120466291295429": "2026-11-22T22:15:09+00:00",
   "1125468037313193_122120516337295429": "2026-11-23T17:45:41+00:00",
   "1125468037313193_122120516775295429": "2026-11-23T14:00:31+00:00",
-  "1125676667286378_122139570104737651": "2026-11-09T17:07:05+00:00",
   "1125676667286378_122139570386737651": "2026-11-09T20:06:33+00:00",
   "1125676667286378_122139617018737651": "2026-11-10T08:07:38+00:00",
   "1125676667286378_122139617300737651": "2026-11-10T11:07:24+00:00",
@@ -995,7 +989,6 @@
   "1125676667286378_122141558378737651": "2026-11-22T22:14:24+00:00",
   "1125676667286378_122141666594737651": "2026-11-23T17:45:59+00:00",
   "1125676667286378_122141667422737651": "2026-11-23T13:59:43+00:00",
-  "1129620776897151_122127149427311884": "2026-11-09T17:07:13+00:00",
   "1129620776897151_122127150003311884": "2026-11-09T20:06:41+00:00",
   "1129620776897151_122127178839311884": "2026-11-10T08:07:47+00:00",
   "1129620776897151_122127179157311884": "2026-11-10T11:07:32+00:00",
@@ -1134,7 +1127,6 @@
   "1146158698570676_122130472773300293": "2026-11-22T22:16:06+00:00",
   "1146158698570676_122130528645300293": "2026-11-23T17:46:17+00:00",
   "1146158698570676_122130529149300293": "2026-11-23T14:01:26+00:00",
-  "1164575726728296_122126355315307134": "2026-11-09T17:07:18+00:00",
   "1164575726728296_122126355921307134": "2026-11-09T20:06:45+00:00",
   "1164575726728296_122126378571307134": "2026-11-10T08:07:51+00:00",
   "1164575726728296_122126378751307134": "2026-11-10T11:07:37+00:00",
@@ -1429,8 +1421,6 @@
   "122113428938600554": "2026-11-22T22:15:43+00:00",
   "122113460576600554": "2026-11-23T13:53:44+00:00",
   "122113460780600554": "2026-11-23T14:01:03+00:00",
-  "122115064371471857": "2026-11-09T16:00:50+00:00",
-  "122115065271471857": "2026-11-09T16:01:57+00:00",
   "122115193323471857": "2026-11-09T20:00:00+00:00",
   "122115193755471857": "2026-11-09T20:01:14+00:00",
   "122115194499471857": "2026-11-09T20:02:33+00:00",
@@ -1562,8 +1552,6 @@
   "122118268670640467": "2026-11-12T20:02:51+00:00",
   "122118306602640467": "2026-11-13T10:15:20+00:00",
   "122118321194640467": "2026-11-13T14:37:45+00:00",
-  "122118336267505599": "2026-11-09T16:00:46+00:00",
-  "122118337257505599": "2026-11-09T16:01:54+00:00",
   "122118358683471857": "2026-11-18T09:08:42+00:00",
   "122118391005505599": "2026-11-09T19:59:56+00:00",
   "122118391377505599": "2026-11-09T20:01:09+00:00",
@@ -1958,8 +1946,6 @@
   "122125255407304633": "2026-11-22T22:18:05+00:00",
   "122125325457304633": "2026-11-23T13:57:39+00:00",
   "122125326117304633": "2026-11-23T14:03:39+00:00",
-  "122126355285307134": "2026-11-09T16:00:43+00:00",
-  "122126355891307134": "2026-11-09T16:01:50+00:00",
   "122126378535307134": "2026-11-09T19:59:53+00:00",
   "122126378721307134": "2026-11-09T20:01:07+00:00",
   "122126379051307134": "2026-11-09T20:02:27+00:00",
@@ -1990,8 +1976,6 @@
   "122127118905307134": "2026-11-16T16:02:49+00:00",
   "122127134577307134": "2026-11-16T19:43:35+00:00",
   "122127138639307134": "2026-11-16T20:38:29+00:00",
-  "122127149397311884": "2026-11-09T16:00:39+00:00",
-  "122127149973311884": "2026-11-09T16:01:47+00:00",
   "122127153765307134": "2026-11-17T00:00:45+00:00",
   "122127178809311884": "2026-11-09T19:59:48+00:00",
   "122127179121311884": "2026-11-09T20:01:04+00:00",
@@ -2550,7 +2534,6 @@
   "122144255546775004": "2026-11-22T22:17:42+00:00",
   "122144342360775004": "2026-11-23T13:56:53+00:00",
   "122144343332775004": "2026-11-23T14:03:11+00:00",
-  "1338630212673029_122115064401471857": "2026-11-09T17:07:22+00:00",
   "1338630212673029_122115065301471857": "2026-11-09T20:06:50+00:00",
   "1338630212673029_122115193353471857": "2026-11-10T08:07:56+00:00",
   "1338630212673029_122115193785471857": "2026-11-10T11:07:41+00:00",
@@ -2617,7 +2600,6 @@
   "1338630212673029_122120003517471857": "2026-11-22T22:18:23+00:00",
   "1338630212673029_122120168133471857": "2026-11-23T17:47:55+00:00",
   "1338630212673029_122120169111471857": "2026-11-23T14:03:58+00:00",
-  "1448441201677530_122118336303505599": "2026-11-09T17:07:27+00:00",
   "1448441201677530_122118337287505599": "2026-11-09T20:06:55+00:00",
   "1448441201677530_122118391035505599": "2026-11-10T08:08:01+00:00",
   "1448441201677530_122118391437505599": "2026-11-10T11:07:46+00:00",
@@ -2678,7 +2660,6 @@
   "1448441201677530_122122771593505599": "2026-11-22T22:18:16+00:00",
   "1448441201677530_122122950405505599": "2026-11-23T17:47:59+00:00",
   "1448441201677530_122122952301505599": "2026-11-23T14:03:51+00:00",
-  "988042774402200_122134723544733774": "2026-11-09T17:07:09+00:00",
   "988042774402200_122134723808733774": "2026-11-09T20:06:37+00:00",
   "988042774402200_122134760354733774": "2026-11-10T08:07:43+00:00",
   "988042774402200_122134760666733774": "2026-11-10T11:07:28+00:00",
@@ -2741,169 +2722,6 @@
   "988042774402200_122136630494733774": "2026-11-23T13:59:31+00:00"
  },
  "slots": {
-  "2026-11-09 21:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1338630212673029": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122115064401471857_1873295837141279",
-       "error": null,
-       "last_attempt": "2026-11-09T20:00:47+04:00",
-       "mode": "schedule",
-       "photo_id": "122115064371471857",
-       "post_id": "1338630212673029_122115064401471857",
-       "status": "done"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122118336303505599_1135667158851158",
-       "error": null,
-       "last_attempt": "2026-11-09T20:00:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122118336267505599",
-       "post_id": "1448441201677530_122118336303505599",
-       "status": "done"
-      }
-     },
-     "title": "Na frente de todos, minha nora disse que cozinhar e limpar era a minha personalidade inteira. Naquela noite, reservei oito semanas em Portugal",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 68,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "RU": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122117985908640467_905139355924419",
-       "error": null,
-       "last_attempt": "2026-11-09T17:26:12+04:00",
-       "mode": "schedule",
-       "photo_id": "122117985878640467",
-       "post_id": "1008693642337213_122117985908640467",
-       "status": "done"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122139570104737651_2301763587034601",
-       "error": null,
-       "last_attempt": "2026-11-09T17:26:21+04:00",
-       "mode": "schedule",
-       "photo_id": "122139570074737651",
-       "post_id": "1125676667286378_122139570104737651",
-       "status": "done"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122134723544733774_2451218122072833",
-       "error": null,
-       "last_attempt": "2026-11-09T17:26:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122134723514733774",
-       "post_id": "988042774402200_122134723544733774",
-       "status": "done"
-      }
-     },
-     "title": "Готовка и уборка — вся твоя личность, Диана»: после этих слов за праздничным столом она купила билет в Португалию",
-     "warnings": [
-      "длина текста FB 1580 слов (исходник 1875, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 39,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "TR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1129620776897151": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122127149427311884_1461660669266033",
-       "error": null,
-       "last_attempt": "2026-11-09T20:00:35+04:00",
-       "mode": "schedule",
-       "photo_id": "122127149397311884",
-       "post_id": "1129620776897151_122127149427311884",
-       "status": "done"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122126355315307134_1890772792085103",
-       "error": null,
-       "last_attempt": "2026-11-09T20:00:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122126355285307134",
-       "post_id": "1164575726728296_122126355315307134",
-       "status": "done"
-      }
-     },
-     "title": "Şükran Günü'nde gelinim herkesin önünde \"Senin tüm kişiliğin yemek ve temizlik, Diane\" dedi; oğlum tabağına baktı, ben o gece Portekiz'e bilet aldım",
-     "warnings": [
-      "длина текста FB 1353 слов (исходник 1875, цель ±10%)",
-      "длина статьи 569 слов"
-     ],
-     "wp_error": null,
-     "wp_id": 67,
-     "wp_live": true,
-     "wp_status": "future"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-09T21:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/860572296_122124613563457373_1503348144642669050_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jPripNOmkFwQ7kNvwHZP-gX&_nc_oc=Ado_g1idF5ygoh6fG8NIKg78_M8uxRGfR31guH8wqPQJAXC1KHdyz2C2q5AKigjK_hw&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=PT9GRIIQFadtPvBJglR7nw&_nc_tpa=Q5bMBQJDEubn4Y-eTDeV-vlLywW6AStiheMxCtzdF-ytTu1ac3-IbBpBhDLpJMA87zRCN_QMVub5SvXYqQ&oh=00_AQRGWrPe5upZzNpVkHDAoRoPgHlsa3RcYGwP4gRpMqIi8Q&oe=6AF7947A",
-    "link": "https://www.facebook.com/share/p/19jyRSH3zV/",
-    "origin": "manual",
-    "page_id": "61593721215501",
-    "text": "I drove 3 hours to my son's Thanksgiving celebration, bringing a turkey, 2 pies, and enough homemade dishes to feed 12 people. But in front of her guests, my daughter-in-law laughed and declared, “Cooking and cleaning—that's your whole personality, Diane.” My son kept staring at his plate while everyone expected me to laugh along. That evening, I revisited eleven months of saved travel plans, reserved a small home in Portugal, and sent him a Christmas message...\n\nI am Diane. I'm sixty-three, and until last Thanksgiving, I had confused being useful to my family with being valued by them.\n\nI left my Raleigh home shortly after eight that morning, with a roasted turkey safely packed in a cooler and two homemade pies resting on the passenger-side floor. The back seat was crowded with green bean casserole, sweet potato casserole, stuffing, and cranberry sauce. Holiday traffic stretched the trip to Charlotte to almost three hours, and I spent much of the drive worrying about the sweet potatoes getting cold.\n\nWhen I arrived at my son Derek's house, his wife, Cassandra, had decorated the porch with matching wreaths and small golden pumpkins. Their home looked worthy of a holiday magazine, with even the walkway completely free of fallen leaves.\n\nCassandra opened the door, glanced at the food I was carrying, and called inside, \"Derek, your mother's here. We can stop worrying about dinner now.\"\n\nShe gave me an air kiss near my cheek before stepping aside. She made no effort to help with the dishes, although I was balancing the turkey against my hip while preventing my handbag from slipping off my shoulder.\n\nDerek appeared shortly afterward, hugged me briefly, and took the roasting pan. \"You're a lifesaver, Mom,\" he said, already heading for the kitchen.\n\nOnce, hearing those words had made me happy.\n\nAfter my husband Leonard died suddenly, leaving Derek fourteen and his sister Joanna eleven, taking care of everyone became my second occupation. I worked full-time at a dental clinic, managed our finances at the kitchen table, and stretched one income to cover our mortgage, two growing children, and whatever unexpected problem arose.\n\nSome evenings, I sat in my car outside the supermarket, figuring out whether I could pay for both Derek's baseball gear and Joanna's winter jacket. Somehow, I always managed. Leonard had been a loving husband, and losing him also meant losing the one person who reminded me I didn't have to shoulder everything alone.\n\nFor years, I promised myself that once my children became adults, I'd finally pursue things simply because they brought me joy.\n\nI dreamed of traveling, exploring historic towns, learning painting, and spending quiet afternoons reading without worrying about unfinished housework. I'd worked diligently, saved responsibly, and retired with sufficient funds for a comfortable life, provided I spent wisely.\n\nBut retirement unfolded differently from what I'd imagined.\n\nDerek and Cassandra had been married for eight years, and they always seemed to require something. Sometimes they needed me to watch their dog for a weekend, collect furniture, or help pay an unexpected bill until their finances improved.\n\nI loved them and enjoyed remaining involved in their lives. What escaped my attention was how slowly their needs pushed my own plans off the calendar.\n\nThat Thanksgiving, Cassandra had invited her mother, Renee, her sister's family, and several neighborhood friends. The dining room was beautifully arranged, with eucalyptus branches along the table, folded linen napkins beside gold-rimmed glasses, and handwritten place cards.\n\nI praised her decorations, and Cassandra smiled.\n\n\"I'm thinking about starting an event-planning business,\" she said, adjusting a candle. \"Presentation is everything.\"\n\nThen she gestured toward the kitchen.\n\n\"Can you get the casseroles warming? People will be hungry soon.\"\n\nFor the following three hours, I moved between the oven, refrigerator, and sink while the others socialized in the living room. I located serving dishes, warmed the stuffing, carved the turkey, and cleaned pans because Cassandra didn't want dirty cookware visible when guests passed through.\n\nDerek entered twice to check whether I needed help. Both times, he disappeared before I could respond.\n\nAt one point, Renee entered the kitchen searching for a corkscrew. She noticed me washing a skillet and smiled pleasantly.\n\n\"Oh, Diane, sweetheart. You're always happiest when you're busy.\"\n\nI returned her smile because that response had become automatic.\n\nIn reality, I would have preferred sitting with a glass of wine and enjoying a conversation. I'd recently finished a wonderful novel about a retired woman traveling across Europe, and I was eager to discuss it with someone.\n\nInstead, I finished drying the skillet.\n\nDinner finally began shortly after four.\n\nEveryone praised the turkey, while Cassandra accepted compliments about the lovely meal without acknowledging how much I'd cooked. Initially, I wasn't bothered. Seeing everyone enjoy the food pleased me, and I'd always thought holiday meals should bring people together rather than become competitions over credit.\n\nThen one of Cassandra's friends spotted a framed photograph on the sideboard.\n\nThe picture showed me laughing on a windswept hillside in New Zealand, dressed in a blue raincoat, with the wind blowing my hair across my face. I'd traveled there alone two years earlier on my first major trip after retiring.\n\n\"Is that you, Diane?\" the woman asked. \"What a beautiful place!\"\n\nMy face immediately brightened.\n\n\"It is. That was outside Queenstown. The scenery was absolutely incredible.\"\n\nShe asked what I'd enjoyed most, so I began describing a ferry trip through Milford Sound. I recalled towering mountains rising directly from the water and the silence that settled over the passengers as the boat passed beneath a waterfall.\n\nI'd barely spoken a few sentences when Cassandra interrupted with laughter.\n\n\"Oh, don't get her started,\" she said, waving her fork toward me. \"Cooking and cleaning—that's your whole personality, Diane. Traveling is just what she does between family dinners.\"\n\nA few guests exchanged awkward smiles.\n\nI watched Cassandra, expecting her to recognize how insulting she'd sounded. Instead, she reached for her wineglass, apparently delighted with her remark.\n\nAcross the table, Derek kept his eyes on his stuffing.\n\nHe offered no correction.\n\nHe didn't mention my thirty years working at a dental practice, raising two children after my husband's death, or traveling halfway around the globe simply to experience a world beyond my neighborhood.\n\nHe continued eating.\n\nOne guest attempted to redirect the conversation by asking about Christmas.\n\nCassandra eagerly leaned forward.\n\n\"I've already been thinking about the menu. Diane will handle the cooking again, of course. Nobody does Christmas like she does.\"\n\nShe spoke without a second thought.\n\nAs though I'd already agreed.\n\nAs though spending another Christmas cooking in someone else's kitchen was the only thing I could possibly want.\n\nI lowered my fork and asked Derek for the water.\n\nHe passed me the pitcher without lifting his eyes.\n\nHis silence hurt more than Cassandra's joke because it was hardly the first time. Over the years, he'd privately apologized for her cutting remarks, explaining that she was under pressure or hadn't intended to offend me.\n\nYet at every subsequent gathering, he expected me to behave as though nothing had happened.\n\nWhen dinner ended, I went to the downstairs bathroom to wash my hands.\n\nA framed decoration above the towel rail displayed the words, \"Family Is Everything.\"\n\nI paused to study it.\n\nI remembered the money I'd sent when Derek needed a truck, the apartment lease I'd co-signed years earlier, and the monthly bills I'd quietly covered whenever he said money was tight. I'd never done any of it expecting gratitude in return. I'd helped because he was my child.\n\nBut standing there, I couldn't recall the last occasion when he'd asked what I wanted.\n\nAfter leaving the bathroom, I helped serve pumpkin pie, packed leftovers, and cleaned the kitchen countertops.\n\nCassandra was discussing her possible Christmas guest list when I finally picked up my coat.\n\n\"I'll send you the guest count tomorrow,\" she called from the dining room.\n\nI left that remark unanswered.\n\nI hugged my grandchildren, kissed Derek on the cheek, and reminded him to drive safely when he took the children skating the following morning.\n\nThen I headed home.\n\nBy the time I reached Raleigh, the highway had grown dark. I passed houses illuminated with Christmas decorations, unable to stop thinking about that photograph taken in New Zealand.\n\nI remembered standing on the hillside, feeling the chilly wind against my cheeks and realizing that, for once, nobody expected me to be somewhere else.\n\nOnce home, I carried my overnight bag inside, started heating water for tea, and opened my laptop.\n\nI began by reviewing my bank statements.\n\nSeveral recurring charges had become so familiar I'd nearly forgotten them: streaming services, a storage unit, routine transfers to Derek, and miscellaneous purchases I'd made after someone asked me to buy something.\n\nIndividually, the expenses seemed minor.\n\nCombined, they amounted to hundreds of dollars each month.\n\nNext, I checked the savings account containing proceeds from selling the home Leonard and I had shared. I'd guarded that money for years, convinced I might someday need it during an unforeseen crisis.\n\nBut I was already sixty-three.\n\nI'd survived an emergency that permanently altered my life. More than most, I understood that tomorrow doesn't guarantee us the years we assume we'll have.\n\nI opened a computer folder titled \"Places to Go.\"\n\nIt contained pictures of charming Italian villages, Irish cottages, and coastal apartments in Greece. Yet one particular property had always caught my attention.\n\nIt was a modest furnished home in Óbidos, Portugal, featuring whitewashed walls, blue shutters, and a small courtyard hidden behind an ancient stone street.\n\nI'd bookmarked it eleven months earlier.\n\nI returned to the listing and examined its availability.\n\nAn eight-week period beginning in December was open.\n\nMy pulse quickened.\n\nI reviewed the cancellation conditions, compared the total cost with my travel budget, and examined the pictures once again.\n\nThen I entered my credit card details.\n\nWhen the reservation confirmation appeared, I remained seated, staring at my screen.\n\nI'd just reserved eight weeks in Portugal.\n\nNot for Derek. Not for Cassandra. Not because anyone expected me to fulfill another obligation.\n\nFor me.\n\nI visited an airline website and found a flight to Lisbon. I booked a one-way ticket so I could choose when to return, although I anticipated spending the full eight weeks I'd reserved there.\n\nI printed my itinerary and placed it beside my coffee cup.\n\nNear midnight, my phone screen illuminated.\n\nDerek had sent a message.\n\n\"Cassie says we should start planning Christmas before everything gets booked.\"\n\nI glanced at my flight confirmation before reading his message again.\n\nFor the first time in years, I felt no instinctive need to reorganize my plans around his.\n\nI carefully composed my answer.\n\n\"You should make whatever arrangements work for your family. I won't be cooking Christmas dinner this year.\"\n\nThen I placed my phone beside my ticket to Portugal.",
-    "wp_media_id": 28,
-    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261109-2100-ru.jpg"
-   },
-   "source_key": "post:61593721215501_122124663333457373",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
-    "url": "https://peakproductions.co",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-10 00:00": {
    "langs": {
     "DE": {
