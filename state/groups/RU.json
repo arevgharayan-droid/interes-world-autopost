@@ -21639,12 +21639,13 @@
       "1117846738074068": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122136553953311273_1521540179844720",
        "error": null,
        "last_attempt": "2026-11-23T17:51:48+04:00",
        "mode": "schedule",
        "photo_id": "122136553899311273",
        "post_id": "1117846738074068_122136553953311273",
-       "status": "published"
+       "status": "done"
       },
       "1118090254718709": {
        "attempts": 1,
