@@ -12,6 +12,7 @@
   "04da7545de52af7eefa9": "2026-11-10T22:04:30+00:00",
   "0819121300603065c21d": "2026-11-16T20:28:20+00:00",
   "0976f65d7d6bcc7f86c3": "2026-11-21T22:45:41+00:00",
+  "0a8a4ac1cc522c55bc9f": "2026-11-23T13:49:42+00:00",
   "0ac40c9da1b87690b6f9": "2026-11-14T19:42:40+00:00",
   "0be0bfc1cc6b59ac3e3b": "2026-11-10T22:07:29+00:00",
   "0ddb611a8e43cef9f763": "2026-11-10T22:07:29+00:00",
@@ -113,6 +114,7 @@
   "8d9c5dde4968ee4bd37e": "2026-11-09T20:03:21+00:00",
   "8f0c6fea6ae58ae86b21": "2026-11-21T22:45:41+00:00",
   "8f698c163e894d01f17c": "2026-11-09T13:25:01+00:00",
+  "8fd7453c0acd814d36ec": "2026-11-23T13:49:42+00:00",
   "9080b378741e8f08ec4a": "2026-11-10T22:08:57+00:00",
   "90819c71275bd38dea2e": "2026-11-19T19:59:16+00:00",
   "91a1d555301edc6cd800": "2026-11-19T14:08:05+00:00",
@@ -178,6 +180,7 @@
   "e841ab38d6d5db285501": "2026-11-19T22:01:08+00:00",
   "e84337ab74e96356bcfe": "2026-11-10T22:05:49+00:00",
   "e883d8565fbbc8af866b": "2026-11-16T19:28:42+00:00",
+  "ed651dd4ef8f1e73b864": "2026-11-23T13:49:42+00:00",
   "f1f1897f294bbbd74a1b": "2026-11-22T14:04:32+00:00",
   "f413d9e3e7a72dfce70d": "2026-11-09T13:26:10+00:00",
   "f4fbb08e36886ae63dd0": "2026-11-18T15:24:43+00:00",
@@ -21307,8 +21310,89 @@
    }
   },
   "2026-11-23 21:00": {
-   "langs": {},
-   "prepared": false,
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha mãe voltou da praia rindo, mas minha filha de 6 anos não estava com ela. Quando a encontrei sozinha no escuro, as marcas nos pulsos revelaram a verdade",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 677,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Мать вернулась с пляжа смеясь и сказала, что «забыла» мою шестилетнюю дочь у полотенец, а я нашла девочку в темноте с синяками на запястьях",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 675,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Annem sahilden gülerek döndü ama altı yaşındaki kızım yanında yoktu: \"Unutmuşum\" dedi, kızımın bileklerindeki izler ise gerçeği anlattı",
+     "warnings": [
+      "длина текста FB 372 слов (исходник 546, цель ±10%)",
+      "длина статьи 565 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 676,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "replaced": {
     "at": "2026-11-23T13:30:53.821837+00:00",
     "old_link": "https://www.facebook.com/story.php?story_fbid=1483281243190570&id=100045261260562"
@@ -21324,7 +21408,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-2100-ru.jpg"
    },
    "source_key": "post:100064230806326_1436771018473911",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -21786,7 +21870,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-23 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1463688665782146": {
    "fingerprint": "96d6368906f9c3d5c5e2",
