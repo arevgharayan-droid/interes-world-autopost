@@ -7276,21 +7276,25 @@
      "pages": {
       "1085853177948572": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128356993317111_1081289281620893",
        "error": null,
        "last_attempt": "2026-11-23T18:09:15+04:00",
        "mode": "immediate",
        "photo_id": "122128356969317111",
        "post_id": "1085853177948572_122128356993317111",
-       "status": "published"
+       "status": "done"
       },
       "1145996375255489": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133558297310364_3355401391322545",
        "error": null,
        "last_attempt": "2026-11-23T18:09:55+04:00",
        "mode": "immediate",
        "photo_id": "122133558273310364",
        "post_id": "1145996375255489_122133558297310364",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "اتصلت بوالديها من سرير المستشفى تتوسل إليهما أن يأخذا رضيعها، فأغلق أبوها الخط قائلاً \"الليلة ليلة ويتني\"، وبعد ثلاث ساعات فُتح الباب في الثانية فجراً",
@@ -7467,7 +7471,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-1800-mix.jpg"
    },
    "source_key": "post:100064230806326_1440458744771805",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
