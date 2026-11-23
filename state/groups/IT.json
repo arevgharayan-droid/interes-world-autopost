@@ -21270,1023 +21270,58 @@
    }
   },
   "2026-11-23 18:00": {
-   "langs": {
-    "AR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "CS": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1106793902521611": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:06:03+04:00",
-       "mode": "schedule",
-       "photo_id": "122116816227328231",
-       "post_id": "1106793902521611_122116816257328231",
-       "status": "scheduled"
-      }
-     },
-     "title": "Od dnešního dne jsi v tátově životě až druhá\": Co nevěsta řekla mé pětileté vnučce, mě donutilo vstát se sklenicí v ruce",
-     "warnings": [
-      "длина текста FB 952 слов (исходник 1132, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 1029,
-     "wp_status": "future"
-    },
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "ES": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1012250151981057": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:57:37+04:00",
-       "mode": "schedule",
-       "photo_id": "122133412935302250",
-       "post_id": "1012250151981057_122133412965302250",
-       "status": "scheduled"
-      },
-      "1030877436782212": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:56:22+04:00",
-       "mode": "schedule",
-       "photo_id": "122141750348808945",
-       "post_id": "1030877436782212_122141750378808945",
-       "status": "scheduled"
-      },
-      "1064982806700854": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:54:20+04:00",
-       "mode": "schedule",
-       "photo_id": "122111976872456562",
-       "post_id": "1064982806700854_122111976902456562",
-       "status": "scheduled"
-      },
-      "1068567606345452": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:58:21+04:00",
-       "mode": "schedule",
-       "photo_id": "122131800003306132",
-       "post_id": "1068567606345452_122131800033306132",
-       "status": "scheduled"
-      },
-      "1078100405390763": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:00:28+04:00",
-       "mode": "schedule",
-       "photo_id": "122128417647305584",
-       "post_id": "1078100405390763_122128417677305584",
-       "status": "scheduled"
-      },
-      "1079964265201139": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:53:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122108666414506427",
-       "post_id": "1079964265201139_122108666444506427",
-       "status": "scheduled"
-      },
-      "1086658774532679": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:57:58+04:00",
-       "mode": "schedule",
-       "photo_id": "122134211307308548",
-       "post_id": "1086658774532679_122134211337308548",
-       "status": "scheduled"
-      },
-      "1087342844462554": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:57:15+04:00",
-       "mode": "schedule",
-       "photo_id": "122123335311296683",
-       "post_id": "1087342844462554_122123335341296683",
-       "status": "scheduled"
-      },
-      "1093003583899107": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:00:05+04:00",
-       "mode": "schedule",
-       "photo_id": "122130297507300251",
-       "post_id": "1093003583899107_122130297543300251",
-       "status": "scheduled"
-      },
-      "1099258949937246": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:59:26+04:00",
-       "mode": "schedule",
-       "photo_id": "122114901872601707",
-       "post_id": "1099258949937246_122114901902601707",
-       "status": "scheduled"
-      },
-      "1114015015119414": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:55:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122142309974811401",
-       "post_id": "1114015015119414_122142310004811401",
-       "status": "scheduled"
-      },
-      "1128937866962526": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:59:09+04:00",
-       "mode": "schedule",
-       "photo_id": "122105190608533031",
-       "post_id": "1128937866962526_122105190638533031",
-       "status": "scheduled"
-      },
-      "1140835409106424": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:54:48+04:00",
-       "mode": "schedule",
-       "photo_id": "122110940390543006",
-       "post_id": "1140835409106424_122110940420543006",
-       "status": "scheduled"
-      },
-      "1142735408923607": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:52:05+04:00",
-       "mode": "schedule",
-       "photo_id": "122139685209311525",
-       "post_id": "1142735408923607_122139685239311525",
-       "status": "scheduled"
-      },
-      "1149681171551323": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:58:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122130934359314630",
-       "post_id": "1149681171551323_122130934395314630",
-       "status": "scheduled"
-      },
-      "1159996950522974": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:59:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122123278611318395",
-       "post_id": "1159996950522974_122123278641318395",
-       "status": "scheduled"
-      },
-      "1160223747182678": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:52:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122138180283400586",
-       "post_id": "1160223747182678_122138180313400586",
-       "status": "scheduled"
-      },
-      "1160240797163045": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:56:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122129431707300955",
-       "post_id": "1160240797163045_122129431737300955",
-       "status": "scheduled"
-      },
-      "1174674892385169": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:00:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122126682477301482",
-       "post_id": "1174674892385169_122126682507301482",
-       "status": "scheduled"
-      },
-      "1191480207389219": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:55:22+04:00",
-       "mode": "schedule",
-       "photo_id": "122126637741405175",
-       "post_id": "1191480207389219_122126637771405175",
-       "status": "scheduled"
-      },
-      "997772916762884": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:53:15+04:00",
-       "mode": "schedule",
-       "photo_id": "122113454774437662",
-       "post_id": "997772916762884_122113454804437662",
-       "status": "scheduled"
-      }
-     },
-     "title": "Al matrimonio del mio ex genero ho sentito cosa ha detto la sposa a mia nipote di 5 anni: due ore dopo mi sono alzato con il calice in mano",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 1027,
-     "wp_status": "future"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PL": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1079800528556354": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:05:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122126941089304793",
-       "post_id": "1079800528556354_122126941119304793",
-       "status": "scheduled"
-      },
-      "1083785318156771": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:01:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122114425328359745",
-       "post_id": "1083785318156771_122114425358359745",
-       "status": "scheduled"
-      },
-      "1089456087587677": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:04:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122123315439302807",
-       "post_id": "1089456087587677_122123315469302807",
-       "status": "scheduled"
-      },
-      "1107966229066828": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:05:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122141823573313481",
-       "post_id": "1107966229066828_122141823603313481",
-       "status": "scheduled"
-      }
-     },
-     "title": "Na weselu zięcia usłyszałem, co panna młoda szepnęła mojej 5-letniej wnuczce. Dwie godziny później wstałem z kieliszkiem w dłoni",
-     "warnings": [
-      "длина текста FB 942 слов (исходник 1132, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 1028,
-     "wp_status": "future"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RO": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "UK": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
+   "langs": {},
+   "prepared": false,
+   "replaced": {
+    "at": "2026-11-23T13:23:21.432215+00:00",
+    "old_link": "https://www.facebook.com/story.php?story_fbid=1674297460755613&id=100045261260562"
    },
-   "prepared": true,
    "slot_iso": "2026-11-23T18:00:00+04:00",
    "source": {
-    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/825271512_1674119114106781_8003925653918389866_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=g_L87KgyxoYQ7kNvwF6J9Wi&_nc_oc=AdrVCs88ozGszKQH5qMs4kSjsq-oKPJ9PKiotTy4hY-OroFetVemnPgePS23l1TFq0c&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=kx_FsMjCJIye98_RUrxAPQ&_nc_tpa=Q5bMBQIWYdJGESS4vkqkIOo_m_FgEzBz_oXNXyuNWrJrJq98XqCPbFBAToYZnBf1OMeZr4aZaglgBXbQnw&oh=00_AQT3cBuzWwEUYhgguNaHPM__gTTFhH8pRd9Jt-MtkdDRPg&oe=6B093487",
-    "link": "https://www.facebook.com/story.php?story_fbid=1674297460755613&id=100045261260562",
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/751041222_1443676971116649_731131582337325362_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WBbvmPwDqp8Q7kNvwEmgcXb&_nc_oc=AdpyntxIuTwDJ-UDUOboAQI0xxh_XxcsdfDhQktU65k1WvRMf3GwwwGci98uxYvDDS4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6VAliZglpFIMzTctkzD8HA&_nc_tpa=Q5bMBQIAUnUeGwS0ZEVxTxZDQEwBH5B4G10UcWRpSpexbcxd6xM4uFWXMgtXFUs9UZTlMvoV9grhhQj6gQ&oh=00_AQTyi0bqLDYCFTQj6XmktOfd7eM4S2_uEj9hC_qX6HwLEA&oe=6B09FE83",
+    "link": "https://www.facebook.com/story.php?story_fbid=1443677054449974&id=100064230806326",
     "origin": "manual",
-    "page_id": "100045261260562",
-    "text": "At my former son-in-law’s wedding, I accidentally overheard his new bride speaking to my five-year-old granddaughter. “Starting today, your dad has another woman in his life who comes first,” she told her. “And when we take the important family photos, I think you should stay out of them.”\n\nMy granddaughter walked away with her head lowered.\n\nI didn’t confront the bride.\n\nI didn’t cause a scene.\n\nI didn’t even let her know I had heard every single word.\n\nBut two hours later, during the reception, I rose from my chair with a glass in my hand.\n\nBy the time I finished my toast, my former son-in-law had slowly lowered his own glass and turned toward the woman he had married only hours earlier.\n\nBut to understand why I stood up that evening, I have to go back to what happened before the ceremony.\n\nMy name is Richard Bennett.\n\nI’m sixty-seven years old, and I live a short drive outside Columbus, Ohio.\n\nI lost my wife, Susan, after thirty-four years of marriage.\n\nThen, two years later, I lost our only daughter, Emily, in a car accident.\n\nShe was just thirty years old.\n\nEmily left behind her husband, Daniel, and their two-year-old daughter, Lily.\n\nThere are losses you eventually learn to carry.\n\nAnd then there are losses that divide your life into a before and an after.\n\nAfter Emily died, Daniel stopped feeling like simply my son-in-law.\n\nWe were connected by something much deeper.\n\nWe both loved Lily.\n\nAnd Lily needed both of us.\n\nDaniel worked as a supervisor for a construction company, which meant his schedule could be demanding.\n\nSome mornings, he was gone before six.\n\nI often picked Lily up from daycare.\n\nWe had Sunday dinners together.\n\nPhotographs of Emily still filled my house, and I never tried to remove them.\n\nWhenever Lily asked about her mother, I told her stories.\n\nI told her how terribly Emily sang along with the radio.\n\nHow she always cried during movies about dogs.\n\nHow she could stand at an ice cream counter for twenty minutes debating every flavor before finally ordering vanilla.\n\nI wanted Lily to understand that her mother wasn’t merely a sad photograph hanging on a wall.\n\nEmily had been funny.\n\nStubborn.\n\nWarm.\n\nReal.\n\nAnd she had loved her daughter more than anything.\n\nDaniel wanted Lily to grow up knowing that too.\n\nSo three years later, when Daniel told me he had begun seeing someone, I didn’t resent him for it.\n\nHer name was Vanessa Cole.\n\nShe was thirty-one years old and managed a dental clinic.\n\nDaniel seemed happier than I had seen him in years.\n\nMore importantly, during those first few months, Vanessa appeared to treat Lily well.\n\nThat was enough for me.\n\nA year later, Daniel proposed.\n\nOn the morning of their wedding, Lily came running down the hotel hallway wearing a pale pink dress and shiny black shoes.\n\nShe was completely fascinated by those shoes.\n\nShe kept walking back and forth just so she could hear the tiny heels clicking against the floor.\n\n“Grandpa, I’m going to be in all of Daddy’s pictures today.”\n\nI smiled.\n\n“Of course you are.”\n\n“He promised me.”\n\n“Then you’d better be ready to smile a lot.”\n\nShe immediately made the most serious face she could manage.\n\n“I can smile maybe twenty times.”\n\nI laughed.\n\n“I think twenty should cover it.”\n\nThe ceremony was being held at a beautifully restored estate roughly forty minutes outside Columbus.\n\nThe gardens were immaculate.\n\nThe weather was perfect.\n\nGuests were arriving in their best clothes.\n\nEverything felt calm.\n\nUntil shortly before the ceremony, when I suddenly realized I hadn’t seen Lily for several minutes.\n\nI checked the garden first.\n\nNothing.\n\nThen I walked toward the hallway where Vanessa and the rest of the bridal party were getting ready.\n\nAs I approached Vanessa’s room, I heard voices coming through a partially open door.\n\nOne of them belonged to Lily.\n\n“Can I be in the big picture too?”\n\nI slowed down.\n\nThen Vanessa answered.\n\n“Lily, you need to start understanding something.”\n\nI stopped.\n\nThere was nothing gentle in her voice.\n\n“Today your father is marrying me.”\n\nFor a moment, nobody spoke.\n\nThen Vanessa continued.\n\n“That means I’m the main woman in his life now.”\n\nMy jaw tightened.\n\nBut what she said next was worse.\n\n“And I want some pictures with just my real family. So when we take the important ones, you should stay with your grandfather.”\n\nThere was another silence.\n\nThen I heard Lily speak.\n\nHer voice sounded much smaller than it had in the hallway earlier.\n\n“Am I not real family?”\n\n“I didn’t say that.”\n\n“But Daddy said I could be in the pictures with him.”\n\nVanessa let out an irritated sigh.\n\n“Please don’t turn this into a problem today, okay?”\n\nI stepped away from the doorway before either of them could notice me.\n\nMaybe ten seconds later, Lily came into the hallway.\n\nHer eyes were wet.\n\nShe didn’t notice me immediately.\n\nShe walked over to a bench near one of the tall windows and sat down.\n\nThen she lowered her head and stared at those shiny black shoes.\n\nThe same shoes she had been proudly showing everyone only half an hour earlier.\n\nI sat beside her.\n\n“Come here, sweetheart.”\n\nShe leaned against me.\n\nShe didn’t sob.\n\nShe didn’t complain.\n\nShe simply stayed quiet.\n\nAnd somehow, that silence hurt more.\n\nAfter a few moments, she asked me something no five-year-old child should ever feel the need to ask.\n\n“Grandpa, when people get married, do they stop loving their kids the same?”\n\nMy chest tightened.\n\n“No, sweetheart.”\n\nShe looked down again.\n\n“Vanessa said she’s the most important woman now.”\n\nI took a slow breath.\n\n“Vanessa said something she never should have said to you.”\n\nLily finally looked at me.\n\n“Am I still going to be in Daddy’s pictures?”\n\nI reached over and took her small hand in mine.\n\n“Yes.”\n\nHer eyebrows lifted slightly.\n\n“How do you know?”\n\nI glanced toward the room where Vanessa was still preparing for the ceremony.\n\n“Because I promise you.”\n\nThe truth was, at that moment, I had absolutely no idea how I was going to keep that promise.\n\nBut before the ceremony started, I went looking for the wedding photographer.\n\nI pulled her aside, explained exactly what I had overheard, and asked her one simple question.\n\nHer answer completely changed what I planned to do next.\n\nAnd two hours later, when I stood up to give my toast, Vanessa still had no idea what was coming.\n\nWant to know what happened next?\n\nPart 2 is already in the first comment. 👇",
-    "wp_media_id": 1025,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1800-it.jpg"
+    "page_id": "100064230806326",
+    "text": "At my wedding, my fiancée’s family pointed at my mother and laughed. “Look at that miserable poor woman,” her father sneered.\n\nThen my bride grabbed a garden hose and said, “Maybe I should wash the poverty off her.”\n\nThe icy water struck my mother while several guests cheered.\n\nI stepped in front of her, removed my ring, and said,\n\n“The wedding is over. And by sunrise, your family will no longer have an empire.”\n\nThe first stream of water hit my mother before I fully understood why the guests were laughing.\n\nBy the time I reached her, her old gray dress was soaked and clinging to her slight frame. Her white hair was pressed against her face, and the woman I had planned to marry was still holding down the hose trigger.\n\n“Would you look at that pathetic woman?” Charles Whitmore, my future father-in-law, announced from the terrace.\n\nHe raised his champagne glass as though he were delivering a toast.\n\n“She looks like she wandered in from a bus station.”\n\nVanessa smiled beneath her long cathedral veil.\n\n“Relax, Daniel,” she said. “I’m only rinsing the smell of poverty off her.”\n\nShe aimed the hose again.\n\nThe freezing water struck my mother’s shoulder, making her stumble backward.\n\nI immediately stepped between them.\n\nThe next stream hit me across the chest.\n\nI stared at Vanessa, barely recognizing the woman I had intended to marry.\n\n“Put down the hose.”\n\nShe rolled her eyes.\n\n“Don’t ruin the joke.”\n\nMy mother, Eleanor, gently touched my arm.\n\n“Danny, please,” she whispered. “Not today.”\n\nHer words nearly broke me.\n\nShe was the one being publicly humiliated, yet she was apologizing because she did not want to spoil my wedding.\n\nNearly two hundred guests stood beneath white silk canopies across the lawn of the Whitmore estate.\n\nSome looked uncomfortable.\n\nOthers continued laughing simply because Charles was laughing.\n\nThe string quartet had stopped playing.\n\nAbove us, a drone camera hovered over the ceremony, recording every second.\n\nI slowly removed my ring.\n\nVanessa’s smile disappeared.\n\n“The wedding is over,” I said. “And before sunrise, your family’s entire empire will be gone.”\n\nFor one brief moment, no one moved.\n\nThen Charles burst into laughter.\n\n“Your empire?” he mocked. “You’re a salaried consultant who still drives a six-year-old car.”\n\nVanessa threw the hose onto the grass.\n\n“Put the ring back on,” she ordered. “You’re making a fool of yourself.”\n\n“No,” I replied. “You already did that for me.”\n\nI removed my jacket and wrapped it around my mother’s shoulders.\n\nThen I guided her toward my car.\n\nCharles followed us, his voice becoming colder.\n\n“If you leave now, you lose everything,” he warned. “The apartment, your job, your connections. I made you.”\n\nI stopped near the terrace steps.\n\nThat was what he truly believed.\n\nThroughout my two-year engagement to Vanessa, I had allowed the Whitmores to treat me like a useful but unimportant employee.\n\nI attended their private dinners.\n\nI reviewed their contracts.\n\nI listened while they bragged about investments and acquisitions financed with money they did not actually control.\n\nCharles had never asked why three major banks approved emergency credit for his failing company within forty-eight hours.\n\nHe had never asked who truly owned Northbridge Capital, the private investment firm hidden behind six separate holding companies.\n\nAnd he had never wondered why my mother wore an old gray dress even though she had enough money to purchase the entire Whitmore estate.\n\nI helped her into the passenger seat and closed the door.\n\nThen I called my attorney.\n\n“Rebecca,” I said, watching Vanessa tear off her veil in fury, “release the files.”\n\nTo be continued in the comments. 👇"
    },
-   "source_key": "post:100045261260562_1674297460755613",
-   "status": "in_progress",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
+   "source_key": "post:100064230806326_1443677054449974",
+   "status": "preparing"
   },
   "2026-11-23 21:00": {
-   "langs": {
-    "AR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "CS": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1106793902521611": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:12:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122116816395328231",
-       "post_id": "1106793902521611_122116816425328231",
-       "status": "scheduled"
-      }
-     },
-     "title": "Maminka se vrátila z návštěvy u kamarádky vyhublá a s cizím černým kufrem. To, co jsem v něm našla, odhalilo tajemství dlouhé desítky let",
-     "warnings": [
-      "длина текста FB 589 слов (исходник 725, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 1038,
-     "wp_status": "future"
-    },
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "ES": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1012250151981057": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:09:19+04:00",
-       "mode": "schedule",
-       "photo_id": "122133413757302250",
-       "post_id": "1012250151981057_122133413787302250",
-       "status": "scheduled"
-      },
-      "1030877436782212": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:08:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122141751608808945",
-       "post_id": "1030877436782212_122141751644808945",
-       "status": "scheduled"
-      },
-      "1064982806700854": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:08:16+04:00",
-       "mode": "schedule",
-       "photo_id": "122111977370456562",
-       "post_id": "1064982806700854_122111977400456562",
-       "status": "scheduled"
-      },
-      "1068567606345452": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:09:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122131800657306132",
-       "post_id": "1068567606345452_122131800687306132",
-       "status": "scheduled"
-      },
-      "1078100405390763": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:10:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122128418715305584",
-       "post_id": "1078100405390763_122128418745305584",
-       "status": "scheduled"
-      },
-      "1079964265201139": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:08:10+04:00",
-       "mode": "schedule",
-       "photo_id": "122108666900506427",
-       "post_id": "1079964265201139_122108666930506427",
-       "status": "scheduled"
-      },
-      "1086658774532679": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:09:32+04:00",
-       "mode": "schedule",
-       "photo_id": "122134212297308548",
-       "post_id": "1086658774532679_122134212327308548",
-       "status": "scheduled"
-      },
-      "1087342844462554": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:09:08+04:00",
-       "mode": "schedule",
-       "photo_id": "122123336385296683",
-       "post_id": "1087342844462554_122123336415296683",
-       "status": "scheduled"
-      },
-      "1093003583899107": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:10:44+04:00",
-       "mode": "schedule",
-       "photo_id": "122130298317300251",
-       "post_id": "1093003583899107_122130298347300251",
-       "status": "scheduled"
-      },
-      "1099258949937246": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:10:19+04:00",
-       "mode": "schedule",
-       "photo_id": "122114902520601707",
-       "post_id": "1099258949937246_122114902550601707",
-       "status": "scheduled"
-      },
-      "1114015015119414": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:08:33+04:00",
-       "mode": "schedule",
-       "photo_id": "122142311552811401",
-       "post_id": "1114015015119414_122142311582811401",
-       "status": "scheduled"
-      },
-      "1128937866962526": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:10:07+04:00",
-       "mode": "schedule",
-       "photo_id": "122105190932533031",
-       "post_id": "1128937866962526_122105190962533031",
-       "status": "scheduled"
-      },
-      "1140835409106424": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:08:21+04:00",
-       "mode": "schedule",
-       "photo_id": "122110941044543006",
-       "post_id": "1140835409106424_122110941074543006",
-       "status": "scheduled"
-      },
-      "1142735408923607": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:07:29+04:00",
-       "mode": "schedule",
-       "photo_id": "122139686265311525",
-       "post_id": "1142735408923607_122139686301311525",
-       "status": "scheduled"
-      },
-      "1149681171551323": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:09:56+04:00",
-       "mode": "schedule",
-       "photo_id": "122130935013314630",
-       "post_id": "1149681171551323_122130935043314630",
-       "status": "scheduled"
-      },
-      "1159996950522974": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:10:31+04:00",
-       "mode": "schedule",
-       "photo_id": "122123279409318395",
-       "post_id": "1159996950522974_122123279439318395",
-       "status": "scheduled"
-      },
-      "1160223747182678": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:07:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122138185659400586",
-       "post_id": "1160223747182678_122138185689400586",
-       "status": "scheduled"
-      },
-      "1160240797163045": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:08:57+04:00",
-       "mode": "schedule",
-       "photo_id": "122129432697300955",
-       "post_id": "1160240797163045_122129432727300955",
-       "status": "scheduled"
-      },
-      "1174674892385169": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:06+04:00",
-       "mode": "schedule",
-       "photo_id": "122126683221301482",
-       "post_id": "1174674892385169_122126683251301482",
-       "status": "scheduled"
-      },
-      "1191480207389219": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:08:28+04:00",
-       "mode": "schedule",
-       "photo_id": "122126638443405175",
-       "post_id": "1191480207389219_122126638473405175",
-       "status": "scheduled"
-      },
-      "997772916762884": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:07:58+04:00",
-       "mode": "schedule",
-       "photo_id": "122113455284437662",
-       "post_id": "997772916762884_122113455314437662",
-       "status": "scheduled"
-      }
-     },
-     "title": "Mia madre di 80 anni è tornata dal viaggio magrissima, con una valigia nera che non avevo mai visto: dentro c'era il segreto di una vita",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 1036,
-     "wp_status": "future"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PL": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1079800528556354": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122126941509304793",
-       "post_id": "1079800528556354_122126941539304793",
-       "status": "scheduled"
-      },
-      "1083785318156771": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:16+04:00",
-       "mode": "schedule",
-       "photo_id": "122114425802359745",
-       "post_id": "1083785318156771_122114425832359745",
-       "status": "scheduled"
-      },
-      "1089456087587677": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:28+04:00",
-       "mode": "schedule",
-       "photo_id": "122123315853302807",
-       "post_id": "1089456087587677_122123315883302807",
-       "status": "scheduled"
-      },
-      "1107966229066828": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122141824257313481",
-       "post_id": "1107966229066828_122141824287313481",
-       "status": "scheduled"
-      }
-     },
-     "title": "Mama wróciła z wyjazdu wychudzona, z obcą czarną walizką. To, co w niej znalazłam, zdradziło sekret sprzed dziesiątek lat",
-     "warnings": [
-      "длина текста FB 597 слов (исходник 725, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 1037,
-     "wp_status": "future"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RO": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "UK": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
+   "langs": {},
+   "prepared": false,
+   "replaced": {
+    "at": "2026-11-23T13:28:25.039723+00:00",
+    "old_link": "https://www.facebook.com/story.php?story_fbid=1688258559359503&id=100045261260562"
    },
-   "prepared": true,
    "slot_iso": "2026-11-23T21:00:00+04:00",
    "source": {
-    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/855166413_1688258509359508_3341868343104879852_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1vQmjRe1eScQ7kNvwHKbx3M&_nc_oc=AdrPKDS5zmrlyENOnzo_7cN_IhNl7JVHrShItjr7MziYqMlZjDMq_FDsJpfmyW09PYg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=FwJ8G2O5SPZnyCqiul6f6w&_nc_tpa=Q5bMBQJJQUy1YnGxm8c3Ysphce7lZxGJ0UJRE4Xipu-QCuZqCT69nmpdr5upAOuWFaZF8rK9MF1Jj5kbuw&oh=00_AQQwkc4_vFDOVTLOMvlfp8TaGQOaC0zq2cZRPlTUKLjRuw&oe=6B092786",
-    "link": "https://www.facebook.com/story.php?story_fbid=1688258559359503&id=100045261260562",
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/640272679_1321054070045607_390800029308109123_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-l-JMopSAPMQ7kNvwGbAF-N&_nc_oc=AdoZN_hUTDemK2AK4rOsdqoef3d-NxICF2YNibEdUSFTQOmZuZy5B50d3t2dUcGsaKw&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=TfTcBaWbdmeuctB8HsExYw&_nc_tpa=Q5bMBQK684CWiXs9KhgNqRMBfqJV5rZbk4H1BvyUrbdB56JR2HWwhn_oomfqPnQ5etOudSC-CIL2xb8ZCA&oh=00_AQSKSiv_wqYqKmULxt3AeasNIk1qnETajYVxMI0tSUmqWQ&oe=6B09FA6F",
+    "link": "https://www.facebook.com/story.php?story_fbid=1321054696712211&id=100064230806326",
     "origin": "manual",
-    "page_id": "100045261260562",
-    "text": "\"My 80-year-old mother went away for a week to reconnect with a childhood friend. But when I picked her up seven days later, she looked frighteningly thin and exhausted—and she was carrying a large black suitcase I'd never seen before. She claimed everything was fine. Yet when I discovered what was hidden inside that suitcase, I realized she'd been keeping a secret from me for decades…\n\nMy mother, Evelyn, had always been a happy, energetic woman with a love for baking and family gatherings.\n\nEven at eighty, she rarely missed our traditional Sunday dinners.\n\nSo when she told me she planned to spend seven days visiting her childhood friend Margaret, I was delighted.\n\nThe two women had known each other since they were little girls but hadn't met in twenty years.\n\nMargaret lived about three hours away, and Mom seemed genuinely excited about seeing her again.\n\nBut when I arrived at the train station a week later, I nearly walked past my own mother.\n\nShe looked nothing like the woman I'd waved goodbye to.\n\nHer familiar cardigan hung loosely from her shoulders, her face appeared unusually thin, and she seemed almost too weak to stand comfortably.\n\nBeside her was an enormous black suitcase.\n\n“Mom?” I called, hurrying toward her. “What happened? Are you feeling all right?”\n\nShe gave me a tired smile.\n\n“I'm fine, sweetheart. Just had a little trouble with my stomach.”\n\nBut her appearance worried me immediately.\n\n“Mom, you look exhausted. I think we should have a doctor examine you.”\n\nShe shook her head.\n\n“Please, Laura. I just want to go home and rest.”\n\nThen something caught my attention.\n\nWhen she'd left, Mom had carried a small blue travel bag.\n\nNow she was holding a suitcase nearly twice its size.\n\n“Where's your blue bag?” I asked.\n\nHer fingers tightened around the handle.\n\n“Oh, it broke during the trip. Margaret gave me this one.”\n\nShe quickly changed the subject.\n\n“Can we go now, dear?”\n\nI didn't push her further.\n\nBut once we arrived home, her behavior became even stranger.\n\nShe insisted on taking the black suitcase directly to her bedroom.\n\nAnd as soon as she went inside, she locked the door.\n\nMom had never done that before.\n\nThat evening, while she was resting upstairs, I decided to call Margaret.\n\nMaybe she could explain why Mom had returned in such poor condition.\n\nI dialed the phone number Mom had given me before leaving.\n\nA man answered.\n\n“Hello?”\n\n“Good evening. May I speak to Margaret, please?”\n\nThere was a brief silence.\n\nThen he replied, “I'm sorry, but Margaret hasn't lived here for eight years.”\n\nI froze.\n\n“Eight years? Are you certain?”\n\n“Absolutely. I've had this number for a long time.”\n\nAfter hanging up, I checked the contact information again.\n\nThere was no mistake.\n\nIt was exactly the number my mother had provided.\n\nSuddenly, I wasn't sure where she'd actually spent the past seven days.\n\nThe following morning, I found Mom sleeping in her favorite armchair, still wearing yesterday's cardigan.\n\nOn the table beside her sat a train ticket.\n\nI picked it up and noticed the date.\n\nIt was three days earlier than the day she'd supposedly returned.\n\nBeneath the ticket was a luggage tag attached to the black suitcase.\n\nThe name printed on it wasn't Evelyn.\n\nIt wasn't Margaret either.\n\nIt was Ellen.\n\nMy concern deepened.\n\nWith Mom asleep nearby, I carefully opened the suitcase.\n\nInside were neatly arranged clothes, an unopened brown envelope, and an old digital camera.\n\nThe clothing looked too large to belong to my mother.\n\nI picked up the camera and pressed the power button.\n\nThe battery indicator was almost empty.\n\nOnly four photographs were stored on it.\n\nThe first showed Mom standing outside an unfamiliar brick house.\n\nThe second showed her sitting beside a frail elderly woman.\n\nThe third captured something that made me increasingly uneasy.\n\nThen I opened the fourth photograph.\n\nI stared at the screen.\n\nMy hands began trembling as I recognized something I hadn't seen since childhood.\n\nSuddenly, a forgotten memory came rushing back.\n\nI grabbed my car keys, realizing that the answer to my mother's mysterious trip might be waiting at an address I'd known nearly fifty years ago…\n\nFull story in 1st comment  👇\"",
-    "wp_media_id": 1035,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-2100-it.jpg"
+    "page_id": "100064230806326",
+    "text": "A small girl walked into a police station insisting she needed to confess to something terrible — but what she said next left the officer on duty completely still.\n\nThat afternoon, a worried family stepped through the station doors: a mother, a father, and their two-year-old daughter. The child’s eyes were puffy from crying. Her tiny fingers clutched the edge of her mother’s sweater as if she were holding onto the only steady thing in the world. Both parents looked exhausted, unsure, and more than a little embarrassed.\n\n“Excuse me,” the father said softly at the front desk. “Is there an officer we could speak with?”\n\nThe receptionist glanced at the little girl, then back at him. “Of course. Is something wrong?”\n\nHe exhaled slowly, as if trying to organize a story that barely made sense.\n\n“Our daughter hasn’t stopped crying for three days,” he explained. “She keeps saying she has to talk to a police officer. She says she needs to confess. She won’t eat properly, she barely sleeps… and she won’t tell us what she thinks she did.”\n\nThe mother nodded, her eyes shiny. “We thought it was a phase. Or a nightmare. But she keeps repeating it. ‘I have to tell the police.’ Over and over.”\n\nThe receptionist hesitated — then a sergeant who had been standing nearby stepped forward.\n\nHe crouched down until he was at the child’s eye level, resting one knee gently on the floor.\n\n“Hi there,” he said in a calm, warm voice. “My name is Sergeant Miller. Your mom and dad said you needed to talk to me.”\n\nThe little girl sniffed and studied his badge carefully, as if making sure he was real.\n\nThen she took a shaky breath.\n\n“I did something bad,” she whispered.\n\nThe officer stayed perfectly still. “Okay,” he said gently. “Can you tell me what happened?”\n\nShe looked down at her shoes.\n\n“I broke Mommy’s favorite mug,” she said, her voice cracking. “The blue one with flowers. I dropped it. And I didn’t say sorry right away.”\n\nHer mother gasped softly, covering her mouth.\n\nThe sergeant blinked — then carefully kept his expression serious, though something tender flickered in his eyes.\n\n“And that’s why you wanted to confess?” he asked.\n\nThe little girl nodded vigorously, tears spilling again. “Bad people go to jail.”\n\nThere was a quiet pause inside the station. Even the receptionist looked away for a second.\n\nThe officer leaned a little closer.\n\n“Hey,” he said gently, “breaking a mug by accident is not a crime. That’s called being human.”\n\nShe looked up at him, unsure.\n\n“The important part,” he continued, “is telling the truth and saying sorry. That’s what good people do.”\n\nThe little girl’s lips trembled. “I’m sorry,” she whispered — turning toward her mother.\n\nHer mother dropped to her knees and wrapped her in a tight hug. “It was just a mug,” she said through tears. “I was never mad at you.”\n\nThe sergeant stood slowly, clearing his throat.\n\n“Well,” he said softly, “I think this case is officially closed.”\n\nThe tension that had followed the family into the station finally lifted.\n\nSometimes, the smallest confessions carry the heaviest weight.\n\n👇 To be continued in the comments"
    },
-   "source_key": "post:100045261260562_1688258559359503",
-   "status": "in_progress",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
+   "source_key": "post:100064230806326_1321054696712211",
+   "status": "preparing"
   },
   "2026-11-24 00:00": {
-   "langs": {
-    "AR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "CS": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1106793902521611": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:17:22+04:00",
-       "mode": "schedule",
-       "photo_id": "122116816635328231",
-       "post_id": "1106793902521611_122116816665328231",
-       "status": "scheduled"
-      }
-     },
-     "title": "Babička se na Díkuvzdání zeptala, proč v domě za milion dolarů, který mi koupila, bydlí cizí lidé – já přitom spal v autě",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 1042,
-     "wp_status": "future"
-    },
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "ES": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1012250151981057": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:14:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122133414483302250",
-       "post_id": "1012250151981057_122133414513302250",
-       "status": "scheduled"
-      },
-      "1030877436782212": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:14:04+04:00",
-       "mode": "schedule",
-       "photo_id": "122141752094808945",
-       "post_id": "1030877436782212_122141752124808945",
-       "status": "scheduled"
-      },
-      "1064982806700854": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:34+04:00",
-       "mode": "schedule",
-       "photo_id": "122111977772456562",
-       "post_id": "1064982806700854_122111977808456562",
-       "status": "scheduled"
-      },
-      "1068567606345452": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:00+04:00",
-       "mode": "schedule",
-       "photo_id": "122131801119306132",
-       "post_id": "1068567606345452_122131801149306132",
-       "status": "scheduled"
-      },
-      "1078100405390763": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:16:09+04:00",
-       "mode": "schedule",
-       "photo_id": "122128419297305584",
-       "post_id": "1078100405390763_122128419327305584",
-       "status": "scheduled"
-      },
-      "1079964265201139": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:28+04:00",
-       "mode": "schedule",
-       "photo_id": "122108667758506427",
-       "post_id": "1079964265201139_122108667788506427",
-       "status": "scheduled"
-      },
-      "1086658774532679": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:14:50+04:00",
-       "mode": "schedule",
-       "photo_id": "122134212879308548",
-       "post_id": "1086658774532679_122134212909308548",
-       "status": "scheduled"
-      },
-      "1087342844462554": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:14:27+04:00",
-       "mode": "schedule",
-       "photo_id": "122123337063296683",
-       "post_id": "1087342844462554_122123337093296683",
-       "status": "scheduled"
-      },
-      "1093003583899107": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:57+04:00",
-       "mode": "schedule",
-       "photo_id": "122130298785300251",
-       "post_id": "1093003583899107_122130298815300251",
-       "status": "scheduled"
-      },
-      "1099258949937246": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:34+04:00",
-       "mode": "schedule",
-       "photo_id": "122114902742601707",
-       "post_id": "1099258949937246_122114902772601707",
-       "status": "scheduled"
-      },
-      "1114015015119414": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:52+04:00",
-       "mode": "schedule",
-       "photo_id": "122142311972811401",
-       "post_id": "1114015015119414_122142312002811401",
-       "status": "scheduled"
-      },
-      "1128937866962526": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:22+04:00",
-       "mode": "schedule",
-       "photo_id": "122105191148533031",
-       "post_id": "1128937866962526_122105191178533031",
-       "status": "scheduled"
-      },
-      "1140835409106424": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:40+04:00",
-       "mode": "schedule",
-       "photo_id": "122110941440543006",
-       "post_id": "1140835409106424_122110941470543006",
-       "status": "scheduled"
-      },
-      "1142735408923607": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:11+04:00",
-       "mode": "schedule",
-       "photo_id": "122139686853311525",
-       "post_id": "1142735408923607_122139686883311525",
-       "status": "scheduled"
-      },
-      "1149681171551323": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:11+04:00",
-       "mode": "schedule",
-       "photo_id": "122130935391314630",
-       "post_id": "1149681171551323_122130935421314630",
-       "status": "scheduled"
-      },
-      "1159996950522974": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122123279805318395",
-       "post_id": "1159996950522974_122123279835318395",
-       "status": "scheduled"
-      },
-      "1160223747182678": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122138187255400586",
-       "post_id": "1160223747182678_122138187285400586",
-       "status": "scheduled"
-      },
-      "1160240797163045": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:14:15+04:00",
-       "mode": "schedule",
-       "photo_id": "122129433021300955",
-       "post_id": "1160240797163045_122129433051300955",
-       "status": "scheduled"
-      },
-      "1174674892385169": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:16:21+04:00",
-       "mode": "schedule",
-       "photo_id": "122126683623301482",
-       "post_id": "1174674892385169_122126683653301482",
-       "status": "scheduled"
-      },
-      "1191480207389219": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122126639007405175",
-       "post_id": "1191480207389219_122126639037405175",
-       "status": "scheduled"
-      },
-      "997772916762884": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:22+04:00",
-       "mode": "schedule",
-       "photo_id": "122113455536437662",
-       "post_id": "997772916762884_122113455566437662",
-       "status": "scheduled"
-      }
-     },
-     "title": "Mia nonna ha chiesto perché due sconosciuti vivessero nella villa da un milione di dollari che mi aveva comprato: io dormivo in auto e la mia famiglia è ammutolita",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 1040,
-     "wp_status": "future"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PL": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1079800528556354": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:17:10+04:00",
-       "mode": "schedule",
-       "photo_id": "122126941893304793",
-       "post_id": "1079800528556354_122126941923304793",
-       "status": "scheduled"
-      },
-      "1083785318156771": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:16:33+04:00",
-       "mode": "schedule",
-       "photo_id": "122114426186359745",
-       "post_id": "1083785318156771_122114426216359745",
-       "status": "scheduled"
-      },
-      "1089456087587677": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:16:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122123316093302807",
-       "post_id": "1089456087587677_122123316123302807",
-       "status": "scheduled"
-      },
-      "1107966229066828": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:16:58+04:00",
-       "mode": "schedule",
-       "photo_id": "122141824713313481",
-       "post_id": "1107966229066828_122141824743313481",
-       "status": "scheduled"
-      }
-     },
-     "title": "Babcia zapytała, dlaczego obcy ludzie mieszkają w domu za milion dolarów, który mi kupiła. Ja od miesięcy spałem w samochodzie",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 1041,
-     "wp_status": "future"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RO": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "UK": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
+   "langs": {},
+   "prepared": false,
+   "replaced": {
+    "at": "2026-11-23T13:35:38.842430+00:00",
+    "old_link": "https://www.facebook.com/story.php?story_fbid=1690624162456276&id=100045261260562"
    },
-   "prepared": true,
    "slot_iso": "2026-11-24T00:00:00+04:00",
    "source": {
-    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/855412480_1690459555806070_6081445112174457314_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YOdm8En8scYQ7kNvwF3F0SC&_nc_oc=AdobpnoIDlaRFefCdYSZFQZHbMtA6sF8l_RA15YcYrB8pGGNUvIpUrx1kSuPZJTvWG4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=T3V1dhCX36P23UC7whkU1g&_nc_tpa=Q5bMBQKYSuuAzvcr0BM_csEac8PiB0f0qSCmbQzsns6SY7KbApeZqEcuUUguICHxym0l9NOmuetKeHVjeQ&oh=00_AQRii04at7hPKXlEIZiHm-n1nhaG2mJfEGu2vPvz3y1Wzg&oe=6B095675",
-    "link": "https://www.facebook.com/story.php?story_fbid=1690624162456276&id=100045261260562",
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/600250484_1265872482230433_6829615204465892162_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Lq0nsynaZ6QQ7kNvwHcvbUJ&_nc_oc=AdpNhgQaPnluT3ygX6VVJJ04QlAusB93hNWuAUCpMulqkypACEVRFehl3nRNENObBPE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0LNO_ZzNsdgYlDU8TJvtrw&_nc_tpa=Q5bMBQKu5PNe_bYGrkg8iMqHQKgrHeY6CTfv7PCObKpJRctf0lCZmHO4Om4v4xQBdSPkDcmNkHkUARra1A&oh=00_AQSO1eW21V8Fz9kfFUxEXGfQUN5KONT6ZGbaB_jh5EETRQ&oe=6B0A1FF4",
+    "link": "https://www.facebook.com/story.php?story_fbid=1265872628897085&id=100064230806326",
     "origin": "manual",
-    "page_id": "100045261260562",
-    "text": "My grandmother asked why strangers were living in the million-dollar house she bought me—when I told her I was homeless, my family went silent\n\nThanksgiving dinner came to a sudden halt when my grandmother stood up and demanded:\n\n\"Zaden, why are two elderly strangers living in the million-dollar vacation home I purchased for you?\"\n\nI stared at her in disbelief.\n\n\"Grandma, what house? I've been sleeping in my car for months!\"\n\nMy sister's face turned white. My father dropped his knife, and my mother's smile disappeared.\n\nThen Grandma made a phone call.\n\nMinutes later, a lawyer arrived carrying a briefcase.\n\nAnd what he revealed would expose the secret my family had carefully hidden from me.\n\nMy name is Zaden Cross, and until that Thanksgiving, I'd believed my life was falling apart because of my own bad luck.\n\nI'd lost my apartment after my landlord refused to renew the lease. My credit score had mysteriously plummeted, and several promising job interviews ended without explanation.\n\nSome nights, I slept in parking lots.\n\nOther days, I skipped meals to save enough for gasoline.\n\nMeanwhile, my sister Belle enjoyed a comfortable lifestyle, and my parents constantly reminded me how disappointed they were.\n\n\"You need to grow up and take responsibility,\" Dad frequently said.\n\nMom preferred calling me emotionally unstable.\n\nBut now, sitting around Grandma Evelyn's Thanksgiving table, neither seemed interested in speaking.\n\n\"Grandma,\" I repeated, \"I don't own a vacation home.\"\n\nShe gripped her chair.\n\n\"I bought you a beautiful lakefront property in Georgia three years ago!\"\n\nMy mother's hands began trembling.\n\n\"Evelyn, perhaps you're remembering incorrectly. You've spent so much time overseas.\"\n\nGrandma narrowed her eyes.\n\n\"I know precisely what I purchased.\"\n\nDad interrupted.\n\n\"This isn't the place to discuss private financial matters.\"\n\nI turned toward him.\n\n\"Private matters? I've been homeless while apparently owning a million-dollar house!\"\n\n\"Lower your voice, Zaden!\"\n\n\"No! Someone needs to explain this!\"\n\nGrandma reached into her handbag and produced a photograph.\n\nIt showed an enormous lakeside home with floor-to-ceiling windows and a spacious wooden deck.\n\nStanding outside were my sister, her husband Logan, and an elderly couple.\n\nI recognized them immediately.\n\n\"Those are Logan's parents!\"\n\nGrandma nodded.\n\n\"They answered the door when I visited yesterday. Apparently, they've been living there quite comfortably.\"\n\nI slowly turned toward Belle.\n\n\"Your in-laws are living in my house?\"\n\nHer eyes filled with tears.\n\n\"Zaden, please. It's complicated.\"\n\n\"What's complicated about giving away something that belongs to me?\"\n\nDad slammed his hand against the table.\n\n\"You weren't responsible enough to manage valuable property! We made decisions for your own protection!\"\n\nI stared at him.\n\n\"Protection? You let me sleep in my car!\"\n\nThen Grandma asked another question.\n\n\"Zaden, why did you stop answering my letters?\"\n\nI blinked.\n\n\"What letters?\"\n\n\"I've written to you every month for three years. Your father told me you wanted nothing to do with me.\"\n\nMy stomach tightened.\n\n\"I never received a single letter.\"\n\nMom nervously twisted her napkin.\n\n\"We thought it was better to keep them until you were emotionally ready.\"\n\nI looked around the table.\n\nThey hadn't simply concealed my inheritance.\n\nThey'd deliberately kept me away from the one person trying to help.\n\nSuddenly, Grandma picked up her phone.\n\n\"Malcolm, you can come inside now.\"\n\nThe doorbell rang.\n\nA distinguished man entered carrying a leather briefcase.\n\nDad's expression changed instantly.\n\n\"Who is this?\"\n\n\"My attorney,\" Grandma replied.\n\nMalcolm opened his briefcase and placed several documents before me.\n\n\"Mr. Cross, we've discovered something extremely concerning.\"\n\nHe handed me a property deed.\n\n\"Your home was transferred to another party using what appears to be your signature.\"\n\nI examined the page.\n\nThe signature looked remarkably similar to mine.\n\nBut I'd never signed it.\n\nBelle began crying.\n\nThen Malcolm reached for another document.\n\n\"And unfortunately, Mr. Cross, the property transfer may not be the only transaction involving your identity.\"\n\nMy father's face went pale.\n\nI looked toward Grandma.\n\n\"What else did they do?\"\n\nFull story in the first comment... 👇",
-    "wp_media_id": 1039,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-it.jpg"
+    "page_id": "100064230806326",
+    "text": "My daughter told me to hide under the hospital bed… moments after I gave birth.\n\nI had just delivered my baby boy when my eight-year-old daughter, Emily Carter, leaned in close and whispered urgently,\n“Mom… get under the bed. Now.”\n\nThere was no imagination in her voice. No drama. Only fear—raw and unmistakable.\n\nI was drained, my body still trembling from labor, my hospital gown damp against my skin. The air smelled of disinfectant mixed with that soft, newborn scent. Nurses had just taken my baby away for routine checks. My husband, Mark Reynolds, had stepped out to answer a call.\n\nIt was just Emily and me.\n\n“Emily,” I murmured weakly, forcing a smile, “what are you talking about?”\n\nShe shook her head fast. “There’s no time. Please. They’re coming.”\n\n“They?” I whispered.\n\nHer eyes flicked toward the door as she grabbed my hand, her fingers icy.\n“I heard Grandma on the phone. She said everything would be ‘taken care of’ today. She said you wouldn’t be a problem anymore.”\n\nMy heart slammed painfully against my ribs.\n\nMark’s mother, Linda Reynolds, had never liked me. She blamed me for Mark leaving his high-paying job to start a small business. She resented that I already had Emily from my first marriage. And she had made it painfully clear she didn’t want another grandchild—especially one that would tie Mark to me forever.\n\nStill, this was a hospital. Cameras. Doctors. Laws.\n\n“Emily,” I said softly, trying to steady myself, “grown-ups say strange things sometimes.”\n\n“She was talking to a doctor,” Emily whispered, tears filling her eyes. “The one with the silver watch. She said you signed papers. But you didn’t. I know you didn’t.”\n\nA cold shiver crawled up my spine.\n\nEarlier that morning, while I was in labor, a nurse had placed several forms in front of me while I was barely conscious from pain. I remembered Mark and Linda standing nearby. I remembered the pen slipping from my hand.\n\nFootsteps echoed in the hallway. Voices approached. A cart rolled closer.\n\nEmily dropped to her knees and lifted the bed skirt.\n“Please,” she whispered. “Just trust me.”\n\nEvery logical thought told me this was impossible.\nBut another instinct—the one that had kept my child safe for eight years—screamed louder.\n\nI slid off the bed, ignoring the pain, and crawled underneath just as the door handle turned.\n\nFrom the floor, I saw shoes step into the room.\n\nThen I heard Linda’s calm voice say,\n“Doctor… she should be ready now.”\n\nTo be continued in the comments 👇"
    },
-   "source_key": "post:100045261260562_1690624162456276",
-   "status": "in_progress",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
+   "source_key": "post:100064230806326_1265872628897085",
+   "status": "preparing"
   },
   "2026-11-24 12:00": {
    "langs": {},
@@ -22550,28 +21585,34 @@
    "status": "used"
   },
   "post:100045261260562_1674297460755613": {
+   "error": "заменена другой историей по вашей просьбе",
    "fingerprint": "67b1b8b3574b0f1a9890",
    "link": "https://www.facebook.com/story.php?story_fbid=1674297460755613&id=100045261260562",
    "origin": "manual",
    "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1443677054449974&id=100064230806326",
    "slot": "2026-11-23 18:00",
-   "status": "used"
+   "status": "skipped"
   },
   "post:100045261260562_1688258559359503": {
+   "error": "заменена другой историей по вашей просьбе",
    "fingerprint": "6f6e2846481d1fca4cf1",
    "link": "https://www.facebook.com/story.php?story_fbid=1688258559359503&id=100045261260562",
    "origin": "manual",
    "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1321054696712211&id=100064230806326",
    "slot": "2026-11-23 21:00",
-   "status": "used"
+   "status": "skipped"
   },
   "post:100045261260562_1690624162456276": {
+   "error": "заменена другой историей по вашей просьбе",
    "fingerprint": "80846ecb60b18a7447f8",
    "link": "https://www.facebook.com/story.php?story_fbid=1690624162456276&id=100045261260562",
    "origin": "manual",
    "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1265872628897085&id=100064230806326",
    "slot": "2026-11-24 00:00",
-   "status": "used"
+   "status": "skipped"
   },
   "post:100045261260562_1698682471650445": {
    "fingerprint": "805fb8b83171cdb61fb9",
@@ -22658,6 +21699,22 @@
    "slot": "2026-11-17 18:00",
    "status": "used"
   },
+  "post:100064230806326_1265872628897085": {
+   "fingerprint": "dde288c45de1e2e21658",
+   "link": "https://www.facebook.com/story.php?story_fbid=1265872628897085&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 00:00",
+   "status": "reserved"
+  },
+  "post:100064230806326_1321054696712211": {
+   "fingerprint": "1990485a7580f6909b23",
+   "link": "https://www.facebook.com/story.php?story_fbid=1321054696712211&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 21:00",
+   "status": "reserved"
+  },
   "post:100064230806326_1325477259603288": {
    "fingerprint": "f5496fe896747df4e7ce",
    "link": "https://www.facebook.com/story.php?story_fbid=1325477259603288&id=100064230806326",
@@ -22681,6 +21738,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-22 20:30",
    "status": "used"
+  },
+  "post:100064230806326_1443677054449974": {
+   "fingerprint": "3a7192ba908a29c49e17",
+   "link": "https://www.facebook.com/story.php?story_fbid=1443677054449974&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 18:00",
+   "status": "reserved"
   },
   "post:100064230806326_1445104960973850": {
    "fingerprint": "f968f30b5cf5d6a6d3b9",

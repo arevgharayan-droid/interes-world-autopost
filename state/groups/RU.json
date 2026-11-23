@@ -21307,739 +21307,40 @@
    }
   },
   "2026-11-23 21:00": {
-   "langs": {
-    "AR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "CS": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "ES": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1138572272664180": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:05+04:00",
-       "mode": "schedule",
-       "photo_id": "122129618127306316",
-       "post_id": "1138572272664180_122129618157306316",
-       "status": "scheduled"
-      },
-      "1338630212673029": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:00+04:00",
-       "mode": "schedule",
-       "photo_id": "122120002905471857",
-       "post_id": "1338630212673029_122120002935471857",
-       "status": "scheduled"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:12:55+04:00",
-       "mode": "schedule",
-       "photo_id": "122122770633505599",
-       "post_id": "1448441201677530_122122770663505599",
-       "status": "scheduled"
-      }
-     },
-     "title": "Expulsa com uma mala velha após o funeral do marido, ela não sabia que a carta no bolso destruiria a família Monroe",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 649,
-     "wp_status": "future"
-    },
-    "RO": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:08:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122118988556640467",
-       "post_id": "1008693642337213_122118988586640467",
-       "status": "scheduled"
-      },
-      "1018759874664543": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:12:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122120849775294825",
-       "post_id": "1018759874664543_122120849805294825",
-       "status": "scheduled"
-      },
-      "1036597159544783": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:12:09+04:00",
-       "mode": "schedule",
-       "photo_id": "122120145824642087",
-       "post_id": "1036597159544783_122120145854642087",
-       "status": "scheduled"
-      },
-      "1038143956055997": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:10:25+04:00",
-       "mode": "schedule",
-       "photo_id": "122113428644600554",
-       "post_id": "1038143956055997_122113428674600554",
-       "status": "scheduled"
-      },
-      "1042837395585806": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:10:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122117791430623459",
-       "post_id": "1042837395585806_122117791460623459",
-       "status": "scheduled"
-      },
-      "1051766924693580": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:10:37+04:00",
-       "mode": "schedule",
-       "photo_id": "122137490600733379",
-       "post_id": "1051766924693580_122137490630733379",
-       "status": "scheduled"
-      },
-      "1066862079844179": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:00+04:00",
-       "mode": "schedule",
-       "photo_id": "122112353168596942",
-       "post_id": "1066862079844179_122112353198596942",
-       "status": "scheduled"
-      },
-      "1069814529551887": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:12:26+04:00",
-       "mode": "schedule",
-       "photo_id": "122127824295303687",
-       "post_id": "1069814529551887_122127824325303687",
-       "status": "scheduled"
-      },
-      "1075346445663696": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:12:20+04:00",
-       "mode": "schedule",
-       "photo_id": "122144254676775004",
-       "post_id": "1075346445663696_122144254706775004",
-       "status": "scheduled"
-      },
-      "1075712068960532": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:33+04:00",
-       "mode": "schedule",
-       "photo_id": "122119516970628634",
-       "post_id": "1075712068960532_122119517000628634",
-       "status": "scheduled"
-      },
-      "1084212424777390": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:09:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122136665463300832",
-       "post_id": "1084212424777390_122136665493300832",
-       "status": "scheduled"
-      },
-      "1092061600653020": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:10:13+04:00",
-       "mode": "schedule",
-       "photo_id": "122112056636588206",
-       "post_id": "1092061600653020_122112056666588206",
-       "status": "scheduled"
-      },
-      "1097710383424105": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:56+04:00",
-       "mode": "schedule",
-       "photo_id": "122117428292343996",
-       "post_id": "1097710383424105_122117428322343996",
-       "status": "scheduled"
-      },
-      "1098718609991464": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122123913675297368",
-       "post_id": "1098718609991464_122123913705297368",
-       "status": "scheduled"
-      },
-      "1113548795169055": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:09:26+04:00",
-       "mode": "schedule",
-       "photo_id": "122142726326773833",
-       "post_id": "1113548795169055_122142726362773833",
-       "status": "scheduled"
-      },
-      "1117846738074068": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:09:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122136474633311273",
-       "post_id": "1117846738074068_122136474669311273",
-       "status": "scheduled"
-      },
-      "1118090254718709": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:11+04:00",
-       "mode": "schedule",
-       "photo_id": "122103894128556634",
-       "post_id": "1118090254718709_122103894164556634",
-       "status": "scheduled"
-      },
-      "1125468037313193": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:09:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122120465577295429",
-       "post_id": "1125468037313193_122120465607295429",
-       "status": "scheduled"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:09:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122141557556737651",
-       "post_id": "1125676667286378_122141557592737651",
-       "status": "scheduled"
-      },
-      "1146158698570676": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:10:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122130472311300293",
-       "post_id": "1146158698570676_122130472341300293",
-       "status": "scheduled"
-      },
-      "1167733113080371": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:11:22+04:00",
-       "mode": "schedule",
-       "photo_id": "122130832509307779",
-       "post_id": "1167733113080371_122130832539307779",
-       "status": "scheduled"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:08:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122136552908733774",
-       "post_id": "988042774402200_122136552938733774",
-       "status": "scheduled"
-      }
-     },
-     "title": "Свекровь вышвырнула вдову на улицу с одним чемоданом, не зная, какую тайну муж спрятал в её кармане",
-     "warnings": [
-      "длина текста FB 381 слов (исходник 472, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 647,
-     "wp_status": "future"
-    },
-    "TR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1083701291497481": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:12:44+04:00",
-       "mode": "schedule",
-       "photo_id": "122125254663304633",
-       "post_id": "1083701291497481_122125254693304633",
-       "status": "scheduled"
-      },
-      "1129620776897151": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:12:32+04:00",
-       "mode": "schedule",
-       "photo_id": "122128537299311884",
-       "post_id": "1129620776897151_122128537329311884",
-       "status": "scheduled"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:12:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122127892359307134",
-       "post_id": "1164575726728296_122127892389307134",
-       "status": "scheduled"
-      },
-      "1180583925128715": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:12:50+04:00",
-       "mode": "schedule",
-       "photo_id": "122124292797305562",
-       "post_id": "1180583925128715_122124292827305562",
-       "status": "scheduled"
-      }
-     },
-     "title": "Kayınvalidesi Cenazeden Sonra Onu Eski Bir Bavulla Sokağa Attı, Ama Kocasının Ceketine Bıraktığı Mektup Her Şeyi Değiştirecekti",
-     "warnings": [
-      "длина текста FB 330 слов (исходник 472, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 648,
-     "wp_status": "future"
-    },
-    "UK": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
+   "langs": {},
+   "prepared": false,
+   "replaced": {
+    "at": "2026-11-23T13:30:53.821837+00:00",
+    "old_link": "https://www.facebook.com/story.php?story_fbid=1483281243190570&id=100045261260562"
    },
-   "prepared": true,
    "slot_iso": "2026-11-23T21:00:00+04:00",
    "source": {
-    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/643880233_1483281013190593_6898376219835205104_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kywL1iWJ1_gQ7kNvwGdI_eE&_nc_oc=AdprPVIZDfuhSI2kd-hm8F22DZkWuUCf3AsQSL-uvOudU3yb3-Lef6VtcMJeR2Isu50&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=zkka4kcCQcW7AuWsJREyuQ&_nc_tpa=Q5bMBQIZ5sXoo1aKiusvh0ACa7EWpLkx5Z2PpFE0jLlUMnyTC5KEcpGKNTQW1DQfV4qvpeFJm7c2aSI3rw&oh=00_AQRfcbqnsD0AG_npoCs6zqxDNtQqW2D3zSRofYCSv9aQzw&oe=6B0922BA",
-    "link": "https://www.facebook.com/story.php?story_fbid=1483281243190570&id=100045261260562",
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/740487452_1436770971807249_8372625401687474909_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=84YOb_QeD1wQ7kNvwHJlaT5&_nc_oc=AdqJJFfDgVpxzQAbyEP4w08wIHO6f9sxaXY5EEuGKkuUChSV6Ae5UaRHmDnuEUC79yE&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=SJJva3BRHsje3jNccdo0eQ&_nc_tpa=Q5bMBQK-BnXslOcAzMjnyNxYGDbUO7Zv2IspfALFlecqmT6S-CLhM1jgghL2TArNc0S_aHPeABiYGYuZxw&oh=00_AQQTG4l0VF2IYsyaRR8s8r85Z1PW8iz2yZImx4tItviRjQ&oe=6B0A1B6C",
+    "link": "https://www.facebook.com/story.php?story_fbid=1436771018473911&id=100064230806326",
     "origin": "manual",
-    "page_id": "100045261260562",
-    "text": "“Get out of here, you wretch!” The mother-in-law kicked her out into the street with an old suitcase after the funeral, never imagining the secret her son had left hidden in her pocket…\n\nPart 1 — Thrown Out With a Suitcase\nThe door slammed hard enough to rattle the stained-glass sidelights, and Lucia Vega found herself on a cold sidewalk with one worn suitcase at her feet.\n\nInside was her whole life: patched jeans, a few T-shirts, and the only framed photo she still had of Dr. Edward Monroe—the husband she’d buried three months ago.\n\n“Don’t come back, you trash!” Margaret Monroe screamed from the balcony of the stone mansion, fingers grazing a pearl necklace worth more than Lucia had ever earned. “My son isn’t here to protect you anymore. You don’t belong here!”\n\nLucia didn’t turn around. She refused to give them the satisfaction of watching her break, even though she could feel herself splintering inside.\n\nFor three years, she’d lived in that house as Edward’s wife and the Monroe family’s tolerated mistake—the housekeeper’s daughter, the stain on a perfect bloodline. They’d only behaved because Edward had made it clear: nobody touched her. Nobody humiliated her.\n\nBut Edward was gone—a “car accident” on a mountain road—and the wolves had been waiting for the day his protection disappeared.\n\nThen Richard Monroe, Edward’s older brother and the man who controlled the family money, walked down the driveway with a yellow envelope and a smile that didn’t reach his eyes.\n\n“Here,” he said, tossing it onto the asphalt like a bone. “Ten thousand dollars. Sign the waiver. Walk away from the estate. Disappear.”\n\nLucia stared at the envelope as wind worried its corners.\n\n“I don’t want your money,” she said, voice shaking but steady as she grabbed her suitcase handle. “I just needed time. I’m alone.”\n\n“That’s your problem,” Richard snapped. “You have until the gates close to get off my property.”\n\nLucia walked toward the bus stop without looking back once.\n\nBut halfway down the street, her hand slid inside her old jacket—into the inner pocket where a sealed letter pressed against her heart.\n\nEdward had given it to her weeks before he died.\n\nAnd he’d said one thing, strange enough that she’d laughed it off at the time:\n\n“Only open this if one day I’m not around… and you feel cornered.”\n\nOn the bus, Lucia held that letter like a hidden blade.\n\nThe Monroes thought they’d stripped her down to nothing.\n\nThey didn’t know she was carrying the one thing that could collapse their entire empire.\n\n1️⃣ Like this post\n2️⃣ Tap ALL COMMENTS\n3️⃣ Click the \"Most relevant\" to read the full story",
-    "wp_media_id": 646,
-    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261123-2100-ru.jpg"
+    "page_id": "100064230806326",
+    "text": "My mother came back from the beach laughing. But my six-year-old daughter was not beside her. She said she had “forgotten” Mia near the towels, the way someone might forget a bottle of sunscreen or a folded chair.\n\nBut when I found my little girl trembling alone in the dark, the bruised marks around her wrists told me the truth.\n\nThis had not been an accident.\n\nIt had been something far worse.\n\n“Where is Mia?” I asked, already reaching for the door before anyone answered.\n\nMy father let the cooler drop in the hallway.\n\nMy sister Chloe turned her face away.\n\nMy mother only gave a light, careless laugh and raised both hands as if I were overreacting.\n\n“Oh, Harper, calm down. I must have left her by the towels.”\n\nLeft her.\n\nLike a beach bag.\n\nLike an umbrella.\n\nLike she had not been glowing with excitement that morning, wearing her purple swimsuit and pressing a sticky kiss to my cheek before they left.\n\nI grabbed my keys so hard the metal bit into my palm.\n\nMom sighed and rolled her eyes.\n\n“You always turn everything into a crisis.”\n\nChloe muttered, “She’s probably with a lifeguard or something.”\n\nDad said nothing at all.\n\nHe just stared at the floor.\n\nThe drive back to the beach felt impossibly long.\n\nStorm clouds had swallowed the sky above the water, and by the time I reached the parking lot, most of the beach had emptied. I ran across the cold sand without shoes, shouting Mia’s name again and again until my voice scraped raw.\n\nAt last, I found her behind the closed snack shack.\n\nShe was curled between two trash bins, shaking so hard her teeth chattered. Sand stuck to her wet cheeks. Tears had made little tracks down her face.\n\nBut when she saw me, she did not run into my arms.\n\nShe flinched.\n\n“Mama,” she whispered, barely loud enough to hear. “Grandma said I couldn’t tell.”\n\nI wrapped my jacket around her small shoulders.\n\nThat was when I saw the marks.\n\nDark circles around both wrists.\n\nToo even to be from falling.\n\nToo clear to be brushed aside as a normal accident.\n\nMy stomach turned cold.\n\nMia pulled her hands against her chest as if she wanted to hide them from me.\n\nThen she pointed toward the service road behind the beach.\n\n“A man took me over there,” she whispered. “Aunt Chloe saw. Grandpa said I was making everything worse.”\n\nFor a moment, I could not breathe.\n\n“What man, baby?” I asked softly.\n\nMia swallowed, her frightened eyes fixed on mine.\n\n“The man from the picture in Grandma’s drawer,” she said. “The one you told them could never come near us.”\n\nI knew at once who she meant.\n\nVictor Hale.\n\nMy mother’s brother.\n\nThe man my family claimed had left California years ago after a police investigation ended without charges.\n\nMy phone was already in my hand when headlights swept across the far side of the parking lot.\n\nMy parents’ SUV rolled in slowly, as if they had followed me there on purpose.\n\nMy mother got out first.\n\nThis time, there was no laugh on her face.\n\n“Hand me the child, Harper,” she said.\n\nFind out what happened next here 👇"
    },
-   "source_key": "post:100045261260562_1483281243190570",
-   "status": "in_progress",
-   "wp_site": {
-    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
-    "key_secret": "WP_API_KEY",
-    "url": "https://peakproductions.co",
-    "wp_auth": "make_connector"
-   }
+   "source_key": "post:100064230806326_1436771018473911",
+   "status": "preparing"
   },
   "2026-11-24 00:00": {
-   "langs": {
-    "AR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "CS": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "ES": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1138572272664180": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:18:25+04:00",
-       "mode": "schedule",
-       "photo_id": "122129618469306316",
-       "post_id": "1138572272664180_122129618499306316",
-       "status": "scheduled"
-      },
-      "1338630212673029": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:18:20+04:00",
-       "mode": "schedule",
-       "photo_id": "122120003487471857",
-       "post_id": "1338630212673029_122120003517471857",
-       "status": "scheduled"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:18:13+04:00",
-       "mode": "schedule",
-       "photo_id": "122122771557505599",
-       "post_id": "1448441201677530_122122771593505599",
-       "status": "scheduled"
-      }
-     },
-     "title": "Ela exigiu que eu esvaziasse meu quarto até as onze, então esvaziei um quarto — mas não o que ela esperava",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 653,
-     "wp_status": "future"
-    },
-    "RO": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:13:58+04:00",
-       "mode": "schedule",
-       "photo_id": "122118988814640467",
-       "post_id": "1008693642337213_122118988850640467",
-       "status": "scheduled"
-      },
-      "1018759874664543": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:17:33+04:00",
-       "mode": "schedule",
-       "photo_id": "122120850099294825",
-       "post_id": "1018759874664543_122120850129294825",
-       "status": "scheduled"
-      },
-      "1036597159544783": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:17:27+04:00",
-       "mode": "schedule",
-       "photo_id": "122120146220642087",
-       "post_id": "1036597159544783_122120146250642087",
-       "status": "scheduled"
-      },
-      "1038143956055997": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:40+04:00",
-       "mode": "schedule",
-       "photo_id": "122113428938600554",
-       "post_id": "1038143956055997_122113428968600554",
-       "status": "scheduled"
-      },
-      "1042837395585806": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122117791700623459",
-       "post_id": "1042837395585806_122117791730623459",
-       "status": "scheduled"
-      },
-      "1051766924693580": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122137490960733379",
-       "post_id": "1051766924693580_122137490996733379",
-       "status": "scheduled"
-      },
-      "1066862079844179": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:16:15+04:00",
-       "mode": "schedule",
-       "photo_id": "122112353444596942",
-       "post_id": "1066862079844179_122112353474596942",
-       "status": "scheduled"
-      },
-      "1069814529551887": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:17:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122127824517303687",
-       "post_id": "1069814529551887_122127824547303687",
-       "status": "scheduled"
-      },
-      "1075346445663696": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:17:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122144255546775004",
-       "post_id": "1075346445663696_122144255576775004",
-       "status": "scheduled"
-      },
-      "1075712068960532": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:16:52+04:00",
-       "mode": "schedule",
-       "photo_id": "122119517186628634",
-       "post_id": "1075712068960532_122119517216628634",
-       "status": "scheduled"
-      },
-      "1084212424777390": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:14:33+04:00",
-       "mode": "schedule",
-       "photo_id": "122136665907300832",
-       "post_id": "1084212424777390_122136665937300832",
-       "status": "scheduled"
-      },
-      "1092061600653020": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:29+04:00",
-       "mode": "schedule",
-       "photo_id": "122112056876588206",
-       "post_id": "1092061600653020_122112056906588206",
-       "status": "scheduled"
-      },
-      "1097710383424105": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:17:16+04:00",
-       "mode": "schedule",
-       "photo_id": "122117428574343996",
-       "post_id": "1097710383424105_122117428604343996",
-       "status": "scheduled"
-      },
-      "1098718609991464": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:17:04+04:00",
-       "mode": "schedule",
-       "photo_id": "122123913969297368",
-       "post_id": "1098718609991464_122123913999297368",
-       "status": "scheduled"
-      },
-      "1113548795169055": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:14:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122142726890773833",
-       "post_id": "1113548795169055_122142726920773833",
-       "status": "scheduled"
-      },
-      "1117846738074068": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:14:55+04:00",
-       "mode": "schedule",
-       "photo_id": "122136475119311273",
-       "post_id": "1117846738074068_122136475149311273",
-       "status": "scheduled"
-      },
-      "1118090254718709": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:16:28+04:00",
-       "mode": "schedule",
-       "photo_id": "122103894368556634",
-       "post_id": "1118090254718709_122103894398556634",
-       "status": "scheduled"
-      },
-      "1125468037313193": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:15:06+04:00",
-       "mode": "schedule",
-       "photo_id": "122120466261295429",
-       "post_id": "1125468037313193_122120466291295429",
-       "status": "scheduled"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:14:21+04:00",
-       "mode": "schedule",
-       "photo_id": "122141558348737651",
-       "post_id": "1125676667286378_122141558378737651",
-       "status": "scheduled"
-      },
-      "1146158698570676": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:16:03+04:00",
-       "mode": "schedule",
-       "photo_id": "122130472743300293",
-       "post_id": "1146158698570676_122130472773300293",
-       "status": "scheduled"
-      },
-      "1167733113080371": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:16:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122130832677307779",
-       "post_id": "1167733113080371_122130832707307779",
-       "status": "scheduled"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:14:09+04:00",
-       "mode": "schedule",
-       "photo_id": "122136553148733774",
-       "post_id": "988042774402200_122136553178733774",
-       "status": "scheduled"
-      }
-     },
-     "title": "Невестка велела мне освободить спальню до одиннадцати — и я освободила. Только не ту, которую она имела в виду",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 651,
-     "wp_status": "future"
-    },
-    "TR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1083701291497481": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:18:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122125255407304633",
-       "post_id": "1083701291497481_122125255437304633",
-       "status": "scheduled"
-      },
-      "1129620776897151": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:17:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122128537815311884",
-       "post_id": "1129620776897151_122128537845311884",
-       "status": "scheduled"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:17:56+04:00",
-       "mode": "schedule",
-       "photo_id": "122127893037307134",
-       "post_id": "1164575726728296_122127893079307134",
-       "status": "scheduled"
-      },
-      "1180583925128715": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T02:18:08+04:00",
-       "mode": "schedule",
-       "photo_id": "122124293415305562",
-       "post_id": "1180583925128715_122124293451305562",
-       "status": "scheduled"
-      }
-     },
-     "title": "Gelinim \"Yatak odanı saat on bire kadar boşalt\" dedi, ben de tek bir eşyama dokunmadan bir oda boşalttım",
-     "warnings": [
-      "длина текста FB 580 слов (исходник 717, цель ±10%)",
-      "длина статьи 561 слов"
-     ],
-     "wp_error": null,
-     "wp_id": 652,
-     "wp_status": "future"
-    },
-    "UK": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
+   "langs": {},
+   "prepared": false,
+   "replaced": {
+    "at": "2026-11-23T13:38:08.786890+00:00",
+    "old_link": "https://www.facebook.com/story.php?story_fbid=1696791515172874&id=100045261260562"
    },
-   "prepared": true,
    "slot_iso": "2026-11-24T00:00:00+04:00",
    "source": {
-    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/845844663_1696585768526782_271667496761487914_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AorO6mHH90AQ7kNvwHLPMpy&_nc_oc=AdosXZTtc3_ZI44j6t1qpTbK_C6eDQx4Ux_m-6KUGZwN_mJvrj-wBC2VgaiBVlxS9yU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0pb7ksXDDExhDy3dPksnew&_nc_tpa=Q5bMBQJwVrGFh64Nwfj0_mBsXW1SHBGTCfDe5Hgg3gVmjLKYTUgGuDb8cCHmjmowqbwfeZhxd9J9JLfeGA&oh=00_AQSGQmgzsiy-98j5Hq5kmZQWflzSQ4XD7-mT5VNR0IhnrA&oe=6B0953BC",
-    "link": "https://www.facebook.com/story.php?story_fbid=1696791515172874&id=100045261260562",
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/619304884_1293976486086699_2751646630661810369_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qqTTVx9EF0IQ7kNvwGbt7qD&_nc_oc=AdrvwsARvN_V7vI3QyA64ryt8aHrZqk-ptitX3fGQxAfqmLukrenm72lX-n-xAaXd2c&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=dp4EqVN8pkqVldKITRxCyw&_nc_tpa=Q5bMBQLIwXz3EGH7N52LbsFzgapAFGrqNYRo8wB3swE0Z_vndxHfDCy9t3O2RVlvQ7e-P_FMgbdf4FMX2w&oh=00_AQQzFeo2-mBcWNkesbm8WirH3k9gSq7IPkBR23ZweSMM-A&oe=6B0A16E5",
+    "link": "https://www.facebook.com/story.php?story_fbid=1293976516086696&id=100064230806326",
     "origin": "manual",
-    "page_id": "100045261260562",
-    "text": "Three days after I allowed my son and daughter-in-law to move into my four-bedroom house rent-free, Chloe stood in my kitchen holding an iced latte and made an unbelievable demand.\n\n“Margaret, you need to clear out your master bedroom before eleven. Lucas and I are moving in there.”\n\nMy own son nodded.\n\n“Mom, stop being difficult. Show my wife some respect.”\n\nI didn't argue. I simply waited until they left, went upstairs, and started packing.\n\nBut I didn't touch a single thing in my bedroom.\n\nAt exactly 10:55, their SUV pulled into the driveway. Chloe stepped out, saw seven pieces of luggage arranged neatly on my front porch, and froze.\n\n“WHAT HAVE YOU DONE?”\n\nI smiled.\n\n“Exactly what you asked. I cleared out a bedroom.”\n\nMy name is Margaret Foster. I'm sixty-four, and I've lived in my Columbus, Ohio, home for twenty years.\n\nMy late husband, Thomas, and I purchased it together. We raised our son there, celebrated holidays, and created memories in every room.\n\nOur master bedroom was especially meaningful.\n\nThomas's oak reading chair still stood beside the window, where he used to enjoy his Sunday newspaper.\n\nAfter he passed away, that room became my most cherished connection to him.\n\nA month earlier, Lucas called with a problem.\n\n“Mom, our rent is increasing again. Chloe and I need somewhere to stay while we save money.”\n\nI immediately offered my home.\n\nThey could use the guest bedroom, an additional workspace, and the kitchen without paying rent.\n\nI thought I was helping my family.\n\nBut three days after moving in, Chloe began acting as though the house belonged to her.\n\n“The guest room is too small,” she complained that morning.\n\n“You're welcome to use the additional room,” I replied.\n\nShe shook her head.\n\n“No. We're taking the master suite. It has a bigger closet and private bathroom.”\n\nI stared at her.\n\n“Chloe, that's my bedroom.”\n\nLucas entered and sighed.\n\n“Mom, we're married. We need more space. Just be respectful.”\n\nI couldn't believe what I was hearing.\n\n“Lucas, I'm letting you live here for free.”\n\n“And we appreciate that,” he replied. “But Chloe needs to be comfortable.”\n\nChloe checked her phone.\n\n“Our furniture arrives today. Have your room empty by eleven.”\n\nThen they left to run errands.\n\nI stood in silence for several minutes.\n\nAt 9:15, I went upstairs.\n\nI passed my bedroom without disturbing anything.\n\nThe blue quilt remained perfectly arranged, and Thomas's chair stayed beside the window.\n\nInstead, I entered the guest room.\n\nChloe's clothes covered the furniture. Lucas's shoes were scattered across the floor, and their toiletries filled the bathroom.\n\nI carefully packed everything into four suitcases and three boxes.\n\nNothing was damaged or discarded.\n\nBy 10:30, their belongings were neatly arranged on my covered porch, where they remained protected while I prepared to discuss ending their temporary stay and any necessary arrangements.\n\nAt 10:55, their SUV returned.\n\nChloe stepped out laughing into her phone.\n\nThen she spotted the luggage.\n\nHer smile disappeared.\n\n“LUCAS! WHY IS OUR STUFF OUTSIDE?”\n\nMy son rushed over.\n\n“Mom, what's going on?”\n\nI opened the front door.\n\n“Chloe said a bedroom had to be cleared before eleven.”\n\nShe stared at me.\n\n“I meant YOUR bedroom!”\n\n“I know exactly what you meant.”\n\nLucas looked stunned.\n\n“Mom, you can't be serious.”\n\n“I'm completely serious. I invited you here because you needed help, not because I was surrendering my home.”\n\nChloe folded her arms.\n\n“So you're choosing a bedroom over your own family?”\n\nI shook my head.\n\n“No. I'm choosing respect.”\n\nThen I looked at Lucas.\n\n“Your father and I worked twenty years for this house. You were welcome to stay as guests, but you don't get to decide where I sleep.”\n\nFor once, neither had an answer.\n\nThey had mistaken my generosity for permission to take whatever they wanted.\n\nAnd as I explained that our living arrangement was coming to an end, I realized something important.\n\nHelping family should never mean losing the right to feel comfortable in your own home.\n\nWould you have given up your bedroom to keep the peace, or stood your ground?\n\nThe full story continues in the first comment. 👇",
-    "wp_media_id": 650,
-    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-0000-ru.jpg"
+    "page_id": "100064230806326",
+    "text": "My in-laws tried to push my father out of my wedding because he’s a garbage collector—but the instant he began to speak, the room froze.\n\nMy dad has worked in sanitation for as long as I can remember. When my mother passed away while I was only three, it became just the two of us. He left the house before dawn every day and came home exhausted, yet our tiny apartment was always filled with warmth—and there was never a night I went hungry.\n\nYears later, I met Ethan. He was thoughtful, dependable, and made me feel safe in a way I hadn’t known before. We fell in love, got engaged, and started planning our wedding.\n\nThat’s when everything changed.\n\nEthan’s parents owned a modest retail chain, and from the start, they made it obvious I didn’t measure up. They whispered that my father’s job would embarrass them and implied I was only marrying their son for financial security. Ethan defended me every time, and I tried my best to tune out the rest.\n\nThe wedding they arranged was extravagant and formal—packed with their friends, relatives, and business associates. No one ever asked what I wanted.\n\nWhen my father arrived, he wrapped me in a hug and whispered, “You’re my real princess.”\n\nMoments later, Ethan’s parents stepped in. His mother forced a smile and suggested it would be “less uncomfortable” if my father left early. Then she looked straight at him and added that some guests might not feel at ease around “someone like him.”\n\nMy hands were shaking. I was ready to speak—but my father gently squeezed my fingers.\n\n“I understand,” he said quietly. “I’ll go. But before I do, may I offer a toast at my daughter’s wedding?”\n\nHe leaned closer and whispered, “Don’t worry. I know what I’m doing.”\n\nThe guests settled. The chatter faded.\n\nMy father walked up to the microphone, took a measured breath, and said,\n“Dear friends, there’s something you should know…”\n\nBefore he could finish, Ethan’s parents went pale.\n\nAnd the entire room fell into complete silence.\n\nFull story in the first comment 👇👇"
    },
-   "source_key": "post:100045261260562_1696791515172874",
-   "status": "in_progress",
-   "wp_site": {
-    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
-    "key_secret": "WP_API_KEY",
-    "url": "https://peakproductions.co",
-    "wp_auth": "make_connector"
-   }
+   "source_key": "post:100064230806326_1293976516086696",
+   "status": "preparing"
   },
   "2026-11-24 12:00": {
    "langs": {},
@@ -22324,12 +21625,14 @@
    "status": "used"
   },
   "post:100045261260562_1483281243190570": {
+   "error": "заменена другой историей по вашей просьбе",
    "fingerprint": "ca28c8727f12ba680936",
    "link": "https://www.facebook.com/story.php?story_fbid=1483281243190570&id=100045261260562",
    "origin": "manual",
    "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1436771018473911&id=100064230806326",
    "slot": "2026-11-23 21:00",
-   "status": "used"
+   "status": "skipped"
   },
   "post:100045261260562_1692783712240321": {
    "fingerprint": "913ce270a7c791d385c7",
@@ -22340,12 +21643,14 @@
    "status": "used"
   },
   "post:100045261260562_1696791515172874": {
+   "error": "заменена другой историей по вашей просьбе",
    "fingerprint": "fff499f1242e9a25598d",
    "link": "https://www.facebook.com/story.php?story_fbid=1696791515172874&id=100045261260562",
    "origin": "manual",
    "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1293976516086696&id=100064230806326",
    "slot": "2026-11-24 00:00",
-   "status": "used"
+   "status": "skipped"
   },
   "post:100045261260562_1697386608446698": {
    "fingerprint": "591180ca625e13e322b3",
@@ -22443,6 +21748,14 @@
    "slot": "2026-11-20 00:30",
    "status": "used"
   },
+  "post:100064230806326_1293976516086696": {
+   "fingerprint": "56b7a5b61f202fe67f60",
+   "link": "https://www.facebook.com/story.php?story_fbid=1293976516086696&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 00:00",
+   "status": "reserved"
+  },
   "post:100064230806326_1304112321739782": {
    "fingerprint": "2588dc717eaf7780d296",
    "link": "https://www.facebook.com/story.php?story_fbid=1304112321739782&id=100064230806326",
@@ -22458,6 +21771,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-22 12:00",
    "status": "used"
+  },
+  "post:100064230806326_1436771018473911": {
+   "fingerprint": "96546390097d4b3d5a8c",
+   "link": "https://www.facebook.com/story.php?story_fbid=1436771018473911&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 21:00",
+   "status": "reserved"
   },
   "post:100064230806326_1463688665782146": {
    "fingerprint": "96d6368906f9c3d5c5e2",

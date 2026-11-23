@@ -16019,504 +16019,40 @@
    }
   },
   "2026-11-23 18:00": {
-   "langs": {
-    "AR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "CS": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1016419758218222": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:43:19+04:00",
-       "mode": "schedule",
-       "photo_id": "122148190413204972",
-       "post_id": "1016419758218222_122148190443204972",
-       "status": "scheduled"
-      },
-      "108881571809093": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:47:11+04:00",
-       "mode": "schedule",
-       "photo_id": "1168302099210076",
-       "post_id": "108881571809093_1168302132543406",
-       "status": "scheduled"
-      },
-      "1164984823367955": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:48:10+04:00",
-       "mode": "schedule",
-       "photo_id": "122130768033376826",
-       "post_id": "1164984823367955_122130768093376826",
-       "status": "scheduled"
-      },
-      "1165836896614851": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:41:27+04:00",
-       "mode": "schedule",
-       "photo_id": "122146344807384677",
-       "post_id": "1165836896614851_122146344849384677",
-       "status": "scheduled"
-      },
-      "1167352663135230": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:41:05+04:00",
-       "mode": "schedule",
-       "photo_id": "122148698109384760",
-       "post_id": "1167352663135230_122148698139384760",
-       "status": "scheduled"
-      },
-      "117220714573166": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:45:58+04:00",
-       "mode": "schedule",
-       "photo_id": "1158420967121131",
-       "post_id": "117220714573166_1158420990454462",
-       "status": "scheduled"
-      },
-      "1210639158790064": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:50:11+04:00",
-       "mode": "schedule",
-       "photo_id": "122153710305346409",
-       "post_id": "1210639158790064_122153710335346409",
-       "status": "scheduled"
-      },
-      "1235940142932696": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:40:29+04:00",
-       "mode": "schedule",
-       "photo_id": "122119817643408404",
-       "post_id": "1235940142932696_122119817673408404",
-       "status": "scheduled"
-      },
-      "162144310308183": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:46:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122262856142093350",
-       "post_id": "162144310308183_122262856172093350",
-       "status": "scheduled"
-      },
-      "220697507802568": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:45:18+04:00",
-       "mode": "schedule",
-       "photo_id": "122344375700237583",
-       "post_id": "220697507802568_122344375730237583",
-       "status": "scheduled"
-      },
-      "236129656261330": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:44:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122230874408294596",
-       "post_id": "236129656261330_122230874438294596",
-       "status": "scheduled"
-      },
-      "237939756073256": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:47:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122357438036234096",
-       "post_id": "237939756073256_122357438066234096",
-       "status": "scheduled"
-      },
-      "353293117873308": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:49:19+04:00",
-       "mode": "schedule",
-       "photo_id": "122162258540416253",
-       "post_id": "353293117873308_122162258570416253",
-       "status": "scheduled"
-      },
-      "621364207735841": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:48:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122214666398909607",
-       "post_id": "621364207735841_122214666428909607",
-       "status": "scheduled"
-      },
-      "708817825659143": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:49:48+04:00",
-       "mode": "schedule",
-       "photo_id": "122149505829010869",
-       "post_id": "708817825659143_122149505859010869",
-       "status": "scheduled"
-      },
-      "914823471720372": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:41:56+04:00",
-       "mode": "schedule",
-       "photo_id": "122149415361209718",
-       "post_id": "914823471720372_122149415391209718",
-       "status": "scheduled"
-      },
-      "921611111039858": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:42:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122145312249200344",
-       "post_id": "921611111039858_122145312279200344",
-       "status": "scheduled"
-      },
-      "975714512286925": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:43:59+04:00",
-       "mode": "schedule",
-       "photo_id": "122150882433209153",
-       "post_id": "975714512286925_122150882463209153",
-       "status": "scheduled"
-      }
-     },
-     "title": "He Sneered at My First-Class Ticket Five Years After Our Divorce, Until My Little Girl Ran Into My Arms and He Saw Who Was Walking Toward Us",
-     "warnings": [
-      "длина текста FB 535 слов (исходник 640, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 1012,
-     "wp_status": "future"
-    },
-    "ES": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RO": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "UK": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
+   "langs": {},
+   "prepared": false,
+   "replaced": {
+    "at": "2026-11-23T13:21:40.220357+00:00",
+    "old_link": "https://www.facebook.com/story.php?story_fbid=1720899969428695&id=100045261260562"
    },
-   "prepared": true,
    "slot_iso": "2026-11-23T18:00:00+04:00",
    "source": {
-    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/916946556_1720870042765021_6518084014342527191_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IuI5rARrGtkQ7kNvwHewVBj&_nc_oc=Adoy2WTpyhIdXqzPhBXXEpgPOjTwbSqpfSF4OjU0b1ZKmZBqNzE-nylzzRnMWaj5eIE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Oe2aE0bNP5oymdQ5hwGiLw&_nc_tpa=Q5bMBQLwgonZPffB90E3uWJKAgDJ6Gpd-f7Yi6G9xnKaSiO3g6bcz5G4aMXnmh3HeNpxnfohSGJEyAnU6g&oh=00_AQQGRP6WwKSOScNmRL8COUYzJJvwkAH83RKnV-lsEbwEyA&oe=6B09406D",
-    "link": "https://www.facebook.com/story.php?story_fbid=1720899969428695&id=100045261260562",
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/801808324_1492791932871819_910584856355636022_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ACDPkrxez24Q7kNvwH4tkmq&_nc_oc=Adp6AHqWqM8SBo8KrznwKBcESwlWPmK2raaVMJN0dY_bC2Vu1Rhfgxy1Yt3JpFAU65o&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=CREreIDZiafybx16aVl9Rg&_nc_tpa=Q5bMBQLSl9QjTRZqdmtTmYNC-SIQ77q34laGHSwA1g1kLS5hJ5aIjuSGtjGaBmi6TySC1aBO0o8xG5WcDA&oh=00_AQQKZRUMAPB2xZ4bsYlbr8gfzWApBVihhZIiUzTb5k1ZHg&oe=6B0A17FF",
+    "link": "https://www.facebook.com/story.php?story_fbid=1493604279457251&id=100064230806326",
     "origin": "manual",
-    "page_id": "100045261260562",
-    "text": "Five Years After Our Marriage Ended, I Encountered My Ex-Husband in an Airport VIP Lounge, Accompanied by His Former Mistress, Who Was Now His Wife. Spotting My First-Class Boarding Pass, He Sneered, 'First class? Who paid? You were broke when I left!' I Remained Silent. Suddenly, a Five-Year-Old Girl Ran Into My Arms. 'Mommy! Daddy's waiting on our private jet!' My Former Husband Turned Pale as He Recognized the Gentleman Approaching Us...\n\nFive years after our divorce, my ex-husband mocked me for traveling first class, never suspecting that the private jet waiting outside belonged to my company.\n\nLess than ten minutes later, he'd discover that the woman he'd left financially devastated now possessed enough authority to dismantle his entire business empire.\n\nI was sipping coffee inside the VIP lounge at JFK Airport when an unmistakably familiar voice disturbed my quiet morning.\n\n“Emily? Well, that's a surprise.”\n\nI looked up.\n\nRichard Caldwell stood before me in an expensive Italian suit, wearing the same self-satisfied grin that had once convinced me I'd found the ideal husband.\n\nBeside him was Vanessa.\n\nPreviously his mistress.\n\nNow his wife.\n\nFive years earlier, I'd discovered them together in our bedroom.\n\nRichard hadn't expressed an ounce of regret.\n\nInstead, he'd handed me divorce papers, insisting Vanessa appreciated his aspirations in ways I never would.\n\nHer gaze now swept over my cream cashmere coat and glittering diamond earrings.\n\n“Someone's certainly upgraded her wardrobe,” she remarked.\n\nRichard spotted the boarding pass resting next to my coffee.\n\n“First class?” He chuckled. “Who paid? You were broke when I left!”\n\nVanessa giggled softly.\n\n“Maybe she's traveling with someone generous.”\n\nI calmly returned my cup to the table.\n\n“I'm doing well, Richard.”\n\n“Of course you are. What are you doing now? Selling insurance? Working as someone's assistant?”\n\nHis condescending remarks revived memories I'd worked hard to leave behind.\n\nI recalled the night he'd packed my belongings into luggage and demanded that I leave.\n\nI remembered losing the home we'd shared.\n\nI also remembered learning that he'd transferred our savings behind my back before filing for divorce.\n\nYet nothing stung more than the words he'd spoken when I pleaded with him to return the inheritance from my late mother.\n\n“Prove it was yours.”\n\nI'd walked away from our marriage with only forty-three thousand dollars, a broken heart, and a promise to myself.\n\nNever again.\n\nRichard settled into the chair across from me without asking permission.\n\n“You know, Caldwell Aviation is about to secure a hundred-million-dollar acquisition. You'll probably see me on television next week.”\n\n“Congratulations,” I replied.\n\n“Some people are destined for greatness, Emily. Others simply marry it.”\n\nVanessa smiled triumphantly.\n\nBefore I could answer, a child's delighted voice rang across the lounge.\n\n“Mommy!”\n\nA little five-year-old girl with golden curls raced toward me, wrapping her arms around my waist.\n\n“Daddy's waiting on our private jet! He says we can leave whenever you're ready!”\n\nI leaned forward and gently kissed her forehead.\n\n“I'm coming, sweetheart.”\n\nRichard froze.\n\n“Mommy?”\n\nThe smug expression disappeared from Vanessa's face.\n\nRichard then glanced beyond us and noticed a distinguished, tall, silver-haired man walking in our direction.\n\nHis complexion instantly turned white.\n\n“Alexander Sterling?”\n\nMy husband greeted him with a friendly smile, placing a gentle hand on my shoulder.\n\n“Richard. What a coincidence.”\n\nRichard's eyes traveled between Alexander and me as he struggled to speak.\n\nHowever, his greatest humiliation was yet to come.\n\nAlexander Sterling was far more than my new husband.\n\nHe was the billionaire chairman whose authorization Richard desperately required to save his troubled company.\n\nAnd Alexander had entrusted that final decision exclusively to me....\n\n**To be continued in C0mments 👇**",
-    "wp_media_id": 1011,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-1800-en.jpg"
+    "page_id": "100064230806326",
+    "text": "All my life, I believed the tiny blue flower tattoo on my mother’s wrist was just something she had done when she was young. Then one day, a nurse at the hospital noticed it. She froze. For a moment, she didn’t say a word. Then she quietly stepped out of the room and called security. That was when I realized the tattoo wasn’t just a memory from my mother’s past. It was a warning someone still recognized.\n\n**Part 1: The Blue Flower My Mother Never Explained**\n\nFor as long as I could remember, my mother had a tiny blue flower tattoo on the inside of her left wrist.\n\nIt was simple—five small petals and a thin stem, no larger than a coin. But it was the only part of **Margaret’s** life she never wanted to explain.\n\nWhen I was seven, I sat on her lap one summer evening and traced it with my finger.\n\n“Where did you get this?”\n\n“I got it when I was young.”\n\n“Does it mean something?”\n\nHer smile changed, just slightly.\n\n“It means I was young and made a choice.”\n\nThat became her answer every time. I asked again when I was eleven, again at fifteen when I thought about getting the same tattoo, and later in my twenties when I wanted to know who she had been before she became only my mother.\n\nThe answer never changed.\n\nThe only time I pushed harder was when I was nineteen and home from college. We were washing dishes when I laughed and asked why she treated such a harmless little tattoo like a major secret.\n\n“Some things are just for me, **Clara**,” she said. “Maybe you’ll understand when you’re older.”\n\nThere was sadness in her face that I did not understand then.\n\nSo I stopped asking.\n\nMom had always been open about everything else. She had spent most of her life as a nurse, and even after retiring, neighbors still called her whenever someone was sick, scared, or needed help.\n\nBy the time she was sixty-three, I was thirty-two, and I thought I knew every important part of her life. My father had died six years earlier, and after helping Mom sort through forty years of paperwork, I believed our family had no real secrets left.\n\nI was wrong.\n\nIt started with something ordinary.\n\nMom needed knee replacement surgery.\n\nOn the morning of the procedure, a nurse named **Patricia** brought us into pre-op. She joked gently with Mom while checking her medications and preparing the IV.\n\n“All right, Margaret. I’m going to start your IV now.”\n\nThen she pushed Mom’s sleeve higher and stopped.\n\nShe was staring at the blue flower.\n\nHer warm expression disappeared.\n\nAfter several tense seconds, she quietly covered the tattoo again.\n\n“I’ll be back in a moment. I need to check something.”\n\nShe left.\n\nFive minutes later, two hospital security officers appeared outside the room.\n\nThen a gray-haired doctor entered.\n\nHe looked straight at Mom’s covered wrist.\n\n“Ma’am,” he asked, “where did you get that symbol?”\n\nNot tattoo.\n\nSymbol.\n\nMy mother went pale.\n\nFor the first time in my life, I saw real fear in her eyes.\n\nThen she whispered, “I knew this day would come.”\n\nPlease type “YES” if you’re ready for the next part and I’ll send it right away. 👇👇"
    },
-   "source_key": "post:100045261260562_1720899969428695",
-   "status": "in_progress",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
+   "source_key": "post:100064230806326_1493604279457251",
+   "status": "preparing"
   },
   "2026-11-23 21:00": {
-   "langs": {
-    "AR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "CS": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1016419758218222": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:53:44+04:00",
-       "mode": "schedule",
-       "photo_id": "122148191211204972",
-       "post_id": "1016419758218222_122148191241204972",
-       "status": "scheduled"
-      },
-      "108881571809093": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:56:40+04:00",
-       "mode": "schedule",
-       "photo_id": "1168307875876165",
-       "post_id": "108881571809093_1168307902542829",
-       "status": "scheduled"
-      },
-      "1164984823367955": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:57:26+04:00",
-       "mode": "schedule",
-       "photo_id": "122130769317376826",
-       "post_id": "1164984823367955_122130769347376826",
-       "status": "scheduled"
-      },
-      "1165836896614851": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:51:59+04:00",
-       "mode": "schedule",
-       "photo_id": "122146348539384677",
-       "post_id": "1165836896614851_122146348569384677",
-       "status": "scheduled"
-      },
-      "1167352663135230": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:51:31+04:00",
-       "mode": "schedule",
-       "photo_id": "122148699651384760",
-       "post_id": "1167352663135230_122148699681384760",
-       "status": "scheduled"
-      },
-      "117220714573166": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:55:49+04:00",
-       "mode": "schedule",
-       "photo_id": "1158426853787209",
-       "post_id": "117220714573166_1158426877120540",
-       "status": "scheduled"
-      },
-      "1210639158790064": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:58:58+04:00",
-       "mode": "schedule",
-       "photo_id": "122153711235346409",
-       "post_id": "1210639158790064_122153711265346409",
-       "status": "scheduled"
-      },
-      "1235940142932696": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:51:03+04:00",
-       "mode": "schedule",
-       "photo_id": "122119818747408404",
-       "post_id": "1235940142932696_122119818777408404",
-       "status": "scheduled"
-      },
-      "162144310308183": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:56:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122262857018093350",
-       "post_id": "162144310308183_122262857048093350",
-       "status": "scheduled"
-      },
-      "220697507802568": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:55:16+04:00",
-       "mode": "schedule",
-       "photo_id": "122344377026237583",
-       "post_id": "220697507802568_122344377056237583",
-       "status": "scheduled"
-      },
-      "236129656261330": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:54:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122230874960294596",
-       "post_id": "236129656261330_122230874990294596",
-       "status": "scheduled"
-      },
-      "237939756073256": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:57:03+04:00",
-       "mode": "schedule",
-       "photo_id": "122357438936234096",
-       "post_id": "237939756073256_122357438966234096",
-       "status": "scheduled"
-      },
-      "353293117873308": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:58:10+04:00",
-       "mode": "schedule",
-       "photo_id": "122162259152416253",
-       "post_id": "353293117873308_122162259182416253",
-       "status": "scheduled"
-      },
-      "621364207735841": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:57:48+04:00",
-       "mode": "schedule",
-       "photo_id": "122214668108909607",
-       "post_id": "621364207735841_122214668144909607",
-       "status": "scheduled"
-      },
-      "708817825659143": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:58:33+04:00",
-       "mode": "schedule",
-       "photo_id": "122149506717010869",
-       "post_id": "708817825659143_122149506747010869",
-       "status": "scheduled"
-      },
-      "914823471720372": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:52:35+04:00",
-       "mode": "schedule",
-       "photo_id": "122149415931209718",
-       "post_id": "914823471720372_122149415961209718",
-       "status": "scheduled"
-      },
-      "921611111039858": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:53:10+04:00",
-       "mode": "schedule",
-       "photo_id": "122145313041200344",
-       "post_id": "921611111039858_122145313071200344",
-       "status": "scheduled"
-      },
-      "975714512286925": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:54:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122150882925209153",
-       "post_id": "975714512286925_122150882955209153",
-       "status": "scheduled"
-      }
-     },
-     "title": "My Mother-in-Law Announced My Divorce to Twelve Dinner Guests, Not Knowing I Walked In Holding the Proof That Her Family Belonged to Me",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 1026,
-     "wp_status": "future"
-    },
-    "ES": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RO": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "UK": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
+   "langs": {},
+   "prepared": false,
+   "replaced": {
+    "at": "2026-11-23T13:26:41.994112+00:00",
+    "old_link": "https://www.facebook.com/story.php?story_fbid=1723049765880382&id=100045261260562"
    },
-   "prepared": true,
    "slot_iso": "2026-11-23T21:00:00+04:00",
    "source": {
-    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/920793856_1723049599213732_1017291391042016873_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JH6yRqbd7tAQ7kNvwHyYX7K&_nc_oc=AdrM9PCbnO0iSW2LwcQpt_LESXsDLGt9DOysvoUAF5m2NUSnRJ3u-XWega9zYrfUcBM&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=pOU3GjLOF0-4F75cx4Hw2A&_nc_tpa=Q5bMBQK4YvII8Qqr7b_jwCTdHrX6Ad5CRVvby98mqCbaPbNFLRZBc5ZYNOFP-f0PZAlZ2RaD5N8RxBSuPw&oh=00_AQRPWPKX0iEH3lpUK8HbYR6De0E2kBbE5oPj2wJLTA75EA&oe=6B094EF6",
-    "link": "https://www.facebook.com/story.php?story_fbid=1723049765880382&id=100045261260562",
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/644453313_1324686523015695_870133824856799632_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=C-QA-ziXYR8Q7kNvwGTNULk&_nc_oc=Ado7q33Xw75bOzLUz7clt7QyxFIg5HNUBA3tIpSKAv-EV4cTg2v0uYMnNIwjesaeT6M&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=3ZrU-9gw_Q1dr-SoF5Gu-A&_nc_tpa=Q5bMBQJoDUnSOvbItciaa6R7qaA-Acb_NfkzAW9Yw5dvwf0DlFjhIDNaHUXvhlCsa-19mtEXcsfafOzyuw&oh=00_AQTSwi0Je-1s5cxlUehuhUQ64RLiv1tgrWbrtnJaksSbPA&oe=6B0A07AA",
+    "link": "https://www.facebook.com/story.php?story_fbid=1324686576349023&id=100064230806326",
     "origin": "manual",
-    "page_id": "100045261260562",
-    "text": "My Mother-in-Law Announced to Her Dinner Guests: 'Tyler Is Filing For Divorce. She’ll Be Moving Out.' I Entered Carrying a Bowl of Hot Potatoes. My Husband Quickly Rose: 'Honey, I—' I Smiled. 'Perfect. Because I Have News, Too.' The Moment I Began Speaking, Everything Changed...\n\nPART 1 — THE FINAL DINNER\n\nMy mother-in-law publicly declared that my marriage was ending just as I entered her dining room carrying steaming potatoes. Before dessert was served, she'd learn that the woman she'd spent seven years treating as household help was the sole reason her family still possessed a luxurious home, a successful company, and a respectable name.\n\n“Tyler is filing for divorce,” Gloria Whitmore announced to her twelve dinner guests, raising her champagne glass. “She’ll be moving out by the end of the month. Frankly, it’s about time.”\n\nSeveral guests around the table laughed.\n\nI froze at the entrance.\n\nMy husband, Tyler, was seated next to Vanessa Carlisle, his attractive blonde business consultant. Her palm rested casually against his thigh. A familiar diamond necklace glittered around her neck.\n\nIt was my grandmother's.\n\nNoticing me, Tyler sprang to his feet, his chair scraping noisily against the floor.\n\n“Honey, I—”\n\nA smile crossed my face.\n\n“Perfect. Because I have news, too.”\n\nGloria sighed impatiently. “Emily, please. Don’t make this embarrassing.”\n\n“Embarrassing?” I set the bowl of potatoes down. “You just announced my divorce before telling me.”\n\nVanessa withdrew her hand from Tyler's thigh. “We were going to explain everything privately.”\n\n“How thoughtful.”\n\nThroughout our seven-year marriage, I'd played the role of the unassuming wife. I'd arranged family gatherings, kept track of birthdays, covered household bills, and assisted Tyler in transforming Whitmore Development from a struggling construction firm into a prosperous regional enterprise.\n\nGloria regarded me as little more than a secretary.\n\nTyler considered me his good-luck charm.\n\nNeither realized the extent of my contributions to their prosperity.\n\nThree weeks before, Tyler had forgotten to lock his tablet beside our bed. A notification from Vanessa flashed across its display.\n\nOnce Emily signs, the Lakeview money is ours. Your mother says she won’t fight.\n\nI'd read the message repeatedly until my fingers stopped trembling.\n\nThen I'd contacted my lawyer.\n\nThe next seventeen days involved confidential discussions, financial investigations, and revelations that made Tyler's infidelity seem relatively harmless.\n\nMy husband wasn't merely preparing to abandon our marriage.\n\nHe intended to rob me before leaving.\n\nNow, among Gloria's affluent acquaintances, I watched Tyler adjust his costly jacket.\n\n“Emily, we’ve grown apart,” he said. “I want to handle this generously. You can keep your car and receive fifty thousand dollars.”\n\nGloria gave an approving nod.\n\n“More than fair,” she remarked. “You came into this marriage with practically nothing.”\n\nI nearly laughed aloud.\n\nInstead, I opened my purse and retrieved a cream-colored envelope.\n\n“Before we discuss what I’m keeping,” I said, “perhaps we should establish what actually belongs to you.”\n\nTyler's confident smile disappeared.\n\nVanessa raised her fingers to the diamond necklace.\n\nAnd for the first time that night, Gloria slowly lowered her glass of champagne...\n\n**To be continued in C0mments 👇**",
-    "wp_media_id": 1024,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261123-2100-en.jpg"
+    "page_id": "100064230806326",
+    "text": "My husband called while I was drowning in work and said something that felt unreal. “I just inherited millions. Pack your things. Get out of my house today.” By the time I stepped through the front door, divorce papers were already laid out on the counter. I read each page carefully, signed without hesitation, set the pen down, and smiled. “You’ll need all the luck you can get.”\n\nMy phone started ringing in the middle of my quarterly presentation. When I finally answered, Scott’s voice was calm—almost entertained. “Start packing. I’m officially rich.”\n\nThe room fell silent. A dozen coworkers stared as my phone vibrated again and again, relentless against my side. I tried finishing the last slide, but the sharp ringing cut through the glass walls. My manager’s patience wore thin.\n\n“Excuse me,” I said, standing quickly. In eight years of marriage, Scott had never once called me during work hours. My pulse pounded as I stepped into the hallway. “Scott? What’s going on? Are you alright?”\n\nHe laughed—but it wasn’t the laugh I knew. “Relax, Avery. Nothing’s wrong. Everything’s perfect.”\n\nThen he said it casually. “My grandmother died two weeks ago. She left me everything. Seven point three million dollars.”\n\nI leaned against the wall. “That’s… incredible. I’m sorry I wasn’t there for you.”\n\n“I didn’t want you there,” he said coldly. “Here’s what’s happening. When you get home, pack your stuff. You’ve got two hours.”\n\nMy throat tightened. “Scott, what are you saying?”\n\n“I’m saying leave my house. I owned it before we married. It’s in my name. You get nothing. Divorce papers will be on the counter. Sign them and this stays simple.”\n\nA woman’s voice echoed faintly behind him. Close. Comfortable. Then his quiet laugh.\n\n“We’re married,” I whispered. “This is our home.”\n\n“You’re free now,” he cut in. “Isn’t that what you wanted?”\n\nThe line went dead.\n\nI walked back into the meeting room in a daze, muttered something about an emergency, grabbed my bag, and drove home on autopilot.\n\nOutside, everything looked the same—the fence I painted, the flowers I planted, the porch swing we used on quiet Sundays. But inside, it felt hollow. His gaming console was gone. Our honeymoon photos had disappeared. His closet stood bare.\n\nOn the kitchen counter was a stack of legal documents—eight years reduced to cold paragraphs. Beside them, a note.\n\nPut it here. No drama.\n\nI sat down slowly. Then I pulled a shoebox from behind my winter coats. Inside were receipts—restaurants, hotels, jewelry stores. Six months’ worth. Places I’d never been.\n\nOne name appeared over and over.\n\nKayla Jensen.\n\nThat evening, at the grocery store with my best friend Relle, I saw them. Laughing. Relaxed. Bottles of expensive wine in their cart. Prime steaks. Her hand resting on his arm like she’d always belonged there.\n\nScott glanced at me once—then looked away as if I were a stranger.\n\nLater, he called again. Impatient. “Leave the keys. And one more thing—Kayla’s pregnant. We’re getting married next month.”\n\nThree days later, Relle practically dragged me into a lawyer’s office. “He doesn’t get to erase you.”\n\nJerome listened without interrupting. Then he asked quietly, “What was his grandmother’s name?”\n\nHe typed for several minutes, his expression slowly changing.\n\nFinally, he looked up. “Avery… I need to see that will.”\n\nTwo weeks later, Jerome slid a document across his desk. A single section highlighted in yellow.\n\nOne sentence. One condition.\n\nEverything fell into place.\n\nJerome tapped the paper. “Read.”\n\nI stared at the words.\n\nAnd suddenly, the two-hour ultimatum made perfect sense.\n\nScott wasn’t confidently walking away.\n\nHe was racing against something. Full story in 1st comment 👇👇"
    },
-   "source_key": "post:100045261260562_1723049765880382",
-   "status": "in_progress",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
+   "source_key": "post:100064230806326_1324686576349023",
+   "status": "preparing"
   },
   "2026-11-24 00:00": {
    "langs": {
@@ -17132,12 +16668,14 @@
    "status": "used"
   },
   "post:100045261260562_1720899969428695": {
+   "error": "заменена другой историей по вашей просьбе",
    "fingerprint": "4fbededea35980575d1c",
    "link": "https://www.facebook.com/story.php?story_fbid=1720899969428695&id=100045261260562",
    "origin": "manual",
    "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1493604279457251&id=100064230806326",
    "slot": "2026-11-23 18:00",
-   "status": "used"
+   "status": "skipped"
   },
   "post:100045261260562_1721386566046702": {
    "fingerprint": "8907016c20ca7867caab",
@@ -17148,12 +16686,14 @@
    "status": "used"
   },
   "post:100045261260562_1723049765880382": {
+   "error": "заменена другой историей по вашей просьбе",
    "fingerprint": "e12243ea411406232332",
    "link": "https://www.facebook.com/story.php?story_fbid=1723049765880382&id=100045261260562",
    "origin": "manual",
    "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1324686576349023&id=100064230806326",
    "slot": "2026-11-23 21:00",
-   "status": "used"
+   "status": "skipped"
   },
   "post:100050386034442_1714382830251235": {
    "fingerprint": "0c124da3304c244bc06b",
@@ -17170,6 +16710,22 @@
    "page_id": "100059505912199",
    "slot": "2026-11-17 18:00",
    "status": "used"
+  },
+  "post:100064230806326_1324686576349023": {
+   "fingerprint": "74136eae6f18c90b73ae",
+   "link": "https://www.facebook.com/story.php?story_fbid=1324686576349023&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 21:00",
+   "status": "reserved"
+  },
+  "post:100064230806326_1493604279457251": {
+   "fingerprint": "4f49e143cca9f585ac82",
+   "link": "https://www.facebook.com/story.php?story_fbid=1493604279457251&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 18:00",
+   "status": "reserved"
   },
   "post:100064502274900_1601632268663500": {
    "fingerprint": "e9fe174303ae5ce56ad7",

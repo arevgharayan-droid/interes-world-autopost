@@ -11877,202 +11877,22 @@
    }
   },
   "2026-11-24 00:00": {
-   "langs": {
-    "AR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "CS": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "ES": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1011074408765807": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:52:53+04:00",
-       "mode": "schedule",
-       "photo_id": "122105620136536431",
-       "post_id": "1011074408765807_122105620166536431",
-       "status": "scheduled"
-      },
-      "1032441206625600": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:52:18+04:00",
-       "mode": "schedule",
-       "photo_id": "122118101822633539",
-       "post_id": "1032441206625600_122118101852633539",
-       "status": "scheduled"
-      },
-      "1041497042386258": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:54:59+04:00",
-       "mode": "schedule",
-       "photo_id": "122144405762738075",
-       "post_id": "1041497042386258_122144405792738075",
-       "status": "scheduled"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:56:05+04:00",
-       "mode": "schedule",
-       "photo_id": "122109580664457428",
-       "post_id": "1058598924006917_122109580694457428",
-       "status": "scheduled"
-      },
-      "106591088255968": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:53:26+04:00",
-       "mode": "schedule",
-       "photo_id": "1479431087659621",
-       "post_id": "106591088255968_1479431120992951",
-       "status": "scheduled"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:51:14+04:00",
-       "mode": "schedule",
-       "photo_id": "122123737917299008",
-       "post_id": "1079295351933311_122123737947299008",
-       "status": "scheduled"
-      },
-      "1103884436136482": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:54:30+04:00",
-       "mode": "schedule",
-       "photo_id": "122105603036536887",
-       "post_id": "1103884436136482_122105603066536887",
-       "status": "scheduled"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:51:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122127104889303172",
-       "post_id": "1145306638657445_122127104919303172",
-       "status": "scheduled"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:50:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122122816773409328",
-       "post_id": "1202025962997153_122122816803409328",
-       "status": "scheduled"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:50:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122124998595415639",
-       "post_id": "1250374694822508_122124998625415639",
-       "status": "scheduled"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:54:03+04:00",
-       "mode": "schedule",
-       "photo_id": "122130668733441679",
-       "post_id": "1260826840455724_122130668763441679",
-       "status": "scheduled"
-      },
-      "1280413955154689": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-23T01:55:33+04:00",
-       "mode": "schedule",
-       "photo_id": "122130467355425731",
-       "post_id": "1280413955154689_122130467385425731",
-       "status": "scheduled"
-      }
-     },
-     "title": "Ma mère a repoussé la carte faite main de ma fille de 6 ans en disant que les enfants de la pauvreté n'étaient pas ses petits-enfants, mais quand mon fils de 15 ans s'est levé, tout a basculé",
-     "warnings": [
-      "длина текста FB 634 слов (исходник 524, цель ±10%)",
-      "длина статьи 968 слов"
-     ],
-     "wp_error": null,
-     "wp_id": 1022,
-     "wp_status": "future"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RO": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "UK": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
+   "langs": {},
+   "prepared": false,
+   "replaced": {
+    "at": "2026-11-23T13:34:30.195048+00:00",
+    "old_link": "https://www.facebook.com/story.php?story_fbid=1670783311107028&id=100045261260562"
    },
-   "prepared": true,
    "slot_iso": "2026-11-24T00:00:00+04:00",
    "source": {
-    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/831616949_1670783277773698_5205988596333963673_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=eE_r_oBhwZMQ7kNvwGRNIIq&_nc_oc=AdoeCvMVGGLjwskmsF61A7Os0A2mt5fH7pyRj5BJoq4lK2OgsWOyijH2D5OLQdsEOjo&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Zj-RGBr8tRu0KPDxexBHhw&_nc_tpa=Q5bMBQKYPoqSH4mUJ7OWfgRqQl90NcZeI1L6HhxeYW6UDq9C3Qc6rS7oQQoe_Qza0-z-kz5wqTV8PWFZPw&oh=00_AQSSToqF_BpSPUjvWDIdvAxq8Fp3OtQUTMRvtaoHwmFR2A&oe=6B093F62",
-    "link": "https://www.facebook.com/story.php?story_fbid=1670783311107028&id=100045261260562",
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/866907882_1539023991581946_935058615433823440_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tVAj0m1QcmYQ7kNvwHCcEob&_nc_oc=AdrS0oYaFiwCUoPyiqROHr4dnElvJ7j-L2RtEEYXlws3xY9hR0V8GrXlkTx0g6p-2Bg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=D69OerritzHPBq1BndWFow&_nc_tpa=Q5bMBQL7Jmo8MiEbFURX575aO6zPIwBbUByhU5tzSlAO1J5ZrY3CFxkfz4dDiqOW0EQTFX8443kvA1USPw&oh=00_AQRRMv_XvOHZ-nUnNgqfee14ois1jipW9ISOfQOz-e3Jdg&oe=6B09FD4F",
+    "link": "https://www.facebook.com/story.php?story_fbid=1539024094915269&id=100064230806326",
     "origin": "manual",
-    "page_id": "100045261260562",
-    "text": "My mother rejected my 6-year-old’s handmade gift at dinner and said children from poverty weren’t her grandchildren, but the moment my 15-year-old son stood up and spoke, everything at the table changed...\n\nMy mother pushed my six-year-old daughter’s handmade card away from her plate as though it were something filthy.\n\n“I told you already,” she said, loud enough for the entire table to hear. “Children from poverty don’t call me Grandma.”\n\nThe entire room went silent.\n\nMy daughter, Lily, still had one hand reaching toward the card.\n\nShe had spent two nights making it.\n\nPink paper.\n\nCrayon flowers.\n\nA crooked little heart surrounding the words: I love you, Grandma.\n\nNow she slowly drew her hand back.\n\nSomething inside me turned cold.\n\nMy mother had never approved of my marriage to Daniel because he grew up in foster care and worked as a city electrician when we met. She treated his background like some kind of stain that could spread to the rest of us.\n\nWhen we adopted Lily three years earlier, Mom’s attitude became even worse.\n\nShe never directly said Lily wasn’t welcome.\n\nShe did something crueler.\n\nShe forgot birthdays.\n\nSkipped school plays.\n\nBought expensive presents for my sister’s children and nothing for Lily.\n\nThen told me I was “too sensitive” whenever I pointed it out.\n\nThat evening was supposed to be my father’s birthday dinner.\n\nI had nearly refused to attend.\n\nBut my fifteen-year-old son, Ethan, asked me to come.\n\n“Just once,” he said. “I want to see if Grandma can act normal.”\n\nEthan was my biological son from my first marriage.\n\nMom adored him.\n\nAnd Ethan had never failed to notice the difference.\n\nWhen Mom pushed Lily’s card aside, Ethan stared at her for a long moment.\n\nDad whispered, “Margaret, enough.”\n\nMy sister lowered her eyes.\n\nMom raised her wineglass.\n\n“What? I’m being honest. Family has standards.”\n\nI pushed my chair back.\n\n“We’re leaving.”\n\nLily looked at me with tear-filled eyes but didn’t cry.\n\nThat almost broke me.\n\nThen Ethan stood.\n\nHe didn’t raise his voice.\n\nHe didn’t slam the table.\n\nHe simply looked at my mother and said four words.\n\n“She owns this house.”\n\nMom’s face went white.\n\nI stared at him.\n\n“What?”\n\nEthan reached inside his jacket and placed a folder beside Lily’s card.\n\nMy mother’s hand started trembling.\n\nThat was when I remembered the meeting Ethan had insisted on attending with my late grandfather’s attorney two months earlier.\n\nGrandpa had died the previous spring.\n\nEveryone believed his estate had already been settled.\n\nApparently, not everything had been revealed.\n\nDad stared at the folder.\n\n“Ethan, what are you talking about?”\n\nHe opened it.\n\nThe first page was a deed.\n\nNot in my mother’s name.\n\nNot in Dad’s.\n\nIn Lily’s trust.\n\nBeneath it was a letter written in Grandpa’s unmistakable handwriting.\n\nMy mother whispered, “That’s impossible.”\n\nEthan looked at her.\n\n“No. You just never bothered to ask what Grandpa left her.”\n\nThe full story continues in the comments section.",
-    "wp_media_id": 1020,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-0000-fr.jpg"
+    "page_id": "100064230806326",
+    "text": "I had surgery in order to restore my sight after 20 years of blindness, even though my husband begged me not to — the moment I opened my eyes and saw him, I finally understood why.\nI lost my sight when I was a child.\nIt started as a joke. I was on the swings at the playground when my neighbor shoved me, and I fell onto a rock.\nAn injury. One surgery. Then another.\nThe doctors couldn’t save my vision.\nI hated the darkness, but I forced myself to learn how to live in it.\nI didn’t shut down. I finished school. I went to college.\nBlindness couldn’t stop me, though more than anything in the world, I dreamed of seeing again.\nDuring one of my hospital visits, I met Nigel, a young eye surgeon.\nThe first time we spoke, his voice sounded strangely familiar.\n\"Do we know each other?\" I asked.\n\"No,\" he said.\nWe started dating, and eventually, we got married. We had two children.\n\"Mommy, when you can see again, will you recognize me?\" my oldest once asked.\nNigel never gave up on trying to restore my sight. For years, he trained relentlessly, determined to help me.\nThen one day, he finally said:\n\"I figured out how to do it. But at the same time… I don’t want you to go through with it.\"\nThe closer we got to the surgery, the harder he tried to convince me to back out.\nHe brought up the children. My life. Everything I could lose.\nI was terrified, but I went through with the surgery.\nNigel was my surgeon. He kissed me before the anesthesia took hold, and he was there when I woke up.\nMy eyes were still covered with bandages.\nThe moment I heard Nigel speak, I knew something was wrong.\n\"Did the surgery fail?\" I asked.\n\"No. It worked. You’ll finally be able to see,\" Nigel said.\nBut there was no joy in his voice.\nHe began slowly removing the bandages.\n\"Don’t hate me,\" he suddenly said. \"Before you see me, there’s something you need to know. Things aren’t what you think.\"\nI laughed nervously. I had no idea what he was talking about.\nThen the last bandage came off.\nLight flooded my eyes.\nFor the first time in twenty years, I could see.\nAt first, everything was a blur. Then, little by little, my vision cleared.\nAnd when I finally saw Nigel’s face, my blood ran cold.\nIn that instant, I understood exactly why my husband had begged me not to regain my sight."
    },
-   "source_key": "post:100045261260562_1670783311107028",
-   "status": "in_progress",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
+   "source_key": "post:100064230806326_1539024094915269",
+   "status": "preparing"
   },
   "2026-11-24 12:00": {
    "langs": {},
@@ -12321,12 +12141,14 @@
    "status": "used"
   },
   "post:100045261260562_1670783311107028": {
+   "error": "заменена другой историей по вашей просьбе",
    "fingerprint": "f6eb0f67c8dd63288f97",
    "link": "https://www.facebook.com/story.php?story_fbid=1670783311107028&id=100045261260562",
    "origin": "manual",
    "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1539024094915269&id=100064230806326",
    "slot": "2026-11-24 00:00",
-   "status": "used"
+   "status": "skipped"
   },
   "post:100045261260562_1699072051611487": {
    "fingerprint": "f8fa08ba8c7252c10bbb",
@@ -12479,6 +12301,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-22 23:47",
    "status": "used"
+  },
+  "post:100064230806326_1539024094915269": {
+   "fingerprint": "0aadd04c664cf311c4bd",
+   "link": "https://www.facebook.com/story.php?story_fbid=1539024094915269&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 00:00",
+   "status": "reserved"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
