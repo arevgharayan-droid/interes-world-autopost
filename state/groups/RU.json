@@ -177,7 +177,6 @@
   "fd395eead654da158a14": "2026-11-13T10:15:12+00:00"
  },
  "outputs": {
-  "1008693642337213_122118009476640467": "2026-11-10T17:06:58+00:00",
   "1008693642337213_122118010322640467": "2026-11-10T20:06:35+00:00",
   "1008693642337213_122118095894640467": "2026-11-11T08:06:49+00:00",
   "1008693642337213_122118096062640467": "2026-11-11T11:14:19+00:00",
@@ -974,7 +973,6 @@
   "1125468037313193_122120580399295429": "2026-11-24T09:29:43+00:00",
   "1125468037313193_122120590371295429": "2026-11-24T12:34:00+00:00",
   "1125468037313193_122120609535295429": "2026-11-24T16:47:10+00:00",
-  "1125676667286378_122139617792737651": "2026-11-10T17:07:04+00:00",
   "1125676667286378_122139618170737651": "2026-11-10T20:06:43+00:00",
   "1125676667286378_122139775472737651": "2026-11-11T08:06:56+00:00",
   "1125676667286378_122139775586737651": "2026-11-11T11:14:25+00:00",
@@ -1035,7 +1033,6 @@
   "1125676667286378_122141796656737651": "2026-11-24T09:27:01+00:00",
   "1125676667286378_122141825240737651": "2026-11-24T12:31:10+00:00",
   "1125676667286378_122141849408737651": "2026-11-24T16:44:27+00:00",
-  "1129620776897151_122127179979311884": "2026-11-10T17:07:11+00:00",
   "1129620776897151_122127180543311884": "2026-11-10T20:06:52+00:00",
   "1129620776897151_122127309933311884": "2026-11-11T08:07:02+00:00",
   "1129620776897151_122127310431311884": "2026-11-11T11:14:33+00:00",
@@ -1178,7 +1175,6 @@
   "1146158698570676_122130600357300293": "2026-11-24T09:33:05+00:00",
   "1146158698570676_122130612921300293": "2026-11-24T12:37:18+00:00",
   "1146158698570676_122130632655300293": "2026-11-24T16:50:29+00:00",
-  "1164575726728296_122126379753307134": "2026-11-10T17:07:15+00:00",
   "1164575726728296_122126380041307134": "2026-11-10T20:06:57+00:00",
   "1164575726728296_122126492463307134": "2026-11-11T08:07:05+00:00",
   "1164575726728296_122126492937307134": "2026-11-11T11:14:36+00:00",
@@ -2642,7 +2638,6 @@
   "122144447522775004": "2026-11-24T09:38:39+00:00",
   "122144462882775004": "2026-11-24T12:42:53+00:00",
   "122144486066775004": "2026-11-24T16:56:01+00:00",
-  "1338630212673029_122115194853471857": "2026-11-10T17:07:19+00:00",
   "1338630212673029_122115195825471857": "2026-11-10T20:07:01+00:00",
   "1338630212673029_122115603981471857": "2026-11-11T08:07:09+00:00",
   "1338630212673029_122115604707471857": "2026-11-11T11:14:40+00:00",
@@ -2707,7 +2702,6 @@
   "1338630212673029_122120475087471857": "2026-11-24T09:41:50+00:00",
   "1338630212673029_122120506041471857": "2026-11-24T12:45:59+00:00",
   "1338630212673029_122120581677471857": "2026-11-24T16:59:10+00:00",
-  "1448441201677530_122118392913505599": "2026-11-10T17:07:23+00:00",
   "1448441201677530_122118393861505599": "2026-11-10T20:07:05+00:00",
   "1448441201677530_122118763755505599": "2026-11-11T08:07:13+00:00",
   "1448441201677530_122118764415505599": "2026-11-11T11:14:44+00:00",
@@ -2766,7 +2760,6 @@
   "1448441201677530_122123170335505599": "2026-11-24T09:41:27+00:00",
   "1448441201677530_122123226381505599": "2026-11-24T12:45:36+00:00",
   "1448441201677530_122123272485505599": "2026-11-24T16:58:49+00:00",
-  "988042774402200_122134761170733774": "2026-11-10T17:07:08+00:00",
   "988042774402200_122134761776733774": "2026-11-10T20:06:47+00:00",
   "988042774402200_122134908074733774": "2026-11-11T08:06:59+00:00",
   "988042774402200_122134908350733774": "2026-11-11T11:14:29+00:00",
@@ -2827,170 +2820,6 @@
   "988042774402200_122136767822733774": "2026-11-24T16:43:48+00:00"
  },
  "slots": {
-  "2026-11-10 21:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1338630212673029": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122115194853471857_1931630091150115",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122115194823471857",
-       "post_id": "1338630212673029_122115194853471857",
-       "status": "done"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122118392913505599_2134670893816131",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:40+04:00",
-       "mode": "schedule",
-       "photo_id": "122118392883505599",
-       "post_id": "1448441201677530_122118392913505599",
-       "status": "done"
-      }
-     },
-     "title": "Aos 73 anos, Michael Bolton é chamado por um nome que vale mais do que qualquer Grammy",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 92,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "RU": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122118009476640467_2234029357183984",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:24+04:00",
-       "mode": "schedule",
-       "photo_id": "122118009446640467",
-       "post_id": "1008693642337213_122118009476640467",
-       "status": "done"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122139617792737651_2204340417101974",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:30+04:00",
-       "mode": "schedule",
-       "photo_id": "122139617762737651",
-       "post_id": "1125676667286378_122139617792737651",
-       "status": "done"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122134761170733774_3324974327691452",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:27+04:00",
-       "mode": "schedule",
-       "photo_id": "122134761140733774",
-       "post_id": "988042774402200_122134761170733774",
-       "status": "done"
-      }
-     },
-     "title": "Голос, в который влюблялись миллионы: как шестеро детей называют Майкла Болтона, и почему это слово дороже всех его наград",
-     "warnings": [
-      "длина текста FB 211 слов (исходник 254, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 90,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "TR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1129620776897151": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122127179979311884_2246727105888322",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:34+04:00",
-       "mode": "schedule",
-       "photo_id": "122127179943311884",
-       "post_id": "1129620776897151_122127179979311884",
-       "status": "done"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122126379753307134_1443727241169356",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:37+04:00",
-       "mode": "schedule",
-       "photo_id": "122126379723307134",
-       "post_id": "1164575726728296_122126379753307134",
-       "status": "done"
-      }
-     },
-     "title": "Milyonlarca kadını sesine âşık eden Michael Bolton, 73 yaşında altı çocuk için hiçbir Grammy'den daha değerli bir isim taşıyor",
-     "warnings": [
-      "длина текста FB 208 слов (исходник 254, цель ±10%)",
-      "длина статьи 561 слов"
-     ],
-     "wp_error": null,
-     "wp_id": 91,
-     "wp_live": true,
-     "wp_status": "future"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-10T21:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/891645422_122130706988893096_2031303471339508454_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0K2qSudDt00Q7kNvwF9q0xc&_nc_oc=AdphKeRFr8pVIDYnLPiTLbnhCGinlpmBH0nWkJpA_KlYedDgzwdQNT67llyFwp3AElA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=JSd-lyc5mwD0Bl6gRAKIfw&_nc_tpa=Q5bMBQLlcH5MleMAIif_wHCCEUej3dCEVB0JtLi6enyhAF5d-zZ5VFeX69jAGl1k1s9Gnl6snVwvBzEipg&oh=00_AQRHJNN2NgNYyfi3zTgjPH5AfUZ-gkdS_Zmx-W7pjhBDaA&oe=6AF80567",
-    "link": "https://www.facebook.com/share/p/1CaJ2HnZeQ/",
-    "origin": "manual",
-    "page_id": "61576792898556",
-    "text": "MICHAEL BOLTON SPENT DECADES MAKING MILLIONS OF WOMEN FALL IN LOVE WITH HIS VOICE — BUT AT 73, SIX CHILDREN KNOW HIM BY A NAME THAT MEANS MORE THAN ANY GRAMMY AWARD OR SOLD-OUT CONCERT. ❤️\n\nFor much of his life, Michael Bolton belonged to the world.\n\nHis powerful voice filled concert halls, his love songs became part of weddings and anniversaries, and his unmistakable long hair made him one of the most recognizable romantic singers in America.\n\nBut fame has a way of making people forget that even the biggest stars have another life waiting beyond the stage.\n\nBolton is not only a Grammy-winning singer. He is a father of three daughters and a grandfather of six.\n\nAnd as he has faced serious health challenges in recent years, the contrast between his public image and his private life has become especially moving.\n\nThe man who once spent so much of his life traveling from one performance to another now has a family whose love doesn't depend on a single note he sings.\n\nTo millions of fans, he will always be the voice behind When a Man Loves a Woman and How Am I Supposed to Live Without You.\n\nBut to six children, he has a much simpler identity.\n\nAnd that one word says something about Michael Bolton's life that even his greatest love songs cannot fully express.\n❤️ FULL ENDING IN THE COMMENTS! Please Type “Good Story” and press Like 👍 so we can post the FULL STORY in the comments. Thank you! 👇❤️",
-    "wp_media_id": 89,
-    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261110-2100-ru.jpg"
-   },
-   "source_key": "post:61576792898556_122130707162893096",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
-    "key_secret": "WP_API_KEY",
-    "url": "https://peakproductions.co",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-11 00:00": {
    "langs": {
     "DE": {

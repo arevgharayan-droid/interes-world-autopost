@@ -75,7 +75,6 @@
   "1011074408765807_122105684012536431": "2026-11-24T09:27:24+00:00",
   "1011074408765807_122105690096536431": "2026-11-24T12:32:59+00:00",
   "1011074408765807_122105701220536431": "2026-11-24T16:45:57+00:00",
-  "1032441206625600_122117216342633539": "2026-11-10T17:06:58+00:00",
   "1032441206625600_122117216900633539": "2026-11-10T20:06:33+00:00",
   "1032441206625600_122117289080633539": "2026-11-11T08:06:49+00:00",
   "1032441206625600_122117289296633539": "2026-11-11T11:14:19+00:00",
@@ -180,7 +179,6 @@
   "1041497042386258_122144618480738075": "2026-11-24T09:30:07+00:00",
   "1041497042386258_122144640884738075": "2026-11-24T12:35:39+00:00",
   "1041497042386258_122144687168738075": "2026-11-24T16:48:37+00:00",
-  "1058598924006917_122109018854457428": "2026-11-10T17:07:04+00:00",
   "1058598924006917_122109019214457428": "2026-11-10T20:06:43+00:00",
   "1058598924006917_122109063506457428": "2026-11-11T08:06:55+00:00",
   "1058598924006917_122109063710457428": "2026-11-11T11:14:25+00:00",
@@ -254,7 +252,6 @@
   "106591088255968_1480922887510441": "2026-11-24T09:28:05+00:00",
   "106591088255968_1481068644162532": "2026-11-24T12:33:40+00:00",
   "106591088255968_1481295517473178": "2026-11-24T16:46:37+00:00",
-  "1079295351933311_122122605297299008": "2026-11-10T17:07:07+00:00",
   "1079295351933311_122122605903299008": "2026-11-10T20:06:48+00:00",
   "1079295351933311_122122697109299008": "2026-11-11T08:06:59+00:00",
   "1079295351933311_122122697313299008": "2026-11-11T11:14:28+00:00",
@@ -359,7 +356,6 @@
   "1103884436136482_122105642468536887": "2026-11-24T09:29:24+00:00",
   "1103884436136482_122105646602536887": "2026-11-24T12:35:01+00:00",
   "1103884436136482_122105651612536887": "2026-11-24T16:47:57+00:00",
-  "1145306638657445_122125230597303172": "2026-11-10T17:07:10+00:00",
   "1145306638657445_122125231269303172": "2026-11-10T20:06:53+00:00",
   "1145306638657445_122125390479303172": "2026-11-11T08:07:03+00:00",
   "1145306638657445_122125390713303172": "2026-11-11T11:14:35+00:00",
@@ -417,7 +413,6 @@
   "1145306638657445_122127249429303172": "2026-11-24T09:26:05+00:00",
   "1145306638657445_122127263565303172": "2026-11-24T12:31:36+00:00",
   "1145306638657445_122127301239303172": "2026-11-24T16:44:35+00:00",
-  "1202025962997153_122121162909409328": "2026-11-10T17:07:14+00:00",
   "1202025962997153_122121163497409328": "2026-11-10T20:06:58+00:00",
   "1202025962997153_122121314073409328": "2026-11-11T08:07:07+00:00",
   "1202025962997153_122121314439409328": "2026-11-11T11:14:39+00:00",
@@ -1019,7 +1014,6 @@
   "122144618444738075": "2026-11-24T09:30:07+00:00",
   "122144640860738075": "2026-11-24T12:35:39+00:00",
   "122144687144738075": "2026-11-24T16:48:37+00:00",
-  "1250374694822508_122123060523415639": "2026-11-10T17:07:18+00:00",
   "1250374694822508_122123060913415639": "2026-11-10T20:07:02+00:00",
   "1250374694822508_122123211921415639": "2026-11-11T08:07:11+00:00",
   "1250374694822508_122123212137415639": "2026-11-11T11:14:42+00:00",
@@ -1077,7 +1071,6 @@
   "1250374694822508_122125185975415639": "2026-11-24T09:25:07+00:00",
   "1250374694822508_122125206027415639": "2026-11-24T12:30:14+00:00",
   "1250374694822508_122125227915415639": "2026-11-24T16:43:14+00:00",
-  "1260826840455724_122128242399441679": "2026-11-10T17:07:20+00:00",
   "1260826840455724_122128243647441679": "2026-11-10T20:07:06+00:00",
   "1260826840455724_122128426989441679": "2026-11-11T08:07:14+00:00",
   "1260826840455724_122128427283441679": "2026-11-11T11:14:45+00:00",
@@ -1195,149 +1188,6 @@
   "1481295467473183": "2026-11-24T16:46:37+00:00"
  },
  "slots": {
-  "2026-11-10 21:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122117216342633539_1126790573588689",
-       "error": null,
-       "last_attempt": "2026-11-10T00:02:47+04:00",
-       "mode": "schedule",
-       "photo_id": "122117216312633539",
-       "post_id": "1032441206625600_122117216342633539",
-       "status": "done"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122109018854457428_1109861101665557",
-       "error": null,
-       "last_attempt": "2026-11-10T00:02:52+04:00",
-       "mode": "schedule",
-       "photo_id": "122109018824457428",
-       "post_id": "1058598924006917_122109018854457428",
-       "status": "done"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122122605297299008_2598407907328700",
-       "error": null,
-       "last_attempt": "2026-11-10T00:02:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122122605267299008",
-       "post_id": "1079295351933311_122122605297299008",
-       "status": "done"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122125230597303172_1712896366848980",
-       "error": null,
-       "last_attempt": "2026-11-10T00:02:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122125230567303172",
-       "post_id": "1145306638657445_122125230597303172",
-       "status": "done"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122121162909409328_1642018827334520",
-       "error": null,
-       "last_attempt": "2026-11-10T00:02:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122121162879409328",
-       "post_id": "1202025962997153_122121162909409328",
-       "status": "done"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122123060523415639_1180248011238524",
-       "error": null,
-       "last_attempt": "2026-11-10T00:02:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122123060493415639",
-       "post_id": "1250374694822508_122123060523415639",
-       "status": "done"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122128242399441679_2147251259208179",
-       "error": null,
-       "last_attempt": "2026-11-10T00:02:50+04:00",
-       "mode": "schedule",
-       "photo_id": "122128242369441679",
-       "post_id": "1260826840455724_122128242399441679",
-       "status": "done"
-      }
-     },
-     "title": "Quelques heures avant d'annoncer mes fiançailles, quatre fillettes sont entrées dans les toilettes du restaurant : elles avaient les yeux de la femme que j'aimais",
-     "warnings": [
-      "длина текста FB 889 слов (исходник 748, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 81,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-10T21:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/892134299_122130803252893096_3136072222672117577_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sbV_v4X3l7sQ7kNvwHUYnF-&_nc_oc=AdpcM9UW3M2xN4WZ2J4SJYeedl0L4nimJGyc2AP0PZKZYm68yWx6Ailv0BTRLTsF0Rk&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=R0yEhXXI5X5msDuRpfx4eQ&_nc_tpa=Q5bMBQIwN6F_cs4boDuId8EIwr1sG3seJxad2LdOQ0f-Iwjo_-69wAg3nfKfvwwHpOGM9PxUc5-hdps_Ug&oh=00_AQQJ720kYZsuZhz9LY-bXEgLji7TvMTr-KSTI_-p9nb_6A&oe=6AF811B4",
-    "link": "https://www.facebook.com/share/p/1Ukt7rsNro/",
-    "origin": "manual",
-    "page_id": "61576792898556",
-    "text": "Just hours before I was set to announce my engagement to another woman, four little girls walked into the restaurant restroom. They all looked exactly like the woman I had loved seven years earlier. Then their mother stepped inside. It was the woman my family had told me had abandoned me, while she had spent seven years believing I was the one who left her...\n\nPART 1\n\nBy eight that night, I was supposed to propose to Margot Ashford in my family’s glass conservatory overlooking Central Park. Nearly 150 guests were expected, including powerful executives, wealthy relatives, and people who cared more about our family name than my happiness.\n\nMy charcoal suit was custom-tailored, and my grandfather’s cuff links gleamed at my wrists. A diamond ring rested inside my jacket, chosen with advice from my mother, our family advisers, and practically everyone except me.\n\nIt wasn’t love.\n\nIt was a business alliance disguised as romance.\n\nThen I stepped toward the restaurant restroom and saw four little girls, around six years old, standing near the sinks in matching navy-blue dresses. They were giggling and arguing over whose turn it was to use the hand dryer.\n\nOne girl brushed her long brown hair behind her ear, tilted her head, and pressed her lips together. The other three immediately copied her, laughing at their reflections.\n\nMy heart nearly stopped.\n\nIsla used to make that exact expression whenever she was nervous.\n\nOne little girl caught me staring.\n\n“Why are you looking at us, mister?”\n\nI swallowed hard. “You just remind me of someone.”\n\nShe smiled, revealing a tiny dimple in her left cheek.\n\nIsla’s dimple.\n\n“I’m Willa,” she announced proudly. “Those are Tessa, Josie, and Penny. We’re quadruplets!”\n\nMy chest tightened as I studied their faces. The same green eyes, delicate noses, and soft brown hair I’d once loved more than anything in the world.\n\n“Where’s your mother?” I managed to ask.\n\n“She works here,” Willa answered. “But we’re not supposed to bother her.”\n\nI followed them into the dining room, and stopped dead.\n\nIsla Brennan stood beside the kitchen wearing a faded server’s apron. Her manager was angrily telling her she couldn’t keep her children in the storage room overnight.\n\n“Please,” she whispered. “It’s freezing outside. I just need somewhere safe for them until morning.”\n\nThen she turned.\n\nHer green eyes met mine.\n\n“Isla?”\n\nHer face went white.\n\n“Girls. Get your coats. We’re leaving.”\n\nOutside, four little girls huddled beside two battered duffel bags in the freezing February wind. Their tiny hands trembled as Isla desperately tried to zip their thin jackets.\n\nI couldn’t bear watching them shiver.\n\nI handed Isla the key card to my empty SoHo apartment.\n\n“Take them somewhere warm. No questions tonight.”\n\nShe shook her head immediately.\n\n“We don’t need anything from you, Graham.”\n\nThen Penny tugged at her sleeve.\n\n“Mommy, I’m cold. Can we please go somewhere warm?”\n\nIsla’s expression crumbled.\n\nBefore climbing into my SUV, she turned toward me, tears shining in her eyes.\n\n“You don’t get to disappear for seven years and suddenly decide you want to be their father.”\n\nMy stomach dropped.\n\n“Isla, I didn’t disappear. You left me.”\n\nHer anger vanished.\n\nBehind her stood four little girls who looked so much like the woman I’d never stopped loving.\n\n“Then somebody lied to both of us,” she whispered.\n\nAt 5:12 p.m., I called my assistant.\n\n“Cancel tonight.”\n\n“The engagement announcement, sir?”\n\n“Everything.”\n\nMy phone rang almost immediately.\n\nMy mother’s name flashed across the screen.\n\nSuddenly, the diamond ring in my pocket felt like evidence of something terrible.\n\nI didn’t yet know whether those four girls were mine. But I knew I wasn’t proposing to Margot until I discovered who had stolen seven years from Isla and me.\n\nThen Isla grabbed my arm.\n\n“Graham, there’s something you need to know about your mother.”\n\nHer voice trembled.\n\n“Seven years ago, she paid me to disappear. But when I refused, she did something much worse.”\n\nBefore I could ask what she meant, my phone buzzed with a message from my mother.\n\nDO NOT TAKE THOSE CHILDREN TO YOUR APARTMENT. YOU HAVE NO IDEA WHAT YOU’RE GETTING YOURSELF INTO.\n\nMy blood ran cold.\n\nPart 2 is already in the first comment 😉 Type “NEXT” and press LIKE if you want to continue reading till the end of this story 👇",
-    "wp_media_id": 75,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-fr.jpg"
-   },
-   "source_key": "post:61576792898556_122130803336893096",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-11 00:00": {
    "langs": {
     "DE": {

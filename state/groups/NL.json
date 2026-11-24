@@ -427,7 +427,6 @@
   "1205543595981082_122131817931430924": "2026-11-24T09:28:56+00:00",
   "1205543595981082_122131842543430924": "2026-11-24T12:33:50+00:00",
   "1205543595981082_122131872111430924": "2026-11-24T16:45:04+00:00",
-  "1208422892355505_122130238977418602": "2026-11-10T17:07:08+00:00",
   "1208422892355505_122130250575418602": "2026-11-10T20:06:46+00:00",
   "1208422892355505_122130462585418602": "2026-11-11T08:06:59+00:00",
   "1208422892355505_122130462723418602": "2026-11-11T11:14:28+00:00",
@@ -1241,7 +1240,6 @@
   "1239848699214091_122128109991439695": "2026-11-24T09:28:15+00:00",
   "1239848699214091_122128129107439695": "2026-11-24T12:33:10+00:00",
   "1239848699214091_122128157817439695": "2026-11-24T16:44:22+00:00",
-  "1268633826332790_122132107305436382": "2026-11-10T17:07:11+00:00",
   "1268633826332790_122132108175436382": "2026-11-10T20:06:52+00:00",
   "1268633826332790_122132362839436382": "2026-11-11T08:07:03+00:00",
   "1268633826332790_122132363049436382": "2026-11-11T11:14:32+00:00",
@@ -1334,7 +1332,6 @@
   "444776585382502_122229633644543856": "2026-11-24T09:30:57+00:00",
   "444776585382502_122229647972543856": "2026-11-24T12:35:50+00:00",
   "444776585382502_122229671798543856": "2026-11-24T16:47:04+00:00",
-  "633031599904551_122221847756930012": "2026-11-10T17:06:58+00:00",
   "633031599904551_122221850714930012": "2026-11-10T20:06:33+00:00",
   "633031599904551_122222113814930012": "2026-11-11T08:06:49+00:00",
   "633031599904551_122222114108930012": "2026-11-11T11:14:19+00:00",
@@ -1397,7 +1394,6 @@
   "633031599904551_122224412960930012": "2026-11-24T09:25:38+00:00",
   "633031599904551_122224436954930012": "2026-11-24T12:30:25+00:00",
   "633031599904551_122224465850930012": "2026-11-24T16:42:07+00:00",
-  "715935674934966_122202056426922316": "2026-11-10T17:07:05+00:00",
   "715935674934966_122202056960922316": "2026-11-10T20:06:41+00:00",
   "715935674934966_122202193142922316": "2026-11-11T08:06:55+00:00",
   "715935674934966_122202193316922316": "2026-11-11T11:14:25+00:00",
@@ -1458,123 +1454,6 @@
   "715935674934966_122204035544922316": "2026-11-24T16:42:26+00:00"
  },
  "slots": {
-  "2026-11-10 21:00": {
-   "langs": {
-    "DE": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1208422892355505": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122130238977418602_1128237499905529",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122130238797418602",
-       "post_id": "1208422892355505_122130238977418602",
-       "status": "done"
-      },
-      "1268633826332790": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122132107305436382_1693602925589045",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122132107275436382",
-       "post_id": "1268633826332790_122132107305436382",
-       "status": "done"
-      }
-     },
-     "title": "Mit sechs versprach ich meinem besten Freund den Abschlussball – doch am Abend, als wir es einlösen wollten, schloss Mama meine Zimmertür ab",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 86,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "633031599904551": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122221847756930012_1235224219155875",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:36+04:00",
-       "mode": "schedule",
-       "photo_id": "122221847726930012",
-       "post_id": "633031599904551_122221847756930012",
-       "status": "done"
-      },
-      "715935674934966": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122202056426922316_1148645294247437",
-       "error": null,
-       "last_attempt": "2026-11-10T00:03:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122202056396922316",
-       "post_id": "715935674934966_122202056426922316",
-       "status": "done"
-      }
-     },
-     "title": "Mijn moeder deed mijn slaapkamerdeur op slot vlak voordat ik met mijn beste vriend naar het schoolbal ging",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 85,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-10T21:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/893314343_122130758798893096_8174679336900274044_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2Az1lLzyAxIQ7kNvwFIZ33J&_nc_oc=AdoTwDP1C2otwkmNXoyQONMkHDWQcH4LY-519VjOVqQQha-E0kjSpBF5hB5WeLyuk7I&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=YdpGgAVrjhSe34fLlFAgXw&_nc_tpa=Q5bMBQJ646lzLTuQp2StKWuBWeQn5eqVOJfIba0jYtkE8FxEtOxJofQi4Y1SriJuyHPH-W_UPknKT0Dodw&oh=00_AQQGmia5ZoDzZBd4V9vEKeDJuEKRg6A6AbMWOAoEFRTP4g&oe=6AF7ECDA",
-    "link": "https://www.facebook.com/share/p/1HJFpdWUEX/",
-    "origin": "manual",
-    "page_id": "61576792898556",
-    "text": "At six years old, I promised my best friend we would go to prom together. Twelve years later, on the night we were finally supposed to keep that promise, Mom locked my bedroom door and told me I could only go with him under **one condition**.\n\nThen she revealed a secret that changed the way I saw our entire friendship.,,\n\nNoah and I became best friends in first grade for two very important reasons: we both hated raisins, and we both loved dinosaurs.\n\nNoah had Down syndrome, but that was never the thing I thought about when I looked at him.\n\nTo me, he was the kid who could remember baseball statistics from years earlier, argued about dinosaurs as if his life depended on it, and brutally criticized my drawings.\n\nOne day, he studied one of my pictures for several seconds before announcing,\n\n“It looks like a potato with arms.”\n\nI was furious.\n\nHe laughed until he nearly fell out of his chair.\n\nThat was Noah.\n\nOne afternoon, our teacher told the class she was getting married.\n\nEveryone immediately started talking about weddings, dresses, music and cake.\n\nNoah proudly announced that his future wedding would have chocolate cake and absolutely no “slow boring songs.”\n\nA boy sitting across from us laughed.\n\n“Who would marry you? Nobody.”\n\nThe room suddenly felt different.\n\nI didn’t fully understand why the comment was so cruel, but I saw Noah’s smile disappear.\n\n“That’s stupid,” I snapped. “Someone will love Noah.”\n\nNoah turned toward me.\n\n“Would you?”\n\nAt six, I didn’t understand the weight of the question.\n\nSo I shrugged.\n\n“Maybe. But first we have to go to prom.”\n\nHis forehead wrinkled.\n\n“What’s prom?”\n\n“It’s a big dance when we’re almost grown up.”\n\nNoah immediately held out his pinkie.\n\n“Promise?”\n\nI hooked mine around his.\n\n“Promise.”\n\nI forgot about the conversation not long afterward.\n\nNoah remembered every word.\n\nOver the next twelve years, our friendship survived almost everything childhood could throw at us.\n\nDifferent classes.\n\nDifferent interests.\n\nAwkward teenage years.\n\nMy parents’ divorce.\n\nHis endless attempts to make me understand baseball.\n\nMy complete failure to make him appreciate art.\n\nAnd eventually, my first heartbreak.\n\nThe night my first boyfriend dumped me, Noah arrived at my house carrying two containers of ice cream.\n\nHe handed one to me and smiled.\n\n“I told you that guy was an idiot.”\n\nI laughed even though I had been crying five minutes earlier.\n\nThat was what Noah did.\n\nHe never had the perfect speech.\n\nHe never tried to solve my problems.\n\nHe simply stayed until things hurt less.\n\nSo when senior prom finally came around, going with Noah didn’t feel like honoring some childish promise out of sympathy.\n\nHe was my best friend.\n\nThere was genuinely nobody else I wanted beside me.\n\nThat evening, Noah arrived wearing a dark suit and a bow tie he had apparently chosen months earlier.\n\nHe stood on our front porch holding my corsage and smiling like he had just won the World Series.\n\nMom answered the door.\n\nThe moment she saw him, her expression changed.\n\nHer smile disappeared.\n\nFor several seconds, she simply stared at Noah.\n\nThen she forced herself to smile again.\n\n“Christina’s almost ready.”\n\nShe turned and hurried upstairs.\n\nI was standing in front of my mirror putting on my earrings when Mom entered my bedroom.\n\nBefore I could ask what was wrong, she shut the door.\n\nThen she locked it.\n\nI stared at her reflection in the mirror.\n\n“Mom?”\n\nShe turned toward me.\n\n“You can still go to prom with Noah tonight.”\n\nI laughed nervously.\n\n“Okay…”\n\n“But only under one condition.”\n\nI assumed she was about to give me the usual parent speech.\n\n“No drinking? Home by midnight?”\n\n“No.”\n\nHer hands were trembling.\n\nMy smile faded.\n\n“Then what?”\n\nMom walked over and sat on the edge of my bed.\n\n“You have to hear something first.”\n\n“Hear what?”\n\n“The truth.”\n\nMy stomach tightened.\n\n“What truth?”\n\nShe reached for both of my hands.\n\n“Something about Noah.”\n\nShe paused.\n\n“And something about me.”\n\nI stared at her.\n\nHer eyes suddenly filled with tears.\n\n“Mom, what happened?”\n\nFor several seconds, she couldn’t answer.\n\nThen she took a shaky breath.\n\n“There’s something I should have told you years ago.”\n\nMy heart began pounding.\n\nDownstairs, I could faintly hear Noah laughing with my aunt, completely unaware of what was happening above him.\n\nMom squeezed my hands tighter.\n\nThen she began to confess what had really happened during the darkest year of my childhood—and why Noah had made her a promise I had never known about.\n\nBy the time she finished the first sentence, the blood drained from my face. Full story in 1st comment 👇",
-    "wp_media_id": 82,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-2100-nl.jpg"
-   },
-   "source_key": "post:61576792898556_122130758852893096",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-11 00:00": {
    "langs": {
     "DE": {
