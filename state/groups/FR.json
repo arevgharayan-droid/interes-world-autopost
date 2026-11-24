@@ -41,6 +41,7 @@
   "bb2f93acd716a89559fd": "2026-11-16T10:16:47+00:00",
   "bb6775e0f7693f38a811": "2026-11-16T20:28:20+00:00",
   "bc0fa73c3a728155dad8": "2026-11-20T22:45:41+00:00",
+  "bc675e48e89709144c43": "2026-11-24T16:42:05+00:00",
   "bdb644c483d6549c1d00": "2026-11-20T19:26:23+00:00",
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
   "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
@@ -11751,7 +11752,74 @@
   },
   "2026-11-24 20:40": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Après la mort soudaine de ma femme, sa mère m'a remis une boîte scellée : ce qu'elle contenait m'a glacé le sang",
+     "warnings": [
+      "длина статьи 1030 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1137,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T20:40:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/796894123_1083485444540719_6570962519204599148_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=gDz9Usqdw4UQ7kNvwGs6lYI&_nc_oc=Adpnl7GaonAKhiAUfHAKG3qDpn9SY07n6-zcB2uY_HoG2eIx_vVU-eAmdvwLb-fbVy8&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=b-tD4t3urUPN2pullJtxBQ&_nc_tpa=Q5bMBQJkGlJ0RrYtLLlJABqEx4KRx86r8gMJ5ZyALPxawhkk2-1WAT_gH0HnIJVtf1RuKeyebBLtO7SUaA&oh=00_AQQ_xh_oUQ6VEDGe1UWB3MacWhYbzDCM3T91t_7IldD0nQ&oe=6B0B91F5",
@@ -11763,7 +11831,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-2040-fr.jpg"
    },
    "source_key": "post:100086378217913_963461329876465",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12266,7 +12334,7 @@
    "origin": "manual",
    "page_id": "100086378217913",
    "slot": "2026-11-24 20:40",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122101879646536431": {
    "fingerprint": "b5ed31862cee3216b94b",
