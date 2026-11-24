@@ -29,6 +29,7 @@
   "5e336a9c8f71c9075c40": "2026-11-12T17:47:39+00:00",
   "62447349d9ef3a0a66d8": "2026-11-18T22:49:09+00:00",
   "6587278d41ae2a4f390e": "2026-11-19T10:26:30+00:00",
+  "6bfef76090381eda7ae8": "2026-11-24T16:41:51+00:00",
   "6c4b76a418d4153ed908": "2026-11-22T21:17:03+00:00",
   "6dfa0fbc6e60232c2ca8": "2026-11-10T22:06:51+00:00",
   "73fa8ade928983b592f6": "2026-11-20T19:25:51+00:00",
@@ -16258,7 +16259,72 @@
   },
   "2026-11-24 20:40": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Daughter Vanished in Egypt 20 Years Ago, Then a Postcard From Cairo Led Me to a Garage Near Home",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1135,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T20:40:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/716788581_1006078478948083_3998179282084894868_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AgPGpo5tuBIQ7kNvwHoPkqh&_nc_oc=AdqoOm_5h_hOtcKn7Pl3AmkQu6JEAWxWnYzIRu7Eu9bCa1UZYwXdIyioSOWs2kDQOoM&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=auO_2PkTVTlLdw9jP3t1Pw&_nc_tpa=Q5bMBQLRbxU-5IExxoRFCn2aHmeLLgAVJZRF96Aer1p0-EJkMwbrrULfPexS35SEjdnfvqXHfx6iyH9PSg&oh=00_AQSRHM2wKs48b48x61b8RBtvpO9nEw8ffGNvOpRRz8Tk5w&oe=6B0B9013",
@@ -16270,7 +16336,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-2040-en.jpg"
    },
    "source_key": "post:100086378217913_1006079022281362",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -16774,7 +16840,7 @@
    "origin": "manual",
    "page_id": "100086378217913",
    "slot": "2026-11-24 20:40",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100094108842537_1005177905962495": {
    "fingerprint": "ed65d368c9cb3b9a1d5f",

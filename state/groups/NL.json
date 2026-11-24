@@ -54,6 +54,7 @@
   "67a1af36132f7ae75c63": "2026-11-21T19:44:57+00:00",
   "69fca282f43c87f63475": "2026-11-14T19:42:34+00:00",
   "6a5fb8d3a145316fa770": "2026-11-12T09:04:19+00:00",
+  "6ccf422906658e0653ba": "2026-11-24T16:41:51+00:00",
   "6f01f72feadb6fecb5ce": "2026-11-15T14:18:37+00:00",
   "6fcb14f617ec70672575": "2026-11-21T19:44:57+00:00",
   "71261dc1524c8f04c4de": "2026-11-21T22:45:45+00:00",
@@ -89,6 +90,7 @@
   "c036910f5671f8e0661e": "2026-11-22T21:56:46+00:00",
   "c15e234ffa8f454c8fc9": "2026-11-17T10:52:26+00:00",
   "c45432e6978031cef601": "2026-11-13T14:37:35+00:00",
+  "c745d1c3b1645febfcde": "2026-11-24T16:41:51+00:00",
   "c7f5d2b135602dc721d7": "2026-11-15T10:15:33+00:00",
   "caa5eaf84705d4e68592": "2026-11-17T17:52:09+00:00",
   "cce306c23605b2fd33c0": "2026-11-18T08:52:12+00:00",
@@ -13893,7 +13895,75 @@
   },
   "2026-11-24 20:40": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Er ist 29, Single und kämpft vor Gericht für fünf Geschwister unter sieben – dann stellt der Richter die eine Frage, die den ganzen Saal verstummen lässt",
+     "warnings": []
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Een alleenstaande man van 29 vocht om vijf kleine kinderen bij elkaar te houden, en toen de rechter vroeg waarom, werd het muisstil in de rechtszaal",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1134,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-24T20:40:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/787218604_1076969005192363_2461537889352229052_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nxqo1O_wfc8Q7kNvwFz5jgH&_nc_oc=AdqPJN0ZsvTgjFztjTDdx18HrJQfpB2ePsdKY_Idw6NBN5oEc-qf7Bz5eRSJJiKeocQ&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=yPOt35EwQSt7L4bD9XIDgg&_nc_tpa=Q5bMBQI15o4OqLI2zfRJ6t1iZdoVLws0HhJeCQHW6954uLFotwFrH0KHdGxo8zZ7QM6kLs_mFs74qIhihQ&oh=00_AQQ1xPnjsZz2UYuLzrX9Z8phSmmqiPj619Vl-1HeZewjSQ&oe=6B0BA9D1",
