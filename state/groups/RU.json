@@ -38,6 +38,7 @@
   "2cfb4e442451ac45fdbd": "2026-11-23T13:59:07+00:00",
   "2d80286d409fd5829a90": "2026-11-12T10:26:34+00:00",
   "2d8dfdcca7b3aaf10ee6": "2026-11-21T19:44:41+00:00",
+  "2f8be1924d57710eb51d": "2026-11-24T16:42:26+00:00",
   "3009334746196cd3581f": "2026-11-17T17:52:52+00:00",
   "309b8aec5b9ce1b07f14": "2026-11-16T10:16:47+00:00",
   "33582b0afea138144804": "2026-11-12T20:02:43+00:00",
@@ -171,6 +172,8 @@
   "f1f1897f294bbbd74a1b": "2026-11-22T14:04:32+00:00",
   "f409314ee4c8e226005b": "2026-11-23T13:59:07+00:00",
   "f4fbb08e36886ae63dd0": "2026-11-18T15:24:43+00:00",
+  "fce71eb87e3059b51d18": "2026-11-24T16:42:26+00:00",
+  "fd001cca1ab813e243a7": "2026-11-24T16:42:26+00:00",
   "fd395eead654da158a14": "2026-11-13T10:15:12+00:00"
  },
  "outputs": {
@@ -22330,7 +22333,88 @@
   },
   "2026-11-24 20:40": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Fui barriga solidária do meu irmão gêmeo, mas, logo depois que a filha dele nasceu, ele disse: \"Não posso levá-la para casa",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 733,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я выносила дочь для брата-близнеца, но едва она родилась, он сказал: «Я не могу забрать её домой». Когда я узнала причину, ноги подкосились",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 731,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "İkiz Kardeşim İçin Taşıyıcı Anne Oldum, Ama Kızı Doğar Doğmaz Bebeğe Baktı ve \"Onu Eve Götüremem\" Dedi",
+     "warnings": [
+      "длина текста FB 326 слов (исходник 447, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 732,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T20:40:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/783754120_122135940291140985_5647092711621112454_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GGd-FXGBzrUQ7kNvwHrQlGH&_nc_oc=AdpTF2TokKwV3AnUXQcJaakc8FG7UZz0VpTEKG6VoZB6THDB25vhNt12F0SBeHpF6RI&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=vxIwmBTCnGslxSpgM3-TPQ&_nc_tpa=Q5bMBQLSIq0htK4Dv1091Al4ofiruQULAls3Cm8NphO9aI34VwGnome5xRi4k637bNFYzHpxZc-i6RX1lQ&oh=00_AQRe16CZCVIljhsZiZteLmrNEi7FjPtYH86D4fKVcwaIEA&oe=6B0B88D6",
@@ -22342,7 +22426,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-2040-ru.jpg"
    },
    "source_key": "post:61584229563994_122123923815140985",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -22987,7 +23071,7 @@
    "origin": "manual",
    "page_id": "61584229563994",
    "slot": "2026-11-24 20:40",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122154876849170576": {
    "fingerprint": "4d6fc87dca291761fae8",

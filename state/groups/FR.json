@@ -11777,7 +11777,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-24T20:42:28+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Après la mort soudaine de ma femme, sa mère m'a remis une boîte scellée : ce qu'elle contenait m'a glacé le sang",
      "warnings": [
       "длина статьи 1030 слов"
