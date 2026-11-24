@@ -21905,7 +21905,10 @@
      "generated": true,
      "pages": {},
      "title": "Přítel naší dcery se s ní po diagnóze rakoviny rozešel. Na maturitním plese pak přišel ve třpytivých fialových šatech a prozradil pravdu, kterou nikdo nečekal",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1114,
+     "wp_status": "publish"
     },
     "DE": {
      "pages": {},
@@ -21929,7 +21932,10 @@
      "generated": true,
      "pages": {},
      "title": "Dopo la diagnosi di cancro lo ha lasciata, ma al ballo di fine anno è entrato con la testa rasata e un abito viola, e ha svelato il segreto che nessuno si aspettava",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1112,
+     "wp_status": "publish"
     },
     "NL": {
      "pages": {},
@@ -21943,7 +21949,10 @@
      "title": "Chłopak zostawił ją tydzień po diagnozie nowotworu. Na studniówkę przyszedł z ogoloną głową, w fioletowej sukni, i zdradził sekret, którego nikt się nie spodziewał",
      "warnings": [
       "длина статьи 591 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 1113,
+     "wp_status": "publish"
     },
     "PT": {
      "pages": {},
@@ -21966,6 +21975,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-24T13:23:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/915244902_1567506552067023_7253472423967187800_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XIz7HmN-Z4YQ7kNvwGGpSnj&_nc_oc=AdqM0hO33tWuMWAeN8RZF3T0hmwT_lyuabTi3KPCR6bHphBqHznOwC7JdRdUWcD_MgE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=bi_sYVirNOusTRvl4xG5Bg&_nc_tpa=Q5bMBQJ2AwM_v-gWWjZHOzhiF63626ivoeGV0AF5Ig83CPXVKzQgyAjBEhI0hbcuuM6BFEItc1wJsrOPjA&oh=00_AQQ_EcNdO_YhWLjwJA5rnCDsJ4YvdCUrFcNM08k10FtBQQ&oe=6B0B4079",
@@ -21977,7 +21987,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1323-it.jpg"
    },
    "source_key": "post:100064230806326_1567506635400348",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -22446,7 +22456,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 13:23",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1450160977218240": {
    "fingerprint": "68ee500f66d9ec24283c",
