@@ -13670,3 +13670,6 @@
 {"slot": "2026-11-24 13:23", "lang": "PT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-24T09:25:07+00:00", "group": "RU"}
 {"slot": "2026-11-24 13:23", "lang": "NL", "action": "wp_post", "id": 1110, "status": "publish", "t": "2026-11-24T09:25:07+00:00", "group": "NL"}
 {"slot": "2026-11-24 13:23", "lang": "AR", "action": "wp_post", "id": 712, "status": "publish", "t": "2026-11-24T09:25:08+00:00", "group": "MIX"}
+{"slot": "2026-11-24 13:23", "lang": "RU", "action": "wp_post", "id": 713, "status": "publish", "t": "2026-11-24T09:25:08+00:00", "group": "RU"}
+{"slot": "2026-11-24 13:23", "lang": "DE", "action": "wp_post", "id": 1111, "status": "publish", "t": "2026-11-24T09:25:08+00:00", "group": "NL"}
+{"slot": "2026-11-24 13:23", "lang": "TR", "action": "wp_post", "id": 714, "status": "publish", "t": "2026-11-24T09:25:09+00:00", "group": "RU"}

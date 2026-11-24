@@ -21744,7 +21744,10 @@
      "title": "Жених крикнул «Нет!» и сбежал из церкви, а через 50 лет на пороге моего дома появился его адвокат с old-коробкой в руках",
      "warnings": [
       "длина текста FB 374 слов (исходник 441, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 713,
+     "wp_status": "publish"
     },
     "TR": {
      "backend": "subscription",
@@ -21754,7 +21757,10 @@
      "title": "Düğünde \"İstemiyorum!\" diye bağırıp kaçan nişanlım, elli yıl sonra avukatını kapıma gönderdi",
      "warnings": [
       "длина текста FB 352 слов (исходник 441, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 714,
+     "wp_status": "publish"
     },
     "UK": {
      "pages": {},

@@ -13552,7 +13552,10 @@
      "generated": true,
      "pages": {},
      "title": "Meine Wehen setzten vier Wochen zu früh ein, doch mein Mann weigerte sich, mich ins Krankenhaus zu fahren – dann rief unser fünfjähriger Sohn den Notruf",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1111,
+     "wp_status": "publish"
     },
     "EN": {
      "pages": {},
@@ -13606,6 +13609,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-24T13:23:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/916778964_1679874806849267_787219862173862928_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=np-i9z_lk8AQ7kNvwFZsfQ2&_nc_oc=Adp-fBPcTH_46gT185z1NpgloJeZbZQ-iQM40R4XRTqN6ZQnqVlgiH5toukc6aa3F2k&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hCxVozWNQenbDTTo6s5oOw&_nc_tpa=Q5bMBQJGQyaFomsrVIccy7boWAcBNnl-7dXkuElc3qC8aK4xC3ItS3SxkxPgVdOksEYp1Yug2PW-mL6BzA&oh=00_AQRl8eCCgyQkbRoFuofWhBIep-zXI624ZncRkiQ0bcx4bg&oe=6B0B3CF2",
@@ -13617,7 +13621,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1323-nl.jpg"
    },
    "source_key": "post:100044802900629_1680806503422764",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13915,7 +13919,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-24 13:23",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1625432835642076": {
    "fingerprint": "c95fe8f806325ccf3497",
