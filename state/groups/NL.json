@@ -13762,76 +13762,91 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133213855310273_1178300244701962",
        "error": null,
        "last_attempt": "2026-11-24T16:39:05+04:00",
        "mode": "immediate",
        "photo_id": "122133213831310273",
        "post_id": "1028964020310052_122133213855310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131019373321366_1684595543280362",
        "error": null,
        "last_attempt": "2026-11-24T16:39:45+04:00",
        "mode": "immediate",
        "photo_id": "122131019349321366",
        "post_id": "1089186904280406_122131019373321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128434033309032_2360816971361675",
        "error": null,
        "last_attempt": "2026-11-24T16:37:47+04:00",
        "mode": "immediate",
        "photo_id": "122128433985309032",
        "post_id": "1102464712951594_122128434033309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126532789316035_2217198489200295",
        "error": null,
        "last_attempt": "2026-11-24T16:38:26+04:00",
        "mode": "immediate",
        "photo_id": "122126532765316035",
        "post_id": "1129908326870761_122126532789316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132542107418602_1798800247869063",
        "error": null,
        "last_attempt": "2026-11-24T16:36:26+04:00",
        "mode": "immediate",
        "photo_id": "122132542083418602",
        "post_id": "1208422892355505_122132542107418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135075505436382_1685848073210719",
        "error": null,
        "last_attempt": "2026-11-24T16:37:08+04:00",
        "mode": "immediate",
        "photo_id": "122135075481436382",
        "post_id": "1268633826332790_122135075505436382",
-       "status": "published"
+       "status": "done"
       },
       "363312640206172": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122204266844461850_1704599984781199",
        "error": null,
        "last_attempt": "2026-11-24T16:35:08+04:00",
        "mode": "immediate",
        "photo_id": "122204266820461850",
        "post_id": "363312640206172_122204266844461850",
-       "status": "published"
+       "status": "done"
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229647972543856_1480342190722838",
        "error": null,
        "last_attempt": "2026-11-24T16:35:46+04:00",
        "mode": "immediate",
        "photo_id": "122229647948543856",
        "post_id": "444776585382502_122229647972543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Er lachte, als ich ihm sagte, dass seine Mutter gestorben ist – sechs Wochen später stand er mit einem Arzt vor meiner Tür",
@@ -13984,7 +13999,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1627-nl.jpg"
    },
    "source_key": "post:61584229563994_122123307873140985",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
