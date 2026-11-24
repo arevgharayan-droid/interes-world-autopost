@@ -40,6 +40,7 @@
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
   "4c218b53bb5fd5b6f1b3": "2026-11-16T19:28:25+00:00",
   "4ca334761547934cbacc": "2026-11-18T22:49:31+00:00",
+  "4d2e414d0863afdbc571": "2026-11-24T12:29:41+00:00",
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
   "51ed2d668f83bd64e5b9": "2026-11-21T14:13:09+00:00",
   "5215bc8037371581d0af": "2026-11-22T16:32:11+00:00",
@@ -76,6 +77,7 @@
   "9d46e8fea6457743c2b6": "2026-11-22T14:04:34+00:00",
   "9ebaa99cdb5b7bfedbf0": "2026-11-18T18:56:13+00:00",
   "a05041cc410db1a5d901": "2026-11-19T10:26:43+00:00",
+  "a0eb1727a9ca195bd10f": "2026-11-24T12:29:41+00:00",
   "a333d126c2a07536f0f3": "2026-11-13T10:14:57+00:00",
   "a964ea608100bdcf9bf6": "2026-11-18T15:23:57+00:00",
   "aa7fd822c4f85bd070c5": "2026-11-22T19:48:30+00:00",
@@ -13714,7 +13716,79 @@
   },
   "2026-11-24 16:27": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Er lachte, als ich ihm sagte, dass seine Mutter gestorben ist – sechs Wochen später stand er mit einem Arzt vor meiner Tür",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1127,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn zoon lachte toen ik zei dat zijn moeder was overleden, maar zes weken later stond hij ineens voor mijn deur",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1126,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T16:27:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/927763543_122144467713140985_6441133114049911134_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yGqVlRkMB6EQ7kNvwEsBdlX&_nc_oc=AdqRoNCc_kUTodcX_n615UmD2fKsmVCiGnAJE4njE-94NW8FjSTFN43CjICIIqHwy9Q&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=9VmXyxjv_c5OKbf2VcEHmg&_nc_tpa=Q5bMBQLKsuIYvx-N9o2jZd_UJl4Lp1QFErp241HU0pzizDdE0hrsgCuh2YzoaAe-wFvPsCAzcudzJTgi-g&oh=00_AQQJmnkfro3JE8OtmsjPMgTT44XP4vd_dAYI3oTyN2OOnA&oe=6B0B4EDF",
@@ -13726,7 +13800,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1627-nl.jpg"
    },
    "source_key": "post:61584229563994_122123307873140985",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14347,7 +14421,7 @@
    "origin": "manual",
    "page_id": "61584229563994",
    "slot": "2026-11-24 16:27",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122154523923170576": {
    "fingerprint": "00c66aef0ab60cf4e7d6",
