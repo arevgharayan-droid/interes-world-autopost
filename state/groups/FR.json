@@ -45,6 +45,7 @@
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
   "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
   "c338c20baa78f376320d": "2026-11-21T10:17:08+00:00",
+  "c8ff8c0eb858300877cd": "2026-11-24T12:29:19+00:00",
   "cb0d51d47267516751a7": "2026-11-24T09:24:37+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00",
   "d12c2709c825b0d9c8d1": "2026-11-21T17:04:08+00:00",
@@ -11646,7 +11647,74 @@
   },
   "2026-11-24 16:27": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Une heure après l'avoir déposée à sa première fête d'école, la directrice m'a appelée : ma fille pleurait et me réclamait",
+     "warnings": [
+      "длина статьи 978 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1122,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T16:27:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/926394818_1681766409993440_1258599074366009631_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ist6elNUGkcQ7kNvwHmn2Yc&_nc_oc=Adq8k1GQCacsKLyCdESiln8Vh-rjeNccdjMvD-9fk3s00ynebBg-cIudmIVyUcdNMQQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=DTVunCswGgwHU-xeua8epA&_nc_tpa=Q5bMBQJc2zXOwhkZB1nr6omFDzjaeAybvsKG2LzBwtnp-Qks6JJAQtecSf__ylh5MQA79OWcToIv2MkSGA&oh=00_AQQIqv_Fg-WSLnwen_TmwlQDpnvwZAwZHnalxy_oJ2aXdg&oe=6B0B5A62",
@@ -11658,7 +11726,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1627-fr.jpg"
    },
    "source_key": "post:100044802900629_1681766533326761",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -11934,7 +12002,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-24 16:27",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1670783311107028": {
    "error": "заменена другой историей по вашей просьбе",
