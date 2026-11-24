@@ -49,6 +49,7 @@
   "ce058a0bf1cf5d38a3da": "2026-11-18T08:51:57+00:00",
   "d09bc66b258d0b539a07": "2026-11-20T22:45:45+00:00",
   "d1e7d87ca5c11863154f": "2026-11-19T17:52:25+00:00",
+  "ddf5c634b8dc1bccaf44": "2026-11-24T12:29:09+00:00",
   "eba593e9b8815a78e890": "2026-11-23T13:49:24+00:00",
   "ed1263949be80f9f9314": "2026-11-16T20:28:09+00:00",
   "f0fbe62a6e965138d9e2": "2026-11-16T00:21:36+00:00",
@@ -16139,7 +16140,74 @@
   },
   "2026-11-24 16:27": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My 18-Year-Old Daughter Died Giving Birth and Never Named Her Baby's Father. Ten Years Later, a Stranger at Her Grave Said, \"Now It's Time You Knew the Truth",
+     "warnings": [
+      "длина статьи 1028 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1121,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T16:27:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/925059589_1568938448590500_1677338666123326270_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=n_MqrzyUASwQ7kNvwF-6Lys&_nc_oc=Adp7gVr_UP295hlDXSUeR_IZKizZ34sh5kjVsTDjW_H6GDqAyna3A5zizjy_AwanZ88&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=PrF1drSkcIczy63l3c1fVQ&_nc_tpa=Q5bMBQKd8wDCCbeyoJE4I3-V7BSACNBzY-t6Cz6Mr840tpt9omnQq5kUcsdL5zekB9ozVlW3s36Bnhua7g&oh=00_AQTyehIqTvK2aNLikzh1a17xlXBsj2qc4fywCyx0BvK5-Q&oe=6B0B3B8E",
@@ -16151,7 +16219,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1627-en.jpg"
    },
    "source_key": "post:100064230806326_1569183728565972",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -16614,7 +16682,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 16:27",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064502274900_1601632268663500": {
    "fingerprint": "e9fe174303ae5ce56ad7",
