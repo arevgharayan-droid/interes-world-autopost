@@ -11709,12 +11709,13 @@
       "1032441206625600": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122118215762633539_1886159969465335",
        "error": null,
        "last_attempt": "2026-11-24T16:32:15+04:00",
        "mode": "immediate",
        "photo_id": "122118215738633539",
        "post_id": "1032441206625600_122118215762633539",
-       "status": "published"
+       "status": "done"
       },
       "1041497042386258": {
        "attempts": 1,
