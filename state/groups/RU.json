@@ -22435,36 +22435,43 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129806641306316_1877622266937407",
        "error": null,
        "last_attempt": "2026-11-24T20:59:23+04:00",
        "mode": "immediate",
        "photo_id": "122129806617306316",
        "post_id": "1138572272664180_122129806641306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120581677471857_29161817256800647",
        "error": null,
        "last_attempt": "2026-11-24T20:59:06+04:00",
        "mode": "immediate",
        "photo_id": "122120581653471857",
        "post_id": "1338630212673029_122120581677471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123272485505599_1009801532172225",
        "error": null,
        "last_attempt": "2026-11-24T20:58:45+04:00",
        "mode": "immediate",
        "photo_id": "122123272461505599",
        "post_id": "1448441201677530_122123272485505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Fui barriga solidária do meu irmão gêmeo, mas, logo depois que a filha dele nasceu, ele disse: \"Não posso levá-la para casa",
      "warnings": [],
      "wp_error": null,
      "wp_id": 733,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -22733,40 +22740,47 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125448451304633_4515289608709334",
        "error": null,
        "last_attempt": "2026-11-24T20:57:59+04:00",
        "mode": "immediate",
        "photo_id": "122125448427304633",
        "post_id": "1083701291497481_122125448451304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128715451311884_2088295472559315",
        "error": null,
        "last_attempt": "2026-11-24T20:57:03+04:00",
        "mode": "immediate",
        "photo_id": "122128715421311884",
        "post_id": "1129620776897151_122128715451311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128128531307134_1136673112584307",
        "error": null,
        "last_attempt": "2026-11-24T20:57:35+04:00",
        "mode": "immediate",
        "photo_id": "122128128507307134",
        "post_id": "1164575726728296_122128128531307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124483399305562_1170382932005613",
        "error": null,
        "last_attempt": "2026-11-24T20:58:23+04:00",
        "mode": "immediate",
        "photo_id": "122124483375305562",
        "post_id": "1180583925128715_122124483399305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "İkiz Kardeşim İçin Taşıyıcı Anne Oldum, Ama Kızı Doğar Doğmaz Bebeğe Baktı ve \"Onu Eve Götüremem\" Dedi",
@@ -22795,7 +22809,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-2040-ru.jpg"
    },
    "source_key": "post:61584229563994_122123923815140985",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
