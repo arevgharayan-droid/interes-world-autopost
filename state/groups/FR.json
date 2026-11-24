@@ -75,7 +75,6 @@
   "1011074408765807_122105684012536431": "2026-11-24T09:27:24+00:00",
   "1011074408765807_122105690096536431": "2026-11-24T12:32:59+00:00",
   "1011074408765807_122105701220536431": "2026-11-24T16:45:57+00:00",
-  "1032441206625600_122117216900633539": "2026-11-10T20:06:33+00:00",
   "1032441206625600_122117289080633539": "2026-11-11T08:06:49+00:00",
   "1032441206625600_122117289296633539": "2026-11-11T11:14:19+00:00",
   "1032441206625600_122117289764633539": "2026-11-11T14:08:21+00:00",
@@ -179,7 +178,6 @@
   "1041497042386258_122144618480738075": "2026-11-24T09:30:07+00:00",
   "1041497042386258_122144640884738075": "2026-11-24T12:35:39+00:00",
   "1041497042386258_122144687168738075": "2026-11-24T16:48:37+00:00",
-  "1058598924006917_122109019214457428": "2026-11-10T20:06:43+00:00",
   "1058598924006917_122109063506457428": "2026-11-11T08:06:55+00:00",
   "1058598924006917_122109063710457428": "2026-11-11T11:14:25+00:00",
   "1058598924006917_122109063926457428": "2026-11-11T14:08:27+00:00",
@@ -252,7 +250,6 @@
   "106591088255968_1480922887510441": "2026-11-24T09:28:05+00:00",
   "106591088255968_1481068644162532": "2026-11-24T12:33:40+00:00",
   "106591088255968_1481295517473178": "2026-11-24T16:46:37+00:00",
-  "1079295351933311_122122605903299008": "2026-11-10T20:06:48+00:00",
   "1079295351933311_122122697109299008": "2026-11-11T08:06:59+00:00",
   "1079295351933311_122122697313299008": "2026-11-11T11:14:28+00:00",
   "1079295351933311_122122697553299008": "2026-11-11T14:08:31+00:00",
@@ -356,7 +353,6 @@
   "1103884436136482_122105642468536887": "2026-11-24T09:29:24+00:00",
   "1103884436136482_122105646602536887": "2026-11-24T12:35:01+00:00",
   "1103884436136482_122105651612536887": "2026-11-24T16:47:57+00:00",
-  "1145306638657445_122125231269303172": "2026-11-10T20:06:53+00:00",
   "1145306638657445_122125390479303172": "2026-11-11T08:07:03+00:00",
   "1145306638657445_122125390713303172": "2026-11-11T11:14:35+00:00",
   "1145306638657445_122125390941303172": "2026-11-11T14:08:34+00:00",
@@ -413,7 +409,6 @@
   "1145306638657445_122127249429303172": "2026-11-24T09:26:05+00:00",
   "1145306638657445_122127263565303172": "2026-11-24T12:31:36+00:00",
   "1145306638657445_122127301239303172": "2026-11-24T16:44:35+00:00",
-  "1202025962997153_122121163497409328": "2026-11-10T20:06:58+00:00",
   "1202025962997153_122121314073409328": "2026-11-11T08:07:07+00:00",
   "1202025962997153_122121314439409328": "2026-11-11T11:14:39+00:00",
   "1202025962997153_122121314673409328": "2026-11-11T14:08:36+00:00",
@@ -1014,7 +1009,6 @@
   "122144618444738075": "2026-11-24T09:30:07+00:00",
   "122144640860738075": "2026-11-24T12:35:39+00:00",
   "122144687144738075": "2026-11-24T16:48:37+00:00",
-  "1250374694822508_122123060913415639": "2026-11-10T20:07:02+00:00",
   "1250374694822508_122123211921415639": "2026-11-11T08:07:11+00:00",
   "1250374694822508_122123212137415639": "2026-11-11T11:14:42+00:00",
   "1250374694822508_122123212365415639": "2026-11-11T14:08:40+00:00",
@@ -1071,7 +1065,6 @@
   "1250374694822508_122125185975415639": "2026-11-24T09:25:07+00:00",
   "1250374694822508_122125206027415639": "2026-11-24T12:30:14+00:00",
   "1250374694822508_122125227915415639": "2026-11-24T16:43:14+00:00",
-  "1260826840455724_122128243647441679": "2026-11-10T20:07:06+00:00",
   "1260826840455724_122128426989441679": "2026-11-11T08:07:14+00:00",
   "1260826840455724_122128427283441679": "2026-11-11T11:14:45+00:00",
   "1260826840455724_122128427619441679": "2026-11-11T14:08:43+00:00",
@@ -1188,149 +1181,6 @@
   "1481295467473183": "2026-11-24T16:46:37+00:00"
  },
  "slots": {
-  "2026-11-11 00:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122117216900633539_1469133645171277",
-       "error": null,
-       "last_attempt": "2026-11-10T00:07:57+04:00",
-       "mode": "schedule",
-       "photo_id": "122117216870633539",
-       "post_id": "1032441206625600_122117216900633539",
-       "status": "done"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122109019214457428_1792615532278524",
-       "error": null,
-       "last_attempt": "2026-11-10T00:08:04+04:00",
-       "mode": "schedule",
-       "photo_id": "122109019184457428",
-       "post_id": "1058598924006917_122109019214457428",
-       "status": "done"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122122605903299008_1180247337664507",
-       "error": null,
-       "last_attempt": "2026-11-10T00:07:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122122605873299008",
-       "post_id": "1079295351933311_122122605903299008",
-       "status": "done"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122125231269303172_1114664521411176",
-       "error": null,
-       "last_attempt": "2026-11-10T00:07:53+04:00",
-       "mode": "schedule",
-       "photo_id": "122125231233303172",
-       "post_id": "1145306638657445_122125231269303172",
-       "status": "done"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122121163497409328_39727870913523328",
-       "error": null,
-       "last_attempt": "2026-11-10T00:07:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122121163467409328",
-       "post_id": "1202025962997153_122121163497409328",
-       "status": "done"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122123060913415639_2657248298048566",
-       "error": null,
-       "last_attempt": "2026-11-10T00:07:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122123060871415639",
-       "post_id": "1250374694822508_122123060913415639",
-       "status": "done"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122128243647441679_1117734551042070",
-       "error": null,
-       "last_attempt": "2026-11-10T00:08:01+04:00",
-       "mode": "schedule",
-       "photo_id": "122128243617441679",
-       "post_id": "1260826840455724_122128243647441679",
-       "status": "done"
-      }
-     },
-     "title": "Le parrain le plus craint de Chicago a promis d'épouser sa femme de ménage si elle dansait le tango avec lui, mais sa grand-mère de 83 ans a reconnu ses pas et l'homme qui les lui avait appris",
-     "warnings": [
-      "длина текста FB 904 слов (исходник 781, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 92,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-11T00:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/861217883_1663120435191371_6500435409670357217_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PT_r9lDayrsQ7kNvwFZhUBH&_nc_oc=AdrzJ_4c7mIGKq_uyYdHZ14iPC-R8h0La96wHlLNd9GIQU9O2mTBxKBfqA4uprBdS8k&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=UWj37ti_GajdiU_Ng8PqTg&_nc_tpa=Q5bMBQIU5t4Rt94O9brjipHMgNnPvXqZKaXZW4msLEYqWADmzneq_6DfhgHdNXjB321TarBDmMQP_5QsPA&oh=00_AQS_NXG2lztiSSW-b0EMRLGEKvFFZPjcRm97m9LsCp63Fw&oe=6AF80DB8",
-    "link": "https://www.facebook.com/share/p/1VAiXYXNv8/",
-    "origin": "manual",
-    "page_id": "100044802900629",
-    "text": "CHICAGO’S MOST FEARED MAFIA BOSS MOCKED HIS HOUSEKEEPER BY PROMISING TO MARRY HER IF SHE COULD DANCE THE TANGO—BUT HIS 83-YEAR-OLD GRANDMOTHER RECOGNIZED HER MOVEMENTS AND THE MAN WHO HAD TAUGHT HER.\n\nAt 11:17 P.M., Chicago's most feared mafia boss extended his hand toward his housekeeper in front of two hundred wealthy guests and laughed, “If you can dance this tango with me, I'll marry you.” His gorgeous fiancée burst out laughing, while guests lifted their phones to capture my embarrassment. I stood there in my wine-soaked uniform, my feet aching and my hands shaking. But the moment the orchestra started playing, his eighty-three-year-old grandmother turned pale. Because she recognized my movements—and the man who had taught me.\n\nMy name is Emily Brooks. I'm thirty-two years old, and I've been employed as a housekeeper at the Whitmore estate in Lake Forest, Illinois, for nearly two years.\n\nGrant Whitmore was forty-one, attractive, dangerously charismatic, and the mafia leader whose organization controlled whiskey distribution, shipping businesses, private clubs, and some of Chicago's most valuable real estate.\n\nMen with power were afraid of him.\n\nHis fiancée, Vanessa Hale, was afraid of absolutely nothing.\n\nEspecially when it came to tormenting someone who couldn't defend herself.\n\nThat night, the mansion was hosting an extravagant party to celebrate the fortieth anniversary of Whitmore Reserve, founded by Grant's father, Thomas Whitmore.\n\nCrystal chandeliers illuminated the ballroom.\n\nTwo hundred guests arrived in diamonds and designer clothing.\n\nI was dressed in my gray housekeeping uniform.\n\nThree hours before the dancing began, Vanessa intentionally tipped over a glass of Cabernet.\n\n“Clean that up before someone ruins their shoes.”\n\nI lowered myself beside her chair.\n\n“Of course, Ms. Hale.”\n\nThen she poured what remained of the wine down the back of my uniform.\n\nHer friends burst into laughter.\n\n“Oh my God,” Vanessa said sweetly. “I'm so clumsy tonight.”\n\nI shut my eyes.\n\nI couldn't afford to lose this job.\n\nMy younger sister Rachel was raising two sons following a painful divorce, and half my earnings went toward helping with their rent and groceries.\n\nSo I got back to my feet without saying a word.\n\nThen I heard a kind voice calling me.\n\n“Emily, come here.”\n\nEleanor Whitmore, Grant's eighty-three-year-old grandmother, was seated near the windows.\n\nShe offered me a fresh napkin.\n\n“Get that wine off your neck.”\n\n“Thank you, Mrs. Whitmore.”\n\nEleanor looked over at Vanessa.\n\n“That girl has expensive jewelry and cheap manners.”\n\nI almost burst out laughing.\n\nEleanor was the only person in the family who remembered my nephews' names and asked how my sister was managing.\n\nShe treated me as a human being.\n\nNot a piece of furniture.\n\nA little later, Grant delivered a speech in memory of his late father.\n\nThen the orchestra started playing.\n\nAnd a sound reached my ears that made my heart ache.\n\nA bandoneon.\n\nA tango.\n\nThe very same arrangement my father had played every Saturday morning at the Brooks Dance Studio.\n\nFor one brief moment, I could almost picture him standing there again.\n\nDaniel Brooks.\n\nWhite shirt. Rolled sleeves. Gentle smile.\n\n“A good tango isn't about controlling someone, sweetheart. It's about making sure they never lose their balance.”\n\nMy feet began moving before I even realized it.\n\nHeel.\n\nToe.\n\nPause.\n\nVanessa saw me.\n\n“Look, everyone! The maid thinks she's a dancer!”\n\nHeads turned in my direction.\n\nMy face grew hot.\n\nI started to walk away.\n\nBut Grant moved in front of me, holding a glass of champagne.\n\n“Wait. What's your name again?”\n\n“Emily, sir.”\n\nHe smiled broadly at the crowd.\n\nThen extended his hand.\n\n“Dance this tango with me, Emily, and I'll marry you.”\n\nLaughter exploded throughout the ballroom.\n\nVanessa held onto his shoulder, laughing louder than anyone else.\n\nA guest yelled, “Go on, sweetheart! Here's your chance to become rich!”\n\nI looked at Grant's open hand.\n\nHe thought I would run off in tears.\n\nOr trip across the ballroom so the guests could laugh at me even more.\n\nBut then my eyes moved toward Eleanor.\n\nShe wasn't laughing.\n\nShe was watching my feet.\n\nTears had begun gathering in her eyes.\n\nI slowly took off my stained apron and laid it across a chair.\n\nThen I met the gaze of Chicago's most feared mafia boss.\n\n“Are you sure you want to make that promise, Mr. Whitmore?”\n\nHis smile began to disappear.\n\nAnd from the other side of the ballroom, Eleanor whispered a name I hadn't heard anyone outside my family say in years.\n\n“Daniel Brooks…”\n\npart 2 👇👇",
-    "wp_media_id": 88,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-0000-fr.jpg"
-   },
-   "source_key": "post:100044802900629_1665425358294212",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-11 12:00": {
    "langs": {
     "DE": {
