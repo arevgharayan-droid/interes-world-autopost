@@ -22747,12 +22747,14 @@
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113547252437662_4989696061316582",
        "error": null,
        "last_attempt": "2026-11-24T20:44:12+04:00",
        "mode": "immediate",
        "photo_id": "122113547228437662",
        "post_id": "997772916762884_122113547252437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mio figlio di sei anni ha dato tutti i suoi risparmi alla vicina anziana: la mattina dopo il nostro giardino era pieno di salvadanai e la polizia bloccava la strada",
