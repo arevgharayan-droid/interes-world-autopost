@@ -11753,7 +11753,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-24T20:40:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/796894123_1083485444540719_6570962519204599148_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=gDz9Usqdw4UQ7kNvwGs6lYI&_nc_oc=Adpnl7GaonAKhiAUfHAKG3qDpn9SY07n6-zcB2uY_HoG2eIx_vVU-eAmdvwLb-fbVy8&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=b-tD4t3urUPN2pullJtxBQ&_nc_tpa=Q5bMBQJkGlJ0RrYtLLlJABqEx4KRx86r8gMJ5ZyALPxawhkk2-1WAT_gH0HnIJVtf1RuKeyebBLtO7SUaA&oh=00_AQQ_xh_oUQ6VEDGe1UWB3MacWhYbzDCM3T91t_7IldD0nQ&oe=6B0B91F5",
+    "link": "https://www.facebook.com/story.php?story_fbid=963461329876465&id=100086378217913",
+    "origin": "manual",
+    "page_id": "100086378217913",
+    "text": "\"My wife suddenly passed away, leaving me alone with our four kids — after the funeral, her mother handed me a sealed box and said, \"\"She made me promise to give you this if anything ever happened to her.\"\"\nFor most of my adult life, I believed I was one of the lucky ones.\nI had a wife I loved, four incredible children, and a home that was always full of life.\nFifteen years ago, I met Sarah, and three years later we got married. Then came Julie, Joyce, Joan, and Jeremy.\nLife with four kids was loud, messy, and sometimes exhausting. But it was also the happiest chapter of my life. And through it all, Sarah was the heart of our family.\nThen one ordinary Tuesday morning, everything changed.\nSarah wasn't feeling well. At first, neither of us thought much of it, but by the end of the day, she was in the hospital. Less than forty-eight hours later, she was gone.\nEven now, writing those words feels impossible. Losing her broke me. But every morning, I looked at our children and reminded myself that I had to keep going for them.\nThe days after the funeral blurred together. I was trying to care for four grieving children while barely understanding my own grief.\nThen one afternoon, Sarah's mother showed up at the house. I assumed she had come to help with the kids.\nInstead, she walked inside carrying a small sealed box and placed it on the kitchen table.\nThen she looked at me and quietly said:\n\"\"Sarah made me promise to give you this if anything ever happened to her.\"\"\nI stared at the box in disbelief.\nSarah had been healthy. There was no reason for her to prepare something like this.\nMy mother-in-law simply pushed it closer to me.\n\"\"She was very specific about it,\"\" she said before leaving.\nAfter my mother-in-law left, I sat staring at the box for a long time, unable to shake the feeling that something wasn't right.\nAnd when I finally gathered the courage to open it and saw what Sarah had left inside, I felt the bl:ood drain from my face. ⬇️\"\n\n👇 I know you’re curious what happens next. Continue reading in the comments below. Leave a “YES” and Like to get the full story. 👇",
+    "wp_media_id": 1130,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-2040-fr.jpg"
+   },
+   "source_key": "post:100086378217913_963461329876465",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 21:00": {
    "langs": {},
@@ -12243,6 +12259,14 @@
    "page_id": "100083602895430",
    "slot": "2026-11-17 18:00",
    "status": "used"
+  },
+  "post:100086378217913_963461329876465": {
+   "fingerprint": "bd1e640bb29f51254aae",
+   "link": "https://www.facebook.com/story.php?story_fbid=963461329876465&id=100086378217913",
+   "origin": "manual",
+   "page_id": "100086378217913",
+   "slot": "2026-11-24 20:40",
+   "status": "reserved"
   },
   "post:1011074408765807_122101879646536431": {
    "fingerprint": "b5ed31862cee3216b94b",

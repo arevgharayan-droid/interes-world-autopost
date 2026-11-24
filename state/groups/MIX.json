@@ -8372,7 +8372,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-24T20:40:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/735058981_122130956487140985_5548139297608812870_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=bMMlwOPeI5AQ7kNvwFyGHfN&_nc_oc=AdogYz3ZbTs7GXPs_xHlbKfR_YaM_p7CtjqmRC634aL_F7h9CF3nZexqzUJtf_V71dI&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=utzQRkzvp8PDTKiWhbSTSw&_nc_tpa=Q5bMBQLGOa79mMmWIO1QyhU-9UnlmsPKDWrsCHK1bPbv9p2WXeBs8GzTqqqs9Pqnv0RxBNVUpa-NzXUuyg&oh=00_AQToWzQSUYVdOlB3zWJWCxJKSFKnjrO9UWsPLf_FZ1gltA&oe=6B0B875E",
+    "link": "https://www.facebook.com/story.php?story_fbid=122128368789140985&id=61584229563994",
+    "origin": "manual",
+    "page_id": "61584229563994",
+    "text": "An entitled woman kicked me and my newborn twins out of the women's restroom when I tried to change them and called the police on me—but karma hit her first…🥺👇🏻😳\nThree weeks after my wife d:ied giving birth to our twin daughters, I hadn't slept more than two hours at a time since the funeral. I still wore my wedding ring. I still caught myself turning to say something to her before remembering she wasn't there anymore.\nSo that day, I was in a crowded mall, searching for new onesies as they were growing really quickly. Both girls started crying at the same time. Diapers soaked. No changing table in the men's restroom. No family room.\nSo I made a choice....\nI entered the women's restroom holding both babies in my sling, kept my head down, and whispered, \"\"I'm sorry,\"\" to no one in particular.\nI moved as fast as I could, hands shaking, trying to calm them while changing one, then the other.\nThat's when I heard heels.\nSharp. Fast. Angry.\n\"\"What the hell are you doing here?! You can't even calm the babies down. This is why babies need mothers! Not men who don't know what they're doing.\"\"\nI turned to see a woman in her forties, perfectly dressed, staring at me like I was something filthy.\n\"\"I just need two minutes,\"\" I said quietly. \"\"There's nowhere else—\"\"\n\"\"I don't care,\"\" she snapped. \"\"You don't belong here. This is a women's restroom.\"\"\n\"\"My babies—\"\"\n\"\"I'm calling the police.\"\"\nMy stomach dropped.\n\"\"Please,\"\" I said. \"\"I'll be done in a second.\"\"\nShe stepped closer, lowering her voice.\n\"\"Do you even understand who you're talking to?\"\" she said. \"\"I work for the largest rental company in this city. One call—and you'll NEVER find a place to live here again.\"\"\nMy hands went cold.\nBehind me, one of my daughters let out a sharp, helpless cry.\nThe woman started pushing us out into the hall, saying, \"\"In a few minutes, the police will teach you the rules.\"\"\nAnd that's when a man's voice cut through the hallway.\nCold. Controlled.\n\"\"Excuse me… what exactly is going on here?\"\"\nThe woman froze. She definitely recognized HIM.\nSlowly—very slowly—her face lost all color.\nBecause the man standing behind her WASN'T JUST ANOTHER CUSTOMER.\nThat's when I realized karma was already in motion.\nAnd then his next words—\nThey made her grab the wall to stay standing. 🥺👇⬇️",
+    "wp_media_id": 726,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-2040-mix.jpg"
+   },
+   "source_key": "post:61584229563994_122128368789140985",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 21:00": {
    "langs": {},
@@ -8702,6 +8718,14 @@
    "page_id": "61584229563994",
    "slot": "2026-11-24 16:27",
    "status": "used"
+  },
+  "post:61584229563994_122128368789140985": {
+   "fingerprint": "9ed815afd1d49101c433",
+   "link": "https://www.facebook.com/story.php?story_fbid=122128368789140985&id=61584229563994",
+   "origin": "manual",
+   "page_id": "61584229563994",
+   "slot": "2026-11-24 20:40",
+   "status": "reserved"
   },
   "post:61585117295331_122154601647170576": {
    "fingerprint": "f6c5799d6a773f429d04",

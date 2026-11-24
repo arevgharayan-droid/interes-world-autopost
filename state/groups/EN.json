@@ -16260,7 +16260,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-24T20:40:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/716788581_1006078478948083_3998179282084894868_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AgPGpo5tuBIQ7kNvwHoPkqh&_nc_oc=AdqoOm_5h_hOtcKn7Pl3AmkQu6JEAWxWnYzIRu7Eu9bCa1UZYwXdIyioSOWs2kDQOoM&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=auO_2PkTVTlLdw9jP3t1Pw&_nc_tpa=Q5bMBQLRbxU-5IExxoRFCn2aHmeLLgAVJZRF96Aer1p0-EJkMwbrrULfPexS35SEjdnfvqXHfx6iyH9PSg&oh=00_AQSRHM2wKs48b48x61b8RBtvpO9nEw8ffGNvOpRRz8Tk5w&oe=6B0B9013",
+    "link": "https://www.facebook.com/story.php?story_fbid=1006079022281362&id=100086378217913",
+    "origin": "manual",
+    "page_id": "100086378217913",
+    "text": "\"My daughter vanished while we were living in Egypt. Twenty years later, a postcard arrived from Cairo with a message on the back that turned my entire world upside down......\nTwo decades ago, my husband was just starting his career as a reporter when he received an offer to work for an American publication in Cairo. It was the kind of opportunity he had always dreamed about, so we packed up our lives and moved there.\nWe rented a small, comfortable apartment on the second floor. Beneath it was a spacious garden where our eight-year-old daughter, Tara, loved to play.\nSlowly, Cairo began to feel like home. My husband worked on his articles, and I found a job of my own....\nThat morning, I kissed Tara on the forehead before leaving for work. My husband stayed home, saying he needed to finish an article and would keep an eye on her.\nBut when I came back that evening, police cars were parked outside our building.\nMy husband told me Tara had gone down to play in the garden like she always did—then simply disappeared.\nHe said he had searched everywhere before calling the police.\nMy heart felt like it stopped.\nFor weeks, everyone looked for Tara. The police searched. Our neighbors helped. Even strangers joined in.\nBut there was nothing.\nNo witness. No clue. No sign of my little girl.\nAfter a year, we returned to Ohio.\nMy life was never the same.\nTwenty years passed, but the pain never left me. Not a day went by without me thinking about Tara and wondering what had really happened to her.\nLast night, I came home from work and picked up the mail. I tossed the envelopes onto the table, but one postcard immediately caught my eye.\nOn the front was a picture of Cairo.\nIt had an Egyptian stamp and postmark.\nMy hands shook so badly I nearly dropped it.\nThere was no name.\nNo explanation.\nOnly an address written on the back—and it was not far from my town.\nI grabbed my jacket and drove there immediately.\nThe address led me to a row of rental garages. I found the unit number from the postcard and slowly lifted the metal door.\nThe moment I saw what was waiting inside, my knees gave out. Continue 👇👇\"😳.....",
+    "wp_media_id": 1128,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-2040-en.jpg"
+   },
+   "source_key": "post:100086378217913_1006079022281362",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 21:00": {
    "langs": {},
@@ -16751,6 +16767,14 @@
    "page_id": "100081660603136",
    "slot": "2026-11-22 20:30",
    "status": "used"
+  },
+  "post:100086378217913_1006079022281362": {
+   "fingerprint": "77947dc6dbb6c018ecc8",
+   "link": "https://www.facebook.com/story.php?story_fbid=1006079022281362&id=100086378217913",
+   "origin": "manual",
+   "page_id": "100086378217913",
+   "slot": "2026-11-24 20:40",
+   "status": "reserved"
   },
   "post:100094108842537_1005177905962495": {
    "fingerprint": "ed65d368c9cb3b9a1d5f",

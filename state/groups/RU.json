@@ -22332,7 +22332,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-24T20:40:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/783754120_122135940291140985_5647092711621112454_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GGd-FXGBzrUQ7kNvwHrQlGH&_nc_oc=AdpTF2TokKwV3AnUXQcJaakc8FG7UZz0VpTEKG6VoZB6THDB25vhNt12F0SBeHpF6RI&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=vxIwmBTCnGslxSpgM3-TPQ&_nc_tpa=Q5bMBQLSIq0htK4Dv1091Al4ofiruQULAls3Cm8NphO9aI34VwGnome5xRi4k637bNFYzHpxZc-i6RX1lQ&oh=00_AQRe16CZCVIljhsZiZteLmrNEi7FjPtYH86D4fKVcwaIEA&oe=6B0B88D6",
+    "link": "https://www.facebook.com/story.php?story_fbid=122123923815140985&id=61584229563994",
+    "origin": "manual",
+    "page_id": "61584229563994",
+    "text": "\"I agreed to become a surrogate for my twin brother—but moments after his daughter was born, he looked at her and said, “I can’t take this baby home.” When I learned why, my legs nearly gave out…\nMy twin brother, Ryan, and his wife, Melissa, had spent years desperately trying to become parents. So when they finally asked whether I would consider carrying a baby for them, I said yes.\nRyan wasn’t only my brother. He was my closest friend…🥺👇🏻👇🏻👇🏻\nHe had stood beside me through some of the hardest moments of my life, especially after our parents died. I already had a son of my own, so I understood how deeply they wanted a child.\nIf I could help them finally have the family they dreamed of, I wanted to do it.?..\nThroughout the pregnancy, Ryan and Melissa attended every appointment.\nThey watched each ultrasound with excitement as their baby grew.\nWhen they discovered they were having a girl, Melissa immediately started buying tiny dresses, stuffed animals, and baby toys.\nTogether, they prepared a beautiful nursery.\nEverything seemed perfect.\nThen the day finally came.\nAfter hours of labor, I gave birth to their daughter.\nThe moment Melissa saw her, she burst into tears.\nRyan stepped forward and carefully took the newborn into his arms.\nFor several seconds, he simply stared down at her.\nThen something changed.\nHis face suddenly lost all color.\n“Ryan?” I asked. “What’s wrong?”\nHe swallowed hard.\nThen, in a voice I barely recognized, he said,\n“I’m sorry, but… I CAN’T TAKE HER HOME.”\nI stared at him.\n“What are you talking about? Ryan, she’s your daughter.”\nHe looked at Melissa.\nThen he looked directly at me.\n“I’m sorry,” he repeated. “But I have to give her up. I’m not taking her with me.”\nBefore I could even process what he was saying, he placed the newborn back into my arms.\nMelissa immediately stood, tears streaming down her face.\n“WHY?” she demanded. “Ryan, why can’t we take our daughter home?”\nHis face turned red.\nHe looked away for a moment before finally answering.\n“Look at HER BACK.”\nMy stomach tightened.\n“We can’t do this.”\nWith trembling hands, I carefully shifted the blanket and looked at the baby’s back.\nThe second I saw it, I felt like the floor disappeared beneath me.\nMy knees nearly buckled.\nAnd when Melissa saw the same thing, she let out a scream so loud that nurses came running from the hallway. Continue…🥺👇🏻 👶\"\n\n👇 I know you’re curious what happens next. Continue reading in the comments below. Leave a “YES” and Like to get the full story. 👇👇👇",
+    "wp_media_id": 725,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-2040-ru.jpg"
+   },
+   "source_key": "post:61584229563994_122123923815140985",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 21:00": {
    "langs": {},
@@ -22964,6 +22980,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-17 12:00",
    "status": "used"
+  },
+  "post:61584229563994_122123923815140985": {
+   "fingerprint": "937e282b3f57a6ab4a9d",
+   "link": "https://www.facebook.com/story.php?story_fbid=122123923815140985&id=61584229563994",
+   "origin": "manual",
+   "page_id": "61584229563994",
+   "slot": "2026-11-24 20:40",
+   "status": "reserved"
   },
   "post:61585117295331_122154876849170576": {
    "fingerprint": "4d6fc87dca291761fae8",

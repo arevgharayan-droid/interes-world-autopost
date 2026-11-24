@@ -13895,7 +13895,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-24T20:40:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/787218604_1076969005192363_2461537889352229052_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nxqo1O_wfc8Q7kNvwFz5jgH&_nc_oc=AdqPJN0ZsvTgjFztjTDdx18HrJQfpB2ePsdKY_Idw6NBN5oEc-qf7Bz5eRSJJiKeocQ&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=yPOt35EwQSt7L4bD9XIDgg&_nc_tpa=Q5bMBQI15o4OqLI2zfRJ6t1iZdoVLws0HhJeCQHW6954uLFotwFrH0KHdGxo8zZ7QM6kLs_mFs74qIhihQ&oh=00_AQQ1xPnjsZz2UYuLzrX9Z8phSmmqiPj619Vl-1HeZewjSQ&oe=6B0BA9D1",
+    "link": "https://www.facebook.com/story.php?story_fbid=962038976685367&id=100086378217913",
+    "origin": "manual",
+    "page_id": "100086378217913",
+    "text": "\"A 29-year-old single man fought to keep five siblings under seven from being separated—and when the judge finally asked why he was willing to sacrifice everything for children he barely knew, his answer changed the entire courtroom.\nI’m twenty-nine years old.\nSingle…\nNo wife.\nNo enormous bank account.\nNo mansion with endless bedrooms.\nBut right now, I’m sitting outside a family courtroom watching five frightened children, all younger than seven, huddled together on a plastic bench like letting go of each other might make everything worse.\nIn less than an hour, a judge could sign an order sending them to different homes.\nDifferent families.\nDifferent counties.\nThe system calls it placement.\nTo me, it feels like another loss they shouldn’t have to survive.\nThree weeks ago, these five kids lost almost everything at once.\nI didn’t know them then.\nI only saw their photograph on the county’s emergency placement registry.\nBut something about the way they were holding onto one another stayed with me.\nThe social workers were realistic.\n“Carter, you’re a single man.”\n“You’ve never raised children.”\n“Five kids under seven is more than most experienced families could manage.”\nThey already had three separate homes lined up.\nOne for some of the children.\nAnother for the others.\nAnother for the youngest.\nJust imagining them being placed into different cars while crying for their brothers and sisters made my stomach turn.\nSo I made a decision most people would probably call reckless.\nI emptied nearly all the savings I had spent years building.\nI bought five car seats.\nI converted my workshop into a bedroom and built bunk beds.\nThen I used almost everything I had left to hire a family attorney.\nAnd now I’m standing before Judge Miller.\nThe state’s attorney is explaining why approving me would be risky.\nHe says I’m inexperienced.\nThat I’m acting emotionally.\nThat I have no idea what raising five traumatized children will actually require.\nAnd the truth is, he isn’t completely wrong.\nI’m terrified.\nI don’t know exactly what the next year will look like.\nThen Judge Miller leans forward.\nHe studies me for a long moment.\nAnd finally, he asks the question everyone seems to be thinking.\n“What is your real reason for doing this?”\nWhy would a twenty-nine-year-old single man willingly give up his savings, his freedom, his time, and the future he had planned for five children who weren’t related to him?\nThe courtroom becomes completely silent...🤫🥺Continue…🤫👇🥺👇",
+    "wp_media_id": 1132,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-2040-nl.jpg"
+   },
+   "source_key": "post:100086378217913_962038976685367",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 21:00": {
    "langs": {},
@@ -14368,6 +14384,14 @@
    "page_id": "100083755444423",
    "slot": "2026-11-21 00:00",
    "status": "used"
+  },
+  "post:100086378217913_962038976685367": {
+   "fingerprint": "85a08775a851819ae14d",
+   "link": "https://www.facebook.com/story.php?story_fbid=962038976685367&id=100086378217913",
+   "origin": "manual",
+   "page_id": "100086378217913",
+   "slot": "2026-11-24 20:40",
+   "status": "reserved"
   },
   "post:1011074408765807_122101695644536431": {
    "fingerprint": "e20728e7a596426a0fae",
