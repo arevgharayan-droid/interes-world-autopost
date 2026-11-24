@@ -11618,30 +11618,36 @@
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144618480738075_1703976944479411",
        "error": null,
        "last_attempt": "2026-11-24T13:30:02+04:00",
        "mode": "immediate",
        "photo_id": "122144618444738075",
        "post_id": "1041497042386258_122144618480738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109642704457428_2657043144732092",
        "error": null,
        "last_attempt": "2026-11-24T13:31:23+04:00",
        "mode": "immediate",
        "photo_id": "122109642668457428",
        "post_id": "1058598924006917_122109642704457428",
-       "status": "published"
+       "status": "done"
       },
       "106591088255968": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1480922887510441_1759136531835875",
        "error": null,
        "last_attempt": "2026-11-24T13:27:59+04:00",
        "mode": "immediate",
        "photo_id": "1480922864177110",
        "post_id": "106591088255968_1480922887510441",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -11656,12 +11662,14 @@
       },
       "1103884436136482": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105642468536887_1146497394763412",
        "error": null,
        "last_attempt": "2026-11-24T13:29:19+04:00",
        "mode": "immediate",
        "photo_id": "122105642432536887",
        "post_id": "1103884436136482_122105642468536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
@@ -11698,21 +11706,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130923805441679_1008303015662667",
        "error": null,
        "last_attempt": "2026-11-24T13:28:39+04:00",
        "mode": "immediate",
        "photo_id": "122130923769441679",
        "post_id": "1260826840455724_122130923805441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130711681425731_2608837942950050",
        "error": null,
        "last_attempt": "2026-11-24T13:30:42+04:00",
        "mode": "immediate",
        "photo_id": "122130711639425731",
        "post_id": "1280413955154689_122130711681425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ma sœur n'a pas supporté que nos filles portent presque la même robe, et ce qu'elle a fait à table a tout fait basculer",
@@ -11767,7 +11779,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1323-fr.jpg"
    },
    "source_key": "post:100064230806326_1480860017398344",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
