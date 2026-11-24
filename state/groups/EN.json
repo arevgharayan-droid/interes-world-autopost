@@ -16196,12 +16196,14 @@
      "pages": {
       "1016419758218222": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122148386697204972_1630590439110971",
        "error": null,
        "last_attempt": "2026-11-24T16:31:56+04:00",
        "mode": "immediate",
        "photo_id": "122148386673204972",
        "post_id": "1016419758218222_122148386697204972",
-       "status": "published"
+       "status": "done"
       },
       "108881571809093": {
        "attempts": 1,
@@ -16359,12 +16361,14 @@
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122151062115209153_1475891037832581",
        "error": null,
        "last_attempt": "2026-11-24T16:32:38+04:00",
        "mode": "immediate",
        "photo_id": "122151062091209153",
        "post_id": "975714512286925_122151062115209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My 18-Year-Old Daughter Died Giving Birth and Never Named Her Baby's Father. Ten Years Later, a Stranger at Her Grave Said, \"Now It's Time You Knew the Truth",

@@ -11732,12 +11732,14 @@
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109649658457428_3260296844175815",
        "error": null,
        "last_attempt": "2026-11-24T16:36:56+04:00",
        "mode": "immediate",
        "photo_id": "122109649634457428",
        "post_id": "1058598924006917_122109649658457428",
-       "status": "published"
+       "status": "done"
       },
       "106591088255968": {
        "attempts": 1,
@@ -11818,12 +11820,14 @@
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130734505425731_1809250863693895",
        "error": null,
        "last_attempt": "2026-11-24T16:36:14+04:00",
        "mode": "immediate",
        "photo_id": "122130734481425731",
        "post_id": "1280413955154689_122130734505425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Une heure après l'avoir déposée à sa première fête d'école, la directrice m'a appelée : ma fille pleurait et me réclamait",
@@ -11880,7 +11884,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1627-fr.jpg"
    },
    "source_key": "post:100044802900629_1681766533326761",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
