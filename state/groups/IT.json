@@ -22241,12 +22241,14 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116914651328231_3715584085260349",
        "error": null,
        "last_attempt": "2026-11-24T16:45:22+04:00",
        "mode": "immediate",
        "photo_id": "122116914615328231",
        "post_id": "1106793902521611_122116914651328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Trenér posadil šestnáctiletého Eliho na lavičku, protože rodina nezaplatila 2 000 dolarů. Pak vstal jeho osmdesátiletý pradědeček a zeptal se, kdo zaplatil stadionové reflektory",
@@ -22255,6 +22257,7 @@
      ],
      "wp_error": null,
      "wp_id": 1125,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -22280,21 +22283,25 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133687807302250_1160335883107834",
        "error": null,
        "last_attempt": "2026-11-24T16:37:25+04:00",
        "mode": "immediate",
        "photo_id": "122133687783302250",
        "post_id": "1012250151981057_122133687807302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141944886808945_2326523934799978",
        "error": null,
        "last_attempt": "2026-11-24T16:35:24+04:00",
        "mode": "immediate",
        "photo_id": "122141944862808945",
        "post_id": "1030877436782212_122141944886808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
@@ -22309,21 +22316,25 @@
       },
       "1068567606345452": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131945029306132_1151681794177016",
        "error": null,
        "last_attempt": "2026-11-24T16:38:43+04:00",
        "mode": "immediate",
        "photo_id": "122131945005306132",
        "post_id": "1068567606345452_122131945029306132",
-       "status": "published"
+       "status": "done"
       },
       "1078100405390763": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128586871305584_1497387022279033",
        "error": null,
        "last_attempt": "2026-11-24T16:42:26+04:00",
        "mode": "immediate",
        "photo_id": "122128586847305584",
        "post_id": "1078100405390763_122128586871305584",
-       "status": "published"
+       "status": "done"
       },
       "1079964265201139": {
        "attempts": 1,
@@ -22338,58 +22349,69 @@
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134488735308548_1854915155540297",
        "error": null,
        "last_attempt": "2026-11-24T16:38:04+04:00",
        "mode": "immediate",
        "photo_id": "122134488711308548",
        "post_id": "1086658774532679_122134488735308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123476317296683_1128704863392095",
        "error": null,
        "last_attempt": "2026-11-24T16:36:45+04:00",
        "mode": "immediate",
        "photo_id": "122123476293296683",
        "post_id": "1087342844462554_122123476317296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130511179300251_2700329873756126",
        "error": null,
        "last_attempt": "2026-11-24T16:41:52+04:00",
        "mode": "immediate",
        "photo_id": "122130511155300251",
        "post_id": "1093003583899107_122130511179300251",
-       "status": "published"
+       "status": "done"
       },
       "1099258949937246": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114996360601707_1460210512903810",
        "error": null,
        "last_attempt": "2026-11-24T16:40:42+04:00",
        "mode": "immediate",
        "photo_id": "122114996336601707",
        "post_id": "1099258949937246_122114996360601707",
-       "status": "published"
+       "status": "done"
       },
       "1114015015119414": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122142512804811401_1984689245841526",
        "error": null,
        "last_attempt": "2026-11-24T16:34:45+04:00",
        "mode": "immediate",
        "photo_id": "122142512780811401",
        "post_id": "1114015015119414_122142512804811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105241938533031_1663563472232336",
        "error": null,
        "last_attempt": "2026-11-24T16:40:03+04:00",
        "mode": "immediate",
        "photo_id": "122105241914533031",
        "post_id": "1128937866962526_122105241938533031",
-       "status": "published"
+       "status": "done"
       },
       "1140835409106424": {
        "attempts": 1,
@@ -22415,21 +22437,25 @@
       },
       "1149681171551323": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131110939314630_1852985112700390",
        "error": null,
        "last_attempt": "2026-11-24T16:39:22+04:00",
        "mode": "immediate",
        "photo_id": "122131110909314630",
        "post_id": "1149681171551323_122131110939314630",
-       "status": "published"
+       "status": "done"
       },
       "1159996950522974": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123412111318395_1144597568464175",
        "error": null,
        "last_attempt": "2026-11-24T16:41:15+04:00",
        "mode": "immediate",
        "photo_id": "122123412087318395",
        "post_id": "1159996950522974_122123412111318395",
-       "status": "published"
+       "status": "done"
       },
       "1160223747182678": {
        "attempts": 1,
@@ -22444,21 +22470,25 @@
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129703519300955_1067667019666802",
        "error": null,
        "last_attempt": "2026-11-24T16:36:03+04:00",
        "mode": "immediate",
        "photo_id": "122129703495300955",
        "post_id": "1160240797163045_122129703519300955",
-       "status": "published"
+       "status": "done"
       },
       "1174674892385169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126880747301482_1144804727920289",
        "error": null,
        "last_attempt": "2026-11-24T16:43:00+04:00",
        "mode": "immediate",
        "photo_id": "122126880723301482",
        "post_id": "1174674892385169_122126880747301482",
-       "status": "published"
+       "status": "done"
       },
       "1191480207389219": {
        "attempts": 1,
@@ -22501,39 +22531,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127082749304793_919673547801515",
        "error": null,
        "last_attempt": "2026-11-24T16:44:59+04:00",
        "mode": "immediate",
        "photo_id": "122127082725304793",
        "post_id": "1079800528556354_122127082749304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114503730359745_2147618732566357",
        "error": null,
        "last_attempt": "2026-11-24T16:43:36+04:00",
        "mode": "immediate",
        "photo_id": "122114503706359745",
        "post_id": "1083785318156771_122114503730359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123433321302807_2380207130045718",
        "error": null,
        "last_attempt": "2026-11-24T16:44:05+04:00",
        "mode": "immediate",
        "photo_id": "122123433297302807",
        "post_id": "1089456087587677_122123433321302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142014235313481_2371336723690045",
        "error": null,
        "last_attempt": "2026-11-24T16:44:36+04:00",
        "mode": "immediate",
        "photo_id": "122142014211313481",
        "post_id": "1107966229066828_122142014235313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Trener przez cały sezon trzymał jej wnuka na ławce, aż 80-letni pradziadek podszedł do ogrodzenia i zapytał, kto zapłacił za stadionowe światła",
@@ -22542,6 +22580,7 @@
      ],
      "wp_error": null,
      "wp_id": 1124,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PT": {
@@ -22577,7 +22616,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1627-it.jpg"
    },
    "source_key": "post:61584229563994_122123006853140985",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
