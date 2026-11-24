@@ -67,6 +67,7 @@
   "59a8c94efb9a24d75d95": "2026-11-18T18:30:01+00:00",
   "5b204109299ad4dcd429": "2026-11-12T20:02:43+00:00",
   "5d014620f15f95df1195": "2026-11-10T22:05:49+00:00",
+  "5e2571bcd03b701d1749": "2026-11-24T09:25:07+00:00",
   "5eb6f82f1ff85094dce8": "2026-11-21T22:45:41+00:00",
   "5efa9fb5844a5d5a2b35": "2026-11-14T09:18:33+00:00",
   "5f1d161a583653849674": "2026-11-19T10:26:47+00:00",
@@ -109,6 +110,7 @@
   "993b67355d685fd04e45": "2026-11-17T17:52:52+00:00",
   "998ff7075f45475a9585": "2026-11-21T10:17:55+00:00",
   "9a76a9818995731524e0": "2026-11-16T10:16:47+00:00",
+  "9b5897d60cb5df8fd4c3": "2026-11-24T09:25:07+00:00",
   "9b8e5872c3c1d4a10224": "2026-11-18T15:24:43+00:00",
   "9d236a06f2c553cf0edc": "2026-11-15T14:15:11+00:00",
   "a21b9dc024828d2ffa55": "2026-11-16T20:28:20+00:00",
@@ -157,6 +159,7 @@
   "e57396e630eef2d4f899": "2026-11-22T22:13:48+00:00",
   "e6f22af68ae4ec05d8cd": "2026-11-19T19:59:16+00:00",
   "e75f509640a7f4914317": "2026-11-21T10:17:55+00:00",
+  "e777e1ad0183d7b61f9b": "2026-11-24T09:25:07+00:00",
   "e7dc1043c75d906e8893": "2026-11-20T16:46:35+00:00",
   "e841ab38d6d5db285501": "2026-11-19T22:01:08+00:00",
   "e84337ab74e96356bcfe": "2026-11-10T22:05:49+00:00",
@@ -21684,7 +21687,80 @@
   },
   "2026-11-24 13:23": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ele gritou “Não aceito!” e fugiu do altar. 50 anos depois, o advogado dele bateu à minha porta com uma caixa velha e a verdade",
+     "warnings": []
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Жених крикнул «Нет!» и сбежал из церкви, а через 50 лет на пороге моего дома появился его адвокат с old-коробкой в руках",
+     "warnings": [
+      "длина текста FB 374 слов (исходник 441, цель ±10%)"
+     ]
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Düğünde \"İstemiyorum!\" diye bağırıp kaçan nişanlım, elli yıl sonra avukatını kapıma gönderdi",
+     "warnings": [
+      "длина текста FB 352 слов (исходник 441, цель ±10%)"
+     ]
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-24T13:23:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/920481616_1568935261924152_8065457494741479511_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iIH3Hmw-PQ8Q7kNvwGo1ZhQ&_nc_oc=Ado91an5jmUWlYjPdlxiEQuuoUrA9myAIbZrIiDvu8hFt2kcsTggSPlLJ4bJo9hbvJY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=FMlAZe9ttz6ElNecGJlEcA&_nc_tpa=Q5bMBQJOLTnIG9a_4YLEViqobQNpsiZmguzGpCSeWtx6oDa-0z0RwEtJOB94vClfpsekkOlz2kCC1ElfKw&oh=00_AQSMn5HGKps0rGV-W7CMY8hie1uOHokrJBbj9kLBkjJLIw&oe=6B0B140B",

@@ -14,12 +14,14 @@
   "197afdcf4ca2d2cf2e80": "2026-11-19T10:26:49+00:00",
   "1a4ff38c5e05d07444af": "2026-11-22T21:23:40+00:00",
   "1ae882c4b0c2b065d2e8": "2026-11-21T14:13:33+00:00",
+  "1aeb882024691a21b2ad": "2026-11-24T09:25:03+00:00",
   "1daa19c39dada9f31106": "2026-11-20T14:41:48+00:00",
   "1e2c7dd943d79ef1c8d0": "2026-11-18T22:49:45+00:00",
   "1f198156f3d98bc7ff76": "2026-11-19T10:26:49+00:00",
   "208463d4781b94b70452": "2026-11-19T14:08:16+00:00",
   "20f6a7628fd976769436": "2026-11-22T21:41:20+00:00",
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
+  "28f4a8eb2416f92e587b": "2026-11-24T09:25:03+00:00",
   "292c1d04504fd06c6ac5": "2026-11-18T18:56:12+00:00",
   "2a94daadab1dbf109c12": "2026-11-17T12:28:51+00:00",
   "2aa801c5c237376e0441": "2026-11-22T14:05:02+00:00",
@@ -103,6 +105,7 @@
   "b55d3bb5e53f309a89d5": "2026-11-22T14:05:02+00:00",
   "b81f44ecabbd429b953b": "2026-11-23T13:50:45+00:00",
   "ba4752512e3fefd45f2a": "2026-11-21T14:13:33+00:00",
+  "badb683e2a766df3f6a1": "2026-11-24T09:25:03+00:00",
   "bdb1bbcd6e4c0469fdaa": "2026-11-19T19:58:49+00:00",
   "be5b1350a2ae46ec948a": "2026-11-22T19:48:27+00:00",
   "c2bc42d5c2d6930640d5": "2026-11-18T22:49:45+00:00",
@@ -114,6 +117,7 @@
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "cfa7b21c90a2cad9b78e": "2026-11-18T08:52:49+00:00",
+  "d12b7fa3d6d01e3c8bd8": "2026-11-24T09:25:03+00:00",
   "d14043f3b91f3d7be5bb": "2026-11-21T19:44:56+00:00",
   "d305c96ab228138b6cd5": "2026-11-20T19:26:13+00:00",
   "d3eb8ba6065409a69dcd": "2026-11-20T16:46:26+00:00",
@@ -7906,7 +7910,95 @@
   },
   "2026-11-24 13:23": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "تزوجتُ أبًا يحتضر ووعدته أن أرعى ابنته، وبعد عام دخلت الصغيرة المطبخ وفي يدها صندوق صغير وقالت: \"ما زلتِ لا تعرفين لماذا اختارك",
+     "warnings": [
+      "длина текста FB 728 слов (исходник 891, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 712,
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Me casé con un padre moribundo por una promesa, y un año después su hija me entregó una caja con la verdad de por qué me eligió",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 710,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "M-am căsătorit cu un tată pe moarte ca să am grijă de fetița lui. Un an mai târziu, ea a intrat în bucătărie cu o cutiuță și mi-a spus: „Încă nu știi de ce te-a ales tocmai pe tine.",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 711,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я вышла замуж за умирающего вдовца ради его дочери, а через год она принесла мне коробку и сказала: «Ты не знаешь, почему он выбрал тебя",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 709,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T13:23:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/825327549_1515955017222177_1767608900832901775_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lfk2ciAhIpQQ7kNvwE9lZwv&_nc_oc=AdpnZ15pB2nmePTvAp2gJH_LH-bov-N9VZATYOJrHAqpSJ8FyHTeHlQKtRbLgBhnXS0&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Hr0_kUV8G3uQdMbp7TypIw&_nc_tpa=Q5bMBQL3acH4nMSnSRUMhItk1wb0-T3WuJ-4AEblKsg5BxlEKR-O_S_Yb8IwKc_Ozz2XANAI1K2QUfG1ig&oh=00_AQTXBy8o6JcUC9S2OdXQ3smUFxmND8GcKJPyqulgTF0wdw&oe=6B0B2BFF",
@@ -7918,7 +8010,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-1323-mix.jpg"
    },
    "source_key": "post:100064230806326_1515955307222148",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -8179,7 +8271,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 13:23",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1556838546467157": {
    "fingerprint": "56890aad8d41f280b3c9",
