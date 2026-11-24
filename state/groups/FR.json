@@ -11571,7 +11571,10 @@
      "generated": true,
      "pages": {},
      "title": "Ma sœur n'a pas supporté que nos filles portent presque la même robe, et ce qu'elle a fait à table a tout fait basculer",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1108,
+     "wp_status": "publish"
     },
     "IT": {
      "pages": {},
@@ -11606,6 +11609,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-24T13:23:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/786853792_1479310000886679_7541712535707706962_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iC26UiKCgs0Q7kNvwHWkQ2Q&_nc_oc=AdpMT-UjxvNlZwVUI9fAWj_FaytTlSCWYiD_M1p0KrVlhkcrnK0h9BMsH8kG4c3ZF_0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ctPqsurFp2YdcxLweZuvVA&_nc_tpa=Q5bMBQJZ9wynvK198dx9mRAFlsZXqJEg4WxgOh6pJ-qSK2UDD4ZgfB2d6lO7zDpvaCo7SFLNWBhbWoETgQ&oh=00_AQRoq11-B5Qj6NB3zpp_eX0icDXfA_K-0GsAZNWRpCpkiA&oe=6B0B3ADE",
@@ -11617,7 +11621,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1323-fr.jpg"
    },
    "source_key": "post:100064230806326_1480860017398344",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12006,7 +12010,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 13:23",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1510587571092255": {
    "fingerprint": "30344627231317a71e8f",
