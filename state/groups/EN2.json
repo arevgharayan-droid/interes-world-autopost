@@ -14370,7 +14370,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-11-24T20:41:52+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "My Daughter Told Me to Obey Her Husband or Leave My Own House, So I Smiled, Packed My Suitcase, and Walked Out",
      "warnings": [],
      "wp_error": null,

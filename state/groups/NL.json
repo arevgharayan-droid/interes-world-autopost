@@ -13910,7 +13910,10 @@
      "generated": true,
      "pages": {},
      "title": "Er ist 29, Single und kämpft vor Gericht für fünf Geschwister unter sieben – dann stellt der Richter die eine Frage, die den ganzen Saal verstummen lässt",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1136,
+     "wp_status": "publish"
     },
     "EN": {
      "pages": {},
@@ -13964,6 +13967,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-24T20:40:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/787218604_1076969005192363_2461537889352229052_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nxqo1O_wfc8Q7kNvwFz5jgH&_nc_oc=AdqPJN0ZsvTgjFztjTDdx18HrJQfpB2ePsdKY_Idw6NBN5oEc-qf7Bz5eRSJJiKeocQ&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=yPOt35EwQSt7L4bD9XIDgg&_nc_tpa=Q5bMBQI15o4OqLI2zfRJ6t1iZdoVLws0HhJeCQHW6954uLFotwFrH0KHdGxo8zZ7QM6kLs_mFs74qIhihQ&oh=00_AQQ1xPnjsZz2UYuLzrX9Z8phSmmqiPj619Vl-1HeZewjSQ&oe=6B0BA9D1",
@@ -13975,7 +13979,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-2040-nl.jpg"
    },
    "source_key": "post:100086378217913_962038976685367",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14461,7 +14465,7 @@
    "origin": "manual",
    "page_id": "100086378217913",
    "slot": "2026-11-24 20:40",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1011074408765807_122101695644536431": {
    "fingerprint": "e20728e7a596426a0fae",
