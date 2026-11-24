@@ -71,7 +71,6 @@
   "1011074408765807_122105620166536431": "2026-11-22T21:52:55+00:00",
   "1011074408765807_122105655086536431": "2026-11-23T20:06:36+00:00",
   "1011074408765807_122105684012536431": "2026-11-24T09:27:24+00:00",
-  "1032441206625600_122117215352633539": "2026-11-10T11:07:16+00:00",
   "1032441206625600_122117215976633539": "2026-11-10T14:09:40+00:00",
   "1032441206625600_122117216342633539": "2026-11-10T17:06:58+00:00",
   "1032441206625600_122117216900633539": "2026-11-10T20:06:33+00:00",
@@ -174,7 +173,6 @@
   "1041497042386258_122144405792738075": "2026-11-22T21:55:03+00:00",
   "1041497042386258_122144514674738075": "2026-11-23T20:07:26+00:00",
   "1041497042386258_122144618480738075": "2026-11-24T09:30:07+00:00",
-  "1058598924006917_122109018206457428": "2026-11-10T11:07:24+00:00",
   "1058598924006917_122109018638457428": "2026-11-10T14:09:46+00:00",
   "1058598924006917_122109018854457428": "2026-11-10T17:07:04+00:00",
   "1058598924006917_122109019214457428": "2026-11-10T20:06:43+00:00",
@@ -246,7 +244,6 @@
   "106591088255968_1479431120992951": "2026-11-22T21:53:30+00:00",
   "106591088255968_1480100167592713": "2026-11-23T20:08:47+00:00",
   "106591088255968_1480922887510441": "2026-11-24T09:28:05+00:00",
-  "1079295351933311_122122604559299008": "2026-11-10T11:07:28+00:00",
   "1079295351933311_122122605051299008": "2026-11-10T14:09:49+00:00",
   "1079295351933311_122122605297299008": "2026-11-10T17:07:07+00:00",
   "1079295351933311_122122605903299008": "2026-11-10T20:06:48+00:00",
@@ -349,7 +346,6 @@
   "1103884436136482_122105603066536887": "2026-11-22T21:54:33+00:00",
   "1103884436136482_122105622242536887": "2026-11-23T20:10:11+00:00",
   "1103884436136482_122105642468536887": "2026-11-24T09:29:24+00:00",
-  "1145306638657445_122125229871303172": "2026-11-10T11:07:33+00:00",
   "1145306638657445_122125230285303172": "2026-11-10T14:09:52+00:00",
   "1145306638657445_122125230597303172": "2026-11-10T17:07:10+00:00",
   "1145306638657445_122125231269303172": "2026-11-10T20:06:53+00:00",
@@ -407,7 +403,6 @@
   "1145306638657445_122127104919303172": "2026-11-22T21:51:44+00:00",
   "1145306638657445_122127169701303172": "2026-11-23T20:10:51+00:00",
   "1145306638657445_122127249429303172": "2026-11-24T09:26:05+00:00",
-  "1202025962997153_122121162171409328": "2026-11-10T11:07:38+00:00",
   "1202025962997153_122121162579409328": "2026-11-10T14:09:55+00:00",
   "1202025962997153_122121162909409328": "2026-11-10T17:07:14+00:00",
   "1202025962997153_122121163497409328": "2026-11-10T20:06:58+00:00",
@@ -987,7 +982,6 @@
   "122144405762738075": "2026-11-22T21:55:03+00:00",
   "122144514644738075": "2026-11-23T13:51:59+00:00",
   "122144618444738075": "2026-11-24T09:30:07+00:00",
-  "1250374694822508_122123059713415639": "2026-11-10T11:07:42+00:00",
   "1250374694822508_122123060151415639": "2026-11-10T14:09:59+00:00",
   "1250374694822508_122123060523415639": "2026-11-10T17:07:18+00:00",
   "1250374694822508_122123060913415639": "2026-11-10T20:07:02+00:00",
@@ -1045,7 +1039,6 @@
   "1250374694822508_122124998625415639": "2026-11-22T21:50:49+00:00",
   "1250374694822508_122125083165415639": "2026-11-23T20:12:10+00:00",
   "1250374694822508_122125185975415639": "2026-11-24T09:25:07+00:00",
-  "1260826840455724_122128241187441679": "2026-11-10T11:07:45+00:00",
   "1260826840455724_122128241853441679": "2026-11-10T14:10:03+00:00",
   "1260826840455724_122128242399441679": "2026-11-10T17:07:20+00:00",
   "1260826840455724_122128243647441679": "2026-11-10T20:07:06+00:00",
@@ -1159,147 +1152,6 @@
   "1480922864177110": "2026-11-24T09:28:05+00:00"
  },
  "slots": {
-  "2026-11-10 15:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122117215352633539_1390020186538031",
-       "error": null,
-       "last_attempt": "2026-11-10T00:00:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122117215322633539",
-       "post_id": "1032441206625600_122117215352633539",
-       "status": "done"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122109018206457428_1783727266070877",
-       "error": null,
-       "last_attempt": "2026-11-10T00:00:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122109018176457428",
-       "post_id": "1058598924006917_122109018206457428",
-       "status": "done"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122122604559299008_2022443065069595",
-       "error": null,
-       "last_attempt": "2026-11-10T00:00:37+04:00",
-       "mode": "schedule",
-       "photo_id": "122122604529299008",
-       "post_id": "1079295351933311_122122604559299008",
-       "status": "done"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122125229871303172_1817866106364713",
-       "error": null,
-       "last_attempt": "2026-11-10T00:00:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122125229841303172",
-       "post_id": "1145306638657445_122125229871303172",
-       "status": "done"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122121162171409328_1488823866678277",
-       "error": null,
-       "last_attempt": "2026-11-10T00:00:31+04:00",
-       "mode": "schedule",
-       "photo_id": "122121162141409328",
-       "post_id": "1202025962997153_122121162171409328",
-       "status": "done"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122123059713415639_1087794697575313",
-       "error": null,
-       "last_attempt": "2026-11-10T00:00:34+04:00",
-       "mode": "schedule",
-       "photo_id": "122123059677415639",
-       "post_id": "1250374694822508_122123059713415639",
-       "status": "done"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122128241187441679_1159534406596292",
-       "error": null,
-       "last_attempt": "2026-11-10T00:00:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122128241139441679",
-       "post_id": "1260826840455724_122128241187441679",
-       "status": "done"
-      }
-     },
-     "title": "Une fillette de cinq ans a reconnu la bague du portrait dans le bureau d'un chef mafieux : sa mère la cachait depuis douze ans",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 62,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-10T15:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/888584382_1658485022314785_476481111663778826_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fV8cD-6JC5QQ7kNvwHmvpsc&_nc_oc=Adpp_ihlo9PMlkyeeRkPTOjp2ZBWyP6sdlRjhf1Lvc_4iyK8wZAauVdt1URcRhE8S0I&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=4ZUuaCwUW-GBdas5wBECfw&_nc_tpa=Q5bMBQIOE--vfnaG5EHvWCQpWARtX-KR37TSsnnyQ6Kq-kw1VLu_sD2uQbIv6L3ExaBMiyC8PBqKD0Ob_Q&oh=00_AQQpBC-sC2opSuI3DHbB4wo79htOHS_KqIc7wRaS5SYhFg&oe=6AF7EEAA",
-    "link": "https://www.facebook.com/share/p/1FQis1qTD6/",
-    "origin": "manual",
-    "page_id": "100044599086455",
-    "text": "“Mister, My Mommy Has a Ring Just Like Yours!” a Five-Year-Old Girl Told the Mafia Boss, Pointing at the Gold Ring He Had Worn for Seven Years. He Smiled—Until She Whispered, “Mommy Cries Every Time She Looks at It.” His Heart Stopped When He Realized It Was the Matching Wedding Ring He’d Given to the Woman Who Disappeared Seven Years Ago—And the Little Girl Standing Before Him Had His Eyes.\n\nFor twelve years I kept a dead man's ring sewn into the hem of my daughter's dress. Then my sitter's sister fell down a staircase in Naples, and I made the only mistake I have ever made: I took my child to work. At four o'clock she walked into a room where a man had been grieving for twelve years and pointed at a portrait on the wall. She said the words I had kept silent for twelve years. She said them to the one man alive who could not afford to hear them.\n\nCHAPTER 1 — The Quiet Mouse\n\nThe child was standing in the doorway, and Lorenzo Duca did not turn around for six seconds.\n\nHe counted them. One. Two. Three. Four. Five. Six. He had learned to count at twenty-four, in the week a telephone call at four in the morning had made him the head of a family and the keeper of a silence, and he had never once since then let a room see him move before his mind had finished deciding what the movement would cost.\n\nAt six, he turned in the leather chair.\n\nShe was five, perhaps six, standing on the threshold in a blue cotton dress washed soft at the elbows, one hand holding a gray stuffed rabbit by a single long ear. Her hair had been braided by someone who loved her and was in a hurry. Her eyes were very dark, and they were not on him. They were on the portrait behind the desk.\n\nIt stood seven feet tall. His father, Salvatore, in a charcoal suit, seated at a chessboard, one broad hand resting on the white king. On the little finger of that hand, catching the painter's careful light, sat a heavy silver signet ring with a shield face — a hawk with half-raised wings, and beneath its talons a field of small squares. That ring had vanished twelve years ago, on the night Salvatore Duca was shot four times in an alley behind a restaurant on Mulberry Street and driven, still breathing, to a place that appeared on no map. Nobody outside the Duca blood had seen it in daylight since.\n\nMr. Lorenzo, the child said. Why does Mommy have the same ring as the man in that picture?\n\nHe set his whiskey down without looking at it. The glass touched the walnut with a small precise click, and he was aware, in a distant way, of being proud of his own hand.\n\nSweetheart, he said. Would you say that again for me?\n\nShe looked at him now, without shyness, the way a child looks at a stranger who has not yet earned a decision.\n\nMommy's ring, she said. It's the same as that man's. In the picture.\n\nHow do you know it's the same?\n\nBecause it has the bird.\n\nShe lifted her free hand and drew something in the air with one finger. A wing. A curved beak. Then four small squares, patted out one under another.\n\nMommy showed me once, she said. In the pocket of my Sunday dress.\n\nLorenzo did not stand. He had learned, in twelve years, that standing too fast was how a man told a room he had been hit. He kept his voice level and asked her name.\n\nSophie.\n\nSophie what?\n\nSophie Rossi. She said it the way a child says a thing she has been drilled to say to grown-ups. My mommy is Anna. She works here now. She said I have to be a quiet mouse today. I was very quiet.\n\nYou were?\n\nI didn't hear you at all, she said.\n\nSomewhere below, in the great sleeping bulk of the house, a door opened and shut, and a woman's voice began calling a name he had not heard three seconds ago and understood, in that moment, he would never forget.\n\nAnna.\n\nLorenzo did not move from the chair. He watched the little girl watch his father, and he understood with the cold clarity that had kept him alive since he was twenty-four that the room he had sat in alone for twelve years had just, without warning, filled with people he could not yet see.\n\nThen the corridor gave them up. Mrs. Bianca first, one hand flat against the doorframe to hold herself upright, her chest rising fast, her steel-colored coil of hair coming loose at one temple. Behind her, so close their shoulders touched, a young woman in a plain gray dress and a white apron.\n\nAnna Rossi's face was the color of a wall that has waited a long time to be painted. She saw her daughter whole and standing, and then she saw Lorenzo Duca watching her daughter, and twelve years of walls came down behind her eyes in the space of one breath.\n\nShe did not run. The corridor was behind her. The service stairs were forty steps down it, and a bus stop six minutes on foot from the front gate, and she had built her whole adult life around the muscle memory of leaving before the wrong hand closed on her shoulder. She did not run because Sophie was in the room, and Sophie could not run as fast as she could.\n\nShe stepped past Mrs. Bianca and stopped three careful paces from her daughter.\n\nMiss Rossi, Lorenzo said, and his voice was quieter than any voice he had used in that room in twelve years. Where is the ring right now?\n\nAnna heard the question. She understood, in the same instant, that answering it was the only door left in a house on fire.\n\nShe knelt. The gray dress pulled tight across her knees. Her fingers found the small stitched seam at the hem of the blue cotton skirt — a seam she had opened and closed with a needle four times in nine days to be sure the small hard weight inside it was still there — and they were shaking so badly it took her three tries to catch the thread.\n\nSweetheart, she said to Sophie, and her voice was almost calm. Hold still for Mama. She looked up. Mrs. Bianca. I need a knife.\n\nMrs. Bianca was gone and back in ninety seconds, breathing hard, a small paring knife in her hand and a folded linen napkin under it. She set the napkin on the carpet at Anna's knee, and the knife on the napkin.\n\nSlowly, Rossa, she said. It is a good knife.\n\n \n.....................................\nI’ve updated the post with the FULL STORY. If you’re unable to see it [the blue text], try this: go to the comment section, tap \"Most relevant\" and change it to All comments — then find 𝐚 𝐥𝐢𝐧𝐞 𝐨𝐟 𝐛𝐥𝐮𝐞 𝐭𝐞𝐱𝐭—𝐭𝐚𝐩 𝐢𝐭, and it will lead you to the full story. Enjoy reading!",
-    "wp_media_id": 48,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1500-fr.jpg"
-   },
-   "source_key": "post:100044599086455_1660056672157620",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-10 18:00": {
    "langs": {
     "DE": {
