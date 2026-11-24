@@ -5,6 +5,7 @@
   "0385791f90b04d0306b7": "2026-11-20T22:45:57+00:00",
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
   "0ad80be2e1cea7e03b4f": "2026-11-20T16:46:26+00:00",
+  "0b2b232a24ddc42d5fac": "2026-11-24T12:29:28+00:00",
   "0be13b58727dd30b5837": "2026-11-17T17:52:42+00:00",
   "0d6931716754091b432c": "2026-11-20T22:45:57+00:00",
   "12b8aa47a4d7c4cb6051": "2026-11-21T19:44:56+00:00",
@@ -83,6 +84,7 @@
   "95d798f47b5adbd505b6": "2026-11-19T17:36:01+00:00",
   "98415c4e620c5fec9c54": "2026-11-21T10:17:16+00:00",
   "99e8d9f189af8f08dfeb": "2026-11-20T19:26:13+00:00",
+  "9a1b4532f9bd2453da10": "2026-11-24T12:29:28+00:00",
   "9d1c191d91ce7d4e3876": "2026-11-22T16:31:59+00:00",
   "9e8d9919483b58994148": "2026-11-22T19:48:27+00:00",
   "9e9961bac78dda63c754": "2026-11-17T00:19:13+00:00",
@@ -112,6 +114,7 @@
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
   "c75c8dae9f549626580f": "2026-11-22T16:31:59+00:00",
   "c7a23463c38efad77763": "2026-11-21T10:17:16+00:00",
+  "c7ccc869bc86c425d1f5": "2026-11-24T12:29:28+00:00",
   "c849b1d0af5703028d05": "2026-11-19T14:08:16+00:00",
   "ca948c4110bd59f7d1ef": "2026-11-22T16:31:59+00:00",
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
@@ -148,6 +151,7 @@
   "fb1b3c992dbbe583617b": "2026-11-22T21:23:40+00:00",
   "fb212181c33709aab8ed": "2026-11-21T22:45:49+00:00",
   "fc5e09a8a20d5f485fd5": "2026-11-22T21:23:40+00:00",
+  "fcb8b29d683c8a6dac13": "2026-11-24T12:29:28+00:00",
   "fd0757f90d3b854f9872": "2026-11-22T21:17:18+00:00",
   "ff32133b1d57816b36e8": "2026-11-17T10:38:26+00:00"
  },
@@ -8137,7 +8141,93 @@
   },
   "2026-11-24 16:27": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "كتبت لي ابنتي «العائلة المباشرة فقط»، فرددت بكلمة واحدة، وصباح الميلاد وصل حفيداي على دراجتيهما في الثلج",
+     "warnings": [
+      "длина текста FB 520 слов (исходник 683, цель ±10%)"
+     ]
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hija me dejó fuera de la Navidad con un mensaje, así que escribí tres cartas a mis nietos, y lo que pasó el día 25 lo cambió todo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 721,
+     "wp_status": "publish"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Fiica mi-a scris că Crăciunul e doar pentru „familia apropiată\". Am răspuns cu un singur cuvânt și am trimis nepoților câte o scrisoare",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 722,
+     "wp_status": "publish"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Дочь написала, что Рождество будет «только для самых близких», а я отправила внукам по письму — и в девять утра двое из них уже стояли на моём пороге",
+     "warnings": [
+      "длина текста FB 576 слов (исходник 683, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 719,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-24T16:27:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/911689462_122144028369140985_7477797625324743667_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZCLxibeTwicQ7kNvwGN_KbS&_nc_oc=AdoKLDj4jXsp5Sfr3uPKFKiEtjqiFIWV5mB5nNppxFnQQ5ENC9cqJcXsWDgsnTeYquA&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KcxzkiRM3OWZoo2HCHjhIw&_nc_tpa=Q5bMBQK14lx6I38sON1L7e_WhKSXk7OPMn_1iTdnK9Oj8AWhzCE0MLId3nLvlLReH3vLvrC6mBiczGcx0Q&oh=00_AQSlBER-MNhwzlrPJKAQ1Itf_ueMtTCaDpGBNsUdoRvd6w&oe=6B0B4924",

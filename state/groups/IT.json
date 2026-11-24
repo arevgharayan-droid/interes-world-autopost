@@ -15,6 +15,7 @@
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
   "0fb22b8844bea06fae2d": "2026-11-16T20:28:05+00:00",
   "1022f1ba4618e21c8ceb": "2026-11-20T16:46:26+00:00",
+  "12d7a7fe84cd538435cf": "2026-11-24T12:29:28+00:00",
   "12ef0a4c6ea0840ec006": "2026-11-22T21:35:02+00:00",
   "17bbf28063304bc8e308": "2026-11-17T12:28:51+00:00",
   "18363b3ec6863c5f1434": "2026-11-23T13:49:59+00:00",
@@ -126,6 +127,7 @@
   "ce41fb776b521b73c710": "2026-11-23T13:58:44+00:00",
   "cf29e5e2e8b5770866b0": "2026-11-16T10:16:33+00:00",
   "d2bd36c62fe9db3a15cc": "2026-11-20T19:26:25+00:00",
+  "d2f5f29e381033fa9e6e": "2026-11-24T12:29:28+00:00",
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
   "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
   "d4cab6ef35142d4bedc3": "2026-11-19T10:26:56+00:00",
@@ -133,6 +135,7 @@
   "db93b5a4d55941ca8bb9": "2026-11-22T22:07:10+00:00",
   "de3fafdb1cf0cbce4e54": "2026-11-16T23:51:59+00:00",
   "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
+  "e46c36b86771ade1427e": "2026-11-24T12:29:28+00:00",
   "e4d634875950303ab02e": "2026-11-23T13:49:59+00:00",
   "e5620b751bed22ad8486": "2026-11-16T19:28:24+00:00",
   "e5f95007f72d9b82c9a6": "2026-11-23T13:49:21+00:00",
@@ -22174,7 +22177,86 @@
   },
   "2026-11-24 16:27": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Trenér posadil šestnáctiletého Eliho na lavičku, protože rodina nezaplatila 2 000 dolarů. Pak vstal jeho osmdesátiletý pradědeček a zeptal se, kdo zaplatil stadionové reflektory",
+     "warnings": [
+      "длина текста FB 700 слов (исходник 928, цель ±10%)"
+     ]
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il nonno di 80 anni scese fino alla rete e chiese all'allenatore: «Figliolo, sai chi ha pagato quelle luci?",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1123,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Trener przez cały sezon trzymał jej wnuka na ławce, aż 80-letni pradziadek podszedł do ogrodzenia i zapytał, kto zapłacił za stadionowe światła",
+     "warnings": [
+      "длина текста FB 718 слов (исходник 928, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1124,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-24T16:27:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/910305041_122143704639140985_370541719204966279_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HDqpYxTvl6QQ7kNvwGxIKTT&_nc_oc=AdpNpc_wXq-R0n0IIu-9pr6HcXpj0KnHfz5KAGGY7-iVUdCKQgFEsHFbGi88rnC_Rp8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=T4_hqY7dKB0oBJVms4gT3Q&_nc_tpa=Q5bMBQIKecUzx6IV82_G2M7WQ0StIBYtQRbClESYvz6YpBUokBpgoKMGwP_hXzFrVWQXPmfT4NJtGynXjg&oh=00_AQTzQcFf988qcFi1bRfHVSIx2E78HZrMDp-XkeqUw-5HQA&oe=6B0B70CE",
