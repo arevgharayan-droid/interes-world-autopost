@@ -8139,7 +8139,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-24T16:27:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/911689462_122144028369140985_7477797625324743667_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZCLxibeTwicQ7kNvwGN_KbS&_nc_oc=AdoKLDj4jXsp5Sfr3uPKFKiEtjqiFIWV5mB5nNppxFnQQ5ENC9cqJcXsWDgsnTeYquA&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KcxzkiRM3OWZoo2HCHjhIw&_nc_tpa=Q5bMBQK14lx6I38sON1L7e_WhKSXk7OPMn_1iTdnK9Oj8AWhzCE0MLId3nLvlLReH3vLvrC6mBiczGcx0Q&oh=00_AQSlBER-MNhwzlrPJKAQ1Itf_ueMtTCaDpGBNsUdoRvd6w&oe=6B0B4924",
+    "link": "https://www.facebook.com/story.php?story_fbid=122124243879140985&id=61584229563994",
+    "origin": "manual",
+    "page_id": "61584229563994",
+    "text": "My daughter texted me on December 20th: \"Mom, we decided Christmas is immediate family only this year. Hope you understand.\" I wrote back one word: \"Understood.\" Then I mailed each of my grandkids a letter. Not a gift. A letter. On Christmas morning at 9 a.m., two kids showed up at my door on their bikes in the snow. Their mother's car pulled in four minutes later.\n\nI'm 72.\nI've hosted Christmas for 41 years.\nMy daughter Karen is 46.\nHer husband Ted is 48.\nThey have three kids. Ben, 14. Lucy, 12. Sam, 9.\nLast year, Ted's parents came to my Christmas and complained about the ham.\nThis year, Ted wanted Christmas at his house. With his parents.\nDecember 20th. A text.\n\"Mom, we decided Christmas is immediate family only this year. Just us and Ted's parents. Hope you understand. We'll do something in January.\"\nTed's parents are immediate family. I am not.\nI read it four times.\nI didn't call.\nI didn't ask what I'd done.\nI've learned that asking what you've done only gives people a chance to think of something.\nI wrote back one word.\n\"Understood.\"\nThen I sat at my kitchen table and got out my stationery.\nThe good paper. The kind with my initials.\nI wrote three letters. One for each grandchild.\nI didn't say anything bad about their parents. I would never do that.\nI just told each of them something true.\nI told Ben that his grandfather had taught me to make the cinnamon rolls, and that I'd be making them Christmas morning at 8, like always, and that the kitchen would smell the way it always smells.\nI told Lucy that the little wooden angel on top of my tree was hers, that I'd bought it the day she was born, and that it was waiting for her to put it on top, like she's done every year since she was three.\nI told Sam that I'd be home all day Christmas, that the door would be unlocked, and that he was welcome any time. Any time at all.\nI mailed them December 21st.\nI used real stamps.\nI put each kid's name on the envelope, not Karen's.\nChristmas morning, I got up at six.\nI made the cinnamon rolls.\nI put the coffee on.\nI turned on the tree.\nThe angel was in its box on the mantel. Waiting.\nI didn't expect anyone. I want to be completely honest about that.\nI just wanted the house to be ready, in case.\nAt 9:02, I heard something on the porch.\nI opened the door.\nTwo bikes in the snow.\nLucy and Sam.\nRed faces. No gloves. Sam's pajama pants under his winter coat.\nLucy was holding her letter.\n\"Grandma. Is the angel still in the box?\"\nI couldn't answer her. I just stepped back and let them in.\nSam went straight to the kitchen. \"It smells right.\"\nLucy went to the mantel. She opened the box.\nShe was on the step stool, reaching for the top of the tree, when a car came into the driveway fast.\nKaren.\nStill in her robe.\nTed in the passenger seat. His parents' car right behind them.\nKaren came through the front door without knocking. Her face was a mess.\n\"Mom. Mom, they just LEFT. Ben's still in the car, he wanted to come too, I didn't... what did you SEND them?\"\nLucy put the angel on top of the tree.\nThen she turned around on the step stool and looked at her mother.\nAnd what a 12-year-old girl said to her mother in my living room on Christmas morning made Ted get out of the car...(I know you’re curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a ‘YES’ comment below and give us a Like to get full story) 👇",
+    "wp_media_id": 717,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-1627-mix.jpg"
+   },
+   "source_key": "post:61584229563994_122124243879140985",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 18:00": {
    "langs": {},
@@ -8460,6 +8476,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-17 12:00",
    "status": "used"
+  },
+  "post:61584229563994_122124243879140985": {
+   "fingerprint": "ed4c72895a3d1d16ccfe",
+   "link": "https://www.facebook.com/story.php?story_fbid=122124243879140985&id=61584229563994",
+   "origin": "manual",
+   "page_id": "61584229563994",
+   "slot": "2026-11-24 16:27",
+   "status": "reserved"
   },
   "post:61585117295331_122154601647170576": {
    "fingerprint": "f6c5799d6a773f429d04",

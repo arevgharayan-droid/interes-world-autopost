@@ -11648,7 +11648,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-24T16:27:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/926394818_1681766409993440_1258599074366009631_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ist6elNUGkcQ7kNvwHmn2Yc&_nc_oc=Adq8k1GQCacsKLyCdESiln8Vh-rjeNccdjMvD-9fk3s00ynebBg-cIudmIVyUcdNMQQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=DTVunCswGgwHU-xeua8epA&_nc_tpa=Q5bMBQJc2zXOwhkZB1nr6omFDzjaeAybvsKG2LzBwtnp-Qks6JJAQtecSf__ylh5MQA79OWcToIv2MkSGA&oh=00_AQQIqv_Fg-WSLnwen_TmwlQDpnvwZAwZHnalxy_oJ2aXdg&oe=6B0B5A62",
+    "link": "https://www.facebook.com/story.php?story_fbid=1681766533326761&id=100044802900629",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "My daughter couldn't wait to attend her very first school festival. But only an hour after I left her there, the principal called to tell me she was crying and desperately asking for me. When I reached the school, she explained that her new teacher had refused to paint her face like the other girls because \"makeup won't make girls like me pretty.\"\n\nMy daughter, Victoria, is six years old and has Down syndrome. Deciding to enroll her in first grade was among the most difficult choices I'd ever faced.\n\nI was anxious about everything. Would her classmates tease her? Would she recognize when someone was treating her unkindly? Would she tell me if anything went wrong?\n\nBut attending school was what Victoria wanted more than anything else. During those first two weeks, I'd never seen her so happy.\n\nEach afternoon, she would rush into my arms, excitedly describing her new friends and proudly showing me the pictures she'd drawn.\n\nThen the day of her first school festival arrived.\n\nI kissed her forehead before dropping her off. Nothing appeared unusual.\n\nYet just one hour later, my phone started ringing. The principal was calling.\n\n\"Mrs. Parker, Victoria has been crying for twenty minutes. She keeps asking us to call you. Could you come pick her up?\"\n\n\"Is she hurt? What happened?\"\n\n\"She's safe, but she's very upset.\"\n\nI was already reaching for my car keys.\n\nWhen I got to the school, Victoria was standing in the hallway. Other children were running around with colorful designs painted on their faces, laughing happily, while a young teacher painted butterflies onto another little girl's cheeks.\n\nThe moment Victoria saw me, she hurried straight into my embrace.\n\n\"Mommy, I want to go home.\"\n\n\"Sweetheart, what happened?\"\n\nShe pointed at the teacher, whose back was turned toward us and who was standing too far away to overhear.\n\n\"She said makeup is for pretty girls. And it won't help me because I'm not pretty.\"\n\nI crouched down beside my daughter.\n\n\"Mommy, am I not pretty? Will I never be pretty? Please don't lie to me.\"\n\nI gently dried her tears and pressed a kiss to her forehead.\n\n\"Victoria, you are beautiful, sweetheart. Don't ever let anyone tell you otherwise.\"\n\n\"But Mommy, she's a teacher. Teachers don't lie.\"\n\nI glanced toward the woman. She was still smiling as she decorated another child's face, completely unaware of my presence.\n\nAnd suddenly, an idea occurred to me.\n\n\"Baby, go back to the principal's office, okay? Tell her Mommy will be there in five minutes. I just need to take care of something.\"\n\n\"Are we going home?\"\n\n\"We're going to the movies, sweetheart. And afterward, we'll get your favorite ice cream. I promise.\"\n\nVictoria hugged me one final time before hurrying along the hallway. I kept watching until she went inside the principal's office.\n\nThen I faced the teacher.\n\nWe had never been introduced. She had no idea I was Victoria's mother, and I planned to make sure she didn't find out yet.\n\nNo child should ever experience the treatment my daughter had received, and I was determined that this teacher would remember the lesson. So I walked directly toward her table as she finished painting another girl's face.\n\n…PART 2 👇👇👇",
+    "wp_media_id": 1117,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1627-fr.jpg"
+   },
+   "source_key": "post:100044802900629_1681766533326761",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 18:00": {
    "langs": {},
@@ -11911,6 +11927,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-16 15:00",
    "status": "used"
+  },
+  "post:100044802900629_1681766533326761": {
+   "fingerprint": "f2644d2a6bb9d76d0cc0",
+   "link": "https://www.facebook.com/story.php?story_fbid=1681766533326761&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-24 16:27",
+   "status": "reserved"
   },
   "post:100045261260562_1670783311107028": {
    "error": "заменена другой историей по вашей просьбе",

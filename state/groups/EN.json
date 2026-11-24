@@ -16141,7 +16141,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-24T16:27:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/925059589_1568938448590500_1677338666123326270_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=n_MqrzyUASwQ7kNvwF-6Lys&_nc_oc=Adp7gVr_UP295hlDXSUeR_IZKizZ34sh5kjVsTDjW_H6GDqAyna3A5zizjy_AwanZ88&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=PrF1drSkcIczy63l3c1fVQ&_nc_tpa=Q5bMBQKd8wDCCbeyoJE4I3-V7BSACNBzY-t6Cz6Mr840tpt9omnQq5kUcsdL5zekB9ozVlW3s36Bnhua7g&oh=00_AQTyehIqTvK2aNLikzh1a17xlXBsj2qc4fywCyx0BvK5-Q&oe=6B0B3B8E",
+    "link": "https://www.facebook.com/story.php?story_fbid=1569183728565972&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "My 18-Year-Old Daughter Passed Away While Giving Birth, Leaving Me to Raise Her Baby Boy Alone Because Nobody Knew Who His Father Was. Ten Years Later, an Unknown Woman Appeared at Her Grave and Told Me, \"I made your daughter a promise. Now it’s time you knew the truth.\"\n\nMy daughter, Teagan, had never shared anything about boys with me.\n\nTo my knowledge, she'd never been in a serious relationship.\n\nSo when she unexpectedly announced that she was pregnant, I could hardly believe what I'd heard.\n\n\"But you’re only eighteen! You’re not ready to become a mother this young!\"\n\nTeagan took both my hands.\n\n\"Mom, please. I’m begging you. I love this baby, and I want to have him.\"\n\n\"Then tell me who the father is.\"\n\nHer expression suddenly shifted.\n\n\"I can’t.\"\n\nRegardless of how often I questioned her, she wouldn't reveal his identity.\n\nSeveral months afterward, Teagan went into labor.\n\nBut complications arose during the delivery.\n\nEventually, a doctor entered the waiting area.\n\n\"I’m sorry. We did everything we could.\"\n\nMy daughter didn't survive.\n\nBut her newborn son did.\n\nWe named him Lucas.\n\nFrom the moment he was discharged from the hospital, I took responsibility for raising him.\n\nAs Lucas grew, he often wanted to know more about his mother.\n\nI'd share photographs and videos showing Teagan smiling, dancing, and unwrapping Christmas gifts.\n\nOne night, he looked at her picture and smiled.\n\n\"She’s so beautiful, just like you. I wish I could’ve known her.\"\n\nI wrapped my arms around him.\n\n\"Your mom watches you from a little cloud every day. Believe me, she loves you very much.\"\n\nA decade went by.\n\nOn the day Teagan would have turned twenty-eight, Lucas and I brought flowers to the cemetery.\n\n\"Grandma, I made Mom a picture and forgot it in the car!\"\n\nHe hurried back toward the parking area.\n\nI walked the remaining distance to my daughter's resting place alone.\n\nThat's when I spotted an unfamiliar woman beside her headstone.\n\nI didn't recognize her.\n\n\"Did you know my daughter?\" I asked.\n\nShe spun around abruptly.\n\n\"You're Teagan’s mother.\"\n\nI stopped in surprise.\n\n\"Who are you?\"\n\nThe woman opened her handbag and retrieved a sealed envelope.\n\n\"I made your daughter a promise ten years ago,\" she murmured. \"Now it’s time you knew the truth.\"",
+    "wp_media_id": 1115,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1627-en.jpg"
+   },
+   "source_key": "post:100064230806326_1569183728565972",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 18:00": {
    "langs": {},
@@ -16591,6 +16607,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-23 18:00",
    "status": "used"
+  },
+  "post:100064230806326_1569183728565972": {
+   "fingerprint": "d023a0bea0a041d03e91",
+   "link": "https://www.facebook.com/story.php?story_fbid=1569183728565972&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 16:27",
+   "status": "reserved"
   },
   "post:100064502274900_1601632268663500": {
    "fingerprint": "e9fe174303ae5ce56ad7",
