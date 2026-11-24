@@ -22199,6 +22199,12 @@
        "photo_id": "122123419953302807",
        "post_id": "1089456087587677_122123419977302807",
        "status": "published"
+      },
+      "1107966229066828": {
+       "attempts": 1,
+       "last_attempt": "2026-11-24T13:40:19+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "Chłopak zostawił ją tydzień po diagnozie nowotworu. Na studniówkę przyszedł z ogoloną głową, w fioletowej sukni, i zdradził sekret, którego nikt się nie spodziewał",
