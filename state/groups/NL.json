@@ -13637,27 +13637,32 @@
       },
       "363312640206172": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122204254046461850_1972233620412954",
        "error": null,
        "last_attempt": "2026-11-24T13:30:14+04:00",
        "mode": "immediate",
        "photo_id": "122204254022461850",
        "post_id": "363312640206172_122204254046461850",
-       "status": "published"
+       "status": "done"
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229633644543856_1667185701458903",
        "error": null,
        "last_attempt": "2026-11-24T13:30:53+04:00",
        "mode": "immediate",
        "photo_id": "122229633614543856",
        "post_id": "444776585382502_122229633644543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Meine Wehen setzten vier Wochen zu früh ein, doch mein Mann weigerte sich, mich ins Krankenhaus zu fahren – dann rief unser fünfjähriger Sohn den Notruf",
      "warnings": [],
      "wp_error": null,
      "wp_id": 1111,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -13695,12 +13700,13 @@
       "1180417388497186": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122131655253424769_1466115451588878",
        "error": null,
        "last_attempt": "2026-11-24T13:29:32+04:00",
        "mode": "immediate",
        "photo_id": "122131655223424769",
        "post_id": "1180417388497186_122131655253424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
