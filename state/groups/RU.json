@@ -21789,36 +21789,43 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129760861306316_1504727918245281",
        "error": null,
        "last_attempt": "2026-11-24T13:42:08+04:00",
        "mode": "immediate",
        "photo_id": "122129760837306316",
        "post_id": "1138572272664180_122129760861306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120475087471857_3080167055666828",
        "error": null,
        "last_attempt": "2026-11-24T13:41:46+04:00",
        "mode": "immediate",
        "photo_id": "122120475063471857",
        "post_id": "1338630212673029_122120475087471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123170335505599_1128214106570685",
        "error": null,
        "last_attempt": "2026-11-24T13:41:23+04:00",
        "mode": "immediate",
        "photo_id": "122123170311505599",
        "post_id": "1448441201677530_122123170335505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ele gritou “Não aceito!” e fugiu do altar. 50 anos depois, o advogado dele bateu à minha porta com uma caixa velha e a verdade",
      "warnings": [],
      "wp_error": null,
      "wp_id": 715,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -22089,12 +22096,14 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125416447304633_2351149878985700",
        "error": null,
        "last_attempt": "2026-11-24T13:40:36+04:00",
        "mode": "immediate",
        "photo_id": "122125416417304633",
        "post_id": "1083701291497481_122125416447304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
@@ -22110,21 +22119,24 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128091463307134_1406006904699773",
        "error": null,
        "last_attempt": "2026-11-24T13:40:08+04:00",
        "mode": "immediate",
        "photo_id": "122128091439307134",
        "post_id": "1164575726728296_122128091463307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124444453305562_1644017693880767",
        "error": null,
        "last_attempt": "2026-11-24T13:40:59+04:00",
        "mode": "immediate",
        "photo_id": "122124444423305562",
        "post_id": "1180583925128715_122124444453305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Düğünde \"İstemiyorum!\" diye bağırıp kaçan nişanlım, elli yıl sonra avukatını kapıma gönderdi",
@@ -22153,7 +22165,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-1323-ru.jpg"
    },
    "source_key": "post:100064230806326_1569052368579108",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
