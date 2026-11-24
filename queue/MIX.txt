@@ -75,3 +75,5 @@ https://www.facebook.com/story.php?story_fbid=1472616188222727&id=10006423080632
 # 23.11.2026: замена в выпуске 21:00 (сообщение 15:49), старая история убрана: https://www.facebook.com/story.php?story_fbid=1502016955282650&id=100064230806326
 # 24.11.2026: выпуск сейчас (13:22)
 https://www.facebook.com/story.php?story_fbid=1515955307222148&id=100064230806326
+# 24.11.2026: выпуск сейчас (16:27)
+https://www.facebook.com/story.php?story_fbid=122124243879140985&id=61584229563994
