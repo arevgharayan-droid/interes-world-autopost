@@ -22,6 +22,7 @@
   "1a13bfd0bf844bdd07ba": "2026-11-22T21:35:02+00:00",
   "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
   "20a11149af6c5503382f": "2026-11-22T16:32:05+00:00",
+  "227c0bc7a9c0998d2c9e": "2026-11-24T09:25:10+00:00",
   "2305cc152c8bf5b805c5": "2026-11-22T19:49:03+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "24635a53ddd9eb319000": "2026-11-22T21:17:32+00:00",
@@ -111,6 +112,7 @@
   "ae98003cc9368817f7b5": "2026-11-20T16:46:26+00:00",
   "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
   "b4aed3404e941135191d": "2026-11-21T17:04:20+00:00",
+  "b54296fef28a9c6d151d": "2026-11-24T09:25:10+00:00",
   "b57cbd22e06c05929359": "2026-11-23T13:58:44+00:00",
   "ba5f05202837b2fb860d": "2026-11-14T11:39:45+00:00",
   "bafb37100cdb3ff9df9b": "2026-11-19T10:26:56+00:00",
@@ -140,6 +142,7 @@
   "eac8aa08480a5392b558": "2026-11-19T14:07:51+00:00",
   "efd0f2e108b8fe01d1c7": "2026-11-14T19:42:43+00:00",
   "f0ab5dd9f979bb237bc0": "2026-11-12T20:02:25+00:00",
+  "f0ca2d52305b88a9c2ce": "2026-11-24T09:25:10+00:00",
   "f472d77cd9283f9c86cc": "2026-11-10T22:06:07+00:00",
   "f47d08ea28476c84d8db": "2026-11-18T22:49:46+00:00",
   "f4fb1870212e1ca687e6": "2026-11-17T18:29:53+00:00",
@@ -21891,7 +21894,78 @@
   },
   "2026-11-24 13:23": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Přítel naší dcery se s ní po diagnóze rakoviny rozešel. Na maturitním plese pak přišel ve třpytivých fialových šatech a prozradil pravdu, kterou nikdo nečekal",
+     "warnings": []
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Dopo la diagnosi di cancro lo ha lasciata, ma al ballo di fine anno è entrato con la testa rasata e un abito viola, e ha svelato il segreto che nessuno si aspettava",
+     "warnings": []
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Chłopak zostawił ją tydzień po diagnozie nowotworu. Na studniówkę przyszedł z ogoloną głową, w fioletowej sukni, i zdradził sekret, którego nikt się nie spodziewał",
+     "warnings": [
+      "длина статьи 591 слов"
+     ]
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-24T13:23:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/915244902_1567506552067023_7253472423967187800_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XIz7HmN-Z4YQ7kNvwGGpSnj&_nc_oc=AdqM0hO33tWuMWAeN8RZF3T0hmwT_lyuabTi3KPCR6bHphBqHznOwC7JdRdUWcD_MgE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=bi_sYVirNOusTRvl4xG5Bg&_nc_tpa=Q5bMBQJ2AwM_v-gWWjZHOzhiF63626ivoeGV0AF5Ig83CPXVKzQgyAjBEhI0hbcuuM6BFEItc1wJsrOPjA&oh=00_AQQ_EcNdO_YhWLjwJA5rnCDsJ4YvdCUrFcNM08k10FtBQQ&oe=6B0B4079",

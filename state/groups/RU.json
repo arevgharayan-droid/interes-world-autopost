@@ -21730,7 +21730,10 @@
      "generated": true,
      "pages": {},
      "title": "Ele gritou “Não aceito!” e fugiu do altar. 50 anos depois, o advogado dele bateu à minha porta com uma caixa velha e a verdade",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 715,
+     "wp_status": "publish"
     },
     "RO": {
      "pages": {},
@@ -21767,6 +21770,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-24T13:23:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/920481616_1568935261924152_8065457494741479511_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iIH3Hmw-PQ8Q7kNvwGo1ZhQ&_nc_oc=Ado91an5jmUWlYjPdlxiEQuuoUrA9myAIbZrIiDvu8hFt2kcsTggSPlLJ4bJo9hbvJY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=FMlAZe9ttz6ElNecGJlEcA&_nc_tpa=Q5bMBQJOLTnIG9a_4YLEViqobQNpsiZmguzGpCSeWtx6oDa-0z0RwEtJOB94vClfpsekkOlz2kCC1ElfKw&oh=00_AQSMn5HGKps0rGV-W7CMY8hie1uOHokrJBbj9kLBkjJLIw&oe=6B0B140B",
@@ -21778,7 +21782,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-1323-ru.jpg"
    },
    "source_key": "post:100064230806326_1569052368579108",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -22253,7 +22257,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 13:23",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1605697694922092": {
    "fingerprint": "7aa9a9d1f00ac27915f6",
