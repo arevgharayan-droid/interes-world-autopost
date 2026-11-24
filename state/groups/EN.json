@@ -16169,12 +16169,13 @@
       "220697507802568": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122344711802237583_1673654820979797",
        "error": null,
        "last_attempt": "2026-11-24T13:29:14+04:00",
        "mode": "immediate",
        "photo_id": "122344711778237583",
        "post_id": "220697507802568_122344711802237583",
-       "status": "published"
+       "status": "done"
       },
       "236129656261330": {
        "attempts": 1,
