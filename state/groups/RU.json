@@ -21686,7 +21686,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-24T13:23:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/920481616_1568935261924152_8065457494741479511_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=iIH3Hmw-PQ8Q7kNvwGo1ZhQ&_nc_oc=Ado91an5jmUWlYjPdlxiEQuuoUrA9myAIbZrIiDvu8hFt2kcsTggSPlLJ4bJo9hbvJY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=FMlAZe9ttz6ElNecGJlEcA&_nc_tpa=Q5bMBQJOLTnIG9a_4YLEViqobQNpsiZmguzGpCSeWtx6oDa-0z0RwEtJOB94vClfpsekkOlz2kCC1ElfKw&oh=00_AQSMn5HGKps0rGV-W7CMY8hie1uOHokrJBbj9kLBkjJLIw&oe=6B0B140B",
+    "link": "https://www.facebook.com/story.php?story_fbid=1569052368579108&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "My Fiancé Shouted \"\"I don’t!\"\" and Fled Our Wedding, Leaving Me Humiliated at the Altar. Fifty Years Later, His Lawyer Appeared at My Door and Told Me, \"\"He wants you to know what really happened that day.\"\"\n\nI was twenty-two when Henry abandoned me on our wedding day. We'd been sweethearts since high school, and I'd sincerely believed we would spend the rest of our lives together.\n\nI'd made my wedding gown by hand, while Henry had taken extra shifts to afford my engagement ring. Everything appeared wonderful until the minister asked whether he accepted me as his wife.\n\n\"\"I don’t!\"\" Henry suddenly yelled.\n\nBefore I had a chance to take his hand, he bolted from the church, leaving me alone at the altar before eighty stunned guests.\n\nI kept expecting him to return. Even after the last guest had departed, I remained on the church steps in my bridal gown, praying he'd come back with an explanation.\n\nBut he never returned.\n\nRumors quickly spread throughout our small town. Some people accused me of pressuring him into marriage. Others suggested he'd uncovered an embarrassing secret about me.\n\nEven my aunt implied that I must have done something to bring such humiliation upon myself.\n\nEventually, I packed my possessions and relocated to Chicago, hoping to rebuild my life somewhere nobody recognized me.\n\nThose first months were difficult. I spent exhausting hours working in a diner and cried myself to sleep more often than I cared to remember.\n\nGradually, though, the pain became easier to carry.\n\nThen Robert entered my life. He was gentle and understanding, loving me patiently even when my past made trusting someone difficult. We eventually married and brought three wonderful children into the world.\n\nNow I have six grandchildren whose laughter fills my modest home with happiness.\n\nRobert died four years ago, and there hasn't been a day when I haven't missed him. He gave me a beautiful life, one I would never exchange for anything else.\n\nYet Henry's memory never completely disappeared.\n\nThat doesn't mean I regret the years I've lived.\n\nSome heartbreaks simply leave scars that time cannot entirely erase.\n\nToday was the fiftieth anniversary of the wedding Henry and I had once planned.\n\nI was preparing cookies for my grandchildren when a knock sounded at the front door. Expecting their familiar smiling faces, I quickly went to answer it.\n\nInstead, I discovered a young man dressed in a suit standing on my porch.\n\nIn his hands was an old cardboard box.\n\nBuild suspense around the old boxMake the attorney reveal more emotionally charged",
+    "wp_media_id": 707,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-1323-ru.jpg"
+   },
+   "source_key": "post:100064230806326_1569052368579108",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 15:00": {
    "langs": {},
@@ -22148,6 +22164,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-23 18:00",
    "status": "used"
+  },
+  "post:100064230806326_1569052368579108": {
+   "fingerprint": "cc779f717d4b5e52d130",
+   "link": "https://www.facebook.com/story.php?story_fbid=1569052368579108&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 13:23",
+   "status": "reserved"
   },
   "post:100064456312444_1605697694922092": {
    "fingerprint": "7aa9a9d1f00ac27915f6",

@@ -14268,7 +14268,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-24T13:23:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/814818144_1612519323584816_852778394917471514_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dfQNL8RknCsQ7kNvwFSVOS3&_nc_oc=AdocoSfZ-U2EnOumom77FA5GSq79t3hW2dhkyJ-bDUbiB4pVgd0QpcsyxhS7zeqlPzQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hiiRmaeR124X1Wj32SjjSA&_nc_tpa=Q5bMBQLulFxGF5Ybg1HiQsI-LI_FYKpasV-bpUZihbzWDupufPbvj3lUMOC7PFxcB5-vxs7yTlMqwuaHSQ&oh=00_AQQfR--4Uv-WDFd4oqeHriaEXgGETD1UOA8fNK0bAlIGvA&oe=6B0B285C",
+    "link": "https://www.facebook.com/story.php?story_fbid=1613000920203323&id=100044802900629",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "MY BIOLOGICAL FATHER GAVE ME A CAR FOR MY 17TH BIRTHDAY, THEN TOLD MY STEPDAD, \"NOW HE KNOWS WHO HIS REAL FATHER IS.\" — I WANTED TO HUMILIATE HIM BACK, BUT THEN I CAME UP WITH A LESSON THE WHOLE FAMILY WOULD REMEMBER.\n\nMy biological father walked out when I was three.\n\nFor fourteen years, it was just Mom and me, and money was the subject we discussed most without ever actually saying much about it.\n\nShe met Ray when I was sixteen.\n\nHe already had two children — Danny, eleven, and Cara, nine, who stayed with him every other weekend.\n\nSo the five of us were living on money meant for three, and things became more difficult instead of easier, but he never once treated me like I was the reason for that.\n\nHe showed up to every game. Even during the season when I never left the bench.\n\nHe sat across from me at the kitchen table, working through chemistry he didn't understand.\n\nOne night around eleven, I told him I was finished and wanted to give up.\n\n\"Read it to me again,\" he said. \"We're not stopping.\"\n\nThat fall, he and Mom opened a college account for me and began putting in whatever money remained at the end of each month.\n\nSome months, there was nothing. At the time, he was also paying child support for two other children.\n\nHe never mentioned the account to me. Mom did.\n\nThat year, everyone at school seemed to be getting cars.\n\nMostly old ones, but they were still cars.\n\nI knew we couldn't afford one, and honestly, I didn't care. When you know exactly what things cost, you stop wishing for them.\n\nThen my seventeenth birthday arrived, and my father showed up.\n\nFourteen years.\n\nHe had never remarried and had no other children.\n\nHe placed his hand on my shoulder as if he had earned the right and led me toward the driveway, where I saw it.\n\nBrand new.\n\n\"Happy birthday, son.\"\n\nMom said nothing.\n\nRay remained near the porch, his hands tucked into his pockets.\n\nMy father smiled at me, but when he spoke, he turned his head toward the porch.\n\n\"Now he knows who his real father is.\"\n\nRay lowered his eyes to the ground.\n\nMy father held the keys out in his open palm, waiting for me to thank him.\n\nEvery word I wanted to say to him was right there.\n\nI could have said everything in front of them and watched him leave with that car.\n\nInstead, I turned toward the porch — \"Ray. Come here a second.\"\n\npart 2 👇👇",
+    "wp_media_id": 1105,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1323-en2.jpg"
+   },
+   "source_key": "post:100044802900629_1613000920203323",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-24 15:00": {
    "langs": {},
@@ -14505,6 +14521,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-22 20:30",
    "status": "used"
+  },
+  "post:100044802900629_1613000920203323": {
+   "fingerprint": "c2dee06bb7f092cf2ec2",
+   "link": "https://www.facebook.com/story.php?story_fbid=1613000920203323&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-24 13:23",
+   "status": "reserved"
   },
   "post:100044802900629_1641682654001816": {
    "fingerprint": "a3cd9c8b67e2cec8cb9b",
