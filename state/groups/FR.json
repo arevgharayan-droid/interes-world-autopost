@@ -69,7 +69,6 @@
   "1011074408765807_122105619764536431": "2026-11-23T17:36:32+00:00",
   "1011074408765807_122105620166536431": "2026-11-22T21:52:55+00:00",
   "1011074408765807_122105655086536431": "2026-11-23T20:06:36+00:00",
-  "1032441206625600_122117215142633539": "2026-11-10T08:07:33+00:00",
   "1032441206625600_122117215352633539": "2026-11-10T11:07:16+00:00",
   "1032441206625600_122117215976633539": "2026-11-10T14:09:40+00:00",
   "1032441206625600_122117216342633539": "2026-11-10T17:06:58+00:00",
@@ -171,7 +170,6 @@
   "1041497042386258_122144405138738075": "2026-11-23T17:37:19+00:00",
   "1041497042386258_122144405792738075": "2026-11-22T21:55:03+00:00",
   "1041497042386258_122144514674738075": "2026-11-23T20:07:26+00:00",
-  "1058598924006917_122109017930457428": "2026-11-10T08:07:40+00:00",
   "1058598924006917_122109018206457428": "2026-11-10T11:07:24+00:00",
   "1058598924006917_122109018638457428": "2026-11-10T14:09:46+00:00",
   "1058598924006917_122109018854457428": "2026-11-10T17:07:04+00:00",
@@ -242,7 +240,6 @@
   "106591088255968_1479426367660093": "2026-11-23T17:38:42+00:00",
   "106591088255968_1479431120992951": "2026-11-22T21:53:30+00:00",
   "106591088255968_1480100167592713": "2026-11-23T20:08:47+00:00",
-  "1079295351933311_122122604391299008": "2026-11-10T08:07:44+00:00",
   "1079295351933311_122122604559299008": "2026-11-10T11:07:28+00:00",
   "1079295351933311_122122605051299008": "2026-11-10T14:09:49+00:00",
   "1079295351933311_122122605297299008": "2026-11-10T17:07:07+00:00",
@@ -344,7 +341,6 @@
   "1103884436136482_122105602820536887": "2026-11-23T17:40:02+00:00",
   "1103884436136482_122105603066536887": "2026-11-22T21:54:33+00:00",
   "1103884436136482_122105622242536887": "2026-11-23T20:10:11+00:00",
-  "1145306638657445_122125229679303172": "2026-11-10T08:07:48+00:00",
   "1145306638657445_122125229871303172": "2026-11-10T11:07:33+00:00",
   "1145306638657445_122125230285303172": "2026-11-10T14:09:52+00:00",
   "1145306638657445_122125230597303172": "2026-11-10T17:07:10+00:00",
@@ -402,7 +398,6 @@
   "1145306638657445_122127104589303172": "2026-11-23T17:40:40+00:00",
   "1145306638657445_122127104919303172": "2026-11-22T21:51:44+00:00",
   "1145306638657445_122127169701303172": "2026-11-23T20:10:51+00:00",
-  "1202025962997153_122121161967409328": "2026-11-10T08:07:54+00:00",
   "1202025962997153_122121162171409328": "2026-11-10T11:07:38+00:00",
   "1202025962997153_122121162579409328": "2026-11-10T14:09:55+00:00",
   "1202025962997153_122121162909409328": "2026-11-10T17:07:14+00:00",
@@ -971,7 +966,6 @@
   "122144405084738075": "2026-11-22T21:48:08+00:00",
   "122144405762738075": "2026-11-22T21:55:03+00:00",
   "122144514644738075": "2026-11-23T13:51:59+00:00",
-  "1250374694822508_122123059515415639": "2026-11-10T08:07:58+00:00",
   "1250374694822508_122123059713415639": "2026-11-10T11:07:42+00:00",
   "1250374694822508_122123060151415639": "2026-11-10T14:09:59+00:00",
   "1250374694822508_122123060523415639": "2026-11-10T17:07:18+00:00",
@@ -1029,7 +1023,6 @@
   "1250374694822508_122124997941415639": "2026-11-23T17:42:00+00:00",
   "1250374694822508_122124998625415639": "2026-11-22T21:50:49+00:00",
   "1250374694822508_122125083165415639": "2026-11-23T20:12:10+00:00",
-  "1260826840455724_122128240743441679": "2026-11-10T08:08:02+00:00",
   "1260826840455724_122128241187441679": "2026-11-10T11:07:45+00:00",
   "1260826840455724_122128241853441679": "2026-11-10T14:10:03+00:00",
   "1260826840455724_122128242399441679": "2026-11-10T17:07:20+00:00",
@@ -1141,147 +1134,6 @@
   "1480100130926050": "2026-11-23T13:50:40+00:00"
  },
  "slots": {
-  "2026-11-10 12:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122117215142633539_1852657662430586",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:32+04:00",
-       "mode": "schedule",
-       "photo_id": "122117215112633539",
-       "post_id": "1032441206625600_122117215142633539",
-       "status": "done"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122109017930457428_29043888051947542",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122109017900457428",
-       "post_id": "1058598924006917_122109017930457428",
-       "status": "done"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122122604391299008_1141693888251211",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:27+04:00",
-       "mode": "schedule",
-       "photo_id": "122122604361299008",
-       "post_id": "1079295351933311_122122604391299008",
-       "status": "done"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122125229679303172_1134284206022678",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:29+04:00",
-       "mode": "schedule",
-       "photo_id": "122125229649303172",
-       "post_id": "1145306638657445_122125229679303172",
-       "status": "done"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122121161967409328_1170603262168835",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:20+04:00",
-       "mode": "schedule",
-       "photo_id": "122121161931409328",
-       "post_id": "1202025962997153_122121161967409328",
-       "status": "done"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122123059515415639_1813756163064467",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:24+04:00",
-       "mode": "schedule",
-       "photo_id": "122123059485415639",
-       "post_id": "1250374694822508_122123059515415639",
-       "status": "done"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122128240743441679_3905535362918143",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:35+04:00",
-       "mode": "schedule",
-       "photo_id": "122128240707441679",
-       "post_id": "1260826840455724_122128240743441679",
-       "status": "done"
-      }
-     },
-     "title": "Je suis allé offrir des fleurs à ma mère adoptive pour ses 60 ans, mais ce que j'ai entendu dans sa cuisine a bouleversé toute ma vie",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 46,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-10T12:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/896978153_122141835201225301_6911952517852491449_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qPfk2Vb-W7kQ7kNvwFgTVVL&_nc_oc=AdrWGGP-rDPcahLDESIWNcXPPy3Y0PkG8scpi1Um7zU5G-czENvEp9y4sT2BiTjKKvo&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=BSmisOiqvMNHQlytEI_hGw&_nc_tpa=Q5bMBQJ-08SOeIVkY4zVMN4xwqzoZSIO43VWTINCnlJQEOxHr9hC3HcWWjxoU4rBsY3JVn7cqapk5lyPIQ&oh=00_AQTd-87TtM04NTdHIqyGiUofchTtIiGHQPXyhW81IBAY9A&oe=6AF7DFA2",
-    "link": "https://www.facebook.com/share/p/1EhW2gK6ca/",
-    "origin": "manual",
-    "page_id": "61586759032853",
-    "text": "Mon frère et moi avons été adoptés quand nous étions enfants. Mais vingt ans plus tard, j’ai entendu par hasard ma mère adoptive dire quelque chose qui a révélé le secret qu’elle nous avait caché toute notre vie.\n\n**PARTIE 1**\n\nMa mère adoptive nous avait toujours traités, mon frère et moi, comme si nous étions un fardeau. Pourtant, je me suis rendu chez elle avec des fleurs pour son anniversaire. C’est alors que je l’ai entendue rire dans la cuisine et dire qu’elle nous avait trompés pendant vingt ans. À cet instant, j’ai compris que je n’étais plus la même personne que celle qui avait franchi la porte d’entrée.\n\nLe trajet jusqu’à la maison de Gwendolyn m’a paru plus long que dans mes souvenirs. Un bouquet de lys blancs était posé sur le siège passager, comme une excuse silencieuse. J’ai serré le volant et essayé d’imaginer son visage s’adoucir lorsqu’elle ouvrirait la porte, même si vingt ans de souvenirs me disaient que cela n’arriverait probablement pas.\n\nPourtant, j’ai continué à rouler.\n\nGrant a ri quand je lui ai raconté ce que je comptais faire ce matin-là.\n\n— Tu vas vraiment chez elle ? Le jour de son anniversaire ?\n\n— C’est la femme qui nous a adoptés, Grant. Ça doit bien vouloir dire quelque chose.\n\nJe ne lui ai pas répondu. Mon frère avait raison.\n\nNous avions trois ans lorsque Gwendolyn et Raymond nous ont adoptés. Ils nous ont raconté que notre mère biologique nous avait abandonnés et qu’elle n’était jamais revenue nous chercher. Pendant des années, ces mots sont restés en moi comme un petit caillou glacé.\n\nRaymond avait toujours essayé de nous faciliter la vie. Il s’asseyait au premier rang à chaque spectacle de l’école et applaudissait plus fort que tout le monde. Il remplissait notre chambre de camions miniatures et nous avait offert deux vélos identiques à Noël.\n\n— Vous êtes tout mon univers, les garçons, nous disait-il. Ne l’oubliez jamais.\n\nMais Gwendolyn était complètement différente.\n\n— Vous devriez être reconnaissants que nous vous ayons recueillis ! lançait-elle chaque fois que l’un de nous laissait une assiette dans l’évier. N’oubliez pas que vous croupiriez dans un orphelinat si nous n’étions pas là !\n\nGrant a appris à se taire.\n\nMoi, j’ai appris à m’excuser.\n\nPuis, quand nous avions dix ans, Raymond est mort.\n\nAprès cela, la maison a semblé perdre le peu de couleur qui lui restait. Il n’y a plus eu de gâteaux d’anniversaire. Plus de nouveaux jouets à Noël. Et le premier rang est resté vide lors de nos spectacles scolaires.\n\nQuand Grant et moi avons terminé le lycée, j’ai demandé à Gwendolyn si elle viendrait à la cérémonie.\n\n— Vous êtes adultes maintenant, Wesley. Vous n’êtes plus sous ma responsabilité, a-t-elle répondu.\n\n— Ce n’est qu’un après-midi, Gwendolyn.\n\nAlors, nous avons continué sans elle. Nous avons fait nos valises, commencé nos études et bâti nos carrières à partir de rien. Grant est devenu ingénieur. Je me suis lancé dans le design. Gwendolyn nous appelait peut-être deux fois par an, généralement pour nous rappeler tout ce qu’elle prétendait avoir sacrifié pour nous.\n\nEt pourtant, le lendemain, je me garais dans son allée avec un bouquet de lys et un cadeau emballé pour ses soixante ans.\n\n— Peut-être que les gens peuvent vraiment changer, me suis-je dit en coupant le moteur.\n\nJ’ai monté les marches du perron. La porte d’entrée n’était pas verrouillée. Je suis entré sans bruit et j’ai retiré mes chaussures, comme Gwendolyn nous avait appris à le faire quand nous étions petits.\n\nJ’ai levé le bouquet, prêt à l’appeler pour lui faire une surprise, sans me douter que les soixante prochaines secondes allaient détruire tout ce que je croyais savoir sur ma propre vie.\n\nPuis, j’ai entendu des voix venant de la cuisine. L’une était celle de Gwendolyn. L’autre, je l’ai reconnue immédiatement.\n\nC’était mamie Opal, la mère de Gwendolyn.\n\n— Ils ne se doutent toujours de rien, maman. Vingt ans, et ils ont TOUJOURS cru tout ce que je leur racontais.\n\n*(Je sais que vous avez envie de connaître la suite. Prenez patience et lisez les commentaires ci-dessous. Merci de votre compréhension. Écrivez « BIEN » en commentaire et laissez un « J’aime » pour que nous puissions publier toute l’histoire.)* 👇",
-    "wp_media_id": 42,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1200-fr.jpg"
-   },
-   "source_key": "post:61586759032853_122141835273225301",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-10 15:00": {
    "langs": {
     "DE": {
