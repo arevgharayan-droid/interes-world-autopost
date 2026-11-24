@@ -22767,6 +22767,12 @@
        "photo_id": "122123447979302807",
        "post_id": "1089456087587677_122123448003302807",
        "status": "published"
+      },
+      "1107966229066828": {
+       "attempts": 1,
+       "last_attempt": "2026-11-24T20:57:24+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "Sześciolatek oddał wszystkie oszczędności samotnej sąsiadce, a rano na jego podwórku stały dziesiątki skarbonek i dwa radiowozy",
