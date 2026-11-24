@@ -56,7 +56,6 @@
   "f855d853b2033f80317b": "2026-11-16T23:51:16+00:00"
  },
  "outputs": {
-  "100633729330404_1137024175692770": "2026-11-10T08:07:33+00:00",
   "100633729330404_1137025459025975": "2026-11-10T11:07:16+00:00",
   "100633729330404_1137026665692521": "2026-11-10T14:09:40+00:00",
   "100633729330404_1137027329025788": "2026-11-10T17:06:59+00:00",
@@ -181,7 +180,6 @@
   "1039695905818788": "2026-11-12T20:03:20+00:00",
   "1040268299094882": "2026-11-13T10:15:25+00:00",
   "1040489155739463": "2026-11-13T14:38:13+00:00",
-  "104114086037068_1036518642803181": "2026-11-10T08:07:41+00:00",
   "104114086037068_1036520752802970": "2026-11-10T11:07:23+00:00",
   "104114086037068_1036521989469513": "2026-11-10T14:09:48+00:00",
   "104114086037068_1036523022802743": "2026-11-10T17:07:05+00:00",
@@ -278,7 +276,6 @@
   "1050256868096025": "2026-11-22T21:40:15+00:00",
   "1050262368095475": "2026-11-22T21:49:00+00:00",
   "1050267241428321": "2026-11-22T21:56:31+00:00",
-  "1060733217128705_122143644686777362": "2026-11-10T08:07:44+00:00",
   "1060733217128705_122143645178777362": "2026-11-10T11:07:28+00:00",
   "1060733217128705_122143645502777362": "2026-11-10T14:09:51+00:00",
   "1060733217128705_122143645760777362": "2026-11-10T17:07:08+00:00",
@@ -337,7 +334,6 @@
   "1060733217128705_122145570308777362": "2026-11-23T14:05:29+00:00",
   "1060733217128705_122145571298777362": "2026-11-23T17:37:36+00:00",
   "1060733217128705_122145572078777362": "2026-11-23T20:07:19+00:00",
-  "106713875762456_1024358560682416": "2026-11-10T08:07:48+00:00",
   "106713875762456_1024359637348975": "2026-11-10T11:07:32+00:00",
   "106713875762456_1024360477348891": "2026-11-10T14:09:55+00:00",
   "106713875762456_1024361257348813": "2026-11-10T17:07:11+00:00",
@@ -448,7 +444,6 @@
   "1150546761007178": "2026-11-22T21:39:00+00:00",
   "1150551997673321": "2026-11-22T21:47:54+00:00",
   "1150558134339374": "2026-11-22T21:55:29+00:00",
-  "1220745651126185_122126214435439195": "2026-11-10T08:07:52+00:00",
   "1220745651126185_122126214831439195": "2026-11-10T11:07:36+00:00",
   "1220745651126185_122126215131439195": "2026-11-10T14:09:57+00:00",
   "1220745651126185_122126215407439195": "2026-11-10T17:07:14+00:00",
@@ -1040,7 +1035,6 @@
   "122337849236241259": "2026-11-22T21:33:38+00:00",
   "122337852068241259": "2026-11-22T21:42:11+00:00",
   "122337853808241259": "2026-11-22T21:50:43+00:00",
-  "233545296514172_122335261598241259": "2026-11-10T08:07:56+00:00",
   "233545296514172_122335262060241259": "2026-11-10T11:07:40+00:00",
   "233545296514172_122335262408241259": "2026-11-10T14:10:02+00:00",
   "233545296514172_122335262678241259": "2026-11-10T17:07:17+00:00",
@@ -1099,7 +1093,6 @@
   "233545296514172_122337849278241259": "2026-11-23T14:07:29+00:00",
   "233545296514172_122337852098241259": "2026-11-23T17:39:39+00:00",
   "233545296514172_122337853838241259": "2026-11-23T20:09:23+00:00",
-  "530022363528890_122175206864720509": "2026-11-10T08:08:00+00:00",
   "530022363528890_122175207242720509": "2026-11-10T11:07:43+00:00",
   "530022363528890_122175207476720509": "2026-11-10T14:10:05+00:00",
   "530022363528890_122175207704720509": "2026-11-10T17:07:20+00:00",
@@ -1158,7 +1151,6 @@
   "530022363528890_122176292486720509": "2026-11-23T14:08:11+00:00",
   "530022363528890_122176293302720509": "2026-11-23T17:40:18+00:00",
   "530022363528890_122176294088720509": "2026-11-23T20:10:03+00:00",
-  "625664190627160_122183718206820020": "2026-11-10T08:08:05+00:00",
   "625664190627160_122183718548820020": "2026-11-10T11:07:48+00:00",
   "625664190627160_122183718794820020": "2026-11-10T14:10:09+00:00",
   "625664190627160_122183719016820020": "2026-11-10T17:07:24+00:00",
@@ -1216,7 +1208,6 @@
   "625664190627160_122185232810820020": "2026-11-23T14:08:53+00:00",
   "625664190627160_122185233764820020": "2026-11-23T17:40:58+00:00",
   "625664190627160_122185234436820020": "2026-11-23T20:10:46+00:00",
-  "648976361631351_122193913904829482": "2026-11-10T08:08:08+00:00",
   "648976361631351_122193914252829482": "2026-11-10T11:07:53+00:00",
   "648976361631351_122193914552829482": "2026-11-10T14:10:14+00:00",
   "648976361631351_122193914780829482": "2026-11-10T17:07:29+00:00",
@@ -1274,7 +1265,6 @@
   "648976361631351_122195564168829482": "2026-11-23T14:09:29+00:00",
   "648976361631351_122195565194829482": "2026-11-23T17:41:36+00:00",
   "648976361631351_122195566040829482": "2026-11-23T20:11:27+00:00",
-  "673710079162922_122243711924895613": "2026-11-10T08:08:12+00:00",
   "673710079162922_122243712116895613": "2026-11-10T11:07:57+00:00",
   "673710079162922_122243712464895613": "2026-11-10T14:10:17+00:00",
   "673710079162922_122243712944895613": "2026-11-10T17:07:32+00:00",
@@ -1332,7 +1322,6 @@
   "673710079162922_122245436570895613": "2026-11-23T14:10:08+00:00",
   "673710079162922_122245437698895613": "2026-11-23T17:42:15+00:00",
   "673710079162922_122245438436895613": "2026-11-23T20:12:05+00:00",
-  "714226118434052_122204783390902657": "2026-11-10T08:08:16+00:00",
   "714226118434052_122204783762902657": "2026-11-10T11:08:02+00:00",
   "714226118434052_122204784044902657": "2026-11-10T14:10:20+00:00",
   "714226118434052_122204784284902657": "2026-11-10T17:07:34+00:00",
@@ -1390,7 +1379,6 @@
   "714226118434052_122206745270902657": "2026-11-23T14:10:48+00:00",
   "714226118434052_122206749170902657": "2026-11-23T17:42:49+00:00",
   "714226118434052_122206750406902657": "2026-11-23T20:12:37+00:00",
-  "892503027289970_122142663153219808": "2026-11-10T08:08:20+00:00",
   "892503027289970_122142663603219808": "2026-11-10T11:08:05+00:00",
   "892503027289970_122142663981219808": "2026-11-10T14:10:24+00:00",
   "892503027289970_122142664209219808": "2026-11-10T17:07:36+00:00",
@@ -1448,7 +1436,6 @@
   "892503027289970_122143950411219808": "2026-11-23T14:11:27+00:00",
   "892503027289970_122143951401219808": "2026-11-23T17:43:26+00:00",
   "892503027289970_122143952079219808": "2026-11-23T20:13:12+00:00",
-  "994273113779575_122138270288776189": "2026-11-10T08:08:24+00:00",
   "994273113779575_122138270750776189": "2026-11-10T11:08:09+00:00",
   "994273113779575_122138271116776189": "2026-11-10T14:10:28+00:00",
   "994273113779575_122138271458776189": "2026-11-10T17:07:41+00:00",
@@ -1509,213 +1496,6 @@
   "994273113779575_122140250006776189": "2026-11-23T20:13:47+00:00"
  },
  "slots": {
-  "2026-11-10 12:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "100633729330404": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1137024175692770_1647641466757306",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:41+04:00",
-       "mode": "schedule",
-       "photo_id": "1137024155692772",
-       "post_id": "100633729330404_1137024175692770",
-       "status": "done"
-      },
-      "104114086037068": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1036518642803181_1874833210356839",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:48+04:00",
-       "mode": "schedule",
-       "photo_id": "1036518586136520",
-       "post_id": "104114086037068_1036518642803181",
-       "status": "done"
-      },
-      "1060733217128705": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122143644686777362_1451927737081761",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:21+04:00",
-       "mode": "schedule",
-       "photo_id": "122143644656777362",
-       "post_id": "1060733217128705_122143644686777362",
-       "status": "done"
-      },
-      "106713875762456": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1024358560682416_1894058091757412",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:44+04:00",
-       "mode": "schedule",
-       "photo_id": "1024358540682418",
-       "post_id": "106713875762456_1024358560682416",
-       "status": "done"
-      },
-      "1220745651126185": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122126214435439195_4676000452612936",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122126214405439195",
-       "post_id": "1220745651126185_122126214435439195",
-       "status": "done"
-      },
-      "233545296514172": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122335261598241259_959605346934608",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:09+04:00",
-       "mode": "schedule",
-       "photo_id": "122335261562241259",
-       "post_id": "233545296514172_122335261598241259",
-       "status": "done"
-      },
-      "530022363528890": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122175206864720509_1495658702409549",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:13+04:00",
-       "mode": "schedule",
-       "photo_id": "122175206834720509",
-       "post_id": "530022363528890_122175206864720509",
-       "status": "done"
-      },
-      "625664190627160": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122183718206820020_1608768304263909",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:24+04:00",
-       "mode": "schedule",
-       "photo_id": "122183718176820020",
-       "post_id": "625664190627160_122183718206820020",
-       "status": "done"
-      },
-      "648976361631351": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122193913904829482_2067402817283174",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:29+04:00",
-       "mode": "schedule",
-       "photo_id": "122193913874829482",
-       "post_id": "648976361631351_122193913904829482",
-       "status": "done"
-      },
-      "673710079162922": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122243711924895613_2197770934507541",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:32+04:00",
-       "mode": "schedule",
-       "photo_id": "122243711894895613",
-       "post_id": "673710079162922_122243711924895613",
-       "status": "done"
-      },
-      "714226118434052": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122204783390902657_1498683572144076",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:34+04:00",
-       "mode": "schedule",
-       "photo_id": "122204783348902657",
-       "post_id": "714226118434052_122204783390902657",
-       "status": "done"
-      },
-      "892503027289970": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122142663153219808_1811880386802744",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122142663123219808",
-       "post_id": "892503027289970_122142663153219808",
-       "status": "done"
-      },
-      "994273113779575": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122138270288776189_2148594455795952",
-       "error": null,
-       "last_attempt": "2026-11-09T23:59:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122138270258776189",
-       "post_id": "994273113779575_122138270288776189",
-       "status": "done"
-      }
-     },
-     "title": "He Handed Me $12 Five Days After My C-Section and Told Me to Take the Bus Home With Our Newborn, Not Knowing My \"Retired Civil Servant\" Father Was a Four-Star General",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 44,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-10T12:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/893625308_122141685831225301_4053949964331180653_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VHDdjnX3jWcQ7kNvwEVuX92&_nc_oc=AdrLoDF-e8X4AQESSZv8V91m3xtE3HYdHmPOeipfMTTmx4-6bw_FmekN-kpEBQCJLJw&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GR4ZNjRgRiVI4ZkyZa5wdA&_nc_tpa=Q5bMBQIo7jkDtOytxfrne_ytf_3Q3UJ7ID8HaN9xIM4w9mCoD74Lh7KeazhHDpr1HNPVyI4cuArv7-zMXA&oh=00_AQTResOmQBbo0ShmDY2QH1CNK1aUfLJ7QBQXf8etLv29oQ&oe=6AF80F96",
-    "link": "https://www.facebook.com/share/p/1Gz15B4yyy/",
-    "origin": "manual",
-    "page_id": "61586759032853",
-    "text": "Cinq jours après ma césarienne, mon mari m’a glissé douze dollars dans la main et m’a ordonné de rentrer chez nous en bus avec notre nouveau-né, pendant qu’il emmenait sa mère déjeuner… à bord de mon SUV de luxe. Ce que Dominic ignorait totalement, c’est que le « fonctionnaire à la retraite » qu’il méprisait si facilement, autrement dit mon père, était en réalité Charles Brooks, un général quatre étoiles de l’armée américaine. Et un simple appel téléphonique de ma part allait tout bouleverser.\n\nJe me tenais sous l’auvent de l’entrée de l’hôpital St. Vincent, à Manhattan, avec Leo, mon bébé de cinq jours à peine, endormi contre ma poitrine. Chaque respiration provoquait une douleur lancinante au niveau de mon incision abdominale. Même rester debout me donnait l’impression qu’un fil métallique se tendait sous ma peau.\n\n« Dominic, dis-je doucement. Tu t’attends vraiment à ce que je prenne le bus ? »\n\nIl consulta sa montre.\n\n« Ma mère m’attend pour déjeuner. Audrey, ne complique pas les choses inutilement. »\n\nPuis il me fourra quelques billets pliés dans la main.\n\nDouze dollars.\n\nDerrière lui se trouvait le SUV blindé noir que mon père m’avait offert avant notre mariage. Avec le temps, Dominic avait commencé à se comporter comme si ce véhicule lui appartenait, car il adorait arriver à ses rendez-vous avec des investisseurs dans une voiture qui lui donnait une apparence importante.\n\nÀ cet instant, Victoria, ma belle-mère, sortit de l’hôpital avec de coûteuses lunettes de soleil de créateur.\n\n« Notre réservation est dans quarante minutes », se plaignit-elle.\n\nDominic se précipita aussitôt pour lui ouvrir la portière.\n\nJ’eus presque envie de rire. Pendant toute ma grossesse, il ne m’avait pas ouvert une seule porte.\n\n« J’ai besoin du sac à langer de Leo », dis-je.\n\nDominic le sortit du SUV et le laissa tomber à mes pieds.\n\nLorsque j’essayai de me pencher pour le ramasser, une douleur si violente me traversa l’abdomen que ma vision se brouilla.\n\nUne infirmière se précipita vers moi.\n\n« Madame, s’il vous plaît, ne vous penchez pas comme ça. Vous venez de subir une intervention chirurgicale abdominale. »\n\nDominic leva les yeux au ciel.\n\n« Est-ce que tout le monde peut arrêter de faire comme s’il s’agissait d’une urgence médicale ? »\n\nÀ cet instant précis, quelque chose s’éteignit en moi. Et soudain, un calme absolu m’envahit.\n\nQuelques minutes plus tard, Dominic partit avec sa mère, son père et sa sœur, qui riaient joyeusement à l’intérieur de mon SUV.\n\nMoi, je restai sur le trottoir, notre nouveau-né dans les bras.\n\nUn bus arriva.\n\nLe chauffeur remarqua mon bracelet d’hôpital et abaissa les marches pour m’aider à monter. Une dame âgée se leva immédiatement pour m’offrir sa place.\n\nLa gentillesse de ces inconnus me fit encore plus mal que la cruauté de Dominic.\n\nTandis que les rues de Manhattan défilaient derrière les vitres, je cessai enfin de chercher des excuses pour justifier mon mariage.\n\nDominic croyait que je n’étais qu’Audrey Brooks, la fille d’un simple fonctionnaire à la retraite.\n\nC’était moi qui l’avais laissé croire cela.\n\nMon père était le général Charles Brooks, un général quatre étoiles de l’armée américaine qui avait passé des décennies à occuper des postes de commandement militaire, de hautes fonctions au Pentagone et des responsabilités stratégiques à l’échelle nationale.\n\nEn grandissant, j’avais très tôt compris que son nom changeait la manière dont les gens me regardaient.\n\nC’est pourquoi, lorsque j’avais rencontré Dominic, j’avais voulu qu’il tombe amoureux de moi, et non du pouvoir ou de l’influence associés à mon père.\n\nUn jour, papa m’avait prévenue :\n\n« Assure-toi de découvrir qui il est vraiment avant de lui révéler qui tu es. »\n\nCe n’est qu’à cet instant que je compris pleinement ses paroles.\n\nJe sortis mon téléphone de mon sac et composai le numéro privé que papa m’avait donné des années auparavant.\n\nIl décrocha immédiatement.\n\n« Audrey ? »\n\n« Papa… j’ai besoin de ton aide. »\n\nLe ton de sa voix changea instantanément.\n\n« Où es-tu ? »\n\n« Dans un bus. »\n\nSilence.\n\nJe lui racontai tout : l’opération, Dominic qui avait pris mon SUV, les douze dollars et la façon dont il nous avait abandonnés, Leo et moi, devant l’hôpital.\n\nQuand j’eus terminé, papa me posa calmement une question.\n\n« Veux-tu retourner avec lui ? »\n\nJe baissai les yeux vers mon bébé endormi.\n\n« Non. »\n\nLa fermeté de ma propre voix me surprit.\n\n« Je veux le quitter. »\n\n« Alors tu l’as déjà quitté. »\n\nAucun sermon. Aucune hésitation.\n\nPuis je lui demandai :\n\n« Le SUV est toujours légalement à mon nom, n’est-ce pas ? »\n\nUne courte pause.\n\n« Absolument. »\n\nMon cœur se mit à battre plus vite.\n\n« Et l’appartement ? »\n\n« Laisse ton avocat t’expliquer cette partie. »\n\nPuis sa voix devint glaciale.\n\n« Ne préviens Dominic de rien. »\n\nÀ l’arrêt suivant, deux berlines noires m’attendaient déjà.\n\nUne femme vêtue d’un élégant tailleur sombre m’aida à monter dans l’un des véhicules, où tout avait été préparé : un siège-auto pour nouveau-né, des bouteilles d’eau, des couvertures et tout ce dont Leo et moi pourrions avoir besoin.\n\nMon téléphone vibra.\n\nDominic.\n\n**« Maman veut aussi utiliser le SUV demain, alors ne prévois rien. »**\n\nQuelques instants plus tard, un autre message arriva.\n\n**« Et range l’appartement avant notre retour. Des investisseurs pourraient passer ce soir. »**\n\nJe fixai l’écran en silence.\n\nDominic était persuadé que j’étais encore en route pour rentrer à la maison, réchauffer les restes du dîner et l’attendre docilement.\n\nIl n’avait absolument aucune idée de qui était réellement mon père.\n\nEt avant même qu’il ait terminé son déjeuner, quelqu’un se tenait déjà à côté de mon SUV, sur le parking du restaurant…\n\n**Avec les documents de propriété à la main.**",
-    "wp_media_id": 39,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261110-1200-en2.jpg"
-   },
-   "source_key": "post:61586759032853_122141685909225301",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-10 15:00": {
    "langs": {
     "DE": {
