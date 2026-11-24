@@ -13977,12 +13977,14 @@
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132565873418602_1626946729178674",
        "error": null,
        "last_attempt": "2026-11-24T20:47:42+04:00",
        "mode": "immediate",
        "photo_id": "122132565849418602",
        "post_id": "1208422892355505_122132565873418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
@@ -13995,27 +13997,32 @@
       },
       "363312640206172": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122204284952461850_1462268415865405",
        "error": null,
        "last_attempt": "2026-11-24T20:46:21+04:00",
        "mode": "immediate",
        "photo_id": "122204284928461850",
        "post_id": "363312640206172_122204284952461850",
-       "status": "published"
+       "status": "done"
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229671798543856_1729130925458424",
        "error": null,
        "last_attempt": "2026-11-24T20:47:00+04:00",
        "mode": "immediate",
        "photo_id": "122229671768543856",
        "post_id": "444776585382502_122229671798543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Er ist 29, Single und kämpft vor Gericht für fünf Geschwister unter sieben – dann stellt der Richter die eine Frage, die den ganzen Saal verstummen lässt",
      "warnings": [],
      "wp_error": null,
      "wp_id": 1136,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -14041,48 +14048,58 @@
      "pages": {
       "1144269682096701": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125937061304553_1855860172235278",
        "error": null,
        "last_attempt": "2026-11-24T20:43:39+04:00",
        "mode": "immediate",
        "photo_id": "122125937037304553",
        "post_id": "1144269682096701_122125937061304553",
-       "status": "published"
+       "status": "done"
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131716621424769_2027147727956384",
        "error": null,
        "last_attempt": "2026-11-24T20:45:41+04:00",
        "mode": "immediate",
        "photo_id": "122131716597424769",
        "post_id": "1180417388497186_122131716621424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131872111430924_1634107248731941",
        "error": null,
        "last_attempt": "2026-11-24T20:44:59+04:00",
        "mode": "immediate",
        "photo_id": "122131872087430924",
        "post_id": "1205543595981082_122131872111430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135767629306170_4079041172403664",
        "error": null,
        "last_attempt": "2026-11-24T20:42:58+04:00",
        "mode": "immediate",
        "photo_id": "122135767605306170",
        "post_id": "1210451145474950_122135767629306170",
-       "status": "published"
+       "status": "done"
       },
       "1239848699214091": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128157817439695_1538257988135105",
        "error": null,
        "last_attempt": "2026-11-24T20:44:18+04:00",
        "mode": "immediate",
        "photo_id": "122128157787439695",
        "post_id": "1239848699214091_122128157817439695",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,

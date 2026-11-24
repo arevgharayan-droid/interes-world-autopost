@@ -16315,12 +16315,14 @@
      "pages": {
       "1016419758218222": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122148409863204972_1453233120349992",
        "error": null,
        "last_attempt": "2026-11-24T20:44:47+04:00",
        "mode": "immediate",
        "photo_id": "122148409839204972",
        "post_id": "1016419758218222_122148409863204972",
-       "status": "published"
+       "status": "done"
       },
       "108881571809093": {
        "attempts": 1,
@@ -16342,21 +16344,25 @@
       },
       "1165836896614851": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122146714611384677_1145948064488765",
        "error": null,
        "last_attempt": "2026-11-24T20:42:47+04:00",
        "mode": "immediate",
        "photo_id": "122146714587384677",
        "post_id": "1165836896614851_122146714611384677",
-       "status": "published"
+       "status": "done"
       },
       "1167352663135230": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122149078251384760_1107613125427533",
        "error": null,
        "last_attempt": "2026-11-24T20:42:15+04:00",
        "mode": "immediate",
        "photo_id": "122149078221384760",
        "post_id": "1167352663135230_122149078251384760",
-       "status": "published"
+       "status": "done"
       },
       "117220714573166": {
        "attempts": 1,
@@ -16378,12 +16384,14 @@
       },
       "1235940142932696": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120018583408404_1956872601955769",
        "error": null,
        "last_attempt": "2026-11-24T20:41:58+04:00",
        "mode": "immediate",
        "photo_id": "122120018559408404",
        "post_id": "1235940142932696_122120018583408404",
-       "status": "published"
+       "status": "done"
       },
       "162144310308183": {
        "attempts": 1,
@@ -16450,30 +16458,36 @@
       },
       "914823471720372": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122149570161209718_1632867461949631",
        "error": null,
        "last_attempt": "2026-11-24T20:43:28+04:00",
        "mode": "immediate",
        "photo_id": "122149570137209718",
        "post_id": "914823471720372_122149570161209718",
-       "status": "published"
+       "status": "done"
       },
       "921611111039858": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122145513729200344_2597360260778180",
        "error": null,
        "last_attempt": "2026-11-24T20:44:06+04:00",
        "mode": "immediate",
        "photo_id": "122145513705200344",
        "post_id": "921611111039858_122145513729200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122151081699209153_30540009358922957",
        "error": null,
        "last_attempt": "2026-11-24T20:45:30+04:00",
        "mode": "immediate",
        "photo_id": "122151081675209153",
        "post_id": "975714512286925_122151081699209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Daughter Vanished in Egypt 20 Years Ago, Then a Postcard From Cairo Led Me to a Garage Near Home",

@@ -14399,21 +14399,25 @@
      "pages": {
       "100633729330404": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1152480547480466_2210853282794959",
        "error": null,
        "last_attempt": "2026-11-24T20:47:17+04:00",
        "mode": "immediate",
        "photo_id": "1152480520813802",
        "post_id": "100633729330404_1152480547480466",
-       "status": "published"
+       "status": "done"
       },
       "104114086037068": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1052238637897848_1687297873069129",
        "error": null,
        "last_attempt": "2026-11-24T20:48:38+04:00",
        "mode": "immediate",
        "photo_id": "1052238541231191",
        "post_id": "104114086037068_1052238637897848",
-       "status": "published"
+       "status": "done"
       },
       "1060733217128705": {
        "attempts": 1,
@@ -14428,12 +14432,14 @@
       },
       "106713875762456": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1039471452504460_1415922697288084",
        "error": null,
        "last_attempt": "2026-11-24T20:47:59+04:00",
        "mode": "immediate",
        "photo_id": "1039471425837796",
        "post_id": "106713875762456_1039471452504460",
-       "status": "published"
+       "status": "done"
       },
       "1220745651126185": {
        "attempts": 1,
@@ -14479,39 +14485,47 @@
       },
       "648976361631351": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122195815142829482_1176298911643182",
        "error": null,
        "last_attempt": "2026-11-24T20:44:35+04:00",
        "mode": "immediate",
        "photo_id": "122195815106829482",
        "post_id": "648976361631351_122195815142829482",
-       "status": "published"
+       "status": "done"
       },
       "673710079162922": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122245662086895613_1874102833623094",
        "error": null,
        "last_attempt": "2026-11-24T20:45:18+04:00",
        "mode": "immediate",
        "photo_id": "122245662050895613",
        "post_id": "673710079162922_122245662086895613",
-       "status": "published"
+       "status": "done"
       },
       "714226118434052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122207022974902657_1667317661708718",
        "error": null,
        "last_attempt": "2026-11-24T20:45:59+04:00",
        "mode": "immediate",
        "photo_id": "122207022932902657",
        "post_id": "714226118434052_122207022974902657",
-       "status": "published"
+       "status": "done"
       },
       "892503027289970": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144123337219808_1122757290385529",
        "error": null,
        "last_attempt": "2026-11-24T20:46:38+04:00",
        "mode": "immediate",
        "photo_id": "122144123301219808",
        "post_id": "892503027289970_122144123337219808",
-       "status": "published"
+       "status": "done"
       },
       "994273113779575": {
        "attempts": 1,
