@@ -16336,12 +16336,13 @@
       "621364207735841": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122215051436909607_1205064642200444",
        "error": null,
        "last_attempt": "2026-11-24T16:37:59+04:00",
        "mode": "immediate",
        "photo_id": "122215051412909607",
        "post_id": "621364207735841_122215051436909607",
-       "status": "published"
+       "status": "done"
       },
       "708817825659143": {
        "attempts": 1,
