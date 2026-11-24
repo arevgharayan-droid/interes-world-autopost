@@ -8150,7 +8150,10 @@
      "title": "كتبت لي ابنتي «العائلة المباشرة فقط»، فرددت بكلمة واحدة، وصباح الميلاد وصل حفيداي على دراجتيهما في الثلج",
      "warnings": [
       "длина текста FB 520 слов (исходник 683, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 724,
+     "wp_status": "publish"
     },
     "CS": {
      "pages": {},
@@ -8228,6 +8231,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-24T16:27:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/911689462_122144028369140985_7477797625324743667_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZCLxibeTwicQ7kNvwGN_KbS&_nc_oc=AdoKLDj4jXsp5Sfr3uPKFKiEtjqiFIWV5mB5nNppxFnQQ5ENC9cqJcXsWDgsnTeYquA&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KcxzkiRM3OWZoo2HCHjhIw&_nc_tpa=Q5bMBQK14lx6I38sON1L7e_WhKSXk7OPMn_1iTdnK9Oj8AWhzCE0MLId3nLvlLReH3vLvrC6mBiczGcx0Q&oh=00_AQSlBER-MNhwzlrPJKAQ1Itf_ueMtTCaDpGBNsUdoRvd6w&oe=6B0B4924",
@@ -8239,7 +8243,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-1627-mix.jpg"
    },
    "source_key": "post:61584229563994_122124243879140985",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -8573,7 +8577,7 @@
    "origin": "manual",
    "page_id": "61584229563994",
    "slot": "2026-11-24 16:27",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122154601647170576": {
    "fingerprint": "f6c5799d6a773f429d04",

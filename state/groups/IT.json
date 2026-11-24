@@ -22190,7 +22190,10 @@
      "title": "Trenér posadil šestnáctiletého Eliho na lavičku, protože rodina nezaplatila 2 000 dolarů. Pak vstal jeho osmdesátiletý pradědeček a zeptal se, kdo zaplatil stadionové reflektory",
      "warnings": [
       "длина текста FB 700 слов (исходник 928, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 1125,
+     "wp_status": "publish"
     },
     "DE": {
      "pages": {},
@@ -22257,6 +22260,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-24T16:27:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/910305041_122143704639140985_370541719204966279_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HDqpYxTvl6QQ7kNvwGxIKTT&_nc_oc=AdpNpc_wXq-R0n0IIu-9pr6HcXpj0KnHfz5KAGGY7-iVUdCKQgFEsHFbGi88rnC_Rp8&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=T4_hqY7dKB0oBJVms4gT3Q&_nc_tpa=Q5bMBQIKecUzx6IV82_G2M7WQ0StIBYtQRbClESYvz6YpBUokBpgoKMGwP_hXzFrVWQXPmfT4NJtGynXjg&oh=00_AQTzQcFf988qcFi1bRfHVSIx2E78HZrMDp-XkeqUw-5HQA&oe=6B0B70CE",
@@ -22268,7 +22272,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261124-1627-it.jpg"
    },
    "source_key": "post:61584229563994_122123006853140985",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -22882,7 +22886,7 @@
    "origin": "manual",
    "page_id": "61584229563994",
    "slot": "2026-11-24 16:27",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122154606699170576": {
    "fingerprint": "c5d592a39ff41d658681",
