@@ -22113,36 +22113,43 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129780349306316_4769076706706937",
        "error": null,
        "last_attempt": "2026-11-24T16:46:19+04:00",
        "mode": "immediate",
        "photo_id": "122129780325306316",
        "post_id": "1138572272664180_122129780349306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120506041471857_1029168403558204",
        "error": null,
        "last_attempt": "2026-11-24T16:45:55+04:00",
        "mode": "immediate",
        "photo_id": "122120506011471857",
        "post_id": "1338630212673029_122120506041471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123226381505599_1620298453204961",
        "error": null,
        "last_attempt": "2026-11-24T16:45:32+04:00",
        "mode": "immediate",
        "photo_id": "122123226357505599",
        "post_id": "1448441201677530_122123226381505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Meu marido desapareceu com nossos gêmeos numa pescaria — 7 anos depois, minha filha me mostrou o vídeo que ele deixou para ela",
      "warnings": [],
      "wp_error": null,
      "wp_id": 723,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -22411,12 +22418,14 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125431987304633_1705163644554758",
        "error": null,
        "last_attempt": "2026-11-24T16:44:47+04:00",
        "mode": "immediate",
        "photo_id": "122125431963304633",
        "post_id": "1083701291497481_122125431987304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
@@ -22432,21 +22441,24 @@
       "1164575726728296": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128107735307134_1662143025366066",
        "error": null,
        "last_attempt": "2026-11-24T16:44:23+04:00",
        "mode": "immediate",
        "photo_id": "122128107711307134",
        "post_id": "1164575726728296_122128107735307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124457149305562_1981183722842979",
        "error": null,
        "last_attempt": "2026-11-24T16:45:09+04:00",
        "mode": "immediate",
        "photo_id": "122124457125305562",
        "post_id": "1180583925128715_122124457149305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Kocam İkizlerimizle Balığa Çıktı ve Bir Daha Dönmedi: 7 Yıl Sonra Kızım Telefonu Uzatıp \"Babam Gitmeden Önceki Gece Bana Bir Video Gönderdi\" Dedi",
@@ -22475,7 +22487,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261124-1627-ru.jpg"
    },
    "source_key": "post:100086378217913_1006843655538232",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
