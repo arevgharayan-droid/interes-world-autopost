@@ -21833,12 +21833,13 @@
       "1008693642337213": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122119099418640467_1708316260689520",
        "error": null,
        "last_attempt": "2026-11-24T13:25:37+04:00",
        "mode": "immediate",
        "photo_id": "122119099394640467",
        "post_id": "1008693642337213_122119099418640467",
-       "status": "published"
+       "status": "done"
       },
       "1018759874664543": {
        "attempts": 1,
