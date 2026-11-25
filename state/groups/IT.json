@@ -23502,7 +23502,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1083785318156771": {
+       "attempts": 1,
+       "last_attempt": "2026-11-25T22:15:10+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Wróciłem z misji tydzień przed narodzinami czterech córek, a zamiast żony lekarz podał mi jej ostatni list, który zaczynał się od wyznania",
      "warnings": [],
      "wp_error": null,
