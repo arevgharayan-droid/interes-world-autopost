@@ -19,6 +19,7 @@
   "0febb3e08517debf9ca4": "2026-11-12T09:04:38+00:00",
   "10f20c4033c5982d7320": "2026-11-15T10:15:20+00:00",
   "120fae17c366708f1b15": "2026-11-18T08:52:36+00:00",
+  "12ecfa4926d7c6b5b5e1": "2026-11-25T22:46:35+00:00",
   "131aaa912b9beae262e7": "2026-11-17T12:29:11+00:00",
   "13a340f5c6e650d35e88": "2026-11-19T17:35:44+00:00",
   "16a40eb5e28e6cd1c606": "2026-11-19T22:01:08+00:00",
@@ -82,6 +83,7 @@
   "5f9249386ed69476bd2e": "2026-11-22T19:48:34+00:00",
   "5ff512b122746f16012b": "2026-11-20T19:26:10+00:00",
   "612d573016ec1c5562f3": "2026-11-22T19:48:34+00:00",
+  "61e9a832ff287c7af5e7": "2026-11-25T22:46:35+00:00",
   "621d8638ecdca37c7909": "2026-11-15T10:15:20+00:00",
   "66da1067d99e1be59d56": "2026-11-12T10:26:34+00:00",
   "6af945ecc88d985562e4": "2026-11-17T20:47:52+00:00",
@@ -24069,7 +24071,83 @@
    }
   },
   "2026-11-26 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "На похоронах жены сын отрезал мне содержание, а Кендра улыбалась, но к полуночи на моём телефоне было 140 звонков, и они узнали, чей это дом",
+     "warnings": [
+      "часть 1 не обрывается на «…»"
+     ],
+     "wp_error": null,
+     "wp_id": 793,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Eşimin cenazesinde oğlum harçlığımı kesti, ben valizimi alıp kayboldum; gece yarısı 140 cevapsız çağrı düştü, çünkü oturdukları evin gerçek sahibini öğrenmişlerdi",
+     "warnings": [
+      "часть 3: 407 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 794,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/928143438_122156512245170576_8142820190633041226_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=drgZVbLQdeYQ7kNvwFYXq00&_nc_oc=Ado0zoDz_0W6wK6OHKZZ2hW60cgS3JKPgLu8bdU7gOD8RLfZqKeTlCgwZdVhKkkBmgA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Hh4_ThMOqc9nGCcia9lN5A&_nc_tpa=Q5bMBQKsLiac5Gbg9nQ1V4T6mBdwNfhwBQ3gGITdT9ZUqybbAyreGR2jhZp_ZH1W36V2_wlJrCqHclfDOQ&oh=00_AQSwflWFacNCZFinVJ0TvOmpc5QFPEJxRwfSLrZ2gP89oA&oe=6B0D1C6C",
@@ -24081,7 +24159,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1200-ru.jpg"
    },
    "source_key": "post:61585117295331_122156512275170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -25161,7 +25239,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-26 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122143810737210709": {
    "fingerprint": "5b16116dc7df14500fc7",
