@@ -34,6 +34,7 @@
   "aa503d9655a302d21d57": "2026-11-14T09:18:04+00:00",
   "ad130c15729ad1a41316": "2026-11-19T17:17:43+00:00",
   "b094df1fc1c2da2733f6": "2026-11-12T10:26:33+00:00",
+  "b1b76d5b33db03a81641": "2026-11-25T11:44:24+00:00",
   "bb2f93acd716a89559fd": "2026-11-16T10:16:47+00:00",
   "bb6775e0f7693f38a811": "2026-11-16T20:28:20+00:00",
   "bc0fa73c3a728155dad8": "2026-11-20T22:45:41+00:00",
@@ -11625,7 +11626,72 @@
   },
   "2026-11-25 15:43": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle est arrivée aux 60 ans de son père avec son bébé de trois mois, traitée de « bouche inutile », jusqu'à ce qu'un commando de marine lui fasse le salut militaire devant toute la salle",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1161,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T15:43:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/916954461_122106959678556305_357633228050216239_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Z95g7UaBWrAQ7kNvwES1qBf&_nc_oc=Adre2p20nT3zRnNp74GJaDY1G8GzFcRzAKWweQU46leEI91a7NWrK8RJLvERpkv4d2M&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=H_Us5JxG7pNJ0H-WYBs3CA&_nc_tpa=Q5bMBQLIPT1dkxwXa7JBRxLYC9kdecnc2zVzzx_5LjacC2PWoTMeCoclP4jqZ8A8B3zeYlWy6BRTppW21A&oh=00_AQSbmNgfPP_xw18HPGl5UzYUsZ5BhlHXX9zBjrgsWz5TBw&oe=6B0C8A4A",
@@ -11637,7 +11703,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1543-fr.jpg"
    },
    "source_key": "post:61566689175708_122106959702556305",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12230,7 +12296,7 @@
    "origin": "manual",
    "page_id": "61566689175708",
    "slot": "2026-11-25 15:43",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61573363363721_122138955182778778": {
    "fingerprint": "180b52b68fc18c307f20",

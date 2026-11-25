@@ -16027,7 +16027,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1235940142932696": {
+       "attempts": 1,
+       "last_attempt": "2026-11-25T15:44:24+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "He Smirked at Me in Court and Said I’d Be Begging in a Week, Then the Doors Burst Open and a Billionaire Called Me His Daughter",
      "warnings": [],
      "wp_error": null,
