@@ -16309,12 +16309,14 @@
       },
       "108881571809093": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1171381435568809_4576760345932092",
        "error": null,
        "last_attempt": "2026-11-25T22:07:20+04:00",
        "mode": "immediate",
        "photo_id": "1171381408902145",
        "post_id": "108881571809093_1171381435568809",
-       "status": "published"
+       "status": "done"
       },
       "1164984823367955": {
        "attempts": 1,
@@ -16349,12 +16351,14 @@
       },
       "117220714573166": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1161573280139233_4840512982843512",
        "error": null,
        "last_attempt": "2026-11-25T22:05:59+04:00",
        "mode": "immediate",
        "photo_id": "1161573266805901",
        "post_id": "117220714573166_1161573280139233",
-       "status": "published"
+       "status": "done"
       },
       "1210639158790064": {
        "attempts": 1,
@@ -16378,39 +16382,47 @@
       },
       "162144310308183": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122263136498093350_2054545835922587",
        "error": null,
        "last_attempt": "2026-11-25T22:06:39+04:00",
        "mode": "immediate",
        "photo_id": "122263136468093350",
        "post_id": "162144310308183_122263136498093350",
-       "status": "published"
+       "status": "done"
       },
       "220697507802568": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122344971590237583_2431633340576290",
        "error": null,
        "last_attempt": "2026-11-25T22:05:21+04:00",
        "mode": "immediate",
        "photo_id": "122344971566237583",
        "post_id": "220697507802568_122344971590237583",
-       "status": "published"
+       "status": "done"
       },
       "236129656261330": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122231146388294596_1088492714244210",
        "error": null,
        "last_attempt": "2026-11-25T22:04:41+04:00",
        "mode": "immediate",
        "photo_id": "122231146364294596",
        "post_id": "236129656261330_122231146388294596",
-       "status": "published"
+       "status": "done"
       },
       "237939756073256": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122358112100234096_1028767976968448",
        "error": null,
        "last_attempt": "2026-11-25T22:08:00+04:00",
        "mode": "immediate",
        "photo_id": "122358112070234096",
        "post_id": "237939756073256_122358112100234096",
-       "status": "published"
+       "status": "done"
       },
       "353293117873308": {
        "attempts": 1,
@@ -16463,12 +16475,14 @@
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122151193341209153_1831960151377184",
        "error": null,
        "last_attempt": "2026-11-25T22:03:59+04:00",
        "mode": "immediate",
        "photo_id": "122151193317209153",
        "post_id": "975714512286925_122151193341209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My husband packed the car with gifts for his family and told me and our four-year-old to take the bus, but he had no idea where we were really going",

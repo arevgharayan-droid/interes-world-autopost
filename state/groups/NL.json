@@ -14390,75 +14390,91 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133374013310273_993326536726495",
        "error": null,
        "last_attempt": "2026-11-25T22:09:49+04:00",
        "mode": "immediate",
        "photo_id": "122133373989310273",
        "post_id": "1028964020310052_122133374013310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131163733321366_1505405817928389",
        "error": null,
        "last_attempt": "2026-11-25T22:10:29+04:00",
        "mode": "immediate",
        "photo_id": "122131163709321366",
        "post_id": "1089186904280406_122131163733321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128558743309032_1160235933156494",
        "error": null,
        "last_attempt": "2026-11-25T22:08:29+04:00",
        "mode": "immediate",
        "photo_id": "122128558719309032",
        "post_id": "1102464712951594_122128558743309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126663805316035_2304175833767426",
        "error": null,
        "last_attempt": "2026-11-25T22:09:08+04:00",
        "mode": "immediate",
        "photo_id": "122126663775316035",
        "post_id": "1129908326870761_122126663805316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132797605418602_3665233900312017",
        "error": null,
        "last_attempt": "2026-11-25T22:07:08+04:00",
        "mode": "immediate",
        "photo_id": "122132797539418602",
        "post_id": "1208422892355505_122132797605418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135289237436382_1482653977179137",
        "error": null,
        "last_attempt": "2026-11-25T22:07:49+04:00",
        "mode": "immediate",
        "photo_id": "122135289213436382",
        "post_id": "1268633826332790_122135289237436382",
-       "status": "published"
+       "status": "done"
       },
       "363312640206172": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122204377016461850_2880536002319384",
        "error": null,
        "last_attempt": "2026-11-25T22:05:48+04:00",
        "mode": "immediate",
        "photo_id": "122204376992461850",
        "post_id": "363312640206172_122204377016461850",
-       "status": "published"
+       "status": "done"
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229789872543856_2242635056295335",
        "error": null,
        "last_attempt": "2026-11-25T22:06:27+04:00",
        "mode": "immediate",
        "photo_id": "122229789848543856",
        "post_id": "444776585382502_122229789872543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Am Tag meines 73-Millionen-Gewinns brachte mein Mann eine andere Frau nach Hause und warf mich raus, doch als ich ihn fragte, ob er sich sicher sei, lachte er – ohne zu ahnen, was in meiner Tasche steckte",
@@ -14615,7 +14631,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-2159-nl.jpg"
    },
    "source_key": "post:61576792898556_122132426972893096",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
