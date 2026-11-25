@@ -55,7 +55,6 @@
   "f855d853b2033f80317b": "2026-11-16T23:51:16+00:00"
  },
  "outputs": {
-  "100633729330404_1138173822244472": "2026-11-11T11:14:19+00:00",
   "100633729330404_1138174792244375": "2026-11-11T14:08:21+00:00",
   "100633729330404_1138175905577597": "2026-11-11T17:06:50+00:00",
   "100633729330404_1138176818910839": "2026-11-11T20:06:11+00:00",
@@ -172,7 +171,6 @@
   "1040193775765561": "2026-11-25T09:51:30+00:00",
   "1040268299094882": "2026-11-13T10:15:25+00:00",
   "1040489155739463": "2026-11-13T14:38:13+00:00",
-  "104114086037068_1037614632693582": "2026-11-11T11:14:24+00:00",
   "104114086037068_1037615356026843": "2026-11-11T14:08:27+00:00",
   "104114086037068_1037616342693411": "2026-11-11T17:06:56+00:00",
   "104114086037068_1037617129359999": "2026-11-11T20:06:19+00:00",
@@ -271,7 +269,6 @@
   "1052009491254096": "2026-11-24T12:34:26+00:00",
   "1052238541231191": "2026-11-24T16:48:42+00:00",
   "1052951794493199": "2026-11-25T09:52:12+00:00",
-  "1060733217128705_122143800224777362": "2026-11-11T11:14:27+00:00",
   "1060733217128705_122143800332777362": "2026-11-11T14:08:31+00:00",
   "1060733217128705_122143800602777362": "2026-11-11T17:06:58+00:00",
   "1060733217128705_122143800956777362": "2026-11-11T20:06:21+00:00",
@@ -328,7 +325,6 @@
   "1060733217128705_122145799646777362": "2026-11-24T12:29:25+00:00",
   "1060733217128705_122145823736777362": "2026-11-24T16:43:19+00:00",
   "1060733217128705_122145981344777362": "2026-11-25T09:46:55+00:00",
-  "106713875762456_1025492790568993": "2026-11-11T11:14:31+00:00",
   "106713875762456_1025493583902247": "2026-11-11T14:08:36+00:00",
   "106713875762456_1025494683902137": "2026-11-11T17:07:03+00:00",
   "106713875762456_1025495487235390": "2026-11-11T20:06:25+00:00",
@@ -436,7 +432,6 @@
   "1152246594170528": "2026-11-24T12:33:05+00:00",
   "1152480520813802": "2026-11-24T16:47:21+00:00",
   "1153202797408241": "2026-11-25T09:50:50+00:00",
-  "1220745651126185_122126463195439195": "2026-11-11T11:14:33+00:00",
   "1220745651126185_122126463579439195": "2026-11-11T14:08:38+00:00",
   "1220745651126185_122126463969439195": "2026-11-11T17:07:07+00:00",
   "1220745651126185_122126464293439195": "2026-11-11T20:06:27+00:00",
@@ -1016,7 +1011,6 @@
   "122338135412241259": "2026-11-24T12:29:03+00:00",
   "122338169870241259": "2026-11-24T16:41:56+00:00",
   "122338320734241259": "2026-11-25T09:45:02+00:00",
-  "233545296514172_122335668068241259": "2026-11-11T11:14:37+00:00",
   "233545296514172_122335668368241259": "2026-11-11T14:08:41+00:00",
   "233545296514172_122335668626241259": "2026-11-11T17:07:12+00:00",
   "233545296514172_122335669064241259": "2026-11-11T20:06:30+00:00",
@@ -1073,7 +1067,6 @@
   "233545296514172_122338135448241259": "2026-11-24T12:29:03+00:00",
   "233545296514172_122338169936241259": "2026-11-24T16:41:56+00:00",
   "233545296514172_122338320758241259": "2026-11-25T09:45:02+00:00",
-  "530022363528890_122175295406720509": "2026-11-11T11:14:40+00:00",
   "530022363528890_122175295640720509": "2026-11-11T14:08:44+00:00",
   "530022363528890_122175295946720509": "2026-11-11T17:07:15+00:00",
   "530022363528890_122175296252720509": "2026-11-11T20:06:33+00:00",
@@ -1130,7 +1123,6 @@
   "530022363528890_122176433366720509": "2026-11-24T12:29:11+00:00",
   "530022363528890_122176455044720509": "2026-11-24T16:42:14+00:00",
   "530022363528890_122176536164720509": "2026-11-25T09:45:36+00:00",
-  "625664190627160_122183828264820020": "2026-11-11T11:14:43+00:00",
   "625664190627160_122183828546820020": "2026-11-11T14:08:48+00:00",
   "625664190627160_122183828804820020": "2026-11-11T17:07:18+00:00",
   "625664190627160_122183829296820020": "2026-11-11T20:06:36+00:00",
@@ -1186,7 +1178,6 @@
   "625664190627160_122185435238820020": "2026-11-24T12:29:45+00:00",
   "625664190627160_122185455218820020": "2026-11-24T16:43:59+00:00",
   "625664190627160_122185529642820020": "2026-11-25T09:47:37+00:00",
-  "648976361631351_122194054538829482": "2026-11-11T11:14:48+00:00",
   "648976361631351_122194054688829482": "2026-11-11T14:08:53+00:00",
   "648976361631351_122194054880829482": "2026-11-11T17:07:22+00:00",
   "648976361631351_122194055024829482": "2026-11-11T20:06:39+00:00",
@@ -1242,7 +1233,6 @@
   "648976361631351_122195794682829482": "2026-11-24T12:30:19+00:00",
   "648976361631351_122195815142829482": "2026-11-24T16:44:39+00:00",
   "648976361631351_122195905232829482": "2026-11-25T09:48:15+00:00",
-  "673710079162922_122243855912895613": "2026-11-11T11:14:51+00:00",
   "673710079162922_122243856326895613": "2026-11-11T14:08:56+00:00",
   "673710079162922_122243856590895613": "2026-11-11T17:07:26+00:00",
   "673710079162922_122243856908895613": "2026-11-11T20:06:42+00:00",
@@ -1298,7 +1288,6 @@
   "673710079162922_122245643594895613": "2026-11-24T12:31:00+00:00",
   "673710079162922_122245662086895613": "2026-11-24T16:45:22+00:00",
   "673710079162922_122245752770895613": "2026-11-25T09:48:52+00:00",
-  "714226118434052_122204972660902657": "2026-11-11T11:14:54+00:00",
   "714226118434052_122204972804902657": "2026-11-11T14:08:59+00:00",
   "714226118434052_122204973248902657": "2026-11-11T17:07:28+00:00",
   "714226118434052_122204973728902657": "2026-11-11T20:06:46+00:00",
@@ -1354,7 +1343,6 @@
   "714226118434052_122206992404902657": "2026-11-24T12:31:41+00:00",
   "714226118434052_122207022974902657": "2026-11-24T16:46:03+00:00",
   "714226118434052_122207130674902657": "2026-11-25T09:49:33+00:00",
-  "892503027289970_122142764835219808": "2026-11-11T11:14:57+00:00",
   "892503027289970_122142765075219808": "2026-11-11T14:09:02+00:00",
   "892503027289970_122142765417219808": "2026-11-11T17:07:33+00:00",
   "892503027289970_122142765765219808": "2026-11-11T20:06:49+00:00",
@@ -1410,7 +1398,6 @@
   "892503027289970_122144097663219808": "2026-11-24T12:32:24+00:00",
   "892503027289970_122144123337219808": "2026-11-24T16:46:42+00:00",
   "892503027289970_122144194317219808": "2026-11-25T09:50:14+00:00",
-  "994273113779575_122138443958776189": "2026-11-11T11:15:01+00:00",
   "994273113779575_122138444210776189": "2026-11-11T14:09:05+00:00",
   "994273113779575_122138444540776189": "2026-11-11T17:07:36+00:00",
   "994273113779575_122138444984776189": "2026-11-11T20:06:52+00:00",
@@ -1469,213 +1456,6 @@
   "994273113779575_122140601996776189": "2026-11-25T09:46:17+00:00"
  },
  "slots": {
-  "2026-11-11 15:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "100633729330404": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1138173822244472_1666071098224693",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:58+04:00",
-       "mode": "schedule",
-       "photo_id": "1138173795577808",
-       "post_id": "100633729330404_1138173822244472",
-       "status": "done"
-      },
-      "104114086037068": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1037614632693582_1487232170177783",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:03+04:00",
-       "mode": "schedule",
-       "photo_id": "1037614616026917",
-       "post_id": "104114086037068_1037614632693582",
-       "status": "done"
-      },
-      "1060733217128705": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122143800224777362_1496184069027836",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122143800194777362",
-       "post_id": "1060733217128705_122143800224777362",
-       "status": "done"
-      },
-      "106713875762456": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1025492790568993_1099698416212084",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:01+04:00",
-       "mode": "schedule",
-       "photo_id": "1025492760568996",
-       "post_id": "106713875762456_1025492790568993",
-       "status": "done"
-      },
-      "1220745651126185": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122126463195439195_1122417503848893",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:06+04:00",
-       "mode": "schedule",
-       "photo_id": "122126463159439195",
-       "post_id": "1220745651126185_122126463195439195",
-       "status": "done"
-      },
-      "233545296514172": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122335668068241259_2268025637462686",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:32+04:00",
-       "mode": "schedule",
-       "photo_id": "122335668038241259",
-       "post_id": "233545296514172_122335668068241259",
-       "status": "done"
-      },
-      "530022363528890": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122175295406720509_1774764153639046",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:35+04:00",
-       "mode": "schedule",
-       "photo_id": "122175295370720509",
-       "post_id": "530022363528890_122175295406720509",
-       "status": "done"
-      },
-      "625664190627160": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122183828264820020_1831563934657273",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122183828228820020",
-       "post_id": "625664190627160_122183828264820020",
-       "status": "done"
-      },
-      "648976361631351": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122194054538829482_1694733832168899",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:47+04:00",
-       "mode": "schedule",
-       "photo_id": "122194054508829482",
-       "post_id": "648976361631351_122194054538829482",
-       "status": "done"
-      },
-      "673710079162922": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122243855912895613_4363822227263714",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:50+04:00",
-       "mode": "schedule",
-       "photo_id": "122243855882895613",
-       "post_id": "673710079162922_122243855912895613",
-       "status": "done"
-      },
-      "714226118434052": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122204972660902657_1724113719300377",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:52+04:00",
-       "mode": "schedule",
-       "photo_id": "122204972630902657",
-       "post_id": "714226118434052_122204972660902657",
-       "status": "done"
-      },
-      "892503027289970": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122142764835219808_1710587003814209",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:55+04:00",
-       "mode": "schedule",
-       "photo_id": "122142764799219808",
-       "post_id": "892503027289970_122142764835219808",
-       "status": "done"
-      },
-      "994273113779575": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122138443958776189_1124154357044328",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122138443838776189",
-       "post_id": "994273113779575_122138443958776189",
-       "status": "done"
-      }
-     },
-     "title": "He Stopped the Car for Two Barefoot Boys Sleeping by the Garbage, and One Had His Dead Wife's Eyes",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 147,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-11T15:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/820196091_122145142725350229_3496508931759518841_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lMzPPNNh7t0Q7kNvwEookYy&_nc_oc=AdqshnxeRf9FwpB6sbRdC9RmXr4c-Kx1XRAB3Fz_6g7cTzGYJgV9_OkFDg-jXwSzNbE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=LGgJWmLrlfipwju2szdybA&_nc_tpa=Q5bMBQLC3XQjjnfRUfP08PGpvJvLBrfnafzWxPbFepyKa2h-lThv17NPyq0l6s895YtTk_kvN4xnrsuNhA&oh=00_AQQ2Q2ikv_LRr4gZ2Yb69Q1reWW_z5HW9TezgYZNaNDE4A&oe=6AF95A79",
-    "link": "https://www.facebook.com/share/p/1H32MP7xR2/",
-    "origin": "manual",
-    "page_id": "61590506886446",
-    "text": "“Dad, stop the car!” my five-year-old son screamed as he pointed toward two barefoot boys sleeping beside a pile of garbage in New York City. Seconds later, I was kneeling in filthy rainwater staring at their faces, because both looked exactly like my son, and one had the unmistakable green-and-gold eyes of my dead wife.\n\nMy name is Devin Mallory. I’m a real estate developer, hotel owner, and the kind of man whose face appears on business magazines, yet that evening none of my money prepared me for what waited outside my Mercedes.\n\nVictor pressed his hand against the window. “Dad, those boys... they look like me.”\n\nAt first, I saw only wet cardboard, trash bags, a closed corner store, and steam rising from a sewer grate. Then one cardboard bundle moved.\n\nTwo little boys were curled together beside the garbage, barefoot, filthy, and painfully thin. The older one lifted his face, and my chest tightened at the familiar curls, dimpled chin, and exact shape of Victor’s mouth.\n\nThen the younger boy opened his eyes.\n\nThey were Priya’s eyes.\n\nMy wife had been dead for five years.\n\nI stumbled from the car, my expensive shoes landing in muddy water. The boys immediately jumped up, and the older child pushed the younger behind him.\n\n“Don’t hit us, sir,” he pleaded. “We’re leaving. We didn’t steal anything.”\n\nVictor climbed out before I could stop him and approached them with his kindergarten backpack still on. He pulled out chocolate cookies and held them forward.\n\n“My dad can buy more.”\n\nThe older boy carefully took one cookie, broke it in half, and gave the larger piece to his brother.\n\n“What are your names?” I asked.\n\n“I’m Aaron. He’s Aiden.”\n\nMy stomach dropped.\n\nAaron and Aiden were the names Priya and I had chosen during her pregnancy when a doctor told us there might be twins. Priya had laughed and said if there were three babies, God would have to give us a bigger house.\n\nFive years earlier, she went into labor.\n\nHer mother eventually came from the operating room sobbing and told me Priya was dead. Then I was told only one baby had survived.\n\nVictor.\n\nI buried my wife, held my newborn son, and signed documents I barely understood because grief had hollowed me out.\n\nNow two boys who looked exactly like him were standing beside a garbage pile.\n\n“Where are your parents?” I asked.\n\nAaron lowered his eyes. “We don’t have any.”\n\n“Maya Auntie left us here,” Aiden whispered.\n\nMy blood turned cold.\n\nMaya was Priya’s younger sister. She disappeared after Priya’s funeral with hospital documents she claimed were needed for death paperwork, and my in-laws later told me grief had caused her to lose control.\n\n“What did Maya tell you?”\n\n“She said to wait,” Aaron answered. “Someone would come.”\n\n“How long have you been waiting?”\n\n“Two days.”\n\nVictor stepped beside me and stared at them like he was seeing himself reflected twice.\n\n“Dad, why do they have my face?”\n\nI couldn’t answer.\n\nMy mind had returned to that hospital corridor, to the doctor who avoided my eyes, Priya’s mother refusing to let me see the babies, and a nurse who tried to speak privately with me before mysteriously disappearing the next morning.\n\nAaron tightened his fingers around the empty cookie wrapper. “Why are you looking at us like that?”\n\n“Because you look like my son.”\n\nThen Aiden slowly stepped from behind his brother.\n\nSomething hung from his tiny fist.\n\nA dirty black thread.\n\nAttached to it was a small gold locket.\n\nI recognized it instantly.\n\nI had given that locket to Priya on our first wedding anniversary.\n\nAnd when Aiden opened it, my dead wife’s photograph was still inside.\n\nEveryone, please type YES in the comments so Facebook can boost this post and we can share the FULL STORY in the comments. ⬇️💬 Thank you, everyone. ❤️",
-    "wp_media_id": 145,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1500-en2.jpg"
-   },
-   "source_key": "post:61590506886446_122145142785350229",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-11 18:00": {
    "langs": {
     "DE": {
