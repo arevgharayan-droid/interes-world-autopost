@@ -9570,21 +9570,25 @@
      "pages": {
       "1085853177948572": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128667055317111_1675227521009851",
        "error": null,
        "last_attempt": "2026-11-26T00:01:57+04:00",
        "mode": "immediate",
        "photo_id": "122128667031317111",
        "post_id": "1085853177948572_122128667055317111",
-       "status": "published"
+       "status": "done"
       },
       "1145996375255489": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133838617310364_1481669414103527",
        "error": null,
        "last_attempt": "2026-11-26T00:02:13+04:00",
        "mode": "immediate",
        "photo_id": "122133838593310364",
        "post_id": "1145996375255489_122133838617310364",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "رأيت زوجي يمسك بيد امرأة أخرى في المول، فأمسكت حماتي بذراعي وهمست: \"لا تفعلي شيئًا الآن، دعيني أتصرف",
@@ -9593,6 +9597,7 @@
      ],
      "wp_error": null,
      "wp_id": 785,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "CS": {
@@ -9614,27 +9619,32 @@
      "pages": {
       "1065418833325273": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127871575306971_2719531961826863",
        "error": null,
        "last_attempt": "2026-11-26T00:00:46+04:00",
        "mode": "immediate",
        "photo_id": "122127871545306971",
        "post_id": "1065418833325273_122127871575306971",
-       "status": "published"
+       "status": "done"
       },
       "1091526457386175": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126521707298778_1682351213286580",
        "error": null,
        "last_attempt": "2026-11-26T00:01:02+04:00",
        "mode": "immediate",
        "photo_id": "122126521683298778",
        "post_id": "1091526457386175_122126521707298778",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi suegra me agarró del brazo al ver a mi marido de la mano de otra mujer y susurró: «Déjame a mí",
      "warnings": [],
      "wp_error": null,
      "wp_id": 783,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "FR": {
@@ -9664,27 +9674,32 @@
      "pages": {
       "1017413568132885": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126656695301832_1195958653007326",
        "error": null,
        "last_attempt": "2026-11-26T00:01:38+04:00",
        "mode": "immediate",
        "photo_id": "122126656671301832",
        "post_id": "1017413568132885_122126656695301832",
-       "status": "published"
+       "status": "done"
       },
       "1150924154761110": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141040519316765_1445878323824564",
        "error": null,
        "last_attempt": "2026-11-26T00:01:20+04:00",
        "mode": "immediate",
        "photo_id": "122141040495316765",
        "post_id": "1150924154761110_122141040519316765",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Am văzut în mall cum soțul meu ținea de mână o altă femeie, dar soacra mea m-a oprit: „Lasă-mă pe mine să mă ocup",
      "warnings": [],
      "wp_error": null,
      "wp_id": 784,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RU": {
@@ -9694,21 +9709,25 @@
      "pages": {
       "1003672546173662": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114806802602036_4548939928652143",
        "error": null,
        "last_attempt": "2026-11-26T00:00:13+04:00",
        "mode": "immediate",
        "photo_id": "122114806778602036",
        "post_id": "1003672546173662_122114806802602036",
-       "status": "published"
+       "status": "done"
       },
       "1053133077892078": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109229508486560_2336510103809038",
        "error": null,
        "last_attempt": "2026-11-26T00:00:30+04:00",
        "mode": "immediate",
        "photo_id": "122109229484486560",
        "post_id": "1053133077892078_122109229508486560",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Мы с свекровью увидели моего мужа с другой женщиной, и она шепнула: «Ничего не делай, я сама",
@@ -9717,6 +9736,7 @@
      ],
      "wp_error": null,
      "wp_id": 782,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "TR": {
@@ -9740,7 +9760,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-0000-mix.jpg"
    },
    "source_key": "post:100067526447776_1460647886196079",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",

@@ -14688,12 +14688,14 @@
      "pages": {
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133390057310273_1782602472833225",
        "error": null,
        "last_attempt": "2026-11-26T00:03:23+04:00",
        "mode": "immediate",
        "photo_id": "122133390033310273",
        "post_id": "1028964020310052_122133390057310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
@@ -14765,6 +14767,7 @@
      ],
      "wp_error": null,
      "wp_id": 1213,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -14790,66 +14793,80 @@
      "pages": {
       "1144269682096701": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126018817304553_2553489068727326",
        "error": null,
        "last_attempt": "2026-11-26T00:00:57+04:00",
        "mode": "immediate",
        "photo_id": "122126018793304553",
        "post_id": "1144269682096701_122126018817304553",
-       "status": "published"
+       "status": "done"
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131914777424769_1847793793036730",
        "error": null,
        "last_attempt": "2026-11-26T00:01:50+04:00",
        "mode": "immediate",
        "photo_id": "122131914753424769",
        "post_id": "1180417388497186_122131914777424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132089479430924_1120992717479956",
        "error": null,
        "last_attempt": "2026-11-26T00:01:32+04:00",
        "mode": "immediate",
        "photo_id": "122132089455430924",
        "post_id": "1205543595981082_122132089479430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135877999306170_1806210077588968",
        "error": null,
        "last_attempt": "2026-11-26T00:00:41+04:00",
        "mode": "immediate",
        "photo_id": "122135877975306170",
        "post_id": "1210451145474950_122135877999306170",
-       "status": "published"
+       "status": "done"
       },
       "1239848699214091": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128326195439695_1490118349768394",
        "error": null,
        "last_attempt": "2026-11-26T00:01:14+04:00",
        "mode": "immediate",
        "photo_id": "122128326171439695",
        "post_id": "1239848699214091_122128326195439695",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122224643570930012_1794026221710641",
        "error": null,
        "last_attempt": "2026-11-26T00:00:08+04:00",
        "mode": "immediate",
        "photo_id": "122224643546930012",
        "post_id": "633031599904551_122224643570930012",
-       "status": "published"
+       "status": "done"
       },
       "715935674934966": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122204172422922316_2087019038852345",
        "error": null,
        "last_attempt": "2026-11-26T00:00:25+04:00",
        "mode": "immediate",
        "photo_id": "122204172398922316",
        "post_id": "715935674934966_122204172422922316",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Voor de ogen van zijn drie zoontjes noemde de miljonair mij een dief en zette me het huis uit, maar bij het hek riep een van de jongens iets dat hem sprakeloos maakte",
@@ -14858,6 +14875,7 @@
      ],
      "wp_error": null,
      "wp_id": 1212,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "PL": {
