@@ -8,6 +8,7 @@
   "0474e7d1c3adb78e01d1": "2026-11-12T20:02:43+00:00",
   "04a813e50cbdb59fedc0": "2026-11-21T10:17:55+00:00",
   "04c763e9d6765d4a549b": "2026-11-18T18:30:01+00:00",
+  "0633744efb5489118525": "2026-11-25T14:02:26+00:00",
   "07f9bfe61a5282a51065": "2026-11-24T12:29:27+00:00",
   "0819121300603065c21d": "2026-11-16T20:28:20+00:00",
   "0976f65d7d6bcc7f86c3": "2026-11-21T22:45:41+00:00",
@@ -42,12 +43,14 @@
   "34f5d1ae4690346695c5": "2026-11-12T17:48:06+00:00",
   "35bb7b02c3a3eec981f5": "2026-11-20T16:46:35+00:00",
   "37295985ca4da18995cf": "2026-11-20T14:41:36+00:00",
+  "3805fc902e0de2be6e6c": "2026-11-25T14:02:26+00:00",
   "3944404d935075c532ec": "2026-11-21T17:03:58+00:00",
   "399b0797378aa4e1ed79": "2026-11-20T22:45:49+00:00",
   "3db8bd1517b5c6101ae3": "2026-11-20T16:46:35+00:00",
   "418a807c55a21247717d": "2026-11-22T21:36:39+00:00",
   "42958ca025f584b844e8": "2026-11-23T13:59:07+00:00",
   "430a2b7c726cdc7d25cd": "2026-11-14T19:42:40+00:00",
+  "43735640ffe2c11dbecb": "2026-11-25T14:02:26+00:00",
   "43fc1331d6fb4f0c421e": "2026-11-17T20:47:52+00:00",
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
   "46493e9155ece290d86b": "2026-11-19T10:26:47+00:00",
@@ -23100,7 +23103,92 @@
   },
   "2026-11-25 18:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Treze minutos antes do casamento, ele me deu um tapa por causa do vestido da minha avó — e eu saí andando",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 760,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "За 13 минут до свадьбы жених ударил меня из-за платья бабушки — а через три дня позвонил 52 раза",
+     "warnings": [
+      "длина текста FB 974 слов (исходник 1324, цель ±10%)",
+      "длина статьи 516 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 758,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Düğüne 13 Dakika Kala Nişanlım Tokat Attı, Annesi Sırıttı: Gelinliğimle Çıkıp Gittim",
+     "warnings": [
+      "длина текста FB 851 слов (исходник 1324, цель ±10%)",
+      "длина статьи 572 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 759,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T18:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/922547572_1682763406560407_8277259757378200021_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xtps1KUp61EQ7kNvwEnz8kn&_nc_oc=Ado_EGduMV0SSrIBvEqwFYOEghloskfknXGE41G4J1QBvZI1wduMYzAQNS_pEYeuff4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=Bx_gCfsyQapzdwebVUOFEQ&_nc_tpa=Q5bMBQKtUOKAtm31PYTj2fw295rFSBKbDoTUR2W2rRgSUBjLwkqXGN7yTj0wI7y2SnfejV1SXbT6M0lVhQ&oh=00_AQSOD9scdOQ0UX-K-gw5zB0g9SrW6AZmasFqmUraDcRajw&oe=6B0CA1F1",
@@ -23112,7 +23200,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261125-1830-ru.jpg"
    },
    "source_key": "post:100044802900629_1682763493227065",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -23415,7 +23503,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-25 18:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1475219943996700": {
    "fingerprint": "8dedce02f3415e702972",
