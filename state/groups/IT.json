@@ -22374,7 +22374,10 @@
      "title": "Přítel ji opustil krátce po zprávě o rakovině. Na maturitním plese se ale objevil s oholenou hlavou a v dlouhých šatech",
      "warnings": [
       "длина текста FB 788 слов (исходник 1139, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 1151,
+     "wp_status": "publish"
     },
     "DE": {
      "pages": {},
@@ -22443,6 +22446,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-25T13:42:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/914201681_122127368949337152_107672065265045777_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NVDK7gXDmTUQ7kNvwHviHRx&_nc_oc=AdoW17y0cgsUcNpI_3UJrQkp-6sJDj1EMcnpbioIGuxYpWTipp7VO3ESZNK92kzu7bU&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=jOKKnpwIBdwwjyGNj5fqXw&_nc_tpa=Q5bMBQIEOLmG9q42Mi6T2Ju4eo2wTJTcXaG9QJgxl69XLkpFioyeYpr_Q_wWlhbFb69WrcSukfFt4dqdOQ&oh=00_AQSC4WfCeGb0NUWA9jtKHYTt5zMqXENBrcZFGtMfxukA5Q&oe=6B0C726C",
@@ -22454,7 +22458,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1342-it.jpg"
    },
    "source_key": "post:61590114583400_122127476865337152",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -23222,7 +23226,7 @@
    "origin": "manual",
    "page_id": "61590114583400",
    "slot": "2026-11-25 13:42",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590177596600_122131078545339253": {
    "fingerprint": "576c1cb6a19bf2e1f75d",

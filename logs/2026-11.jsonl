@@ -14502,3 +14502,5 @@
 {"slot": "2026-11-25 13:42", "lang": "IT", "action": "wp_post", "id": 1149, "status": "publish", "t": "2026-11-25T09:44:28+00:00", "group": "IT"}
 {"slot": "2026-11-25 13:42", "lang": "EN", "page": "1165836896614851", "action": "fb_immediate", "photo_id": "122146847253384677", "post_id": "1165836896614851_122146847277384677", "t": "2026-11-25T09:44:28+00:00", "group": "EN"}
 {"slot": "2026-11-25 13:42", "lang": "PL", "action": "wp_post", "id": 1150, "status": "publish", "t": "2026-11-25T09:44:29+00:00", "group": "IT"}
+{"slot": "2026-11-25 13:42", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-25T09:44:31+00:00", "group": "EN2"}
+{"slot": "2026-11-25 13:42", "lang": "CS", "action": "wp_post", "id": 1151, "status": "publish", "t": "2026-11-25T09:44:31+00:00", "group": "IT"}
