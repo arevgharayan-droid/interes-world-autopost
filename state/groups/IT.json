@@ -11,6 +11,7 @@
   "0add5f701a111204ad69": "2026-11-25T19:59:57+00:00",
   "0b4814997aa3da6b7d13": "2026-11-22T14:04:30+00:00",
   "0b6034a27523790be1ee": "2026-11-22T22:07:10+00:00",
+  "0b8087705a31d2e55203": "2026-11-25T22:46:14+00:00",
   "0d54eec8b6a3e32a0a35": "2026-11-21T10:17:43+00:00",
   "0ea3482f1cdaf9663ff5": "2026-11-23T13:49:59+00:00",
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
@@ -147,8 +148,10 @@
   "d4cab6ef35142d4bedc3": "2026-11-19T10:26:56+00:00",
   "da0db905a429fdb30957": "2026-11-21T22:45:36+00:00",
   "db93b5a4d55941ca8bb9": "2026-11-22T22:07:10+00:00",
+  "dc1f1de91e9f119fc77b": "2026-11-25T22:46:14+00:00",
   "de3fafdb1cf0cbce4e54": "2026-11-16T23:51:59+00:00",
   "de8ddb087d017d3beba0": "2026-11-15T14:13:20+00:00",
+  "e15833912a16ff6fe9ab": "2026-11-25T22:46:14+00:00",
   "e46c36b86771ade1427e": "2026-11-24T12:29:28+00:00",
   "e4d634875950303ab02e": "2026-11-23T13:49:59+00:00",
   "e5620b751bed22ad8486": "2026-11-16T19:28:24+00:00",
@@ -23938,7 +23941,90 @@
    }
   },
   "2026-11-26 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vrátil se z tajné mise a našel manželku na JIP s 27 zlomeninami. Její matka a šest sester se přitom usmívaly",
+     "warnings": [
+      "длина текста FB 617 слов (исходник 830, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1226,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Tornai da una missione segreta e trovai mia moglie in terapia intensiva con 27 ossa rotte, mentre sua madre e le sue sei sorelle sorridevano nel corridoio",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1224,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wróciłem z misji do żony z 27 złamaniami, a jej matka i sześć sióstr stały pod salą i się uśmiechały",
+     "warnings": [
+      "длина текста FB 655 слов (исходник 830, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1225,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/922112020_122156531145170576_1803853766901908061_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IB2qSbZ3HIQQ7kNvwEtI3fR&_nc_oc=AdoSwxmnSDY9YFIOyNXYI7Q8RvisderomdGXjSTdzfB-tankWzxGPVE2LsIOF71pWoU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=7kRi_0Sfrm09LANRFJR3ug&_nc_tpa=Q5bMBQIhDpR9D9EPd2wNgbbRkt-jbUcyWKWjiXh5uUFkzGeMlfXyOLhdAGxVNTIA9cUJTD5V4F91kh_TPg&oh=00_AQQKkfPlrrOKrG5SPwAVeS3BUTMo4Es1FLEnvhdULpGGXQ&oe=6B0D4873",
@@ -23950,7 +24036,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1200-it.jpg"
    },
    "source_key": "post:61585117295331_122156531319170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -24678,7 +24764,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-26 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",

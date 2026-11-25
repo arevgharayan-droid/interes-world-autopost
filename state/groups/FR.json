@@ -11,6 +11,7 @@
   "20eeac9f368eb6b6f94d": "2026-11-21T22:45:27+00:00",
   "242111f461b96288afa8": "2026-11-25T19:59:47+00:00",
   "2677a3c2bff6843f6d65": "2026-11-25T09:44:38+00:00",
+  "28167400c6c84a4cf8d8": "2026-11-25T22:46:12+00:00",
   "2fe82e12e4ad9907ad54": "2026-11-14T19:42:21+00:00",
   "3da4775069ee736a2d78": "2026-11-22T21:33:46+00:00",
   "3dce7e6988a88bf961cd": "2026-11-19T17:52:54+00:00",
@@ -20,6 +21,7 @@
   "4bc4dacea6526b7a3a41": "2026-11-22T14:04:08+00:00",
   "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
   "5d67279da1e3d48db9cd": "2026-11-16T00:18:23+00:00",
+  "676a53f37d08a3f7dca8": "2026-11-25T22:46:12+00:00",
   "69c3ac847b66c7a0472e": "2026-11-17T17:51:44+00:00",
   "6bc11208f1f5019dd4b9": "2026-11-25T18:00:28+00:00",
   "6d1360b71c35b272374f": "2026-11-21T14:12:53+00:00",
@@ -29,6 +31,7 @@
   "82514212930f6a077dae": "2026-11-20T16:46:01+00:00",
   "85bf867d0894576de121": "2026-11-12T17:47:48+00:00",
   "87d1e0f4518d99214498": "2026-11-12T09:04:05+00:00",
+  "9c307388c225dd9bd137": "2026-11-25T22:46:12+00:00",
   "9d4957340d3a2da90441": "2026-11-17T10:38:05+00:00",
   "a2b8600fa33561995bf2": "2026-11-15T14:18:32+00:00",
   "a4aa72c523a52ab5087f": "2026-11-17T12:28:26+00:00",
@@ -56,7 +59,8 @@
   "e74c48d9805792066531": "2026-11-23T13:49:24+00:00",
   "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00",
   "eedeb2476364b2162ac5": "2026-11-18T22:49:38+00:00",
-  "f0de6209bc2c04ae4ddf": "2026-11-22T21:25:14+00:00"
+  "f0de6209bc2c04ae4ddf": "2026-11-22T21:25:14+00:00",
+  "f6609e092d39cfe5e936": "2026-11-25T22:46:12+00:00"
  },
  "outputs": {
   "1011074408765807_122105564612536431": "2026-11-21T14:16:10+00:00",
@@ -12176,7 +12180,115 @@
    }
   },
   "2026-11-26 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "ليلة جراحة القلب سمعتُ زوجي يرفع كأسه ويقول: «غدًا ستختفي وثروتها لنا»، لكن ما كشفه عن حادث والديّ أخرسني",
+     "warnings": [
+      "длина текста FB 925 слов (исходник 1131, цель ±10%)"
+     ],
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     }
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La noche antes de mi cirugía de corazón oí a mi esposo brindar por mi muerte y por mi fortuna de 350 millones, pero lo que dijo sobre el accidente de mis padres me dejó sin palabras",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 790,
+     "wp_media_id": 789,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1200-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La veille de mon opération du cœur, j'ai entendu mon mari trinquer à ma mort et à mes 350 millions de dollars, puis il a laissé échapper la vérité sur l'accident de mes parents",
+     "warnings": [
+      "длина текста FB 1340 слов (исходник 1131, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1223,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Noaptea dinaintea operației pe cord, mi-am auzit soțul spunând: „Mâine ea nu mai e, iar averea de 350 de milioane va fi a noastră”. Ce a scăpat despre accidentul părinților mei m-a lăsat fără cuvinte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 791,
+     "wp_media_id": 789,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1200-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-26T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/915666985_1570603371757341_1589164296940894180_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z5TXE9DQ6kMQ7kNvwHLsEGK&_nc_oc=AdoEOfJo8o8SD1Q94_vRczDg69hz_NJOF_qqrys3zkystb1wxyyvCxLvGnXB5Qhlr8Q&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=VKf2UGs-QuH97WHpJWRtZw&_nc_tpa=Q5bMBQITVOLxcCt5MZbwhwSKVUCj4arDrw-pG5ChkRoJngWIEPuK5voVm5YCg9d8wIa4L9KaCxfCnI1E9w&oh=00_AQSWRNDOgMHjXc6Kj4WheBRI6OQH-H5k-tMoh3nLFIoiDA&oe=6B0D2DBD",
