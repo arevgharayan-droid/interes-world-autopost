@@ -14304,7 +14304,10 @@
      "generated": true,
      "pages": {},
      "title": "Er verließ sie nach ihrer Krebsdiagnose – doch am Abend des Abschlussballs betrat er kahlgeschoren und im Kleid den Saal",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1175,
+     "wp_status": "future"
     },
     "EN": {
      "pages": {},
@@ -14358,6 +14361,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-25T18:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/923020232_1682331409936940_7766361217755864276_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yWTooh1eeFEQ7kNvwEl-poG&_nc_oc=AdqTlUX1kDD35_w4PAtmhoC5bE-ehtUmfXv-qUSjABTJx2PbwEqIhhwpb43KKA3avv8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=s0ChLlD1q6PyVmS3U6qkuA&_nc_tpa=Q5bMBQIoNi67o6IrxlBv5cVR3xkJ_j9M-J0bLUmUOK4EI63cW8GBQKAGfjsILnoar_fSr4HK1iClxDfuuw&oh=00_AQTdglzU2GMCmxwUJ4xzcnfrzVX3F_RfUYLHVl8utEU1KQ&oe=6B0CBE95",
@@ -14369,7 +14373,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1830-nl.jpg"
    },
    "source_key": "post:100044802900629_1682829136553834",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14675,7 +14679,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-25 18:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1625432835642076": {
    "fingerprint": "c95fe8f806325ccf3497",
