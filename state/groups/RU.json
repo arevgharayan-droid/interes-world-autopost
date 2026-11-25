@@ -165,7 +165,6 @@
   "fd395eead654da158a14": "2026-11-13T10:15:12+00:00"
  },
  "outputs": {
-  "1008693642337213_122118096062640467": "2026-11-11T11:14:19+00:00",
   "1008693642337213_122118096188640467": "2026-11-11T14:08:21+00:00",
   "1008693642337213_122118096410640467": "2026-11-11T17:06:50+00:00",
   "1008693642337213_122118096530640467": "2026-11-11T20:06:10+00:00",
@@ -978,7 +977,6 @@
   "1125468037313193_122120590371295429": "2026-11-24T12:34:00+00:00",
   "1125468037313193_122120609535295429": "2026-11-24T16:47:10+00:00",
   "1125468037313193_122120657691295429": "2026-11-25T09:48:38+00:00",
-  "1125676667286378_122139775586737651": "2026-11-11T11:14:25+00:00",
   "1125676667286378_122139775706737651": "2026-11-11T14:08:26+00:00",
   "1125676667286378_122139775880737651": "2026-11-11T17:06:57+00:00",
   "1125676667286378_122139776048737651": "2026-11-11T20:06:18+00:00",
@@ -1037,7 +1035,6 @@
   "1125676667286378_122141825240737651": "2026-11-24T12:31:10+00:00",
   "1125676667286378_122141849408737651": "2026-11-24T16:44:27+00:00",
   "1125676667286378_122141962382737651": "2026-11-25T09:46:01+00:00",
-  "1129620776897151_122127310431311884": "2026-11-11T11:14:33+00:00",
   "1129620776897151_122127310731311884": "2026-11-11T14:08:33+00:00",
   "1129620776897151_122127311091311884": "2026-11-11T17:07:05+00:00",
   "1129620776897151_122127311343311884": "2026-11-11T20:06:25+00:00",
@@ -1180,7 +1177,6 @@
   "1146158698570676_122130612921300293": "2026-11-24T12:37:18+00:00",
   "1146158698570676_122130632655300293": "2026-11-24T16:50:29+00:00",
   "1146158698570676_122130702327300293": "2026-11-25T09:51:53+00:00",
-  "1164575726728296_122126492937307134": "2026-11-11T11:14:36+00:00",
   "1164575726728296_122126493237307134": "2026-11-11T14:08:36+00:00",
   "1164575726728296_122126493597307134": "2026-11-11T17:07:10+00:00",
   "1164575726728296_122126493885307134": "2026-11-11T20:06:31+00:00",
@@ -2638,7 +2634,6 @@
   "122144462882775004": "2026-11-24T12:42:53+00:00",
   "122144486066775004": "2026-11-24T16:56:01+00:00",
   "122144571176775004": "2026-11-25T09:57:40+00:00",
-  "1338630212673029_122115604707471857": "2026-11-11T11:14:40+00:00",
   "1338630212673029_122115605061471857": "2026-11-11T14:08:40+00:00",
   "1338630212673029_122115605625471857": "2026-11-11T17:07:14+00:00",
   "1338630212673029_122115606123471857": "2026-11-11T20:06:34+00:00",
@@ -2701,7 +2696,6 @@
   "1338630212673029_122120506041471857": "2026-11-24T12:45:59+00:00",
   "1338630212673029_122120581677471857": "2026-11-24T16:59:10+00:00",
   "1338630212673029_122120739975471857": "2026-11-25T10:01:17+00:00",
-  "1448441201677530_122118764415505599": "2026-11-11T11:14:44+00:00",
   "1448441201677530_122118764841505599": "2026-11-11T14:08:45+00:00",
   "1448441201677530_122118765399505599": "2026-11-11T17:07:19+00:00",
   "1448441201677530_122118766011505599": "2026-11-11T20:06:41+00:00",
@@ -2758,7 +2752,6 @@
   "1448441201677530_122123226381505599": "2026-11-24T12:45:36+00:00",
   "1448441201677530_122123272485505599": "2026-11-24T16:58:49+00:00",
   "1448441201677530_122123450619505599": "2026-11-25T10:00:53+00:00",
-  "988042774402200_122134908350733774": "2026-11-11T11:14:29+00:00",
   "988042774402200_122134908482733774": "2026-11-11T14:08:29+00:00",
   "988042774402200_122134908692733774": "2026-11-11T17:07:01+00:00",
   "988042774402200_122134908860733774": "2026-11-11T20:06:21+00:00",
@@ -2817,168 +2810,6 @@
   "988042774402200_122136853040733774": "2026-11-25T09:45:18+00:00"
  },
  "slots": {
-  "2026-11-11 15:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1338630212673029": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122115604707471857_1829954804821754",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:51+04:00",
-       "mode": "schedule",
-       "photo_id": "122115604677471857",
-       "post_id": "1338630212673029_122115604707471857",
-       "status": "done"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122118764415505599_1795436811681304",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122118764385505599",
-       "post_id": "1448441201677530_122118764415505599",
-       "status": "done"
-      }
-     },
-     "title": "Aos 14 anos, meu pai me expulsou e roubou minhas economias. Nove dias depois, um estranho de terno me encontrou no lixo e revelou o que ele escondia sobre meu avô",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 119,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "RU": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122118096062640467_1682314350225579",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:34+04:00",
-       "mode": "schedule",
-       "photo_id": "122118096032640467",
-       "post_id": "1008693642337213_122118096062640467",
-       "status": "done"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122139775586737651_1814973916104807",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:40+04:00",
-       "mode": "schedule",
-       "photo_id": "122139775556737651",
-       "post_id": "1125676667286378_122139775586737651",
-       "status": "done"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122134908350733774_28820118177660149",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:37+04:00",
-       "mode": "schedule",
-       "photo_id": "122134908320733774",
-       "post_id": "988042774402200_122134908350733774",
-       "status": "done"
-      }
-     },
-     "title": "Бездомного подростка, который рылся в мусоре за рестораном, окликнул незнакомец в дорогом костюме и сообщил: его «умерший» дед оставил ему всё",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 117,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "TR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1129620776897151": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122127310431311884_1436840581358667",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:43+04:00",
-       "mode": "schedule",
-       "photo_id": "122127310401311884",
-       "post_id": "1129620776897151_122127310431311884",
-       "status": "done"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122126492937307134_1113765481500958",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122126492907307134",
-       "post_id": "1164575726728296_122126492937307134",
-       "status": "done"
-      }
-     },
-     "title": "14 Yaşındaki Çocuk Çöp Konteynerinde Yemek Ararken Takım Elbiseli Bir Adam Adını Seslendi: \"Dedenin Ölmediğini Babanın Neden Gizlediğini Öğreneceksin",
-     "warnings": [
-      "длина текста FB 538 слов (исходник 755, цель ±10%)",
-      "длина статьи 520 слов"
-     ],
-     "wp_error": null,
-     "wp_id": 118,
-     "wp_live": true,
-     "wp_status": "future"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-11T15:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/855062537_122152554189350229_26230297110276495_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jTyMSdz7M98Q7kNvwG_F__e&_nc_oc=Ado2wZIt_kUtzzb2OJPeij-wb2RpkVb1jkRnVbyMIT28nmZpRkSwpFgfACmreohA02E&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KJj2Kc9pr2QVgwiCkTNqsg&_nc_tpa=Q5bMBQIhU-um9D-rdv7qcjWiyNRW0O_rJ_1-13Pd8wAEOX_hBtZucSEoKdhlHdIs-jxSDC6Q2pb-OHkYaw&oh=00_AQRnyM1lRlXuAxntN-Lsc7AdRUH39qCLu3sO2NA7XuhW2A&oe=6AF95211",
-    "link": "https://www.facebook.com/share/p/1PnB9xsFTL/",
-    "origin": "manual",
-    "page_id": "61590506886446",
-    "text": "Fourteen years old, homeless, and starving, I was digging through garbage behind a restaurant when a stranger in an expensive suit called my name. Nine days earlier, my father had thrown me out after stealing the $3,000 I'd saved from working odd jobs. But what the stranger revealed about my supposedly dead grandfather made me realize my father had been hiding something far worse than money.\n\nMy name is Caleb Vance, and my fourteenth birthday was the day my family decided I no longer belonged.\n\nThere was no cake waiting in our kitchen that Tuesday morning. My father sat beside his wife while my stepbrother ate breakfast, smiling as though he knew what was coming.\n\n“Sit down, Caleb,” Dad ordered. “You're old enough to start taking responsibility for yourself.”\n\nI stared at him, confused.\n\n“What does that mean?”\n\n“It means you're leaving today.”\n\nI thought he was joking until his wife pointed toward three plastic bags beside the front door.\n\n“We packed your things,” she said pleasantly.\n\nMy stomach dropped.\n\n“Dad, I'm fourteen! I still have school!”\n\nHe shrugged.\n\n“You'll figure something out.”\n\nThen I remembered my savings.\n\nFor nearly two years, I'd mowed lawns, washed dishes, and worked weekends whenever anyone would hire me. I'd saved a little over $3,000, hoping someday it might help me escape that house.\n\n“Where's my money?” I demanded.\n\nDad barely glanced up.\n\n“Gone. Your brother needed things, and feeding you isn't free.”\n\nI couldn't believe what I was hearing.\n\n“You stole everything?”\n\n“Watch your mouth,” he snapped.\n\nTen minutes later, I stood outside holding three garbage bags containing everything I owned.\n\nI climbed into my old sedan, which had been sitting in our driveway and which I'd practiced driving around the property. I knew I couldn't legally drive it alone, but I was terrified of staying anywhere near my father.\n\nI cried until my chest hurt.\n\nFor nine nights, that car became my bedroom.\n\nI kept attending school because I was afraid someone would discover what had happened. Before sunrise, I'd sneak into the locker room to shower, then spend the day pretending I wasn't hungry.\n\nMy classmates complained about homework and cafeteria food.\n\nI smiled along, secretly saving half my lunch for dinner.\n\nBy the ninth night, my fuel gauge was nearly empty.\n\nThen the engine died behind a row of restaurants.\n\nI turned the key repeatedly, praying it would start.\n\nNothing.\n\nAfter an hour, hunger finally defeated my pride.\n\nI climbed out and approached the dumpsters, hoping to find unopened food someone had thrown away.\n\nThat's when a voice stopped me.\n\n“Caleb Vance?”\n\nI froze.\n\nA tall man stood several feet away, wearing a spotless suit and carrying a leather briefcase.\n\n“Who's asking?”\n\n“Arthur Kingsley,” he replied. “I've been searching everywhere for you.”\n\nHe handed me a business card.\n\n“I represent the estate of Edward Vance.”\n\nMy heart skipped.\n\n“My grandfather?”\n\nArthur nodded.\n\nI shook my head.\n\n“That's impossible. My grandfather died before I was born.”\n\nHis expression hardened.\n\n“Caleb, your grandfather died three weeks ago.”\n\nFor fourteen years, my father had insisted Edward Vance was dead.\n\nNo photographs.\n\nNo birthday cards.\n\nNo explanation.\n\nArthur opened his briefcase.\n\n“Your grandfather instructed us to find you immediately.”\n\n“Why?”\n\n“Because he left his entire estate to you.”\n\nI stared at him.\n\nArthur explained that Edward had owned a beautiful house, several bank accounts, and a successful company called Vance Holdings.\n\nEverything had been left in my name.\n\nNothing had been left to my father.\n\nMinutes earlier, I'd been searching for scraps of food.\n\nNow someone was telling me I might inherit millions.\n\nBut Arthur wasn't smiling.\n\n“There's a condition, Caleb.”\n\nHe removed a thick brown envelope bearing my full name.\n\nMy hands trembled as I accepted it.\n\n“What condition?”\n\nArthur looked toward my broken car, then back at me.\n\n“Your grandfather left instructions you must read before anything happens.”\n\nI gripped the envelope.\n\nThen Arthur lowered his voice.\n\n“And once you open it, Caleb, you'll understand why your father spent fourteen years making sure you believed your grandfather was dead.”\n\nI stared at my name written across the envelope, terrified of what I was about to discover.\n\nNEXT PART and the FULL ENDING are coming. Type ‘YES’ and press ‘LIKE’ so we can post full story. Your [LIKE] helps these honest stories reach the people who need them most. Thank you for the support.",
-    "wp_media_id": 116,
-    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261111-1500-ru.jpg"
-   },
-   "source_key": "post:61590506886446_122152554351350229",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
-    "key_secret": "WP_API_KEY",
-    "url": "https://peakproductions.co",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-11 18:00": {
    "langs": {
     "DE": {
