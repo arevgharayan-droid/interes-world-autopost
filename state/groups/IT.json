@@ -23366,12 +23366,13 @@
       "1079964265201139": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122108785052506427_1494324366168556",
        "error": null,
        "last_attempt": "2026-11-25T22:03:41+04:00",
        "mode": "immediate",
        "photo_id": "122108785028506427",
        "post_id": "1079964265201139_122108785052506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
