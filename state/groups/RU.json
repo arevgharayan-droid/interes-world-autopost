@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "fb_block_until": "2026-11-14T14:14:26+04:00",
  "output_fps": {
+  "01011d6cb8cbd5465788": "2026-11-25T11:44:31+00:00",
   "030221e7345a0804af40": "2026-11-22T21:54:31+00:00",
   "03e362655081aa4b05fb": "2026-11-18T22:20:46+00:00",
   "0474e7d1c3adb78e01d1": "2026-11-12T20:02:43+00:00",
@@ -62,6 +63,7 @@
   "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
   "5579983a5a4919598caf": "2026-11-14T09:18:33+00:00",
   "55c68668d71f5fde2cc3": "2026-11-17T12:29:11+00:00",
+  "56aacef6d4c75db4a75b": "2026-11-25T11:44:31+00:00",
   "56b10fd7cd3d1bca37f0": "2026-11-17T17:52:52+00:00",
   "56e4adfb3a5ff83561a9": "2026-11-22T22:08:29+00:00",
   "59a8c94efb9a24d75d95": "2026-11-18T18:30:01+00:00",
@@ -85,6 +87,7 @@
   "7339795cbd24430bf250": "2026-11-22T21:17:23+00:00",
   "73d864bb7b93d90f8cd1": "2026-11-18T08:52:36+00:00",
   "76e6b04d54d754094e2a": "2026-11-21T14:13:00+00:00",
+  "7845b9e89cef8e0790f5": "2026-11-25T11:44:31+00:00",
   "7970cd008ee6e52ce2bc": "2026-11-18T22:20:46+00:00",
   "7a8a80996216afc6152d": "2026-11-22T22:08:29+00:00",
   "7a8fd36d00723b018f69": "2026-11-16T23:52:12+00:00",
@@ -22602,7 +22605,91 @@
   },
   "2026-11-25 15:43": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu marido mandou eu ficar em casa lavando a louça enquanto levava a amante a um gala de luxo, sem saber que a bilionária que ele queria impressionar era eu",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 747,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Муж велел мне мыть посуду, пока везёт любовницу на роскошный гала-вечер, но не знал, что миллиардерша, от которой он ждёт миллионы, это я",
+     "warnings": [
+      "длина текста FB 406 слов (исходник 486, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 745,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Beni Bulaşık Yıkamaya Evde Bırakıp Metresini Lüks Galaya Götürdü, Ama Milyonlarını Beklediği Milyarder Kadının Ben Olduğunu Bilmiyordu",
+     "warnings": [
+      "длина текста FB 322 слов (исходник 486, цель ±10%)",
+      "длина статьи 524 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 746,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T15:43:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/916954275_122107016702556305_7680260743434789467_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=F_m1dAsxZP8Q7kNvwEFCNdu&_nc_oc=AdqmErQ78An7Qwfo-R3hZVHeh2BB7KLnRPOh8Wbv9g7Yo9t3J9xCFMDdFhAMK3ehkgM&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ClW83Mm_S0tamwnL43CrAQ&_nc_tpa=Q5bMBQLW_T1IqZ-e_HIPX2Zwj8UdOn0AzF4EVPYRFKt54EEC0G7R55ZoXJzgN1wHHPVFKLXpigAL5LMGqQ&oh=00_AQQCqOoZrEfL5kl3joyn8rUVVwc6WixAK-17lKBv_CqDnA&oe=6B0CB4AE",
@@ -22614,7 +22701,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261125-1543-ru.jpg"
    },
    "source_key": "post:61566689175708_122107016756556305",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -23205,7 +23292,7 @@
    "origin": "manual",
    "page_id": "61566689175708",
    "slot": "2026-11-25 15:43",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61572021954882_122190320942734065": {
    "fingerprint": "ad9485541677aaf7ee77",
