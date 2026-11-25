@@ -8,6 +8,7 @@
   "05691ada2c15180a0929": "2026-11-18T18:29:38+00:00",
   "0899af47dd13160fe513": "2026-11-22T21:17:32+00:00",
   "08b0488d45dded8d095f": "2026-11-16T00:18:19+00:00",
+  "0add5f701a111204ad69": "2026-11-25T19:59:57+00:00",
   "0b4814997aa3da6b7d13": "2026-11-22T14:04:30+00:00",
   "0b6034a27523790be1ee": "2026-11-22T22:07:10+00:00",
   "0d54eec8b6a3e32a0a35": "2026-11-21T10:17:43+00:00",
@@ -24,6 +25,7 @@
   "1a13bfd0bf844bdd07ba": "2026-11-22T21:35:02+00:00",
   "1bafe9e4eb48ae562ba3": "2026-11-25T18:01:07+00:00",
   "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
+  "1fbf0f67f16c61ac3e0b": "2026-11-25T19:59:57+00:00",
   "20a11149af6c5503382f": "2026-11-22T16:32:05+00:00",
   "227c0bc7a9c0998d2c9e": "2026-11-24T09:25:10+00:00",
   "2305cc152c8bf5b805c5": "2026-11-22T19:49:03+00:00",
@@ -111,6 +113,7 @@
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
   "a2a1f3c0a19964c78743": "2026-11-25T14:02:30+00:00",
   "a422bdb38f331c5fee32": "2026-11-20T19:26:25+00:00",
+  "a4373529bbd7354227c1": "2026-11-25T19:59:57+00:00",
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
   "a4c8a85e7db7d89e2752": "2026-11-21T22:45:36+00:00",
   "a52a4b60aa043581ace2": "2026-11-17T18:29:53+00:00",
@@ -23663,7 +23666,76 @@
    }
   },
   "2026-11-26 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Můj snoubenec u oltáře vykřikl „Nechci!\" a utekl z kostela, ale po padesáti letech se u mých dveří objevil jeho právník s krabicí a větou, která mi změnila všechno",
+     "warnings": []
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Raymond gridò \"Non voglio!\" e fuggì dalla chiesa il giorno delle nostre nozze, ma cinquant'anni dopo un giovane avvocato bussò alla mia porta con una scatola",
+     "warnings": []
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mój narzeczony wykrzyczał „Nie chcę!” i uciekł sprzed ołtarza, a pięćdziesiąt lat później jego prawnik stanął w moich drzwiach z kartonowym pudłem",
+     "warnings": []
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-26T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/932058055_1461522769441924_5495324915192321791_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0YdwxzM0-xMQ7kNvwGMUPdJ&_nc_oc=AdrLOrV-CKtZvBZnEXRpoeTQqlCfEEJrBHQx-w2HF8zPaY6hAs2zelzJlHVq-O10KBU&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xKlDMfi0l2k2nfkChqzEdg&_nc_tpa=Q5bMBQJ6RK8ybnRj8A7TsRmcfIyfaCEwjm2zFeo7yorDuQb4m9dblb3Lx3VRpMsZqLO5poMzMSFp_0h4EA&oh=00_AQSVsDRivoDHllPxH_qnZhfLGVmv8skN1-HIrZtdKNUWLA&oe=6B0CFF01",
