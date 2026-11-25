@@ -14089,21 +14089,24 @@
       "363312640206172": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122204352590461850_1470953661868705",
        "error": null,
        "last_attempt": "2026-11-25T15:49:44+04:00",
        "mode": "immediate",
        "photo_id": "122204352566461850",
        "post_id": "363312640206172_122204352590461850",
-       "status": "published"
+       "status": "done"
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229755996543856_1500680255276503",
        "error": null,
        "last_attempt": "2026-11-25T15:50:24+04:00",
        "mode": "immediate",
        "photo_id": "122229755960543856",
        "post_id": "444776585382502_122229755996543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Meine Tochter starb mit 18 bei der Geburt ihres Sohnes – zehn Jahre später stand eine Fremde an ihrem Grab und überreichte mir einen Brief",
