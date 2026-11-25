@@ -20,6 +20,7 @@
   "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
   "5d67279da1e3d48db9cd": "2026-11-16T00:18:23+00:00",
   "69c3ac847b66c7a0472e": "2026-11-17T17:51:44+00:00",
+  "6bc11208f1f5019dd4b9": "2026-11-25T18:00:28+00:00",
   "6d1360b71c35b272374f": "2026-11-21T14:12:53+00:00",
   "6ea240ce08a9828f6d3b": "2026-11-21T19:44:46+00:00",
   "6ef6e1fee3c933942094": "2026-11-22T21:17:15+00:00",
@@ -11830,7 +11831,74 @@
   },
   "2026-11-25 21:59": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mon patron milliardaire me traitait comme un meuble depuis trois ans, jusqu'au jour où j'ai pris son téléphone et lui ai révélé ce que ses propres cadres lui cachaient",
+     "warnings": [
+      "часть 1: 756 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1195,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T21:59:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/923918896_122132500898893096_9162635445654673100_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DuHIHacGQ-oQ7kNvwFYuz0s&_nc_oc=AdpZdPiwyWLq5v3hI97I5EtBCB4DtHDkm9bBzZNiSIxHcRFaMxua1tgo1ONhM40ETiI&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=tCLfrZX4kwAFJEej0LsCKw&_nc_tpa=Q5bMBQJjPVCKLk9Xg-pYIRfVm1_qr71v3jFFO1eyjSjB_qtcGFFy8YgAnfGi9kBQG-Izdpn-4mcET9XUSg&oh=00_AQQJLZDvQSNOuYlmnm43dUmLh7eX89d-GtmiXK7Yo0Fvfw&oe=6B0CFA19",
@@ -11842,7 +11910,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-2159-fr.jpg"
    },
    "source_key": "post:61576792898556_122132500928893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12501,7 +12569,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-25 21:59",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122154687345170576": {
    "fingerprint": "4150d4991935283f6fd8",
