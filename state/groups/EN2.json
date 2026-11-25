@@ -14175,12 +14175,14 @@
       },
       "994273113779575": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140629290776189_1664869545047378",
        "error": null,
        "last_attempt": "2026-11-25T18:02:54+04:00",
        "mode": "schedule",
        "photo_id": "122140629260776189",
        "post_id": "994273113779575_122140629290776189",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "He Sold Our Baby's Crib and My Late Mother's Sewing Machine for a Gaming Setup, Then Left Our Daughter in the Garage, but the Baby Monitor and a Knock at the Door Changed Everything",
@@ -14243,7 +14245,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1830-en2.jpg"
    },
    "source_key": "post:100044802900629_1683073856529362",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
