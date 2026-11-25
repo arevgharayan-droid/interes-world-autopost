@@ -24453,6 +24453,12 @@
        "photo_id": "122124611745305562",
        "post_id": "1180583925128715_122124611775305562",
        "status": "scheduled"
+      },
+      "1205654249300186": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T03:56:45+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "Eşimin cenazesinde oğlum harçlığımı kesti, ben valizimi alıp kayboldum; gece yarısı 140 cevapsız çağrı düştü, çünkü oturdukları evin gerçek sahibini öğrenmişlerdi",
