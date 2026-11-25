@@ -13988,12 +13988,13 @@
       "1210451145474950": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122135837211306170_1806303497286815",
        "error": null,
        "last_attempt": "2026-11-25T13:45:44+04:00",
        "mode": "immediate",
        "photo_id": "122135837175306170",
        "post_id": "1210451145474950_122135837211306170",
-       "status": "published"
+       "status": "done"
       },
       "1239848699214091": {
        "attempts": 1,

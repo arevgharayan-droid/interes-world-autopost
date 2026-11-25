@@ -11585,6 +11585,7 @@
       },
       "1032441206625600": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-25T13:47:48+04:00",
        "mode": "immediate",
