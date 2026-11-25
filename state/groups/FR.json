@@ -12130,48 +12130,58 @@
      "pages": {
       "1011074408765807": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105758166536431_1864346948318529",
        "error": null,
        "last_attempt": "2026-11-26T00:13:43+04:00",
        "mode": "immediate",
        "photo_id": "122105758142536431",
        "post_id": "1011074408765807_122105758166536431",
-       "status": "published"
+       "status": "done"
       },
       "1032441206625600": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118310376633539_1497353469125133",
        "error": null,
        "last_attempt": "2026-11-26T00:13:03+04:00",
        "mode": "immediate",
        "photo_id": "122118310352633539",
        "post_id": "1032441206625600_122118310376633539",
-       "status": "published"
+       "status": "done"
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144872706738075_1404816641514919",
        "error": null,
        "last_attempt": "2026-11-26T00:16:16+04:00",
        "mode": "immediate",
        "photo_id": "122144872682738075",
        "post_id": "1041497042386258_122144872706738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109713222457428_2049487509045485",
        "error": null,
        "last_attempt": "2026-11-26T00:17:24+04:00",
        "mode": "immediate",
        "photo_id": "122109713198457428",
        "post_id": "1058598924006917_122109713222457428",
-       "status": "published"
+       "status": "done"
       },
       "106591088255968": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1482525084016888_1404297301779391",
        "error": null,
        "last_attempt": "2026-11-26T00:14:22+04:00",
        "mode": "immediate",
        "photo_id": "1482525034016893",
        "post_id": "106591088255968_1482525084016888",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -12186,21 +12196,25 @@
       },
       "1103884436136482": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105682710536887_1459019713064976",
        "error": null,
        "last_attempt": "2026-11-26T00:15:42+04:00",
        "mode": "immediate",
        "photo_id": "122105682686536887",
        "post_id": "1103884436136482_122105682710536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127425787303172_1420636523487083",
        "error": null,
        "last_attempt": "2026-11-26T00:12:24+04:00",
        "mode": "immediate",
        "photo_id": "122127425757303172",
        "post_id": "1145306638657445_122127425787303172",
-       "status": "published"
+       "status": "done"
       },
       "1202025962997153": {
        "attempts": 1,
@@ -12226,21 +12240,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131226583441679_1460902112199224",
        "error": null,
        "last_attempt": "2026-11-26T00:15:03+04:00",
        "mode": "immediate",
        "photo_id": "122131226559441679",
        "post_id": "1260826840455724_122131226583441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130944769425731_2826228101108768",
        "error": null,
        "last_attempt": "2026-11-26T00:16:53+04:00",
        "mode": "immediate",
        "photo_id": "122130944745425731",
        "post_id": "1280413955154689_122130944769425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Sur la tombe de ma mère, un petit garçon l'appelait « Mamie », et la photo qu'il tenait m'a révélé que mon ex-femme, introuvable depuis huit ans, était en danger",
@@ -12297,7 +12315,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-0000-fr.jpg"
    },
    "source_key": "post:100067526447776_1462030536057814",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
