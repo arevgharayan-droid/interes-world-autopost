@@ -1,3 +1,1 @@
-{"id":"slot-1830-2511","cmd":"batch","args":{"steps":[
- {"cmd":"skip-slot","args":{"slot":"2026-11-25 18:00"}},
- {"cmd":"start-now","args":{"at":"2026-11-25 18:30"}}]}}
+{"id":"start-now-2511-2158","cmd":"start-now","args":{}}
