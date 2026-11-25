@@ -23851,30 +23851,36 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129930889306316_1668115271359694",
        "error": null,
        "last_attempt": "2026-11-26T00:25:00+04:00",
        "mode": "immediate",
        "photo_id": "122129930865306316",
        "post_id": "1138572272664180_122129930889306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120863191471857_2373352866837425",
        "error": null,
        "last_attempt": "2026-11-26T00:24:48+04:00",
        "mode": "immediate",
        "photo_id": "122120863161471857",
        "post_id": "1338630212673029_122120863191471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123586267505599_29640818678862883",
        "error": null,
        "last_attempt": "2026-11-26T00:24:37+04:00",
        "mode": "immediate",
        "photo_id": "122123586243505599",
        "post_id": "1448441201677530_122123586267505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ela passou 30 anos sendo alvo de piadas por causa da altura, mas quando finalmente encontrou o amor e engravidou, a sogra lhe ofereceu 100 mil dólares para abandonar o bebê no hospital",
@@ -23883,6 +23889,7 @@
      ],
      "wp_error": null,
      "wp_id": 781,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -23907,84 +23914,102 @@
       },
       "1018759874664543": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121091551294825_1899227244829607",
        "error": null,
        "last_attempt": "2026-11-26T00:21:26+04:00",
        "mode": "immediate",
        "photo_id": "122121091527294825",
        "post_id": "1018759874664543_122121091551294825",
-       "status": "published"
+       "status": "done"
       },
       "1036597159544783": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120337338642087_977623658416787",
        "error": null,
        "last_attempt": "2026-11-26T00:20:57+04:00",
        "mode": "immediate",
        "photo_id": "122120337314642087",
        "post_id": "1036597159544783_122120337338642087",
-       "status": "published"
+       "status": "done"
       },
       "1038143956055997": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113577738600554_1576250144528830",
        "error": null,
        "last_attempt": "2026-11-26T00:16:04+04:00",
        "mode": "immediate",
        "photo_id": "122113577714600554",
        "post_id": "1038143956055997_122113577738600554",
-       "status": "published"
+       "status": "done"
       },
       "1042837395585806": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117972990623459_1945652266570636",
        "error": null,
        "last_attempt": "2026-11-26T00:14:51+04:00",
        "mode": "immediate",
        "photo_id": "122117972966623459",
        "post_id": "1042837395585806_122117972990623459",
-       "status": "published"
+       "status": "done"
       },
       "1051766924693580": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137801082733379_1480039687571537",
        "error": null,
        "last_attempt": "2026-11-26T00:16:41+04:00",
        "mode": "immediate",
        "photo_id": "122137801058733379",
        "post_id": "1051766924693580_122137801082733379",
-       "status": "published"
+       "status": "done"
       },
       "1066862079844179": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112492212596942_2183429359203667",
        "error": null,
        "last_attempt": "2026-11-26T00:17:47+04:00",
        "mode": "immediate",
        "photo_id": "122112492188596942",
        "post_id": "1066862079844179_122112492212596942",
-       "status": "published"
+       "status": "done"
       },
       "1069814529551887": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128124427303687_1136470652436282",
        "error": null,
        "last_attempt": "2026-11-26T00:22:25+04:00",
        "mode": "immediate",
        "photo_id": "122128124403303687",
        "post_id": "1069814529551887_122128124427303687",
-       "status": "published"
+       "status": "done"
       },
       "1075346445663696": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144627120775004_1018968074619340",
        "error": null,
        "last_attempt": "2026-11-26T00:21:54+04:00",
        "mode": "immediate",
        "photo_id": "122144627096775004",
        "post_id": "1075346445663696_122144627120775004",
-       "status": "published"
+       "status": "done"
       },
       "1075712068960532": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119735202628634_1443999582132534",
        "error": null,
        "last_attempt": "2026-11-26T00:19:30+04:00",
        "mode": "immediate",
        "photo_id": "122119735178628634",
        "post_id": "1075712068960532_122119735202628634",
-       "status": "published"
+       "status": "done"
       },
       "1084212424777390": {
        "attempts": 1,
@@ -23999,30 +24024,36 @@
       },
       "1092061600653020": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112228524588206_1184837253898453",
        "error": null,
        "last_attempt": "2026-11-26T00:15:31+04:00",
        "mode": "immediate",
        "photo_id": "122112228500588206",
        "post_id": "1092061600653020_122112228524588206",
-       "status": "published"
+       "status": "done"
       },
       "1097710383424105": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117617802343996_2231310534457074",
        "error": null,
        "last_attempt": "2026-11-26T00:20:31+04:00",
        "mode": "immediate",
        "photo_id": "122117617778343996",
        "post_id": "1097710383424105_122117617802343996",
-       "status": "published"
+       "status": "done"
       },
       "1098718609991464": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124141957297368_1388794716527721",
        "error": null,
        "last_attempt": "2026-11-26T00:20:00+04:00",
        "mode": "immediate",
        "photo_id": "122124141933297368",
        "post_id": "1098718609991464_122124141957297368",
-       "status": "published"
+       "status": "done"
       },
       "1113548795169055": {
        "attempts": 1,
@@ -24048,12 +24079,14 @@
       },
       "1118090254718709": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122103967574556634_1160794166448186",
        "error": null,
        "last_attempt": "2026-11-26T00:18:21+04:00",
        "mode": "immediate",
        "photo_id": "122103967538556634",
        "post_id": "1118090254718709_122103967574556634",
-       "status": "published"
+       "status": "done"
       },
       "1125468037313193": {
        "attempts": 1,
@@ -24079,21 +24112,25 @@
       },
       "1146158698570676": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130763785300293_3340743396113777",
        "error": null,
        "last_attempt": "2026-11-26T00:17:13+04:00",
        "mode": "immediate",
        "photo_id": "122130763761300293",
        "post_id": "1146158698570676_122130763785300293",
-       "status": "published"
+       "status": "done"
       },
       "1167733113080371": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131129959307779_4803305273282265",
        "error": null,
        "last_attempt": "2026-11-26T00:18:56+04:00",
        "mode": "immediate",
        "photo_id": "122131129935307779",
        "post_id": "1167733113080371_122131129959307779",
-       "status": "published"
+       "status": "done"
       },
       "988042774402200": {
        "attempts": 1,
@@ -24123,39 +24160,47 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125578153304633_1521365069809957",
        "error": null,
        "last_attempt": "2026-11-26T00:23:50+04:00",
        "mode": "immediate",
        "photo_id": "122125578129304633",
        "post_id": "1083701291497481_122125578153304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128822377311884_1345920467617116",
        "error": null,
        "last_attempt": "2026-11-26T00:22:53+04:00",
        "mode": "immediate",
        "photo_id": "122128822353311884",
        "post_id": "1129620776897151_122128822377311884",
-       "status": "published"
+       "status": "done"
       },
       "1164575726728296": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128275753307134_1829037544849011",
        "error": null,
        "last_attempt": "2026-11-26T00:23:23+04:00",
        "mode": "immediate",
        "photo_id": "122128275729307134",
        "post_id": "1164575726728296_122128275753307134",
-       "status": "published"
+       "status": "done"
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124597111305562_1001619112509118",
        "error": null,
        "last_attempt": "2026-11-26T00:24:14+04:00",
        "mode": "immediate",
        "photo_id": "122124597081305562",
        "post_id": "1180583925128715_122124597111305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "30 Yıl Boyunca Boyuyla Alay Edildi, Sonra Hamile Kalınca Kayınvalidesi Bebeğini Hastanede Bırakması İçin 100 Bin Dolar Teklif Etti",
@@ -24165,6 +24210,7 @@
      ],
      "wp_error": null,
      "wp_id": 780,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "UK": {
@@ -24184,7 +24230,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-0000-ru.jpg"
    },
    "source_key": "post:100067526447776_1461503732777161",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
