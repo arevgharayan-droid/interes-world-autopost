@@ -15608,3 +15608,5 @@
 {"slot": "2026-11-26 00:00", "lang": "PT", "action": "wp_post", "id": 781, "status": "publish", "t": "2026-11-25T19:59:47+00:00", "group": "RU"}
 {"slot": "2026-11-26 00:00", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": ["часть 1: 734 слов"], "t": "2026-11-25T19:59:47+00:00", "group": "FR"}
 {"slot": "2026-11-26 00:00", "lang": "FR", "action": "wp_post", "id": 1207, "status": "publish", "t": "2026-11-25T19:59:48+00:00", "group": "FR"}
+{"slot": "2026-11-26 00:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": ["часть 1: 732 слов", "часть 1 не обрывается на «…»"], "t": "2026-11-25T19:59:49+00:00", "group": "EN2"}
+{"slot": "2026-11-26 00:00", "lang": "EN", "action": "wp_post", "id": 1208, "status": "publish", "t": "2026-11-25T19:59:50+00:00", "group": "EN2"}
