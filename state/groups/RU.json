@@ -22604,7 +22604,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-25T15:43:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/916954275_122107016702556305_7680260743434789467_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=F_m1dAsxZP8Q7kNvwEFCNdu&_nc_oc=AdqmErQ78An7Qwfo-R3hZVHeh2BB7KLnRPOh8Wbv9g7Yo9t3J9xCFMDdFhAMK3ehkgM&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ClW83Mm_S0tamwnL43CrAQ&_nc_tpa=Q5bMBQLW_T1IqZ-e_HIPX2Zwj8UdOn0AzF4EVPYRFKt54EEC0G7R55ZoXJzgN1wHHPVFKLXpigAL5LMGqQ&oh=00_AQQCqOoZrEfL5kl3joyn8rUVVwc6WixAK-17lKBv_CqDnA&oe=6B0CB4AE",
+    "link": "https://www.facebook.com/story.php?story_fbid=122107016756556305&id=61566689175708",
+    "origin": "manual",
+    "page_id": "61566689175708",
+    "text": "MON MARI M’A ORDONNÉ DE RESTER À LA MAISON POUR FAIRE LA VAISSELLE PENDANT QU’IL EMMENAIT SA MAÎTRESSE À UN GALA DE LUXE. IL IGNORAIT QUE LA MILLIARDAIRE DONT IL ATTENDAIT DES MILLIONS… C’ÉTAIT MOI ! 😱**\n\n« Ce soir, tu restes ici, Brooke. Fais la vaisselle et essaie au moins de te rendre utile. »\n\nMon mari, Garrett, ajustait son smoking devant le miroir.\n\nSa mère et sa sœur éclatèrent de rire. À côté de lui, Delaney, sa maîtresse, arrangeait son nœud papillon.\n\n« Tu comptes vraiment l'emmener au gala à ma place ? » demandai-je.\n\n« Évidemment ! J'ai besoin d'une femme élégante, pas d'une épouse qui me fait honte. Et n'oublie jamais une chose : sans moi, tu n'es rien. »\n\nJe ne répondis pas.\n\nJe regardai leur limousine disparaître dans la nuit.\n\nGarrett se rendait à un gala prestigieux à Manhattan pour rencontrer une mystérieuse milliardaire capable de sauver son entreprise de la faillite.\n\n**Ce qu'il ignorait, c'est que cette milliardaire… c'était moi.**\n\nDepuis huit ans, il me croyait financièrement dépendante de lui.\n\nEn réalité, j'avais bâti dans le plus grand secret un empire financier de plusieurs milliards de dollars.\n\nDès son départ, j'enlevai mes gants de ménage et descendis dans mon bureau privé.\n\nSur le mur figurait le nom de ma société : **ASHFORD INVESTMENT GROUP**.\n\nJe composai le numéro de mon avocat.\n\n« Tout est prêt ? »\n\n« Oui, madame Ashford. Nous avons également retrouvé les millions détournés par votre mari et sa maîtresse. »\n\nDepuis neuf mois, je savais que Garrett me trompait.\n\nMais j'avais découvert bien pire.\n\nDans un enregistrement, je l'avais entendu préparer notre divorce avec Delaney.\n\n« On fera établir de faux certificats médicaux. On dira que Brooke est mentalement instable et on récupérera tous ses biens. »\n\nIl voulait me dépouiller et me détruire.\n\nCette nuit-là, il allait découvrir à qui il avait réellement affaire.\n\n« Maître, installez mon mari au premier rang, juste devant la scène. »\n\nUne heure plus tard, vêtue d'une robe noire somptueuse, j'arrivai au gala dans une Rolls-Royce.\n\nLorsque mon nom fut annoncé, les invités se levèrent pour accueillir la mystérieuse investisseuse.\n\nGarrett applaudissait avec enthousiasme.\n\nPuis il me vit entrer.\n\nSon verre de champagne lui échappa des mains.\n\nDelaney devint livide.\n\nJe montai sur scène et m'approchai du micro.\n\nMais avant que je puisse prononcer un mot, mon avocat me rejoignit précipitamment.\n\n« Madame Ashford, nous venons de découvrir quelque chose concernant votre mari… »\n\nJe le regardai, inquiète.\n\n« Quoi donc ? »\n\nIl me tendit une enveloppe.\n\n« Ce n'est pas seulement votre fortune qu'il voulait voler. Nous avons découvert ce qu'il préparait pour vous après le divorce. Et il comptait agir dès demain matin. »\n\nJ'ouvris l'enveloppe.\n\nÀ la lecture du premier document, mon sang se glaça.\n\n**Ce que Garrett avait prévu était bien plus terrifiant qu'une simple trahison… 😨**\n\n**👇 Découvrez la suite dans les commentaires !",
+    "wp_media_id": 743,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261125-1543-ru.jpg"
+   },
+   "source_key": "post:61566689175708_122107016756556305",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-25 18:00": {
    "langs": {},
@@ -23182,6 +23198,14 @@
    "page_id": "61560353781750",
    "slot": "2026-11-12 15:00",
    "status": "used"
+  },
+  "post:61566689175708_122107016756556305": {
+   "fingerprint": "0d6884f42b40b1ae685b",
+   "link": "https://www.facebook.com/story.php?story_fbid=122107016756556305&id=61566689175708",
+   "origin": "manual",
+   "page_id": "61566689175708",
+   "slot": "2026-11-25 15:43",
+   "status": "reserved"
   },
   "post:61572021954882_122190320942734065": {
    "fingerprint": "ad9485541677aaf7ee77",

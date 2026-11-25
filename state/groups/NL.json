@@ -13988,7 +13988,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-25T15:43:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/915791940_122110411916588481_4723136208070057690_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=uXids6coehsQ7kNvwHpa_pI&_nc_oc=AdqtQ6xqIqSrhs14EY5Um6lO-LrY3OcCP36Dhg14KB8QtCcrfGKGKk4Yjh9PGiM94Ss&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=fsi70g_Cn7ah_t9RzaQ-yA&_nc_tpa=Q5bMBQLOLwFOpiYKzcfPDLqthuqABmY-RDStEfCoOuFL-m1qSlWiHSFC4hvyloFAGVmxIuXz0odvFPFlzg&oh=00_AQQpnIFX7xw6IbI7GUOfOtV0kuiB8gWWHej_6jhIjPzU5w&oe=6B0CB455",
+    "link": "https://www.facebook.com/story.php?story_fbid=122110411970588481&id=61567654436785",
+    "origin": "manual",
+    "page_id": "61567654436785",
+    "text": "Ma fille est morte à 18 ans en donnant naissance à son fils. Pendant dix ans, j’ai élevé cet enfant sans jamais savoir qui était son père… Jusqu’au jour où une inconnue est apparue sur la tombe de ma fille avec une révélation bouleversante.**\n\nMa fille, Teagan, avait toujours été discrète sur sa vie amoureuse. Alors, lorsqu’elle m’annonça qu’elle était enceinte à seulement 18 ans, je restai sans voix.\n\n— Mais ma chérie, tu es si jeune ! Qui est le père ?\n\nElle baissa les yeux et serra mes mains.\n\n— Maman, je t’en supplie, ne me demande pas ça. Je veux garder mon bébé. Je l’aime déjà tellement.\n\nMalgré mes questions, elle refusa obstinément de révéler le nom du père.\n\nQuelques mois plus tard, le pire arriva.\n\nDes complications survinrent pendant l'accouchement. Après plusieurs heures d'attente, un médecin s'approcha de moi, le visage grave.\n\n— Madame… Nous avons fait tout notre possible.\n\nMa fille était morte.\n\nSon petit garçon, lui, avait survécu.\n\nJe l'appelai Lucas et décidai de l'élever comme mon propre fils.\n\nLes années passèrent. Lucas grandissait, curieux, affectueux, et me posait souvent des questions sur sa maman.\n\nJe lui montrais des photos de Teagan, lui racontais ses souvenirs d'enfance et combien elle l'avait aimé avant même sa naissance.\n\nUn soir, en regardant son portrait, il murmura :\n\n— Mamie, elle était tellement belle… J'aurais tellement voulu la connaître.\n\nJe le serrai contre moi pour cacher mes larmes.\n\nDix ans après sa mort, le jour où Teagan aurait fêté ses 28 ans, nous nous rendîmes au cimetière avec des fleurs.\n\nEn arrivant, Lucas s'exclama :\n\n— Mamie ! J'ai oublié le dessin que j'ai fait pour maman dans la voiture !\n\nIl repartit le chercher tandis que je continuais seule.\n\nC'est alors que j'aperçus une femme inconnue devant la tombe de ma fille.\n\nElle semblait pleurer.\n\n— Excusez-moi… Vous connaissiez Teagan ?\n\nLa femme se retourna brusquement. Lorsqu'elle me vit, son visage pâlit.\n\n— Vous êtes sa mère, n'est-ce pas ?\n\n— Oui… Mais qui êtes-vous ?\n\nElle ouvrit lentement son sac et en sortit une enveloppe jaunie, soigneusement fermée.\n\n— Il y a dix ans, j'ai fait une promesse à votre fille. Elle m'a suppliée de garder un secret jusqu'à ce que Lucas soit assez grand.\n\nMon cœur se mit à battre violemment.\n\n— Quel secret ?\n\nLa femme prit une profonde inspiration.\n\n— Votre fille ne vous a jamais dit qui était le père de son enfant… Mais ce n'était pas parce qu'elle ne le connaissait pas.\n\nElle me tendit l'enveloppe.\n\nSur le devant, je reconnus immédiatement l'écriture de Teagan.\n\n**« Pour maman. À ouvrir lorsque Lucas aura dix ans. »**\n\nMes mains se mirent à trembler.\n\nPuis l'inconnue prononça une phrase qui me glaça le sang :\n\n— Avant de lire cette lettre, vous devez savoir une chose… Le père de Lucas sait parfaitement qu'il existe.\n\n**Et lorsque j'ouvris enfin l'enveloppe, je découvris un nom que je connaissais beaucoup trop bien…**\n\n👇 **Découvrez la suite dans les commentaires.",
+    "wp_media_id": 1158,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1543-nl.jpg"
+   },
+   "source_key": "post:61567654436785_122110411970588481",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-25 18:00": {
    "langs": {},
@@ -14543,6 +14559,14 @@
    "page_id": "61560353781750",
    "slot": "2026-11-12 15:00",
    "status": "used"
+  },
+  "post:61567654436785_122110411970588481": {
+   "fingerprint": "22a8ee832620f254369a",
+   "link": "https://www.facebook.com/story.php?story_fbid=122110411970588481&id=61567654436785",
+   "origin": "manual",
+   "page_id": "61567654436785",
+   "slot": "2026-11-25 15:43",
+   "status": "reserved"
   },
   "post:61573363363721_122138887658778778": {
    "fingerprint": "5ac7f4f0ad6a1edd5585",
