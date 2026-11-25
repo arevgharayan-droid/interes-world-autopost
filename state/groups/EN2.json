@@ -56,6 +56,7 @@
   "e94ee160cd92603444dc": "2026-11-13T14:37:33+00:00",
   "ec8a996001a5f582c700": "2026-11-16T00:21:16+00:00",
   "ecd509b2d2a0875c3b1a": "2026-11-22T21:41:36+00:00",
+  "f32f1a1f1f7181be17a2": "2026-11-25T22:45:46+00:00",
   "f855d853b2033f80317b": "2026-11-16T23:51:16+00:00"
  },
  "outputs": {
@@ -14326,7 +14327,72 @@
    }
   },
   "2026-11-26 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Husband Texted at 2 A.M. That I Wasn't Welcome at Our Son's Birthday Party, So I Came Downstairs in My Dress Uniform",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1220,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/923020438_122217184604841094_6082238819751217976_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qJPiLp_pS1IQ7kNvwGCkTY6&_nc_oc=AdqibXMziZIjKhOFeTBi06chjbNljXA5bwMPKbJaT8uwEf_3g4mxEmKGruBCAY9CMiE&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=g5SG8py3mX5On9KwBXIDeQ&_nc_tpa=Q5bMBQJ5acW8-uZZO6eBZItTZvBV-IVID0mHm6OSNepyqJD-RhG3Yr2EW4os3yT22_ko0Fya-fovOHapPg&oh=00_AQTrpHiJT2770yKkyIRausiyWkIIQ-OkNrKhwsCmUF4X2g&oe=6B0D45DB",
@@ -14338,7 +14404,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1200-en2.jpg"
    },
    "source_key": "post:61575232821594_122217184628841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14935,7 +15001,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-26 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130738032893096": {
    "fingerprint": "f5b688138af06f2a13a3",
