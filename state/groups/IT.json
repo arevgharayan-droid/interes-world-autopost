@@ -3,6 +3,7 @@
  "fb_block_until": "2026-11-14T14:15:14+04:00",
  "output_fps": {
   "01e12e5644fd826a0d81": "2026-11-17T10:38:47+00:00",
+  "020b5aec85073f4a0381": "2026-11-25T18:01:07+00:00",
   "02c45daf513c9a8ec932": "2026-11-21T22:45:36+00:00",
   "05691ada2c15180a0929": "2026-11-18T18:29:38+00:00",
   "0899af47dd13160fe513": "2026-11-22T21:17:32+00:00",
@@ -21,6 +22,7 @@
   "18363b3ec6863c5f1434": "2026-11-23T13:49:59+00:00",
   "19a57f6af7fdd9942bfb": "2026-11-19T19:58:46+00:00",
   "1a13bfd0bf844bdd07ba": "2026-11-22T21:35:02+00:00",
+  "1bafe9e4eb48ae562ba3": "2026-11-25T18:01:07+00:00",
   "1eab041a643e0f2771a6": "2026-11-18T22:49:46+00:00",
   "20a11149af6c5503382f": "2026-11-22T16:32:05+00:00",
   "227c0bc7a9c0998d2c9e": "2026-11-24T09:25:10+00:00",
@@ -38,6 +40,7 @@
   "33b23e888b18caa14bba": "2026-11-22T14:04:30+00:00",
   "38bfd746765ee4a3638e": "2026-11-22T22:13:01+00:00",
   "3b79121acdb58cc4cc71": "2026-11-21T19:44:42+00:00",
+  "3b873b5b67b7ecedde19": "2026-11-25T18:01:07+00:00",
   "3cd0bbe178487279f165": "2026-11-20T14:41:44+00:00",
   "3f62142a218418288411": "2026-11-22T16:32:05+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
@@ -23216,7 +23219,86 @@
   },
   "2026-11-25 21:59": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Lékař mi podal poslední dopis své ženy a hned první věta mě donutila zapomenout, že jsem právě přišel o nejdůležitějšího člověka svého života",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1200,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Tornai dalla missione una settimana prima che nascessero le nostre quattro figlie, ma al posto di mia moglie trovai una sua lettera con una confessione che mi gelò il sangue",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1198,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wróciłem z misji tydzień przed narodzinami czterech córek, a zamiast żony lekarz podał mi jej ostatni list, który zaczynał się od wyznania",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1199,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T21:59:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/921709713_122132309450893096_1517445684843863024_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SDt8ozTldRQQ7kNvwGqA0-k&_nc_oc=AdrNydnts1WWDGLGkqrnK-sCOGpVNhzjaNpJI0ruxB6rYeHu5tv9bmxzMJihzadvCVA&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=jd2PwY2sVwzDVraFCBgYKg&_nc_tpa=Q5bMBQLGB1ZzhstJobZ4q2ciYqhRiK_zrm1VgHtipaYkCa68wJhO3FAAxe05YBGainVfmzbkvG7oRJvMLw&oh=00_AQRBcK6RwVOAaeA6LsaA84z3nXOhQnJC3J6N465SX2gcNA&oe=6B0CFBF5",
@@ -23228,7 +23310,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-2159-it.jpg"
    },
    "source_key": "post:61576792898556_122132321246893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -23863,7 +23945,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-25 21:59",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61581309613138_122139126693043653": {
    "fingerprint": "46e40b262bbb97256598",
