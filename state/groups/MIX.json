@@ -9324,7 +9324,10 @@
      "title": "حفيدي توقف عن الكلام معي قبل تخرجه بشهر، وحين صعد إلى المسرح وكشف السبب لم أستطع أن أكفّ عن البكاء",
      "warnings": [
       "длина текста FB 460 слов (исходник 614, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 776,
+     "wp_status": "publish"
     },
     "CS": {
      "pages": {},
@@ -9346,7 +9349,10 @@
      "title": "Mi nieto dejó de hablarme un mes antes de su graduación, y cuando subió al escenario y reveló el motivo, no pude dejar de llorar",
      "warnings": [
       "длина текста FB 480 слов (исходник 614, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 774,
+     "wp_status": "publish"
     },
     "FR": {
      "pages": {},
@@ -9376,7 +9382,10 @@
      "title": "Nepotul meu nu mi-a mai vorbit o lună înainte de absolvire, iar pe scenă a dezvăluit adevărul care a lăsat toată sala în lacrimi",
      "warnings": [
       "длина текста FB 521 слов (исходник 614, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 775,
+     "wp_status": "publish"
     },
     "RU": {
      "backend": "subscription",
@@ -9386,7 +9395,10 @@
      "title": "Внук перестал со мной разговаривать за месяц до выпускного, а на сцене признался, почему, и я не могла остановить слёзы",
      "warnings": [
       "длина текста FB 437 слов (исходник 614, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 773,
+     "wp_status": "publish"
     },
     "TR": {
      "pages": {},
@@ -9397,6 +9409,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-25T21:59:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/916504355_122148048201244157_5625996490712452434_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KEUYIRcb9IcQ7kNvwEqS_B7&_nc_oc=AdqiuF-PkKS-w0L18YkW6dqY41d8YFAiG72rvpN-LbKGQpwnGb6uUZz5-vkGFOzX4jE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GDn6YFY7hL-HJcW9cMnJVA&_nc_tpa=Q5bMBQIIGmDibcfewSd8EDs98lVF2HaiTxEdOdLp_QtqavDi_6q_vpQtq5tT2XNMetBZskzUZbfu1QYCeA&oh=00_AQSz-6fjgIefBnO1ockTTo4k9gPX78VYViPGBoa4DXLevw&oe=6B0CDAEA",
@@ -9408,7 +9421,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261125-2159-mix.jpg"
    },
    "source_key": "post:61587324730850_122148048285244157",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -9835,7 +9848,7 @@
    "origin": "manual",
    "page_id": "61587324730850",
    "slot": "2026-11-25 21:59",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61591429329254_122141528829380977": {
    "fingerprint": "b542d90b9fda05158e34",
