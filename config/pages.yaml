@@ -19,6 +19,7 @@ languages:
       - {page_id: "1103884436136482", name: "Vie en Stories", profile_id: "61566106633253", added: "2026-11-13"}
       - {page_id: "1041497042386258", name: "Une Histoire Qui Vous Touchera", profile_id: "61572142269665", added: "2026-11-13"}
       - {page_id: "1280413955154689", name: "Cœurs en Images", profile_id: "61592771954419", added: "2026-11-16"}
+      - {page_id: "1209115882290937", name: "Vies en Regard", added: "2026-11-26"}  # портфолио Em Virals, партнёр Interes World; autopost3
   IT:
     name: Italian
     make_modules: "claude 522, wordpress 20"
@@ -45,6 +46,8 @@ languages:
       - {page_id: "1093003583899107", name: "Emozioni Italiane", profile_id: "61589007555641", added: "2026-11-16"}
       - {page_id: "1078100405390763", name: "Momenti di Vita #2", profile_id: "61589167538572", added: "2026-11-16"}
       - {page_id: "1174674892385169", name: "Storie del Cuore", profile_id: "61589044483722", added: "2026-11-16"}
+      - {page_id: "1152171097987054", name: "Traccw di Vita", added: "2026-11-26"}  # портфолио Em Virals, партнёр Interes World; autopost3
+      # Cuori in Rovina (1199303859939709, профиль 61592020480874) — добавить после 03.12.2026 03:36 (ограничение Meta)
   EN:
     name: English
     make_modules: "claude 532, wordpress 30"
@@ -126,6 +129,8 @@ languages:
       - {page_id: "1164575726728296", name: "Kalpten Hikayeler", profile_id: "61589214036555", added: "2026-10-25", group: RU}  # снова включена 09.11.2026
       - {page_id: "1083701291497481", name: "Hayatın Saklı Yüzü", profile_id: "61589139011747", added: "2026-11-16", group: RU}
       - {page_id: "1180583925128715", name: "Kalpte Kalan Hikayeler", profile_id: "61589166879771", added: "2026-11-16", group: RU}
+      - {page_id: "1157031800834413", name: "Yaşamdan Kareler", added: "2026-11-26", group: RU}  # портфолио Em Virals, партнёр Interes World; autopost3
+      - {page_id: "1205654249300186", name: "Herkesin Hikayesi", added: "2026-11-26", group: RU}  # портфолио Em Virals, партнёр Interes World; autopost4
   DE:
     name: German
     # новые немецкие страницы — в группе NL (одна история на NL + DE)
@@ -138,6 +143,7 @@ languages:
       - {page_id: "1129908326870761", name: "Geschichten aus Österreich", profile_id: "61589481059697", added: "2026-11-13", group: NL}
       - {page_id: "1028964020310052", name: "Momente des Lebens", profile_id: "61589308206601", added: "2026-11-13", group: NL}
       - {page_id: "1089186904280406", name: "Herzgeschichten Deutschland", profile_id: "61589640981859", added: "2026-11-13", group: NL}
+      - {page_id: "1174913505713830", name: "Geschichten des Alltags", added: "2026-11-26", group: NL}  # портфолио Em Virals, партнёр Interes World; autopost4
 
   PT:
     name: Portuguese
@@ -159,6 +165,7 @@ languages:
     # группа IT — с 14.11.2026
     pages:   # добавлены 13.11.2026
       - {page_id: "1106793902521611", name: "Příběhy ze Srdce", profile_id: "61589846932566", added: "2026-11-13", group: IT}
+      - {page_id: "1220855754440320", name: "Střípky Života", added: "2026-11-26", group: IT}  # портфолио Em Virals, партнёр Interes World; autopost4
   # --- бывшая группа MIX (16–26.11.2026). С 26.11.2026 Mix нет: украинские страницы (текст на русском) — в RU+TR,
   #     ES, RO, AR — в FR+ES+RO+AR (статьи ES/RO/AR — на peakproductions.co, см. lang_sites в settings.yaml)
   UK:
