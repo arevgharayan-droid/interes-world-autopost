@@ -12176,12 +12176,13 @@
       "1079295351933311": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122124021603299008_1677332333992683",
        "error": null,
        "last_attempt": "2026-11-26T00:11:42+04:00",
        "mode": "immediate",
        "photo_id": "122124021579299008",
        "post_id": "1079295351933311_122124021603299008",
-       "status": "published"
+       "status": "done"
       },
       "1103884436136482": {
        "attempts": 1,
