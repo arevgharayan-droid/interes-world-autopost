@@ -50,6 +50,7 @@
   "d08fa78d06496d34cabd": "2026-11-25T11:44:19+00:00",
   "d09bc66b258d0b539a07": "2026-11-20T22:45:45+00:00",
   "d1e7d87ca5c11863154f": "2026-11-19T17:52:25+00:00",
+  "d2e6b687f65aba868de9": "2026-11-25T18:00:22+00:00",
   "ddf5c634b8dc1bccaf44": "2026-11-24T12:29:09+00:00",
   "eba593e9b8815a78e890": "2026-11-23T13:49:24+00:00",
   "ed1263949be80f9f9314": "2026-11-16T20:28:09+00:00",
@@ -16241,7 +16242,74 @@
   },
   "2026-11-25 21:59": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My husband packed the car with gifts for his family and told me and our four-year-old to take the bus, but he had no idea where we were really going",
+     "warnings": [
+      "часть 1: 779 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1194,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T21:59:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/911924081_122325198044191932_6504815683414968955_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zVw5MuYNRtIQ7kNvwF2jkr1&_nc_oc=AdqQWbUIPYIzoyGQrtMJszeCa0vbUQ1VNbh5dt494iVB4oYyYp6Dn3Apx7vyW8_3n80&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hDUb2Ms_umdfbCpg1Ok64Q&_nc_tpa=Q5bMBQLUkDTmDx6-QBOg6_qExRScc4KYuNKSDuTK4RJcx45nGxh6L9CCndg56b8ausohKNmvHxJu98652g&oh=00_AQSsOTjESuUet60yvxx8fSz6uLedlrkDCkl4hdtCAp4kAA&oe=6B0CF738",
@@ -16253,7 +16321,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-2159-en.jpg"
    },
    "source_key": "post:61555757972329_122325275216191932",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -16825,7 +16893,7 @@
    "origin": "manual",
    "page_id": "61555757972329",
    "slot": "2026-11-25 21:59",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61559846438723_122234851268328214": {
    "fingerprint": "53f93cb76184c3c83cc0",
