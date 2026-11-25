@@ -24013,6 +24013,12 @@
        "photo_id": "122117010369328231",
        "post_id": "1106793902521611_122117010399328231",
        "status": "scheduled"
+      },
+      "1220855754440320": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T03:56:51+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "Vrátil se z tajné mise a našel manželku na JIP s 27 zlomeninami. Její matka a šest sester se přitom usmívaly",
