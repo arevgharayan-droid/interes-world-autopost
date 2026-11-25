@@ -14699,66 +14699,80 @@
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131169973321366_2999349763751706",
        "error": null,
        "last_attempt": "2026-11-26T00:03:35+04:00",
        "mode": "immediate",
        "photo_id": "122131169949321366",
        "post_id": "1089186904280406_122131169973321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128568421309032_2335110313976785",
        "error": null,
        "last_attempt": "2026-11-26T00:03:00+04:00",
        "mode": "immediate",
        "photo_id": "122128568397309032",
        "post_id": "1102464712951594_122128568421309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126673963316035_2404102253457992",
        "error": null,
        "last_attempt": "2026-11-26T00:03:12+04:00",
        "mode": "immediate",
        "photo_id": "122126673939316035",
        "post_id": "1129908326870761_122126673963316035",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132807133418602_1455542169980091",
        "error": null,
        "last_attempt": "2026-11-26T00:02:37+04:00",
        "mode": "immediate",
        "photo_id": "122132807109418602",
        "post_id": "1208422892355505_122132807133418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135310141436382_1850812822884081",
        "error": null,
        "last_attempt": "2026-11-26T00:02:49+04:00",
        "mode": "immediate",
        "photo_id": "122135310111436382",
        "post_id": "1268633826332790_122135310141436382",
-       "status": "published"
+       "status": "done"
       },
       "363312640206172": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122204385548461850_1872557533882789",
        "error": null,
        "last_attempt": "2026-11-26T00:02:08+04:00",
        "mode": "immediate",
        "photo_id": "122204385524461850",
        "post_id": "363312640206172_122204385548461850",
-       "status": "published"
+       "status": "done"
       },
       "444776585382502": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122229800024543856_1443910194056452",
        "error": null,
        "last_attempt": "2026-11-26T00:02:25+04:00",
        "mode": "immediate",
        "photo_id": "122229800000543856",
        "post_id": "444776585382502_122229800024543856",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Der Millionär warf mir vor seinen drei Söhnen Diebstahl vor und jagte mich vom Anwesen, doch am Tor rannten die Drillinge blutend hinter mir her, und einer von ihnen rief etwas, das ihn erstarren ließ",
@@ -14915,7 +14929,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-0000-nl.jpg"
    },
    "source_key": "post:100067526447776_1461934126067455",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
