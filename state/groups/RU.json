@@ -22321,7 +22321,10 @@
      "warnings": [
       "длина текста FB 766 слов (исходник 915, цель ±10%)",
       "длина статьи 591 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 738,
+     "wp_status": "publish"
     },
     "RO": {
      "pages": {},
@@ -22358,6 +22361,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-25T13:42:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/903683162_122142331371225301_8447630303054782178_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3MMC8143rWAQ7kNvwHxmsx_&_nc_oc=AdoCeEZfw2duV9k2sRuhCsyXqeGhKMVlwdlFfW9ahcKLF2eBTcyuWFFp9W52toqiQz0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=aUcxavpRffNeIVptdQWHdQ&_nc_tpa=Q5bMBQJfd0avfpjH9dz1hpvAAiAJ4MZ2qKnzPRQs17xJFsX79bh6rzAVcC0On6uHkKrgqi3WMCM4a9vgBQ&oh=00_AQQKkdTWUZEGb1xYpbkIQnCgrdsIrTbZ0DnybJvIEp4Y4A&oe=6B0C95B4",
@@ -22369,7 +22373,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261125-1342-ru.jpg"
    },
    "source_key": "post:61586759032853_122142331443225301",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -23079,7 +23083,7 @@
    "origin": "manual",
    "page_id": "61586759032853",
    "slot": "2026-11-25 13:42",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587026316282_122142773337234210": {
    "fingerprint": "231ada8b5b1afe0241c3",
