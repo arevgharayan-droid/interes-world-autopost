@@ -9,6 +9,7 @@
   "1de1978484aefe0b2b8a": "2026-11-14T11:39:11+00:00",
   "1fd17475bec6b972056b": "2026-11-22T16:31:51+00:00",
   "20eeac9f368eb6b6f94d": "2026-11-21T22:45:27+00:00",
+  "2677a3c2bff6843f6d65": "2026-11-25T09:44:38+00:00",
   "2fe82e12e4ad9907ad54": "2026-11-14T19:42:21+00:00",
   "3da4775069ee736a2d78": "2026-11-22T21:33:46+00:00",
   "3dce7e6988a88bf961cd": "2026-11-19T17:52:54+00:00",
@@ -11523,7 +11524,74 @@
   },
   "2026-11-25 13:42": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ma mère a nourri un sans-abri pendant 20 ans : le lendemain de son enterrement, il m'a avoué le secret qu'elle voulait me cacher",
+     "warnings": [
+      "длина статьи 959 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1153,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T13:42:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/924514344_122127750219337152_2348756506501943917_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hL6gam6yrHgQ7kNvwG-MVIl&_nc_oc=AdohUZyR6Oxepv6qVn6OLt0LslEG1YmIvr6e5q6JFPFH4YR68FayrTay7kQPP6DtLjQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GExEbRpjH0Am-BF5l40XmQ&_nc_tpa=Q5bMBQLdiPe_fLNBCn387dqFrSvYZGmiTu3E8URkL2mlkJsRp1OCBIkyeT0mok_VcFVZT2dtE2Ute6ZEsw&oh=00_AQSVROKyX0m8SnCGTYxUB1tjorEDzzMPo-BK_HLuzllYTA&oe=6B0C9527",
@@ -11535,7 +11603,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1342-fr.jpg"
    },
    "source_key": "post:61590114583400_122127814293337152",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12247,7 +12315,7 @@
    "origin": "manual",
    "page_id": "61590114583400",
    "slot": "2026-11-25 13:42",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590177596600_122130279231339253": {
    "fingerprint": "ec29f1d20c896b9fdddb",
