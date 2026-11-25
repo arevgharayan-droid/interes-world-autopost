@@ -13877,12 +13877,13 @@
       "1102464712951594": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128521603309032_1186165841024240",
        "error": null,
        "last_attempt": "2026-11-25T13:51:38+04:00",
        "mode": "immediate",
        "photo_id": "122128521567309032",
        "post_id": "1102464712951594_122128521603309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
