@@ -22610,12 +22610,14 @@
       },
       "1160223747182678": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138688309400586_1438319671352677",
        "error": null,
        "last_attempt": "2026-11-25T13:45:20+04:00",
        "mode": "immediate",
        "photo_id": "122138688273400586",
        "post_id": "1160223747182678_122138688309400586",
-       "status": "published"
+       "status": "done"
       },
       "1160240797163045": {
        "attempts": 1,
@@ -22646,12 +22648,14 @@
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113573406437662_1761620838234150",
        "error": null,
        "last_attempt": "2026-11-25T13:46:01+04:00",
        "mode": "immediate",
        "photo_id": "122113573370437662",
        "post_id": "997772916762884_122113573406437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi ha lasciata dopo la diagnosi di cancro, poi si è presentato al ballo con la testa rasata e un lungo vestito",
