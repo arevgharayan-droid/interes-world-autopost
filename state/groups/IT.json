@@ -22955,6 +22955,12 @@
        "photo_id": "122123504919302807",
        "post_id": "1089456087587677_122123504943302807",
        "status": "published"
+      },
+      "1107966229066828": {
+       "attempts": 1,
+       "last_attempt": "2026-11-25T15:59:59+04:00",
+       "mode": "immediate",
+       "status": "sending"
       }
      },
      "title": "Chłopak zostawił ją po diagnozie nowotworu, ale na balu pojawił się z ogoloną głową i w fioletowej sukni. To, co powiedział do mikrofonu, wstrząsnęło wszystkimi",
