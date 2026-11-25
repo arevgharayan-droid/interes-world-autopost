@@ -23702,7 +23702,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T00:00:02+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Raymond gridò \"Non voglio!\" e fuggì dalla chiesa il giorno delle nostre nozze, ma cinquant'anni dopo un giovane avvocato bussò alla mia porta con una scatola",
      "warnings": [],
      "wp_error": null,

@@ -14659,7 +14659,10 @@
      "title": "Der Millionär warf mir vor seinen drei Söhnen Diebstahl vor und jagte mich vom Anwesen, doch am Tor rannten die Drillinge blutend hinter mir her, und einer von ihnen rief etwas, das ihn erstarren ließ",
      "warnings": [
       "часть 1: 788 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 1213,
+     "wp_status": "publish"
     },
     "EN": {
      "pages": {},
@@ -14715,6 +14718,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-26T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/931942757_1461934026067465_5326349264217533353_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fDCOGQ7kDIkQ7kNvwGxzZOV&_nc_oc=AdrjgxluXrJ5iEQgtcNoQZyWahxbQiOe36RYN78PiZ4Jr35vuAO_LeqN-GHp4SVoYZw&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=y__jZyVQtCuaAbw5Y6p3jg&_nc_tpa=Q5bMBQIVU7L1SaYclnKWg-g9y2NgDsT_grTA-lyxI86fbehvIdfYbrskFPO6A_lM4gPu-MKFO64IYVOpBA&oh=00_AQQ1UxpKXhQnMMq1T3kK4thbvWBEymiPeJ5SJ9uS88iolg&oe=6B0D2C82",
@@ -14726,7 +14730,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-0000-nl.jpg"
    },
    "source_key": "post:100067526447776_1461934126067455",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15191,7 +15195,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-26 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100069122846749_1463262675987813": {
    "fingerprint": "bb02176043329ab66fc7",
