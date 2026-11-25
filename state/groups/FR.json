@@ -23,6 +23,7 @@
   "6d1360b71c35b272374f": "2026-11-21T14:12:53+00:00",
   "6ea240ce08a9828f6d3b": "2026-11-21T19:44:46+00:00",
   "6ef6e1fee3c933942094": "2026-11-22T21:17:15+00:00",
+  "7f15a47b9e199a079e70": "2026-11-25T14:02:24+00:00",
   "82514212930f6a077dae": "2026-11-20T16:46:01+00:00",
   "85bf867d0894576de121": "2026-11-12T17:47:48+00:00",
   "87d1e0f4518d99214498": "2026-11-12T09:04:05+00:00",
@@ -11877,7 +11878,74 @@
   },
   "2026-11-25 18:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mon mari m'a abandonnée à un arrêt de bus sans argent ni téléphone pour me « donner une leçon », mais une vieille dame aveugle m'a soufflé : « Fais semblant d'être ma petite-fille",
+     "warnings": [
+      "длина текста FB 2051 слов (исходник 1687, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1176,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T18:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/927368373_1682334673269947_2936506892671599291_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eTAjIKCaoWcQ7kNvwFduD0Z&_nc_oc=Adpme7LvjGIoApXuSC7e4O5tUg6hZopDwuIl5UYftx1MFVBX1nzysLFbvcXKycvHHSg&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=2CmSs3RNkV7y8xI1K47A0A&_nc_tpa=Q5bMBQK7cwewhUGvMaaYfGL1Kg2VTzPWQ2591P1BPoOL3sRQD1JJFiifhhMCNt5nI4qEeL-3sqvrFCkXdA&oh=00_AQTBeBsZcPWtIgQM1k_bQ-N7mndzTKh_x8zFsgp0jQ6MEA&oe=6B0CD3A5",
@@ -11889,7 +11957,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1830-fr.jpg"
    },
    "source_key": "post:100044802900629_1683002186536529",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -12172,7 +12240,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-25 18:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1670783311107028": {
    "error": "заменена другой историей по вашей просьбе",
