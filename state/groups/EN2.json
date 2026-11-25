@@ -13914,7 +13914,10 @@
      "generated": true,
      "pages": {},
      "title": "My Son Said He Was at His Best Friend's House Every Weekend, Then His Mother Called and Said, \"I Haven't Seen Him Since Thursday",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1152,
+     "wp_status": "publish"
     },
     "ES": {
      "pages": {},
@@ -13957,6 +13960,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-25T13:42:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/857481060_122116451468354795_8118582716815699857_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=D0jJFWXuE-AQ7kNvwGGd9n_&_nc_oc=Adrnh4sYVAh5XUPxuzETMEbOkiPIYSnpCsRZQY-8WFlie8BR81qs73o43omzQONunb4&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=17bhabrP6jx0Slz-Nk-UJw&_nc_tpa=Q5bMBQLDJkAV3e-LQwlxgvW4bRZmTZ6V4AOKToZ9KUqGa9CyK8uMqae6DuMSE2cyALQKJLIbSWzmIi6qOQ&oh=00_AQQXEDQNecyn9CvSpSi0MxjSXE2_cFw9MDH26k0zGE2Yxw&oe=6B0C7EC5",
@@ -13968,7 +13972,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1342-en2.jpg"
    },
    "source_key": "post:61560643856913_122116460402354795",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14509,7 +14513,7 @@
    "origin": "manual",
    "page_id": "61560643856913",
    "slot": "2026-11-25 13:42",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61562434049008_122166639032414468": {
    "fingerprint": "980b3eba1d605fdcfd70",
