@@ -16623,12 +16623,14 @@
      "pages": {
       "1016419758218222": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122148555753204972_1170612619119339",
        "error": null,
        "last_attempt": "2026-11-26T00:13:53+04:00",
        "mode": "immediate",
        "photo_id": "122148555729204972",
        "post_id": "1016419758218222_122148555753204972",
-       "status": "published"
+       "status": "done"
       },
       "108881571809093": {
        "attempts": 1,
@@ -16786,12 +16788,14 @@
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122151203889209153_1031233146664794",
        "error": null,
        "last_attempt": "2026-11-26T00:14:33+04:00",
        "mode": "immediate",
        "photo_id": "122151203865209153",
        "post_id": "975714512286925_122151203889209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "I blocked the paycheck card my mother-in-law had controlled for four years, and one minute later she was stuck at a car dealership while my bank called about a forged signature",

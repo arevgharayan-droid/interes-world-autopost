@@ -23730,18 +23730,21 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117004045328231_1443345557957269",
        "error": null,
        "last_attempt": "2026-11-26T00:04:45+04:00",
        "mode": "immediate",
        "photo_id": "122117004021328231",
        "post_id": "1106793902521611_122117004045328231",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Můj snoubenec u oltáře vykřikl „Nechci!\" a utekl z kostela, ale po padesáti letech se u mých dveří objevil jeho právník s krabicí a větou, která mi změnila všechno",
      "warnings": [],
      "wp_error": null,
      "wp_id": 1211,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -24037,21 +24040,25 @@
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123551767302807_1514153757250966",
        "error": null,
        "last_attempt": "2026-11-26T00:04:20+04:00",
        "mode": "immediate",
        "photo_id": "122123551743302807",
        "post_id": "1089456087587677_122123551767302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142168357313481_1858649958794694",
        "error": null,
        "last_attempt": "2026-11-26T00:04:33+04:00",
        "mode": "immediate",
        "photo_id": "122142168333313481",
        "post_id": "1107966229066828_122142168357313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mój narzeczony wykrzyczał „Nie chcę!” i uciekł sprzed ołtarza, a pięćdziesiąt lat później jego prawnik stanął w moich drzwiach z kartonowym pudłem",
@@ -24094,7 +24101,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-0000-it.jpg"
    },
    "source_key": "post:100067526447776_1461692996091568",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
