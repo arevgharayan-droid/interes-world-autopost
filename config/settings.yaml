@@ -62,12 +62,26 @@ group_sites:
     comment_link_format: "https://peakproductions.co/?p={wp_id}"
     wp_auth: make_connector
     key_secret: WP_API_KEY
-  # С 17.11.2026 (выпуск 01:30): Mix (UK + ES + RO + AR) — тоже peakproductions.co, по просьбе владелицы.
+  # 17–26.11.2026: Mix (UK + ES + RO + AR) — тоже peakproductions.co (группы больше нет; блок нужен только
+  # для дозавершения её старых выпусков).
   MIX:
     url: https://peakproductions.co
     comment_link_format: "https://peakproductions.co/?p={wp_id}"
     wp_auth: make_connector
     key_secret: WP_API_KEY
+
+# Свой сайт для отдельных языков — важнее сайта группы. С 26.11.2026 (просьба владелицы): PT (теперь в NL+DE+PT)
+# и ES, RO, AR (теперь в FR+ES+RO+AR) остаются на peakproductions.co, хотя их группы — на hetaqrqir.com.
+# Поля — как в site; wp_categories здесь — рубрики этого сайта.
+lang_sites:
+  PT: &peak
+    url: https://peakproductions.co
+    comment_link_format: "https://peakproductions.co/?p={wp_id}"
+    wp_auth: make_connector
+    key_secret: WP_API_KEY
+  ES: *peak
+  RO: *peak
+  AR: *peak
 
 # Формат публикации:
 #   classic — вся история в посте, в первом комментарии только ссылка на статью;
@@ -80,7 +94,9 @@ post_format: classic
 # EN-1, EN-2, FR, NL+DE, IT+PL+CS — classic; RU+TR+PT и Mix — по частям.
 # (25.11 18:39–26.11 00:31 по ошибке было наоборот: выпуски 25.11 21:59 и 26.11 00:00.)
 # Раньше: 20.11 23:24–25.11 все classic; 17–20.11 по частям были IT, RU и Mix.
-post_format_by_group: {RU: parts, MIX: parts}
+# С 26.11.2026 02:14 (новые группы): частями — только RU+TR (RU + TR + украинские страницы на русском);
+# NL+DE+PT, FR+ES+RO+AR, IT+PL+CS, EN-1, EN-2 — classic.
+post_format_by_group: {RU: parts}
 
 claude:
   # auto — подписка Max (CLAUDE_CODE_OAUTH_TOKEN), при сбое — API (если задан ANTHROPIC_API_KEY)

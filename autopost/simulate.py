@@ -133,7 +133,9 @@ def run_simulation(cfg, days=2, drop=0.0, seed=7):
     if len(wp.media) < slots_total:
         problems.append(f"фото в медиатеке {len(wp.media)}, ожидалось {slots_total} (у каждой группы своё)")
     from .config import site_for
-    prefixes = tuple({site_for(sim_cfg.settings, g)["comment_link_format"].split("{")[0] for g in sim_cfg.groups()})
+    prefixes = tuple({site_for(sim_cfg.settings, g)["comment_link_format"].split("{")[0] for g in sim_cfg.groups()}
+                     | {(v.get("comment_link_format") or "").split("{")[0]
+                        for v in (sim_cfg.settings.get("lang_sites") or {}).values() if v.get("comment_link_format")})
     # ссылка — последняя строка комментария (в формате «по частям» перед ней — часть 2)
     links_ok = all(graph.comments_by[pid][0]["message"].strip().splitlines()[-1].startswith(prefixes)
                    for pid in graph.posts if graph.comments_by.get(pid))

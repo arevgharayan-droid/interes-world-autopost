@@ -56,6 +56,8 @@ def temp_cfg():
     # тесты конвейера моделируют авто-режим без сети (таблица проверяется отдельным тестом)
     cfg.settings["sources"]["auto"]["enabled"] = True
     cfg.settings["sources"]["google_sheet"]["enabled"] = False
+    # свои сайты языков (lang_sites) включает только тест, который их проверяет: иначе — запросы к реальному сайту
+    cfg.settings["lang_sites"] = {}
     return cfg, tmp
 
 
@@ -548,10 +550,11 @@ class GroupQueueTests(unittest.TestCase):
         graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
         tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
         groups = cfg.groups()
-        self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU", "MIX"])
-        self.assertEqual(cfg.group_label("MIX"), "Mix (RU+ES+RO+AR)")
-        self.assertEqual(cfg.group_label("RU"), "RU+TR+PT")
-        self.assertEqual(cfg.group_label("NL"), "NL+DE")
+        # с 26.11.2026 Mix нет: UK-страницы (текст на русском) — в RU+TR, ES/RO/AR — в FR, PT — в NL
+        self.assertEqual(groups, ["FR", "IT", "EN", "EN2", "NL", "RU"])
+        self.assertEqual(cfg.group_label("FR"), "FR+ES+RO+AR")
+        self.assertEqual(cfg.group_label("RU"), "RU+TR")
+        self.assertEqual(cfg.group_label("NL"), "NL+DE+PT")
         self.assertEqual(cfg.group_label("IT"), "IT+PL+CS")
         n_articles = sum(len(cfg.group_langs(g)) for g in groups)   # в группе из нескольких языков — статья на язык
         # «чужая» страница-источник для каждой группы — истории читаются через запасную страницу
@@ -694,6 +697,48 @@ class SiteSwitchTests(unittest.TestCase):
         prefix = cfg.settings["site"]["comment_link_format"].split("{")[0]
         msgs = [c["message"] for cs in graph.comments_by.values() for c in cs]
         self.assertTrue(msgs and all(m.startswith(prefix) for m in msgs), msgs[:2])
+        self.assertEqual(st.slots["2030-05-01 09:00"]["status"], "done")
+
+
+class LangSiteTests(unittest.TestCase):
+    """lang_sites: статья одного языка группы — на своём сайте (своё фото, своя ссылка в комментарии)."""
+
+    def test_lang_article_on_its_own_site(self):
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
+        graph, wp_a, wp_b = FakeGraph(cfg, lambda: clock["now"]), FakeWP(), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        _queue_story(graph, cfg, tmp, "NL", 912, "Story N2.")
+        langs = cfg.group_langs("NL")
+        self.assertGreater(len(langs), 1)
+        own = langs[-1]
+        cfg.settings["lang_sites"] = {own: {"url": "https://b.example",
+                                            "comment_link_format": "https://b.example/?p={wp_id}"}}
+        st = State(tmp / "state/groups/NL.json")
+        made = []
+
+        def factory(site):
+            made.append(site["url"])
+            return wp_b if site["url"] == "https://b.example" else wp_a
+        for hh, mm in ((6, 7), (9, 7), (9, 37)):
+            clock["now"] = clock["now"].replace(hour=hh, minute=mm)
+            gcfg = group_view(cfg, "NL")
+            Pipeline(gcfg, st, graph, wp_a, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP(), wp_factory=factory).tick()
+        self.assertEqual(len(wp_b.posts), 1)                     # статья языка own — на сайте b
+        self.assertEqual(len(wp_a.posts), len(langs) - 1)
+        self.assertEqual((len(wp_a.media), len(wp_b.media)), (1, 1))  # фото — на каждом сайте своё
+        b_post = next(iter(wp_b.posts.values()))
+        self.assertIn(wp_b.media[min(wp_b.media)], b_post["content"])
+        self.assertTrue(all(p["status"] == "publish" for p in list(wp_a.posts.values()) + list(wp_b.posts.values())))
+        lang_of = {p.page_id: p.lang for p in cfg.pages}
+        a_prefix = cfg.settings["site"]["comment_link_format"].split("{")[0]
+        for obj, cs in graph.comments_by.items():
+            want = "https://b.example/?p=" if lang_of[graph.posts[obj]["page"]] == own else a_prefix
+            self.assertTrue(cs and cs[-1]["message"].startswith(want), (obj, cs))
+        self.assertTrue(graph.comments_by)
         self.assertEqual(st.slots["2030-05-01 09:00"]["status"], "done")
 
 
@@ -1193,7 +1238,7 @@ class RepostTests(unittest.TestCase):
         clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=ZoneInfo(cfg.tz))}
         graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
         tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
-        g = "FR"   # группа одного языка: одна статья на выпуск
+        g = "EN"   # группа одного языка: одна статья на выпуск
         gcfg = group_view(cfg, g)
         st = State(tmp / f"state/groups/{g}.json")
         (tmp / "queue").mkdir(exist_ok=True)

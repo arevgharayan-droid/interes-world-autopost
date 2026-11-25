@@ -200,13 +200,49 @@ class Pipeline:
         return s.get("wp_site") or self.site_rec()
 
     def wp_of(self, s: dict):
-        site = s.get("wp_site") or {}
+        return self._wp_client(s.get("wp_site") or {})
+
+    def _wp_client(self, site: dict):
         url = site.get("url")
         if not url or url == self.cfg.site.get("url") or not self.wp_factory:
             return self.wp
         if url not in self._wps:
             self._wps[url] = self.wp_factory(site)
         return self._wps[url]
+
+    # Сайт по языку (lang_sites): статья этого языка идёт на свой сайт, даже если сайт группы другой
+    # (с 26.11.2026: PT, ES, RO, AR — peakproductions.co, хотя их группы — на hetaqrqir.com).
+    # Язык выпуска запоминает свой сайт (L["wp_site"]), как выпуск — свой (s["wp_site"]).
+    def lang_site_override(self, lang: str) -> dict:
+        return dict((self.cfg.settings.get("lang_sites") or {}).get(lang) or {})
+
+    def lang_site(self, s: dict, lang: str) -> dict:
+        return ((s.get("langs") or {}).get(lang) or {}).get("wp_site") or self.slot_site(s)
+
+    def wp_for(self, s: dict, lang: str):
+        site = ((s.get("langs") or {}).get(lang) or {}).get("wp_site")
+        return self._wp_client(site) if site else self.wp_of(s)
+
+    def _lang_media(self, dt, s, lang, L) -> tuple:
+        """Фото для статьи языка: на сайте выпуска — общее; на своём сайте языка — своя копия в медиатеке."""
+        src = s["source"]
+        if not L.get("wp_site"):
+            return src.get("wp_media_id"), src.get("wp_media_url")
+        if not L.get("wp_media_id"):
+            wp = self.wp_for(s, lang)
+            slug = f"interes-{dt:%Y%m%d-%H%M}" + (f"-{self.cfg.group.lower()}" if self.cfg.group else "")
+            found = wp.find_media_by_slug(slug)
+            if found:
+                media = found[0]
+            else:
+                key = self.key(dt)
+                data, mime = self._images.get(key) or self._download(src.get("wp_media_url") or src["image_url"])
+                self._images[key] = (data, mime)
+                ext = mimetypes.guess_extension(mime) or ".jpg"
+                media = wp.upload_media(data, f"{slug}{ext}", mime)
+            L["wp_media_id"], L["wp_media_url"] = media["id"], media.get("source_url")
+            self.state.save()
+        return L.get("wp_media_id"), L.get("wp_media_url")
 
     # ------------------------------------------------------------------ helpers
     def now(self) -> datetime:
@@ -510,8 +546,20 @@ class Pipeline:
         text = self.load_text(dt, lang)
         src = s["source"]
         slug = self.wp_slug(dt, lang)
+        if not L.get("wp_site"):
+            ov = self.lang_site_override(lang)
+            if ov.get("url") and ov["url"] != self.slot_site(s).get("url"):
+                L["wp_site"] = {k: ov[k] for k in self.SITE_KEYS if ov.get(k)}
+                self.state.save()
         try:
-            found = self.wp_of(s).find_by_slug(slug)
+            media_id, media_url = self._lang_media(dt, s, lang, L)
+        except (SourceError, WordPressError) as e:
+            L["wp_error"] = f"фото на сайте языка: {e}"
+            self.r.error(f"{key} {lang}: фото на сайте {L['wp_site'].get('url')}: {e}")
+            self.state.save()
+            return
+        try:
+            found = self.wp_for(s, lang).find_by_slug(slug)
         except WordPressError as e:
             L["wp_error"] = f"проверка перед созданием: {e}"
             self.r.error(f"{key} {lang}: WordPress недоступен для проверки, повторю позже: {e}")
@@ -521,15 +569,16 @@ class Pipeline:
             self.state.save()
             return
         future = self.cfg.site.get("wp_status_mode", "future") == "future" and dt > self.now() + timedelta(minutes=2)
-        img = (f'<figure class="wp-block-image size-full"><img src="{html.escape(src.get("wp_media_url") or "")}" '
+        img = (f'<figure class="wp-block-image size-full"><img src="{html.escape(media_url or "")}" '
                f'alt="{html.escape(text["title"])}"/></figure>\n')
+        cats_site = self.lang_site_override(lang) if L.get("wp_site") else self.cfg.site
         try:
-            post = self.wp_of(s).create_post(
+            post = self.wp_for(s, lang).create_post(
                 title=text["title"], content=img + text["article_html"], slug=slug,
                 status="future" if future else "publish",
                 date_gmt=dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S") if future else None,
-                featured_media=src.get("wp_media_id") if self.cfg.site.get("wp_featured_image") else None,
-                categories=(self.cfg.site.get("wp_categories") or {}).get(lang))
+                featured_media=media_id if self.cfg.site.get("wp_featured_image") else None,
+                categories=(cats_site.get("wp_categories") or {}).get(lang))
         except WordPressError as e:
             # Исход мог быть успешным (например, 502 от прокси) — в следующий раз статья найдётся по slug.
             L["wp_error"] = str(e)
@@ -699,17 +748,18 @@ class Pipeline:
                        and self._slow(pid) == slow_pass]
             if not pending or not L.get("wp_id"):
                 continue
+            lwp = self.wp_for(s, lang) if L.get("wp_site") else wp
             if not L.get("wp_live"):
                 try:
-                    post = wp.get_post(L["wp_id"])
+                    post = lwp.get_post(L["wp_id"])
                     if post.get("status") != "publish":
-                        wp.update_post(L["wp_id"], status="publish")
+                        lwp.update_post(L["wp_id"], status="publish")
                     L["wp_live"] = True
                     self.state.save()
                 except WordPressError as err:
                     self.r.error(f"{key} {lang}: статья не опубликована: {err}")
                     continue
-            link = fmt.format(wp_id=L["wp_id"])
+            link = ((L.get("wp_site") or {}).get("comment_link_format") or fmt).format(wp_id=L["wp_id"])
             # формат «по частям»: в комментарии — часть 2, «ЧАСТЬ 3» и ссылка; иначе — только ссылка
             try:
                 ctext = (self.load_text(dt, lang).get("comment_text") or "").strip()

@@ -141,11 +141,11 @@ languages:
 
   PT:
     name: Portuguese
-    # группа RU (одна история на RU + TR + PT)
+    # с 26.11.2026 — группа NL (одна история на NL + DE + PT); до этого — RU+TR+PT
     pages:   # добавлены 09.11.2026
-      - {page_id: "1448441201677530", name: "Segredos que a Vida Guarda", profile_id: "61595167986420", added: "2026-11-09", group: RU}
-      - {page_id: "1338630212673029", name: "Histórias que Ninguém Esquece", profile_id: "61594155721036", added: "2026-11-09", group: RU}
-      - {page_id: "1138572272664180", name: "Vidas em História", profile_id: "61589189490980", added: "2026-11-16", group: RU}
+      - {page_id: "1448441201677530", name: "Segredos que a Vida Guarda", profile_id: "61595167986420", added: "2026-11-09", group: NL}  # 26.11.2026: из RU+TR+PT в NL+DE+PT
+      - {page_id: "1338630212673029", name: "Histórias que Ninguém Esquece", profile_id: "61594155721036", added: "2026-11-09", group: NL}  # 26.11.2026: из RU+TR+PT в NL+DE+PT
+      - {page_id: "1138572272664180", name: "Vidas em História", profile_id: "61589189490980", added: "2026-11-16", group: NL}  # 26.11.2026: из RU+TR+PT в NL+DE+PT
   PL:
     name: Polish
     # группа IT (одна история на IT + PL + CS) — с 14.11.2026
@@ -159,29 +159,30 @@ languages:
     # группа IT — с 14.11.2026
     pages:   # добавлены 13.11.2026
       - {page_id: "1106793902521611", name: "Příběhy ze Srdce", profile_id: "61589846932566", added: "2026-11-13", group: IT}
-  # --- группа MIX (одна история на UK + ES + RO + AR, своя ссылка) — с 16.11.2026, все через autopost4
+  # --- бывшая группа MIX (16–26.11.2026). С 26.11.2026 Mix нет: украинские страницы (текст на русском) — в RU+TR,
+  #     ES, RO, AR — в FR+ES+RO+AR (статьи ES/RO/AR — на peakproductions.co, см. lang_sites в settings.yaml)
   UK:
     name: Ukrainian
     # 17.11.2026: владелица — «укр не надо, укр страницы на русском тоже»: эти страницы получают русский текст
     # (история группы Mix, статья на peakproductions.co).
     pages:
-      - {page_id: "1003672546173662", name: "Там, де говорить серце", profile_id: "61568061105858", added: "2026-11-16", group: MIX, lang: RU}
-      - {page_id: "1053133077892078", name: "Життя без прикрас", profile_id: "61564596804533", added: "2026-11-16", group: MIX, lang: RU}
+      - {page_id: "1003672546173662", name: "Там, де говорить серце", profile_id: "61568061105858", added: "2026-11-16", group: RU, lang: RU}  # 26.11.2026: из Mix в RU+TR
+      - {page_id: "1053133077892078", name: "Життя без прикрас", profile_id: "61564596804533", added: "2026-11-16", group: RU, lang: RU}  # 26.11.2026: из Mix в RU+TR
   ES:
     name: Spanish
     pages:
-      - {page_id: "1065418833325273", name: "Secretos del Destino", profile_id: "61589209137857", added: "2026-11-16", group: MIX}
-      - {page_id: "1091526457386175", name: "Lágrimas de la Vida", profile_id: "61588963358918", added: "2026-11-16", group: MIX}
+      - {page_id: "1065418833325273", name: "Secretos del Destino", profile_id: "61589209137857", added: "2026-11-16", group: FR}  # 26.11.2026: из Mix в FR+ES+RO+AR
+      - {page_id: "1091526457386175", name: "Lágrimas de la Vida", profile_id: "61588963358918", added: "2026-11-16", group: FR}  # 26.11.2026: из Mix в FR+ES+RO+AR
   RO:
     name: Romanian
     pages:
-      - {page_id: "1150924154761110", name: "Povești care Ating Inima", profile_id: "61589502950390", added: "2026-11-16", group: MIX}
-      - {page_id: "1017413568132885", name: "Momente din Viață", profile_id: "61589054979500", added: "2026-11-16", group: MIX}
+      - {page_id: "1150924154761110", name: "Povești care Ating Inima", profile_id: "61589502950390", added: "2026-11-16", group: FR}  # 26.11.2026: из Mix в FR+ES+RO+AR
+      - {page_id: "1017413568132885", name: "Momente din Viață", profile_id: "61589054979500", added: "2026-11-16", group: FR}  # 26.11.2026: из Mix в FR+ES+RO+AR
   AR:
     name: Arabic
     pages:
-      - {page_id: "1085853177948572", name: "لحظات الحياة", profile_id: "61589513333922", added: "2026-11-16", group: MIX}
-      - {page_id: "1145996375255489", name: "قصص من القلب", profile_id: "61589310932189", added: "2026-11-16", group: MIX}
+      - {page_id: "1085853177948572", name: "لحظات الحياة", profile_id: "61589513333922", added: "2026-11-16", group: FR}  # 26.11.2026: из Mix в FR+ES+RO+AR
+      - {page_id: "1145996375255489", name: "قصص من القلب", profile_id: "61589310932189", added: "2026-11-16", group: FR}  # 26.11.2026: из Mix в FR+ES+RO+AR
 
 # Страница, токеном которой Make читал «чужие» публичные посты (fallback в модуле 2).
 fallback_source_page_id: "1011074408765807"  # Émotions Virales | Paris (публикация на неё отключена, но через неё читаются ссылки)

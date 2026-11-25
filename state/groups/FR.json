@@ -13014,6 +13014,450 @@
    "page_id": "622403774625234",
    "slot": "2026-11-20 12:00",
    "status": "used"
+  },
+  "post:100044802900629_1602053574631391": {
+   "fingerprint": "d9d10abc1bbae60a1007",
+   "link": "https://www.facebook.com/story.php?story_fbid=1602053574631391&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-22 20:30",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1561429625375731": {
+   "error": "заменена другой историей по вашей просьбе",
+   "fingerprint": "b0fa498d4c428b9748f7",
+   "link": "https://www.facebook.com/story.php?story_fbid=1561429625375731&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1502016955282650&id=100064230806326",
+   "slot": "2026-11-23 21:00",
+   "status": "skipped",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1680880160097343": {
+   "error": "заменена другой историей по вашей просьбе",
+   "fingerprint": "d65c3bf6d45a7e223486",
+   "link": "https://www.facebook.com/story.php?story_fbid=1680880160097343&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1440458744771805&id=100064230806326",
+   "slot": "2026-11-23 18:00",
+   "status": "skipped",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1700942794757746": {
+   "fingerprint": "e1c2e363a787f46cf67c",
+   "link": "https://www.facebook.com/story.php?story_fbid=1700942794757746&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-22 18:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1715615996623759": {
+   "fingerprint": "ae9e624608ecd5275312",
+   "link": "https://www.facebook.com/story.php?story_fbid=1715615996623759&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-21 00:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1717199963132029": {
+   "fingerprint": "ffa95c95fe862fb1b317",
+   "link": "https://www.facebook.com/story.php?story_fbid=1717199963132029&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-19 02:18",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1717891366396222": {
+   "fingerprint": "b6aeb2690207251a5e7b",
+   "link": "https://www.facebook.com/share/p/1EC6Eiyygn/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-18 00:36",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1718169306368428": {
+   "fingerprint": "9ffd6bdb52b1be6f3e15",
+   "link": "https://www.facebook.com/story.php?story_fbid=1718169306368428&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-19 12:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1720387429479949": {
+   "fingerprint": "6bbb826a59b9afbe54e5",
+   "link": "https://www.facebook.com/story.php?story_fbid=1720387429479949&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-23 15:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1721146079404084": {
+   "fingerprint": "8a238acfef37fe26b19d",
+   "link": "https://www.facebook.com/story.php?story_fbid=1721146079404084&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-21 18:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1721278456057513": {
+   "fingerprint": "8d266b6239bbd41910b3",
+   "link": "https://www.facebook.com/story.php?story_fbid=1721278456057513&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-21 15:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100045261260562_1722315575953801": {
+   "fingerprint": "464fe8d488a3a5e0bbeb",
+   "link": "https://www.facebook.com/story.php?story_fbid=1722315575953801&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-23 12:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100050386034442_1717217389967779": {
+   "fingerprint": "8d1870056c456e3ef9ad",
+   "link": "https://www.facebook.com/story.php?story_fbid=1717217389967779&id=100050386034442",
+   "origin": "manual",
+   "page_id": "100050386034442",
+   "slot": "2026-11-20 18:39",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100059505912199_1480124753981041": {
+   "fingerprint": "a62a867050c94734098a",
+   "link": "https://www.facebook.com/story.php?story_fbid=1480124753981041&id=100059505912199",
+   "origin": "manual",
+   "page_id": "100059505912199",
+   "slot": "2026-11-17 18:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100064230806326_1440458744771805": {
+   "fingerprint": "5b8e5f0ee4f89965f297",
+   "link": "https://www.facebook.com/story.php?story_fbid=1440458744771805&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 18:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100064230806326_1472616188222727": {
+   "fingerprint": "afb1a743733f585ccabb",
+   "link": "https://www.facebook.com/story.php?story_fbid=1472616188222727&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 00:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100064230806326_1476347067849639": {
+   "fingerprint": "0255b715739d4f985fef",
+   "link": "https://www.facebook.com/story.php?story_fbid=1476347067849639&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 00:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100064230806326_1502016955282650": {
+   "fingerprint": "7106f060087c222ecd09",
+   "link": "https://www.facebook.com/story.php?story_fbid=1502016955282650&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 21:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100064230806326_1503057308511948": {
+   "fingerprint": "06ae9bbbbbea184e795e",
+   "link": "https://www.facebook.com/story.php?story_fbid=1503057308511948&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 12:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100064230806326_1515955307222148": {
+   "fingerprint": "c133ee8e98d2b781e6bc",
+   "link": "https://www.facebook.com/story.php?story_fbid=1515955307222148&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 13:23",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100064230806326_1556838546467157": {
+   "fingerprint": "56890aad8d41f280b3c9",
+   "link": "https://www.facebook.com/story.php?story_fbid=1556838546467157&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 23:47",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100066526927953_1230477055846514": {
+   "fingerprint": "3ffb836f972ddd299f2a",
+   "link": "https://www.facebook.com/story.php?story_fbid=1230477055846514&id=100066526927953",
+   "origin": "manual",
+   "page_id": "100066526927953",
+   "slot": "2026-11-21 21:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100066585605572_1464940149068825": {
+   "fingerprint": "ff6b8e95f3d6e12c1305",
+   "link": "https://www.facebook.com/share/p/1KDxYrahMY/",
+   "origin": "manual",
+   "page_id": "100066585605572",
+   "slot": "2026-11-17 15:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100067526447776_1460647886196079": {
+   "fingerprint": "8ba0b6fc2142ba13e6f1",
+   "link": "https://www.facebook.com/story.php?story_fbid=1460647886196079&id=100067526447776",
+   "origin": "manual",
+   "page_id": "100067526447776",
+   "slot": "2026-11-26 00:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100069122846749_1464103662570381": {
+   "fingerprint": "5e043c7c07a396d6110a",
+   "link": "https://www.facebook.com/story.php?story_fbid=1464103662570381&id=100069122846749",
+   "origin": "manual",
+   "page_id": "100069122846749",
+   "slot": "2026-11-20 00:30",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:100070118924538_1412818894398728": {
+   "fingerprint": "a2d17f6be61ffc8e24f1",
+   "link": "https://www.facebook.com/story.php?story_fbid=1412818894398728&id=100070118924538",
+   "origin": "manual",
+   "page_id": "100070118924538",
+   "slot": "2026-11-18 22:28",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61552376996813_122295066356079233": {
+   "fingerprint": "29190fe0b7d1652cbd32",
+   "link": "https://www.facebook.com/story.php?story_fbid=122295066356079233&id=61552376996813",
+   "origin": "manual",
+   "page_id": "61552376996813",
+   "slot": "2026-11-25 15:43",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61559846438723_122231627036328214": {
+   "fingerprint": "2ef2ebcbd637ba6a3744",
+   "link": "https://www.facebook.com/share/p/1JihSRDE4s/",
+   "origin": "manual",
+   "page_id": "61559846438723",
+   "slot": "2026-11-16 23:26",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61559846438723_122235990020328214": {
+   "fingerprint": "dbbf742d5dbb90fb1922",
+   "link": "https://www.facebook.com/share/p/1d8VPvuGUC/",
+   "origin": "manual",
+   "page_id": "61559846438723",
+   "slot": "2026-11-18 12:50",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61576792898556_122130695810893096": {
+   "fingerprint": "76592ca14dc5478e537f",
+   "link": "https://www.facebook.com/share/p/1E1MWXjgZp/",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-17 12:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61584229563994_122124243879140985": {
+   "fingerprint": "ed4c72895a3d1d16ccfe",
+   "link": "https://www.facebook.com/story.php?story_fbid=122124243879140985&id=61584229563994",
+   "origin": "manual",
+   "page_id": "61584229563994",
+   "slot": "2026-11-24 16:27",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61584229563994_122128368789140985": {
+   "fingerprint": "9ed815afd1d49101c433",
+   "link": "https://www.facebook.com/story.php?story_fbid=122128368789140985&id=61584229563994",
+   "origin": "manual",
+   "page_id": "61584229563994",
+   "slot": "2026-11-24 20:40",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61585117295331_122154601647170576": {
+   "fingerprint": "f6c5799d6a773f429d04",
+   "link": "https://www.facebook.com/story.php?story_fbid=122154601647170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-21 12:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61585117295331_122155455411170576": {
+   "fingerprint": "be4fce600d9ddc11fc0e",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155455411170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 18:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61585117295331_122155566441170576": {
+   "fingerprint": "554c1b0899aa36795404",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155566441170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 21:33",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61585117295331_122155810935170576": {
+   "fingerprint": "7cf6f9b0e07281d2c772",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155810935170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 15:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61586759032853_122142313665225301": {
+   "fingerprint": "0689568e7fc431da0cf7",
+   "link": "https://www.facebook.com/story.php?story_fbid=122142313665225301&id=61586759032853",
+   "origin": "manual",
+   "page_id": "61586759032853",
+   "slot": "2026-11-25 13:42",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61587026316282_122142677133234210": {
+   "fingerprint": "dff31961de0786669c0a",
+   "link": "https://www.facebook.com/share/p/1FTnpRTe58/",
+   "origin": "manual",
+   "page_id": "61587026316282",
+   "slot": "2026-11-18 00:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61587321322233_122139843471244044": {
+   "fingerprint": "9e461063620cd2192305",
+   "link": "https://www.facebook.com/share/19kHXB99gM/",
+   "origin": "manual",
+   "page_id": "61587321322233",
+   "slot": "2026-11-17 01:30",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61587321322233_122141158047244044": {
+   "fingerprint": "6194a94188bef375a845",
+   "link": "https://www.facebook.com/share/p/1FiPkvb4LJ/",
+   "origin": "manual",
+   "page_id": "61587321322233",
+   "slot": "2026-11-18 19:22",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61587324730850_122148048285244157": {
+   "fingerprint": "9c2881dbc33f8ab8fc13",
+   "link": "https://www.facebook.com/story.php?story_fbid=122148048285244157&id=61587324730850",
+   "origin": "manual",
+   "page_id": "61587324730850",
+   "slot": "2026-11-25 21:59",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:61591429329254_122141528829380977": {
+   "fingerprint": "b542d90b9fda05158e34",
+   "link": "https://www.facebook.com/story.php?story_fbid=122141528829380977&id=61591429329254",
+   "origin": "manual",
+   "page_id": "61591429329254",
+   "slot": "2026-11-25 18:30",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:photo_1122025177265987": {
+   "fingerprint": "d671aab45f6d20f20a8c",
+   "link": "https://www.facebook.com/photo/?fbid=1122025177265987",
+   "origin": "manual",
+   "page_id": "114671953294029",
+   "slot": "2026-11-20 21:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
+  },
+  "post:photo_1709093697275989": {
+   "fingerprint": "6d689281bc20e6e89d54",
+   "link": "https://www.facebook.com/photo/?fbid=1709093697275989",
+   "origin": "manual",
+   "page_id": "622403774625234",
+   "slot": "2026-11-20 12:00",
+   "status": "used",
+   "from_group": "MIX",
+   "merged": "2026-11-26"
   }
  },
  "tests": {},

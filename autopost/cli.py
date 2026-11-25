@@ -801,7 +801,7 @@ def cmd_ops(cfg, args, req=None) -> int:
         st = State(config_mod.group_state_path(cfg, g))
         s = st.slots.get(key) or {}
         L = (s.get("langs") or {}).get(lang) or {}
-        site = s.get("wp_site") or config_mod.site_for(cfg.settings, g)
+        site = L.get("wp_site") or s.get("wp_site") or config_mod.site_for(cfg.settings, g)
         link = (site.get("comment_link_format") or "").format(wp_id=L.get("wp_id"))
         txt = json.loads(cfg.path(f"content/{key[:10]}/{g}/{key[11:13]}{key[14:16]}-{lang}.json")
                          .read_text(encoding="utf-8")).get("comment_text", "")
@@ -1313,7 +1313,7 @@ def cmd_comment_diag(cfg, g: str, key: str, lang: str) -> int:
     st = State(config_mod.group_state_path(cfg, g))
     s = st.slots.get(key) or {}
     L = (s.get("langs") or {}).get(lang) or {}
-    site = s.get("wp_site") or config_mod.site_for(cfg.settings, g)
+    site = L.get("wp_site") or s.get("wp_site") or config_mod.site_for(cfg.settings, g)
     link = (site.get("comment_link_format") or "").format(wp_id=L.get("wp_id"))
     out = [f"## Диагностика комментария {cfg.group_label(g)} {key} {lang}", "", f"- ссылка: {link}"]
     try:
@@ -1352,7 +1352,7 @@ def cmd_comment_split(cfg, g: str, key: str, lang: str, page_id: str) -> int:
     s = st.slots.get(key) or {}
     L = (s.get("langs") or {}).get(lang) or {}
     e = (L.get("pages") or {}).get(page_id) or {}
-    site = s.get("wp_site") or config_mod.site_for(cfg.settings, g)
+    site = L.get("wp_site") or s.get("wp_site") or config_mod.site_for(cfg.settings, g)
     link = (site.get("comment_link_format") or "").format(wp_id=L.get("wp_id"))
     txt = json.loads(cfg.path(f"content/{key[:10]}/{g}/{key[11:13]}{key[14:16]}-{lang}.json")
                      .read_text(encoding="utf-8")).get("comment_text", "")
@@ -1387,7 +1387,7 @@ def cmd_comment_try(cfg, g: str, key: str, lang: str, page_id: str) -> int:
     s = st.slots.get(key) or {}
     L = (s.get("langs") or {}).get(lang) or {}
     e = (L.get("pages") or {}).get(page_id) or {}
-    site = s.get("wp_site") or config_mod.site_for(cfg.settings, g)
+    site = L.get("wp_site") or s.get("wp_site") or config_mod.site_for(cfg.settings, g)
     link = (site.get("comment_link_format") or "").format(wp_id=L.get("wp_id"))
     txt = json.loads(cfg.path(f"content/{key[:10]}/{g}/{key[11:13]}{key[14:16]}-{lang}.json")
                      .read_text(encoding="utf-8")).get("comment_text", "")
@@ -1874,7 +1874,7 @@ def cmd_resolve_links(cfg, links: list) -> int:
     return 0
 
 
-def drop_lang(gcfg, g: str, key: str, lang: str, services=None, tokens=None) -> str:
+def drop_lang(gcfg, g: str, key: str, lang: str, services=None, tokens=None, wp_factory=None) -> str:
     """Убирает один язык из ещё не вышедшего выпуска группы: удаляет его отложенные посты Facebook и статью,
     язык переносится в s['dropped_langs'] (для истории). Остальные языки выпуска не трогаются."""
     st = State(config_mod.group_state_path(gcfg, g))
@@ -1927,7 +1927,7 @@ def drop_lang(gcfg, g: str, key: str, lang: str, services=None, tokens=None) -> 
     return "\n".join(out)
 
 
-def cmd_cancel_slot(cfg, key: str, services=None, tokens=None, state=None) -> int:
+def cmd_cancel_slot(cfg, key: str, services=None, tokens=None, state=None, wp_factory=None) -> int:
     """Отменяет подготовленный слот: удаляет отложенные посты Facebook и статьи WordPress, слот больше не трогается."""
     st = state or state_of(cfg)
     s = st.slots.get(key)
@@ -1980,7 +1980,13 @@ def cmd_cancel_slot(cfg, key: str, services=None, tokens=None, state=None) -> in
             st.save()
         if L.get("wp_id") and not L.get("wp_cancelled"):
             try:
-                wp.delete_post(L["wp_id"], force=True)
+                lwp = (wp_factory or real_wp)(L["wp_site"]) if L.get("wp_site") else wp   # сайт языка
+                lwp.delete_post(L["wp_id"], force=True)
+                if L.get("wp_site") and L.get("wp_media_id"):
+                    try:
+                        lwp.delete_media(L["wp_media_id"])
+                    except WordPressError:
+                        pass
                 L["wp_cancelled"] = True
             except WordPressError as err:
                 errors.append(f"статья {lang} ({L['wp_id']}): {err}")
