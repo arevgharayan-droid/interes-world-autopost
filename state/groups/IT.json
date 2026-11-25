@@ -23798,6 +23798,12 @@
        "post_id": "1087342844462554_122123585139296683",
        "status": "published"
       },
+      "1099258949937246": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T00:03:46+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "1114015015119414": {
        "attempts": 1,
        "error": null,
