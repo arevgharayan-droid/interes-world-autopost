@@ -57,7 +57,6 @@
   "f855d853b2033f80317b": "2026-11-16T23:51:16+00:00"
  },
  "outputs": {
-  "100633729330404_1138175905577597": "2026-11-11T17:06:50+00:00",
   "100633729330404_1138176818910839": "2026-11-11T20:06:11+00:00",
   "100633729330404_1139769455418242": "2026-11-12T09:04:27+00:00",
   "100633729330404_1139777882084066": "2026-11-12T09:14:50+00:00",
@@ -176,7 +175,6 @@
   "1040289472422658": "2026-11-25T11:50:41+00:00",
   "1040412952410310": "2026-11-25T14:08:13+00:00",
   "1040489155739463": "2026-11-13T14:38:13+00:00",
-  "104114086037068_1037616342693411": "2026-11-11T17:06:56+00:00",
   "104114086037068_1037617129359999": "2026-11-11T20:06:19+00:00",
   "104114086037068_1039145142540531": "2026-11-12T09:04:32+00:00",
   "104114086037068_1039152459206466": "2026-11-12T09:14:57+00:00",
@@ -277,7 +275,6 @@
   "1052951794493199": "2026-11-25T09:52:12+00:00",
   "1053046881150357": "2026-11-25T11:51:20+00:00",
   "1053175044470874": "2026-11-25T14:08:49+00:00",
-  "1060733217128705_122143800602777362": "2026-11-11T17:06:58+00:00",
   "1060733217128705_122143800956777362": "2026-11-11T20:06:21+00:00",
   "1060733217128705_122144018738777362": "2026-11-12T09:04:08+00:00",
   "1060733217128705_122144021324777362": "2026-11-12T09:14:26+00:00",
@@ -334,7 +331,6 @@
   "1060733217128705_122145981344777362": "2026-11-25T09:46:55+00:00",
   "1060733217128705_122145994184777362": "2026-11-25T11:46:02+00:00",
   "1060733217128705_122146008014777362": "2026-11-25T14:37:23+00:00",
-  "106713875762456_1025494683902137": "2026-11-11T17:07:03+00:00",
   "106713875762456_1025495487235390": "2026-11-11T20:06:25+00:00",
   "106713875762456_1027027003748905": "2026-11-12T09:04:29+00:00",
   "106713875762456_1027034500414822": "2026-11-12T09:14:54+00:00",
@@ -444,7 +440,6 @@
   "1153202797408241": "2026-11-25T09:50:50+00:00",
   "1153299310731923": "2026-11-25T11:49:59+00:00",
   "1153432284051959": "2026-11-25T14:07:38+00:00",
-  "1220745651126185_122126463969439195": "2026-11-11T17:07:07+00:00",
   "1220745651126185_122126464293439195": "2026-11-11T20:06:27+00:00",
   "1220745651126185_122126693229439195": "2026-11-12T09:04:34+00:00",
   "1220745651126185_122126694309439195": "2026-11-12T09:15:02+00:00",
@@ -1044,7 +1039,6 @@
   "122338320734241259": "2026-11-25T09:45:02+00:00",
   "122338338386241259": "2026-11-25T11:44:33+00:00",
   "122338357484241259": "2026-11-25T14:02:18+00:00",
-  "233545296514172_122335668626241259": "2026-11-11T17:07:12+00:00",
   "233545296514172_122335669064241259": "2026-11-11T20:06:30+00:00",
   "233545296514172_122335981202241259": "2026-11-12T09:03:57+00:00",
   "233545296514172_122335982084241259": "2026-11-12T09:14:15+00:00",
@@ -1101,7 +1095,6 @@
   "233545296514172_122338320758241259": "2026-11-25T09:45:02+00:00",
   "233545296514172_122338338410241259": "2026-11-25T11:44:33+00:00",
   "233545296514172_122338357514241259": "2026-11-25T14:39:25+00:00",
-  "530022363528890_122175295946720509": "2026-11-11T17:07:15+00:00",
   "530022363528890_122175296252720509": "2026-11-11T20:06:33+00:00",
   "530022363528890_122175406868720509": "2026-11-12T09:04:01+00:00",
   "530022363528890_122175407462720509": "2026-11-12T09:14:19+00:00",
@@ -1158,7 +1151,6 @@
   "530022363528890_122176536164720509": "2026-11-25T09:45:36+00:00",
   "530022363528890_122176544258720509": "2026-11-25T11:44:53+00:00",
   "530022363528890_122176551290720509": "2026-11-25T14:40:03+00:00",
-  "625664190627160_122183828804820020": "2026-11-11T17:07:18+00:00",
   "625664190627160_122183829296820020": "2026-11-11T20:06:36+00:00",
   "625664190627160_122184014396820020": "2026-11-12T09:04:13+00:00",
   "625664190627160_122184015572820020": "2026-11-12T09:14:31+00:00",
@@ -1214,7 +1206,6 @@
   "625664190627160_122185529642820020": "2026-11-25T09:47:37+00:00",
   "625664190627160_122185538726820020": "2026-11-25T11:46:40+00:00",
   "625664190627160_122185553702820020": "2026-11-25T14:40:45+00:00",
-  "648976361631351_122194054880829482": "2026-11-11T17:07:22+00:00",
   "648976361631351_122194055024829482": "2026-11-11T20:06:39+00:00",
   "648976361631351_122194220126829482": "2026-11-12T09:04:16+00:00",
   "648976361631351_122194220768829482": "2026-11-12T09:14:35+00:00",
@@ -1270,7 +1261,6 @@
   "648976361631351_122195905232829482": "2026-11-25T09:48:15+00:00",
   "648976361631351_122195917502829482": "2026-11-25T11:47:19+00:00",
   "648976361631351_122195929172829482": "2026-11-25T14:41:26+00:00",
-  "673710079162922_122243856590895613": "2026-11-11T17:07:26+00:00",
   "673710079162922_122243856908895613": "2026-11-11T20:06:42+00:00",
   "673710079162922_122244052916895613": "2026-11-12T09:04:18+00:00",
   "673710079162922_122244053666895613": "2026-11-12T09:14:39+00:00",
@@ -1326,7 +1316,6 @@
   "673710079162922_122245752770895613": "2026-11-25T09:48:52+00:00",
   "673710079162922_122245763054895613": "2026-11-25T11:47:59+00:00",
   "673710079162922_122245777406895613": "2026-11-25T14:42:05+00:00",
-  "714226118434052_122204973248902657": "2026-11-11T17:07:28+00:00",
   "714226118434052_122204973728902657": "2026-11-11T20:06:46+00:00",
   "714226118434052_122205171890902657": "2026-11-12T09:04:21+00:00",
   "714226118434052_122205172970902657": "2026-11-12T09:14:43+00:00",
@@ -1382,7 +1371,6 @@
   "714226118434052_122207130674902657": "2026-11-25T09:49:33+00:00",
   "714226118434052_122207142572902657": "2026-11-25T11:48:40+00:00",
   "714226118434052_122207158760902657": "2026-11-25T14:42:37+00:00",
-  "892503027289970_122142765417219808": "2026-11-11T17:07:33+00:00",
   "892503027289970_122142765765219808": "2026-11-11T20:06:49+00:00",
   "892503027289970_122142959157219808": "2026-11-12T09:04:25+00:00",
   "892503027289970_122142959997219808": "2026-11-12T09:14:47+00:00",
@@ -1438,7 +1426,6 @@
   "892503027289970_122144194317219808": "2026-11-25T09:50:14+00:00",
   "892503027289970_122144206989219808": "2026-11-25T11:49:19+00:00",
   "892503027289970_122144216781219808": "2026-11-25T14:43:10+00:00",
-  "994273113779575_122138444540776189": "2026-11-11T17:07:36+00:00",
   "994273113779575_122138444984776189": "2026-11-11T20:06:52+00:00",
   "994273113779575_122138648630776189": "2026-11-12T09:04:05+00:00",
   "994273113779575_122138650058776189": "2026-11-12T09:14:22+00:00",
@@ -1497,213 +1484,6 @@
   "994273113779575_122140629290776189": "2026-11-25T14:43:44+00:00"
  },
  "slots": {
-  "2026-11-11 21:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "100633729330404": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1138175905577597_3194745737390762",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:32+04:00",
-       "mode": "schedule",
-       "photo_id": "1138175872244267",
-       "post_id": "100633729330404_1138175905577597",
-       "status": "done"
-      },
-      "104114086037068": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1037616342693411_1000612493091635",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:37+04:00",
-       "mode": "schedule",
-       "photo_id": "1037616326026746",
-       "post_id": "104114086037068_1037616342693411",
-       "status": "done"
-      },
-      "1060733217128705": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122143800602777362_1140124765664964",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:15+04:00",
-       "mode": "schedule",
-       "photo_id": "122143800572777362",
-       "post_id": "1060733217128705_122143800602777362",
-       "status": "done"
-      },
-      "106713875762456": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1025494683902137_2379725072845392",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:35+04:00",
-       "mode": "schedule",
-       "photo_id": "1025494620568810",
-       "post_id": "106713875762456_1025494683902137",
-       "status": "done"
-      },
-      "1220745651126185": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122126463969439195_1162205306484048",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:39+04:00",
-       "mode": "schedule",
-       "photo_id": "122126463939439195",
-       "post_id": "1220745651126185_122126463969439195",
-       "status": "done"
-      },
-      "233545296514172": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122335668626241259_2113527072861699",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:05+04:00",
-       "mode": "schedule",
-       "photo_id": "122335668596241259",
-       "post_id": "233545296514172_122335668626241259",
-       "status": "done"
-      },
-      "530022363528890": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122175295946720509_1489438683100816",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:08+04:00",
-       "mode": "schedule",
-       "photo_id": "122175295916720509",
-       "post_id": "530022363528890_122175295946720509",
-       "status": "done"
-      },
-      "625664190627160": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122183828804820020_1699992011649587",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:18+04:00",
-       "mode": "schedule",
-       "photo_id": "122183828774820020",
-       "post_id": "625664190627160_122183828804820020",
-       "status": "done"
-      },
-      "648976361631351": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122194054880829482_1626156485651087",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:22+04:00",
-       "mode": "schedule",
-       "photo_id": "122194054850829482",
-       "post_id": "648976361631351_122194054880829482",
-       "status": "done"
-      },
-      "673710079162922": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122243856590895613_1476606604348029",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:25+04:00",
-       "mode": "schedule",
-       "photo_id": "122243856560895613",
-       "post_id": "673710079162922_122243856590895613",
-       "status": "done"
-      },
-      "714226118434052": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122204973248902657_1844944740264933",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:27+04:00",
-       "mode": "schedule",
-       "photo_id": "122204973218902657",
-       "post_id": "714226118434052_122204973248902657",
-       "status": "done"
-      },
-      "892503027289970": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122142765417219808_3673851389437119",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:30+04:00",
-       "mode": "schedule",
-       "photo_id": "122142765387219808",
-       "post_id": "892503027289970_122142765417219808",
-       "status": "done"
-      },
-      "994273113779575": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122138444540776189_1699144718502350",
-       "error": null,
-       "last_attempt": "2026-11-11T02:06:12+04:00",
-       "mode": "schedule",
-       "photo_id": "122138444510776189",
-       "post_id": "994273113779575_122138444540776189",
-       "status": "done"
-      }
-     },
-     "title": "My Millionaire Ex Used My Son's Stained Shirt to Take Him Away, Until Our 8-Year-Old Stood Up and Lifted It in Court",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 172,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-11T21:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/892559783_1706065437578815_7821961973004621803_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5wRYt4oAD38Q7kNvwFLuOOF&_nc_oc=AdpcBxUTSmkr8BxBORzPTWdZi5dxjJxGftF-YjtYaP-8-rtsxODTsPEMuvMnHOPXGro&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=uVJJ_bgZhEJ-vIziCgOxFQ&_nc_tpa=Q5bMBQKpI_N7QVpRqN-SZJl1GBlPZWs8iPA4zeifbZh4a1t8Yfxy11GBlRNd2wo4J4hKOvTZLAAt4v8UiA&oh=00_AQShjAG_utQHKESpGctuaJ1vHHq4bMgYWPpM3o1TCXbdDA&oe=6AF97533",
-    "link": "https://www.facebook.com/share/p/1CDgarDTED/",
-    "origin": "manual",
-    "page_id": "100045261260562",
-    "text": "My Rich Ex-Husband Appeared at Our Custody Hearing Wearing a $10,000 Watch, Despite Leaving Me Struggling to Care for Our 8-Year-Old Son. His Lawyer Presented a Picture of Nolan in a Stained Shirt, Claiming I Was an Unfit Mother. Grant Smiled Confidently, Believing Full Custody Was Guaranteed. But When Nolan Stood Before the Judge and Lifted That Same Shirt, His Father's Smile Suddenly Disappeared.\n\nThe family courtroom in Knoxville, Tennessee, felt colder than the freezing January air outdoors.\n\nI sat at a narrow wooden table beside my eight-year-old boy, Nolan.\n\nHis feet couldn't reach the floor, so his legs swung anxiously beneath the chair.\n\nI'd dressed him in his best jeans, freshly washed winter shoes, and a worn navy shirt decorated with a small embroidered moon.\n\nDespite countless washes, several dark stains remained visible on the fabric.\n\nBut Nolan adored that shirt, and I couldn't bring myself to insist he wear something different.\n\nAcross the courtroom sat my ex-husband, Grant Bellamy.\n\nHis charcoal suit was perfectly tailored, his shoes were polished, and an expensive silver watch glittered around his wrist.\n\nHe looked every inch a prosperous businessman.\n\nCertainly not someone who repeatedly insisted he lacked the money to support his own son.\n\nSitting beside him was Preston Carroway, a lawyer whose fees likely exceeded several months of my earnings.\n\nI had no legal representation.\n\nAll I possessed was a folder containing receipts, banking documents, and messages recording Grant's repeated broken promises.\n\nThose papers were my only means of defending myself.\n\nCarroway stood and addressed the court.\n\n\"\"Your Honor, we don't question Mrs. Bellamy's affection for her son. But loving a child doesn't excuse an unstable financial situation or potentially unsuitable living conditions.\"\"\n\nI gripped the edge of the table.\n\nHe raised an enlarged photograph.\n\nIt showed Nolan walking out of school three days before.\n\nMy son wore his beloved navy shirt, with several obvious stains across its front.\n\nHis hair was untidy, and he looked exhausted after a full school day.\n\nTo me, the image showed nothing unusual—just a little boy heading home after class.\n\nBut Grant's attorney portrayed it as proof that Nolan was being neglected.\n\n\"\"A licensed investigator obtained this image,\"\" Carroway explained. \"\"It confirms our client's concerns regarding the boy's everyday care.\"\"\n\nHe indicated the marks on Nolan's clothing.\n\n\"\"The child frequently wears soiled clothing. His mother works irregular hours, struggles financially, and lives in an apartment unsuitable for raising him.\"\"\n\nNolan lowered his gaze toward his knees.\n\nHis cheeks flushed with embarrassment.\n\nWatching my child being humiliated before strangers while his father sat there smiling was nearly unbearable.\n\nWhat made the situation even more painful was knowing Grant had deliberately helped create the hardships his lawyer was now criticizing.\n\nFor months, he'd interfered with my efforts to provide a stable life for Nolan.\n\nNow he was using those very difficulties to argue that I should lose custody.\n\nTwo years earlier, Grant had walked away from our marriage and family.\n\nBefore moving out, he'd taken the expensive coffee maker, our bedroom television, and most of our valuable possessions.\n\nHe then settled into a spacious townhouse.\n\nInitially, he promised we could settle our financial arrangements privately without hiring lawyers.\n\nThree months afterward, however, he stopped responding to my messages.\n\nAlmost all of Nolan's expenses became my responsibility.\n\nEventually, my mother, Ruth, came to live with us in our modest apartment above a bakery so she could help.\n\nEach morning, I worked serving breakfast at a neighborhood diner.\n\nAt night, I cleaned offices in the downtown area.\n\nThe cleaning position paid more than my restaurant shifts.\n\nTogether, both jobs provided enough to cover rent, food, and Nolan's educational needs.\n\nI was exhausted most of the time, but we were getting by.\n\nThen Grant began interfering.\n\nHe contacted an acquaintance from his golf circle who managed the office building and arranged for an anonymous complaint alleging I'd behaved improperly at work.\n\nNone of the accusations were true.\n\nNevertheless, my evening cleaning contract was terminated.\n\nI'd lost our most reliable income.\n\nGrant also paid our landlord to characterize the apartment as filthy and unsuitable for a child.\n\nHe was deliberately creating accusations against me while pretending his only concern was Nolan's well-being.\n\nEvery financial problem he manufactured became another piece of ammunition for his attorney.\n\nMeanwhile, his lavish lifestyle continued uninterrupted.\n\nI tried desperately to shield Nolan from our money troubles.\n\nBut children often understand more than adults realize.\n\nOne evening, he discovered me sitting at the kitchen table, surrounded by overdue payment notices.\n\n\"\"Mom, are we going to be okay?\"\"\n\nI quickly flipped the papers over and managed a reassuring smile.\n\n\"\"Of course, sweetheart. I'm just deciding which bills to handle first.\"\"\n\nHe climbed onto the chair next to mine and examined the envelopes.\n\n\"\"When I've got lots of homework, I do the easiest one first. Maybe that would help with the bills.\"\"\n\nTears nearly escaped my eyes.\n\nI wrapped my arms around him, wishing our financial worries could be solved as easily as his homework.\n\nFour months before the hearing, Nolan's birthday was drawing near.\n\nWe were particularly short of money following the loss of my cleaning work.\n\nStill, I wanted his birthday to feel special.\n\nSo I visited a pawn shop.\n\nThere, I sold my grandmother's antique gold locket, the final valuable heirloom I'd received from my family.\n\nParting with it was heartbreaking.\n\nBut the payment covered a modest birthday cake and a children's book about constellations.\n\nWhile browsing a nearby clearance display, I noticed another item.\n\nA comfortable navy shirt featuring a tiny silver moon embroidered above its pocket.\n\nNolan had always loved learning about planets and stars.\n\nI immediately knew he'd treasure it.\n\nFor once, I wanted to give him something brand-new, selected specifically for him rather than inherited from someone else or received as a donation.\n\nHis eyes brightened the moment he unwrapped the present.\n\nBefore long, it became the shirt he loved most.\n\nHe wore it constantly, gradually fading its original color.\n\nEventually, a few stains became impossible to remove, no matter how carefully I washed it.\n\nNow, four months afterward, Grant's lawyer was presenting that birthday gift as evidence that I'd neglected my son.\n\nAs Carroway continued his arguments, my mind returned to the pawn shop.\n\nI remembered handing over Grandma's necklace so Nolan could enjoy a birthday celebration.\n\nI'd sacrificed a cherished possession simply to bring him happiness.\n\nAnd now Grant was using that loving gesture as a weapon against us.\n\nI looked toward my former husband.\n\nSome foolish part of me hoped he might show a trace of guilt.\n\nInstead, he sat comfortably, wearing an expression of complete satisfaction.\n\nThe judge examined the photograph.\n\nMy stomach tightened with fear.\n\nWithout my own attorney to dispute the claims, I worried Grant's expensive legal team might persuade the judge to take my little boy away.\n\nThen Nolan shifted beside me.\n\nThroughout nearly the entire proceeding, he'd remained quiet.\n\nHis small hands had rested on his knees while the adults debated his future.\n\nBut suddenly, he straightened his back.\n\nHe turned his attention directly toward the judge.\n\nHis expression had changed.\n\nThe shame I'd seen moments earlier was gone.\n\nInstead, his face held a determination I'd rarely witnessed in my eight-year-old child.\n\nSlowly, he grasped the front of his navy shirt.\n\nThen he started pulling the material upward.\n\nI watched him, puzzled.\n\nHis fingers moved toward the small embroidered moon.\n\nHe studied that section of the fabric intently, almost as though it contained something I knew nothing about.\n\nMy heartbeat quickened.\n\nWhat was my son planning to reveal?\n\nAcross the courtroom, Grant was still smiling.\n\nHe seemed oblivious to the fact that Nolan was preparing to challenge the very photograph his lawyer had used against me.\n\nBut as our son raised his shirt, ready to expose whatever was concealed near the little silver moon, I noticed uncertainty beginning to replace Grant's confidence.\n\nWhatever secret Nolan was carrying, his father had clearly never imagined he would disclose it.\n\nThe rest of the story is waiting in the comments below.",
-    "wp_media_id": 167,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-2100-en2.jpg"
-   },
-   "source_key": "post:100045261260562_1706066414245384",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-12 00:00": {
    "langs": {
     "DE": {
@@ -14263,6 +14043,11 @@
   "2026-11-26 18:00": {
    "langs": {},
    "slot_iso": "2026-11-26T18:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-26 21:00": {
+   "langs": {},
+   "slot_iso": "2026-11-26T21:00:00+04:00",
    "status": "no_source"
   }
  },
