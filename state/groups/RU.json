@@ -22377,30 +22377,36 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129880321306316_1414878967127229",
        "error": null,
        "last_attempt": "2026-11-25T14:01:35+04:00",
        "mode": "immediate",
        "photo_id": "122129880297306316",
        "post_id": "1138572272664180_122129880321306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120739975471857_4577716012442502",
        "error": null,
        "last_attempt": "2026-11-25T14:01:12+04:00",
        "mode": "immediate",
        "photo_id": "122120739945471857",
        "post_id": "1338630212673029_122120739975471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123450619505599_2141995653356578",
        "error": null,
        "last_attempt": "2026-11-25T14:00:50+04:00",
        "mode": "immediate",
        "photo_id": "122123450595505599",
        "post_id": "1448441201677530_122123450619505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Horas antes de pedir outra mulher em casamento, vi quatro menininhas idênticas à mulher que eu amei e entendi que minha família me escondia algo terrível",
@@ -22410,6 +22416,7 @@
      ],
      "wp_error": null,
      "wp_id": 738,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -22680,12 +22687,14 @@
      "pages": {
       "1083701291497481": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125529829304633_1165268795845655",
        "error": null,
        "last_attempt": "2026-11-25T13:59:52+04:00",
        "mode": "immediate",
        "photo_id": "122125529805304633",
        "post_id": "1083701291497481_122125529829304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
@@ -22711,12 +22720,14 @@
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124549075305562_1912171649967852",
        "error": null,
        "last_attempt": "2026-11-25T14:00:21+04:00",
        "mode": "immediate",
        "photo_id": "122124549051305562",
        "post_id": "1180583925128715_122124549075305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Nişanımı ilan etmeme birkaç saat kala restoranın tuvaletinde dört küçük kız gördüm; hepsi yedi yıl önce sevdiğim kadına benziyordu",
@@ -22745,7 +22756,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261125-1342-ru.jpg"
    },
    "source_key": "post:61586759032853_122142331443225301",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
