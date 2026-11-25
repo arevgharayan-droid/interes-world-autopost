@@ -14467,6 +14467,7 @@
      ],
      "wp_error": null,
      "wp_id": 1197,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -14492,48 +14493,58 @@
      "pages": {
       "1144269682096701": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126012367304553_1916798789483014",
        "error": null,
        "last_attempt": "2026-11-25T22:03:06+04:00",
        "mode": "immediate",
        "photo_id": "122126012337304553",
        "post_id": "1144269682096701_122126012367304553",
-       "status": "published"
+       "status": "done"
       },
       "1180417388497186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131902201424769_1156857320436112",
        "error": null,
        "last_attempt": "2026-11-25T22:05:09+04:00",
        "mode": "immediate",
        "photo_id": "122131902177424769",
        "post_id": "1180417388497186_122131902201424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132067867430924_2702573980201844",
        "error": null,
        "last_attempt": "2026-11-25T22:04:30+04:00",
        "mode": "immediate",
        "photo_id": "122132067843430924",
        "post_id": "1205543595981082_122132067867430924",
-       "status": "published"
+       "status": "done"
       },
       "1210451145474950": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135869317306170_1470485631699901",
        "error": null,
        "last_attempt": "2026-11-25T22:02:26+04:00",
        "mode": "immediate",
        "photo_id": "122135869287306170",
        "post_id": "1210451145474950_122135869317306170",
-       "status": "published"
+       "status": "done"
       },
       "1239848699214091": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128313577439695_1895883441762837",
        "error": null,
        "last_attempt": "2026-11-25T22:03:47+04:00",
        "mode": "immediate",
        "photo_id": "122128313553439695",
        "post_id": "1239848699214091_122128313577439695",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,
@@ -14548,12 +14559,14 @@
       },
       "715935674934966": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122204160572922316_2562597860887941",
        "error": null,
        "last_attempt": "2026-11-25T22:01:47+04:00",
        "mode": "immediate",
        "photo_id": "122204160548922316",
        "post_id": "715935674934966_122204160572922316",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Op de dag dat ik 73 miljoen dollar won, kwam mijn man thuis met een andere vrouw en eiste hij dat ik ons huis verliet, maar ik vroeg alleen of hij het zeker wist",

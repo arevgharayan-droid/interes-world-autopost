@@ -11883,12 +11883,14 @@
      "pages": {
       "1011074408765807": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105753372536431_1657191025882355",
        "error": null,
        "last_attempt": "2026-11-25T22:03:35+04:00",
        "mode": "immediate",
        "photo_id": "122105753348536431",
        "post_id": "1011074408765807_122105753372536431",
-       "status": "published"
+       "status": "done"
       },
       "1032441206625600": {
        "attempts": 1,
@@ -11903,12 +11905,14 @@
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144858462738075_1150787040866575",
        "error": null,
        "last_attempt": "2026-11-25T22:06:17+04:00",
        "mode": "immediate",
        "photo_id": "122144858438738075",
        "post_id": "1041497042386258_122144858462738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
@@ -11921,12 +11925,14 @@
       },
       "106591088255968": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1482432510692812_1489989156363003",
        "error": null,
        "last_attempt": "2026-11-25T22:04:18+04:00",
        "mode": "immediate",
        "photo_id": "1482432480692815",
        "post_id": "106591088255968_1482432510692812",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -11941,12 +11947,14 @@
       },
       "1103884436136482": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105679980536887_1432383392217304",
        "error": null,
        "last_attempt": "2026-11-25T22:05:37+04:00",
        "mode": "immediate",
        "photo_id": "122105679956536887",
        "post_id": "1103884436136482_122105679980536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
@@ -11983,21 +11991,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131207629441679_3221756391548944",
        "error": null,
        "last_attempt": "2026-11-25T22:04:57+04:00",
        "mode": "immediate",
        "photo_id": "122131207605441679",
        "post_id": "1260826840455724_122131207629441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130923829425731_2713667072472694",
        "error": null,
        "last_attempt": "2026-11-25T22:06:57+04:00",
        "mode": "immediate",
        "photo_id": "122130923805425731",
        "post_id": "1280413955154689_122130923829425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mon patron milliardaire me traitait comme un meuble depuis trois ans, jusqu'au jour où j'ai pris son téléphone et lui ai révélé ce que ses propres cadres lui cachaient",
