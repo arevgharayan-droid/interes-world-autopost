@@ -23361,36 +23361,43 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129922921306316_1007551728482482",
        "error": null,
        "last_attempt": "2026-11-25T22:17:19+04:00",
        "mode": "immediate",
        "photo_id": "122129922897306316",
        "post_id": "1138572272664180_122129922921306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120842671471857_4690950854517709",
        "error": null,
        "last_attempt": "2026-11-25T22:16:56+04:00",
        "mode": "immediate",
        "photo_id": "122120842647471857",
        "post_id": "1338630212673029_122120842671471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123560257505599_1182650407439481",
        "error": null,
        "last_attempt": "2026-11-25T22:16:34+04:00",
        "mode": "immediate",
        "photo_id": "122123560221505599",
        "post_id": "1448441201677530_122123560257505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Minha filha trouxe para casa uma menina sem-teto debaixo de chuva, mas a reação da minha esposa ao vê-la revelou um segredo terrível",
      "warnings": [],
      "wp_error": null,
      "wp_id": 772,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -23662,12 +23669,13 @@
       "1083701291497481": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125566891304633_986887590746980",
        "error": null,
        "last_attempt": "2026-11-25T22:15:49+04:00",
        "mode": "immediate",
        "photo_id": "122125566861304633",
        "post_id": "1083701291497481_122125566891304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
@@ -23693,12 +23701,14 @@
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124586203305562_1446664254291063",
        "error": null,
        "last_attempt": "2026-11-25T22:16:12+04:00",
        "mode": "immediate",
        "photo_id": "122124586179305562",
        "post_id": "1180583925128715_122124586203305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Kızım Yağmurda Evsiz Bir Kızı Eve Getirdi, Karım Onu Görünce Kendini Kaybetti: Sustum, Çünkü Korkunç Bir Gerçeği Anlamıştım",
@@ -23727,7 +23737,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261125-2159-ru.jpg"
    },
    "source_key": "post:61576792898556_122132361842893096",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
