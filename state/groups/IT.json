@@ -95,6 +95,7 @@
   "9292d1f738e891eb035f": "2026-11-24T16:42:17+00:00",
   "9491a2fcaecca6d4b3e8": "2026-11-22T14:04:30+00:00",
   "95d237cdeb8abc1d25fb": "2026-11-22T21:51:29+00:00",
+  "96d3d506afe06912b8c7": "2026-11-25T14:02:30+00:00",
   "974f4aeedbccbb305374": "2026-11-22T19:49:03+00:00",
   "9756467f006a63dbc5a8": "2026-11-19T19:58:46+00:00",
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
@@ -105,6 +106,7 @@
   "9de178bf596b4ce2bdc8": "2026-11-16T19:28:24+00:00",
   "9f474425c5be14df68f2": "2026-11-23T13:49:21+00:00",
   "9f8e2aaababf4c68217d": "2026-11-12T09:04:03+00:00",
+  "a2a1f3c0a19964c78743": "2026-11-25T14:02:30+00:00",
   "a422bdb38f331c5fee32": "2026-11-20T19:26:25+00:00",
   "a4b89125460da2b22e44": "2026-11-14T09:18:15+00:00",
   "a4c8a85e7db7d89e2752": "2026-11-21T22:45:36+00:00",
@@ -130,6 +132,7 @@
   "c73763bb1c4080ccec74": "2026-11-20T22:45:58+00:00",
   "c8020142d83ca272273c": "2026-11-16T00:18:19+00:00",
   "ce41fb776b521b73c710": "2026-11-23T13:58:44+00:00",
+  "ceb96049de829a0c15e0": "2026-11-25T14:02:30+00:00",
   "cf29e5e2e8b5770866b0": "2026-11-16T10:16:33+00:00",
   "d2bd36c62fe9db3a15cc": "2026-11-20T19:26:25+00:00",
   "d2f5f29e381033fa9e6e": "2026-11-24T12:29:28+00:00",
@@ -23103,7 +23106,90 @@
   },
   "2026-11-25 18:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vrátil jsem se domů ve 3:26 ráno a v posteli ležel jen její snubní prsten, zbraň a vzkaz: „Nehledej mě",
+     "warnings": [
+      "длина статьи 572 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1179,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Dopo 48 ore con l'amante, il boss più temuto della costa est tornò a casa e trovò sul letto la fede, la pistola delle nozze e un biglietto: «Non cercarmi",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1177,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wrócił nad ranem po 48 godzinach u kochanki. W sypialni czekał na niego pierścionek żony, pistolet i kartka: „Nie szukaj mnie",
+     "warnings": [
+      "длина текста FB 1251 слов (исходник 1549, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1178,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T18:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/922547618_1682766306560117_7504983375943608283_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lx_O-NRYvIEQ7kNvwH_0VH3&_nc_oc=AdoiwyBko9cPvmtNT7nIfK8MNvL0tDIxNKGcEDV9bRi8zBJH3GlEArQorW35N2ifjZ0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=mAdMUO5yu730qFkqY1HWCA&_nc_tpa=Q5bMBQKsfsfEZEbPYjZC1A3ude6R-EYlpITrLob4OQTrWUO_S0LwI2t1mzHOZHUlF7WNkJ5PxWae4XKOig&oh=00_AQT2fE0y_jz5McvQUNi2RVx-dxN4VwBcsjlF6_SgFlDzzQ&oe=6B0CA102",
@@ -23115,7 +23201,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1830-it.jpg"
    },
    "source_key": "post:100044802900629_1682766399893441",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -23397,7 +23483,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-25 18:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1629385935246766": {
    "fingerprint": "f8f749cc5a4b240d9667",
