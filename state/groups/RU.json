@@ -23571,7 +23571,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1129620776897151": {
+       "attempts": 1,
+       "last_attempt": "2026-11-25T22:14:59+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Kızım Yağmurda Evsiz Bir Kızı Eve Getirdi, Karım Onu Görünce Kendini Kaybetti: Sustum, Çünkü Korkunç Bir Gerçeği Anlamıştım",
      "warnings": [
       "длина текста FB 534 слов (исходник 760, цель ±10%)"
