@@ -16,6 +16,7 @@
   "3a97f3e137c54cf90644": "2026-11-21T14:12:55+00:00",
   "42f83a6636f8daec3ccc": "2026-11-25T11:44:21+00:00",
   "457a0c3996dd22980ee2": "2026-11-12T17:47:23+00:00",
+  "4e1d8542254b3f717b83": "2026-11-25T14:02:08+00:00",
   "52c928b71eb9c5a030a6": "2026-11-24T12:28:56+00:00",
   "52ffcff1570a8d759ae4": "2026-11-18T08:52:00+00:00",
   "5435b8c4e88447b49542": "2026-11-15T10:15:18+00:00",
@@ -14205,7 +14206,72 @@
   },
   "2026-11-25 18:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Sold Our Baby's Crib and My Late Mother's Sewing Machine for a Gaming Setup, Then Left Our Daughter in the Garage, but the Baby Monitor and a Knock at the Door Changed Everything",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1173,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T18:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/921191178_1682335703269844_2920644404047841865_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6oZORDiPzW8Q7kNvwFXAE8M&_nc_oc=AdpbX107rpGoAr-GCYlSUDB7FScxFRkhebtQNYq55LOscA8Q17llwWzYTrR5l9hwmww&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=0ZTjLXf1okrrWXnmbkQ3Vw&_nc_tpa=Q5bMBQIizw0vHDItkyU2LYlucOLtiKW_C8J5wmjrUZOII06nG0nBhAbanykwnxhNRT5gWZb1AT6Jsars4g&oh=00_AQQ0t8h472Mv1bSp4MXU7MyE0X4GWqoZbeV0gJvd9oLOwQ&oe=6B0CD411",
@@ -14217,7 +14283,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1830-en2.jpg"
    },
    "source_key": "post:100044802900629_1683073856529362",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14523,7 +14589,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-25 18:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1510385177146843": {
    "fingerprint": "4fdf948820c4215e587f",
