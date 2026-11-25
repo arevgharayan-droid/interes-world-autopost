@@ -22707,36 +22707,43 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129889255306316_4763158837336127",
        "error": null,
        "last_attempt": "2026-11-25T16:01:23+04:00",
        "mode": "immediate",
        "photo_id": "122129889231306316",
        "post_id": "1138572272664180_122129889255306316",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120759427471857_1827523688367287",
        "error": null,
        "last_attempt": "2026-11-25T16:01:01+04:00",
        "mode": "immediate",
        "photo_id": "122120759403471857",
        "post_id": "1338630212673029_122120759427471857",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123480211505599_1817885840345622",
        "error": null,
        "last_attempt": "2026-11-25T16:00:38+04:00",
        "mode": "immediate",
        "photo_id": "122123480169505599",
        "post_id": "1448441201677530_122123480211505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Meu marido mandou eu ficar em casa lavando a louça enquanto levava a amante a um gala de luxo, sem saber que a bilionária que ele queria impressionar era eu",
      "warnings": [],
      "wp_error": null,
      "wp_id": 747,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -23008,12 +23015,13 @@
       "1083701291497481": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125539513304633_1789191002165004",
        "error": null,
        "last_attempt": "2026-11-25T15:59:54+04:00",
        "mode": "immediate",
        "photo_id": "122125539489304633",
        "post_id": "1083701291497481_122125539513304633",
-       "status": "published"
+       "status": "done"
       },
       "1129620776897151": {
        "attempts": 1,
@@ -23039,12 +23047,14 @@
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124557841305562_2033676443961654",
        "error": null,
        "last_attempt": "2026-11-25T16:00:17+04:00",
        "mode": "immediate",
        "photo_id": "122124557817305562",
        "post_id": "1180583925128715_122124557841305562",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Beni Bulaşık Yıkamaya Evde Bırakıp Metresini Lüks Galaya Götürdü, Ama Milyonlarını Beklediği Milyarder Kadının Ben Olduğunu Bilmiyordu",
@@ -23074,7 +23084,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261125-1543-ru.jpg"
    },
    "source_key": "post:61566689175708_122107016756556305",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
