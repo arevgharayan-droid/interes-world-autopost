@@ -72,7 +72,6 @@
   "1011074408765807_122105690096536431": "2026-11-24T12:32:59+00:00",
   "1011074408765807_122105701220536431": "2026-11-24T16:45:57+00:00",
   "1011074408765807_122105735078536431": "2026-11-25T09:48:32+00:00",
-  "1032441206625600_122117289296633539": "2026-11-11T11:14:19+00:00",
   "1032441206625600_122117289764633539": "2026-11-11T14:08:21+00:00",
   "1032441206625600_122117290004633539": "2026-11-11T17:06:50+00:00",
   "1032441206625600_122117290220633539": "2026-11-11T20:06:10+00:00",
@@ -176,7 +175,6 @@
   "1041497042386258_122144640884738075": "2026-11-24T12:35:39+00:00",
   "1041497042386258_122144687168738075": "2026-11-24T16:48:37+00:00",
   "1041497042386258_122144808392738075": "2026-11-25T09:51:09+00:00",
-  "1058598924006917_122109063710457428": "2026-11-11T11:14:25+00:00",
   "1058598924006917_122109063926457428": "2026-11-11T14:08:27+00:00",
   "1058598924006917_122109064244457428": "2026-11-11T17:06:57+00:00",
   "1058598924006917_122109064454457428": "2026-11-11T20:06:18+00:00",
@@ -249,7 +247,6 @@
   "106591088255968_1481068644162532": "2026-11-24T12:33:40+00:00",
   "106591088255968_1481295517473178": "2026-11-24T16:46:37+00:00",
   "106591088255968_1482002750735788": "2026-11-25T09:49:12+00:00",
-  "1079295351933311_122122697313299008": "2026-11-11T11:14:28+00:00",
   "1079295351933311_122122697553299008": "2026-11-11T14:08:31+00:00",
   "1079295351933311_122122697847299008": "2026-11-11T17:07:00+00:00",
   "1079295351933311_122122698063299008": "2026-11-11T20:06:21+00:00",
@@ -353,7 +350,6 @@
   "1103884436136482_122105646602536887": "2026-11-24T12:35:01+00:00",
   "1103884436136482_122105651612536887": "2026-11-24T16:47:57+00:00",
   "1103884436136482_122105669660536887": "2026-11-25T09:50:28+00:00",
-  "1145306638657445_122125390713303172": "2026-11-11T11:14:35+00:00",
   "1145306638657445_122125390941303172": "2026-11-11T14:08:34+00:00",
   "1145306638657445_122125391247303172": "2026-11-11T17:07:04+00:00",
   "1145306638657445_122125391451303172": "2026-11-11T20:06:23+00:00",
@@ -409,7 +405,6 @@
   "1145306638657445_122127263565303172": "2026-11-24T12:31:36+00:00",
   "1145306638657445_122127301239303172": "2026-11-24T16:44:35+00:00",
   "1145306638657445_122127373167303172": "2026-11-25T09:47:13+00:00",
-  "1202025962997153_122121314439409328": "2026-11-11T11:14:39+00:00",
   "1202025962997153_122121314673409328": "2026-11-11T14:08:36+00:00",
   "1202025962997153_122121315291409328": "2026-11-11T17:07:08+00:00",
   "1202025962997153_122121315663409328": "2026-11-11T20:06:26+00:00",
@@ -985,7 +980,6 @@
   "122144640860738075": "2026-11-24T12:35:39+00:00",
   "122144687144738075": "2026-11-24T16:48:37+00:00",
   "122144808356738075": "2026-11-25T09:51:09+00:00",
-  "1250374694822508_122123212137415639": "2026-11-11T11:14:42+00:00",
   "1250374694822508_122123212365415639": "2026-11-11T14:08:40+00:00",
   "1250374694822508_122123212611415639": "2026-11-11T17:07:12+00:00",
   "1250374694822508_122123212809415639": "2026-11-11T20:06:30+00:00",
@@ -1041,7 +1035,6 @@
   "1250374694822508_122125206027415639": "2026-11-24T12:30:14+00:00",
   "1250374694822508_122125227915415639": "2026-11-24T16:43:14+00:00",
   "1250374694822508_122125332645415639": "2026-11-25T09:45:54+00:00",
-  "1260826840455724_122128427283441679": "2026-11-11T11:14:45+00:00",
   "1260826840455724_122128427619441679": "2026-11-11T14:08:43+00:00",
   "1260826840455724_122128428027441679": "2026-11-11T17:07:17+00:00",
   "1260826840455724_122128428345441679": "2026-11-11T20:06:33+00:00",
@@ -1159,150 +1152,6 @@
   "1482002720735791": "2026-11-25T09:49:12+00:00"
  },
  "slots": {
-  "2026-11-11 15:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1032441206625600": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122117289296633539_39848735511439063",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:57+04:00",
-       "mode": "schedule",
-       "photo_id": "122117289266633539",
-       "post_id": "1032441206625600_122117289296633539",
-       "status": "done"
-      },
-      "1058598924006917": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122109063710457428_2224516738414641",
-       "error": null,
-       "last_attempt": "2026-11-11T02:04:02+04:00",
-       "mode": "schedule",
-       "photo_id": "122109063674457428",
-       "post_id": "1058598924006917_122109063710457428",
-       "status": "done"
-      },
-      "1079295351933311": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122122697313299008_1803540027597642",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:52+04:00",
-       "mode": "schedule",
-       "photo_id": "122122697283299008",
-       "post_id": "1079295351933311_122122697313299008",
-       "status": "done"
-      },
-      "1145306638657445": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122125390713303172_2350186479089317",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:54+04:00",
-       "mode": "schedule",
-       "photo_id": "122125390677303172",
-       "post_id": "1145306638657445_122125390713303172",
-       "status": "done"
-      },
-      "1202025962997153": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122121314439409328_1009742461417774",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122121314409409328",
-       "post_id": "1202025962997153_122121314439409328",
-       "status": "done"
-      },
-      "1250374694822508": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122123212137415639_1959160541717682",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122123212107415639",
-       "post_id": "1250374694822508_122123212137415639",
-       "status": "done"
-      },
-      "1260826840455724": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122128427283441679_1444723877816222",
-       "error": null,
-       "last_attempt": "2026-11-11T02:03:59+04:00",
-       "mode": "schedule",
-       "photo_id": "122128427253441679",
-       "post_id": "1260826840455724_122128427283441679",
-       "status": "done"
-      }
-     },
-     "title": "Deux voitures de police devant chez nous après que mon fils de 12 ans a tondu gratuitement la pelouse d'une dame âgée",
-     "warnings": [
-      "длина текста FB 763 слов (исходник 649, цель ±10%)",
-      "длина статьи 1037 слов"
-     ],
-     "wp_error": null,
-     "wp_id": 151,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-11T15:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/848043729_122151177789350229_1301300259445847788_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8liXLlicKp0Q7kNvwEv14hh&_nc_oc=AdqEpvpcPsNDKoCrzc6PGAyf1Jgni7T-HAoZTCyaGDgnN7PahUFmRHY_nuLLsnwiXXc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=l6_rsK6RJc-OOCareEioFQ&_nc_tpa=Q5bMBQIXwnjsKkn_MDA0nE42oEVqJPvZAqNqoOs7FlAQ6Q60-_wF1mZVmWqCrkQB7Fr5o-eK5Zq4LnEYGA&oh=00_AQTjeyenxX-s9FbpyauAvSAU-1uPa5pzyYHAl-grsSi9Sg&oe=6AF972CC",
-    "link": "https://www.facebook.com/share/p/1A8sNQX4zc/",
-    "origin": "manual",
-    "page_id": "61590506886446",
-    "text": "Two police cars pulled up outside my house just hours after my twelve-year-old son finished mowing an elderly woman's lawn for free. When the officers asked whether he'd been visiting a blue house on Hawthorne Street, my hands started shaking, but what terrified me most was the way my son hesitated before answering their next question. Three weeks before seventh grade, I suddenly wondered whether the summer I'd been so proud of had been hiding something I knew nothing about.\n\nMy son, Ethan, isn't a perfect child. He forgets homework, leaves wet towels on the floor, and somehow thinks putting an empty cereal box back in the pantry is perfectly reasonable.\n\nBut he has a heart bigger than most adults I know.\n\nI discovered that shortly after school ended, when I spotted him pushing our old lawn mower down the sidewalk.\n\n\"Where are you going?\" I called.\n\n\"Mrs. Hall needs help!\"\n\nMrs. Hall was seventy-eight and lived four houses away. Ethan had apparently seen her struggling to mow her grass in ninety-degree heat.\n\nAn hour later, he returned drenched in sweat.\n\n\"She tried giving me twenty dollars,\" he announced.\n\n\"Did you take it?\"\n\nHe looked offended.\n\n\"Mom, she needed help.\"\n\nThe next morning, he appeared at breakfast with another question.\n\n\"Do you think other old people around here need their lawns done?\"\n\n\"Probably,\" I answered.\n\nThat was all the encouragement he needed.\n\nWithin weeks, Ethan had become our neighborhood's unofficial lawn-care kid. Two or three times a week, he pushed our ancient mower from house to house, helping elderly neighbors without charging a penny.\n\nI established three rules: never enter strangers' homes, keep his phone charged, and always tell me where he was going.\n\nHe agreed, although remembering the phone rule wasn't exactly his greatest talent.\n\nPeople began recognizing him everywhere.\n\nI couldn't have been prouder.\n\nThen August arrived, and summer vacation was nearly over.\n\nOne Thursday morning, Ethan tied his sneakers and announced he had one final yard to finish.\n\n\"Whose house?\" I asked.\n\n\"Evelyn's.\"\n\nI vaguely recognized the name.\n\n\"Where does she live?\"\n\n\"The little blue house near the end of Hawthorne Street.\"\n\n\"Be home by lunch.\"\n\n\"Yes, commander!\"\n\nHe saluted dramatically before disappearing through the door.\n\nAbout an hour later, he returned looking completely normal. He showered, made himself two grilled cheese sandwiches, and complained when I reminded him to organize his school supplies.\n\nNothing seemed unusual.\n\nUntil I glanced through the kitchen window.\n\nTwo police cars had stopped directly outside our house.\n\nMy stomach dropped.\n\nI grabbed the counter to steady myself.\n\n\"Ethan, stay here.\"\n\n\"Why, Mom?\"\n\nI couldn't answer.\n\nI hurried to the front door and opened it before the officers knocked.\n\n\"Can I help you?\"\n\nBoth officers looked serious.\n\nThe older one stepped forward.\n\n\"Ma'am, is your son the boy who's been mowing lawns around this neighborhood?\"\n\nMy heart began pounding.\n\n\"Yes. Is something wrong?\"\n\nEthan appeared beside me.\n\n\"I haven't broken anything,\" he blurted.\n\nThe officer studied him.\n\n\"What's your name, son?\"\n\n\"Ethan.\"\n\n\"Have you been visiting a small blue house near the end of Hawthorne Street?\"\n\nI felt my blood turn cold.\n\nEthan nodded.\n\n\"Evelyn's house?\"\n\nThe second officer exchanged a glance with his partner.\n\n\"How well do you know Evelyn?\"\n\nEthan shrugged.\n\n\"I mow her yard.\"\n\n\"Anything else?\"\n\nMy son opened his mouth, then stopped.\n\nI had never seen him look so uncertain.\n\n\"Ethan?\" I whispered.\n\nHe glanced at me, then back at the officers.\n\nAnd when the older officer reached into his pocket, I realized this visit wasn't simply about mowing lawns.\n\nNEXT PART and the FULL ENDING are coming. Type ‘YES’ and press ‘LIKE’ so we can post full story. Your [LIKE] helps these honest stories reach the people who need them most. Thank you for the support.",
-    "wp_media_id": 144,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261111-1500-fr.jpg"
-   },
-   "source_key": "post:61590506886446_122151177831350229",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-11 18:00": {
    "langs": {
     "DE": {
