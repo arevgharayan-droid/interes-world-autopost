@@ -23665,7 +23665,23 @@
   "2026-11-26 00:00": {
    "langs": {},
    "slot_iso": "2026-11-26T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/932058055_1461522769441924_5495324915192321791_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0YdwxzM0-xMQ7kNvwGMUPdJ&_nc_oc=AdrLOrV-CKtZvBZnEXRpoeTQqlCfEEJrBHQx-w2HF8zPaY6hAs2zelzJlHVq-O10KBU&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xKlDMfi0l2k2nfkChqzEdg&_nc_tpa=Q5bMBQJ6RK8ybnRj8A7TsRmcfIyfaCEwjm2zFeo7yorDuQb4m9dblb3Lx3VRpMsZqLO5poMzMSFp_0h4EA&oh=00_AQSVsDRivoDHllPxH_qnZhfLGVmv8skN1-HIrZtdKNUWLA&oe=6B0CFF01",
+    "link": "https://www.facebook.com/story.php?story_fbid=1461692996091568&id=100067526447776",
+    "origin": "manual",
+    "page_id": "100067526447776",
+    "text": "My Fiancé Shouted \"I Don’t!\" and Fled Our Wedding. Fifty Years Later, His Lawyer Appeared at My Door and Told Me, \"He Wants You to Finally Understand What Really Happened That Day.\"\n\nI was only 22 when Raymond abandoned me at the altar. We'd been dating since high school, and I had always imagined that we'd spend the rest of our lives growing old together.\n\nI had made my own wedding dress with my own hands. Raymond had picked up extra shifts at work so he could afford my engagement ring. Everything seemed to be going exactly as we'd dreamed until the minister turned to him and asked whether he would take me as his wife.\n\n\"I don't!\" Raymond suddenly yelled.\n\nBefore I could even reach out to stop him, he bolted out of the church, leaving me standing alone in front of 80 wedding guests.\n\nI kept waiting for him to return. Even after everyone had left and gone home, I remained seated on the church steps in my wedding dress, still hoping he'd come back and give me an explanation.\n\nBut he never showed up.\n\nIn our small town, the gossip started almost immediately. Some people claimed I must have pressured him into marrying me. Others whispered that he'd found out something disgraceful about my past.\n\nEven my own aunt suggested that I had probably done something to bring the humiliation upon myself.\n\nEventually, I gathered my belongings and left for Minneapolis, a place where no one knew who I was.\n\nBuilding a new life was anything but easy. I spent long hours working at a diner, then went home and cried myself to sleep on more nights than I care to remember.\n\nLittle by little, though, things started getting easier.\n\nEventually, I met Gregory, a gentle and understanding man who loved me even when my painful past made it difficult for me to trust him. We got married and raised three wonderful children together.\n\nNow I have six grandchildren, and their visits fill my little home with laughter and life.\n\nGregory died four years ago, and there isn't a day when I don't miss him. He gave me a beautiful life, and I wouldn't exchange a single part of it for anything.\n\nEven so, Raymond has never completely disappeared from my memories.\n\nPlease don't misunderstand me. I've never regretted the life I built.\n\nBut some hurts leave scars so deep that time can never completely erase them.\n\nToday was the exact 50th anniversary of the day Raymond and I were supposed to become husband and wife.\n\nI was in the kitchen baking cookies for my grandchildren when I heard a knock at the door. I hurried over to answer it, expecting to find their familiar little faces waiting outside.\n\nInstead, a young man wearing a suit was standing on my porch, holding an old cardboard box.\n\nDo you want to know what happens next? Type 'LOVE' and you'll see the the unexpected ending in the comments 👇👇",
+    "wp_media_id": 1201,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-0000-it.jpg"
+   },
+   "source_key": "post:100067526447776_1461692996091568",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-26 12:00": {
    "langs": {},
@@ -24147,6 +24163,14 @@
    "page_id": "100066730531753",
    "slot": "2026-11-12 00:00",
    "status": "used"
+  },
+  "post:100067526447776_1461692996091568": {
+   "fingerprint": "85506b97d90ad372371f",
+   "link": "https://www.facebook.com/story.php?story_fbid=1461692996091568&id=100067526447776",
+   "origin": "manual",
+   "page_id": "100067526447776",
+   "slot": "2026-11-26 00:00",
+   "status": "reserved"
   },
   "post:100069122846749_1462195259427888": {
    "fingerprint": "8d65167a2a6fbe5434ca",

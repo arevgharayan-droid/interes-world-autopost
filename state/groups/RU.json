@@ -23748,7 +23748,23 @@
   "2026-11-26 00:00": {
    "langs": {},
    "slot_iso": "2026-11-26T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/924003989_1461503639443837_8976411229796468784_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4_BAbwnHEcQQ7kNvwEA_8CN&_nc_oc=AdppdSd1Jf7kRax7V_OCYubs9b--gePBI6bjytl0Duc7-E_-eBltxQ9PRyudLOWj674&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=MzdsZ-qIxpz4K7g2fywh1w&_nc_tpa=Q5bMBQJzGNWJ6cA6qaZUjdOtpRu97vCWMjwn0vFpsIzA7DvkfZuxkGG8TPLvm1xksw53f9IFU5aoVT1i1Q&oh=00_AQQp5BwoLuBlK126suD3-L0yvb5ArT5COnJV_oa96qjZiA&oe=6B0D0239",
+    "link": "https://www.facebook.com/story.php?story_fbid=1461503732777161&id=100067526447776",
+    "origin": "manual",
+    "page_id": "100067526447776",
+    "text": "For 30 years, people had made fun of my height. But just when I finally found someone who loved me and became pregnant, my mother in law offered me $100,000 to abandon my baby at the hospital.\n\nI was born with dwarfism, and at just 3 feet 8 inches tall, I spent most of my life being treated as though I were some kind of joke.\n\nIn elementary school, other children called me \"doll\" and \"tiny girl.\"\n\nBy the time I reached high school, boys were challenging one another to ask me to prom.\n\nOne of them actually went through with it. The moment I accepted, his friends burst into laughter.\n\nThings became even harder when I started dating as an adult.\n\nSome men rejected me immediately, while others acted as if I were some unusual object they were curious to examine.\n\nBy the time I turned 35, I had almost completely given up on the idea that someone could truly love me.\n\nThen Brandon came into my life.\n\nHe was tall, good looking, and seven years older than me.\n\nDuring our first date, he pulled out my chair, paid attention to everything I said, and never once brought up my height.\n\nTwo years later, we became husband and wife.\n\nWhen I found out I was expecting at 38, I couldn't stop crying. Brandon actually thought something terrible had happened.\n\nFor the first time, I felt that my life had finally given me everything I'd ever dreamed of.\n\nUnfortunately, his mother, Margaret, didn't share our excitement.\n\nShe had always been courteous toward me, but there was an unusual distance in the way she treated me.\n\nWhen we told her about the pregnancy, her eyes went straight to my stomach.\n\n\"Are you certain this is a wise decision?\"\n\nI thought she was simply concerned about the risks to my health.\n\nMy doctors were keeping a close eye on me, and so far, the pregnancy was progressing without any problems.\n\nThen, when I was seven months along, Margaret asked me to come over while Brandon was at work.\n\nShe set a check down on the kitchen table.\n\nIt was for $100,000.\n\n\"Take this.\"\n\nI looked at the check, completely confused.\n\n\"What is this money for?\"\n\nShe calmly brought her hands together.\n\n\"Once the baby is born, leave the child at the hospital. I'll take care of the arrangements.\"\n\nFor a moment, I couldn't find the words to respond.\n\n\"You're asking me to abandon my own baby?\"\n\n\"Look at it as an opportunity to give the child a better future.\"\n\nI shoved the check back across the table.\n\n\"Stay out of my life.\"\n\nMargaret didn't raise her voice or try to argue.\n\nShe simply picked up the check again.\n\n\"Don't come back later and claim I never warned you.\"\n\nThat evening, I told Brandon everything that had happened. He was absolutely furious.\n\n\"She will never be allowed anywhere near our baby.\"\n\nWe cut off all contact with Margaret for the remainder of my pregnancy.\n\nWhen I reached 38 weeks, I went into labor. My doctors had already arranged a C-section because of my specific medical requirements, but Abigail decided she couldn't wait and arrived three days ahead of schedule.\n\nThe moment I heard her cry for the first time, tears streamed down my face.\n\n\"She's absolutely perfect,\" Brandon whispered.\n\nOur little girl weighed six pounds. She had a tiny button nose and a thick head of dark hair.\n\nThe nurses gently laid her against my chest. For the first time in my entire life, I wasn't thinking about my body or any of the cruel remarks people had made about it.\n\nI was simply a mother holding her daughter.\n\nBut our happiness didn't even last an hour.\n\nA nurse came into my room.\n\n\"There's a woman downstairs who says she's the baby's grandmother.\"\n\nMy heart immediately sank.\n\n\"Please tell her she's not allowed to come up.\"\n\nThe nurse looked uncertain.\n\n\"She insists that something has gone wrong.\"\n\nBefore I had a chance to answer, another nurse rushed into the room. She went directly to Abigail's bassinet and examined the identification bracelet around her ankle.\n\n\"Who brought this baby into the room?\"\n\nBrandon immediately got to his feet.\n\n\"What are you talking about?\"\n\nThe nurse glanced toward the doorway.\n\n\"Please, nobody touch the bassinet.\"\n\nI struggled to sit up, but a sharp pain shot through my abdomen.\n\n\"What's going on? That's my daughter!\"\n\nThen, without warning, we heard people shouting in the hallway.\n\nPart 2 is already in the first comment 😉 Type “BEST” and press LIKE if you want to continue reading till the end of this story 👇",
+    "wp_media_id": 777,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-0000-ru.jpg"
+   },
+   "source_key": "post:100067526447776_1461503732777161",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-26 12:00": {
    "langs": {},
@@ -24260,6 +24276,14 @@
    "page_id": "100066730531753",
    "slot": "2026-11-12 00:00",
    "status": "used"
+  },
+  "post:100067526447776_1461503732777161": {
+   "fingerprint": "5867302c19916c01ab8f",
+   "link": "https://www.facebook.com/story.php?story_fbid=1461503732777161&id=100067526447776",
+   "origin": "manual",
+   "page_id": "100067526447776",
+   "slot": "2026-11-26 00:00",
+   "status": "reserved"
   },
   "post:100083366355470_1137476969041171": {
    "fingerprint": "90775bfede33c7ed9cd6",
