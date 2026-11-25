@@ -21,6 +21,7 @@
   "1a2b81e644a3178c5112": "2026-11-22T21:56:46+00:00",
   "1ae2df6170635ea8dab2": "2026-11-20T22:46:03+00:00",
   "1b611cc50216f8888d60": "2026-11-22T21:48:03+00:00",
+  "1c4128882d6fdc456e35": "2026-11-25T22:45:52+00:00",
   "20a7a509199cfbe519fc": "2026-11-15T14:18:37+00:00",
   "25859e26b6e422f893cd": "2026-11-25T11:44:43+00:00",
   "25b78f14c93b0017d12c": "2026-11-20T22:46:03+00:00",
@@ -60,10 +61,12 @@
   "71261dc1524c8f04c4de": "2026-11-21T22:45:45+00:00",
   "7477c933eb22d1c2c473": "2026-11-22T21:27:39+00:00",
   "76987c00bbd404e3cd24": "2026-11-12T10:26:46+00:00",
+  "7f712453ca750cd21feb": "2026-11-25T22:45:52+00:00",
   "82c4ef85daea167f4a95": "2026-11-21T17:04:07+00:00",
   "82d6245bac03a32fa117": "2026-11-12T10:26:46+00:00",
   "84b09bc98a9e61d6846f": "2026-11-18T18:56:13+00:00",
   "84b43238bfda7c42ae10": "2026-11-12T17:47:29+00:00",
+  "87c5e5d9fc96a2ef4a39": "2026-11-25T22:45:52+00:00",
   "87f9f8d27c5313018eee": "2026-11-14T09:18:09+00:00",
   "8daa63ca87eb93cfa9ef": "2026-11-25T20:00:00+00:00",
   "8ec979960001054d4223": "2026-11-20T19:26:18+00:00",
@@ -14813,7 +14816,96 @@
    }
   },
   "2026-11-26 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sie schlugen mir mit meinen Zwillingen die Tür vor der Nase zu – acht Jahre später standen sie auf meiner Feier und wollten ihren „Familienanteil",
+     "warnings": [
+      "длина текста FB 575 слов (исходник 749, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1222,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elf dagen na het overlijden van mijn man sloeg mijn moeder de deur dicht voor mijn tweeling. Acht jaar later stond ze ongevraagd op mijn feest",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1221,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Onze dias após enviuvar, ela ouviu da própria mãe \"não somos sua rede de segurança\" — oito anos depois, os pais apareceram na festa dela exigindo uma parte de 2,5 milhões de dólares",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 788,
+     "wp_media_id": 787,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1200-nl.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/925214875_1682771849892896_1467066544976997141_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=J2Cv_rHufRYQ7kNvwEzI2v1&_nc_oc=AdqjCKJemFJLSKZrp71I9Y9TltRQzsUzmMHitn878TDfRF-XQHVSkNcssUYmfpbjZE4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=OQKeUBKMtVtBRovR1kT-HA&_nc_tpa=Q5bMBQKpajf5POOLbV81XYccs8TAAf8YrSAxASlOC_Jcz_JzwOUNdGdUEiQiIgVQc2_o02wjM04GInAhxw&oh=00_AQRxBm2QG6WkYzy2IPimYrFKa8IkETaBcPMlIOHUHn-zpA&oe=6B0D37A7",
@@ -14825,7 +14917,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1200-nl.jpg"
    },
    "source_key": "post:100044802900629_1682771949892886",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15234,7 +15326,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-26 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100044802900629_1682829136553834": {
    "fingerprint": "447eb8563baec5b2504a",
