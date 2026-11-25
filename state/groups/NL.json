@@ -13905,12 +13905,14 @@
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135228151436382_2928405500862649",
        "error": null,
        "last_attempt": "2026-11-25T13:50:58+04:00",
        "mode": "immediate",
        "photo_id": "122135228115436382",
        "post_id": "1268633826332790_122135228151436382",
-       "status": "published"
+       "status": "done"
       },
       "363312640206172": {
        "attempts": 1,
