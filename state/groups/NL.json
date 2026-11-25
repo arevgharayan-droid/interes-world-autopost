@@ -90,6 +90,7 @@
   "cce306c23605b2fd33c0": "2026-11-18T08:52:12+00:00",
   "cd39e670f61e621b3317": "2026-11-18T08:52:12+00:00",
   "cda4a9c0ba0b01ac967a": "2026-11-19T17:35:36+00:00",
+  "cfd0e1acaf392f191a28": "2026-11-25T14:02:20+00:00",
   "d0e868f744c502100d70": "2026-11-20T14:41:24+00:00",
   "d3c887e243c06a04d9a4": "2026-11-19T17:35:36+00:00",
   "d3fee1a43893965feb7d": "2026-11-13T14:37:35+00:00",
@@ -107,7 +108,8 @@
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
   "f1de2b6a7b4cb66798b0": "2026-11-19T22:01:01+00:00",
   "f3db1dfbfdb7df061663": "2026-11-14T11:39:08+00:00",
-  "fabea08610bac51ffc8f": "2026-11-16T10:16:48+00:00"
+  "fabea08610bac51ffc8f": "2026-11-16T10:16:48+00:00",
+  "ff016a7c3f832808b81c": "2026-11-25T14:02:20+00:00"
  },
  "outputs": {
   "1028964020310052_122131712493310273": "2026-11-14T10:24:13+00:00",
@@ -14287,7 +14289,75 @@
   },
   "2026-11-25 18:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Er verließ sie nach ihrer Krebsdiagnose – doch am Abend des Abschlussballs betrat er kahlgeschoren und im Kleid den Saal",
+     "warnings": []
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Haar vriendje maakte het uit na haar kankerdiagnose, een maand voor het schoolbal, tot hij kaal en in een jurk binnenkwam",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1174,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-25T18:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/923020232_1682331409936940_7766361217755864276_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yWTooh1eeFEQ7kNvwEl-poG&_nc_oc=AdqTlUX1kDD35_w4PAtmhoC5bE-ehtUmfXv-qUSjABTJx2PbwEqIhhwpb43KKA3avv8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=s0ChLlD1q6PyVmS3U6qkuA&_nc_tpa=Q5bMBQIoNi67o6IrxlBv5cVR3xkJ_j9M-J0bLUmUOK4EI63cW8GBQKAGfjsILnoar_fSr4HK1iClxDfuuw&oh=00_AQTdglzU2GMCmxwUJ4xzcnfrzVX3F_RfUYLHVl8utEU1KQ&oe=6B0CBE95",

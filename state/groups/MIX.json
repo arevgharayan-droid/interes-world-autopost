@@ -77,6 +77,7 @@
   "82d4fe5bd6831b3ce279": "2026-11-21T17:04:01+00:00",
   "836a363d9724ee5ae37a": "2026-11-22T21:29:29+00:00",
   "839d2c1cc7df4856d81d": "2026-11-18T22:20:58+00:00",
+  "83daf245dff2f6bb2fe3": "2026-11-25T14:02:18+00:00",
   "83e0ecc2ed03651d9650": "2026-11-20T14:41:48+00:00",
   "85003b9e58b955d5486a": "2026-11-25T11:44:59+00:00",
   "87f7565cdb15ca313285": "2026-11-16T19:28:27+00:00",
@@ -120,6 +121,7 @@
   "be5b1350a2ae46ec948a": "2026-11-22T19:48:27+00:00",
   "c27c329eac72f3f5de15": "2026-11-25T11:44:59+00:00",
   "c2bc42d5c2d6930640d5": "2026-11-18T22:49:45+00:00",
+  "c3a06eb794752577e876": "2026-11-25T14:02:18+00:00",
   "c73f64d74e7e73734918": "2026-11-16T23:52:52+00:00",
   "c75c8dae9f549626580f": "2026-11-22T16:31:59+00:00",
   "c7a23463c38efad77763": "2026-11-21T10:17:16+00:00",
@@ -128,6 +130,7 @@
   "ca07e67ef7511cdacf2e": "2026-11-25T11:44:59+00:00",
   "ca948c4110bd59f7d1ef": "2026-11-22T16:31:59+00:00",
   "cb3db789d46766c0361a": "2026-11-25T09:44:57+00:00",
+  "cc39153c6955419dcec4": "2026-11-25T14:02:18+00:00",
   "ce989dd42e932dcceace": "2026-11-17T17:52:42+00:00",
   "cee7c396c533ab640fe4": "2026-11-16T19:28:27+00:00",
   "cfa7b21c90a2cad9b78e": "2026-11-18T08:52:49+00:00",
@@ -136,6 +139,7 @@
   "d15df9ecb74c3affce48": "2026-11-24T16:42:12+00:00",
   "d305c96ab228138b6cd5": "2026-11-20T19:26:13+00:00",
   "d3eb8ba6065409a69dcd": "2026-11-20T16:46:26+00:00",
+  "d462a99acc538ffa3c1e": "2026-11-25T14:02:18+00:00",
   "dd10afabb1c82eab71d1": "2026-11-22T21:35:32+00:00",
   "dd60386fd5aa045d1aeb": "2026-11-22T21:29:29+00:00",
   "ddc0fc21cdf8b6d70857": "2026-11-16T20:28:52+00:00",
@@ -9074,7 +9078,101 @@
   },
   "2026-11-25 18:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "عدتُ من نيويورك قبل موعدي لأفاجئ زوجي، فوجدتُ على سريرنا رضيعًا يحمل علامتي وسرًّا عن أمي",
+     "warnings": [
+      "длина текста FB 519 слов (исходник 692, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 757,
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Volví de Nueva York antes de tiempo para sorprender a mi marido y encontré a un recién nacido en nuestra cama con la misma marca que yo",
+     "warnings": [
+      "длина текста FB 583 слов (исходник 692, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 755,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Am venit acasă din New York cu trei zile mai devreme și am găsit în patul nostru un nou-născut cu semnul meu din naștere",
+     "warnings": [
+      "длина текста FB 577 слов (исходник 692, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 756,
+     "wp_status": "future"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Вернувшись из Нью-Йорка раньше срока, я нашла мужа спящим с новорождённым на груди — и у малыша была моя родинка",
+     "warnings": [
+      "длина текста FB 529 слов (исходник 692, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 754,
+     "wp_status": "future"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T18:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/912603733_122141528685380977_3604700961742681822_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IqNqr67Mq7MQ7kNvwEgnE03&_nc_oc=AdrvtQ7d2uY8cS6GgAOcnyfSPZtjJFxFdbfycgP4v6ohh26D6qDk3IR0_OrvpqZ6XcA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=9nJ0ejIZRfUUwki1J9Ml6Q&_nc_tpa=Q5bMBQJxYc8Y82XDdbxSonF8cQ3hwQlUy85ElYkEM7NqgqeCyYyiKUw10-1zZPHVQCLV_yXT9TSfJKLdwQ&oh=00_AQSMNpSKWzA-h1qW2CJ-_GCtb_pHeI8piXaVLlvPb44Bpg&oe=6B0CCF2D",
@@ -9086,7 +9184,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261125-1830-mix.jpg"
    },
    "source_key": "post:61591429329254_122141528829380977",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -9507,7 +9605,7 @@
    "origin": "manual",
    "page_id": "61591429329254",
    "slot": "2026-11-25 18:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:photo_1122025177265987": {
    "fingerprint": "d671aab45f6d20f20a8c",
