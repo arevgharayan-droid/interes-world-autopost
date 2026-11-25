@@ -26,6 +26,7 @@
   "1955c9dccca6e5edee35": "2026-11-14T11:40:46+00:00",
   "1a757a28ef17ad6333b8": "2026-11-16T23:52:12+00:00",
   "1aa0e91a6b666d6e0155": "2026-11-21T19:44:41+00:00",
+  "1e7e0e4813411e51b562": "2026-11-25T19:59:45+00:00",
   "21354b5f5c5131938ef0": "2026-11-16T16:01:05+00:00",
   "21906656fcce609e6170": "2026-11-20T14:41:36+00:00",
   "230cd00d6980ef22fb86": "2026-11-20T22:45:49+00:00",
@@ -46,6 +47,7 @@
   "3805fc902e0de2be6e6c": "2026-11-25T14:02:26+00:00",
   "3944404d935075c532ec": "2026-11-21T17:03:58+00:00",
   "399b0797378aa4e1ed79": "2026-11-20T22:45:49+00:00",
+  "3c844c0dca99911d235f": "2026-11-25T19:59:45+00:00",
   "3db8bd1517b5c6101ae3": "2026-11-20T16:46:35+00:00",
   "3e5bb4cb60a31e85b118": "2026-11-25T18:00:40+00:00",
   "418a807c55a21247717d": "2026-11-22T21:36:39+00:00",
@@ -56,6 +58,7 @@
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
   "46493e9155ece290d86b": "2026-11-19T10:26:47+00:00",
   "47efee54144eca0bf8cf": "2026-11-20T19:26:10+00:00",
+  "48452786dc1b3a712360": "2026-11-25T19:59:45+00:00",
   "495041b7bf9b15be8fa3": "2026-11-19T17:35:44+00:00",
   "4a33853fa2ca5e4a3c7f": "2026-11-12T17:48:06+00:00",
   "4eb137f1b2e39b2c8546": "2026-11-22T22:13:48+00:00",
@@ -23746,7 +23749,93 @@
    }
   },
   "2026-11-26 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ela passou 30 anos sendo alvo de piadas por causa da altura, mas quando finalmente encontrou o amor e engravidou, a sogra lhe ofereceu 100 mil dólares para abandonar o bebê no hospital",
+     "warnings": [
+      "длина текста FB 658 слов (исходник 796, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 781,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Свекровь предложила мне 100 000 долларов, чтобы я оставила новорождённую дочь в роддоме, а через час в коридоре раздались крики",
+     "warnings": [
+      "длина текста FB 559 слов (исходник 796, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 779,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "30 Yıl Boyunca Boyuyla Alay Edildi, Sonra Hamile Kalınca Kayınvalidesi Bebeğini Hastanede Bırakması İçin 100 Bin Dolar Teklif Etti",
+     "warnings": [
+      "длина текста FB 486 слов (исходник 796, цель ±10%)",
+      "длина статьи 541 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 780,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/924003989_1461503639443837_8976411229796468784_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4_BAbwnHEcQQ7kNvwEA_8CN&_nc_oc=AdppdSd1Jf7kRax7V_OCYubs9b--gePBI6bjytl0Duc7-E_-eBltxQ9PRyudLOWj674&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=MzdsZ-qIxpz4K7g2fywh1w&_nc_tpa=Q5bMBQJzGNWJ6cA6qaZUjdOtpRu97vCWMjwn0vFpsIzA7DvkfZuxkGG8TPLvm1xksw53f9IFU5aoVT1i1Q&oh=00_AQQp5BwoLuBlK126suD3-L0yvb5ArT5COnJV_oa96qjZiA&oe=6B0D0239",
@@ -23758,7 +23847,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-0000-ru.jpg"
    },
    "source_key": "post:100067526447776_1461503732777161",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -24283,7 +24372,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-26 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100083366355470_1137476969041171": {
    "fingerprint": "90775bfede33c7ed9cd6",
