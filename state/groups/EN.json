@@ -16348,6 +16348,12 @@
        "post_id": "117220714573166_1161573280139233",
        "status": "published"
       },
+      "1210639158790064": {
+       "attempts": 1,
+       "last_attempt": "2026-11-25T22:11:20+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      },
       "1235940142932696": {
        "attempts": 1,
        "error": null,
