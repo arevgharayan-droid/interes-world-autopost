@@ -11576,12 +11576,14 @@
      "pages": {
       "1011074408765807": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105735078536431_1180817310949379",
        "error": null,
        "last_attempt": "2026-11-25T13:48:28+04:00",
        "mode": "immediate",
        "photo_id": "122105735042536431",
        "post_id": "1011074408765807_122105735078536431",
-       "status": "published"
+       "status": "done"
       },
       "1032441206625600": {
        "attempts": 1,
@@ -11596,30 +11598,36 @@
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144808392738075_2694605277640382",
        "error": null,
        "last_attempt": "2026-11-25T13:51:04+04:00",
        "mode": "immediate",
        "photo_id": "122144808356738075",
        "post_id": "1041497042386258_122144808392738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109687398457428_1153687670336281",
        "error": null,
        "last_attempt": "2026-11-25T13:52:26+04:00",
        "mode": "immediate",
        "photo_id": "122109687362457428",
        "post_id": "1058598924006917_122109687398457428",
-       "status": "published"
+       "status": "done"
       },
       "106591088255968": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1482002750735788_1800830294506165",
        "error": null,
        "last_attempt": "2026-11-25T13:49:07+04:00",
        "mode": "immediate",
        "photo_id": "1482002720735791",
        "post_id": "106591088255968_1482002750735788",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -11634,12 +11642,14 @@
       },
       "1103884436136482": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105669660536887_1349304147277192",
        "error": null,
        "last_attempt": "2026-11-25T13:50:24+04:00",
        "mode": "immediate",
        "photo_id": "122105669624536887",
        "post_id": "1103884436136482_122105669660536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
@@ -11676,21 +11686,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131141485441679_29111473255220112",
        "error": null,
        "last_attempt": "2026-11-25T13:49:47+04:00",
        "mode": "immediate",
        "photo_id": "122131141449441679",
        "post_id": "1260826840455724_122131141485441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130867279425731_29232893786372359",
        "error": null,
        "last_attempt": "2026-11-25T13:51:44+04:00",
        "mode": "immediate",
        "photo_id": "122130867243425731",
        "post_id": "1280413955154689_122130867279425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ma mère a nourri un sans-abri pendant 20 ans : le lendemain de son enterrement, il m'a avoué le secret qu'elle voulait me cacher",
@@ -11747,7 +11761,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1342-fr.jpg"
    },
    "source_key": "post:61590114583400_122127814293337152",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
