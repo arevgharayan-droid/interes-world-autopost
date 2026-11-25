@@ -23677,7 +23677,10 @@
      "generated": true,
      "pages": {},
      "title": "Můj snoubenec u oltáře vykřikl „Nechci!\" a utekl z kostela, ale po padesáti letech se u mých dveří objevil jeho právník s krabicí a větou, která mi změnila všechno",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1211,
+     "wp_status": "publish"
     },
     "DE": {
      "pages": {},
@@ -23716,7 +23719,10 @@
      "generated": true,
      "pages": {},
      "title": "Mój narzeczony wykrzyczał „Nie chcę!” i uciekł sprzed ołtarza, a pięćdziesiąt lat później jego prawnik stanął w moich drzwiach z kartonowym pudłem",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1210,
+     "wp_status": "publish"
     },
     "PT": {
      "pages": {},
@@ -23739,6 +23745,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-26T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/932058055_1461522769441924_5495324915192321791_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0YdwxzM0-xMQ7kNvwGMUPdJ&_nc_oc=AdrLOrV-CKtZvBZnEXRpoeTQqlCfEEJrBHQx-w2HF8zPaY6hAs2zelzJlHVq-O10KBU&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=xKlDMfi0l2k2nfkChqzEdg&_nc_tpa=Q5bMBQJ6RK8ybnRj8A7TsRmcfIyfaCEwjm2zFeo7yorDuQb4m9dblb3Lx3VRpMsZqLO5poMzMSFp_0h4EA&oh=00_AQSVsDRivoDHllPxH_qnZhfLGVmv8skN1-HIrZtdKNUWLA&oe=6B0CFF01",
@@ -23750,7 +23757,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-0000-it.jpg"
    },
    "source_key": "post:100067526447776_1461692996091568",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -24245,7 +24252,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-26 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100069122846749_1462195259427888": {
    "fingerprint": "8d65167a2a6fbe5434ca",

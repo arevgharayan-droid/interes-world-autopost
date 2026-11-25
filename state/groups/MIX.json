@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-16T21:06:31+04:00",
  "output_fps": {
+  "01600e374e5b764654d3": "2026-11-25T19:59:59+00:00",
   "0368c00b16379902b100": "2026-11-19T17:36:01+00:00",
   "0385791f90b04d0306b7": "2026-11-20T22:45:57+00:00",
   "0783e35f245b71f4625a": "2026-11-17T00:04:30+00:00",
@@ -21,6 +22,7 @@
   "1f198156f3d98bc7ff76": "2026-11-19T10:26:49+00:00",
   "208463d4781b94b70452": "2026-11-19T14:08:16+00:00",
   "20f6a7628fd976769436": "2026-11-22T21:41:20+00:00",
+  "21d55598e5be01bd0645": "2026-11-25T19:59:59+00:00",
   "22f09e6865d69dcea488": "2026-11-16T20:28:52+00:00",
   "28f4a8eb2416f92e587b": "2026-11-24T09:25:03+00:00",
   "292c1d04504fd06c6ac5": "2026-11-18T18:56:12+00:00",
@@ -73,11 +75,13 @@
   "745f143b600222206fbb": "2026-11-25T18:00:43+00:00",
   "7599ebffd8f3d4caa6ef": "2026-11-18T08:52:49+00:00",
   "767bbcd3f816bccbb388": "2026-11-24T16:42:12+00:00",
+  "7bf70a665c811dfe61fd": "2026-11-25T19:59:59+00:00",
   "7dc33c4d8f5a77db8910": "2026-11-22T21:29:29+00:00",
   "7eb41a2bd7b3e8d02e11": "2026-11-16T23:52:52+00:00",
   "8059428dfc5fc80b5e65": "2026-11-21T14:13:33+00:00",
   "81815f4b085594f1b49d": "2026-11-17T12:28:51+00:00",
   "82d4fe5bd6831b3ce279": "2026-11-21T17:04:01+00:00",
+  "83278c52afddeb84e642": "2026-11-25T19:59:59+00:00",
   "836a363d9724ee5ae37a": "2026-11-22T21:29:29+00:00",
   "839d2c1cc7df4856d81d": "2026-11-18T22:20:58+00:00",
   "83daf245dff2f6bb2fe3": "2026-11-25T14:02:18+00:00",
@@ -9542,7 +9546,84 @@
    }
   },
   "2026-11-26 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "رأيت زوجي يمسك بيد امرأة أخرى في المول، فأمسكت حماتي بذراعي وهمست: \"لا تفعلي شيئًا الآن، دعيني أتصرف",
+     "warnings": [
+      "длина текста FB 756 слов (исходник 1012, цель ±10%)"
+     ]
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi suegra me agarró del brazo al ver a mi marido de la mano de otra mujer y susurró: «Déjame a mí",
+     "warnings": []
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Am văzut în mall cum soțul meu ținea de mână o altă femeie, dar soacra mea m-a oprit: „Lasă-mă pe mine să mă ocup",
+     "warnings": []
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Мы с свекровью увидели моего мужа с другой женщиной, и она шепнула: «Ничего не делай, я сама",
+     "warnings": [
+      "длина текста FB 796 слов (исходник 1012, цель ±10%)"
+     ]
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-26T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/914522193_1460119512915583_822506297095245620_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=o-qwDy_Irw4Q7kNvwG03EAl&_nc_oc=Adr60ffXbF9e5O-XFcNAlE64u_ngaivll4MN43FF5LVE5j-86RrnEsYw6k3xzBqxN8c&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=XVkIW89l0VXhnfISWw6SOg&_nc_tpa=Q5bMBQJ9SuwJK0avQBkRm7p0LkSzo9O6T8VuOTc1RZhJBwJRha0umQfdfxG4O8BtWSMfF2oZ8oOWMeFQXw&oh=00_AQSlj6ZuBZS05n8Vh3DXB1jVmoe5Q0GTjyv0esjSNS8mcA&oe=6B0D2437",
