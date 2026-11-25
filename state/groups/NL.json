@@ -14289,7 +14289,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-25T18:30:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/923020232_1682331409936940_7766361217755864276_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yWTooh1eeFEQ7kNvwEl-poG&_nc_oc=AdqTlUX1kDD35_w4PAtmhoC5bE-ehtUmfXv-qUSjABTJx2PbwEqIhhwpb43KKA3avv8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=s0ChLlD1q6PyVmS3U6qkuA&_nc_tpa=Q5bMBQIoNi67o6IrxlBv5cVR3xkJ_j9M-J0bLUmUOK4EI63cW8GBQKAGfjsILnoar_fSr4HK1iClxDfuuw&oh=00_AQTdglzU2GMCmxwUJ4xzcnfrzVX3F_RfUYLHVl8utEU1KQ&oe=6B0CBE95",
+    "link": "https://www.facebook.com/story.php?story_fbid=1682829136553834&id=100044802900629",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "MY DAUGHTER'S BOYFRIEND LEFT HER AFTER HER CANCER DIAGNOSIS, JUST ONE MONTH BEFORE PROM. WHEN HE SHOWED UP BALD AND WEARING A DRESS, MY HUSBAND WAS READY TO THROW HIM OUT. BUT THE BOY WALKED STRAIGHT TO THE MICROPHONE AND SAID, \"LIV, I PROMISED I WOULDN'T TELL ANYONE. BUT I CAN'T KEEP THIS A SECRET ANYMORE.\"\n\nMy daughter Olivia is 17 years old. Just three months ago, her biggest concern was whether her prom dress would arrive before the big night.\n\nNow, she's fighting cancer through chemotherapy.\n\nShe lost her hair six weeks ago. I'll never forget sitting beside her on the bathroom floor as she held a handful of her fallen hair and asked whether it would ever grow back.\n\nBut her hair wasn't the thing that broke her heart the most.\n\nIt was losing Nate.\n\nThey had been together for nearly two years. He was her first boyfriend, her first kiss, and the boy who came over every Sunday to help my husband wash the cars.\n\nThey had even chosen their prom outfits together.\n\nThen Olivia told him about her diagnosis. Just one week later, he ended their relationship.\n\nI can still picture her sitting on the edge of her bed, staring down at her phone.\n\n\"He said he can't do this anymore, Mom.\"\n\nI wanted to contact his parents. My husband wanted to drive straight to their house.\n\nOlivia pleaded with us not to. \"Please, just leave him alone.\"\n\nFor several weeks, she hardly spoke about prom. Her blue dress remained inside the closet, still carrying its original tags.\n\nThen, four days before the dance, she came downstairs and asked me to help her prepare.\n\n\"Even if nobody asks me to dance, I still want to go.\"\n\nI went into the bathroom and cried where she couldn't see me.\n\nOn prom night, my husband and I were helping the school staff organize the senior entrance and refreshments.\n\nOlivia looked absolutely beautiful. She had on her blue dress, tiny silver earrings, and no wig.\n\nShe was chatting with two classmates when the doors suddenly opened.\n\nNate came inside... His head was completely shaved, and he was wearing a long dress.\n\nFor a few seconds, I couldn't understand what I was looking at.\n\nThen someone in the room laughed.\n\nOlivia turned around. I watched the smile vanish from her face.\n\nMy husband lowered the box of water bottles he was holding — \"Is that boy seriously making fun of our daughter?\"\n\nHe immediately started heading toward Nate.\n\nI grabbed his arm, but he pulled himself free.\n\nThat's when Nate approached the microphone beside the DJ's table.\n\n\"Can I please have just one minute?\"\n\nNate glanced across the room at Olivia, then toward us. \"I know what everyone thinks I did to her. And I know what this looks like.\"\n\n\"But there's something Olivia asked me not to tell anyone.\"\n\nHe faced my daughter — \"Liv, I'm sorry. I can't keep that promise anymore.\"\n\npart 2 👇👇",
+    "wp_media_id": 1171,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1830-nl.jpg"
+   },
+   "source_key": "post:100044802900629_1682829136553834",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-25 21:00": {
    "langs": {},
@@ -14582,6 +14598,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-24 13:23",
    "status": "used"
+  },
+  "post:100044802900629_1682829136553834": {
+   "fingerprint": "447eb8563baec5b2504a",
+   "link": "https://www.facebook.com/story.php?story_fbid=1682829136553834&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-25 18:30",
+   "status": "reserved"
   },
   "post:100045261260562_1625432835642076": {
    "fingerprint": "c95fe8f806325ccf3497",
