@@ -6,6 +6,7 @@
   "03a2e77bf9132f9c58fe": "2026-11-22T21:37:31+00:00",
   "04801f1de620d4d27074": "2026-11-22T21:27:39+00:00",
   "082942ddf599434d8353": "2026-11-16T20:28:19+00:00",
+  "08948a9455d080606e99": "2026-11-25T09:44:24+00:00",
   "097beede44a6fb9a71b7": "2026-11-17T17:52:09+00:00",
   "0c6e8a7efc71f173e15e": "2026-11-16T10:16:48+00:00",
   "0d8e1b277acd69617505": "2026-11-21T10:17:21+00:00",
@@ -42,6 +43,7 @@
   "5902057f0f114c578fb0": "2026-11-20T16:46:47+00:00",
   "5a6d8dc75e10abe3f5c2": "2026-11-24T09:25:06+00:00",
   "5baf059a2cf94b9c1bc6": "2026-11-21T10:17:21+00:00",
+  "5db9da0ad7e6cdc4bf69": "2026-11-25T09:44:24+00:00",
   "5e53a6e7b13f06a4ba12": "2026-11-22T21:37:31+00:00",
   "611c7e4517c03c81dabc": "2026-11-19T10:26:43+00:00",
   "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
@@ -13810,7 +13812,81 @@
   },
   "2026-11-25 13:42": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meine 18-jährige Tochter starb bei der Geburt, und niemand kannte den Vater. Zehn Jahre später sprach mich eine Fremde an ihrem Grab an",
+     "warnings": [
+      "длина текста FB 464 слов (исходник 560, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1148,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn dochter overleed bij de bevalling, en tien jaar later stond een onbekende vrouw met een verzegelde brief bij haar graf",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1147,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T13:42:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/928257828_122127602775337152_6982902744865038442_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HQ2owyPYDJwQ7kNvwGkSVn6&_nc_oc=AdpWw-rR72hcAv74jJftNpIsAuFit6Jzrn6OEsvC7RxkctMn-tiP46_qUZEo1zsgnDI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=kHANAOmUTh9y0MOClTROiQ&_nc_tpa=Q5bMBQJYQF_3NrMADfLEP4Bk0ty4gf284tcMnwfXi5TreoKLtstt4v-2q4kAqrMH_zCBqF8HTegipMQIVA&oh=00_AQRZlLTXt2uyHVcNcVlC1VQ7uJXgfF_zSq91JiUVYWuwEw&oe=6B0C8D20",
@@ -13822,7 +13898,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1342-nl.jpg"
    },
    "source_key": "post:61590114583400_122127626487337152",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14573,7 +14649,7 @@
    "origin": "manual",
    "page_id": "61590114583400",
    "slot": "2026-11-25 13:42",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590177596600_122135497227339253": {
    "fingerprint": "e077c7a58c101e053564",

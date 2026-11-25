@@ -58,6 +58,7 @@
   "516cde4fc7cf9247b820": "2026-11-19T22:01:08+00:00",
   "51ba57e157b253b5188f": "2026-11-22T22:13:48+00:00",
   "53b56a6026d7d16218d9": "2026-11-17T10:39:05+00:00",
+  "54baca88079960edc372": "2026-11-25T09:44:23+00:00",
   "550d18ebc9f0ea59374a": "2026-11-12T09:04:38+00:00",
   "5579983a5a4919598caf": "2026-11-14T09:18:33+00:00",
   "55c68668d71f5fde2cc3": "2026-11-17T12:29:11+00:00",
@@ -99,6 +100,7 @@
   "90819c71275bd38dea2e": "2026-11-19T19:59:16+00:00",
   "91a1d555301edc6cd800": "2026-11-19T14:08:05+00:00",
   "936ca69d5c4f8a9e5957": "2026-11-22T14:04:32+00:00",
+  "98a1e64a21d55c08a5c3": "2026-11-25T09:44:23+00:00",
   "98f2b66ca43852fa1305": "2026-11-24T12:29:27+00:00",
   "993b67355d685fd04e45": "2026-11-17T17:52:52+00:00",
   "998ff7075f45475a9585": "2026-11-21T10:17:55+00:00",
@@ -137,6 +139,7 @@
   "c5807d8e5cb187f95ff1": "2026-11-22T22:08:29+00:00",
   "cd020394bd98ae198dbd": "2026-11-22T14:04:32+00:00",
   "ce9b469d5e589f4050b1": "2026-11-22T19:48:34+00:00",
+  "d3b265356ed39c6b6179": "2026-11-25T09:44:23+00:00",
   "de06c0b792c1e5d87078": "2026-11-20T22:45:49+00:00",
   "dec5e0bd063cc2c57d2d": "2026-11-18T22:20:46+00:00",
   "e14b9de1541baf5a7406": "2026-11-16T00:18:30+00:00",
@@ -22272,7 +22275,89 @@
   },
   "2026-11-25 13:42": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Horas antes de pedir outra mulher em casamento, vi quatro menininhas idênticas à mulher que eu amei e entendi que minha família me escondia algo terrível",
+     "warnings": [
+      "длина текста FB 766 слов (исходник 915, цель ±10%)",
+      "длина статьи 591 слов"
+     ]
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "За несколько часов до помолвки с другой я увидел в туалете ресторана четырёх девочек с лицом женщины, которую любил семь лет назад",
+     "warnings": [
+      "длина текста FB 654 слов (исходник 915, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 736,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nişanımı ilan etmeme birkaç saat kala restoranın tuvaletinde dört küçük kız gördüm; hepsi yedi yıl önce sevdiğim kadına benziyordu",
+     "warnings": [
+      "длина текста FB 551 слов (исходник 915, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 737,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-25T13:42:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/903683162_122142331371225301_8447630303054782178_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3MMC8143rWAQ7kNvwHxmsx_&_nc_oc=AdoCeEZfw2duV9k2sRuhCsyXqeGhKMVlwdlFfW9ahcKLF2eBTcyuWFFp9W52toqiQz0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=aUcxavpRffNeIVptdQWHdQ&_nc_tpa=Q5bMBQJfd0avfpjH9dz1hpvAAiAJ4MZ2qKnzPRQs17xJFsX79bh6rzAVcC0On6uHkKrgqi3WMCM4a9vgBQ&oh=00_AQQKkdTWUZEGb1xYpbkIQnCgrdsIrTbZ0DnybJvIEp4Y4A&oe=6B0C95B4",

@@ -65,6 +65,7 @@
   "687b58d7f631c7172828": "2026-11-20T19:26:25+00:00",
   "6884b2c23c3fd385192c": "2026-11-19T22:00:47+00:00",
   "68ca5e3edbe7ee1a0e42": "2026-11-19T10:26:56+00:00",
+  "69a1c019eb8e68cd8f4c": "2026-11-25T09:44:27+00:00",
   "69bae5bbd4e359b27b2a": "2026-11-18T08:52:43+00:00",
   "71b99e63fb8dd44fc384": "2026-11-20T14:41:44+00:00",
   "75900c4b74075115b0dc": "2026-11-15T10:15:15+00:00",
@@ -72,6 +73,7 @@
   "79641c4c501a7a4cbbf6": "2026-11-16T00:18:19+00:00",
   "796f82e95e665b85e80f": "2026-11-20T14:41:44+00:00",
   "7ed5bfe70e10ffa40f11": "2026-11-19T17:35:32+00:00",
+  "7f79f6768b543d36eb1a": "2026-11-25T09:44:27+00:00",
   "8010f06d690dbd6a283e": "2026-11-14T09:15:08+00:00",
   "801a18eaab6ae5192881": "2026-11-18T15:24:10+00:00",
   "82b093e20d19aacb9c9d": "2026-11-20T16:46:26+00:00",
@@ -84,6 +86,7 @@
   "89c6b9a751ed3bd87da5": "2026-11-14T09:15:08+00:00",
   "8b5558dda0b7f4acd1f8": "2026-11-21T14:12:51+00:00",
   "8ce4da47da5cb5603868": "2026-11-17T10:38:47+00:00",
+  "8d0246860082a2d95aea": "2026-11-25T09:44:27+00:00",
   "8d6dd84f3fd108530c61": "2026-11-14T09:18:15+00:00",
   "8dcd9b38604c3a494e89": "2026-11-18T08:52:43+00:00",
   "90f10d92ae3c8949c582": "2026-11-18T18:29:38+00:00",
@@ -22358,7 +22361,82 @@
   },
   "2026-11-25 13:42": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Přítel ji opustil krátce po zprávě o rakovině. Na maturitním plese se ale objevil s oholenou hlavou a v dlouhých šatech",
+     "warnings": [
+      "длина текста FB 788 слов (исходник 1139, цель ±10%)"
+     ]
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi ha lasciata dopo la diagnosi di cancro, poi si è presentato al ballo con la testa rasata e un lungo vestito",
+     "warnings": [
+      "длина текста FB 968 слов (исходник 1139, цель ±10%)"
+     ]
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Rzucił ją tuż po diagnozie raka, a na balu maturalnym pojawił się z ogoloną głową i w sukni. To, co powiedział do mikrofonu, zmieniło wszystko",
+     "warnings": [
+      "длина текста FB 766 слов (исходник 1139, цель ±10%)"
+     ]
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-25T13:42:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/914201681_122127368949337152_107672065265045777_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NVDK7gXDmTUQ7kNvwHviHRx&_nc_oc=AdoW17y0cgsUcNpI_3UJrQkp-6sJDj1EMcnpbioIGuxYpWTipp7VO3ESZNK92kzu7bU&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=jOKKnpwIBdwwjyGNj5fqXw&_nc_tpa=Q5bMBQIEOLmG9q42Mi6T2Ju4eo2wTJTcXaG9QJgxl69XLkpFioyeYpr_Q_wWlhbFb69WrcSukfFt4dqdOQ&oh=00_AQSC4WfCeGb0NUWA9jtKHYTt5zMqXENBrcZFGtMfxukA5Q&oe=6B0C726C",
