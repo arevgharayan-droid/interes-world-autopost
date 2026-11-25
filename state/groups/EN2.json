@@ -13912,7 +13912,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "233545296514172": {
+       "attempts": 1,
+       "last_attempt": "2026-11-25T13:44:58+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "My Son Said He Was at His Best Friend's House Every Weekend, Then His Mother Called and Said, \"I Haven't Seen Him Since Thursday",
      "warnings": [],
      "wp_error": null,
