@@ -9575,7 +9575,10 @@
      "generated": true,
      "pages": {},
      "title": "Mi suegra me agarró del brazo al ver a mi marido de la mano de otra mujer y susurró: «Déjame a mí",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 783,
+     "wp_status": "publish"
     },
     "FR": {
      "pages": {},
@@ -9613,7 +9616,10 @@
      "title": "Мы с свекровью увидели моего мужа с другой женщиной, и она шепнула: «Ничего не делай, я сама",
      "warnings": [
       "длина текста FB 796 слов (исходник 1012, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 782,
+     "wp_status": "publish"
     },
     "TR": {
      "pages": {},

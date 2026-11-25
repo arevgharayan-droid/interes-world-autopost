@@ -42,6 +42,7 @@
   "4f3968d166cb81fbda09": "2026-11-14T19:42:34+00:00",
   "51ed2d668f83bd64e5b9": "2026-11-21T14:13:09+00:00",
   "5215bc8037371581d0af": "2026-11-22T16:32:11+00:00",
+  "52c333f3bb544857c942": "2026-11-25T20:00:00+00:00",
   "587ace5848a338139c99": "2026-11-22T21:17:16+00:00",
   "5902057f0f114c578fb0": "2026-11-20T16:46:47+00:00",
   "5a6d8dc75e10abe3f5c2": "2026-11-24T09:25:06+00:00",
@@ -64,6 +65,7 @@
   "84b09bc98a9e61d6846f": "2026-11-18T18:56:13+00:00",
   "84b43238bfda7c42ae10": "2026-11-12T17:47:29+00:00",
   "87f9f8d27c5313018eee": "2026-11-14T09:18:09+00:00",
+  "8daa63ca87eb93cfa9ef": "2026-11-25T20:00:00+00:00",
   "8ec979960001054d4223": "2026-11-20T19:26:18+00:00",
   "8ed7a3168cf1d9a5d78a": "2026-11-24T09:25:06+00:00",
   "8fb663d9a2d916daa327": "2026-11-21T14:13:09+00:00",
@@ -14640,7 +14642,79 @@
    }
   },
   "2026-11-26 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Der Millionär warf mir vor seinen drei Söhnen Diebstahl vor und jagte mich vom Anwesen, doch am Tor rannten die Drillinge blutend hinter mir her, und einer von ihnen rief etwas, das ihn erstarren ließ",
+     "warnings": [
+      "часть 1: 788 слов"
+     ]
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Voor de ogen van zijn drie zoontjes noemde de miljonair mij een dief en zette me het huis uit, maar bij het hek riep een van de jongens iets dat hem sprakeloos maakte",
+     "warnings": [
+      "часть 1: 762 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1212,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-26T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/931942757_1461934026067465_5326349264217533353_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fDCOGQ7kDIkQ7kNvwGxzZOV&_nc_oc=AdrjgxluXrJ5iEQgtcNoQZyWahxbQiOe36RYN78PiZ4Jr35vuAO_LeqN-GHp4SVoYZw&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=y__jZyVQtCuaAbw5Y6p3jg&_nc_tpa=Q5bMBQIVU7L1SaYclnKWg-g9y2NgDsT_grTA-lyxI86fbehvIdfYbrskFPO6A_lM4gPu-MKFO64IYVOpBA&oh=00_AQQ1UxpKXhQnMMq1T3kK4thbvWBEymiPeJ5SJ9uS88iolg&oe=6B0D2C82",
