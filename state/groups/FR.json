@@ -11586,12 +11586,13 @@
       "1032441206625600": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122118276422633539_4598873370378400",
        "error": null,
        "last_attempt": "2026-11-25T13:47:48+04:00",
        "mode": "immediate",
        "photo_id": "122118276386633539",
        "post_id": "1032441206625600_122118276422633539",
-       "status": "published"
+       "status": "done"
       },
       "1041497042386258": {
        "attempts": 1,
