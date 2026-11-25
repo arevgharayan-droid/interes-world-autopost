@@ -13812,7 +13812,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-25T13:42:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/928257828_122127602775337152_6982902744865038442_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HQ2owyPYDJwQ7kNvwGkSVn6&_nc_oc=AdpWw-rR72hcAv74jJftNpIsAuFit6Jzrn6OEsvC7RxkctMn-tiP46_qUZEo1zsgnDI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=kHANAOmUTh9y0MOClTROiQ&_nc_tpa=Q5bMBQJYQF_3NrMADfLEP4Bk0ty4gf284tcMnwfXi5TreoKLtstt4v-2q4kAqrMH_zCBqF8HTegipMQIVA&oh=00_AQRZlLTXt2uyHVcNcVlC1VQ7uJXgfF_zSq91JiUVYWuwEw&oe=6B0C8D20",
+    "link": "https://www.facebook.com/story.php?story_fbid=122127626487337152&id=61590114583400",
+    "origin": "manual",
+    "page_id": "61590114583400",
+    "text": "Ma fille de 18 ans est décédée en accouchant. J'ai donc élevé son fils toute seule, car personne ne savait qui était son père. Dix ans plus tard, une femme mystérieuse est apparue devant sa tombe et m'a dit : « J'ai fait une promesse à votre fille. Aujourd'hui, vous méritez de connaître la vérité. »\n\nPARTIE 1\n\nMa fille, Léa, ne m'avait jamais parlé des garçons.\n\nPour autant que je sache, elle n'avait même jamais vécu de relation sérieuse.\n\nAlors quand elle m'a annoncé du jour au lendemain qu'elle était enceinte, j'ai sincèrement cru avoir mal compris.\n\n« Mais tu n'as que dix-huit ans ! Tu es beaucoup trop jeune pour devenir maman ! »\n\nLéa a pris mes deux mains entre les siennes.\n\n« Maman, s'il te plaît. Je t'en supplie. J'aime déjà ce bébé, et je veux le mettre au monde. »\n\n« Alors dis-moi au moins qui est le père. »\n\nSon visage s'est soudain fermé.\n\n« Je ne peux pas. »\n\nJ'ai eu beau revenir à la charge des dizaines de fois, elle a toujours refusé de prononcer son nom.\n\nQuelques mois plus tard, le travail s'est déclenché.\n\nMalheureusement, de graves complications sont survenues pendant l'accouchement.\n\nUn médecin a fini par pousser la porte de la salle d'attente.\n\n« Je suis profondément désolé. Nous avons tout tenté. »\n\nMa fille n'est jamais rentrée à la maison.\n\nMais son bébé, si.\n\nIl s'appelait Lucas.\n\nDès le jour de sa sortie de la maternité, je l'ai élevé comme mon propre enfant.\n\nEn grandissant, il me posait sans cesse des questions sur Léa.\n\nJe lui montrais des photos et des vidéos où on la voyait rire aux éclats, danser, ou déballer ses cadeaux de Noël avec des étoiles plein les yeux.\n\nUn soir, Lucas a longuement regardé l'un de ses portraits et a souri.\n\n« Elle était tellement belle, exactement comme toi. J'aurais tellement aimé la connaître. »\n\nJe l'ai serré tendrement dans mes bras.\n\n« Ta maman veille sur toi chaque jour depuis son petit nuage dans le ciel. Je te promets qu'elle t'aime plus que tout au monde. »\n\nDix années ont passé.\n\nLe jour où Léa aurait dû fêter ses vingt-huit ans, Lucas et moi nous sommes rendus au cimetière, les bras chargés de fleurs.\n\n« Mamie, j'ai fait un dessin pour maman, mais je l'ai oublié dans la voiture ! »\n\nIl est reparti en courant vers le parking.\n\nJ'ai continué de marcher seule jusqu'à la tombe de Léa.\n\nC'est alors que j'ai aperçu une femme debout devant sa pierre tombale.\n\nJe ne l'avais jamais vue de ma vie.\n\n« Vous connaissiez ma fille ? » ai-je demandé.\n\nElle s'est retournée brusquement.\n\n« Vous êtes la maman de Léa. »\n\nJe me suis figée sur place.\n\n« Qui êtes-vous ? »\n\nElle a plongé la main dans son sac et en a sorti une enveloppe cachetée.\n\n« Il y a dix ans, j'ai fait une promesse à votre fille », a-t-elle murmuré. « Aujourd'hui, il est temps que vous connaissiez enfin la vérité. »\n\nQui est cette inconnue, et quel secret bouleversant se cache dans cette enveloppe scellée depuis dix ans ? La Partie 2 vous attend déjà en premier commentaire 😉 Tapez « VÉRITÉ » et cliquez sur « J'aime » pour découvrir toute la suite de cette histoire ! 👇",
+    "wp_media_id": 1145,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1342-nl.jpg"
+   },
+   "source_key": "post:61590114583400_122127626487337152",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-25 15:00": {
    "langs": {},
@@ -14550,6 +14566,14 @@
    "page_id": "61589490035610",
    "slot": "2026-11-13 21:00",
    "status": "used"
+  },
+  "post:61590114583400_122127626487337152": {
+   "fingerprint": "a10009c512d1c84a784d",
+   "link": "https://www.facebook.com/story.php?story_fbid=122127626487337152&id=61590114583400",
+   "origin": "manual",
+   "page_id": "61590114583400",
+   "slot": "2026-11-25 13:42",
+   "status": "reserved"
   },
   "post:61590177596600_122135497227339253": {
    "fingerprint": "e077c7a58c101e053564",
