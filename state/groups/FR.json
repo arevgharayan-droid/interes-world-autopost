@@ -11700,30 +11700,36 @@
       },
       "1041497042386258": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144821568738075_1119010617849587",
        "error": null,
        "last_attempt": "2026-11-25T15:50:12+04:00",
        "mode": "immediate",
        "photo_id": "122144821544738075",
        "post_id": "1041497042386258_122144821568738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109695900457428_2180139052577657",
        "error": null,
        "last_attempt": "2026-11-25T15:51:32+04:00",
        "mode": "immediate",
        "photo_id": "122109695876457428",
        "post_id": "1058598924006917_122109695900457428",
-       "status": "published"
+       "status": "done"
       },
       "106591088255968": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1482099280726135_1193014790064922",
        "error": null,
        "last_attempt": "2026-11-25T15:48:12+04:00",
        "mode": "immediate",
        "photo_id": "1482099224059474",
        "post_id": "106591088255968_1482099280726135",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -11738,12 +11744,14 @@
       },
       "1103884436136482": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105672246536887_983624677773545",
        "error": null,
        "last_attempt": "2026-11-25T15:49:33+04:00",
        "mode": "immediate",
        "photo_id": "122105672222536887",
        "post_id": "1103884436136482_122105672246536887",
-       "status": "published"
+       "status": "done"
       },
       "1145306638657445": {
        "attempts": 1,
@@ -11780,21 +11788,25 @@
       },
       "1260826840455724": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131158651441679_1691773212576531",
        "error": null,
        "last_attempt": "2026-11-25T15:48:52+04:00",
        "mode": "immediate",
        "photo_id": "122131158621441679",
        "post_id": "1260826840455724_122131158651441679",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130880341425731_1486271036802146",
        "error": null,
        "last_attempt": "2026-11-25T15:50:53+04:00",
        "mode": "immediate",
        "photo_id": "122130880317425731",
        "post_id": "1280413955154689_122130880341425731",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Elle est arrivée aux 60 ans de son père avec son bébé de trois mois, traitée de « bouche inutile », jusqu'à ce qu'un commando de marine lui fasse le salut militaire devant toute la salle",
@@ -11849,7 +11861,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261125-1543-fr.jpg"
    },
    "source_key": "post:61566689175708_122106959702556305",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
