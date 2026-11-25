@@ -11856,7 +11856,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-25T22:00:41+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Mon patron milliardaire me traitait comme un meuble depuis trois ans, jusqu'au jour où j'ai pris son téléphone et lui ai révélé ce que ses propres cadres lui cachaient",
      "warnings": [
       "часть 1: 756 слов"

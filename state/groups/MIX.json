@@ -43,6 +43,7 @@
   "42d829e3ea5a03860a96": "2026-11-24T16:42:12+00:00",
   "43914945f65de17447f6": "2026-11-17T20:47:15+00:00",
   "45bf9dffb612764cec37": "2026-11-21T17:04:01+00:00",
+  "45e5480924afeee4322f": "2026-11-25T18:00:43+00:00",
   "46239c141e3b133be1eb": "2026-11-22T19:48:27+00:00",
   "4790fa987cd605bce59b": "2026-11-17T20:47:15+00:00",
   "4f13f9b9d0dd8a5ad9e9": "2026-11-21T17:04:01+00:00",
@@ -52,6 +53,7 @@
   "5425712d1992a649e398": "2026-11-22T14:05:02+00:00",
   "54c053d9c2cdb7b89e79": "2026-11-20T22:45:57+00:00",
   "56b3a13bcd9d39f65875": "2026-11-22T21:35:32+00:00",
+  "578d1bb87cfdde124371": "2026-11-25T18:00:43+00:00",
   "57ae985073ec0e223b7f": "2026-11-25T11:44:59+00:00",
   "59a66719433b723532c7": "2026-11-22T16:31:59+00:00",
   "6144e4570a19cb701fa3": "2026-11-19T14:08:16+00:00",
@@ -68,6 +70,7 @@
   "70c05379b999f4d41de6": "2026-11-18T15:24:21+00:00",
   "724e0627e5a1d92bef00": "2026-11-21T10:17:16+00:00",
   "72cfa8c608946a546f2e": "2026-11-18T18:56:12+00:00",
+  "745f143b600222206fbb": "2026-11-25T18:00:43+00:00",
   "7599ebffd8f3d4caa6ef": "2026-11-18T08:52:49+00:00",
   "767bbcd3f816bccbb388": "2026-11-24T16:42:12+00:00",
   "7dc33c4d8f5a77db8910": "2026-11-22T21:29:29+00:00",
@@ -153,6 +156,7 @@
   "e51e90e45f994a8595e0": "2026-11-22T21:41:20+00:00",
   "e53caf42617e72941741": "2026-11-17T12:28:51+00:00",
   "e64eb790e19507c4ae7b": "2026-11-16T19:28:27+00:00",
+  "e7d80036400b12a19e98": "2026-11-25T18:00:43+00:00",
   "e9beb34f431aebda58f0": "2026-11-22T21:41:20+00:00",
   "ea611fa8f80432de1914": "2026-11-20T22:45:57+00:00",
   "eae2f6a78ec7ccc86634": "2026-11-21T17:04:01+00:00",
@@ -9311,7 +9315,88 @@
   },
   "2026-11-25 21:59": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "حفيدي توقف عن الكلام معي قبل تخرجه بشهر، وحين صعد إلى المسرح وكشف السبب لم أستطع أن أكفّ عن البكاء",
+     "warnings": [
+      "длина текста FB 460 слов (исходник 614, цель ±10%)"
+     ]
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi nieto dejó de hablarme un mes antes de su graduación, y cuando subió al escenario y reveló el motivo, no pude dejar de llorar",
+     "warnings": [
+      "длина текста FB 480 слов (исходник 614, цель ±10%)"
+     ]
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nepotul meu nu mi-a mai vorbit o lună înainte de absolvire, iar pe scenă a dezvăluit adevărul care a lăsat toată sala în lacrimi",
+     "warnings": [
+      "длина текста FB 521 слов (исходник 614, цель ±10%)"
+     ]
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Внук перестал со мной разговаривать за месяц до выпускного, а на сцене признался, почему, и я не могла остановить слёзы",
+     "warnings": [
+      "длина текста FB 437 слов (исходник 614, цель ±10%)"
+     ]
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-25T21:59:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/916504355_122148048201244157_5625996490712452434_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KEUYIRcb9IcQ7kNvwEqS_B7&_nc_oc=AdqiuF-PkKS-w0L18YkW6dqY41d8YFAiG72rvpN-LbKGQpwnGb6uUZz5-vkGFOzX4jE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=GDn6YFY7hL-HJcW9cMnJVA&_nc_tpa=Q5bMBQIIGmDibcfewSd8EDs98lVF2HaiTxEdOdLp_QtqavDi_6q_vpQtq5tT2XNMetBZskzUZbfu1QYCeA&oh=00_AQSz-6fjgIefBnO1ockTTo4k9gPX78VYViPGBoa4DXLevw&oe=6B0CDAEA",
