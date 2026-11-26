@@ -12708,21 +12708,25 @@
      "pages": {
       "1085853177948572": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128737903317111_29183020831355064",
        "error": null,
        "last_attempt": "2026-11-26T17:58:56+04:00",
        "mode": "immediate",
        "photo_id": "122128737879317111",
        "post_id": "1085853177948572_122128737903317111",
-       "status": "published"
+       "status": "done"
       },
       "1145996375255489": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133929583310364_1164467779374374",
        "error": null,
        "last_attempt": "2026-11-26T17:59:18+04:00",
        "mode": "immediate",
        "photo_id": "122133929559310364",
        "post_id": "1145996375255489_122133929583310364",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "تبعتُ ابنتي ذات الست سنوات بعد أربعة أشهر من الأسرار، فوجدتُ جارتنا العجوز ممددة على أرض مطبخها",
@@ -12731,6 +12735,7 @@
      ],
      "wp_error": null,
      "wp_id": 820,
+     "wp_live": true,
      "wp_media_id": 817,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1736-fr.jpg",
      "wp_site": {
@@ -12793,12 +12798,14 @@
       },
       "1140011449205671": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127045801414883_2242753199642177",
        "error": null,
        "last_attempt": "2026-11-26T17:57:44+04:00",
        "mode": "immediate",
        "photo_id": "122127045771414883",
        "post_id": "1140011449205671_122127045801414883",
-       "status": "published"
+       "status": "done"
       },
       "116178644305635": {
        "attempts": 1,
@@ -12846,21 +12853,25 @@
       },
       "1183000514902787": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128942839415711_1175025805210897",
        "error": null,
        "last_attempt": "2026-11-26T17:57:21+04:00",
        "mode": "immediate",
        "photo_id": "122128942809415711",
        "post_id": "1183000514902787_122128942839415711",
-       "status": "published"
+       "status": "done"
       },
       "1189173560952218": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122067637411249_3084883918513160",
        "error": null,
        "last_attempt": "2026-11-26T17:55:00+04:00",
        "mode": "immediate",
        "photo_id": "122122067607411249",
        "post_id": "1189173560952218_122122067637411249",
-       "status": "published"
+       "status": "done"
       },
       "1221370521061169": {
        "attempts": 1,
@@ -12897,12 +12908,14 @@
       },
       "1263459716855777": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139170901466852_3804471526373811",
        "error": null,
        "last_attempt": "2026-11-26T17:55:58+04:00",
        "mode": "immediate",
        "photo_id": "122139170871466852",
        "post_id": "1263459716855777_122139170901466852",
-       "status": "published"
+       "status": "done"
       },
       "1274568742402473": {
        "attempts": 1,
@@ -12917,12 +12930,14 @@
       },
       "1277107925482426": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127614871420354_977473675121264",
        "error": null,
        "last_attempt": "2026-11-26T17:56:57+04:00",
        "mode": "immediate",
        "photo_id": "122127614841420354",
        "post_id": "1277107925482426_122127614871420354",
-       "status": "published"
+       "status": "done"
       },
       "1285042228018768": {
        "attempts": 1,
@@ -12937,21 +12952,25 @@
       },
       "1331724433353003": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122143846311472559_1459228185709472",
        "error": null,
        "last_attempt": "2026-11-26T17:56:26+04:00",
        "mode": "immediate",
        "photo_id": "122143846275472559",
        "post_id": "1331724433353003_122143846311472559",
-       "status": "published"
+       "status": "done"
       },
       "1334176279776969": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138882397470472_973947778842437",
        "error": null,
        "last_attempt": "2026-11-26T17:55:29+04:00",
        "mode": "immediate",
        "photo_id": "122138882361470472",
        "post_id": "1334176279776969_122138882397470472",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi hija de 6 años desaparecía 10 minutos cada tarde, hasta que el hijo de la vecina golpeó mi puerta y descubrí el secreto que guardaba con una llave",
@@ -13181,27 +13200,32 @@
      "pages": {
       "1017413568132885": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126745069301832_1558537519424794",
        "error": null,
        "last_attempt": "2026-11-26T17:58:31+04:00",
        "mode": "immediate",
        "photo_id": "122126745045301832",
        "post_id": "1017413568132885_122126745069301832",
-       "status": "published"
+       "status": "done"
       },
       "1150924154761110": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141125419316765_2061033471260565",
        "error": null,
        "last_attempt": "2026-11-26T17:58:08+04:00",
        "mode": "immediate",
        "photo_id": "122141125395316765",
        "post_id": "1150924154761110_122141125419316765",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Fiica mea de 6 ani dispărea zece minute în fiecare zi după școală. Când am urmărit-o, am găsit-o în bucătăria vecinei, lângă o femeie căzută pe podea",
      "warnings": [],
      "wp_error": null,
      "wp_id": 819,
+     "wp_live": true,
      "wp_media_id": 817,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1736-fr.jpg",
      "wp_site": {
@@ -13237,7 +13261,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1736-fr.jpg"
    },
    "source_key": "post:61575232821594_122217503078841094",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
