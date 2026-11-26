@@ -40,6 +40,7 @@
   "414c7dea2c3785876288": "2026-11-20T14:41:24+00:00",
   "46a1728a5126f9af6c13": "2026-11-16T00:16:52+00:00",
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
+  "4a22e3c20c6e10a07661": "2026-11-26T22:02:57+00:00",
   "4c218b53bb5fd5b6f1b3": "2026-11-16T19:28:25+00:00",
   "4ca334761547934cbacc": "2026-11-18T22:49:31+00:00",
   "4d2e414d0863afdbc571": "2026-11-24T12:29:41+00:00",
@@ -64,6 +65,7 @@
   "6fcb14f617ec70672575": "2026-11-21T19:44:57+00:00",
   "71261dc1524c8f04c4de": "2026-11-21T22:45:45+00:00",
   "7477c933eb22d1c2c473": "2026-11-22T21:27:39+00:00",
+  "766abb8c58c682143c9b": "2026-11-26T22:02:57+00:00",
   "7f712453ca750cd21feb": "2026-11-25T22:45:52+00:00",
   "82c4ef85daea167f4a95": "2026-11-21T17:04:07+00:00",
   "84b09bc98a9e61d6846f": "2026-11-18T18:56:13+00:00",
@@ -98,6 +100,7 @@
   "cce306c23605b2fd33c0": "2026-11-18T08:52:12+00:00",
   "cd39e670f61e621b3317": "2026-11-18T08:52:12+00:00",
   "cda4a9c0ba0b01ac967a": "2026-11-19T17:35:36+00:00",
+  "cf89a0e4ac2742bccae6": "2026-11-26T22:02:57+00:00",
   "cfd0e1acaf392f191a28": "2026-11-25T14:02:20+00:00",
   "d0e868f744c502100d70": "2026-11-20T14:41:24+00:00",
   "d3c887e243c06a04d9a4": "2026-11-19T17:35:36+00:00",
@@ -16251,7 +16254,94 @@
    }
   },
   "2026-11-27 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mein Mann verkaufte mein 2,4-Millionen-Haus, während ich in den Wehen lag – dann legte er mir 500 Dollar und Scheidungspapiere aufs Krankenbett",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1319,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Terwijl ik beviel, verkocht mijn man in het geheim ons huis van 2,4 miljoen dollar – een dag later legde hij scheidingspapieren op mijn ziekenhuisbed",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1318,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ele vendeu minha casa de 2,4 milhões enquanto eu dava à luz e me entregou 500 dólares, sem saber o que realmente tinha vendido",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 857,
+     "wp_media_id": 856,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-1200-nl.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/932058355_1463358015925066_6269642301357619926_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XNkES66wsNcQ7kNvwHANCC1&_nc_oc=AdpmkvXu9b2iXS08ZpY7YD4gkOY6shVj8X2lgyoqNYxlBF1wwxRph6C4-j9-28UqDGQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=1gzLEtShrgeuO_3l3XeMEw&_nc_tpa=Q5bMBQJZb5z6QMLlIGosgD48AjQ0tUakNm4uv8aql8iW4qDbCkvwn0uMn3MvFP88rcs_mxuVeX9EcWBH3A&oh=00_AQV0vBMgTUkWh8BaT22I0P_ZkUho0bIvLfy99mNO3fCd6g&oe=6B0E8E5F",
@@ -16263,7 +16353,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-1200-nl.jpg"
    },
    "source_key": "post:100067526447776_1463358422591692",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -17374,7 +17464,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100069122846749_1463262675987813": {
    "fingerprint": "bb02176043329ab66fc7",
