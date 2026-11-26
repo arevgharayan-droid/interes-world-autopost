@@ -25,14 +25,17 @@
   "20a7a509199cfbe519fc": "2026-11-15T14:18:37+00:00",
   "25859e26b6e422f893cd": "2026-11-25T11:44:43+00:00",
   "25b78f14c93b0017d12c": "2026-11-20T22:46:03+00:00",
+  "27e58ec2ed5f9e95b22d": "2026-11-26T09:50:46+00:00",
   "2c102128a6bdf6cc4b13": "2026-11-16T16:00:57+00:00",
   "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
   "31ed525cac6f302a760e": "2026-11-18T15:23:57+00:00",
   "328058e82fda872a8b75": "2026-11-21T22:45:45+00:00",
+  "34711a6634d3a561ac27": "2026-11-26T09:50:46+00:00",
   "3533a55fa077da0c19af": "2026-11-20T19:26:18+00:00",
   "36f06768685fbf905768": "2026-11-19T19:58:54+00:00",
   "38c747862b5987573e5e": "2026-11-25T11:44:43+00:00",
   "38ed0648922d69375e3a": "2026-11-12T20:02:32+00:00",
+  "3ae14c0c9e1edf830d58": "2026-11-26T09:50:46+00:00",
   "40d2199f7d29b9f3db58": "2026-11-19T14:07:53+00:00",
   "414c7dea2c3785876288": "2026-11-20T14:41:24+00:00",
   "46a1728a5126f9af6c13": "2026-11-16T00:16:52+00:00",
@@ -15175,7 +15178,96 @@
   },
   "2026-11-26 14:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meine Schwiegermutter tauschte die Schlösser aus, während meine Mutter im Krankenhaus lag – am nächsten Tag stand die Familie unter Schock",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1243,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn schoonmoeder verwisselde het slot terwijl mijn moeder op de spoedeisende hulp lag, en mijn man keek zwijgend toe",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1242,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha sogra trocou a senha da porta enquanto minha mãe estava no hospital, e meu marido concordou em silêncio",
+     "warnings": [
+      "длина текста FB 658 слов (исходник 775, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 803,
+     "wp_media_id": 802,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1430-nl.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T14:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/926880013_122156477649170576_6968431947410424598_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HyKec3i5dbsQ7kNvwG4GSUv&_nc_oc=Ado-05eVydsDgQIgEbLO51nNRZ9nhTNL5A1ksTnm2ObOrlCg06Sa0HSvwkn78uqtJDY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fvq1t3xaPZW9r6o8MMF0RQ&_nc_tpa=Q5bMBQJo2yDoSznj9nCarc12ZkW8mKPmVO8q1BfCBv2Us713uEjhWr4LbJLEQxGEsK2nAfx9ZmsBkTVQFQ&oh=00_AQQIQUOC88LfHjk5wayfSW6Uw3ylb2uOPeyJwZwPqReqMQ&oe=6B0DB7EA",
@@ -15187,7 +15279,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1430-nl.jpg"
    },
    "source_key": "post:61585117295331_122156477673170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -16850,7 +16942,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-26 14:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122143810737210709": {
    "fingerprint": "5b16116dc7df14500fc7",
