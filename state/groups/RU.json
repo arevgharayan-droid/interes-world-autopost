@@ -44,6 +44,7 @@
   "33582b0afea138144804": "2026-11-12T20:02:43+00:00",
   "34f5d1ae4690346695c5": "2026-11-12T17:48:06+00:00",
   "35bb7b02c3a3eec981f5": "2026-11-20T16:46:35+00:00",
+  "35e1af845fc34530458d": "2026-11-26T09:51:32+00:00",
   "37295985ca4da18995cf": "2026-11-20T14:41:36+00:00",
   "3805fc902e0de2be6e6c": "2026-11-25T14:02:26+00:00",
   "3944404d935075c532ec": "2026-11-21T17:03:58+00:00",
@@ -75,6 +76,7 @@
   "56b10fd7cd3d1bca37f0": "2026-11-17T17:52:52+00:00",
   "56e4adfb3a5ff83561a9": "2026-11-22T22:08:29+00:00",
   "59a8c94efb9a24d75d95": "2026-11-18T18:30:01+00:00",
+  "5ac53dd81c0ebf30dd20": "2026-11-26T09:51:32+00:00",
   "5b204109299ad4dcd429": "2026-11-12T20:02:43+00:00",
   "5e2571bcd03b701d1749": "2026-11-24T09:25:07+00:00",
   "5eb6f82f1ff85094dce8": "2026-11-21T22:45:41+00:00",
@@ -24558,7 +24560,81 @@
   },
   "2026-11-26 14:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Мама и брат отказались встретить меня в аэропорту после похорон мужа, но ночью к моему дому съехались пожарные машины, и наутро они увидели это в новостях",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 808,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kocamı yabancı bir toprağa gömüp döndüm, ailem beni havalimanından almaya gelmedi ama akşam haberlerini izleyince hepsinin elinden telefon düştü",
+     "warnings": [
+      "часть 3: 394 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 809,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T14:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/917310273_122132144060893096_7682616953053000938_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EgogWxf4R-MQ7kNvwG0wmJC&_nc_oc=Adpv1QBXiPKEqaIRerhkZszId40cB-KQPIXcwFv9KH1miMVKhlpe4gpjZvdokOKyCw4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hdqBvH67YM-zG69sHEL1jQ&_nc_tpa=Q5bMBQJEcsLVbVl34l93YNDV-3dW_0isRJhdQogbaUnHmm-Bwi8GkL3CChNfgLTKstK6YNU9L1p1LkVSbw&oh=00_AQQHi8E_9PMsim_hfKdqSPHrlhC-XDWSugU-xECa1n7acQ&oe=6B0DD4F2",
@@ -24570,7 +24646,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1430-ru.jpg"
    },
    "source_key": "post:61576792898556_122132160368893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -25550,7 +25626,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-26 14:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122132361842893096": {
    "fingerprint": "c665ff2719337a6bccc8",
