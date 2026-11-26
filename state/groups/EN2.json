@@ -11,6 +11,7 @@
   "0e747318903c9a689ac2": "2026-11-13T10:14:29+00:00",
   "1646fedd72fba957d312": "2026-11-19T17:52:35+00:00",
   "1920b88bb3c3529ad8e8": "2026-11-18T22:49:20+00:00",
+  "2930daa0d5991c770886": "2026-11-26T13:38:03+00:00",
   "3282dcd43c6b61dbd30a": "2026-11-21T19:44:14+00:00",
   "3367781bbac23680b15e": "2026-11-16T10:11:01+00:00",
   "34c33c9f2440539cf1b3": "2026-11-25T09:44:31+00:00",
@@ -14322,7 +14323,72 @@
   },
   "2026-11-26 17:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Hid a Runaway Pig for 40 Days to Save Her From the Slaughterhouse, Then My Heart Gave Out and She Ran Into the Road",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1262,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T17:36:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/915926384_122217223538841094_350213569292710008_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BvXa82hi2W8Q7kNvwEHspRw&_nc_oc=AdqKRms-rNzQQyo40RDGXsiZWbyoc3adgM31aruvxOMhX4jDMhnvVIUmm3dinpneapE&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=KRicjY_Q1Jf_zLjnkmPAmQ&_nc_tpa=Q5bMBQLIMPMH-nS_PCJ7vj2xaXSxDp6tuJhioLeZap5B4HLaCEWOknhGoHsyXquXSUUhQq3idF_BjOamTg&oh=00_AQTCtPAp1s35n5HIi56PLwx53fzFKRNF_kk6_8LdDiqQjA&oe=6B0E2314",
@@ -14334,7 +14400,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1736-en2.jpg"
    },
    "source_key": "post:61575232821594_122217223562841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14955,7 +15021,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-26 17:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130738032893096": {
    "fingerprint": "f5b688138af06f2a13a3",
