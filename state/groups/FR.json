@@ -12760,30 +12760,36 @@
      "pages": {
       "104192002184660": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1135672542399117_1508990504427358",
        "error": null,
        "last_attempt": "2026-11-26T17:49:53+04:00",
        "mode": "immediate",
        "photo_id": "1135672519065786",
        "post_id": "104192002184660_1135672542399117",
-       "status": "published"
+       "status": "done"
       },
       "1065418833325273": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127949245306971_1467146001715070",
        "error": null,
        "last_attempt": "2026-11-26T17:48:10+04:00",
        "mode": "immediate",
        "photo_id": "122127949221306971",
        "post_id": "1065418833325273_122127949245306971",
-       "status": "published"
+       "status": "done"
       },
       "1091526457386175": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126587803298778_1490641409797788",
        "error": null,
        "last_attempt": "2026-11-26T17:48:43+04:00",
        "mode": "immediate",
        "photo_id": "122126587779298778",
        "post_id": "1091526457386175_122126587803298778",
-       "status": "published"
+       "status": "done"
       },
       "1140011449205671": {
        "attempts": 1,
@@ -12850,12 +12856,14 @@
       },
       "1221370521061169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127196233416241_2346628296135391",
        "error": null,
        "last_attempt": "2026-11-26T17:49:18+04:00",
        "mode": "immediate",
        "photo_id": "122127196209416241",
        "post_id": "1221370521061169_122127196233416241",
-       "status": "published"
+       "status": "done"
       },
       "1234716479729330": {
        "attempts": 1,
@@ -12886,12 +12894,14 @@
       },
       "1274568742402473": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130247875440882_947470298302965",
        "error": null,
        "last_attempt": "2026-11-26T17:50:27+04:00",
        "mode": "immediate",
        "photo_id": "122130247845440882",
        "post_id": "1274568742402473_122130247875440882",
-       "status": "published"
+       "status": "done"
       },
       "1277107925482426": {
        "attempts": 1,
@@ -12934,6 +12944,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 818,
+     "wp_live": true,
      "wp_media_id": 817,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1736-fr.jpg",
      "wp_site": {
@@ -12973,12 +12984,14 @@
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109744602457428_1670776501189988",
        "error": null,
        "last_attempt": "2026-11-26T17:47:35+04:00",
        "mode": "immediate",
        "photo_id": "122109744578457428",
        "post_id": "1058598924006917_122109744602457428",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -13015,21 +13028,25 @@
       },
       "1176150818923548": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123321805408530_2419808792191447",
        "error": null,
        "last_attempt": "2026-11-26T17:45:17+04:00",
        "mode": "immediate",
        "photo_id": "122123321775408530",
        "post_id": "1176150818923548_122123321805408530",
-       "status": "published"
+       "status": "done"
       },
       "1177965172074691": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136864939399095_1145266304657225",
        "error": null,
        "last_attempt": "2026-11-26T17:47:01+04:00",
        "mode": "immediate",
        "photo_id": "122136864909399095",
        "post_id": "1177965172074691_122136864939399095",
-       "status": "published"
+       "status": "done"
       },
       "1202025962997153": {
        "attempts": 1,
@@ -13044,12 +13061,14 @@
       },
       "1209115882290937": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132037561402388_1640436564489957",
        "error": null,
        "last_attempt": "2026-11-26T17:44:10+04:00",
        "mode": "immediate",
        "photo_id": "122132037537402388",
        "post_id": "1209115882290937_122132037561402388",
-       "status": "published"
+       "status": "done"
       },
       "1250374694822508": {
        "attempts": 1,
@@ -13075,39 +13094,47 @@
       },
       "1273732202484347": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118514635408219_2716276192166773",
        "error": null,
        "last_attempt": "2026-11-26T17:45:51+04:00",
        "mode": "immediate",
        "photo_id": "122118514605408219",
        "post_id": "1273732202484347_122118514635408219",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131055607425731_1791999788756419",
        "error": null,
        "last_attempt": "2026-11-26T17:43:34+04:00",
        "mode": "immediate",
        "photo_id": "122131055583425731",
        "post_id": "1280413955154689_122131055607425731",
-       "status": "published"
+       "status": "done"
       },
       "1294138050440994": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129025039441481_30143059601968534",
        "error": null,
        "last_attempt": "2026-11-26T17:44:43+04:00",
        "mode": "immediate",
        "photo_id": "122129025009441481",
        "post_id": "1294138050440994_122129025039441481",
-       "status": "published"
+       "status": "done"
       },
       "1333347143189157": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138734131395535_1730371548509130",
        "error": null,
        "last_attempt": "2026-11-26T17:46:26+04:00",
        "mode": "immediate",
        "photo_id": "122138734101395535",
        "post_id": "1333347143189157_122138734131395535",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ma fille de 6 ans disparaissait 10 minutes chaque jour après l'école. Quand le fils de la voisine a menacé d'appeler la police, je l'ai suivie",
