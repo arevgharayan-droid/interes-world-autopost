@@ -83,6 +83,7 @@
   "a0eb1727a9ca195bd10f": "2026-11-24T12:29:41+00:00",
   "a333d126c2a07536f0f3": "2026-11-13T10:14:57+00:00",
   "a964ea608100bdcf9bf6": "2026-11-18T15:23:57+00:00",
+  "aa6510a028a99368dbb1": "2026-11-26T19:37:56+00:00",
   "aa7fd822c4f85bd070c5": "2026-11-22T19:48:30+00:00",
   "aa92d1f8736cff43c0f0": "2026-11-19T19:58:54+00:00",
   "aedb3670a0e95e3b4e8e": "2026-11-22T14:04:34+00:00",
@@ -91,6 +92,7 @@
   "bc1a8f9edd9975cdd2d1": "2026-11-22T16:32:11+00:00",
   "c036910f5671f8e0661e": "2026-11-22T21:56:46+00:00",
   "c15e234ffa8f454c8fc9": "2026-11-17T10:52:26+00:00",
+  "c40926f7bf21fdcb711a": "2026-11-26T19:37:56+00:00",
   "c45432e6978031cef601": "2026-11-13T14:37:35+00:00",
   "c745d1c3b1645febfcde": "2026-11-24T16:41:51+00:00",
   "c7f5d2b135602dc721d7": "2026-11-15T10:15:33+00:00",
@@ -108,6 +110,7 @@
   "dad3376516ebf7607694": "2026-11-17T20:47:11+00:00",
   "dcf04943e849a446709a": "2026-11-16T19:28:25+00:00",
   "dd884bcf88863a284a4f": "2026-11-26T16:24:15+00:00",
+  "dfd893b9cd0833acacce": "2026-11-26T19:37:56+00:00",
   "e18518c82b2c91d9bede": "2026-11-21T17:04:07+00:00",
   "e2b93dcc96be27aa58cc": "2026-11-17T12:28:57+00:00",
   "e35a5edbfd125f0de5e7": "2026-11-17T12:28:57+00:00",
@@ -15962,7 +15965,94 @@
    }
   },
   "2026-11-27 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meine Tochter schickte mir 20 Hochzeitsregeln, ich hielt mich an Regel 12 und überreichte ihr im Umschlag nur 150 Dollar",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1302,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn dochter stuurde me 20 bruiloftsregels, waaronder: verzwijg dat haar vader automonteur was. Toen ze om 20.00 uur mijn envelop opende, zat er maar $150 in",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1301,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha filha me mandou 20 regras de casamento, exigiu que eu escondesse a profissão do pai e ainda queria um cheque de 40 mil dólares. No altar, recebeu um envelope com apenas 150",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 848,
+     "wp_media_id": 847,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-0000-nl.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/932199938_1462204412707093_4516318397948748325_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uyEMQOY55_MQ7kNvwE1SSNR&_nc_oc=AdpgX9pklH7Nk16OgaqxPyHXYvJCz-ujwHQw0O2FWu3BFbZmtkY34VqlX_-q6cG6aRk&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=asmDSQwRQNsrPlYd3b6stA&_nc_tpa=Q5bMBQKT0kv4PAiGkpW75Fb57V7pm2qbPy6tghufzZCMN7BOXpuRo3vG3QxhXNrisJvbmKg9AuzlED2xww&oh=00_AQRBTOrhiw0QGa1iE9roPLnHH1PtFBh0Qi-GXf2VUdNbrQ&oe=6B0E77EE",
@@ -15974,7 +16064,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-0000-nl.jpg"
    },
    "source_key": "post:100067526447776_1462580546002813",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -17076,7 +17166,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100069122846749_1463262675987813": {
    "fingerprint": "bb02176043329ab66fc7",
