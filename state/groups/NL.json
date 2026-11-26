@@ -15749,12 +15749,17 @@
      "pages": {},
      "title": "Meu marido expulsou nossa filha de 18 anos enquanto eu viajava, e um ano depois ela bateu à minha porta com um bebê nos braços",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 831,
+     "wp_media_id": 830,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-2100-nl.jpg",
      "wp_site": {
       "comment_link_format": "https://peakproductions.co/?p={wp_id}",
       "key_secret": "WP_API_KEY",
       "url": "https://peakproductions.co",
       "wp_auth": "make_connector"
-     }
+     },
+     "wp_status": "future"
     },
     "RO": {
      "pages": {},
@@ -15773,6 +15778,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-26T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/926078262_122156698797170576_3434540777563894962_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hIOeFnFqsmUQ7kNvwGH1JZh&_nc_oc=Adrotm0wu5RmsrdNJkYjoSdPMiY3VN_VgdyXZd-uQAKsJ50FBik39nsnLLxb6bZ0Gew&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=X1L7UZqtqSqjheFGKjeLxQ&_nc_tpa=Q5bMBQJ8ccenNb7GhBYdwYP137BbpJnC7fEyPkYj1ShX8cmhLMUj4iTfkvqQb2hwJXGV49yp202eS23L2Q&oh=00_AQSq0R3IyX3wdS9hfkzyO1khXz7Mcn647ld-Grla1aiu3Q&oe=6B0E1902",
@@ -15784,7 +15790,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-2100-nl.jpg"
    },
    "source_key": "post:61585117295331_122156698821170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -17460,7 +17466,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-26 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122143810737210709": {
    "fingerprint": "5b16116dc7df14500fc7",
