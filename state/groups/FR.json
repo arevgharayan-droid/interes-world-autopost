@@ -13768,12 +13768,13 @@
       "1333347143189157": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122138758041395535_1481942413890232",
        "error": null,
        "last_attempt": "2026-11-26T20:31:56+04:00",
        "mode": "schedule",
        "photo_id": "122138758011395535",
        "post_id": "1333347143189157_122138758041395535",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Elle a piétiné le camion de pompiers que j'avais fabriqué avec le banc de ma femme décédée, mais un message sur le téléphone de mon fils a tout fait basculer",
