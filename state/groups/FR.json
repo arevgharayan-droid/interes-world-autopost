@@ -1382,7 +1382,7 @@
   "1273732202484347_122118544761408219": "2026-11-26T20:13:02+00:00",
   "1274568742402473_122130247875440882": "2026-11-26T13:50:30+00:00",
   "1274568742402473_122130266133440882": "2026-11-26T17:49:51+00:00",
-  "1274568742402473_122130291381440882": "2026-11-26T19:47:32+00:00",
+  "1274568742402473_122130291381440882": "2026-11-26T20:17:12+00:00",
   "1277107925482426_122127614871420354": "2026-11-26T13:57:02+00:00",
   "1277107925482426_122127632001420354": "2026-11-26T17:50:07+00:00",
   "1277107925482426_122127664257420354": "2026-11-26T20:04:41+00:00",
@@ -1436,7 +1436,7 @@
   "1280413955154689_122131102779425731": "2026-11-26T20:13:19+00:00",
   "1285042228018768_122129831859425687": "2026-11-26T13:51:06+00:00",
   "1285042228018768_122129850843425687": "2026-11-26T17:50:27+00:00",
-  "1285042228018768_122129873739425687": "2026-11-26T19:47:56+00:00",
+  "1285042228018768_122129873739425687": "2026-11-26T20:17:23+00:00",
   "1294138050440994_122129025039441481": "2026-11-26T13:44:47+00:00",
   "1294138050440994_122129043327441481": "2026-11-26T17:43:40+00:00",
   "1294138050440994_122129070003441481": "2026-11-26T20:13:34+00:00",
@@ -13836,21 +13836,25 @@
      "pages": {
       "1085853177948572": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128766145317111_1165639642778471",
        "error": null,
        "last_attempt": "2026-11-27T00:07:29+04:00",
        "mode": "immediate",
        "photo_id": "122128766121317111",
        "post_id": "1085853177948572_122128766145317111",
-       "status": "published"
+       "status": "done"
       },
       "1145996375255489": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133960159310364_1178733334668571",
        "error": null,
        "last_attempt": "2026-11-27T00:08:05+04:00",
        "mode": "immediate",
        "photo_id": "122133960135310364",
        "post_id": "1145996375255489_122133960159310364",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "تزوج طليقي من سكرتيرته وأنا أبدأ من جديد في زيورخ، لكن جملة واحدة في حفل زفافه تركته بلا كلام",
@@ -13859,6 +13863,7 @@
      ],
      "wp_error": null,
      "wp_id": 846,
+     "wp_live": true,
      "wp_media_id": 841,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-0000-fr.jpg",
      "wp_site": {
@@ -14020,66 +14025,80 @@
       },
       "1236104599583009": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122145942741387067_2818037731926606",
        "error": null,
        "last_attempt": "2026-11-27T00:01:43+04:00",
        "mode": "immediate",
        "photo_id": "122145942633387067",
        "post_id": "1236104599583009_122145942741387067",
-       "status": "published"
+       "status": "done"
       },
       "1263459716855777": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139227955466852_1014493985042896",
        "error": null,
        "last_attempt": "2026-11-27T00:03:27+04:00",
        "mode": "immediate",
        "photo_id": "122139227931466852",
        "post_id": "1263459716855777_122139227955466852",
-       "status": "published"
+       "status": "done"
       },
       "1274568742402473": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130291381440882_1867624990897419",
        "error": null,
        "last_attempt": "2026-11-26T23:47:30+04:00",
        "mode": "schedule",
        "photo_id": "122130291351440882",
        "post_id": "1274568742402473_122130291381440882",
-       "status": "scheduled"
+       "status": "done"
       },
       "1277107925482426": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127664257420354_2687276798391239",
        "error": null,
        "last_attempt": "2026-11-27T00:04:36+04:00",
        "mode": "immediate",
        "photo_id": "122127664233420354",
        "post_id": "1277107925482426_122127664257420354",
-       "status": "published"
+       "status": "done"
       },
       "1285042228018768": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129873739425687_1720954679600592",
        "error": null,
        "last_attempt": "2026-11-26T23:47:53+04:00",
        "mode": "schedule",
        "photo_id": "122129873703425687",
        "post_id": "1285042228018768_122129873739425687",
-       "status": "scheduled"
+       "status": "done"
       },
       "1331724433353003": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122143957773472559_2687548951650558",
        "error": null,
        "last_attempt": "2026-11-27T00:04:03+04:00",
        "mode": "immediate",
        "photo_id": "122143957749472559",
        "post_id": "1331724433353003_122143957773472559",
-       "status": "published"
+       "status": "done"
       },
       "1334176279776969": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138951169470472_4768531223474065",
        "error": null,
        "last_attempt": "2026-11-27T00:02:51+04:00",
        "mode": "immediate",
        "photo_id": "122138951145470472",
        "post_id": "1334176279776969_122138951169470472",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi exmarido se casó con su secretaria mientras yo empezaba de nuevo en Zúrich, pero una frase en su boda lo dejó sin palabras",
@@ -14311,27 +14330,32 @@
      "pages": {
       "1017413568132885": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126783559301832_1184328594038241",
        "error": null,
        "last_attempt": "2026-11-27T00:06:57+04:00",
        "mode": "immediate",
        "photo_id": "122126783535301832",
        "post_id": "1017413568132885_122126783559301832",
-       "status": "published"
+       "status": "done"
       },
       "1150924154761110": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141179839316765_1465111482467977",
        "error": null,
        "last_attempt": "2026-11-27T00:06:22+04:00",
        "mode": "immediate",
        "photo_id": "122141179815316765",
        "post_id": "1150924154761110_122141179839316765",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Fostul meu soț s-a căsătorit cu secretara lui când eu o luam de la capăt la Zürich, dar o singură replică la nunta lor l-a lăsat fără cuvinte",
      "warnings": [],
      "wp_error": null,
      "wp_id": 845,
+     "wp_live": true,
      "wp_media_id": 841,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-0000-fr.jpg",
      "wp_site": {
@@ -14367,7 +14391,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-0000-fr.jpg"
    },
    "source_key": "post:100067526447776_1460948829499318",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
