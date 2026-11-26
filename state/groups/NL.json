@@ -68,7 +68,6 @@
   "7f712453ca750cd21feb": "2026-11-25T22:45:52+00:00",
   "82c4ef85daea167f4a95": "2026-11-21T17:04:07+00:00",
   "84b09bc98a9e61d6846f": "2026-11-18T18:56:13+00:00",
-  "84b43238bfda7c42ae10": "2026-11-12T17:47:29+00:00",
   "87c5e5d9fc96a2ef4a39": "2026-11-25T22:45:52+00:00",
   "87f9f8d27c5313018eee": "2026-11-14T09:18:09+00:00",
   "8daa63ca87eb93cfa9ef": "2026-11-25T20:00:00+00:00",
@@ -117,7 +116,6 @@
   "e8013580c18c12f39749": "2026-11-26T13:38:41+00:00",
   "ecaa110bf53ef0673dfe": "2026-11-25T18:00:41+00:00",
   "ecd7a0840dd1ae067df4": "2026-11-18T22:49:31+00:00",
-  "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
   "f1de2b6a7b4cb66798b0": "2026-11-19T22:01:01+00:00",
   "f3db1dfbfdb7df061663": "2026-11-14T11:39:08+00:00",
   "fabea08610bac51ffc8f": "2026-11-16T10:16:48+00:00",
@@ -508,8 +506,6 @@
   "1205543595981082_122132167581430924": "2026-11-26T10:37:33+00:00",
   "1205543595981082_122132205477430924": "2026-11-26T13:42:06+00:00",
   "1205543595981082_122132227029430924": "2026-11-26T17:37:03+00:00",
-  "1208422892355505_122130692235418602": "2026-11-12T17:47:42+00:00",
-  "1208422892355505_122130692613418602": "2026-11-12T17:55:02+00:00",
   "1208422892355505_122130704409418602": "2026-11-12T20:02:49+00:00",
   "1208422892355505_122130781503418602": "2026-11-13T11:07:42+00:00",
   "1208422892355505_122130810921418602": "2026-11-13T14:37:48+00:00",
@@ -915,8 +911,6 @@
   "122130668943321366": "2026-11-21T20:13:32+00:00",
   "122130679455321366": "2026-11-21T22:54:13+00:00",
   "122130680517430924": "2026-11-17T20:49:42+00:00",
-  "122130692205418602": "2026-11-12T17:47:42+00:00",
-  "122130692589418602": "2026-11-12T17:55:02+00:00",
   "122130704373418602": "2026-11-12T20:02:49+00:00",
   "122130714273424769": "2026-11-18T15:27:14+00:00",
   "122130741525321366": "2026-11-22T14:14:36+00:00",
@@ -1095,8 +1089,6 @@
   "122132636919310273": "2026-11-20T17:11:57+00:00",
   "122132652183310273": "2026-11-20T19:33:36+00:00",
   "122132668497310273": "2026-11-20T22:53:20+00:00",
-  "122132721219436382": "2026-11-12T17:47:44+00:00",
-  "122132722125436382": "2026-11-12T17:55:06+00:00",
   "122132726001310273": "2026-11-21T10:24:24+00:00",
   "122132736615436382": "2026-11-12T20:02:53+00:00",
   "122132737689418602": "2026-11-25T09:50:23+00:00",
@@ -1252,8 +1244,6 @@
   "122136026457399122": "2026-11-26T13:47:15+00:00",
   "122136038835306170": "2026-11-26T16:25:47+00:00",
   "122136048051399122": "2026-11-26T16:32:33+00:00",
-  "122202424040922316": "2026-11-12T17:47:38+00:00",
-  "122202424994922316": "2026-11-12T17:54:57+00:00",
   "122202434498922316": "2026-11-12T20:02:44+00:00",
   "122202511862922316": "2026-11-13T10:15:08+00:00",
   "122202538160922316": "2026-11-13T14:37:44+00:00",
@@ -1331,8 +1321,6 @@
   "122204385524461850": "2026-11-25T20:02:13+00:00",
   "122204394452461850": "2026-11-25T22:49:53+00:00",
   "122204440220461850": "2026-11-26T09:54:57+00:00",
-  "122222396726930012": "2026-11-12T17:47:36+00:00",
-  "122222397506930012": "2026-11-12T17:54:52+00:00",
   "122222408480930012": "2026-11-12T20:02:39+00:00",
   "122222495732930012": "2026-11-13T10:15:03+00:00",
   "122222556278930012": "2026-11-13T14:37:42+00:00",
@@ -1463,8 +1451,6 @@
   "1239848699214091_122128453125439695": "2026-11-26T17:38:10+00:00",
   "1247269808471997_122130598053430469": "2026-11-26T13:43:15+00:00",
   "1247269808471997_122130612747430469": "2026-11-26T17:38:43+00:00",
-  "1268633826332790_122132721249436382": "2026-11-12T17:47:44+00:00",
-  "1268633826332790_122132722155436382": "2026-11-12T17:55:06+00:00",
   "1268633826332790_122132736639436382": "2026-11-12T20:02:53+00:00",
   "1268633826332790_122132836545436382": "2026-11-13T11:07:48+00:00",
   "1268633826332790_122132870391436382": "2026-11-13T14:37:50+00:00",
@@ -1584,8 +1570,6 @@
   "444776585382502_122229800024543856": "2026-11-25T20:02:29+00:00",
   "444776585382502_122229814994543856": "2026-11-26T08:45:26+00:00",
   "444776585382502_122229865736543856": "2026-11-26T09:55:30+00:00",
-  "633031599904551_122222396756930012": "2026-11-12T17:47:36+00:00",
-  "633031599904551_122222397530930012": "2026-11-12T17:54:52+00:00",
   "633031599904551_122222408504930012": "2026-11-12T20:02:39+00:00",
   "633031599904551_122222495762930012": "2026-11-13T11:07:33+00:00",
   "633031599904551_122222556308930012": "2026-11-13T14:37:42+00:00",
@@ -1645,8 +1629,6 @@
   "633031599904551_122224718930930012": "2026-11-26T10:39:18+00:00",
   "633031599904551_122224740050930012": "2026-11-26T13:39:13+00:00",
   "633031599904551_122224757234930012": "2026-11-26T17:39:19+00:00",
-  "715935674934966_122202424070922316": "2026-11-12T17:47:38+00:00",
-  "715935674934966_122202425018922316": "2026-11-12T17:54:57+00:00",
   "715935674934966_122202434522922316": "2026-11-12T20:02:44+00:00",
   "715935674934966_122202511892922316": "2026-11-13T11:07:39+00:00",
   "715935674934966_122202538190922316": "2026-11-13T14:37:44+00:00",
@@ -1704,125 +1686,6 @@
   "715935674934966_122204276978922316": "2026-11-26T17:39:53+00:00"
  },
  "slots": {
-  "2026-11-12 21:53": {
-   "adhoc": true,
-   "langs": {
-    "DE": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1208422892355505": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122130692613418602_28789382047427526",
-       "error": null,
-       "last_attempt": "2026-11-12T21:54:58+04:00",
-       "mode": "immediate",
-       "photo_id": "122130692589418602",
-       "post_id": "1208422892355505_122130692613418602",
-       "status": "done"
-      },
-      "1268633826332790": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122132722155436382_1448959913334102",
-       "error": null,
-       "last_attempt": "2026-11-12T21:55:02+04:00",
-       "mode": "immediate",
-       "photo_id": "122132722125436382",
-       "post_id": "1268633826332790_122132722155436382",
-       "status": "done"
-      }
-     },
-     "title": "Vier Wochen vor seinem Abschluss sagte mein Enkel, er wolle mich nicht mehr in seinem Leben – doch dann trat er ans Mikrofon",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 257,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "633031599904551": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122222397530930012_1141484041596593",
-       "error": null,
-       "last_attempt": "2026-11-12T21:54:48+04:00",
-       "mode": "immediate",
-       "photo_id": "122222397506930012",
-       "post_id": "633031599904551_122222397530930012",
-       "status": "done"
-      },
-      "715935674934966": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122202425018922316_1879648580059317",
-       "error": null,
-       "last_attempt": "2026-11-12T21:54:52+04:00",
-       "mode": "immediate",
-       "photo_id": "122202424994922316",
-       "post_id": "715935674934966_122202425018922316",
-       "status": "done"
-      }
-     },
-     "title": "Vier weken voor zijn afstuderen wilde mijn kleinzoon me niet meer zien, maar toen hij op het podium de microfoon pakte, veranderde alles",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 256,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "moved_from": "2026-11-13 00:00",
-   "prepared": true,
-   "slot_iso": "2026-11-12T21:53:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/903701848_1669675707869177_4287408516357275736_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0z1gUwZhJHMQ7kNvwG9aMyH&_nc_oc=AdosSR0IW8Jc1RrSdcbPJhzVr_jpyEXAK0xJgy3x_oFMRxFr90db2HFyI0DHoTGmfqY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=3He3Soutt5oCWTKlDPfsmg&_nc_tpa=Q5bMBQJedrPMBduIw8BxHU8ygr5Iyzk2TmDmn7peIy1DgFmDetySM6gYMWjBa0cxr7HMINrs2HMX1i5hFw&oh=00_AQTzTPaodG89hhv2jjEbXkolUfSHTOLy2BEyXVJFQKj97g&oe=6AFBDBBC",
-    "link": "https://www.facebook.com/share/p/1CUJ9DYMcW/",
-    "origin": "manual",
-    "page_id": "100044802900629",
-    "text": "Only four weeks before his college graduation, my grandson stopped returning my calls and told me he no longer wanted me in his life. I'd raised him by myself since he was four, and hearing those words broke my heart. Even so, I attended his graduation and quietly took a seat near the back. But when he approached the microphone and spoke about something he'd discovered concerning me, I couldn't hold back my tears.\n\nMy grandson Ethan was just four years old when a devastating car accident claimed both of his parents.\n\nI was fifty-nine then.\n\nMy husband had died several years before, and I lived alone in a modest house.\n\nOvernight, I became the only family Ethan had remaining.\n\nA few relatives recommended that he live with a younger family.\n\nThey believed caring for a child at my age would be too demanding.\n\nBut giving him away was never an option in my mind.\n\nEthan meant everything to me.\n\nI worked additional shifts at the grocery store and spent my evenings cleaning offices so he would never go without what he needed.\n\nSome nights, I returned home so exhausted that standing upright felt difficult.\n\nYet Ethan was always there waiting.\n\nSometimes I'd find him asleep on the sofa, clutching his favorite stuffed bear.\n\nOn other evenings, he stayed awake simply because he wanted to hug me.\n\n“Grandma, I saved you some dinner,” he’d say proudly.\n\nWe couldn't afford luxurious vacations or expensive possessions.\n\nBut there was always plenty of love inside our little house.\n\nAs the years passed, Ethan grew into a thoughtful, hardworking young man.\n\nHe helped bring in groceries, repaired things around our home, and always remembered my birthday.\n\nWhen his college acceptance letter arrived, he rushed into the kitchen, holding it high above his head.\n\n“Grandma! I got in!”\n\nI wrapped my arms around him and began crying.\n\nHe laughed gently and brushed away my tears.\n\n“Save some tears for graduation. You’re going to be sitting right up front.”\n\nI gave him my promise.\n\nThroughout college, our relationship remained extremely close.\n\nHe called almost every evening.\n\nSometimes he needed my advice.\n\nOther times, he simply wanted to share what had happened during his day.\n\nEven on his busiest days, he would send a short message asking whether I'd eaten dinner.\n\nThen, four weeks before graduation, everything suddenly changed.\n\nHis regular phone calls ended.\n\nHe stopped responding to my messages.\n\nAt first, I assumed he was busy preparing for his final examinations.\n\nBut when almost two weeks passed, my concern grew.\n\nEventually, he picked up one evening.\n\n“Ethan, sweetheart, is everything alright?”\n\nThere was an unfamiliar coldness in his voice.\n\n“Grandma, I need you to stop calling me.”\n\nI went completely still.\n\n“What do you mean?”\n\n“I don’t want to talk anymore.”\n\nMy heart started racing.\n\n“Have I done something to hurt you?”\n\nSilence stretched between us.\n\nThen he spoke words I would never forget.\n\n“You should’ve told me the truth years ago.”\n\nBefore I could ask him to explain, he disconnected the call.\n\nI remained at the kitchen table for hours afterward.\n\nI replayed every conversation we'd ever shared, desperately searching for something I might have done wrong.\n\nThe following morning, I tried calling again.\n\nHe didn't answer.\n\nI sent him a handwritten letter.\n\nThere was no response.\n\nI even mailed a package containing his favorite cookies, which I'd baked myself.\n\nOne week later, the package was returned without being opened.\n\nI spent those weeks crying more than I had in a very long time.\n\nBut when his graduation day finally came, I knew I couldn't stay away.\n\nI'd made him a promise.\n\nAnd regardless of how upset he was with me, I remained incredibly proud of him.\n\nI dressed in my nicest blue dress and carefully fastened a little silver brooch to its collar.\n\nIt was the same brooch I'd worn when he started school for the first time.\n\nThen I purchased white roses and drove to the university.\n\nThe auditorium was packed with relatives cheering and taking photographs.\n\nI slipped quietly into an empty seat toward the back.\n\nI didn't want Ethan to feel embarrassed.\n\nAll I wanted was to watch him collect his diploma.\n\nWhen the announcer called his name, I stood up and applauded.\n\nTears gathered in my eyes as I watched him cross the stage.\n\nHe had grown into such a young man.\n\nFor a brief moment, I could still picture the frightened four-year-old who'd appeared at my doorstep twenty years before.\n\nThen something happened that I hadn't expected.\n\nRather than returning to his chair, Ethan made his way to the microphone.\n\nHe opened a folded sheet of paper.\n\n“Before we finish today, there’s someone I need to talk about.”\n\nThe auditorium fell quiet.\n\n“My grandmother is sitting somewhere in this auditorium.”\n\nI held my breath.\n\n“She raised me after my parents died. She worked herself to exhaustion to give me a childhood I never could’ve had without her.”\n\nTears rolled down my face.\n\nThen I heard his voice tremble.\n\n“But a month ago, I discovered something she’d kept hidden from me my entire life.”\n\nMy stomach tightened painfully.\n\n“I was so upset that I stopped speaking to her. I told her to leave me alone.”\n\nHe stopped for a moment and searched the audience.\n\n“Grandma, I know you’re here. And I need you to understand why.”\n\nMy fingers tightened around the bouquet resting on my lap.\n\nEthan reached beneath his graduation gown and took out an aged yellow envelope.\n\nI knew exactly what it was.\n\nFor almost twenty years, I'd kept that envelope tucked inside the bottom drawer of my bedroom dresser.\n\nMy hands began to shake.\n\nHow could he have discovered it?\n\nEthan raised the envelope for everyone to see.\n\n“This envelope contains something my grandmother never wanted me to see.”\n\nNot a sound came from the audience.\n\n“When I discovered what she’d sacrificed for me, I didn’t know how to face her.”\n\nHis voice cracked with emotion.\n\n“I thought I understood everything she’d done. But I was wrong.”\n\nHe moved away from the microphone.\n\nThen he descended the stairs and walked directly toward the rear of the auditorium.\n\nPeople turned their heads to follow him.\n\nI attempted to rise, but my knees felt too weak.\n\nEthan came to a stop right in front of me.\n\nHis eyes moved to the flowers shaking in my hands.\n\nThen, with hundreds of people watching, he slowly sank onto his knees.\n\n“Grandma,” he whispered, tears running down his face, “I found the letter.”\n\nMy heart seemed to stop.\n\nBecause inside that letter was the one secret I'd sworn Ethan would never have to bear.\n\nAnd when he finally revealed what he'd read, even the strangers sitting nearby began crying.\n\n…PART 2 👇👇👇",
-    "wp_media_id": 251,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261113-0000-nl.jpg"
-   },
-   "source_key": "post:100044802900629_1669675741202507",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-13 00:00": {
    "langs": {
     "DE": {
