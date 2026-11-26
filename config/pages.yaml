@@ -135,8 +135,8 @@ languages:
     name: German
     # новые немецкие страницы — в группе NL (одна история на NL + DE)
     pages:   # добавлены 25.10.2026
-      - {page_id: "363312640206172", name: "Es ist interessant", profile_id: "61563855510395", added: "2026-10-25", group: NL}  # отключена 29.10.2026, снова включена 21.11.2026
-      - {page_id: "444776585382502", name: "Schöne Welt", profile_id: "61566315690409", added: "2026-10-25", group: NL}  # отключена 29.10.2026, снова включена 21.11.2026
+      - {page_id: "363312640206172", name: "Es ist interessant", profile_id: "61563855510395", added: "2026-10-25", group: NL, disabled: true}  # отключена 29.10.2026, снова включена 21.11.2026, отключена 26.11.2026 (просьба владелицы)
+      - {page_id: "444776585382502", name: "Schöne Welt", profile_id: "61566315690409", added: "2026-10-25", group: NL, disabled: true}  # отключена 29.10.2026, снова включена 21.11.2026, отключена 26.11.2026 (просьба владелицы)
       - {page_id: "1208422892355505", name: "Geschichten des Lebens", profile_id: "61592558064466", added: "2026-11-09", group: NL}
       - {page_id: "1268633826332790", name: "Lebenswege", profile_id: "61593091482615", added: "2026-11-09", group: NL}
       - {page_id: "1102464712951594", name: "Momente aus der Schweiz", profile_id: "61589270979795", added: "2026-11-13", group: NL}

@@ -849,6 +849,12 @@ def cmd_ops(cfg, args, req=None) -> int:
         return 0
     if cmd == "scheduled":
         return cmd_scheduled(cfg)
+    if cmd == "drop-pages":
+        # {"page_ids": ["…"], "slots": ["2026-11-26 14:30"]} — снять отложенные посты этих страниц в выпусках
+        out = ["## Снять отложенные посты со страниц", ""]
+        out += drop_pages(cfg, [str(x) for x in a.get("page_ids") or []], list(a.get("slots") or []))
+        summary("\n".join(out) + "\n", "previews/drop-pages.md", cfg)
+        return 0
     if cmd == "replace-source":
         # {"items": [{"group": "EN", "slot": "2026-11-23 18:00", "link": "https://…"}, …]}
         out = ["## Замена истории в выпусках", ""]
@@ -989,6 +995,55 @@ def _rename_slot_slugs(cfg, g, s, dt, wp) -> list:
         except WordPressError as err:
             errors.append(f"адрес фото: {err}")
     return errors
+
+
+def drop_pages(cfg, page_ids: list, keys: list, graph=None, tokens=None) -> list:
+    """Отложенные посты указанных страниц в указанных выпусках удаляются из Facebook, а страницы убираются
+    из выпуска (остаются в L["dropped_pages"]). Сами страницы отключаются в config/pages.yaml (disabled: true),
+    поэтому заново их выпуск не создаст."""
+    graph = graph or Graph(cfg.graph_version)
+    tokens = tokens or load_tokens(cfg)
+    ids, out = set(page_ids), []
+    tz = ZoneInfo(cfg.tz)
+    for g in cfg.groups():
+        path = config_mod.group_state_path(cfg, g)
+        if not path.exists():
+            continue
+        st, changed = State(path), False
+        for key in keys:
+            s = st.slots.get(key)
+            if not s:
+                continue
+            ts = int(datetime.fromisoformat(s["slot_iso"]).timestamp())
+            for lang, L in (s.get("langs") or {}).items():
+                for pid in [x for x in (L.get("pages") or {}) if x in ids]:
+                    e = L["pages"][pid]
+                    name = next((p.name for p in cfg.all_pages if p.page_id == pid), pid)
+                    tok = tokens.get(pid)
+                    if e.get("status") not in ("scheduled", "sending"):
+                        out.append(f"- {name} {key}: статус {e.get('status')} — не трогаю")
+                        continue
+                    try:
+                        gone = False
+                        for sp in graph.scheduled_posts(pid, tok):
+                            if int(sp.get("scheduled_publish_time") or 0) == ts:
+                                graph.delete(sp["id"], tok)
+                                gone = True
+                        if not gone and e.get("post_id"):
+                            graph.delete(e["post_id"], tok)
+                            gone = True
+                    except FacebookError as err:
+                        out.append(f"- ❌ {name} {key}: {err.short()}")
+                        continue
+                    L.setdefault("dropped_pages", {})[pid] = dict(e, dropped_at=datetime.now(tz).isoformat(
+                        timespec="seconds"))
+                    del L["pages"][pid]
+                    changed = True
+                    out.append(f"- ✅ {name} ({cfg.group_label(g)}, {lang}) {key}: отложенный пост "
+                               + ("удалён" if gone else "не найден в Facebook") + ", страница убрана из выпуска")
+        if changed:
+            st.save()
+    return out or ["- ничего не найдено"]
 
 
 def replace_source(cfg, g: str, key: str, link: str, services=None, tokens=None, st=None, now=None) -> str:
