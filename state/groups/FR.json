@@ -13273,7 +13273,23 @@
   "2026-11-26 21:00": {
    "langs": {},
    "slot_iso": "2026-11-26T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/921475928_1571021325048879_2844867828308935082_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=2kzuDZUU8nQQ7kNvwFC2LPT&_nc_oc=AdoF6JKpXPC2GKaHdvnhemr89tdFpBxRlMKgDga7ZE8onA8mzr_Svk3xU8Daohcu3CQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=_orOce2vdZyB2GKbgzuBxw&_nc_tpa=Q5bMBQJpU98Sj7Ho7pfKapBYNM7wO6fVZ2ce_ZkUsLCuBR0g5uSog5gjoB99KhgOojgefMYeI6YyZJ3B7A&oh=00_AQQf5C8b-mwYJuA1fBKZ9qbzfwUbtKbyB8eyntSb8BZxhA&oe=6B0E1ED2",
+    "link": "https://www.facebook.com/story.php?story_fbid=1571021348382210&id=100064230806326",
+    "origin": "manual",
+    "page_id": "100064230806326",
+    "text": "\"My daughter-in-law crushed the wooden Christmas fire truck I had spent weeks building for my grandson. My son stood by, telling me not to make a scene, while the little boy cried over the broken toy.\n\n“It's worthless, Walter. Not every piece of junk belongs in my house,” Brielle snapped.\n\nMy name is Walter Hendricks. I'm sixty-seven and spent nearly forty years working as an industrial electrician in Dayton, Ohio. I knew how to repair broken machines, but I had taken far too long to recognize what was broken in my own family.\n\nThat fire truck meant more than a toy. I had spent three weeks crafting it from the wooden bench my late wife, Loretta, and I used to sit on in our backyard. She passed away two years ago, and I had saved the good pieces of wood from that bench.\n\nI carved the wheels, smoothed every edge, painted it bright red, and attached a tiny brass bell Loretta had bought at an antique market. Beneath it, I engraved: For Owen, with love from Grandpa.\n\nMy seven-year-old grandson had been asking about it for weeks. I planned to surprise him at Christmas dinner at my son Garrett's house.\n\nWhen I arrived, Brielle barely glanced at me before criticizing my old brown jacket. Her father, Russell, dominated the dinner conversation, boasting about his plans to buy a beachfront condo in Naples. Garrett, meanwhile, seemed unusually quiet.\n\nTheir expensive home in Oakwood Hills had cost more than $700,000. Two years earlier, I had lent them $120,000 toward the down payment and closing costs. It wasn't a gift. We had signed a notarized promissory note, and I had kept my copy.\n\nSince June, I had also been transferring $2,000 monthly to help cover their mortgage after Garrett's income declined. I never expected praise. I simply wanted my grandson to have a stable home.\n\nDuring dinner, Russell bragged about his new watch while Brielle complained about vacation expenses. Garrett barely ate.\n\nWhen I asked whether their new SUV and mounting bills were becoming a burden, Brielle quickly shut me down.\n\n“Money isn't a topic for dinner guests.”\n\nAfter dessert, Owen unwrapped my gift and squealed with excitement. He raced down the hallway, ringing the bell and shouting, “Grandpa, you made this yourself!”\n\nI smiled proudly. “Every piece, buddy.”\n\nBut Brielle suddenly grabbed the truck, inspected it, and sneered.\n\n“I told you not to bring your dead wife's old junk into my home.”\n\nBefore I could respond, she dropped it onto the tile. The cab cracked apart. Then she stomped on one wheel, snapping the axle.\n\n“Mom, stop!” Owen screamed, desperately reaching for the pieces.\n\nI pulled him away from the splintered wood and turned toward Garrett.\n\n“Are you going to say anything?”\n\nHe lowered his eyes. “Dad, please don't make this worse. It's just a toy.”\n\nRussell laughed under his breath. Brielle pointed at the broken truck.\n\n“Clean it up. Next time, bring something worth having.”\n\nI gathered the shattered pieces into the box while Owen clung to me, crying. As I prepared to leave, I noticed Garrett quickly hiding his phone. For a moment, I caught a message on the screen: Payment declined.\n\nThat night, I opened the metal box where I kept the promissory note and pulled out the seven bank receipts for my monthly transfers.\n\nI'd sent them $14,000 since June.\n\nSo why was a payment being declined?\n\nFor the first time, I wondered whether I had been saving my son's house—or unknowingly covering up a secret he didn't even know existed. Full story in 1st comment \"",
+    "wp_media_id": 1270,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-2100-fr.jpg"
+   },
+   "source_key": "post:100064230806326_1571021348382210",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-27 00:00": {
    "langs": {},
@@ -13965,6 +13981,14 @@
    "page_id": "100064230806326",
    "slot": "2026-11-26 12:00",
    "status": "used"
+  },
+  "post:100064230806326_1571021348382210": {
+   "fingerprint": "8f6ca58f976ec852b3f2",
+   "link": "https://www.facebook.com/story.php?story_fbid=1571021348382210&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-26 21:00",
+   "status": "reserved"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",
