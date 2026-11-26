@@ -15116,12 +15116,14 @@
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123605953505599_1765211888941015",
        "error": null,
        "last_attempt": "2026-11-26T02:54:03+04:00",
        "mode": "schedule",
        "photo_id": "122123605923505599",
        "post_id": "1448441201677530_122123605953505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Onze dias após enviuvar, ela ouviu da própria mãe \"não somos sua rede de segurança\" — oito anos depois, os pais apareceram na festa dela exigindo uma parte de 2,5 milhões de dólares",
@@ -15168,7 +15170,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1200-nl.jpg"
    },
    "source_key": "post:100044802900629_1682771949892886",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
