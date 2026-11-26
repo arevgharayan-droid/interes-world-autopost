@@ -16253,7 +16253,23 @@
   "2026-11-27 12:00": {
    "langs": {},
    "slot_iso": "2026-11-27T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/932058355_1463358015925066_6269642301357619926_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XNkES66wsNcQ7kNvwHANCC1&_nc_oc=AdpmkvXu9b2iXS08ZpY7YD4gkOY6shVj8X2lgyoqNYxlBF1wwxRph6C4-j9-28UqDGQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=1gzLEtShrgeuO_3l3XeMEw&_nc_tpa=Q5bMBQJZb5z6QMLlIGosgD48AjQ0tUakNm4uv8aql8iW4qDbCkvwn0uMn3MvFP88rcs_mxuVeX9EcWBH3A&oh=00_AQV0vBMgTUkWh8BaT22I0P_ZkUho0bIvLfy99mNO3fCd6g&oe=6B0E8E5F",
+    "link": "https://www.facebook.com/story.php?story_fbid=1463358422591692&id=100067526447776",
+    "origin": "manual",
+    "page_id": "100067526447776",
+    "text": "While I lay in a hospital bed hours after delivering our daughter, my husband and mother-in-law were celebrating: they had sold my $2.4 million home behind my back, closing the deal while I was in labor. Then he dropped divorce papers and five hundred dollars onto my blanket and told me to sign, without one glance at his newborn. \"You'll need this cash for a room,\" he said. I folded the money, gave it back, and laughed. \"Call your lawyer, Marcus. You have no idea what you actually sold.\"\n\nTwelve hours after I gave birth in Annapolis, Maryland, my husband Marcus and his mother Evelyn walked into my hospital room with divorce papers and five hundred dollars, never once glancing at our newborn daughter Maya in her bassinet.\n\n\"Sign,\" Marcus said briskly, laying the packets on my lap. \"You’ll need that cash for a room. Check-out is eleven tomorrow.\"\n\n\"What happened to the house, Marcus?\" I asked.\n\n\"Sold,\" he smirked, before Evelyn smoothly added, \"Two point four million. All cash, a thirty-day close he expedited to forty-eight hours.\"\n\nI stared at the man I had been married to for eight years. \"You closed yesterday. While I was in active labor.\"\n\n\"I had business to conclude, Hannah,\" he snapped. \"The world doesn’t halt because of biology.\"\n\nA quiet laugh escaped my throat as I folded the bills back into the envelope. \"You should call your settlement attorney immediately. Because you’re about to find out what you actually sold.\"\n\n\"Don’t play your tactical games with me,\" Marcus warned, leaning over the bedrail. \"You’re on convalescent leave from the military, you have no local family except your aunt, and no current residence. Sign the petition.\"\n\n\"I will not sign a solitary document in a hospital room,\" I said evenly. \"Take them off my blanket.\"\n\n\"Let her wallow in denial,\" Evelyn muttered as they walked out. \"The title has transferred, and the locks will be changed by noon anyway.\"\n\nAs the door clicked shut, I wiped away my tears, remembered my late father's advice to inventory my assets when supply lines break, and dialed my Aunt Beatrice.\n\n(Part 2 gets even more shocking… Comment “GREAT” for the next chapter! 💬👇)",
+    "wp_media_id": 1315,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-1200-nl.jpg"
+   },
+   "source_key": "post:100067526447776_1463358422591692",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-27 15:00": {
    "langs": {},
@@ -17351,6 +17367,14 @@
    "page_id": "100067526447776",
    "slot": "2026-11-27 00:00",
    "status": "used"
+  },
+  "post:100067526447776_1463358422591692": {
+   "fingerprint": "f4c9fb97bd9f3a7ac028",
+   "link": "https://www.facebook.com/story.php?story_fbid=1463358422591692&id=100067526447776",
+   "origin": "manual",
+   "page_id": "100067526447776",
+   "slot": "2026-11-27 12:00",
+   "status": "reserved"
   },
   "post:100069122846749_1463262675987813": {
    "fingerprint": "bb02176043329ab66fc7",
