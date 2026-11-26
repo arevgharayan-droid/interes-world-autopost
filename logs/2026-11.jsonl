@@ -17182,3 +17182,5 @@
 {"slot": "2026-11-27 00:00", "lang": "ES", "action": "wp_post", "id": 842, "status": "future", "t": "2026-11-26T19:37:06+00:00", "group": "FR"}
 {"slot": "2026-11-27 00:00", "lang": "RU", "action": "wp_post", "id": 843, "status": "future", "t": "2026-11-26T19:37:07+00:00", "group": "RU"}
 {"slot": "2026-11-27 00:00", "lang": "TR", "action": "wp_post", "id": 844, "status": "future", "t": "2026-11-26T19:37:08+00:00", "group": "RU"}
+{"slot": "2026-11-27 00:00", "lang": "RO", "action": "wp_post", "id": 845, "status": "future", "t": "2026-11-26T19:37:08+00:00", "group": "FR"}
+{"slot": "2026-11-27 00:00", "lang": "AR", "action": "wp_post", "id": 846, "status": "future", "t": "2026-11-26T19:37:09+00:00", "group": "FR"}

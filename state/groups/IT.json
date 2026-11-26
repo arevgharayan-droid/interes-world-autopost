@@ -25435,7 +25435,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T23:37:09+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Mio marito ha donato i suoi organi come ultimo desiderio, poi il suo medico mi ha fermata e mi ha consegnato ciò che aveva promesso di darmi solo dopo la sua morte",
      "warnings": [],
      "wp_error": null,

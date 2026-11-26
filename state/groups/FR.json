@@ -13759,7 +13759,18 @@
      "title": "تزوج طليقي من سكرتيرته وأنا أبدأ من جديد في زيورخ، لكن جملة واحدة في حفل زفافه تركته بلا كلام",
      "warnings": [
       "длина текста FB 714 слов (исходник 929, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 846,
+     "wp_media_id": 841,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-0000-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
     },
     "CS": {
      "pages": {},
@@ -13828,6 +13839,8 @@
      "pages": {},
      "title": "Fostul meu soț s-a căsătorit cu secretara lui când eu o luam de la capăt la Zürich, dar o singură replică la nunta lor l-a lăsat fără cuvinte",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 845,
      "wp_media_id": 841,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-0000-fr.jpg",
      "wp_site": {
@@ -13835,7 +13848,8 @@
       "key_secret": "WP_API_KEY",
       "url": "https://peakproductions.co",
       "wp_auth": "make_connector"
-     }
+     },
+     "wp_status": "future"
     },
     "RU": {
      "pages": {},
@@ -13850,6 +13864,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-27T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/914887728_1460119982915536_9145250848579022763_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=daEWeXD_iV4Q7kNvwHlQRaN&_nc_oc=Adr9WLi3eR87saN2D02W8Y9YLY1pEf3ERqB_TgUHLvMDoUvQwdljoN0jb2I1G3iAFMM&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=-cRMJ-vZxwpHse_0fv7BpQ&_nc_tpa=Q5bMBQIsOFSx71LRXsZ5nMaLyYwZ16O7ROC5jkRCEzYZKQNk3nj_kDnCb9FcuxUJQbqL98JQ0AWfPzjwWA&oh=00_AQQ0UoM7uo_3EAJAq7eLg8F-9D9No2Rt9xjZRU4W7SgHMw&oe=6B0E50FE",
@@ -13861,7 +13876,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-0000-fr.jpg"
    },
    "source_key": "post:100067526447776_1460948829499318",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14629,7 +14644,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1462030536057814": {
    "fingerprint": "5f382576744c4feeece8",
