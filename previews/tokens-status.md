@@ -1,6 +1,6 @@
 ## Доступ к страницам
 
-- **FR**
+- **FR+ES+RO+AR**
   - Au Cœur des Vies [FR] — autopost3
   - Le Fil de la Vie [FR] — autopost3
   - Destins Touchants [FR] — autopost3
@@ -9,7 +9,37 @@
   - Visages de la Vie [FR] — autopost2
   - Vie en Stories [FR] — autopost2
   - Une Histoire Qui Vous Touchera [FR] — autopost2
+  - Cœurs en Images [FR] — autopost4
+  - Vies en Regard [FR] — autopost3
+  - Au Fil des Vies [FR] — autopost4
+  - Instants du Cœur [FR] — autopost3
+  - Pages de Vie [FR] — autopost3
+  - Fragments de Vie [FR] — autopost4
+  - Récits du Quotidien [FR] — autopost4
   - Moments Français | Paris [FR] — autopost3
+  - Secretos del Destino [ES] — autopost4
+  - Lágrimas de la Vida [ES] — autopost4
+  - La vida tal como es [ES] — autopost4
+  - Mi planeta [ES] — autopost4
+  - La Verdad Sale a la Luz [ES] — autopost4
+  - El Nombre Prohibido [ES] — autopost3
+  - Cuando tú estás [ES] — autopost3
+  - Una vez [ES] — autopost3
+  - Me voy de nuevo. [ES] — autopost2
+  - Mi tarde en paz [ES] — autopost2
+  - Acontecimientos mundiales [ES] — autopost2
+  - Mundo maravilloso [ES] — autopost2
+  - Una vida interesante [ES] — autopost2
+  - Siempre serás dulce conmigo. [ES] — autopost2
+  - Yo estoy feliz. [ES] — autopost2
+  - En el cuento de hadas [ES] — autopost3
+  - Historias que Impactan [ES] — autopost3
+  - Miradas del Destino [ES] — autopost2
+  - La Vida en Historias [ES] — autopost3
+  - Povești care Ating Inima [RO] — autopost4
+  - Momente din Viață [RO] — autopost4
+  - لحظات الحياة [AR] — autopost4
+  - قصص من القلب [AR] — autopost4
 - **IT+PL+CS**
   - Quand Tout Bascule [IT] — autopost2
   - Vite in Primo Piano [IT] — autopost2
@@ -32,11 +62,19 @@
   - Emozioni Italiane [IT] — autopost2
   - Momenti di Vita #2 [IT] — autopost2
   - Storie del Cuore [IT] — autopost4
+  - Traccw di Vita [IT] — autopost3
+  - luna piena [IT] — autopost3
+  - La Verità Quotidiana [IT] — autopost4
+  - Sguardi sul Mondo [IT] — autopost2
+  - Momenti del Cuore [IT] — autopost4
+  - Oltre Ogni Momento [IT] — autopost3
   - Serca i Sekrety [PL] — autopost2
   - Historie z Życia [PL] — autopost2
   - Historie, które zostają w sercu [PL] — autopost2
   - Życie, które porusza [PL] — autopost2
   - Příběhy ze Srdce [CS] — autopost2
+  - Střípky Života [CS] — autopost4
+  - Jenom tohle [CS] — autopost4
 - **EN-1**
   - The Daily Report [EN] — autopost3
   - Human Life Stories [EN] — autopost3
@@ -51,6 +89,8 @@
   - Sweet Paws #1 [EN] — autopost3
   - Sweet Paws #2 [EN] — autopost3
   - Love This World [EN] — autopost3
+  - Fates Behind Closed Doors [EN] — autopost2
+  - Beautiful Babies [EN] — autopost2
   - Talent The Best [EN] — autopost3
   - Exciting stories [EN] — autopost3
   - True American Tales [EN] — autopost3
@@ -68,18 +108,34 @@
   - Baby Lovers [EN] — autopost3
   - Fine Baby [EN] — autopost3
   - Life Between Moments [EN] — autopost3
-- **NL+DE**
+  - When Love Turned Cold [EN] — autopost2
+  - The Lie That Broke Us [EN] — autopost2
+  - Stories That Stay [EN] — autopost4
+- **NL+DE+PT**
   - Het is interessant [NL] — autopost2
   - Mooie kinderen [NL] — autopost3
   - Levensmomenten Nederland [NL] — autopost2
   - Verhalen uit het Hart [NL] — autopost2
+  - Leven in Beeld [NL] — autopost4
+  - Verhalen van het Leven [NL] — autopost4
+  - Echte Levensverhalen [NL] — autopost4
+  - Stemmen van Vandaag [NL] — autopost2
   - Geschichten des Lebens [DE] — autopost2
   - Lebenswege [DE] — autopost2
   - Momente aus der Schweiz [DE] — autopost2
   - Geschichten aus Österreich [DE] — autopost2
   - Momente des Lebens [DE] — autopost2
   - Herzgeschichten Deutschland [DE] — autopost2
-- **RU+TR+PT**
+  - Geschichten des Alltags [DE] — autopost4
+  - Schweizer Herzgeschichten [DE] — autopost4
+  - Augenblicke des Herzens [DE] — autopost2
+  - Geschichten von Heute [DE] — autopost2
+  - Segredos que a Vida Guarda [PT] — autopost4
+  - Histórias que Ninguém Esquece [PT] — autopost2
+  - Vidas em História [PT] — autopost4
+  - Por Trás de Cada Sorriso [PT] — autopost3
+  - Vidas que Surpreendem [PT] — autopost3
+- **RU+TR**
   - Из глубины сердца [RU] — autopost4
   - Из глубины души [RU] — autopost4
   - Моменты жизни [RU] — autopost3
@@ -102,21 +158,13 @@
   - Тени Прошлого [RU] — autopost4
   - Жизнь как она есть [RU] — autopost4
   - Следы судьбы [RU] — autopost4
+  - Там, де говорить серце [RU] — autopost4
+  - Життя без прикрас [RU] — autopost4
   - Hayatın Anları [TR] — autopost3
   - Kalpten Hikayeler [TR] — autopost2
   - Hayatın Saklı Yüzü [TR] — autopost4
   - Kalpte Kalan Hikayeler [TR] — autopost4
-  - Segredos que a Vida Guarda [PT] — autopost4
-  - Histórias que Ninguém Esquece [PT] — autopost2
-  - Vidas em História [PT] — autopost4
-- **UK+ES+RO+AR**
-  - Там, де говорить серце [UK] — autopost4
-  - Життя без прикрас [UK] — autopost4
-  - Secretos del Destino [ES] — autopost4
-  - Lágrimas de la Vida [ES] — autopost4
-  - Povești care Ating Inima [RO] — autopost4
-  - Momente din Viață [RO] — autopost4
-  - لحظات الحياة [AR] — autopost4
-  - قصص من القلب [AR] — autopost4
+  - Yaşamdan Kareler [TR] — autopost3
+  - Herkesin Hikayesi [TR] — autopost4
 
-Итого: autopost3: 40 · autopost2: 35 · autopost4: 36
+Итого: autopost3: 55 · autopost2: 51 · autopost4: 54
