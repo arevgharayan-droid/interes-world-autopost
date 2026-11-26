@@ -15289,7 +15289,10 @@
      "generated": true,
      "pages": {},
      "title": "Als mein todkranker Sohn im Stadion auf der Riesenleinwand erschien, sagte der Sprecher: „Dreht euch um“ – und mein Mann wurde kreidebleich",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1268,
+     "wp_status": "publish"
     },
     "EN": {
      "pages": {},
@@ -15328,7 +15331,18 @@
      "generated": true,
      "pages": {},
      "title": "Levei meu filho de 10 anos, em estado terminal, a um estádio para realizar seu último sonho, mas o locutor revelou algo que deixou meu marido pálido",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 822,
+     "wp_media_id": 821,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1736-nl.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
     },
     "RO": {
      "pages": {},
@@ -15347,6 +15361,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-26T17:36:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/922022561_1682770706559677_3733363758659380560_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cdGiJ5icvHAQ7kNvwHf0-k8&_nc_oc=AdqW5heI-EYtsEw084_JcFddOeMZRqWn0UvHCpsJWNIx3j7F48oWPf2RqT4kJdSQY6U&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=j7RvAF-7k7-rkdLAne1ZsQ&_nc_tpa=Q5bMBQLR9GPpe-8n4mu4tynTnvg2m0mwcOwK0VBKexyuv5C0nM_RKCaE-H6Jbs7n90EvyO9RA08gRxvaPQ&oh=00_AQSp0GaPHJhLgIzf_3s1eetgIIrFyTpIj3ESSm1TzU00Fw&oe=6B0E1AFB",
@@ -15358,7 +15373,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1736-nl.jpg"
    },
    "source_key": "post:100044802900629_1682770806559667",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15775,7 +15790,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-26 17:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100044802900629_1682771949892886": {
    "fingerprint": "ca41e83d09124a1edc94",
