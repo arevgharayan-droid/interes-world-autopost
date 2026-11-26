@@ -15495,12 +15495,13 @@
       "1239848699214091": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128437621439695_1193662039996808",
        "error": null,
        "last_attempt": "2026-11-26T17:41:27+04:00",
        "mode": "immediate",
        "photo_id": "122128437597439695",
        "post_id": "1239848699214091_122128437621439695",
-       "status": "published"
+       "status": "done"
       },
       "1247269808471997": {
        "attempts": 1,
