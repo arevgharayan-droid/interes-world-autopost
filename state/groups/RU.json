@@ -24,6 +24,7 @@
   "16a40eb5e28e6cd1c606": "2026-11-19T22:01:08+00:00",
   "17291d408906d44b96db": "2026-11-14T11:40:46+00:00",
   "1955c9dccca6e5edee35": "2026-11-14T11:40:46+00:00",
+  "198d5489688a4873e4b6": "2026-11-26T19:37:06+00:00",
   "1a757a28ef17ad6333b8": "2026-11-16T23:52:12+00:00",
   "1aa0e91a6b666d6e0155": "2026-11-21T19:44:41+00:00",
   "1e7e0e4813411e51b562": "2026-11-25T19:59:45+00:00",
@@ -58,6 +59,7 @@
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
   "45c9cfce27f6d3029071": "2026-11-26T13:38:57+00:00",
   "46493e9155ece290d86b": "2026-11-19T10:26:47+00:00",
+  "46b220bb702d187cad08": "2026-11-26T19:37:06+00:00",
   "47efee54144eca0bf8cf": "2026-11-20T19:26:10+00:00",
   "48452786dc1b3a712360": "2026-11-25T19:59:45+00:00",
   "495041b7bf9b15be8fa3": "2026-11-19T17:35:44+00:00",
@@ -25444,7 +25446,79 @@
    }
   },
   "2026-11-27 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Свекровь приехала навестить внуков, не зная, что сын нас бросил, но стоило ей переступить порог и увидеть правду, как её лицо изменилось",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 843,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Altı aydır kayınvalidemden kocamın bizi terk ettiğini saklıyordum, ama evime adım atıp gerçeği görünce yüzü değişti ve bana itiraf ettiği şey her şeyi altüst etti",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 844,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/915630835_122132102990893096_2057096615743423298_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qGiNbBaw7RYQ7kNvwFcYbop&_nc_oc=Adq5-sioaxdBsU18Y8Zjcyc0wrqw7UJV-LWa9_2FTlXLQhkYJxG6pykCSu22PWB4aOY&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=iLiilFyWtYyhxd7YjFgy-g&_nc_tpa=Q5bMBQLdJyjlMp8PvjBVhiJfO1tYsbYFvfYyOc6GVuJLQVyqesbY8Krqsub_SpK57wEEF6_RHlqEklWJXw&oh=00_AQSXlCisIf2qTSoVNMiaF6y8NF5mtwdYL408y07gTn5YLA&oe=6B0E67B9",
@@ -25456,7 +25530,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-0000-ru.jpg"
    },
    "source_key": "post:61576792898556_122132114252893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -26442,7 +26516,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-27 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122132160368893096": {
    "fingerprint": "c45536d0b669f2a58634",
