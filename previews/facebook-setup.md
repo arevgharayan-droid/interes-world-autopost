@@ -1,7 +1,7 @@
 ## Подключение Facebook
 
-✅ Получены токены страниц: **139 из 139**
-Системные пользователи (FB_USER_TOKEN, FB_USER_TOKEN_2, FB_USER_TOKEN_3): видят страниц — 48, 48, 47
+✅ Получены токены страниц: **143 из 143**
+Системные пользователи (FB_USER_TOKEN, FB_USER_TOKEN_2, FB_USER_TOKEN_3): видят страниц — 49, 49, 49
 Срок действия токенов страниц: бессрочно
 Разрешения: pages_show_list, business_management, pages_read_engagement, pages_read_user_content, pages_manage_posts, pages_manage_engagement, public_profile
 
