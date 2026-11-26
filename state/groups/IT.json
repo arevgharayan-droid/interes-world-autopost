@@ -33,6 +33,7 @@
   "2305cc152c8bf5b805c5": "2026-11-22T19:49:03+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
   "24635a53ddd9eb319000": "2026-11-22T21:17:32+00:00",
+  "24d8fa150757c9a5c3f8": "2026-11-26T13:38:26+00:00",
   "2574bb167b0f1c84e051": "2026-11-22T22:13:01+00:00",
   "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
   "2aa7b211311ac724f32e": "2026-11-22T22:07:10+00:00",
@@ -50,6 +51,7 @@
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
   "459bbfad275aecbd52c3": "2026-11-21T14:12:51+00:00",
   "45d99698e588bacd7f5c": "2026-11-18T08:52:43+00:00",
+  "464c25251e7d15819f83": "2026-11-26T13:38:26+00:00",
   "499bb9b863a39969c565": "2026-11-17T20:38:41+00:00",
   "4d09f6c7134467d99fa5": "2026-11-16T23:51:59+00:00",
   "4e51be650afb415ceaed": "2026-11-22T21:17:32+00:00",
@@ -133,6 +135,7 @@
   "b78a117b3eb4ec577485": "2026-11-24T16:42:17+00:00",
   "ba5f05202837b2fb860d": "2026-11-14T11:39:45+00:00",
   "bafb37100cdb3ff9df9b": "2026-11-19T10:26:56+00:00",
+  "bcb72c92960be8d82023": "2026-11-26T13:38:26+00:00",
   "bd6eab36f82eb4d435fe": "2026-11-14T19:42:43+00:00",
   "c048f4c9b8f48906fe16": "2026-11-16T16:01:05+00:00",
   "c349efe2b40ef4a668cd": "2026-11-18T15:24:10+00:00",
@@ -24490,7 +24493,90 @@
   },
   "2026-11-26 17:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Snacha mi v obchodě oznámila, že na Vánoce nejsem pozvaná. Řekla jsem jen „Dobře“ a druhý den v 7:15 mi syn bušil na dveře",
+     "warnings": [
+      "длина текста FB 466 слов (исходник 611, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1265,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Per Natale non sei invitata, Joanne»: ho risposto «Va bene» e il giorno dopo mio figlio bussava alla mia porta alle 7:15",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1263,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Synowa powiedziała, że nie mam przyjść na święta. Wtedy pojechałam do ośrodka, w którym pracował mój mąż, a następnego ranka syn stał pod moimi drzwiami",
+     "warnings": [
+      "длина текста FB 448 слов (исходник 611, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1264,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T17:36:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/925809405_122156499705170576_6086375178246969540_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=debKjSgOqWEQ7kNvwHUXZ6r&_nc_oc=AdqndKkPn-fPD7zi3zY0CuhdlAq_Fhv-HNwCif1R-iSL6UV00Ih7U2yNTg3XIhD3d9g&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=0IQzJumj8DA0lW7XOCj5_Q&_nc_tpa=Q5bMBQJBDoZx160FUVFK-fp5q5eCdvXyuL1M5NqTSwxbhkYSHGh1x4G1AHMuSbl770ltSfmsYgFjUvxz5w&oh=00_AQR4fkZ5BDnbl3h0wTGa29IOdRl1tcpoBT0dlfYLFY4jbQ&oe=6B0DFD97",
@@ -24502,7 +24588,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1736-it.jpg"
    },
    "source_key": "post:61585117295331_122156499873170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -25238,7 +25324,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-26 17:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122156531319170576": {
    "fingerprint": "33dcd73900252a4b127e",
