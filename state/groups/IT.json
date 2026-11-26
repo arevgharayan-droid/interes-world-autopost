@@ -47,6 +47,7 @@
   "38bfd746765ee4a3638e": "2026-11-22T22:13:01+00:00",
   "3b79121acdb58cc4cc71": "2026-11-21T19:44:42+00:00",
   "3b873b5b67b7ecedde19": "2026-11-25T18:01:07+00:00",
+  "3c236cf56d9e0d0649fe": "2026-11-26T22:03:08+00:00",
   "3cd0bbe178487279f165": "2026-11-20T14:41:44+00:00",
   "3f62142a218418288411": "2026-11-22T16:32:05+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
@@ -115,6 +116,7 @@
   "97fa0cd86dd20e2a2546": "2026-11-17T12:28:51+00:00",
   "98dd9e98fb5a18ee8918": "2026-11-19T22:00:47+00:00",
   "99414842390abfdc6d9d": "2026-11-21T19:44:42+00:00",
+  "9aed4c8140f2df0ceb27": "2026-11-26T22:03:08+00:00",
   "9c394bc05e808391b2ce": "2026-11-17T20:38:41+00:00",
   "9cbea19285daf02db497": "2026-11-15T10:15:15+00:00",
   "9de178bf596b4ce2bdc8": "2026-11-16T19:28:24+00:00",
@@ -145,6 +147,7 @@
   "c048f4c9b8f48906fe16": "2026-11-16T16:01:05+00:00",
   "c349efe2b40ef4a668cd": "2026-11-18T15:24:10+00:00",
   "c73763bb1c4080ccec74": "2026-11-20T22:45:58+00:00",
+  "c78cd36259e788a46a33": "2026-11-26T22:03:08+00:00",
   "c8020142d83ca272273c": "2026-11-16T00:18:19+00:00",
   "ce41fb776b521b73c710": "2026-11-23T13:58:44+00:00",
   "ceb96049de829a0c15e0": "2026-11-25T14:02:30+00:00",
@@ -25765,7 +25768,90 @@
    }
   },
   "2026-11-27 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "U maminčina hrobu plakal cizí chlapec a říkal jí „babičko“. Když vytáhl fotku, zjistil jsem, že na ní je žena, kterou jsem osm let marně hledal",
+     "warnings": [
+      "длина текста FB 752 слов (исходник 1017, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1322,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sulla tomba di mia madre c'era un bambino che la chiamava \"nonna\": quando ho visto la foto che aveva in tasca, ho capito che mi avevano mentito per otto anni",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1320,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na grobie matki znalazłem chłopca, który mówił do niej „babciu\". Zdjęcie w jego kieszeni zmieniło całe moje życie",
+     "warnings": [
+      "длина текста FB 702 слов (исходник 1017, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1321,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/932457951_1462030379391163_4657237221739818512_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0eXE-XPkY70Q7kNvwHW7HCP&_nc_oc=AdpbZzFBMaykgFp4vqkyqNRy2KMBNISxC3R0WG_8wFNR5vx4OHNVlcuPOxkHWETDREA&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=elgJ7SYe8hKQ8hZbinc2Zw&_nc_tpa=Q5bMBQLpV3B69_s6iJsdB7VKSaReo58gvTHuJIEgzdGdXv7k00DXW3ibcNNIUULU-X98cH1XR2OuFqM_Lw&oh=00_AQVB4IgkefeB_AS8k6spSB7Qev4A_ZBWlRRZIPycomeNgA&oe=6B0E74FE",
@@ -25777,7 +25863,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-1200-it.jpg"
    },
    "source_key": "post:100067526447776_1462030536057814",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -26286,7 +26372,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1462679025992965": {
    "fingerprint": "9789d0e1dcc44974dd55",

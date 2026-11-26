@@ -14746,6 +14746,12 @@
        "photo_id": "122338605176241259",
        "post_id": "233545296514172_122338605206241259",
        "status": "scheduled"
+      },
+      "530022363528890": {
+       "attempts": 1,
+       "last_attempt": "2026-11-27T02:03:10+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "I Flew Across the Country to Surprise My Husband for His Birthday, but His \"Present\" Was the Woman Who Once Ruined My Wedding Night",
