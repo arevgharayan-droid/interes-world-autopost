@@ -15090,6 +15090,28 @@
     },
     "DE": {
      "backend": "subscription",
+     "dropped_pages": {
+      "363312640206172": {
+       "attempts": 1,
+       "dropped_at": "2026-11-26T14:20:46+04:00",
+       "error": null,
+       "last_attempt": "2026-11-26T13:54:53+04:00",
+       "mode": "schedule",
+       "photo_id": "122204440220461850",
+       "post_id": "363312640206172_122204440250461850",
+       "status": "scheduled"
+      },
+      "444776585382502": {
+       "attempts": 1,
+       "dropped_at": "2026-11-26T14:20:52+04:00",
+       "error": null,
+       "last_attempt": "2026-11-26T13:55:27+04:00",
+       "mode": "schedule",
+       "photo_id": "122229865706543856",
+       "post_id": "444776585382502_122229865736543856",
+       "status": "scheduled"
+      }
+     },
      "gen_error": null,
      "generated": true,
      "pages": {
@@ -15154,24 +15176,6 @@
        "mode": "schedule",
        "photo_id": "122135422857436382",
        "post_id": "1268633826332790_122135422887436382",
-       "status": "scheduled"
-      },
-      "363312640206172": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-26T13:54:53+04:00",
-       "mode": "schedule",
-       "photo_id": "122204440220461850",
-       "post_id": "363312640206172_122204440250461850",
-       "status": "scheduled"
-      },
-      "444776585382502": {
-       "attempts": 1,
-       "error": null,
-       "last_attempt": "2026-11-26T13:55:27+04:00",
-       "mode": "schedule",
-       "photo_id": "122229865706543856",
-       "post_id": "444776585382502_122229865736543856",
        "status": "scheduled"
       }
      },
