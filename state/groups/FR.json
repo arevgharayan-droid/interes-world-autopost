@@ -12504,12 +12504,13 @@
       "1091526457386175": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122126568633298778_1120658520970733",
        "error": null,
        "last_attempt": "2026-11-26T13:59:26+04:00",
        "mode": "schedule",
        "photo_id": "122126568603298778",
        "post_id": "1091526457386175_122126568633298778",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi padre se burló de mi esposo mecánico por usar guantes en la cena, pero cuando se quitó uno, papá reconoció un anillo de oro y palideció",
