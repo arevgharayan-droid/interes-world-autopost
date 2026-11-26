@@ -20,6 +20,11 @@ languages:
       - {page_id: "1041497042386258", name: "Une Histoire Qui Vous Touchera", profile_id: "61572142269665", added: "2026-11-13"}
       - {page_id: "1280413955154689", name: "Cœurs en Images", profile_id: "61592771954419", added: "2026-11-16"}
       - {page_id: "1209115882290937", name: "Vies en Regard", added: "2026-11-26"}  # портфолио Em Virals, партнёр Interes World; autopost3
+      - {page_id: "1294138050440994", name: "Au Fil des Vies", profile_id: "61593244434833", added: "2026-11-26"}  # через Сюзанну в Interes World; autopost4
+      - {page_id: "1176150818923548", name: "Instants du Cœur", profile_id: "61592255909913", added: "2026-11-26"}  # через Сюзанну в Interes World; autopost3
+      - {page_id: "1273732202484347", name: "Pages de Vie", profile_id: "61592246580233", added: "2026-11-26"}  # через Сюзанну в Interes World; autopost3
+      - {page_id: "1333347143189157", name: "Fragments de Vie", profile_id: "61591866077716", added: "2026-11-26"}  # через Сюзанну в Interes World; autopost4
+      - {page_id: "1177965172074691", name: "Récits du Quotidien", profile_id: "61591972873150", added: "2026-11-26"}  # через Сюзанну в Interes World; autopost4
   IT:
     name: Italian
     make_modules: "claude 522, wordpress 20"
@@ -49,6 +54,9 @@ languages:
       - {page_id: "1152171097987054", name: "Traccw di Vita", added: "2026-11-26"}  # портфолио Em Virals, партнёр Interes World; autopost3
       - {page_id: "1212646305268160", name: "luna piena", profile_id: "61592615977599", added: "2026-11-26"}  # через Наиру в Interes World; autopost3
       - {page_id: "1163062863564866", name: "La Verità Quotidiana", profile_id: "61592504096326", added: "2026-11-26"}  # через Arev в Interes World; autopost4
+      - {page_id: "1266426573217032", name: "Sguardi sul Mondo", profile_id: "61592891093894", added: "2026-11-26"}  # через Сюзанну в Interes World; autopost2
+      - {page_id: "1229344506930563", name: "Momenti del Cuore", profile_id: "61592903678547", added: "2026-11-26"}  # через Сюзанну в Interes World; autopost4
+      - {page_id: "1304525059401414", name: "Oltre Ogni Momento", profile_id: "61592126316973", added: "2026-11-26"}  # через Сюзанну в Interes World; autopost3
       # Cuori in Rovina (1199303859939709, профиль 61592020480874) — добавить после 03.12.2026 03:36 (ограничение Meta)
   EN:
     name: English
@@ -87,6 +95,9 @@ languages:
       - {page_id: "353293117873308", name: "Talent The Best", profile_id: "61562487617993", added: "2026-11-13"}
       - {page_id: "708817825659143", name: "Exciting stories", profile_id: "61580326080211", added: "2026-11-13"}
       - {page_id: "1210639158790064", name: "True American Tales", profile_id: "61590392286522", added: "2026-11-13"}
+      - {page_id: "1216797458177204", name: "When Love Turned Cold", added: "2026-11-26", group: EN2}  # через Сюзанну в Interes World; autopost2
+      - {page_id: "1124356437436072", name: "The Lie That Broke Us", profile_id: "61591153302393", added: "2026-11-26", group: EN2}  # через Сюзанну в Interes World; autopost2
+      - {page_id: "1262322626965582", name: "Stories That Stay", profile_id: "61593302032343", added: "2026-11-26", group: EN2}  # через Сюзанну в Interes World; autopost4
   NL:
     name: Dutch
     make_modules: "claude 542, wordpress 40"
@@ -98,6 +109,7 @@ languages:
       - {page_id: "1239848699214091", name: "Leven in Beeld", profile_id: "61593190855543", added: "2026-11-16"}
       - {page_id: "1205543595981082", name: "Verhalen van het Leven", profile_id: "61592927722599", added: "2026-11-16"}
       - {page_id: "1180417388497186", name: "Echte Levensverhalen", profile_id: "61592743085393", added: "2026-11-16"}
+      - {page_id: "1247269808471997", name: "Stemmen van Vandaag", profile_id: "61592914086402", added: "2026-11-26"}  # через Сюзанну в Interes World; autopost2
   RU:
     name: Russian
     pages:   # добавлены 25.10.2026
@@ -147,6 +159,8 @@ languages:
       - {page_id: "1089186904280406", name: "Herzgeschichten Deutschland", profile_id: "61589640981859", added: "2026-11-13", group: NL}
       - {page_id: "1174913505713830", name: "Geschichten des Alltags", added: "2026-11-26", group: NL}  # портфолио Em Virals, партнёр Interes World; autopost4
       - {page_id: "1028186380387490", name: "Schweizer Herzgeschichten", profile_id: "61589639964107", added: "2026-11-26", group: NL}  # через Arev в Interes World; autopost4
+      - {page_id: "1343243972194882", name: "Augenblicke des Herzens", profile_id: "61592820460652", added: "2026-11-26", group: NL}  # через Сюзанну в Interes World; autopost2
+      - {page_id: "1284638831394976", name: "Geschichten von Heute", profile_id: "61592913786457", added: "2026-11-26", group: NL}  # через Сюзанну в Interes World; autopost2
 
   PT:
     name: Portuguese
@@ -155,6 +169,8 @@ languages:
       - {page_id: "1448441201677530", name: "Segredos que a Vida Guarda", profile_id: "61595167986420", added: "2026-11-09", group: NL}  # 26.11.2026: из RU+TR+PT в NL+DE+PT
       - {page_id: "1338630212673029", name: "Histórias que Ninguém Esquece", profile_id: "61594155721036", added: "2026-11-09", group: NL}  # 26.11.2026: из RU+TR+PT в NL+DE+PT
       - {page_id: "1138572272664180", name: "Vidas em História", profile_id: "61589189490980", added: "2026-11-16", group: NL}  # 26.11.2026: из RU+TR+PT в NL+DE+PT
+      - {page_id: "1384241228111675", name: "Por Trás de Cada Sorriso", profile_id: "61594946896307", added: "2026-11-26", group: NL}  # через Сюзанну в Interes World; autopost3
+      - {page_id: "1326260617244165", name: "Vidas que Surpreendem", profile_id: "61594945545842", added: "2026-11-26", group: NL}  # через Сюзанну в Interes World; autopost3
   PL:
     name: Polish
     # группа IT (одна история на IT + PL + CS) — с 14.11.2026
@@ -200,6 +216,7 @@ languages:
       - {page_id: "1331724433353003", name: "En el cuento de hadas", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost3
       - {page_id: "1277107925482426", name: "Historias que Impactan", profile_id: "61592610634563", added: "2026-11-26", group: FR}  # через Arev в Interes World; autopost3
       - {page_id: "1183000514902787", name: "Miradas del Destino", profile_id: "61592471333929", added: "2026-11-26", group: FR}  # через Arev в Interes World; autopost2
+      - {page_id: "1140011449205671", name: "La Vida en Historias", profile_id: "61592446491820", added: "2026-11-26", group: FR}  # через Сюзанну в Interes World; autopost3
   RO:
     name: Romanian
     pages:
