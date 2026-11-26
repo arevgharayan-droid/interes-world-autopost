@@ -102,6 +102,7 @@
   "7e7d87c648bf2747328c": "2026-11-22T16:32:00+00:00",
   "7f161e8140c5e01c01eb": "2026-11-18T18:30:01+00:00",
   "80517b7021da26730a52": "2026-11-18T15:24:43+00:00",
+  "833add060cd1bd5d6721": "2026-11-26T22:03:22+00:00",
   "872c066fea909c2bfe8d": "2026-11-13T14:37:39+00:00",
   "89cadb48fbfb54415a59": "2026-11-15T14:15:11+00:00",
   "8d7353d6c83382a78be4": "2026-11-25T18:00:40+00:00",
@@ -145,6 +146,7 @@
   "c10c30cd53689834d2f0": "2026-11-21T17:03:58+00:00",
   "c24d2247a48deeca4338": "2026-11-22T16:32:00+00:00",
   "c4a184a2f318ec90e101": "2026-11-19T08:31:53+00:00",
+  "c4bf2a7e80dcf4ab072a": "2026-11-26T22:03:22+00:00",
   "c5807d8e5cb187f95ff1": "2026-11-22T22:08:29+00:00",
   "cd020394bd98ae198dbd": "2026-11-22T14:04:32+00:00",
   "ce9b469d5e589f4050b1": "2026-11-22T19:48:34+00:00",
@@ -25760,7 +25762,81 @@
    }
   },
   "2026-11-27 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Перед пересадкой костного мозга шестилетняя дочь попросила о последнем желании, а номер на обороте её рисунка заставил меня упасть на колени",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 862,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Kemik iliği nakline girmeden önce altı yaşındaki kızım son bir dilek istedi, babasını çağırmamı söyledi ve verdiği kâğıdın arkasındaki numarayı çevirdiğimde dizlerimin bağı çözüldü",
+     "warnings": [
+      "часть 3: 411 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 863,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/924566381_1462992569294944_2140278322937713960_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=C_Z9kW8LwRMQ7kNvwHMZl_4&_nc_oc=Adq5Y5_XN6ltO572Per59w90la_DeYvpap7aALJ2HDRBi_3BIgAcqSKi7gFmfQ7HdcU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=707dzlvLEID-AqxDi-Ak7w&_nc_tpa=Q5bMBQL4_IQpA8CFW3MXTazUmDaCzPBFzmukL5tFTLyFZzlzhnclrageMWIiUh2jibzFLsT0e5FywDPqKQ&oh=00_AQVp8DDORpoT93bj0In59LkFaop9jC6a5O9LYlfI864A3Q&oe=6B0E7D1E",
@@ -25772,7 +25848,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-1200-ru.jpg"
    },
    "source_key": "post:100067526447776_1462992699294931",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -26563,7 +26639,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100069122846749_1464103662570381": {
    "fingerprint": "5e043c7c07a396d6110a",
