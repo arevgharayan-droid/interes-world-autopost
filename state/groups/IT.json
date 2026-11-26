@@ -24525,6 +24525,12 @@
        "post_id": "1068567606345452_122132124141306132",
        "status": "scheduled"
       },
+      "1078100405390763": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T14:00:57+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      },
       "1079964265201139": {
        "attempts": 1,
        "error": null,
