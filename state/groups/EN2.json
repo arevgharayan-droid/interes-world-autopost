@@ -56,6 +56,7 @@
   "e94ee160cd92603444dc": "2026-11-13T14:37:33+00:00",
   "ec8a996001a5f582c700": "2026-11-16T00:21:16+00:00",
   "ecd509b2d2a0875c3b1a": "2026-11-22T21:41:36+00:00",
+  "f0de5defc38cddaebcd9": "2026-11-26T22:02:50+00:00",
   "f32f1a1f1f7181be17a2": "2026-11-25T22:45:46+00:00",
   "f855d853b2033f80317b": "2026-11-16T23:51:16+00:00"
  },
@@ -14717,7 +14718,72 @@
    }
   },
   "2026-11-27 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Flew Across the Country to Surprise My Husband for His Birthday, but His \"Present\" Was the Woman Who Once Ruined My Wedding Night",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1317,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/925846132_1461526222774912_4420212467170073786_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YXBSiraVsRsQ7kNvwEjIqI3&_nc_oc=Adr21YhcwcVeTmuygxSgyBJBYsvfKkMHjNQPJnAoavi3LfnyLh-0p79uxLhjIttPGv8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=JTPF9ZQi7w-SOTs0Iy8HJw&_nc_tpa=Q5bMBQKlgn0-9xSIT6az5nnKjlmqkQHETvVKgekOuFmefHOe_FClUw6jMNqx3M7JIgGNCxtlZMtoYerv2Q&oh=00_AQUnjT30dt_QXhyQD_00A380bsycUJSQTVonNsvyw-gQUQ&oe=6B0E888F",
@@ -14729,7 +14795,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-1200-en2.jpg"
    },
    "source_key": "post:100067526447776_1462839645976903",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15243,7 +15309,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100070118924538_1411872534493364": {
    "fingerprint": "31280654571f034aabd3",
