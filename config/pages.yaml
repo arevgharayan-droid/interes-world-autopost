@@ -180,6 +180,17 @@ languages:
     pages:
       - {page_id: "1065418833325273", name: "Secretos del Destino", profile_id: "61589209137857", added: "2026-11-16", group: FR}  # 26.11.2026: из Mix в FR+ES+RO+AR
       - {page_id: "1091526457386175", name: "Lágrimas de la Vida", profile_id: "61588963358918", added: "2026-11-16", group: FR}  # 26.11.2026: из Mix в FR+ES+RO+AR
+      - {page_id: "1221370521061169", name: "La vida tal como es", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost4
+      - {page_id: "104192002184660", name: "Mi planeta", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost4
+      - {page_id: "1274568742402473", name: "La Verdad Sale a la Luz", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost4
+      - {page_id: "1285042228018768", name: "El Nombre Prohibido", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost3
+      - {page_id: "1167098496495843", name: "Cuando tú estás", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost3
+      - {page_id: "1169531609587518", name: "Una vez", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost3
+      - {page_id: "1234716479729330", name: "Me voy de nuevo.", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost2
+      - {page_id: "1180769448457946", name: "Mi tarde en paz", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost2
+      - {page_id: "116178644305635", name: "Acontecimientos mundiales", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost2
+      - {page_id: "1236104599583009", name: "Mundo maravilloso", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost2
+      - {page_id: "1189173560952218", name: "Una vida interesante", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost2
   RO:
     name: Romanian
     pages:
