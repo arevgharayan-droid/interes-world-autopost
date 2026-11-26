@@ -1477,7 +1477,7 @@
   "1180583925128715_122124611775305562": "2026-11-26T08:48:50+00:00",
   "1180583925128715_122124653943305562": "2026-11-26T10:48:02+00:00",
   "1205654249300186_122147705331384851": "2026-11-26T08:49:01+00:00",
-  "1205654249300186_122147783187384851": "2026-11-26T10:02:54+00:00",
+  "1205654249300186_122147783187384851": "2026-11-26T10:48:13+00:00",
   "122103720236556634": "2026-11-16T17:08:26+00:00",
   "122103723602556634": "2026-11-16T19:38:12+00:00",
   "122103724424556634": "2026-11-16T20:36:27+00:00",
@@ -24799,21 +24799,25 @@
       },
       "1180583925128715": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124653943305562_4581921038696757",
        "error": null,
        "last_attempt": "2026-11-26T14:02:39+04:00",
        "mode": "schedule",
        "photo_id": "122124653907305562",
        "post_id": "1180583925128715_122124653943305562",
-       "status": "published"
+       "status": "done"
       },
       "1205654249300186": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122147783187384851_3498403603665429",
        "error": null,
        "last_attempt": "2026-11-26T14:02:50+04:00",
        "mode": "schedule",
        "photo_id": "122147783157384851",
        "post_id": "1205654249300186_122147783187384851",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Kocamı yabancı bir toprağa gömüp döndüm, ailem beni havalimanından almaya gelmedi ama akşam haberlerini izleyince hepsinin elinden telefon düştü",
@@ -24842,7 +24846,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1430-ru.jpg"
    },
    "source_key": "post:61576792898556_122132160368893096",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
