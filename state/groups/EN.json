@@ -13,6 +13,7 @@
   "2013fe48343be6df642c": "2026-11-21T14:12:53+00:00",
   "27418007e468ed693307": "2026-11-18T22:36:17+00:00",
   "2a0cbf93c2fbaca9f063": "2026-11-22T21:39:52+00:00",
+  "2a8601ebfdafb76ab3e8": "2026-11-26T19:36:39+00:00",
   "2cafe86e0d53a56f3a9e": "2026-11-18T15:23:44+00:00",
   "374a6d32f4a0cab0862b": "2026-11-19T17:17:21+00:00",
   "3798fd4c18a181248af5": "2026-11-12T20:02:21+00:00",
@@ -17216,7 +17217,72 @@
    }
   },
   "2026-11-27 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "He Held Another Woman at Our Engagement Toast While 400 Guests Laughed, So I Took Off My $90,000 Ring and Called My Lawyer",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1296,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/928142706_1569633111854367_8100209719872554076_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7m-c50UjbpsQ7kNvwGlxCEf&_nc_oc=Adr5-eDtHeeSHKXlaazHdzVb96oF5uFoBtHJNvf4IH2VDdI6Rwj8E3aiW-56hlTI3cM&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=y7CI8Zgc_2555d5RUnMmag&_nc_tpa=Q5bMBQKCi5DorZFMLo6CS6JLG3xsrgAvKpNVJJWTKb6HQCH1xm3rZIyPfmldIKJSKSj0mPJTDnYnzydevw&oh=00_AQQCCpbIp7UpieditXNhI_dzRFSYWi6JO4EWi2_MU0ZSQQ&oe=6B0E4C1D",
@@ -17228,7 +17294,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-0000-en.jpg"
    },
    "source_key": "post:100064230806326_1569633998520945",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -17721,7 +17787,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-27 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1570267891790889": {
    "fingerprint": "6f5559f437d32929f412",
