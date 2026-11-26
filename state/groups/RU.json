@@ -25776,6 +25776,10 @@
      "gen_error": null,
      "generated": true,
      "pages": {
+      "1083701291497481": {
+       "attempts": 0,
+       "status": "new"
+      },
       "1129620776897151": {
        "attempts": 1,
        "error": null,
@@ -25785,6 +25789,10 @@
        "post_id": "1129620776897151_122128922559311884",
        "status": "scheduled"
       },
+      "1157031800834413": {
+       "attempts": 0,
+       "status": "new"
+      },
       "1164575726728296": {
        "attempts": 1,
        "error": null,
@@ -25793,6 +25801,14 @@
        "photo_id": "122128375305307134",
        "post_id": "1164575726728296_122128375335307134",
        "status": "scheduled"
+      },
+      "1180583925128715": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1205654249300186": {
+       "attempts": 0,
+       "status": "new"
       }
      },
      "title": "Altı aydır kayınvalidemden kocamın bizi terk ettiğini saklıyordum, ama evime adım atıp gerçeği görünce yüzü değişti ve bana itiraf ettiği şey her şeyi altüst etti",
@@ -25818,7 +25834,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-0000-ru.jpg"
    },
    "source_key": "post:61576792898556_122132114252893096",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",

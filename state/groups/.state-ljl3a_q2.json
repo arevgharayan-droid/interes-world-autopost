@@ -24288,4 +24288,2458 @@
        "mode": "schedule",
        "photo_id": "122132266725401125",
        "post_id": "1152171097987054_122132266755401125",
-       
+       "status": "done"
+      },
+      "1159996950522974": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123583585318395_1900325981149096",
+       "error": null,
+       "last_attempt": "2026-11-26T14:00:17+04:00",
+       "mode": "schedule",
+       "photo_id": "122123583555318395",
+       "post_id": "1159996950522974_122123583585318395",
+       "status": "done"
+      },
+      "1160223747182678": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138891205400586_2242397253344122",
+       "error": null,
+       "last_attempt": "2026-11-26T13:51:44+04:00",
+       "mode": "schedule",
+       "photo_id": "122138891169400586",
+       "post_id": "1160223747182678_122138891205400586",
+       "status": "done"
+      },
+      "1160240797163045": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129915265300955_1124649280207622",
+       "error": null,
+       "last_attempt": "2026-11-26T13:56:26+04:00",
+       "mode": "schedule",
+       "photo_id": "122129915235300955",
+       "post_id": "1160240797163045_122129915265300955",
+       "status": "done"
+      },
+      "1174674892385169": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127051459301482_2042832763071942",
+       "error": null,
+       "last_attempt": "2026-11-26T14:01:09+04:00",
+       "mode": "schedule",
+       "photo_id": "122127051429301482",
+       "post_id": "1174674892385169_122127051459301482",
+       "status": "done"
+      },
+      "1191480207389219": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127119979405175_1161107086570593",
+       "error": null,
+       "last_attempt": "2026-11-26T13:54:42+04:00",
+       "mode": "schedule",
+       "photo_id": "122127119949405175",
+       "post_id": "1191480207389219_122127119979405175",
+       "status": "done"
+      },
+      "997772916762884": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113628936437662_1490463709702301",
+       "error": null,
+       "last_attempt": "2026-11-26T13:52:19+04:00",
+       "mode": "schedule",
+       "photo_id": "122113628906437662",
+       "post_id": "997772916762884_122113628936437662",
+       "status": "done"
+      }
+     },
+     "title": "Nessuno è venuto all'operazione di mio figlio di 7 anni. Tre giorni dopo mia madre ha chiesto 5.000 dollari per l'abito di mia sorella, e io le ho mandato 50 centesimi",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1244,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1079800528556354": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127237387304793_1527377819285890",
+       "error": null,
+       "last_attempt": "2026-11-26T14:02:04+04:00",
+       "mode": "schedule",
+       "photo_id": "122127237357304793",
+       "post_id": "1079800528556354_122127237387304793",
+       "status": "done"
+      },
+      "1083785318156771": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114627714359745_1713668676759740",
+       "error": null,
+       "last_attempt": "2026-11-26T14:01:31+04:00",
+       "mode": "schedule",
+       "photo_id": "122114627684359745",
+       "post_id": "1083785318156771_122114627714359745",
+       "status": "done"
+      },
+      "1089456087587677": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123598165302807_1629706262527908",
+       "error": null,
+       "last_attempt": "2026-11-26T14:01:42+04:00",
+       "mode": "schedule",
+       "photo_id": "122123598135302807",
+       "post_id": "1089456087587677_122123598165302807",
+       "status": "done"
+      },
+      "1107966229066828": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142231591313481_935545029642728",
+       "error": null,
+       "last_attempt": "2026-11-26T14:01:54+04:00",
+       "mode": "schedule",
+       "photo_id": "122142231555313481",
+       "post_id": "1107966229066828_122142231591313481",
+       "status": "done"
+      }
+     },
+     "title": "Nikt nie przyszedł na operację mojego syna, a trzy dni później mama zażądała 5000 dolarów na suknię ślubną siostry",
+     "warnings": [
+      "длина текста FB 622 слов (исходник 747, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1245,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-26T14:30:00+04:00",
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/923492738_122156616159170576_2821045176017712588_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fdtV_EKSNTcQ7kNvwFUm2Rp&_nc_oc=AdrWWYLkUqBkl8VYeFo5IU80G5vCUoMeYsc9BkjkkWBCnLhFSmU5_mUgYwhoZ58ZMH0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=vdzQT2koul45T4iECCCc7w&_nc_tpa=Q5bMBQLOv9wvTD3YpeUByOXRoAvH8RDUlKxOw64Uw6jhTSTngs3hJITUa4BUKqcNbwbfF3wjCIAs-9mL2Q&oh=00_AQQKrD3UUrd52J_JBKZemEEBnygs224fHkZERuUrDsqTKQ&oe=6B0DEBF8",
+    "link": "https://www.facebook.com/story.php?story_fbid=122156616231170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "No one came to my son's surgery. Three days later, my mom texted, \"Send 5,000 dollars today for your sister's wedding dress, or I'll empty the account before Caleb leaves ICU.\" I set my cup down, sent her 50 cents with \"Buy a veil,\" and froze their access - then the bank manager called.\nThe morning Caleb went into surgery, the pediatric wing smelled like sanitizer, burnt coffee, and fear.\nHe was seven, lying beneath a white hospital blanket with his dinosaur blanket tucked under his chin. Monitor wires crossed his small chest, and a nurse had written his name on the whiteboard with a green heart beside it—as though a marker heart could make any of this easier.\nI had told my mother, Patricia, three weeks earlier. I sent the hospital address, floor number, surgeon's name, surgery time, parking instructions, and a photo of Caleb hugging his stuffed triceratops.\nMy sister Vanessa replied with a heart.\nPatricia wrote, \"We'll see.\"\nAt 5:58 a.m., Caleb squeezed my hand and looked toward the automatic doors.\n\"Is Grandma lost?\"\n\"She's probably on her way, buddy,\" I said.\nIt was the first lie I told that day.\nAt 6:22, they rolled him toward the operating room. His dinosaur blanket slipped, and I tucked it back around his shoulders.\n\"Tell Aunt Vanessa I wasn't scared,\" he whispered.\nThat sentence stayed under my ribs for the next six hours.\nNo one came. No call. No prayer. Not even one of the fake excuses my family usually offered before posting online about how blood was everything.\nThe surgeon came out shortly after noon and said the operation had gone well, but Caleb was fragile and needed close observation.\nSo I did not exhale.\nFor three days, I slept in a vinyl chair beside his ICU bed. I learned the rhythm of every monitor and which nurse hummed while changing IV bags. I learned how to cry into a paper towel without making a sound because Caleb opened his eyes whenever my breathing changed.\nAt 2:14 p.m. on the third day, my phone buzzed while he slept.\nMom: Need 5,000 dollars for your sister's wedding dress. Send today. Vanessa found the one.\nThere was no question about Caleb. No apology for missing his surgery. No attempt to pretend they had meant to come.\nJust the dress.\nThen another message appeared.\nMom: Send 5,000 dollars today, or I'll empty the account before Caleb leaves ICU.\nAfter my father died, Patricia claimed grief made her panic, so she needed emergency access to one of my accounts. Vanessa said she only needed my card for temporary expenses.\nTemporary became phone bills. Phone bills became rent shortages. Then came insurance payments, bridal deposits, salon appointments, and lunches I was never invited to attend.\nThey called it family support because I was the one paying. Whenever I asked for anything back, they called me dramatic.\nI opened my banking app with one hand while the other rested on Caleb's dinosaur blanket.\nI sent Patricia 50 cents.\nMemo: Buy a veil.\nThen I stepped into the ICU hallway and called the bank. I froze every card, removed every authorized user, shut down every linked transfer, changed the password, and asked the fraud department to review the charges I had ignored for years because I kept confusing mercy with surrender.\nThe woman on the fraud line asked twice whether I wanted a complete access audit.\n\"Yes,\" I said.\nAt 8:11 the next morning, the branch manager called. His voice had the careful tone people use when bad news is already sitting in front of them.\n\"Mrs. Whitaker, your mother came into the branch this morning with your sister. They were extremely upset.\"\nMy fingers tightened around my paper coffee cup until the lid bent.\n\"What did they do?\"\n\"They tried to withdraw everything.\"\nThrough the ICU window, Caleb's small chest rose and fell beneath the hospital blanket.\n\"Everything from which account?\" I asked.\nThe manager paused.\nWhen he finally answered, his voice was so low I almost missed it.\n\"Not just yours.\"\nType CASH and I'll continue.\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a 'CASH' comment below and give us a \"Like \" to get full story )",
+    "wp_media_id": 1237,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1430-it.jpg"
+   },
+   "source_key": "post:61585117295331_122156616231170576",
+   "status": "done",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
+  },
+  "2026-11-26 15:00": {
+   "langs": {},
+   "slot_iso": "2026-11-26T15:00:00+04:00",
+   "status": "missed"
+  },
+  "2026-11-26 17:36": {
+   "adhoc": true,
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1106793902521611": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117053623328231_2793147077784873",
+       "error": null,
+       "last_attempt": "2026-11-26T17:56:04+04:00",
+       "mode": "immediate",
+       "photo_id": "122117053599328231",
+       "post_id": "1106793902521611_122117053623328231",
+       "status": "done"
+      },
+      "1220855754440320": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122145996273392187_1808338363618782",
+       "error": null,
+       "last_attempt": "2026-11-26T17:56:32+04:00",
+       "mode": "immediate",
+       "photo_id": "122145996243392187",
+       "post_id": "1220855754440320_122145996273392187",
+       "status": "done"
+      },
+      "1240142009184080": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131762659399398_1816460212955490",
+       "error": null,
+       "last_attempt": "2026-11-26T17:57:04+04:00",
+       "mode": "immediate",
+       "photo_id": "122131762635399398",
+       "post_id": "1240142009184080_122131762659399398",
+       "status": "done"
+      }
+     },
+     "title": "Snacha mi v obchodě oznámila, že na Vánoce nejsem pozvaná. Řekla jsem jen „Dobře“ a druhý den v 7:15 mi syn bušil na dveře",
+     "warnings": [
+      "длина текста FB 466 слов (исходник 611, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1265,
+     "wp_live": true,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1012250151981057": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134015089302250_1838248463884862",
+       "error": null,
+       "last_attempt": "2026-11-26T17:44:49+04:00",
+       "mode": "immediate",
+       "photo_id": "122134015065302250",
+       "post_id": "1012250151981057_122134015089302250",
+       "status": "done"
+      },
+      "1030877436782212": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142234044808945_1467654018670545",
+       "error": null,
+       "last_attempt": "2026-11-26T17:43:05+04:00",
+       "mode": "immediate",
+       "photo_id": "122142234020808945",
+       "post_id": "1030877436782212_122142234044808945",
+       "status": "done"
+      },
+      "1064982806700854": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112163190456562_1299576069027460",
+       "error": null,
+       "last_attempt": "2026-11-26T17:40:46+04:00",
+       "mode": "immediate",
+       "photo_id": "122112163160456562",
+       "post_id": "1064982806700854_122112163190456562",
+       "status": "done"
+      },
+      "1068567606345452": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132144415306132_1713104230243034",
+       "error": null,
+       "last_attempt": "2026-11-26T17:45:56+04:00",
+       "mode": "immediate",
+       "photo_id": "122132144391306132",
+       "post_id": "1068567606345452_122132144415306132",
+       "status": "done"
+      },
+      "1078100405390763": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128828917305584_1619192919482629",
+       "error": null,
+       "last_attempt": "2026-11-26T17:49:24+04:00",
+       "mode": "immediate",
+       "photo_id": "122128828893305584",
+       "post_id": "1078100405390763_122128828917305584",
+       "status": "done"
+      },
+      "1079964265201139": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108816240506427_1815706976332407",
+       "error": null,
+       "last_attempt": "2026-11-26T17:40:12+04:00",
+       "mode": "immediate",
+       "photo_id": "122108816216506427",
+       "post_id": "1079964265201139_122108816240506427",
+       "status": "done"
+      },
+      "1086658774532679": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134838181308548_4735213946623599",
+       "error": null,
+       "last_attempt": "2026-11-26T17:45:23+04:00",
+       "mode": "immediate",
+       "photo_id": "122134838157308548",
+       "post_id": "1086658774532679_122134838181308548",
+       "status": "done"
+      },
+      "1087342844462554": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123646441296683_1150685870990343",
+       "error": null,
+       "last_attempt": "2026-11-26T17:44:16+04:00",
+       "mode": "immediate",
+       "photo_id": "122123646417296683",
+       "post_id": "1087342844462554_122123646441296683",
+       "status": "done"
+      },
+      "1093003583899107": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130848595300251_1775378633945538",
+       "error": null,
+       "last_attempt": "2026-11-26T17:48:49+04:00",
+       "mode": "immediate",
+       "photo_id": "122130848571300251",
+       "post_id": "1093003583899107_122130848595300251",
+       "status": "done"
+      },
+      "1099258949937246": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122115115598601707_1740360174374345",
+       "error": null,
+       "last_attempt": "2026-11-26T17:47:40+04:00",
+       "mode": "immediate",
+       "photo_id": "122115115568601707",
+       "post_id": "1099258949937246_122115115598601707",
+       "status": "done"
+      },
+      "1114015015119414": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142834968811401_1223557007003807",
+       "error": null,
+       "last_attempt": "2026-11-26T17:42:33+04:00",
+       "mode": "immediate",
+       "photo_id": "122142834938811401",
+       "post_id": "1114015015119414_122142834968811401",
+       "status": "done"
+      },
+      "1128937866962526": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105314718533031_1003042616197710",
+       "error": null,
+       "last_attempt": "2026-11-26T17:47:06+04:00",
+       "mode": "immediate",
+       "photo_id": "122105314694533031",
+       "post_id": "1128937866962526_122105314718533031",
+       "status": "done"
+      },
+      "1140835409106424": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111142560543006_1719735826387125",
+       "error": null,
+       "last_attempt": "2026-11-26T17:41:21+04:00",
+       "mode": "immediate",
+       "photo_id": "122111142536543006",
+       "post_id": "1140835409106424_122111142560543006",
+       "status": "done"
+      },
+      "1142735408923607": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140255209311525_2696840024104864",
+       "error": null,
+       "last_attempt": "2026-11-26T17:38:40+04:00",
+       "mode": "immediate",
+       "photo_id": "122140255173311525",
+       "post_id": "1142735408923607_122140255209311525",
+       "status": "done"
+      },
+      "1149681171551323": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131375269314630_1819820142620897",
+       "error": null,
+       "last_attempt": "2026-11-26T17:46:32+04:00",
+       "mode": "immediate",
+       "photo_id": "122131375245314630",
+       "post_id": "1149681171551323_122131375269314630",
+       "status": "done"
+      },
+      "1152171097987054": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132317503401125_1174595778258399",
+       "error": null,
+       "last_attempt": "2026-11-26T17:50:33+04:00",
+       "mode": "immediate",
+       "photo_id": "122132317479401125",
+       "post_id": "1152171097987054_122132317503401125",
+       "status": "done"
+      },
+      "1159996950522974": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123600763318395_1472151515007722",
+       "error": null,
+       "last_attempt": "2026-11-26T17:48:15+04:00",
+       "mode": "immediate",
+       "photo_id": "122123600739318395",
+       "post_id": "1159996950522974_122123600763318395",
+       "status": "done"
+      },
+      "1160223747182678": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138924505400586_1001738635815417",
+       "error": null,
+       "last_attempt": "2026-11-26T17:39:03+04:00",
+       "mode": "immediate",
+       "photo_id": "122138924481400586",
+       "post_id": "1160223747182678_122138924505400586",
+       "status": "done"
+      },
+      "1160240797163045": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129974161300955_2151419322446631",
+       "error": null,
+       "last_attempt": "2026-11-26T17:43:40+04:00",
+       "mode": "immediate",
+       "photo_id": "122129974137300955",
+       "post_id": "1160240797163045_122129974161300955",
+       "status": "done"
+      },
+      "1163062863564866": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126172537416803_1032786213194068",
+       "error": null,
+       "last_attempt": "2026-11-26T17:51:42+04:00",
+       "mode": "immediate",
+       "photo_id": "122126172507416803",
+       "post_id": "1163062863564866_122126172537416803",
+       "status": "done"
+      },
+      "1174674892385169": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127076815301482_972064249025793",
+       "error": null,
+       "last_attempt": "2026-11-26T17:49:58+04:00",
+       "mode": "immediate",
+       "photo_id": "122127076791301482",
+       "post_id": "1174674892385169_122127076815301482",
+       "status": "done"
+      },
+      "1191480207389219": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127143307405175_1696834588894509",
+       "error": null,
+       "last_attempt": "2026-11-26T17:41:57+04:00",
+       "mode": "immediate",
+       "photo_id": "122127143277405175",
+       "post_id": "1191480207389219_122127143307405175",
+       "status": "done"
+      },
+      "1212646305268160": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129142657420532_1434411281758440",
+       "error": null,
+       "last_attempt": "2026-11-26T17:51:08+04:00",
+       "mode": "immediate",
+       "photo_id": "122129142627420532",
+       "post_id": "1212646305268160_122129142657420532",
+       "status": "done"
+      },
+      "1229344506930563": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130157983430122_1441572177957151",
+       "error": null,
+       "last_attempt": "2026-11-26T17:52:50+04:00",
+       "mode": "immediate",
+       "photo_id": "122130157953430122",
+       "post_id": "1229344506930563_122130157983430122",
+       "status": "done"
+      },
+      "1266426573217032": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130658893429703_1115287537939332",
+       "error": null,
+       "last_attempt": "2026-11-26T17:52:17+04:00",
+       "mode": "immediate",
+       "photo_id": "122130658857429703",
+       "post_id": "1266426573217032_122130658893429703",
+       "status": "done"
+      },
+      "1304525059401414": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125611339404210_4586235468310291",
+       "error": null,
+       "last_attempt": "2026-11-26T17:53:25+04:00",
+       "mode": "immediate",
+       "photo_id": "122125611309404210",
+       "post_id": "1304525059401414_122125611339404210",
+       "status": "done"
+      },
+      "997772916762884": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113638788437662_4639700632972954",
+       "error": null,
+       "last_attempt": "2026-11-26T17:39:38+04:00",
+       "mode": "immediate",
+       "photo_id": "122113638764437662",
+       "post_id": "997772916762884_122113638788437662",
+       "status": "done"
+      }
+     },
+     "title": "Per Natale non sei invitata, Joanne»: ho risposto «Va bene» e il giorno dopo mio figlio bussava alla mia porta alle 7:15",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1263,
+     "wp_live": true,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1079800528556354": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127252789304793_1014721804369376",
+       "error": null,
+       "last_attempt": "2026-11-26T17:55:36+04:00",
+       "mode": "immediate",
+       "photo_id": "122127252765304793",
+       "post_id": "1079800528556354_122127252789304793",
+       "status": "done"
+      },
+      "1083785318156771": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114639402359745_1026883723075940",
+       "error": null,
+       "last_attempt": "2026-11-26T17:54:00+04:00",
+       "mode": "immediate",
+       "photo_id": "122114639378359745",
+       "post_id": "1083785318156771_122114639402359745",
+       "status": "done"
+      },
+      "1089456087587677": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123613987302807_1414577823801244",
+       "error": null,
+       "last_attempt": "2026-11-26T17:54:32+04:00",
+       "mode": "immediate",
+       "photo_id": "122123613963302807",
+       "post_id": "1089456087587677_122123613987302807",
+       "status": "done"
+      },
+      "1107966229066828": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142253053313481_40403432325967447",
+       "error": null,
+       "last_attempt": "2026-11-26T17:55:07+04:00",
+       "mode": "immediate",
+       "photo_id": "122142253029313481",
+       "post_id": "1107966229066828_122142253053313481",
+       "status": "done"
+      }
+     },
+     "title": "Synowa powiedziała, że nie mam przyjść na święta. Wtedy pojechałam do ośrodka, w którym pracował mój mąż, a następnego ranka syn stał pod moimi drzwiami",
+     "warnings": [
+      "длина текста FB 448 слов (исходник 611, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1264,
+     "wp_live": true,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-26T17:36:00+04:00",
+   "source": {
+    "image_url": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/925809405_122156499705170576_6086375178246969540_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=debKjSgOqWEQ7kNvwHUXZ6r&_nc_oc=AdqndKkPn-fPD7zi3zY0CuhdlAq_Fhv-HNwCif1R-iSL6UV00Ih7U2yNTg3XIhD3d9g&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=0IQzJumj8DA0lW7XOCj5_Q&_nc_tpa=Q5bMBQJBDoZx160FUVFK-fp5q5eCdvXyuL1M5NqTSwxbhkYSHGh1x4G1AHMuSbl770ltSfmsYgFjUvxz5w&oh=00_AQR4fkZ5BDnbl3h0wTGa29IOdRl1tcpoBT0dlfYLFY4jbQ&oe=6B0DFD97",
+    "link": "https://www.facebook.com/story.php?story_fbid=122156499873170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "I was buying Christmas groceries when I called my son to ask if I should bring wine. Instead, my daughter-in-law answered. \"We're spending Christmas with my relatives this year, Joanne. You're not invited.\" I simply said, \"Alright.\"\n\nAfter checking out, I drove to the community center where my late husband had volunteered and donated the $31,000 I'd earned from selling his collection. The next morning, at precisely 7:15, my son was banging on my front door.\n\nPART 1\n\nIt was December 21, and I was comparing two packages of thyme in the grocery store when Camille informed me that I wouldn't be joining them for Christmas.\n\nI placed both packages back.\n\n\"I thought dinner was still happening at your house.\"\n\n\"It is,\" she replied. \"My mom is preparing everything.\"\n\n\"Has Owen agreed to this?\"\n\n\"Of course. We decided together.\"\n\nA customer behind me asked if I could clear the aisle.\n\nI moved my cart aside.\n\nOver Thanksgiving weekend, Owen had personally invited me.\n\n\"Nothing has changed, Mom. Come around twelve.\"\n\nI'd written the time on my calendar.\n\nMy cart already held Owen's favorite whole-berry cranberry sauce, clementines for Tessa, and the yellow mustard Wyatt put on nearly everything.\n\nI'd also bought pecans and pie crusts.\n\nI was sixty-two, and Dennis, my husband, had passed away two years earlier.\n\nThis would be my third Christmas without him.\n\nI'd been excited to see my grandchildren, especially their yearly argument about who would hand out the gifts.\n\nInstead, I paid for my shopping and headed outside.\n\nA freezing breeze pushed loose receipts across the parking lot.\n\nOnce inside my car, I messaged Owen.\n\nCamille says I'm not invited for Christmas anymore. Call when you get a chance.\n\nThen I drove to the Westdale Community Resource Center in Hamilton, Ohio.\n\nDennis had spent his final six years volunteering there.\n\nHe brought groceries to families in need, drove seniors to medical appointments, and repaired anything that stopped working.\n\nDenise, the director, seemed surprised to see me.\n\n\"Brenda! What brings you here?\"\n\n\"I've got some groceries to donate. My Christmas plans changed.\"\n\nShe studied my face, then picked up her coat.\n\n\"Let's see what you've brought.\"\n\nThe center accepted the fresh fruit and unopened shelf-stable food. I kept the refrigerated groceries they couldn't accommodate.\n\nAfter unloading everything, I helped arrange some donation boxes.\n\nA paper snowflake hung from Dennis's old storage cabinet.\n\nI paused in front of it.\n\nDenise followed my gaze.\n\n\"Come have some coffee in my office.\"\n\nA photograph behind her desk showed Dennis laughing as he helped carry a folding table.\n\nIt brought back so many memories.\n\nFor two years, I'd slowly gone through his possessions, choosing what to preserve and what to sell.\n\nHis hockey collection had been especially difficult to let go.\n\nFor nearly thirty years, he'd collected vintage programs, tickets, photographs, and equipment from flea markets and estate sales.\n\nHe'd organized everything into labeled binders that filled several shelves.\n\nAn auction company had spent months cataloging the items and selling them separately.\n\nThe final payment arrived six weeks earlier.\n\nAfter expenses, the proceeds totaled $31,000.\n\nI hadn't touched the money.\n\nThat summer, I'd told Denise I wanted to give some of it to the center in Dennis's honor.\n\nI just hadn't settled on an amount.\n\nOwen knew about the auction.\n\nAre you curious about what would happen next? If so, don’t forget to type “BEST” and press LIKE to let us know, so we’ll update full story for you soon",
+    "wp_media_id": 1257,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1736-it.jpg"
+   },
+   "source_key": "post:61585117295331_122156499873170576",
+   "status": "done",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
+  },
+  "2026-11-26 18:00": {
+   "langs": {},
+   "note": "пропущен по просьбе",
+   "slot_iso": "2026-11-26T18:00:00+04:00",
+   "status": "cancelled"
+  },
+  "2026-11-26 21:00": {
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1106793902521611": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117062161328231_1705813331224837",
+       "error": null,
+       "last_attempt": "2026-11-26T20:38:08+04:00",
+       "mode": "schedule",
+       "photo_id": "122117062131328231",
+       "post_id": "1106793902521611_122117062161328231",
+       "status": "done"
+      },
+      "1220855754440320": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122146020909392187_1651172189807614",
+       "error": null,
+       "last_attempt": "2026-11-26T20:38:26+04:00",
+       "mode": "schedule",
+       "photo_id": "122146020879392187",
+       "post_id": "1220855754440320_122146020909392187",
+       "status": "done"
+      },
+      "1240142009184080": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131782987399398_1441703507950176",
+       "error": null,
+       "last_attempt": "2026-11-26T20:38:42+04:00",
+       "mode": "schedule",
+       "photo_id": "122131782939399398",
+       "post_id": "1240142009184080_122131782987399398",
+       "status": "done"
+      }
+     },
+     "title": "Po dvaceti letech jsem se vrátil domů a uviděl ženu, kterou jsem miloval, bosou, s otepem dříví na zádech. Pak jsem si všiml znaménka za uchem malé holčičky",
+     "warnings": [
+      "длина текста FB 653 слов (исходник 901, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1279,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1012250151981057": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134025331302250_1619955229304861",
+       "error": null,
+       "last_attempt": "2026-11-26T20:30:35+04:00",
+       "mode": "schedule",
+       "photo_id": "122134025301302250",
+       "post_id": "1012250151981057_122134025331302250",
+       "status": "done"
+      },
+      "1030877436782212": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142248564808945_2538082030033481",
+       "error": null,
+       "last_attempt": "2026-11-26T20:28:50+04:00",
+       "mode": "schedule",
+       "photo_id": "122142248522808945",
+       "post_id": "1030877436782212_122142248564808945",
+       "status": "done"
+      },
+      "1064982806700854": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112167480456562_1463147475939572",
+       "error": null,
+       "last_attempt": "2026-11-26T20:26:30+04:00",
+       "mode": "schedule",
+       "photo_id": "122112167450456562",
+       "post_id": "1064982806700854_122112167480456562",
+       "status": "done"
+      },
+      "1068567606345452": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132160807306132_1021518723601648",
+       "error": null,
+       "last_attempt": "2026-11-26T20:31:45+04:00",
+       "mode": "schedule",
+       "photo_id": "122132160771306132",
+       "post_id": "1068567606345452_122132160807306132",
+       "status": "done"
+      },
+      "1078100405390763": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128842393305584_1922098012117211",
+       "error": null,
+       "last_attempt": "2026-11-26T20:34:23+04:00",
+       "mode": "schedule",
+       "photo_id": "122128842363305584",
+       "post_id": "1078100405390763_122128842393305584",
+       "status": "done"
+      },
+      "1079964265201139": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108820374506427_1517362450272363",
+       "error": null,
+       "last_attempt": "2026-11-26T20:25:55+04:00",
+       "mode": "schedule",
+       "photo_id": "122108820344506427",
+       "post_id": "1079964265201139_122108820374506427",
+       "status": "done"
+      },
+      "1086658774532679": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134864299308548_1158159489932545",
+       "error": null,
+       "last_attempt": "2026-11-26T20:31:10+04:00",
+       "mode": "schedule",
+       "photo_id": "122134864269308548",
+       "post_id": "1086658774532679_122134864299308548",
+       "status": "done"
+      },
+      "1087342844462554": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123655873296683_1949325499367125",
+       "error": null,
+       "last_attempt": "2026-11-26T20:29:59+04:00",
+       "mode": "schedule",
+       "photo_id": "122123655843296683",
+       "post_id": "1087342844462554_122123655873296683",
+       "status": "done"
+      },
+      "1093003583899107": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130862605300251_1159164109895502",
+       "error": null,
+       "last_attempt": "2026-11-26T20:33:59+04:00",
+       "mode": "schedule",
+       "photo_id": "122130862575300251",
+       "post_id": "1093003583899107_122130862605300251",
+       "status": "done"
+      },
+      "1099258949937246": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122115126014601707_1492276589515163",
+       "error": null,
+       "last_attempt": "2026-11-26T20:33:11+04:00",
+       "mode": "schedule",
+       "photo_id": "122115125984601707",
+       "post_id": "1099258949937246_122115126014601707",
+       "status": "done"
+      },
+      "1114015015119414": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142864854811401_1174538701799628",
+       "error": null,
+       "last_attempt": "2026-11-26T20:28:15+04:00",
+       "mode": "schedule",
+       "photo_id": "122142864824811401",
+       "post_id": "1114015015119414_122142864854811401",
+       "status": "done"
+      },
+      "1128937866962526": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105319776533031_1627909728366613",
+       "error": null,
+       "last_attempt": "2026-11-26T20:32:48+04:00",
+       "mode": "schedule",
+       "photo_id": "122105319740533031",
+       "post_id": "1128937866962526_122105319776533031",
+       "status": "done"
+      },
+      "1140835409106424": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111150096543006_1463614182649550",
+       "error": null,
+       "last_attempt": "2026-11-26T20:27:04+04:00",
+       "mode": "schedule",
+       "photo_id": "122111150066543006",
+       "post_id": "1140835409106424_122111150096543006",
+       "status": "done"
+      },
+      "1142735408923607": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140266477311525_1023923540772895",
+       "error": null,
+       "last_attempt": "2026-11-26T20:24:28+04:00",
+       "mode": "schedule",
+       "photo_id": "122140266447311525",
+       "post_id": "1142735408923607_122140266477311525",
+       "status": "done"
+      },
+      "1149681171551323": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131388385314630_2608967996243328",
+       "error": null,
+       "last_attempt": "2026-11-26T20:32:18+04:00",
+       "mode": "schedule",
+       "photo_id": "122131388355314630",
+       "post_id": "1149681171551323_122131388385314630",
+       "status": "done"
+      },
+      "1152171097987054": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132358813401125_2719225231828593",
+       "error": null,
+       "last_attempt": "2026-11-26T20:35:10+04:00",
+       "mode": "schedule",
+       "photo_id": "122132358615401125",
+       "post_id": "1152171097987054_122132358813401125",
+       "status": "done"
+      },
+      "1159996950522974": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123613099318395_1148625088032074",
+       "error": null,
+       "last_attempt": "2026-11-26T20:33:36+04:00",
+       "mode": "schedule",
+       "photo_id": "122123613069318395",
+       "post_id": "1159996950522974_122123613099318395",
+       "status": "done"
+      },
+      "1160223747182678": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138945745400586_1035367922270717",
+       "error": null,
+       "last_attempt": "2026-11-26T20:24:58+04:00",
+       "mode": "schedule",
+       "photo_id": "122138945709400586",
+       "post_id": "1160223747182678_122138945745400586",
+       "status": "done"
+      },
+      "1160240797163045": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129998287300955_1721054329601354",
+       "error": null,
+       "last_attempt": "2026-11-26T20:29:23+04:00",
+       "mode": "schedule",
+       "photo_id": "122129998257300955",
+       "post_id": "1160240797163045_122129998287300955",
+       "status": "done"
+      },
+      "1163062863564866": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126188629416803_1687279949712561",
+       "error": null,
+       "last_attempt": "2026-11-26T20:35:55+04:00",
+       "mode": "schedule",
+       "photo_id": "122126188599416803",
+       "post_id": "1163062863564866_122126188629416803",
+       "status": "done"
+      },
+      "1174674892385169": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127093327301482_1794002685045456",
+       "error": null,
+       "last_attempt": "2026-11-26T20:34:46+04:00",
+       "mode": "schedule",
+       "photo_id": "122127093297301482",
+       "post_id": "1174674892385169_122127093327301482",
+       "status": "done"
+      },
+      "1191480207389219": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127160131405175_1149082807531764",
+       "error": null,
+       "last_attempt": "2026-11-26T20:27:40+04:00",
+       "mode": "schedule",
+       "photo_id": "122127160101405175",
+       "post_id": "1191480207389219_122127160131405175",
+       "status": "done"
+      },
+      "1212646305268160": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129159517420532_1041343305676775",
+       "error": null,
+       "last_attempt": "2026-11-26T20:35:32+04:00",
+       "mode": "schedule",
+       "photo_id": "122129159481420532",
+       "post_id": "1212646305268160_122129159517420532",
+       "status": "done"
+      },
+      "1229344506930563": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130179307430122_1641527867657654",
+       "error": null,
+       "last_attempt": "2026-11-26T20:36:29+04:00",
+       "mode": "schedule",
+       "photo_id": "122130179277430122",
+       "post_id": "1229344506930563_122130179307430122",
+       "status": "done"
+      },
+      "1266426573217032": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130682779429703_1888893192558293",
+       "error": null,
+       "last_attempt": "2026-11-26T20:36:11+04:00",
+       "mode": "schedule",
+       "photo_id": "122130682749429703",
+       "post_id": "1266426573217032_122130682779429703",
+       "status": "done"
+      },
+      "1304525059401414": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125628097404210_1560286492591710",
+       "error": null,
+       "last_attempt": "2026-11-26T20:36:44+04:00",
+       "mode": "schedule",
+       "photo_id": "122125628061404210",
+       "post_id": "1304525059401414_122125628097404210",
+       "status": "done"
+      },
+      "997772916762884": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113645418437662_1495424369175428",
+       "error": null,
+       "last_attempt": "2026-11-26T20:25:26+04:00",
+       "mode": "schedule",
+       "photo_id": "122113645388437662",
+       "post_id": "997772916762884_122113645418437662",
+       "status": "done"
+      }
+     },
+     "title": "Tornai dopo vent'anni e vidi la donna che amavo scalza, con un fascio di legna sulle spalle e una bimba accanto: poi notai la voglia dietro il suo orecchio",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1277,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1079800528556354": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127261183304793_1080931388332991",
+       "error": null,
+       "last_attempt": "2026-11-26T20:37:51+04:00",
+       "mode": "schedule",
+       "photo_id": "122127261153304793",
+       "post_id": "1079800528556354_122127261183304793",
+       "status": "done"
+      },
+      "1083785318156771": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114646842359745_1453046043070379",
+       "error": null,
+       "last_attempt": "2026-11-26T20:37:01+04:00",
+       "mode": "schedule",
+       "photo_id": "122114646812359745",
+       "post_id": "1083785318156771_122114646842359745",
+       "status": "done"
+      },
+      "1089456087587677": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123622507302807_1733097554875891",
+       "error": null,
+       "last_attempt": "2026-11-26T20:37:18+04:00",
+       "mode": "schedule",
+       "photo_id": "122123622477302807",
+       "post_id": "1089456087587677_122123622507302807",
+       "status": "done"
+      },
+      "1107966229066828": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142265329313481_1492880096136458",
+       "error": null,
+       "last_attempt": "2026-11-26T20:37:35+04:00",
+       "mode": "schedule",
+       "photo_id": "122142265299313481",
+       "post_id": "1107966229066828_122142265329313481",
+       "status": "done"
+      }
+     },
+     "title": "Wróciłem po 20 latach do rodzinnego miasteczka i zobaczyłem kobietę, którą kochałem, boso, z chrustem na plecach. Obok szła dziewczynka ze znamieniem takim jak moje",
+     "warnings": [
+      "длина текста FB 649 слов (исходник 901, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1278,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-26T21:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/929094436_1462207579373443_8860264867426743489_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZLAzVrR0DLQQ7kNvwH7Nz9v&_nc_oc=Adq_ofO50cE5baKbLUCBPjpF0FD_TGO-3M02SkEGQl210gL8DS8u7XpX0y9IBXB7QZU&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=x5YBOdWFPeEIRvBDAiutog&_nc_tpa=Q5bMBQLlqxHZQs_cu1QL2LInU8DV1FPPLaCm31AkMYvmaBi0fkfrS5HeNf0p8neesTP_e8qLrpnKQuguhQ&oh=00_AQReQBHY1Yy-7sT0g6NSUADYAouUsQfc66soDzBWwMnMZg&oe=6B0E3D2D",
+    "link": "https://www.facebook.com/story.php?story_fbid=1462679025992965&id=100067526447776",
+    "origin": "manual",
+    "page_id": "100067526447776",
+    "text": "I Returned to My Hometown After 20 Years and Saw the Woman I Once Loved Walking Barefoot with a Heavy Bundle of Firewood on Her Back, While a Little Girl Walked Beside Her Carrying Sticks. The Wealthy Businessman Who Had Destroyed Her Life Was Still Living in Luxury. \"She Always Thought She Was Smarter Than Everyone Else.\" I Immediately Canceled My $12 Million Deal and Ordered a Full Investigation Into His Finances. Then I Noticed a Birthmark Behind the Little Girl's Ear... It Was Exactly Like Mine.\n\nPART 1\n\nI slammed on the brakes of my luxury car the instant I recognized the woman I'd fallen in love with twenty years earlier. She was making her way along a mountain road without shoes, carrying an enormous bundle of firewood on her back. Beside her walked a little girl, barely four years old, struggling to carry a few sticks.\n\nBut what nearly made me lose control wasn't the sight of her living in such desperate poverty. It was the discovery that the little girl had the exact same birthmark as my late mother.\n\nMy name is Cole Mercer, and I'd returned to the mountains of eastern Tennessee to finalize a real estate transaction worth $12,000,000.\n\nMy Nashville-based company was preparing to purchase 400 acres of wooded land near a small town in the Great Smoky Mountains.\n\nMy plan was simple. Sign the documents and get back on the road before sunset.\n\nI'd stayed away from that town for twenty years.\n\nIt was where I'd spent my childhood struggling to get by.\n\nIt was where I'd buried my mother.\n\nAnd it was where I'd left Hannah Boone, the only woman I'd ever promised to love for the rest of my life.\n\nAs soon as I drove around that narrow bend, I knew it was her.\n\nHannah was wearing a faded cotton shirt and an old skirt. Her bare feet were covered in cuts and blood from walking over the sharp stones.\n\nThe little girl beside her had light brown hair and sparkling eyes. She kept trying to hold on to every stick without dropping any.\n\n\"Mama, I can carry some more,\" the little girl offered.\n\n\"You're already carrying so much, sweetheart. You're my best little helper.\"\n\nI switched off the engine.\n\nI wanted to call her name, but something held me back.\n\nI waited until the two of them vanished among the trees before getting out and following them from a distance, leaving my car where the road came to an end.\n\nEventually, they arrived at a little stone cabin. Its roof was damaged, plastic sheets covered the windows, and a small vegetable patch sat beside the building.\n\nI couldn't see a single power line anywhere nearby.\n\nHannah dropped the firewood and rested against the wall, looking completely worn out.\n\nThen the little girl spoke.\n\n\"Mama, when is Daddy coming?\"\n\nHannah lowered herself to her knees in front of her daughter.\n\n\"Sweetheart, we've already talked about this.\"\n\n\"But you told me maybe one day...\"\n\nI felt as though all the air had suddenly been knocked out of my lungs.\n\nThe little girl turned her head slightly.\n\nJust behind her left ear was a small, crescent-shaped birthmark.\n\nIt was identical to the one my mother had.\n\nAnd it was the same mark I'd had since the day I was born.\n\nThen a memory I'd spent years desperately trying to bury suddenly came rushing back.\n\nFour years earlier, I'd returned to town for my father's funeral.\n\nWhile I was there, I'd unexpectedly crossed paths with Hannah.\n\nWe'd shared dinner, talked about the past, and shed tears over everything we'd lost.\n\nThat night, we ended up together in the old family home.\n\nThe following morning, I returned to Nashville without even saying goodbye.\n\nNow, as I stared at that little girl, a terrifying possibility began to take shape in my mind. I might have walked away from much more than a love story I'd once believed was over.\n\nToo overwhelmed to approach them or introduce myself, I turned around and went back to my car.\n\nThat evening, I called off the scheduled signing of the property deal and booked a room at a local boarding house.\n\nThe following morning, I went to see Nora Jenkins, the woman who had operated the town's general store for decades.\n\n\"I need you to tell me what happened to Hannah Boone.\"\n\nNora stopped arranging the items on the shelves.\n\nHer entire expression shifted.\n\n\"Cole, there are some things you might be better off not digging into.\"\n\n\"What exactly are you talking about?\"\n\nShe glanced toward the entrance before leaning closer and speaking in a hushed voice.\n\n\"Hannah isn't living that way because she wants to. Five years ago, she reported something that could have brought down the most powerful family in this county. They made certain that nobody would ever believe anything she said again.\"\n\nI stood there without moving.\n\nThen Nora told me the name of the family involved.\n\nIt was the very same family that was negotiating to sell me those 400 acres of forest land.\n\nPart 2 is already in the first comment 😉 Type \"GOOD\" and press LIKE if you want to keep reading until the end of this story 👇",
+    "wp_media_id": 1271,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-2100-it.jpg"
+   },
+   "source_key": "post:100067526447776_1462679025992965",
+   "status": "done",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
+  },
+  "2026-11-27 00:00": {
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1106793902521611": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1220855754440320": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1240142009184080": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
+     "title": "Manžel před smrtí daroval orgány. Když jsem odcházela z nemocnice, lékař za mnou běžel: „Mark mi dal něco, co jste ještě vidět neměla",
+     "warnings": [
+      "длина текста FB 327 слов (исходник 396, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1299,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1012250151981057": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:43:19+04:00",
+       "mode": "schedule",
+       "photo_id": "122134065987302250",
+       "post_id": "1012250151981057_122134066017302250",
+       "status": "scheduled"
+      },
+      "1030877436782212": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:41:34+04:00",
+       "mode": "schedule",
+       "photo_id": "122142269774808945",
+       "post_id": "1030877436782212_122142269804808945",
+       "status": "scheduled"
+      },
+      "1064982806700854": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:39:17+04:00",
+       "mode": "schedule",
+       "photo_id": "122112174104456562",
+       "post_id": "1064982806700854_122112174134456562",
+       "status": "scheduled"
+      },
+      "1068567606345452": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:44:22+04:00",
+       "mode": "schedule",
+       "photo_id": "122132175915306132",
+       "post_id": "1068567606345452_122132175945306132",
+       "status": "scheduled"
+      },
+      "1078100405390763": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:46:58+04:00",
+       "mode": "schedule",
+       "photo_id": "122128855347305584",
+       "post_id": "1078100405390763_122128855377305584",
+       "status": "scheduled"
+      },
+      "1079964265201139": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:38:40+04:00",
+       "mode": "schedule",
+       "photo_id": "122108826356506427",
+       "post_id": "1079964265201139_122108826386506427",
+       "status": "scheduled"
+      },
+      "1086658774532679": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:43:53+04:00",
+       "mode": "schedule",
+       "photo_id": "122134909953308548",
+       "post_id": "1086658774532679_122134909983308548",
+       "status": "scheduled"
+      },
+      "1087342844462554": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:42:46+04:00",
+       "mode": "schedule",
+       "photo_id": "122123665929296683",
+       "post_id": "1087342844462554_122123665959296683",
+       "status": "scheduled"
+      },
+      "1093003583899107": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:46:35+04:00",
+       "mode": "schedule",
+       "photo_id": "122130873981300251",
+       "post_id": "1093003583899107_122130874011300251",
+       "status": "scheduled"
+      },
+      "1099258949937246": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:45:47+04:00",
+       "mode": "schedule",
+       "photo_id": "122115134108601707",
+       "post_id": "1099258949937246_122115134138601707",
+       "status": "scheduled"
+      },
+      "1114015015119414": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:41:00+04:00",
+       "mode": "schedule",
+       "photo_id": "122142877640811401",
+       "post_id": "1114015015119414_122142877676811401",
+       "status": "scheduled"
+      },
+      "1128937866962526": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:45:18+04:00",
+       "mode": "schedule",
+       "photo_id": "122105324936533031",
+       "post_id": "1128937866962526_122105324966533031",
+       "status": "scheduled"
+      },
+      "1140835409106424": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:39:51+04:00",
+       "mode": "schedule",
+       "photo_id": "122111158922543006",
+       "post_id": "1140835409106424_122111158952543006",
+       "status": "scheduled"
+      },
+      "1142735408923607": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:37:09+04:00",
+       "mode": "schedule",
+       "photo_id": "122140279521311525",
+       "post_id": "1142735408923607_122140279551311525",
+       "status": "scheduled"
+      },
+      "1149681171551323": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:44:49+04:00",
+       "mode": "schedule",
+       "photo_id": "122131402851314630",
+       "post_id": "1149681171551323_122131402887314630",
+       "status": "scheduled"
+      },
+      "1152171097987054": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:47:42+04:00",
+       "mode": "schedule",
+       "photo_id": "122132384517401125",
+       "post_id": "1152171097987054_122132384547401125",
+       "status": "scheduled"
+      },
+      "1159996950522974": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:46:11+04:00",
+       "mode": "schedule",
+       "photo_id": "122123627073318395",
+       "post_id": "1159996950522974_122123627109318395",
+       "status": "scheduled"
+      },
+      "1160223747182678": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:37:37+04:00",
+       "mode": "schedule",
+       "photo_id": "122138976993400586",
+       "post_id": "1160223747182678_122138977023400586",
+       "status": "scheduled"
+      },
+      "1160240797163045": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:42:11+04:00",
+       "mode": "schedule",
+       "photo_id": "122130044331300955",
+       "post_id": "1160240797163045_122130044367300955",
+       "status": "scheduled"
+      },
+      "1163062863564866": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:48:27+04:00",
+       "mode": "schedule",
+       "photo_id": "122126208327416803",
+       "post_id": "1163062863564866_122126208357416803",
+       "status": "scheduled"
+      },
+      "1174674892385169": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:47:19+04:00",
+       "mode": "schedule",
+       "photo_id": "122127105873301482",
+       "post_id": "1174674892385169_122127105903301482",
+       "status": "scheduled"
+      },
+      "1191480207389219": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:40:26+04:00",
+       "mode": "schedule",
+       "photo_id": "122127176517405175",
+       "post_id": "1191480207389219_122127176547405175",
+       "status": "scheduled"
+      },
+      "1212646305268160": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:48:03+04:00",
+       "mode": "schedule",
+       "photo_id": "122129182065420532",
+       "post_id": "1212646305268160_122129182179420532",
+       "status": "scheduled"
+      },
+      "1229344506930563": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:49:13+04:00",
+       "mode": "schedule",
+       "photo_id": "122130200877430122",
+       "post_id": "1229344506930563_122130200907430122",
+       "status": "scheduled"
+      },
+      "1266426573217032": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:48:49+04:00",
+       "mode": "schedule",
+       "photo_id": "122130708219429703",
+       "post_id": "1266426573217032_122130708249429703",
+       "status": "scheduled"
+      },
+      "1304525059401414": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "997772916762884": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T23:38:06+04:00",
+       "mode": "schedule",
+       "photo_id": "122113650254437662",
+       "post_id": "997772916762884_122113650284437662",
+       "status": "scheduled"
+      }
+     },
+     "title": "Mio marito ha donato i suoi organi come ultimo desiderio, poi il suo medico mi ha fermata e mi ha consegnato ciò che aveva promesso di darmi solo dopo la sua morte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1297,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1079800528556354": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1083785318156771": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1089456087587677": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1107966229066828": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
+     "title": "Mój mąż został dawcą narządów jako swoje ostatnie życzenie. Po jego śmierci lekarz zatrzymał mnie i powiedział: „Kazał mi obiecać, że dam to pani dopiero, gdy go już nie będzie",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1298,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-27T00:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/928384131_122217438878841094_9018672576638679671_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0jjoPH3wXdwQ7kNvwHqUI_l&_nc_oc=Adp_YaNPwZJeEopibHzggRUXMPoVF4S-vcIRGW7m8Ftv7lSqmxmKJNpp-IvypSukU80&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fYOtDXs2pxLJFuu1qT_ysw&_nc_tpa=Q5bMBQImrpBK-7Mn7K9Tw4eANWhfvIW0BzOX78GnEKv14NsQGzL-06xloM-j1gPWPE7Vore-wCFqN9Y05A&oh=00_AQRhOc1yykfqm5ST-Ze_VeVIk8UsZ8P5KygiinoX8MEQaw&oe=6B0E5800",
+    "link": "https://www.facebook.com/story.php?story_fbid=122217438992841094&id=61575232821594",
+    "origin": "manual",
+    "page_id": "61575232821594",
+    "text": "My husband became an organ donor as his final wish — after he died, his doctor stopped me and said, \"There’s something he made me promise to give you only after he was gone.\"\nMark and I had been married for three years when I finally became pregnant with the baby we had always wanted.\nOur happiness lasted only six months. Then Mark learned about his illness. The doctors gave him no more than three months to live.\nHe probably wouldn’t live long enough to meet our daughter.\nThat evening, he sat beside me on our porch with one hand resting on my belly.\n\"If my organs are still healthy enough when the time comes, I want them donated.\"\n\"Please don’t talk about dying while she’s kicking,\" I whispered.\n\"That’s exactly why I have to.\"\nHe looked at my stomach.\n\"If I can’t watch her grow up, maybe I can at least make sure somebody else gets more time with theirs.\"\nMark grew weaker much faster than we expected. By my eighth month, I was helping him button his shirts and pretending not to notice when he had to stop halfway to the bathroom just to catch his breath.\nA few weeks before he died, Mark began asking to speak to his doctor alone. I never understood why. Whenever I asked what they discussed, he would only squeeze my hand and say,\n\"There’s something I need to arrange. Please trust me.\"\nIt was unlike him to keep anything from me, especially then. But he was strangely firm about it.\nSo I let him do it.\nHe died in the hospital with my hand wrapped around his.\nAfterward, I signed the final donation papers with tears dripping onto the page.\nI remembered that Mark wanted this. I had to honor his final wish, even though doing so caused me unbearable pain.\nAs I was leaving the hospital, his doctor hurried after me, his face pale. He was holding something behind his back so I couldn’t see it.\n\"Wait! Please, wait!\"\nSomething in his voice made me stop.\n\"Mark gave me this three weeks ago,\" he said. \"He was very specific. You weren’t supposed to see it while he was alive.\" - Please leave a \"YES\" comment below and give us a \"Like\" to get the full story. Full story below ⬇️",
+    "wp_media_id": 1290,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-0000-it.jpg"
+   },
+   "source_key": "post:61575232821594_122217438992841094",
+   "status": "in_progress",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
+  },
+  "2026-11-27 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-27T12:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-27 15:00": {
+   "langs": {},
+   "slot_iso": "2026-11-27T15:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-27 18:00": {
+   "langs": {},
+   "slot_iso": "2026-11-27T18:00:00+04:00",
+   "status": "no_source"
+  },
+  "2026-11-27 21:00": {
+   "langs": {},
+   "slot_iso": "2026-11-27T21:00:00+04:00",
+   "status": "no_source"
+  }
+ },
+ "source_cutoff": "2026-10-29T16:36:25+00:00",
+ "sources": {
+  "bad:e3b0c44298fc1c149afb": {
+   "error": "ссылку pfbid не удалось раскрыть: FB 100/33: Unsupported get request. Object with ID '61566689175708' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api",
+   "link": "https://www.facebook.com/61566689175708/posts/pfbid028QjoR6XNFUjtTMWUjfdH6ksvn42Rx3MRBuDitNYrL7cPQYmZbh38sC6jaZwmBK3ul/",
+   "status": "skipped"
+  },
+  "link:01f90aba99052f6eaac5": {
+   "dup_logged": true,
+   "link": "https://www.facebook.com/share/p/1FBHtKtsH4/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122143876245234210&id=61587026316282"
+  },
+  "link:048bef65319681132788": {},
+  "link:06e2dfe59b813bcd407c": {},
+  "link:075803d91a4065f6eb84": {},
+  "link:10bda57122fa5b194a1f": {},
+  "link:1151e9df87dad7647350": {
+   "link": "https://www.facebook.com/share/p/18TYMGMswu/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1450160977218240&id=100066730531753"
+  },
+  "link:11557777ed2e7e5368fa": {
+   "link": "https://www.facebook.com/share/p/1FZUADaT5a/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1654999892663298&id=100044599086455"
+  },
+  "link:1819443233b73e6c43fa": {},
+  "link:1fb7b85f15382eff0b2a": {},
+  "link:210e77635e48f750ee35": {
+   "link": "https://www.facebook.com/share/1CqDXL9wPT/",
+   "resolved": "https://www.facebook.com/61566689175708/posts/122106012902556305/?rdid=fUoatQ1mH4j2d50y&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CqDXL9wPT%2F"
+  },
+  "link:27d38128f5e0404b5bfb": {
+   "link": "https://www.facebook.com/share/p/1D4J2nyb5j/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122120428167316334&id=61589490035610"
+  },
+  "link:29d44a464eebcad332c8": {},
+  "link:2d2e0eebdad45758246b": {
+   "link": "https://www.facebook.com/share/p/18de8q2K3z/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1662788041891277&id=100044802900629"
+  },
+  "link:3401e1319edd8851ec1e": {},
+  "link:35c2d8265a6672dadc8a": {},
+  "link:3dd04f6966fb68c15dd4": {
+   "link": "https://www.facebook.com/share/p/1E5utT7Hic/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122118289148345126&id=61560353781750"
+  },
+  "link:44b5ab26dee8ff2cdc7c": {
+   "link": "https://www.facebook.com/share/p/1Cca2o9F6f/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122141477115225301&id=61586759032853"
+  },
+  "link:47459692bbccc67b36ae": {},
+  "link:48f15e5e8424452ee09c": {
+   "link": "https://www.facebook.com/share/p/1AXW5YjEgk/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122139787689244044&id=61587321322233"
+  },
+  "link:4b4df60002338cb9299b": {},
+  "link:4f931efaedd7f8187ed4": {},
+  "link:4ff8443d79ee446a219a": {
+   "link": "https://www.facebook.com/share/p/1CJNoNzdfY/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122124401043447073&id=61593412202747"
+  },
+  "link:523ac051306bfe83afc5": {},
+  "link:526291117396dcae2b32": {},
+  "link:56fe5a87f9b43bfae375": {},
+  "link:57511ffc921312fc91ac": {},
+  "link:5b9c5c3aa7997ef62b94": {
+   "link": "https://www.facebook.com/share/p/19vGVCx4GY/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1717907559727936&id=100045261260562"
+  },
+  "link:5c33073fa391ab7bf9e7": {
+   "link": "https://www.facebook.com/share/p/1CAbg3ZHvn/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1708415680677124&id=100045261260562"
+  },
+  "link:5f1fe88ef469bbd7994e": {
+   "link": "https://www.facebook.com/share/p/19sUJ3SNU7/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1714946496690709&id=100045261260562"
+  },
+  "link:6266f7f1c923540de30f": {
+   "link": "https://www.facebook.com/share/p/1KNyEpnxag/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122145778227178982&id=61585369480106"
+  },
+  "link:6784e818f9e4222180f0": {
+   "link": "https://www.facebook.com/share/p/1KWFka2KTD/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122233295294328214&id=61559846438723"
+  },
+  "link:67c91b647b419b5cda8c": {},
+  "link:6a4f1aa90150ef78638c": {
+   "link": "https://www.facebook.com/share/p/1J8gwoHucp/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122131078545339253&id=61590177596600"
+  },
+  "link:6a9088dd2a41027da21c": {},
+  "link:70cf7d519a136e6ba880": {
+   "link": "https://www.facebook.com/share/p/19MbcPmJ8B/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122130803336893096&id=61576792898556"
+  },
+  "link:720a5488e0c8f17baad2": {},
+  "link:73940dca8dfc333a4394": {},
+  "link:73cf4e984f4bae435d64": {
+   "link": "https://www.facebook.com/share/1MDNAZmp5S/",
+   "resolved": "https://www.facebook.com/61587026316282/posts/122143876245234210/?rdid=jnXVA14flif4Vhkv&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MDNAZmp5S%2F"
+  },
+  "link:78333f589f77e9f5fa81": {},
+  "link:78a4e3a031ed87de8088": {},
+  "link:7c01ae6726cba7fb0938": {
+   "link": "https://www.facebook.com/share/p/1UY9LEzHXQ/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122141597781234406&id=61587032195586"
+  },
+  "link:8141fb6186e41f996746": {},
+  "link:8916c0dab5e3930926d8": {},
+  "link:8d7282a1be7ebfab7443": {
+   "link": "https://www.facebook.com/share/p/154dyHtpHLG/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122150034885348565&id=61590456964686"
+  },
+  "link:945103fe376f99d2ab8a": {
+   "link": "https://www.facebook.com/share/p/1WTdoewe2p/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122143702713234210&id=61587026316282"
+  },
+  "link:94ae84e7ad4fbecae2c7": {},
+  "link:9eb74688a4f1432bf477": {},
+  "link:a2d50d7d3e53cf04d8d2": {
+   "link": "https://www.facebook.com/share/p/1H47J45tz6/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1462195259427888&id=100069122846749"
+  },
+  "link:a8015d9e6c3fe4297e95": {
+   "link": "https://www.facebook.com/share/p/1Lxm6L2zKo/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122115760053489203&id=61594676105166"
+  },
+  "link:ace605e62034c42ff87a": {
+   "link": "https://www.facebook.com/share/p/1FAmb3vR2h/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122153490723350229&id=61590506886446"
+  },
+  "link:afb44175c97a5d054dd7": {},
+  "link:b1a499a47d625c3da44b": {},
+  "link:b4a218a1b0ee310dcbf7": {
+   "link": "https://www.facebook.com/share/p/1F3DWwEcmt/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122105208740536431&id=61566092952750"
+  },
+  "link:b8233a25531e1d0e7ad7": {},
+  "link:b8b38fa0d83bf12ef0ff": {},
+  "link:ba3e480c837cf70ae35f": {
+   "link": "https://www.facebook.com/share/p/14yrw3gKgBf/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1715363373315688&id=100045261260562"
+  },
+  "link:bb529b537713d56c2b98": {},
+  "link:c0969c643e5e3d89f655": {},
+  "link:c0b61c56e7486df82b79": {},
+  "link:c3e1ee968b73094c565b": {
+   "link": "https://www.facebook.com/share/p/1McaFWCcon/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122314301714071088&id=61552132650894"
+  },
+  "link:c40dc0ab960045b040fe": {
+   "link": "https://www.facebook.com/share/p/1DTVGjCVAQ/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1657929685703652&id=100044599086455"
+  },
+  "link:c766e0a7163875fa85a5": {},
+  "link:c77863f8690a084b8f05": {
+   "link": "https://www.facebook.com/share/p/1HJEJmhztx/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122139490280778778&id=61573363363721"
+  },
+  "link:c95854e8f5b637330c3b": {},
+  "link:cba7acd3f8dcf6ff5511": {
+   "link": "https://www.facebook.com/share/p/1P13dH2A1C/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1137476969041171&id=100083366355470"
+  },
+  "link:cda9ae1bda299ab01b82": {
+   "link": "https://www.facebook.com/share/1CL6btDS8D/",
+   "resolved": "https://www.facebook.com/61587321322233/posts/122138796543244044/?rdid=qFLcCa3PRUfArW3N&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CL6btDS8D%2F"
+  },
+  "link:cea96084592d1a28a1e4": {
+   "link": "https://www.facebook.com/share/p/1DwW8G4ma5/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1714202370098455&id=100045261260562"
+  },
+  "link:d685cc0365315b118e9f": {
+   "link": "https://www.facebook.com/share/p/1Cx3LZwxDc/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1658995595597061&id=100044599086455"
+  },
+  "link:d6f14499a68b234a5693": {},
+  "link:dec5dfb721b97083a33a": {},
+  "link:e222eb9d1d1df56b5b58": {},
+  "link:e2fab72f7387b8326aa3": {},
+  "link:e4d807f47eafa537fa82": {
+   "link": "https://www.facebook.com/share/p/1ESjvTbjpz/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1669678661202215&id=100044802900629"
+  },
+  "link:e8c433f71ef1d87e95a3": {},
+  "link:e8c4be657200534897b5": {},
+  "link:eb3792799b947b043f6d": {
+   "link": "https://www.facebook.com/share/p/1VtoptvDFM/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122108569407501033&id=61595030999436"
+  },
+  "link:edce98cc87d74a19204f": {
+   "link": "https://www.facebook.com/share/p/1JZKGEfkuo/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122129839845376137&id=61591284134933"
+  },
+  "link:f4838e4d73a8ca8a5bd7": {
+   "link": "https://www.facebook.com/share/p/1FvPU6pRa2/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=1665048941665187&id=100044802900629"
+  },
+  "link:f4e09d8d75ddebf838fe": {
+   "link": "https://www.facebook.com/share/p/1HJFpdWUEX/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122130758852893096&id=61576792898556"
+  },
+  "link:f4f89eacf0ef0c74dbb8": {
+   "link": "https://www.facebook.com/share/p/1EuuwnYayY/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122138209586809007&id=61574270220252"
+  },
+  "link:f74395181d8790d37b1a": {},
+  "link:f8dd30011cc2e405dc6b": {},
+  "post:100044599086455_1654999892663298": {
+   "fingerprint": "45940b1a5b97f2cd246e",
+   "link": "https://www.facebook.com/share/p/1FZUADaT5a/",
+   "origin": "manual",
+   "page_id": "100044599086455",
+   "slot": "2026-11-01 18:00",
+   "status": "used"
+  },
+  "post:100044599086455_1657929685703652": {
+   "fingerprint": "616ad8a8ab4264edf81a",
+   "link": "https://www.facebook.com/share/p/1DTVGjCVAQ/",
+   "origin": "manual",
+   "page_id": "100044599086455",
+   "slot": "2026-11-10 00:00",
+   "status": "used"
+  },
+  "post:100044599086455_1658995595597061": {
+   "fingerprint": "a4cd4f4e9cfc0aba1b53",
+   "link": "https://www.facebook.com/share/p/1Cx3LZwxDc/",
+   "origin": "manual",
+   "page_id": "100044599086455",
+   "slot": "2026-11-10 15:00",
+   "status": "used"
+  },
+  "post:100044802900629_1662788041891277": {
+   "fingerprint": "b1fe33cfd7aae96bd88e",
+   "link": "https://www.facebook.com/share/p/18de8q2K3z/",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-11 21:00",
+   "status": "used"
+  },
+  "post:100044802900629_1665048941665187": {
+   "fingerprint": "6d40b02b78ce89919d30",
+   "link": "https://www.facebook.com/share/p/1FvPU6pRa2/",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-11 00:00",
+   "status": "used"
+  },
+  "post:100044802900629_1669678661202215": {
+   "fingerprint": "982a6eaf5ed057e90d86",
+   "link": "https://www.facebook.com/share/p/1ESjvTbjpz/",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-13 00:00",
+   "status": "used"
+  },
+  "post:100044802900629_1682766399893441": {
+   "fingerprint": "57c01e0cbee28e508818",
+   "link": "https://www.facebook.com/story.php?story_fbid=1682766399893441&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-25 18:30",
+   "status": "used"
+  },
+  "post:100045261260562_1629385935246766": {
+   "fingerprint": "f8f749cc5a4b240d9667",
+   "link": "https://www.facebook.com/story.php?story_fbid=1629385935246766&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-22 23:47",
+   "status": "used"
+  },
+  "post:100045261260562_1674297460755613": {
+   "error": "заменена другой историей по вашей просьбе",
+   "fingerprint": "67b1b8b3574b0f1a9890",
+   "link": "https://www.facebook.com/story.php?story_fbid=1674297460755613&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1443677054449974&id=100064230806326",
+   "slot": "2026-11-23 18:00",
+   "status": "skipped"
+  },
+  "post:100045261260562_1688258559359503": {
+   "error": "заменена другой историей по вашей просьбе",
+   "fingerprint": "6f6e2846481d1fca4cf1",
+   "link": "https://www.facebook.com/story.php?story_fbid=1688258559359503&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1321054696712211&id=100064230806326",
+   "slot": "2026-11-23 21:00",
+   "status": "skipped"
+  },
+  "post:100045261260562_1690624162456276": {
+   "error": "заменена другой историей по вашей просьбе",
+   "fingerprint": "80846ecb60b18a7447f8",
+   "link": "https://www.facebook.com/story.php?story_fbid=1690624162456276&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "replaced_by": "https://www.facebook.com/story.php?story_fbid=1265872628897085&id=100064230806326",
+   "slot": "2026-11-24 00:00",
+   "status": "skipped"
+  },
+  "post:100045261260562_1698682471650445": {
+   "fingerprint": "805fb8b83171cdb61fb9",
+   "link": "https://www.facebook.com/story.php?story_fbid=1698682471650445&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-10-31 12:00",
+   "status": "used"
+  },
+  "post:100045261260562_1708415680677124": {
+   "fingerprint": "46de356d2c4fe6e31c17",
+   "link": "https://www.facebook.com/share/p/1CAbg3ZHvn/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-11 12:00",
+   "status": "used"
+  },
+  "post:100045261260562_1714202370098455": {
+   "fingerprint": "b78f0b08edc503c35949",
+   "link": "https://www.facebook.com/share/p/1DwW8G4ma5/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-14 16:00",
+   "status": "used"
+  },
+  "post:100045261260562_1714946496690709": {
+   "fingerprint": "3d77995bd804829d2383",
+   "link": "https://www.facebook.com/share/p/19sUJ3SNU7/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-14 21:00",
+   "status": "used"
+  },
+  "post:100045261260562_1715363373315688": {
+   "fingerprint": "66da5d9eb0ecd76adc43",
+   "link": "https://www.facebook.com/share/p/14yrw3gKgBf/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-15 00:00",
+   "status": "used"
+  },
+  "post:100045261260562_1717907559727936": {
+   "fingerprint": "853660434bed6028d04c",
+   "link": "https://www.facebook.com/share/p/19vGVCx4GY/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-18 00:36",
+   "status": "used"
+  },
+  "post:100045261260562_1718339016351457": {
+   "fingerprint": "abf2f6cb987588207400",
+   "link": "https://www.facebook.com/story.php?story_fbid=1718339016351457&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-19 12:00",
+   "status": "used"
+  },
+  "post:100045261260562_1719091009609591": {
+   "fingerprint": "6be48e6283e05cb1bf3d",
+   "link": "https://www.facebook.com/story.php?story_fbid=1719091009609591&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-19 02:18",
+   "status": "used"
+  },
+  "post:100045261260562_1719091009609591#": {
+   "error": "не удалось прочитать пост: 100045261260562_1719091009609591: нет текста или фото | 1719091009609591: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher | 1719091009609591: FB 12/None: (#12) singular statuses API is deprecated for versions v2.4 and higher",
+   "link": "https://www.facebook.com/story.php?story_fbid=1719091009609591&id=100045261260562",
+   "status": "used_before"
+  },
+  "post:100045261260562_1722433022608723": {
+   "fingerprint": "a4af78d739d9c050e03f",
+   "link": "https://www.facebook.com/story.php?story_fbid=1722433022608723&id=100045261260562",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-23 12:00",
+   "status": "used"
+  },
+  "post:100059505912199_1492703076056542": {
+   "fingerprint": "c1d2275ae88bb298bc7b",
+   "link": "https://www.facebook.com/story.php?story_fbid=1492703076056542&id=100059505912199",
+   "origin": "manual",
+   "page_id": "100059505912199",
+   "slot": "2026-11-17 18:00",
+   "status": "used"
+  },
+  "post:100064230806326_1265872628897085": {
+   "fingerprint": "dde288c45de1e2e21658",
+   "link": "https://www.facebook.com/story.php?story_fbid=1265872628897085&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 00:00",
+   "status": "used"
+  },
+  "post:100064230806326_1321054696712211": {
+   "fingerprint": "1990485a7580f6909b23",
+   "link": "https://www.facebook.com/story.php?story_fbid=1321054696712211&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 21:00",
+   "status": "used"
+  },
+  "post:100064230806326_1325477259603288": {
+   "fingerprint": "f5496fe896747df4e7ce",
+   "link": "https://www.facebook.com/story.php?story_fbid=1325477259603288&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 00:00",
+   "status": "used"
+  },
+  "post:100064230806326_1326525072831840": {
+   "fingerprint": "dae04187b67a68f8567d",
+   "link": "https://www.facebook.com/story.php?story_fbid=1326525072831840&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 15:00",
+   "status": "used"
+  },
+  "post:100064230806326_1437334075084272": {
+   "fingerprint": "4ce4131a8d291d66d3a0",
+   "link": "https://www.facebook.com/story.php?story_fbid=1437334075084272&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 20:30",
+   "status": "used"
+  },
+  "post:100064230806326_1443677054449974": {
+   "fingerprint": "3a7192ba908a29c49e17",
+   "link": "https://www.facebook.com/story.php?story_fbid=1443677054449974&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-23 18:00",
+   "status": "used"
+  },
+  "post:100064230806326_1445104960973850": {
+   "fingerprint": "f968f30b5cf5d6a6d3b9",
+   "link": "https://www.facebook.com/story.php?story_fbid=1445104960973850&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 12:00",
+   "status": "used"
+  },
+  "post:100064230806326_1501820811968931": {
+   "fingerprint": "aadac63ab819eb105f02",
+   "link": "https://www.facebook.com/story.php?story_fbid=1501820811968931&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-22 18:00",
+   "status": "used"
+  },
+  "post:100064230806326_1567506635400348": {
+   "fingerprint": "15c1ff9cd72d25fb94ef",
+   "link": "https://www.facebook.com/story.php?story_fbid=1567506635400348&id=100064230806326",
+   "origin": "manual",
+   "page_id": "100064230806326",
+   "slot": "2026-11-24 13:23",
+   "status": "used"
+  },
+  "post:100066730531753_1450160977218240": {
+   "fingerprint": "68ee500f66d9ec24283c",
+   "link": "https://www.facebook.com/share/p/18TYMGMswu/",
+   "origin": "manual",
+   "page_id": "100066730531753",
+   "slot": "2026-11-12 00:00",
+   "status": "used"
+  },
+  "post:100067526447776_1461692996091568": {
+   "fingerprint": "85506b97d90ad372371f",
+   "link": "https://www.facebook.com/story.php?story_fbid=1461692996091568&id=100067526447776",
+   "origin": "manual",
+   "page_id": "100067526447776",
+   "slot": "2026-11-26 00:00",
+   "status": "used"
+  },
+  "post:100067526447776_1462679025992965": {
+   "fingerprint": "9789d0e1dcc44974dd55",
+   "link": "https://www.facebook.com/story.php?story_fbid=1462679025992965&id=100067526447776",
+   "origin": "manual",
+   "page_id": "100067526447776",
+   "slot": "2026-11-26 21:00",
+   "status": "used"
+  },
+  "post:100069122846749_1462195259427888": {
+   "fingerprint": "8d65167a2a6fbe5434ca",
+   "link": "https://www.facebook.com/share/p/1H47J45tz6/",
+   "origin": "manual",
+   "page_id": "100069122846749",
+   "slot": "2026-11-18 12:50",
+   "status": "used"
+  },
+  "post:100083366355470_1137476969041171": {
+   "fingerprint": "90775bfede33c7ed9cd6",
+   "link": "https://www.facebook.com/share/p/1P13dH2A1C/",
+   "origin": "manual",
+   "page_id": "100083366355470",
+   "slot": "2026-11-17 15:00",
+   "status": "used"
+  },
+  "post:100083755444423_1123040340497804": {
+   "fingerprint": "8754c5f03afce6e59a37",
+   "link": "https://www.facebook.com/story.php?story_fbid=1123040340497804&id=100083755444423",
+   "origin": "manual",
+   "page_id": "100083755444423",
+   "slot": "2026-11-20 21:00",
+   "status": "used"
+  },
+  "post:100092328442705_1078152595272345": {
+   "fingerprint": "364e0f21d006d36fc581",
+   "link": "https://www.facebook.com/story.php?story_fbid=1078152595272345&id=100092328442705",
+   "origin": "manual",
+   "page_id": "100092328442705",
+   "slot": "2026-11-01 15:00",
+   "status": "used"
+  },
+  "post:1011074408765807_122102718824536431": {
+   "fingerprint": "1aadbfc55db56b408ad5",
+   "link": "https://www.facebook.com/story.php?story_fbid=122102718824536431&id=61566092952750",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-10-30 12:00",
+   "status": "used"
+  },
+  "post:1011074408765807_122103466484536431": {
+   "fingerprint": "e20967b2adb34b0ba28c",
+   "link": "https://www.facebook.com/story.php?story_fbid=122103466484536431&id=61566092952750",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-10-30 00:00",
+   "status": "used"
+  },
+  "post:1011074408765807_122105208740536431": {
+   "fingerprint": "a36adb3d6e22bb061d12",
+   "link": "https://www.facebook.com/share/p/1F3DWwEcmt/",
+   "origin": "manual",
+   "page_id": "1011074408765807",
+   "slot": "2026-11-16 19:59",
+   "status": "used"
+  },
+  "post:61550300516548_122344158470010017": {
+   "fingerprint": "eed9afe70490bd8a4af1",
+   "link": "https://www.facebook.com/story.php?story_fbid=122344158470010017&id=61550300516548",
+   "origin": "manual",
+   "page_id": "61550300516548",
+   "slot": "2026-11-24 20:40",
+   "status": "used"
+  },
+  "post:61552132650894_122314301714071088": {
+   "fingerprint": "d27cacc7f5a6d114472a",
+   "link": "https://www.facebook.com/share/p/1McaFWCcon/",
+   "origin": "manual",
+   "page_id": "61552132650894",
+   "slot": "2026-11-18 22:28",
+   "status": "used"
+  },
+  "post:61559846438723_122233295294328214": {
+   "fingerprint": "8aa986f5bca5e28acef2",
+   "link": "https://www.facebook.com/share/p/1KWFka2KTD/",
+   "origin": "manual",
+   "page_id": "61559846438723",
+   "slot": "2026-11-16 23:26",
+   "status": "used"
+  },
+  "post:61560353781750_122118289148345126": {
+   "fingerprint": "18fdf02041a09e2fbb81",
+   "link": "https://www.facebook.com/share/p/1E5utT7Hic/",
+   "origin": "manual",
+   "page_id": "61560353781750",
+   "slot": "2026-11-12 15:00",
+   "status": "used"
+  },
+  "post:61566689175708_122106012902556305": {
+   "fingerprint": "162e09fff52cea2fc77b",
+   "link": "https://www.facebook.com/share/1CqDXL9wPT/",
+   "origin": "manual",
+   "page_id": "61566689175708",
+   "slot": "2026-11-16 15:00",
+   "status": "used"
+  },
+  "post:61566689175708_122106971618556305": {
+   "fingerprint": "c0ca5a4e7dc91fcf59f0",
+   "link": "https://www.facebook.com/story.php?story_fbid=122106971618556305&id=61566689175708",
+   "origin": "manual",
+   "page_id": "61566689175708",
+   "slot": "2026-11-25 15:43",
+   "status": "used"
+  },
+  "post:61573363363721_122139490280778778": {
+   "fingerprint": "6f475e73954923012aa2",
+   "link": "https://www.facebook.com/share/p/1HJEJmhztx/",
+   "origin": "manual",
+   "page_id": "61573363363721",
+   "slot": "2026-11-16 12:00",
+   "status": "used"
+  },
+  "post:61574270220252_122138209586809007": {
+   "fingerprint": "ea03f81a62a0f12fec4b",
+   "link": "https://www.facebook.com/share/p/1EuuwnYayY/",
+   "origin": "manual",
+   "page_id": "61574270220252",
+   "slot": "2026-11-17 12:00",
+   "status": "used"
+  },
+  "post:61575232821594_122217438992841094": {
+   "fingerprint": "155dd035d1a2955deead",
+   "link": "https://www.facebook.com/story.php?story_fbid=122217438992841094&id=61575232821594",
+   "origin": "manual",
+   "page_id": "61575232821594",
+   "slot": "2026-11-27 00:00",
+   "status": "used"
+  },
+  "post:61576792898556_122130758852893096": {
+   "fingerprint": "70b2b5adc4ce4ff4c245",
+   "link": "https://www.facebook.com/share/p/1HJFpdWUEX/",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-10 21:00",
+   "status": "used"
+  },
+  "post:61576792898556_122130803336893096": {
+   "fingerprint": "73438ab2de4d3a1891d4",
+   "link": "https://www.facebook.com/share/p/19MbcPmJ8B/",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-13 00:00",
+   "status": "used"
+  },
+  "post:61576792898556_122132321246893096": {
+   "fingerprint": "9dedf226803d24ea940f",
+   "link": "https://www.facebook.com/story.php?story_fbid=122132321246893096&id=61576792898556",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-25 21:59",
+   "status": "used"
+  },
+  "post:61581309613138_122139126693043653": {
+   "fingerprint": "46e40b262bbb97256598",
+   "link": "https://www.facebook.com/story.php?story_fbid=122139126693043653&id=61581309613138",
+   "origin": "manual",
+   "page_id": "61581309613138",
+   "slot": "2026-11-21 21:00",
+   "status": "used"
+  },
+  "post:61584229563994_122123006853140985": {
+   "fingerprint": "7e4ba66805f51438edc0",
+   "link": "https://www.facebook.com/story.php?story_fbid=122123006853140985&id=61584229563994",
+   "origin": "manual",
+   "page_id": "61584229563994",
+   "slot": "2026-11-24 16:27",
+   "status": "used"
+  },
+  "post:61585117295331_122154606699170576": {
+   "fingerprint": "c5d592a39ff41d658681",
+   "link": "https://www.facebook.com/story.php?story_fbid=122154606699170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-21 12:00",
+   "status": "used"
+  },
+  "post:61585117295331_122154870807170576": {
+   "fingerprint": "c024a287e0b37c020d85",
+   "link": "https://www.facebook.com/story.php?story_fbid=122154870807170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-21 15:00",
+   "status": "used"
+  },
+  "post:61585117295331_122154988611170576": {
+   "fingerprint": "cb3788d7d4ffa733852b",
+   "link": "https://www.facebook.com/story.php?story_fbid=122154988611170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-20 18:39",
+   "status": "used"
+  },
+  "post:61585117295331_122155448631170576": {
+   "fingerprint": "05211f12e7af011b9b25",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155448631170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 18:00",
+   "status": "used"
+  },
+  "post:61585117295331_122155654917170576": {
+   "fingerprint": "f70732704814776e8811",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155654917170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 15:00",
+   "status": "used"
+  },
+  "post:61585117295331_122155803039170576": {
+   "fingerprint": "5f90669ce1c6d9cc0326",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155803039170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-19 21:33",
+   "status": "used"
+  },
+  "post:61585117295331_122155810935170576": {
+   "fingerprint": "7cf6f9b0e07281d2c772",
+   "link": "https://www.facebook.com/story.php?story_fbid=122155810935170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-20 00:30",
+   "status": "used"
+  },
+  "post:61585117295331_122156050467170576": {
+   "fingerprint": "657db9daa3fa8e910088",
+   "link": "https://www.facebook.com/story.php?story_fbid=122156050467170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-21 18:00",
+   "status": "used"
+  },
+  "post:61585117295331_122156499873170576": {
+   "fingerprint": "0143d65d9c5e6d4d21d0",
+   "link": "https://www.facebook.com/story.php?story_fbid=122156499873170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-26 17:36",
+   "status": "used"
+  },
+  "post:61585117295331_122156531319170576": {
+   "fingerprint": "33dcd73900252a4b127e",
+   "link": "https://www.facebook.com/story.php?story_fbid=122156531319170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-26 12:00",
+   "status": "used"
+  },
+  "post:61585117295331_122156616231170576": {
+   "fingerprint": "c58cf232a852abf0855d",
+   "link": "https://www.facebook.com/story.php?story_fbid=122156616231170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-26 14:30",
+   "status": "used"
+  },
+  "post:61585369480106_122145778227178982": {
+   "fingerprint": "238d96a2975a1a75ea88",
+   "link": "https://www.facebook.com/share/p/1KNyEpnxag/",
+   "origin": "manual",
+   "page_id": "61585369480106",
+   "slot": "2026-11-09 21:00",
+   "status": "used"
+  },
+  "post:61586759032853_122141477115225301": {
+   "fingerprint": "d1bf25a68161952e4b4d",
+   "link": "https://www.facebook.com/share/p/1Cca2o9F6f/",
+   "origin": "manual",
+   "page_id": "61586759032853",
+   "slot": "2026-11-10 12:00",
+   "status": "used"
+  },
+  "post:61587026316282_122143702713234210": {
+   "fingerprint": "a2a2e53ba8d703f9cf8a",
+   "link": "https://www.facebook.com/share/p/1WTdoewe2p/",
+   "origin": "manual",
+   "page_id": "61587026316282",
+   "slot": "2026-11-15 15:00",
+   "status": "used"
+  },
+  "post:61587026316282_122143876245234210": {
+   "fingerprint": "a7c160e8f16d506255b1",
+   "link": "https://www.facebook.com/share/1MDNAZmp5S/",
+   "origin": "manual",
+   "page_id": "61587026316282",
+   "slot": "2026-11-17 22:27",
+   "status": "used"
+  },
+  "post:61587026316282_122143876245234210#2026-11-15 18:00": {
+   "fingerprint": "a7c160e8f16d506255b1",
+   "link": "https://www.facebook.com/share/1MDNAZmp5S/",
+   "origin": "manual",
+   "page_id": "61587026316282",
+   "slot": "2026-11-15 18:00",
+   "status": "used_before"
+  },
+  "post:61587032195586_122141597781234406": {
+   "fingerprint": "70758c9e72a12066d81b",
+   "link": "https://www.facebook.com/share/p/1UY9LEzHXQ/",
+   "origin": "manual",
+   "page_id": "61587032195586",
+   "slot": "2026-11-11 18:00",
+   "status": "used"
+  },
+  "post:61587321322233_122138796543244044": {
+   "fingerprint": "c07d1e39b0a1abcd2ff2",
+   "link": "https://www.facebook.com/share/1CL6btDS8D/",
+   "origin": "manual",
+   "page_id": "61587321322233",
+   "slot": "2026-11-17 01:30",
+   "status": "used"
+  },
+  "post:61587321322233_122139787689244044": {
+   "fingerprint": "45f14474e0af970539ab",
+   "link": "https://www.facebook.com/share/p/1AXW5YjEgk/",
+   "origin": "manual",
+   "page_id": "61587321322233",
+   "slot": "2026-11-18 19:22",
+   "status": "used"
+  },
+  "post:61589490035610_122120428167316334": {
+   "fingerprint": "9f4bdc3942bd4331066f",
+   "link": "https://www.facebook.com/share/p/1D4J2nyb5j/",
+   "origin": "manual",
+   "page_id": "61589490035610",
+   "slot": "2026-11-14 13:13",
+   "status": "used"
+  },
+  "post:61590114583400_122127476865337152": {
+   "fingerprint": "0b98ead8f7fb935b86c7",
+   "link": "https://www.facebook.com/story.php?story_fbid=122127476865337152&id=61590114583400",
+   "origin": "manual",
+   "page_id": "61590114583400",
+   "slot": "2026-11-25 13:42",
+   "status": "used"
+  },
+  "post:61590177596600_122131078545339253": {
+   "fingerprint": "576c1cb6a19bf2e1f75d",
+   "link": "https://www.facebook.com/share/p/1J8gwoHucp/",
+   "origin": "manual",
+   "page_id": "61590177596600",
+   "slot": "2026-11-13 15:00",
+   "status": "used"
+  },
+  "post:61590456964686_122150034885348565": {
+   "error": "слот пропущен",
+   "fingerprint": "650156c09ee3a4468824",
+   "link": "https://www.facebook.com/share/p/154dyHtpHLG/",
+   "origin": "manual",
+   "page_id": "61590456964686",
+   "slot": "2026-11-03 18:00",
+   "status": "failed"
+  },
+  "post:61590506886446_122153490723350229": {
+   "fingerprint": "9e58bd537be9bb58c3ed",
+   "link": "https://www.facebook.com/share/p/1FAmb3vR2h/",
+   "origin": "manual",
+   "page_id": "61590506886446",
+   "slot": "2026-11-11 15:00",
+   "status": "used"
+  },
+  "post:61591284134933_122129839845376137": {
+   "fingerprint": "240cc9b5013b05c6ac43",
+   "link": "https://www.facebook.com/share/p/1JZKGEfkuo/",
+   "origin": "manual",
+   "page_id": "61591284134933",
+   "slot": "2026-11-02 00:00",
+   "status": "used"
+  },
+  "post:61593412202747_122124401043447073": {
+   "fingerprint": "c52f799d397115bea5a1",
+   "link": "https://www.facebook.com/share/p/1CJNoNzdfY/",
+   "origin": "manual",
+   "page_id": "61593412202747",
+   "slot": "2026-11-10 18:00",
+   "status": "used"
+  },
+  "post:61594676105166_122115760053489203": {
+   "fingerprint": "b05eb341b8db842586ee",
+   "link": "https://www.facebook.com/share/p/1Lxm6L2zKo/",
+   "origin": "manual",
+   "page_id": "61594676105166",
+   "slot": "2026-11-12 15:00",
+   "status": "used"
+  },
+  "post:61595030999436_122108569407501033": {
+   "fingerprint": "8145e536fe4b7bb8b4b4",
+   "link": "https://www.facebook.com/share/p/1VtoptvDFM/",
+   "origin": "manual",
+   "page_id": "61595030999436",
+   "slot": "2026-11-09 18:00",
+   "status": "used"
+  },
+  "post:photo_122140365723225301": {
+   "fingerprint": "09158682ef11c459c1e8",
+   "link": "https://www.facebook.com/photo/?fbid=122140365723225301&set=a.122127086457225301",
+   "origin": "manual",
+   "page_id": "976983902158171",
+   "slot": "2026-10-29 21:00",
+   "status": "used"
+  },
+  "post:photo_1707342274117798": {
+   "fingerprint": "bd5f7c7adebdce9789eb",
+   "link": "https://www.facebook.com/photo/?fbid=1707342274117798",
+   "origin": "manual",
+   "page_id": "622403774625234",
+   "slot": "2026-11-21 00:00",
+   "status": "used"
+  },
+  "post:photo_1710175797167779": {
+   "fingerprint": "b3bf9cdbb9e93b3a6ac3",
+   "link": "https://www.facebook.com/photo/?fbid=1710175797167779",
+   "origin": "manual",
+   "page_id": "622403774625234",
+   "slot": "2026-11-20 12:00",
+   "status": "used"
+  }
+ },
+ "tests": {},
+ "version": 1
+}
