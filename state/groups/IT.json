@@ -43,6 +43,7 @@
   "316757cc420944c1b668": "2026-11-21T17:04:20+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
   "33b23e888b18caa14bba": "2026-11-22T14:04:30+00:00",
+  "35e32650576a3a6fd5c5": "2026-11-26T19:36:51+00:00",
   "38bfd746765ee4a3638e": "2026-11-22T22:13:01+00:00",
   "3b79121acdb58cc4cc71": "2026-11-21T19:44:42+00:00",
   "3b873b5b67b7ecedde19": "2026-11-25T18:01:07+00:00",
@@ -103,6 +104,7 @@
   "8d3150420fb5ee953628": "2026-11-26T09:50:53+00:00",
   "8d6dd84f3fd108530c61": "2026-11-14T09:18:15+00:00",
   "8dcd9b38604c3a494e89": "2026-11-18T08:52:43+00:00",
+  "8eda1c80282e2c27e98b": "2026-11-26T19:36:51+00:00",
   "90f10d92ae3c8949c582": "2026-11-18T18:29:38+00:00",
   "9292d1f738e891eb035f": "2026-11-24T16:42:17+00:00",
   "9491a2fcaecca6d4b3e8": "2026-11-22T14:04:30+00:00",
@@ -124,6 +126,7 @@
   "a4c8a85e7db7d89e2752": "2026-11-21T22:45:36+00:00",
   "a52a4b60aa043581ace2": "2026-11-17T18:29:53+00:00",
   "a6ab527d80c6afd66a30": "2026-11-18T22:36:42+00:00",
+  "a940c32221a9479702d2": "2026-11-26T19:36:51+00:00",
   "aa8bb29f51a1fed6c541": "2026-11-21T10:17:43+00:00",
   "ab5adc5ddd83c831c3ba": "2026-11-19T14:07:51+00:00",
   "ad8c2ece3cec5e65114f": "2026-11-16T20:28:05+00:00",
@@ -25394,7 +25397,88 @@
    }
   },
   "2026-11-27 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Manžel před smrtí daroval orgány. Když jsem odcházela z nemocnice, lékař za mnou běžel: „Mark mi dal něco, co jste ještě vidět neměla",
+     "warnings": [
+      "длина текста FB 327 слов (исходник 396, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1299,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mio marito ha donato i suoi organi come ultimo desiderio, poi il suo medico mi ha fermata e mi ha consegnato ciò che aveva promesso di darmi solo dopo la sua morte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1297,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mój mąż został dawcą narządów jako swoje ostatnie życzenie. Po jego śmierci lekarz zatrzymał mnie i powiedział: „Kazał mi obiecać, że dam to pani dopiero, gdy go już nie będzie",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1298,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/928384131_122217438878841094_9018672576638679671_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0jjoPH3wXdwQ7kNvwHqUI_l&_nc_oc=Adp_YaNPwZJeEopibHzggRUXMPoVF4S-vcIRGW7m8Ftv7lSqmxmKJNpp-IvypSukU80&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fYOtDXs2pxLJFuu1qT_ysw&_nc_tpa=Q5bMBQImrpBK-7Mn7K9Tw4eANWhfvIW0BzOX78GnEKv14NsQGzL-06xloM-j1gPWPE7Vore-wCFqN9Y05A&oh=00_AQRhOc1yykfqm5ST-Ze_VeVIk8UsZ8P5KygiinoX8MEQaw&oe=6B0E5800",
@@ -25406,7 +25490,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-0000-it.jpg"
    },
    "source_key": "post:61575232821594_122217438992841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -26042,7 +26126,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-27 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130758852893096": {
    "fingerprint": "70b2b5adc4ce4ff4c245",
