@@ -2664,6 +2664,7 @@
   "122131688739306132": "2026-11-21T17:13:59+00:00",
   "122131698945306132": "2026-11-21T20:06:34+00:00",
   "122131708527306132": "2026-11-21T22:53:48+00:00",
+  "122131762635399398": "2026-11-26T13:57:07+00:00",
   "122131768737306132": "2026-11-22T14:13:34+00:00",
   "122131780947306132": "2026-11-22T16:41:23+00:00",
   "122131794123306132": "2026-11-22T19:58:21+00:00",
@@ -3102,6 +3103,7 @@
   "122145954951392187": "2026-11-26T10:02:30+00:00",
   "122145996243392187": "2026-11-26T13:56:36+00:00",
   "1229344506930563_122130157983430122": "2026-11-26T13:52:54+00:00",
+  "1240142009184080_122131762659399398": "2026-11-26T13:57:07+00:00",
   "1266426573217032_122130658893429703": "2026-11-26T13:52:22+00:00",
   "1304525059401414_122125611339404210": "2026-11-26T13:53:29+00:00",
   "997772916762884_122112936806437662": "2026-11-12T17:47:26+00:00",
@@ -24586,6 +24588,15 @@
        "photo_id": "122145996243392187",
        "post_id": "1220855754440320_122145996273392187",
        "status": "published"
+      },
+      "1240142009184080": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-26T17:57:04+04:00",
+       "mode": "immediate",
+       "photo_id": "122131762635399398",
+       "post_id": "1240142009184080_122131762659399398",
+       "status": "published"
       }
      },
      "title": "Snacha mi v obchodě oznámila, že na Vánoce nejsem pozvaná. Řekla jsem jen „Dobře“ a druhý den v 7:15 mi syn bušil na dveře",
@@ -24619,30 +24630,36 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134015089302250_1838248463884862",
        "error": null,
        "last_attempt": "2026-11-26T17:44:49+04:00",
        "mode": "immediate",
        "photo_id": "122134015065302250",
        "post_id": "1012250151981057_122134015089302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142234044808945_1467654018670545",
        "error": null,
        "last_attempt": "2026-11-26T17:43:05+04:00",
        "mode": "immediate",
        "photo_id": "122142234020808945",
        "post_id": "1030877436782212_122142234044808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112163190456562_1299576069027460",
        "error": null,
        "last_attempt": "2026-11-26T17:40:46+04:00",
        "mode": "immediate",
        "photo_id": "122112163160456562",
        "post_id": "1064982806700854_122112163190456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
@@ -24664,30 +24681,36 @@
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108816240506427_1815706976332407",
        "error": null,
        "last_attempt": "2026-11-26T17:40:12+04:00",
        "mode": "immediate",
        "photo_id": "122108816216506427",
        "post_id": "1079964265201139_122108816240506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134838181308548_4735213946623599",
        "error": null,
        "last_attempt": "2026-11-26T17:45:23+04:00",
        "mode": "immediate",
        "photo_id": "122134838157308548",
        "post_id": "1086658774532679_122134838181308548",
-       "status": "published"
+       "status": "done"
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123646441296683_1150685870990343",
        "error": null,
        "last_attempt": "2026-11-26T17:44:16+04:00",
        "mode": "immediate",
        "photo_id": "122123646417296683",
        "post_id": "1087342844462554_122123646441296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
@@ -24709,12 +24732,14 @@
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142834968811401_1223557007003807",
        "error": null,
        "last_attempt": "2026-11-26T17:42:33+04:00",
        "mode": "immediate",
        "photo_id": "122142834938811401",
        "post_id": "1114015015119414_122142834968811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
@@ -24727,21 +24752,25 @@
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111142560543006_1719735826387125",
        "error": null,
        "last_attempt": "2026-11-26T17:41:21+04:00",
        "mode": "immediate",
        "photo_id": "122111142536543006",
        "post_id": "1140835409106424_122111142560543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140255209311525_2696840024104864",
        "error": null,
        "last_attempt": "2026-11-26T17:38:40+04:00",
        "mode": "immediate",
        "photo_id": "122140255173311525",
        "post_id": "1142735408923607_122140255209311525",
-       "status": "published"
+       "status": "done"
       },
       "1149681171551323": {
        "attempts": 1,
@@ -24772,21 +24801,25 @@
       },
       "1160223747182678": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138924505400586_1001738635815417",
        "error": null,
        "last_attempt": "2026-11-26T17:39:03+04:00",
        "mode": "immediate",
        "photo_id": "122138924481400586",
        "post_id": "1160223747182678_122138924505400586",
-       "status": "published"
+       "status": "done"
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129974161300955_2151419322446631",
        "error": null,
        "last_attempt": "2026-11-26T17:43:40+04:00",
        "mode": "immediate",
        "photo_id": "122129974137300955",
        "post_id": "1160240797163045_122129974161300955",
-       "status": "published"
+       "status": "done"
       },
       "1163062863564866": {
        "attempts": 1,
@@ -24808,12 +24841,14 @@
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127143307405175_1696834588894509",
        "error": null,
        "last_attempt": "2026-11-26T17:41:57+04:00",
        "mode": "immediate",
        "photo_id": "122127143277405175",
        "post_id": "1191480207389219_122127143307405175",
-       "status": "published"
+       "status": "done"
       },
       "1212646305268160": {
        "attempts": 1,
@@ -24853,18 +24888,21 @@
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113638788437662_4639700632972954",
        "error": null,
        "last_attempt": "2026-11-26T17:39:38+04:00",
        "mode": "immediate",
        "photo_id": "122113638764437662",
        "post_id": "997772916762884_122113638788437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Per Natale non sei invitata, Joanne»: ho risposto «Va bene» e il giorno dopo mio figlio bussava alla mia porta alle 7:15",
      "warnings": [],
      "wp_error": null,
      "wp_id": 1263,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "NL": {

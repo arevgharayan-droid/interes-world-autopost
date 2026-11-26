@@ -15336,57 +15336,69 @@
      "pages": {
       "1028186380387490": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121737427321332_31240490422206854",
        "error": null,
        "last_attempt": "2026-11-26T17:47:46+04:00",
        "mode": "immediate",
        "photo_id": "122121737397321332",
        "post_id": "1028186380387490_122121737427321332",
-       "status": "published"
+       "status": "done"
       },
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133492057310273_2633348613752794",
        "error": null,
        "last_attempt": "2026-11-26T17:46:02+04:00",
        "mode": "immediate",
        "photo_id": "122133492033310273",
        "post_id": "1028964020310052_122133492057310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131245465321366_1048728187626497",
        "error": null,
        "last_attempt": "2026-11-26T17:46:38+04:00",
        "mode": "immediate",
        "photo_id": "122131245441321366",
        "post_id": "1089186904280406_122131245465321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128644813309032_1134780246005737",
        "error": null,
        "last_attempt": "2026-11-26T17:44:54+04:00",
        "mode": "immediate",
        "photo_id": "122128644789309032",
        "post_id": "1102464712951594_122128644813309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126735427316035_2080886275949684",
        "error": null,
        "last_attempt": "2026-11-26T17:45:28+04:00",
        "mode": "immediate",
        "photo_id": "122126735403316035",
        "post_id": "1129908326870761_122126735427316035",
-       "status": "published"
+       "status": "done"
       },
       "1174913505713830": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136026481399122_3593633267468042",
        "error": null,
        "last_attempt": "2026-11-26T17:47:11+04:00",
        "mode": "immediate",
        "photo_id": "122136026457399122",
        "post_id": "1174913505713830_122136026481399122",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
@@ -15401,30 +15413,36 @@
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135447931436382_1176544421476188",
        "error": null,
        "last_attempt": "2026-11-26T17:44:21+04:00",
        "mode": "immediate",
        "photo_id": "122135447907436382",
        "post_id": "1268633826332790_122135447931436382",
-       "status": "published"
+       "status": "done"
       },
       "1284638831394976": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127190617430459_29256423324000005",
        "error": null,
        "last_attempt": "2026-11-26T17:48:55+04:00",
        "mode": "immediate",
        "photo_id": "122127190587430459",
        "post_id": "1284638831394976_122127190617430459",
-       "status": "published"
+       "status": "done"
       },
       "1343243972194882": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134603341427348_1866886757671026",
        "error": null,
        "last_attempt": "2026-11-26T17:48:21+04:00",
        "mode": "immediate",
        "photo_id": "122134603311427348",
        "post_id": "1343243972194882_122134603341427348",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Als mein todkranker Sohn im Stadion auf der Riesenleinwand erschien, sagte der Sprecher: „Dreht euch um“ – und mein Mann wurde kreidebleich",
@@ -15562,54 +15580,65 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129998821306316_1790582115574323",
        "error": null,
        "last_attempt": "2026-11-26T17:50:39+04:00",
        "mode": "immediate",
        "photo_id": "122129998791306316",
        "post_id": "1138572272664180_122129998821306316",
-       "status": "published"
+       "status": "done"
       },
       "1326260617244165": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122126419498184_1126010933538901",
        "error": null,
        "last_attempt": "2026-11-26T17:51:48+04:00",
        "mode": "immediate",
        "photo_id": "122122126389498184",
        "post_id": "1326260617244165_122122126419498184",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121034653471857_1134808399533490",
        "error": null,
        "last_attempt": "2026-11-26T17:50:04+04:00",
        "mode": "immediate",
        "photo_id": "122121034629471857",
        "post_id": "1338630212673029_122121034653471857",
-       "status": "published"
+       "status": "done"
       },
       "1384241228111675": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124833319498229_1538018008167766",
        "error": null,
        "last_attempt": "2026-11-26T17:51:14+04:00",
        "mode": "immediate",
        "photo_id": "122124833289498229",
        "post_id": "1384241228111675_122124833319498229",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123761323505599_1864289007933350",
        "error": null,
        "last_attempt": "2026-11-26T17:49:30+04:00",
        "mode": "immediate",
        "photo_id": "122123761299505599",
        "post_id": "1448441201677530_122123761323505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Levei meu filho de 10 anos, em estado terminal, a um estádio para realizar seu último sonho, mas o locutor revelou algo que deixou meu marido pálido",
      "warnings": [],
      "wp_error": null,
      "wp_id": 822,
+     "wp_live": true,
      "wp_media_id": 821,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1736-nl.jpg",
      "wp_site": {
@@ -15649,7 +15678,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1736-nl.jpg"
    },
    "source_key": "post:100044802900629_1682770806559667",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
