@@ -1,3 +1,1 @@
-{"id":"now-2611-1735","cmd":"batch","args":{"steps":[
- {"cmd":"skip-slot","args":{"slot":"2026-11-26 18:00"}},
- {"cmd":"start-now","args":{}}]}}
+{"id":"tokens-status-2611-2126","cmd":"tokens-status","args":{"check":true}}
