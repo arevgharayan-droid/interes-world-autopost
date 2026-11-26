@@ -1,1 +1,3 @@
-{"id":"drop-fr-2611","cmd":"drop-pages","args":{"page_ids":["1011074408765807","106591088255968"],"slots":["2026-11-26 14:30"]}}
+{"id":"now-2611-1735","cmd":"batch","args":{"steps":[
+ {"cmd":"skip-slot","args":{"slot":"2026-11-26 18:00"}},
+ {"cmd":"start-now","args":{}}]}}
