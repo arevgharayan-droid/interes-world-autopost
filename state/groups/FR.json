@@ -9,6 +9,7 @@
   "1de1978484aefe0b2b8a": "2026-11-14T11:39:11+00:00",
   "1fd17475bec6b972056b": "2026-11-22T16:31:51+00:00",
   "20eeac9f368eb6b6f94d": "2026-11-21T22:45:27+00:00",
+  "232a8feecfbdb980abc3": "2026-11-26T22:26:25+00:00",
   "242111f461b96288afa8": "2026-11-25T19:59:47+00:00",
   "2677a3c2bff6843f6d65": "2026-11-25T09:44:38+00:00",
   "28167400c6c84a4cf8d8": "2026-11-25T22:46:12+00:00",
@@ -40,6 +41,7 @@
   "98c70d4dfe9f76db6ed8": "2026-11-26T16:24:11+00:00",
   "9c307388c225dd9bd137": "2026-11-25T22:46:12+00:00",
   "9d4957340d3a2da90441": "2026-11-17T10:38:05+00:00",
+  "9d54d70ccc9951ee1aca": "2026-11-26T22:26:25+00:00",
   "9ef96b9844d697405d68": "2026-11-26T19:37:01+00:00",
   "a05ef237e23a3e84e4b7": "2026-11-26T13:38:36+00:00",
   "a2b8600fa33561995bf2": "2026-11-15T14:18:32+00:00",
@@ -69,7 +71,9 @@
   "d7f8167190d0b9b93782": "2026-11-18T22:20:27+00:00",
   "dbd1d87aa487c1409cf9": "2026-11-26T16:24:11+00:00",
   "dc9797f22db0fad7ab20": "2026-11-26T19:37:01+00:00",
+  "ddc46ce70e368416ae0a": "2026-11-26T22:26:25+00:00",
   "decab325bccbd36f9888": "2026-11-18T18:29:16+00:00",
+  "e31fa552f6a7750c0f04": "2026-11-26T22:26:25+00:00",
   "e74c48d9805792066531": "2026-11-23T13:49:24+00:00",
   "e82685e0d4983bf07b71": "2026-11-26T09:51:07+00:00",
   "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00",
@@ -14965,9 +14969,137 @@
    }
   },
   "2026-11-27 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "رشّت عروسي أمي المسنّة بالماء البارد أمام 200 ضيف، فخلعت خاتمي وأنهيت الزفاف، وبعد مكالمة واحدة انكشف سرّ حماي المدفون منذ ثلاثين عاماً",
+     "warnings": [
+      "длина текста FB 383 слов (исходник 514, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 872,
+     "wp_media_id": 869,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-1500-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi novia rociaba con agua fría a mi madre de 68 años en nuestra boda, pero no sabía quién controlaba la fortuna de su familia",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 870,
+     "wp_media_id": 869,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-1500-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle a aspergé ma mère de 68 ans devant 200 invités : j'ai retiré mon alliance, et son père a découvert le secret qu'il cachait depuis trente ans",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1340,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mireasa mi-a stropit mama de 68 de ani cu apă rece în fața a 200 de invitați, iar socrul meu a ridicat paharul. Nu știau cine controla de fapt firma care le ținea afacerea în viață",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 871,
+     "wp_media_id": 869,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-1500-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/911852798_1649345510220837_5067840580104668712_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qyx7WnZDRMIQ7kNvwFlUzvV&_nc_oc=AdpiTQkaHeAa2E-dWN92MoJGu43ueyUntUHNoCO6YGSyP3Tc0T7by0_XZPFmHLU3TQU&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=A0vSB17D9iLf68uFEinZ1g&_nc_tpa=Q5bMBQKBJn5Kfz1sUN_y22X-FPv6oOFbfHTRPTpWgSDkNV_XWlv_7zgdLNW3-cAfw5Yn-hPI78nq1npffg&oh=00_AQWUj7oaOTYVyDbJIl37rgK2IvI430VJkwDmQpVuAlXH6Q&oe=6B0E9D38",
+    "link": "https://www.facebook.com/story.php?story_fbid=1649345576887497&id=100054362119467",
+    "origin": "manual",
+    "page_id": "100054362119467",
+    "text": "“Maybe I Should Wash the Poverty Off Her!” My Bride Laughed as She Sprayed My 68-Year-Old Mother With Cold Water in Front of 200 Wedding Guests. Her Wealthy Father Raised His Glass and Cheered, Certain I Was Just a Poor Consultant Who Needed His Family. I Took Off My Wedding Ring and Said, “The Wedding Is Over.” Then I Made One Phone Call to My Attorney. What My Future Father-in-Law Didn't Know Was That His Entire Fortune Was About to Face a Secret He'd Spent Nearly Thirty Years Hiding...\n\n“Look at that poor woman. Does she even belong at a wedding like this?” my future father-in-law laughed, pointing toward my mother.\n\nBefore I could respond, my bride picked up a garden hose and smiled. “Maybe a little water will make her look more presentable.”\n\nThe cold water soaked my mother's simple gray dress while several guests laughed. I stepped between them, removed my wedding ring, and looked directly at the woman I had planned to marry.\n\n“This wedding is over. And by tomorrow morning, your father will understand exactly what he's lost.”\n\nThey thought I was an ordinary financial adviser who depended on their family's generosity. What they didn't know was that my mother and I controlled the investment firm keeping their business alive. And when my attorney opened the confidential files, we uncovered something far more disturbing than their financial troubles.\n\nThe Wedding That Changed Everything\n\nMy name is Wesley Bradford, and I was thirty-seven when I discovered that the woman I loved had never truly understood what love meant.\n\nOur wedding was taking place at the magnificent Ashford estate outside Greenwich, Connecticut.\n\nNearly two hundred guests had gathered beneath elegant white tents. Fresh flowers decorated the garden, a small orchestra played beside the terrace, and expensive champagne flowed freely.\n\nEverything looked perfect.\n\nUntil my mother arrived.\n\nMy mother, Dorothy Bradford, was sixty-eight. She had spent most of her life living modestly, even after our family's financial circumstances changed.\n\nShe wore a simple gray dress, comfortable shoes, and a small pearl necklace that had belonged to her mother.\n\nTo me, she looked beautiful.\n\nTo my fiancée's family, she apparently looked embarrassing.\n\nMy future father-in-law, Franklin Ashford, was a wealthy businessman who believed a person's importance could be measured by the price of their clothes.\n\nWhen he noticed my mother approaching the reception area, he laughed loudly.\n\n“Wesley, couldn't you have bought your mother something more appropriate? She looks like she came to ask for a job.”\n\nA few guests chuckled.\n\nI felt my face grow warm.\n\n“Franklin, that's my mother. Please show her some respect.”\n\nHe waved dismissively.\n\n“Relax, son. We're practically family now.”\n\nMy fiancée, Sabrina, stood beside him in an elaborate wedding gown.\n\nI expected her to defend my mother.\n\nInstead, she smiled.\n\n--------------------\n\nPart 2 is already in the first c0mment ❤️. Type “Bel0w” and press LI:KE if you want to c0ntinue reading till the end of this story👇",
+    "wp_media_id": 1339,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-1500-fr.jpg"
+   },
+   "source_key": "post:100054362119467_1649345576887497",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-27 18:00": {
    "langs": {},
@@ -15487,6 +15619,14 @@
    "origin": "manual",
    "page_id": "100050386034442",
    "slot": "2026-11-20 02:30",
+   "status": "used"
+  },
+  "post:100054362119467_1649345576887497": {
+   "fingerprint": "5b003184397da3c68486",
+   "link": "https://www.facebook.com/story.php?story_fbid=1649345576887497&id=100054362119467",
+   "origin": "manual",
+   "page_id": "100054362119467",
+   "slot": "2026-11-27 15:00",
    "status": "used"
   },
   "post:100059505912199_1480124753981041": {
