@@ -688,6 +688,20 @@ def cmd_ops(cfg, args, req=None) -> int:
             if (not only or g in only) and a.get("slot", "") in st.slots:
                 rc |= cmd_cancel_slot(config_mod.group_view(cfg, g), a.get("slot", ""), state=st)
         return rc
+    if cmd == "undo-slot":
+        # выпуск, поставленный по ошибке: посты, статьи и фото удаляются, а слот и его ссылка
+        # возвращаются в прежнее состояние (ту же ссылку потом можно поставить заново)
+        key = a.get("slot", "")
+        only = set(a.get("groups") or [])
+        rc, out = 0, [f"## Отмена выпуска {key} без следа", ""]
+        for g, st in _all_group_states(cfg).items():
+            if (only and g not in only) or key not in st.slots:
+                continue
+            r, msg = undo_slot(config_mod.group_view(cfg, g), key, st)
+            rc |= r
+            out.append(f"- {cfg.group_label(g)}: {msg}")
+        summary("\n".join(out) + "\n", f"previews/undo-{key[:10]}-{key[11:13]}{key[14:16]}.md", cfg)
+        return rc
     if cmd == "match-pages":
         return cmd_match_pages(cfg, a.get("pages") or [])
     if cmd == "fb-probe":
@@ -1980,6 +1994,33 @@ def drop_lang(gcfg, g: str, key: str, lang: str, services=None, tokens=None, wp_
     if errors:
         out.append("- ошибки: " + "; ".join(errors))
     return "\n".join(out)
+
+
+def undo_slot(cfg, key: str, st, services=None, tokens=None, wp_factory=None) -> tuple:
+    """Отмена «без следа»: как cancel-slot, плюс фото выпуска на сайте, тексты и запись о ссылке удаляются,
+    а сам слот убирается из состояния — следующий запуск снова считает этот час свободным."""
+    s = st.slots[key]
+    if services is None:
+        services = real_services(cfg)
+        if s.get("wp_site"):
+            services = (services[0], real_wp(s["wp_site"]), services[2])
+    if cmd_cancel_slot(cfg, key, services=services, tokens=tokens, state=st, wp_factory=wp_factory):
+        return 1, "❌ не все посты удалось снять — выпуск оставлен отменённым (см. previews/cancel-…)"
+    note = ""
+    src = s.get("source") or {}
+    if src.get("wp_media_id"):
+        try:
+            services[1].delete_media(src["wp_media_id"])
+        except WordPressError as e:
+            note = f" (фото {src['wp_media_id']} не удалено: {e})"
+    if s.get("source_key"):
+        st.sources.pop(s["source_key"], None)
+    sub = f"{cfg.group}/" if cfg.group else ""
+    for lang in (s.get("langs") or {}):
+        cfg.path(f"content/{key[:10]}/{sub}{key[11:13]}{key[14:16]}-{lang}.json").unlink(missing_ok=True)
+    del st.slots[key]
+    st.save()
+    return 0, "✅ посты, статьи и фото удалены; ссылка снова свободна" + note
 
 
 def cmd_cancel_slot(cfg, key: str, services=None, tokens=None, state=None, wp_factory=None) -> int:

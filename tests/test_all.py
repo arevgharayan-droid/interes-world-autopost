@@ -501,6 +501,25 @@ class CancelSlotTests(PipelineTests):
         self.assertEqual((len(graph.posts), len(wp.posts)), (0, 0))
 
 
+    def test_undo_slot_frees_slot_and_link(self):
+        from autopost.cli import undo_slot
+        cfg, clock, graph, wp, st, run = self._setup(datetime(2030, 5, 1, 6, 7))
+        run()
+        key = "2030-05-01 09:00"
+        src_key = st.slots[key]["source_key"]
+        self.assertTrue(graph.posts and wp.posts and wp.media)
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        rc, msg = undo_slot(cfg, key, st, services=(graph, wp, FakeHTTP()), tokens=tokens)
+        self.assertEqual(rc, 0, msg)
+        self.assertEqual((len(graph.posts), len(wp.posts), len(wp.media)), (0, 0, 0))
+        self.assertNotIn(key, st.slots)
+        self.assertNotIn(src_key, st.sources)
+        run()                                  # час снова свободен: та же ссылка ставится заново
+        st2 = type(st)(st.path)
+        self.assertEqual(st2.slots[key]["source_key"], src_key)
+        self.assertTrue(graph.posts)
+
+
 class ReplaceSourceTests(PipelineTests):
     def test_replace_story_of_prepared_slot(self):
         """Выпуск уже запланирован: новая ссылка заменяет историю — старые посты, статьи и фото удаляются,
