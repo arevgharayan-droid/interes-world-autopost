@@ -24492,7 +24492,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-26T17:36:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/925809405_122156499705170576_6086375178246969540_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=debKjSgOqWEQ7kNvwHUXZ6r&_nc_oc=AdqndKkPn-fPD7zi3zY0CuhdlAq_Fhv-HNwCif1R-iSL6UV00Ih7U2yNTg3XIhD3d9g&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&edm=ADqbNqUEAAAA&_nc_gid=0IQzJumj8DA0lW7XOCj5_Q&_nc_tpa=Q5bMBQJBDoZx160FUVFK-fp5q5eCdvXyuL1M5NqTSwxbhkYSHGh1x4G1AHMuSbl770ltSfmsYgFjUvxz5w&oh=00_AQR4fkZ5BDnbl3h0wTGa29IOdRl1tcpoBT0dlfYLFY4jbQ&oe=6B0DFD97",
+    "link": "https://www.facebook.com/story.php?story_fbid=122156499873170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "I was buying Christmas groceries when I called my son to ask if I should bring wine. Instead, my daughter-in-law answered. \"We're spending Christmas with my relatives this year, Joanne. You're not invited.\" I simply said, \"Alright.\"\n\nAfter checking out, I drove to the community center where my late husband had volunteered and donated the $31,000 I'd earned from selling his collection. The next morning, at precisely 7:15, my son was banging on my front door.\n\nPART 1\n\nIt was December 21, and I was comparing two packages of thyme in the grocery store when Camille informed me that I wouldn't be joining them for Christmas.\n\nI placed both packages back.\n\n\"I thought dinner was still happening at your house.\"\n\n\"It is,\" she replied. \"My mom is preparing everything.\"\n\n\"Has Owen agreed to this?\"\n\n\"Of course. We decided together.\"\n\nA customer behind me asked if I could clear the aisle.\n\nI moved my cart aside.\n\nOver Thanksgiving weekend, Owen had personally invited me.\n\n\"Nothing has changed, Mom. Come around twelve.\"\n\nI'd written the time on my calendar.\n\nMy cart already held Owen's favorite whole-berry cranberry sauce, clementines for Tessa, and the yellow mustard Wyatt put on nearly everything.\n\nI'd also bought pecans and pie crusts.\n\nI was sixty-two, and Dennis, my husband, had passed away two years earlier.\n\nThis would be my third Christmas without him.\n\nI'd been excited to see my grandchildren, especially their yearly argument about who would hand out the gifts.\n\nInstead, I paid for my shopping and headed outside.\n\nA freezing breeze pushed loose receipts across the parking lot.\n\nOnce inside my car, I messaged Owen.\n\nCamille says I'm not invited for Christmas anymore. Call when you get a chance.\n\nThen I drove to the Westdale Community Resource Center in Hamilton, Ohio.\n\nDennis had spent his final six years volunteering there.\n\nHe brought groceries to families in need, drove seniors to medical appointments, and repaired anything that stopped working.\n\nDenise, the director, seemed surprised to see me.\n\n\"Brenda! What brings you here?\"\n\n\"I've got some groceries to donate. My Christmas plans changed.\"\n\nShe studied my face, then picked up her coat.\n\n\"Let's see what you've brought.\"\n\nThe center accepted the fresh fruit and unopened shelf-stable food. I kept the refrigerated groceries they couldn't accommodate.\n\nAfter unloading everything, I helped arrange some donation boxes.\n\nA paper snowflake hung from Dennis's old storage cabinet.\n\nI paused in front of it.\n\nDenise followed my gaze.\n\n\"Come have some coffee in my office.\"\n\nA photograph behind her desk showed Dennis laughing as he helped carry a folding table.\n\nIt brought back so many memories.\n\nFor two years, I'd slowly gone through his possessions, choosing what to preserve and what to sell.\n\nHis hockey collection had been especially difficult to let go.\n\nFor nearly thirty years, he'd collected vintage programs, tickets, photographs, and equipment from flea markets and estate sales.\n\nHe'd organized everything into labeled binders that filled several shelves.\n\nAn auction company had spent months cataloging the items and selling them separately.\n\nThe final payment arrived six weeks earlier.\n\nAfter expenses, the proceeds totaled $31,000.\n\nI hadn't touched the money.\n\nThat summer, I'd told Denise I wanted to give some of it to the center in Dennis's honor.\n\nI just hadn't settled on an amount.\n\nOwen knew about the auction.\n\nAre you curious about what would happen next? If so, don’t forget to type “BEST” and press LIKE to let us know, so we’ll update full story for you soon",
+    "wp_media_id": 1257,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1736-it.jpg"
+   },
+   "source_key": "post:61585117295331_122156499873170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-26 18:00": {
    "langs": {},
@@ -25215,6 +25231,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-21 18:00",
    "status": "used"
+  },
+  "post:61585117295331_122156499873170576": {
+   "fingerprint": "0143d65d9c5e6d4d21d0",
+   "link": "https://www.facebook.com/story.php?story_fbid=122156499873170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-26 17:36",
+   "status": "reserved"
   },
   "post:61585117295331_122156531319170576": {
    "fingerprint": "33dcd73900252a4b127e",
