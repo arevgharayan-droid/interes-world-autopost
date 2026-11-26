@@ -25396,7 +25396,23 @@
   "2026-11-27 00:00": {
    "langs": {},
    "slot_iso": "2026-11-27T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/928384131_122217438878841094_9018672576638679671_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0jjoPH3wXdwQ7kNvwHqUI_l&_nc_oc=Adp_YaNPwZJeEopibHzggRUXMPoVF4S-vcIRGW7m8Ftv7lSqmxmKJNpp-IvypSukU80&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fYOtDXs2pxLJFuu1qT_ysw&_nc_tpa=Q5bMBQImrpBK-7Mn7K9Tw4eANWhfvIW0BzOX78GnEKv14NsQGzL-06xloM-j1gPWPE7Vore-wCFqN9Y05A&oh=00_AQRhOc1yykfqm5ST-Ze_VeVIk8UsZ8P5KygiinoX8MEQaw&oe=6B0E5800",
+    "link": "https://www.facebook.com/story.php?story_fbid=122217438992841094&id=61575232821594",
+    "origin": "manual",
+    "page_id": "61575232821594",
+    "text": "My husband became an organ donor as his final wish — after he died, his doctor stopped me and said, \"There’s something he made me promise to give you only after he was gone.\"\nMark and I had been married for three years when I finally became pregnant with the baby we had always wanted.\nOur happiness lasted only six months. Then Mark learned about his illness. The doctors gave him no more than three months to live.\nHe probably wouldn’t live long enough to meet our daughter.\nThat evening, he sat beside me on our porch with one hand resting on my belly.\n\"If my organs are still healthy enough when the time comes, I want them donated.\"\n\"Please don’t talk about dying while she’s kicking,\" I whispered.\n\"That’s exactly why I have to.\"\nHe looked at my stomach.\n\"If I can’t watch her grow up, maybe I can at least make sure somebody else gets more time with theirs.\"\nMark grew weaker much faster than we expected. By my eighth month, I was helping him button his shirts and pretending not to notice when he had to stop halfway to the bathroom just to catch his breath.\nA few weeks before he died, Mark began asking to speak to his doctor alone. I never understood why. Whenever I asked what they discussed, he would only squeeze my hand and say,\n\"There’s something I need to arrange. Please trust me.\"\nIt was unlike him to keep anything from me, especially then. But he was strangely firm about it.\nSo I let him do it.\nHe died in the hospital with my hand wrapped around his.\nAfterward, I signed the final donation papers with tears dripping onto the page.\nI remembered that Mark wanted this. I had to honor his final wish, even though doing so caused me unbearable pain.\nAs I was leaving the hospital, his doctor hurried after me, his face pale. He was holding something behind his back so I couldn’t see it.\n\"Wait! Please, wait!\"\nSomething in his voice made me stop.\n\"Mark gave me this three weeks ago,\" he said. \"He was very specific. You weren’t supposed to see it while he was alive.\" - Please leave a \"YES\" comment below and give us a \"Like\" to get the full story. Full story below ⬇️",
+    "wp_media_id": 1290,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-0000-it.jpg"
+   },
+   "source_key": "post:61575232821594_122217438992841094",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-27 12:00": {
    "langs": {},
@@ -26019,6 +26035,14 @@
    "page_id": "61574270220252",
    "slot": "2026-11-17 12:00",
    "status": "used"
+  },
+  "post:61575232821594_122217438992841094": {
+   "fingerprint": "155dd035d1a2955deead",
+   "link": "https://www.facebook.com/story.php?story_fbid=122217438992841094&id=61575232821594",
+   "origin": "manual",
+   "page_id": "61575232821594",
+   "slot": "2026-11-27 00:00",
+   "status": "reserved"
   },
   "post:61576792898556_122130758852893096": {
    "fingerprint": "70b2b5adc4ce4ff4c245",
