@@ -15339,12 +15339,14 @@
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123707053505599_1403628596175113",
        "error": null,
        "last_attempt": "2026-11-26T13:59:38+04:00",
        "mode": "schedule",
        "photo_id": "122123707023505599",
        "post_id": "1448441201677530_122123707053505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Minha sogra trocou a senha da porta enquanto minha mãe estava no hospital, e meu marido concordou em silêncio",
@@ -15393,7 +15395,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1430-nl.jpg"
    },
    "source_key": "post:61585117295331_122156477673170576",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
