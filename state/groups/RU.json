@@ -24560,7 +24560,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-26T14:30:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/917310273_122132144060893096_7682616953053000938_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EgogWxf4R-MQ7kNvwG0wmJC&_nc_oc=Adpv1QBXiPKEqaIRerhkZszId40cB-KQPIXcwFv9KH1miMVKhlpe4gpjZvdokOKyCw4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hdqBvH67YM-zG69sHEL1jQ&_nc_tpa=Q5bMBQJEcsLVbVl34l93YNDV-3dW_0isRJhdQogbaUnHmm-Bwi8GkL3CChNfgLTKstK6YNU9L1p1LkVSbw&oh=00_AQQHi8E_9PMsim_hfKdqSPHrlhC-XDWSugU-xECa1n7acQ&oe=6B0DD4F2",
+    "link": "https://www.facebook.com/story.php?story_fbid=122132160368893096&id=61576792898556",
+    "origin": "manual",
+    "page_id": "61576792898556",
+    "text": "I sent a message to our family group chat: “My flight lands at 5 p.m. Can someone pick me up?” I had just returned from burying my husband overseas. My brother replied, “We’re busy. Take an Uber.” Then my mother added, “Why didn’t you plan this better?” I answered with only two words: “No problem.” But what they saw on the evening news made every one of them drop their phones.\nMy name is Amelia.\nI’m thirty-five years old, and that morning I buried my husband, James, beneath soil that belonged to neither of us.\nWhen the plane landed at Portland International Airport, the tires hit the runway with a hard screech.\nI turned on my phone before we had even reached the gate.\nMy hands were shaking.\nNot because I was cold.\nBecause some small, desperate part of me still believed my family might be waiting.\nI opened our family group chat and typed:\nMy flight lands at 5:00 p.m. Can someone please pick me up?\nThe three typing dots appeared almost immediately.\nFor one brief second, I felt relieved.\nThen my brother’s message came through.\nTroy: We’re swamped today. Just take an Uber.\nA few seconds later, Mom replied.\nMom: Why didn’t you organize this better? You know Tuesdays are difficult for everyone.\nI stared at the screen until the words started to blur.\nOrganize this better.\nAs though I had planned my husband’s brain aneurysm.\nAs though his sudden death had been something I could have added to the family calendar weeks earlier.\nI didn’t argue.\nI didn’t remind them that I had spent the last several days identifying James’s body, signing foreign paperwork, arranging transportation, and standing alone beside his grave.\nI simply typed:\nNo problem.\nAt the time, I had no idea that within twenty-four hours, my family would be watching the consequences of those messages unfold on the evening news.\nBy the time I reached baggage claim, my phone buzzed again.\nMy father had joined the chat.\nDad: They’re expecting rain tonight. Be careful getting home.\nThen another message from Mom appeared.\nMom: Your father and I are having dinner with the Hendersons. We agreed to it weeks ago.\nI read it twice.\nA dinner invitation mattered more than meeting their daughter after she had buried her husband.\nI locked my phone and slipped it into my coat pocket.\nTwo large black suitcases appeared on the baggage carousel.\nThey held almost everything I had left of James.\nHis shirts.\nHis shoes.\nHis shaving kit.\nThe navy tie he wore to our anniversary dinner.\nI struggled to lift both bags onto a luggage cart.\nAs I pushed them toward the terminal exit, one wheel jammed.\nThe cart stopped suddenly.\nThe top suitcase fell to the floor and burst open.\nJames’s belongings scattered across the polished tiles.\nSocks.\nTies.\nFolded shirts that still carried the faint smell of his cologne.\nPieces of a life that had ended without warning.\nTravelers stepped around me while I dropped to my knees and tried to gather everything.\nMy vision blurred with tears.\nI could barely breathe.\nEventually, a stranger crouched beside me and helped close the suitcase.\nMy own family lived less than an hour away.\nNone of them were coming.\nI ordered a ride and sat silently in the back seat while rain began tapping against the windows.\nThe driver tried to make conversation twice.\nBoth times, I pretended not to hear him.\nWhen we reached the house James and I had shared, every window was dark.\nThe rooms were cold.\nI left the suitcases beside the front door and didn’t turn on the lights.\nInstead, I curled into the armchair where James used to sit on Sunday mornings with coffee and the newspaper.\nThe silence pressed in from every direction.\nI thought I was completely alone.\nI didn’t yet realize that something inside the house had already started to change.\nSomething James had arranged before his final trip.\nSomething my family knew nothing about.\nAnd before the night was over, that silence would be broken by a sound so alarming that neighbors would rush outside, emergency vehicles would fill the street, and television crews would arrive before sunrise.\nBy the time my family saw my house on the evening news, it was already too late to take back what they had written. I know you’re curious to see what happens next, so please be patient and continue reading in the comments below. Thank you for understanding the inconvenience. Please leave a “YES” below and give us a Like to get the full story",
+    "wp_media_id": 801,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1430-ru.jpg"
+   },
+   "source_key": "post:61576792898556_122132160368893096",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-26 15:00": {
    "langs": {},
@@ -25527,6 +25543,14 @@
    "page_id": "61576792898556",
    "slot": "2026-11-17 12:00",
    "status": "used"
+  },
+  "post:61576792898556_122132160368893096": {
+   "fingerprint": "c45536d0b669f2a58634",
+   "link": "https://www.facebook.com/story.php?story_fbid=122132160368893096&id=61576792898556",
+   "origin": "manual",
+   "page_id": "61576792898556",
+   "slot": "2026-11-26 14:30",
+   "status": "reserved"
   },
   "post:61576792898556_122132361842893096": {
    "fingerprint": "c665ff2719337a6bccc8",

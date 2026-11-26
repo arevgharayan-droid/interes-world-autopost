@@ -15177,7 +15177,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-26T14:30:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/926880013_122156477649170576_6968431947410424598_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HyKec3i5dbsQ7kNvwG4GSUv&_nc_oc=Ado-05eVydsDgQIgEbLO51nNRZ9nhTNL5A1ksTnm2ObOrlCg06Sa0HSvwkn78uqtJDY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fvq1t3xaPZW9r6o8MMF0RQ&_nc_tpa=Q5bMBQJo2yDoSznj9nCarc12ZkW8mKPmVO8q1BfCBv2Us713uEjhWr4LbJLEQxGEsK2nAfx9ZmsBkTVQFQ&oh=00_AQQIQUOC88LfHjk5wayfSW6Uw3ylb2uOPeyJwZwPqReqMQ&oe=6B0DB7EA",
+    "link": "https://www.facebook.com/story.php?story_fbid=122156477673170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "After five years of marriage, I went to visit my sick mother. When I returned, my mother-in-law had changed the locks. “Don’t you dare come back into this house!” she shouted, while my husband stood by in silence. I didn't argue. I simply sold the condo and the car that were in my name. The next day, they received news that left them completely stunned...\n\nPART 1\n\n“If you walk out that door to visit your mother, forget about ever coming back into this house!”\n\nMy mother-in-law said those words while my mom was in the emergency room, fighting for her life.\n\nThe worst part wasn't hearing what she said. The worst part was looking at my husband and realizing that he completely agreed with her.\n\nMy name is Camille Dawson, I'm 35 years old, and for five years, I made the mistake of confusing patience with love.\n\nWhen I married Connor Gallagher, I already owned a condo in Minneapolis. I had bought it with my savings and part of the money my parents had given me after working their entire lives. I also owned a car that I had paid for before I even met him.\n\nWe signed a prenuptial agreement establishing separate property. Connor knew perfectly well that both properties were registered in my name, but I had never used that fact to make him feel inferior.\n\nThree months after our wedding, my mother-in-law, Brenda, showed up with four suitcases.\n\n“I was cheated out of my house because of some fraudulent paperwork,” she explained through tears. “I just need somewhere to stay for a few weeks.”\n\nThose few weeks turned into five years.\n\nAt first, she took over our guest bedroom. Then she started deciding what we bought, what we ate, and whom we were allowed to invite over.\n\nEventually, she began acting as though she were the rightful owner of the condo.\n\n“A good wife puts her husband's family first,” she would repeat whenever I wanted to visit my parents.\n\nConnor always found an excuse to defend her.\n\n“You know what my mom is like. Don't make a big deal out of every little thing.”\n\nLittle by little, I stopped going out with my friends, turned down an important career opportunity, and cut back on visits to my family. I continued working from home as a marketing consultant, but practically everything I earned went toward covering our household expenses.\n\nUntil that Sunday came.\n\nBrenda had organized a family gathering to commemorate the anniversary of her husband's death. She had invited sixteen relatives and had spent three days ordering me around, telling me to prepare everything.\n\nAt eleven in the morning, while I was washing a mountain of dishes, my phone rang.\n\nIt was my aunt Sandra.\n\n“Camille, come to the hospital. Your mother collapsed this morning. The doctors are running tests, and we need you here.”\n\nI felt as though the ground had vanished beneath my feet.\n\nI took off my apron and grabbed my purse.\n\nAs I tried to leave, Brenda stepped directly in front of the door.\n\n“And who's going to serve the food?”\n\n“My mother is in the hospital.”\n\n“You always find some excuse to disobey me.”\n\nI turned toward Connor, who was sitting on the couch watching a football game.\n\n“Connor, please. Say something to her.”\n\nWithout even getting up, he replied, “Camille, wait until after the meal. My mom has guests.”\n\nThose words shattered something inside me.\n\n“If it were your mother, would you make her wait too?”\n\nHe didn't answer.\n\nI moved Brenda aside without hurting her and walked out.\n\nFor the next three days, I stayed by my mother's side. Fortunately, the doctors managed to stabilize her, although she needed rest and continued monitoring.\n\nWhen I returned to the condo, exhausted and still wearing the clothes I'd worn to the hospital, I entered the password for the electronic lock.\n\nAccess denied.\n\nI tried again.\n\nNothing.\n\nThen a message from Brenda appeared on my phone:\n\n“Connor and I changed the code. Don't come back until you're ready to get on your knees, apologize, and accept who is in charge of this family.”\n\nI stared at the screen.\n\nThen I raised my eyes toward the door of the condo I had bought myself.\n\nAnd for the first time in five years, instead of crying, I smiled.\n\nThey had no idea what they had just set in motion.\n\nDo you want to know what happens next? Type 'GOOD' and you'll see the the unexpected ending in the comments",
+    "wp_media_id": 1239,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1430-nl.jpg"
+   },
+   "source_key": "post:61585117295331_122156477673170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-26 15:00": {
    "langs": {},
@@ -16827,6 +16843,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-21 15:00",
    "status": "used"
+  },
+  "post:61585117295331_122156477673170576": {
+   "fingerprint": "16445f85c7463b6755a6",
+   "link": "https://www.facebook.com/story.php?story_fbid=122156477673170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-26 14:30",
+   "status": "reserved"
   },
   "post:61586321290305_122143810737210709": {
    "fingerprint": "5b16116dc7df14500fc7",

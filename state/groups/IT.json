@@ -24413,7 +24413,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-26T14:30:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/923492738_122156616159170576_2821045176017712588_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fdtV_EKSNTcQ7kNvwFUm2Rp&_nc_oc=AdrWWYLkUqBkl8VYeFo5IU80G5vCUoMeYsc9BkjkkWBCnLhFSmU5_mUgYwhoZ58ZMH0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=vdzQT2koul45T4iECCCc7w&_nc_tpa=Q5bMBQLOv9wvTD3YpeUByOXRoAvH8RDUlKxOw64Uw6jhTSTngs3hJITUa4BUKqcNbwbfF3wjCIAs-9mL2Q&oh=00_AQQKrD3UUrd52J_JBKZemEEBnygs224fHkZERuUrDsqTKQ&oe=6B0DEBF8",
+    "link": "https://www.facebook.com/story.php?story_fbid=122156616231170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "No one came to my son's surgery. Three days later, my mom texted, \"Send 5,000 dollars today for your sister's wedding dress, or I'll empty the account before Caleb leaves ICU.\" I set my cup down, sent her 50 cents with \"Buy a veil,\" and froze their access - then the bank manager called.\nThe morning Caleb went into surgery, the pediatric wing smelled like sanitizer, burnt coffee, and fear.\nHe was seven, lying beneath a white hospital blanket with his dinosaur blanket tucked under his chin. Monitor wires crossed his small chest, and a nurse had written his name on the whiteboard with a green heart beside it—as though a marker heart could make any of this easier.\nI had told my mother, Patricia, three weeks earlier. I sent the hospital address, floor number, surgeon's name, surgery time, parking instructions, and a photo of Caleb hugging his stuffed triceratops.\nMy sister Vanessa replied with a heart.\nPatricia wrote, \"We'll see.\"\nAt 5:58 a.m., Caleb squeezed my hand and looked toward the automatic doors.\n\"Is Grandma lost?\"\n\"She's probably on her way, buddy,\" I said.\nIt was the first lie I told that day.\nAt 6:22, they rolled him toward the operating room. His dinosaur blanket slipped, and I tucked it back around his shoulders.\n\"Tell Aunt Vanessa I wasn't scared,\" he whispered.\nThat sentence stayed under my ribs for the next six hours.\nNo one came. No call. No prayer. Not even one of the fake excuses my family usually offered before posting online about how blood was everything.\nThe surgeon came out shortly after noon and said the operation had gone well, but Caleb was fragile and needed close observation.\nSo I did not exhale.\nFor three days, I slept in a vinyl chair beside his ICU bed. I learned the rhythm of every monitor and which nurse hummed while changing IV bags. I learned how to cry into a paper towel without making a sound because Caleb opened his eyes whenever my breathing changed.\nAt 2:14 p.m. on the third day, my phone buzzed while he slept.\nMom: Need 5,000 dollars for your sister's wedding dress. Send today. Vanessa found the one.\nThere was no question about Caleb. No apology for missing his surgery. No attempt to pretend they had meant to come.\nJust the dress.\nThen another message appeared.\nMom: Send 5,000 dollars today, or I'll empty the account before Caleb leaves ICU.\nAfter my father died, Patricia claimed grief made her panic, so she needed emergency access to one of my accounts. Vanessa said she only needed my card for temporary expenses.\nTemporary became phone bills. Phone bills became rent shortages. Then came insurance payments, bridal deposits, salon appointments, and lunches I was never invited to attend.\nThey called it family support because I was the one paying. Whenever I asked for anything back, they called me dramatic.\nI opened my banking app with one hand while the other rested on Caleb's dinosaur blanket.\nI sent Patricia 50 cents.\nMemo: Buy a veil.\nThen I stepped into the ICU hallway and called the bank. I froze every card, removed every authorized user, shut down every linked transfer, changed the password, and asked the fraud department to review the charges I had ignored for years because I kept confusing mercy with surrender.\nThe woman on the fraud line asked twice whether I wanted a complete access audit.\n\"Yes,\" I said.\nAt 8:11 the next morning, the branch manager called. His voice had the careful tone people use when bad news is already sitting in front of them.\n\"Mrs. Whitaker, your mother came into the branch this morning with your sister. They were extremely upset.\"\nMy fingers tightened around my paper coffee cup until the lid bent.\n\"What did they do?\"\n\"They tried to withdraw everything.\"\nThrough the ICU window, Caleb's small chest rose and fell beneath the hospital blanket.\n\"Everything from which account?\" I asked.\nThe manager paused.\nWhen he finally answered, his voice was so low I almost missed it.\n\"Not just yours.\"\nType CASH and I'll continue.\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a 'CASH' comment below and give us a \"Like \" to get full story )",
+    "wp_media_id": 1237,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1430-it.jpg"
+   },
+   "source_key": "post:61585117295331_122156616231170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-26 15:00": {
    "langs": {},
@@ -25142,6 +25158,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-26 12:00",
    "status": "used"
+  },
+  "post:61585117295331_122156616231170576": {
+   "fingerprint": "c58cf232a852abf0855d",
+   "link": "https://www.facebook.com/story.php?story_fbid=122156616231170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-26 14:30",
+   "status": "reserved"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",
