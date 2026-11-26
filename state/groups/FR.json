@@ -16,11 +16,13 @@
   "3da4775069ee736a2d78": "2026-11-22T21:33:46+00:00",
   "3dce7e6988a88bf961cd": "2026-11-19T17:52:54+00:00",
   "3f016791a0afbbb7ef04": "2026-11-18T08:52:10+00:00",
+  "437393fdc78b86a58315": "2026-11-26T09:51:07+00:00",
   "4a12667ae8855b24c947": "2026-11-19T21:13:15+00:00",
   "4a73690c41800c227951": "2026-11-16T16:00:49+00:00",
   "4bc4dacea6526b7a3a41": "2026-11-22T14:04:08+00:00",
   "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
   "5d67279da1e3d48db9cd": "2026-11-16T00:18:23+00:00",
+  "60b8bc5d4883ae07228a": "2026-11-26T09:51:07+00:00",
   "676a53f37d08a3f7dca8": "2026-11-25T22:46:12+00:00",
   "69c3ac847b66c7a0472e": "2026-11-17T17:51:44+00:00",
   "6bc11208f1f5019dd4b9": "2026-11-25T18:00:28+00:00",
@@ -41,6 +43,7 @@
   "ad130c15729ad1a41316": "2026-11-19T17:17:43+00:00",
   "b094df1fc1c2da2733f6": "2026-11-12T10:26:33+00:00",
   "b1b76d5b33db03a81641": "2026-11-25T11:44:24+00:00",
+  "b6cad00cfa1dd0c91a6f": "2026-11-26T09:51:07+00:00",
   "bb2f93acd716a89559fd": "2026-11-16T10:16:47+00:00",
   "bb6775e0f7693f38a811": "2026-11-16T20:28:20+00:00",
   "bc0fa73c3a728155dad8": "2026-11-20T22:45:41+00:00",
@@ -57,6 +60,7 @@
   "d7f8167190d0b9b93782": "2026-11-18T22:20:27+00:00",
   "decab325bccbd36f9888": "2026-11-18T18:29:16+00:00",
   "e74c48d9805792066531": "2026-11-23T13:49:24+00:00",
+  "e82685e0d4983bf07b71": "2026-11-26T09:51:07+00:00",
   "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00",
   "eedeb2476364b2162ac5": "2026-11-18T22:49:38+00:00",
   "f0de6209bc2c04ae4ddf": "2026-11-22T21:25:14+00:00",
@@ -12566,7 +12570,119 @@
   },
   "2026-11-26 14:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "سخر أبي من قفازات زوجي الميكانيكي على مائدة العشاء، وعندما خلع أحدها شحب وجهه حين رأى الخاتم الذهبي",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 807,
+     "wp_media_id": 804,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1430-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi padre se burló de mi esposo mecánico por usar guantes en la cena, pero cuando se quitó uno, papá reconoció un anillo de oro y palideció",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 805,
+     "wp_media_id": 804,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1430-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mon père s'est moqué des gants de mon mari mécanicien à table, mais quand Simon en a retiré un, il a reconnu une bague en or et a blêmi",
+     "warnings": [
+      "длина текста FB 1353 слов (исходник 1138, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1247,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Tata și-a bătut joc de ginerele mecanic pentru că purta mănuși la cină, dar când Simon și-a scos una, a văzut inelul de aur și a pălit",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 806,
+     "wp_media_id": 804,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1430-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T14:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/920721755_1569981961819482_3516761144713611170_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=uW_334ElwH8Q7kNvwF0LKyy&_nc_oc=Adppau2mZFlaXdmcDFC3pSiaRPY8HMzUXgPLtRpjJDt9b_O0jjkG8NW0wdBlzX4piGY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=NFl0wCoPvpLoVOe84Vp6zQ&_nc_tpa=Q5bMBQLUbrhavNiBZye6PjT7IJpe3NGQQ-l7xKCi0PSeQbwm1tC9LpJGN90oO_aKw2QqRdk-4kRuUctmRg&oh=00_AQQZcsKPFw7Gsekue2_-pMIGFWTwij5fqEF2FYVIhtmB7A&oe=6B0DBC96",
@@ -12578,7 +12694,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1430-fr.jpg"
    },
    "source_key": "post:100064230806326_1569981985152813",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13270,7 +13386,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-26 14:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1570604038423941": {
    "fingerprint": "73a837777ff1db733fe5",

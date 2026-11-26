@@ -16183,3 +16183,14 @@
 {"slot": "2026-11-26 14:30", "lang": "EN", "page": "1167352663135230", "action": "fb_schedule", "photo_id": "122149457769384760", "post_id": "1167352663135230_122149457799384760", "t": "2026-11-26T09:50:54+00:00", "group": "EN"}
 {"slot": "2026-11-26 14:30", "lang": "PL", "action": "wp_post", "id": 1245, "status": "future", "t": "2026-11-26T09:50:54+00:00", "group": "IT"}
 {"slot": "2026-11-26 14:30", "lang": "CS", "action": "wp_post", "id": 1246, "status": "future", "t": "2026-11-26T09:50:55+00:00", "group": "IT"}
+{"slot": "2026-11-26 14:30", "lang": "EN", "page": "530022363528890", "action": "fb_schedule", "photo_id": "122176656146720509", "post_id": "530022363528890_122176656176720509", "t": "2026-11-26T09:51:00+00:00", "group": "EN2"}
+{"slot": "2026-11-26 14:30", "lang": "NL", "page": "633031599904551", "action": "fb_schedule", "photo_id": "122224718900930012", "post_id": "633031599904551_122224718930930012", "t": "2026-11-26T09:51:06+00:00", "group": "NL"}
+{"slot": "2026-11-26 14:30", "lang": "FR", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 1353 слов (исходник 1138, цель ±10%)"], "t": "2026-11-26T09:51:07+00:00", "group": "FR"}
+{"slot": "2026-11-26 14:30", "lang": "ES", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-26T09:51:07+00:00", "group": "FR"}
+{"slot": "2026-11-26 14:30", "lang": "RO", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-26T09:51:07+00:00", "group": "FR"}
+{"slot": "2026-11-26 14:30", "lang": "AR", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-26T09:51:07+00:00", "group": "FR"}
+{"slot": "2026-11-26 14:30", "lang": "FR", "action": "wp_post", "id": 1247, "status": "future", "t": "2026-11-26T09:51:07+00:00", "group": "FR"}
+{"slot": "2026-11-26 14:30", "lang": "ES", "action": "wp_post", "id": 805, "status": "future", "t": "2026-11-26T09:51:10+00:00", "group": "FR"}
+{"slot": "2026-11-26 14:30", "lang": "RO", "action": "wp_post", "id": 806, "status": "future", "t": "2026-11-26T09:51:11+00:00", "group": "FR"}
+{"slot": "2026-11-26 14:30", "lang": "EN", "page": "1165836896614851", "action": "fb_schedule", "photo_id": "122147090865384677", "post_id": "1165836896614851_122147090895384677", "t": "2026-11-26T09:51:12+00:00", "group": "EN"}
+{"slot": "2026-11-26 14:30", "lang": "AR", "action": "wp_post", "id": 807, "status": "future", "t": "2026-11-26T09:51:13+00:00", "group": "FR"}
