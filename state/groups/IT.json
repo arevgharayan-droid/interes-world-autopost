@@ -51,6 +51,7 @@
   "3cd0bbe178487279f165": "2026-11-20T14:41:44+00:00",
   "3f62142a218418288411": "2026-11-22T16:32:05+00:00",
   "40b84f2e1eb24344e68d": "2026-11-15T14:13:20+00:00",
+  "458f4a010ea102d977e2": "2026-11-26T22:40:32+00:00",
   "459bbfad275aecbd52c3": "2026-11-21T14:12:51+00:00",
   "45d99698e588bacd7f5c": "2026-11-18T08:52:43+00:00",
   "464c25251e7d15819f83": "2026-11-26T13:38:26+00:00",
@@ -134,6 +135,7 @@
   "ad8c2ece3cec5e65114f": "2026-11-16T20:28:05+00:00",
   "ae98003cc9368817f7b5": "2026-11-20T16:46:26+00:00",
   "b1257c1e6f2b48650d7d": "2026-11-16T10:16:33+00:00",
+  "b16bb2a223092f7e4a32": "2026-11-26T22:40:32+00:00",
   "b2a13103e503b6f13337": "2026-11-24T16:42:17+00:00",
   "b434578fa69a1c78516f": "2026-11-25T11:44:52+00:00",
   "b4aed3404e941135191d": "2026-11-21T17:04:20+00:00",
@@ -145,6 +147,7 @@
   "bbbbac24d8e18e981832": "2026-11-26T22:24:40+00:00",
   "bcb72c92960be8d82023": "2026-11-26T13:38:26+00:00",
   "bd6eab36f82eb4d435fe": "2026-11-14T19:42:43+00:00",
+  "c00a88c3c5699b7d3202": "2026-11-26T22:40:32+00:00",
   "c048f4c9b8f48906fe16": "2026-11-16T16:01:05+00:00",
   "c06835332bfb985e67e7": "2026-11-26T22:24:40+00:00",
   "c349efe2b40ef4a668cd": "2026-11-18T15:24:10+00:00",
@@ -26735,7 +26738,88 @@
    }
   },
   "2026-11-27 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mami, táta vodí cizí ženu domů a bere ti peníze,“ zašeptal syn. Než odjela, nastražila manželovi past",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1347,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mamma, papà porta a casa un'altra donna e prende i tuoi soldi»: la trappola di una madre che nessuno si aspettava",
+     "warnings": [
+      "длина текста FB 822 слов (исходник 713, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1345,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mamo, gdy cię nie ma, tata sprowadza obcą kobietę i zabiera twoje pieniądze” – szepnął mój syn. Zastawiłam na męża pułapkę",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1346,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/915349945_1507463271247189_5099025412436639581_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XTonZZh3hIoQ7kNvwFyC2Gk&_nc_oc=AdpFBEoezCBm4-zaarGCwd60Sx4X57IHcRDEBcbEQCbh1czy8Uv7QzBxtxk-v1Ocx84&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=CNaoK4vleE7sP0pIl7Iv1Q&_nc_tpa=Q5bMBQJbeJCBB3D2QaXldG-qUJ8p1vdYrXA3KcFnBHjMSfnn7bjEkN70qu9ya2T7RtQPP2TZdjZaFHZ1aw&oh=00_AQX9eGnERYRFad2jJSuEH6M3rRUVECXERzmUS7CvrOUaBA&oe=6B0E6FC1",
@@ -26747,7 +26831,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-1800-it.jpg"
    },
    "source_key": "post:100059505912199_1507463427913840",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -27159,7 +27243,7 @@
    "origin": "manual",
    "page_id": "100059505912199",
    "slot": "2026-11-27 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1265872628897085": {
    "fingerprint": "dde288c45de1e2e21658",
