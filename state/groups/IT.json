@@ -25458,7 +25458,20 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1106793902521611": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1220855754440320": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1240142009184080": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "Manžel před smrtí daroval orgány. Když jsem odcházela z nemocnice, lékař za mnou běžel: „Mark mi dal něco, co jste ještě vidět neměla",
      "warnings": [
       "длина текста FB 327 слов (исходник 396, цель ±10%)"
@@ -25713,6 +25726,10 @@
        "post_id": "1266426573217032_122130708249429703",
        "status": "scheduled"
       },
+      "1304525059401414": {
+       "attempts": 0,
+       "status": "new"
+      },
       "997772916762884": {
        "attempts": 1,
        "error": null,
@@ -25737,7 +25754,24 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1079800528556354": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1083785318156771": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1089456087587677": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1107966229066828": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "Mój mąż został dawcą narządów jako swoje ostatnie życzenie. Po jego śmierci lekarz zatrzymał mnie i powiedział: „Kazał mi obiecać, że dam to pani dopiero, gdy go już nie będzie",
      "warnings": [],
      "wp_error": null,
@@ -25777,7 +25811,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-0000-it.jpg"
    },
    "source_key": "post:61575232821594_122217438992841094",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
