@@ -12,6 +12,7 @@
   "0b4814997aa3da6b7d13": "2026-11-22T14:04:30+00:00",
   "0b6034a27523790be1ee": "2026-11-22T22:07:10+00:00",
   "0b8087705a31d2e55203": "2026-11-25T22:46:14+00:00",
+  "0bd38547393dcab53fe0": "2026-11-26T09:50:53+00:00",
   "0d54eec8b6a3e32a0a35": "2026-11-21T10:17:43+00:00",
   "0ea3482f1cdaf9663ff5": "2026-11-23T13:49:59+00:00",
   "0f39b53423b0ee3c95ec": "2026-11-16T19:28:24+00:00",
@@ -95,6 +96,7 @@
   "8b5558dda0b7f4acd1f8": "2026-11-21T14:12:51+00:00",
   "8ce4da47da5cb5603868": "2026-11-17T10:38:47+00:00",
   "8d0246860082a2d95aea": "2026-11-25T09:44:27+00:00",
+  "8d3150420fb5ee953628": "2026-11-26T09:50:53+00:00",
   "8d6dd84f3fd108530c61": "2026-11-14T09:18:15+00:00",
   "8dcd9b38604c3a494e89": "2026-11-18T08:52:43+00:00",
   "90f10d92ae3c8949c582": "2026-11-18T18:29:38+00:00",
@@ -157,6 +159,7 @@
   "e5620b751bed22ad8486": "2026-11-16T19:28:24+00:00",
   "e5f95007f72d9b82c9a6": "2026-11-23T13:49:21+00:00",
   "e7e1a982f1a05c54040e": "2026-11-20T22:45:58+00:00",
+  "e9cc39effb34f095ae04": "2026-11-26T09:50:53+00:00",
   "e9d713c4cf15c5418f4d": "2026-11-18T22:49:46+00:00",
   "ea254955822bed5c2183": "2026-11-19T14:07:51+00:00",
   "eac8aa08480a5392b558": "2026-11-19T14:07:51+00:00",
@@ -24411,7 +24414,88 @@
   },
   "2026-11-26 14:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nikdo nepřišel na operaci mého sedmiletého syna. O tři dny později mi máma napsala: „Pošli 5 000 dolarů na šaty pro sestru, nebo vyberu účet dřív, než Caleb opustí JIP",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1246,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nessuno è venuto all'operazione di mio figlio di 7 anni. Tre giorni dopo mia madre ha chiesto 5.000 dollari per l'abito di mia sorella, e io le ho mandato 50 centesimi",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1244,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nikt nie przyszedł na operację mojego syna, a trzy dni później mama zażądała 5000 dolarów na suknię ślubną siostry",
+     "warnings": [
+      "длина текста FB 622 слов (исходник 747, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1245,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T14:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/923492738_122156616159170576_2821045176017712588_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=fdtV_EKSNTcQ7kNvwFUm2Rp&_nc_oc=AdrWWYLkUqBkl8VYeFo5IU80G5vCUoMeYsc9BkjkkWBCnLhFSmU5_mUgYwhoZ58ZMH0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=vdzQT2koul45T4iECCCc7w&_nc_tpa=Q5bMBQLOv9wvTD3YpeUByOXRoAvH8RDUlKxOw64Uw6jhTSTngs3hJITUa4BUKqcNbwbfF3wjCIAs-9mL2Q&oh=00_AQQKrD3UUrd52J_JBKZemEEBnygs224fHkZERuUrDsqTKQ&oe=6B0DEBF8",
@@ -24423,7 +24507,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1430-it.jpg"
    },
    "source_key": "post:61585117295331_122156616231170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -25165,7 +25249,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-26 14:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",
