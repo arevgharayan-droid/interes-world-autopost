@@ -90,6 +90,7 @@
   "6c8994add1062ece1942": "2026-11-21T14:13:00+00:00",
   "6ee61e09ced70eabbe1b": "2026-11-18T08:52:36+00:00",
   "6f110cc1d53cc9a4f096": "2026-11-19T08:31:53+00:00",
+  "70848b778b95700cfa76": "2026-11-26T16:25:43+00:00",
   "70f1397700ba9303490e": "2026-11-13T14:37:39+00:00",
   "72de7386867e661b1a44": "2026-11-16T16:01:05+00:00",
   "72f76b7b820e96c8b960": "2026-11-22T21:17:23+00:00",
@@ -111,6 +112,7 @@
   "8f0c6fea6ae58ae86b21": "2026-11-21T22:45:41+00:00",
   "8fd7453c0acd814d36ec": "2026-11-23T13:49:42+00:00",
   "90819c71275bd38dea2e": "2026-11-19T19:59:16+00:00",
+  "9109a64e2d8aaba5687a": "2026-11-26T16:25:43+00:00",
   "91a1d555301edc6cd800": "2026-11-19T14:08:05+00:00",
   "936ca69d5c4f8a9e5957": "2026-11-22T14:04:32+00:00",
   "98a1e64a21d55c08a5c3": "2026-11-25T09:44:23+00:00",
@@ -25157,7 +25159,79 @@
    "status": "cancelled"
   },
   "2026-11-26 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Я вышла замуж за заключённого за две тысячи в месяц, а когда его оправдали, он поставил на стол чёрную коробку и сказал, что пришла пора правды",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 832,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Para karşılığında hapisteki bir adamla evlendim, ama aklandığında elinde siyah bir kutuyla gelip artık gerçeği söyleme sırasının kendisinde olduğunu söyledi",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 833,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/922448970_122156521665170576_4446446191045787597_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8zCTbXI9xggQ7kNvwHLvFp8&_nc_oc=Adq_BUORqTbhUgqpx13eXVJ0nWOjHksOxt7nY0smHvtS-ODVrG4mh7zyUXysBfYTSAI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Q9VWCEY42Jg5RUh3zHSUyQ&_nc_tpa=Q5bMBQIOcb8vZjM0OuD4yN10deBWgvFrxeQt-TcV_XiA5E2Ye0sBieskxHsXR8QV2n9tnK-wbbVCw7ZK8w&oh=00_AQRBL61BC0vY2FcxO_pb58VsvLonEbLSFJ3rOjG5bukdnA&oe=6B0E2D5C",
@@ -25169,7 +25243,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-2100-ru.jpg"
    },
    "source_key": "post:61585117295331_122156521845170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -26276,7 +26350,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-26 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586321290305_122143810737210709": {
    "fingerprint": "5b16116dc7df14500fc7",
