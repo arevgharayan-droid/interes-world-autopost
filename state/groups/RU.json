@@ -25782,6 +25782,12 @@
        "photo_id": "122128922529311884",
        "post_id": "1129620776897151_122128922559311884",
        "status": "scheduled"
+      },
+      "1164575726728296": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T23:49:19+04:00",
+       "mode": "schedule",
+       "status": "sending"
       }
      },
      "title": "Altı aydır kayınvalidemden kocamın bizi terk ettiğini saklıyordum, ama evime adım atıp gerçeği görünce yüzü değişti ve bana itiraf ettiği şey her şeyi altüst etti",
