@@ -48,6 +48,7 @@ languages:
       - {page_id: "1174674892385169", name: "Storie del Cuore", profile_id: "61589044483722", added: "2026-11-16"}
       - {page_id: "1152171097987054", name: "Traccw di Vita", added: "2026-11-26"}  # портфолио Em Virals, партнёр Interes World; autopost3
       - {page_id: "1212646305268160", name: "luna piena", profile_id: "61592615977599", added: "2026-11-26"}  # через Наиру в Interes World; autopost3
+      - {page_id: "1163062863564866", name: "La Verità Quotidiana", profile_id: "61592504096326", added: "2026-11-26"}  # через Arev в Interes World; autopost4
       # Cuori in Rovina (1199303859939709, профиль 61592020480874) — добавить после 03.12.2026 03:36 (ограничение Meta)
   EN:
     name: English
@@ -145,6 +146,7 @@ languages:
       - {page_id: "1028964020310052", name: "Momente des Lebens", profile_id: "61589308206601", added: "2026-11-13", group: NL}
       - {page_id: "1089186904280406", name: "Herzgeschichten Deutschland", profile_id: "61589640981859", added: "2026-11-13", group: NL}
       - {page_id: "1174913505713830", name: "Geschichten des Alltags", added: "2026-11-26", group: NL}  # портфолио Em Virals, партнёр Interes World; autopost4
+      - {page_id: "1028186380387490", name: "Schweizer Herzgeschichten", profile_id: "61589639964107", added: "2026-11-26", group: NL}  # через Arev в Interes World; autopost4
 
   PT:
     name: Portuguese
@@ -196,6 +198,8 @@ languages:
       - {page_id: "1334176279776969", name: "Siempre serás dulce conmigo.", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost2
       - {page_id: "1263459716855777", name: "Yo estoy feliz.", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost2
       - {page_id: "1331724433353003", name: "En el cuento de hadas", added: "2026-11-26", group: FR}  # через Наиру в Interes World; autopost3
+      - {page_id: "1277107925482426", name: "Historias que Impactan", profile_id: "61592610634563", added: "2026-11-26", group: FR}  # через Arev в Interes World; autopost3
+      - {page_id: "1183000514902787", name: "Miradas del Destino", profile_id: "61592471333929", added: "2026-11-26", group: FR}  # через Arev в Interes World; autopost2
   RO:
     name: Romanian
     pages:
