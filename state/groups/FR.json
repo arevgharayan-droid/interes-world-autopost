@@ -12237,12 +12237,14 @@
       },
       "1145996375255489": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133853077310364_4512768778987692",
        "error": null,
        "last_attempt": "2026-11-26T02:55:21+04:00",
        "mode": "schedule",
        "photo_id": "122133853047310364",
        "post_id": "1145996375255489_122133853077310364",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "ليلة جراحة القلب سمعتُ زوجي يرفع كأسه ويقول: «غدًا ستختفي وثروتها لنا»، لكن ما كشفه عن حادث والديّ أخرسني",
@@ -12559,7 +12561,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1200-fr.jpg"
    },
    "source_key": "post:100064230806326_1570604038423941",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
