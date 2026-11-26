@@ -35,6 +35,7 @@
   "285546559f89fcbaefe2": "2026-11-15T10:15:20+00:00",
   "2918f58ba47afcae805f": "2026-11-15T14:15:11+00:00",
   "2cfb4e442451ac45fdbd": "2026-11-23T13:59:07+00:00",
+  "2d579748cf6d06dfa790": "2026-11-26T22:22:32+00:00",
   "2d8dfdcca7b3aaf10ee6": "2026-11-21T19:44:41+00:00",
   "2f8be1924d57710eb51d": "2026-11-24T16:42:26+00:00",
   "3009334746196cd3581f": "2026-11-17T17:52:52+00:00",
@@ -83,6 +84,7 @@
   "612d573016ec1c5562f3": "2026-11-22T19:48:34+00:00",
   "61e9a832ff287c7af5e7": "2026-11-25T22:46:35+00:00",
   "621d8638ecdca37c7909": "2026-11-15T10:15:20+00:00",
+  "6558b42ac1ce244af5a3": "2026-11-26T22:22:32+00:00",
   "6af945ecc88d985562e4": "2026-11-17T20:47:52+00:00",
   "6c8994add1062ece1942": "2026-11-21T14:13:00+00:00",
   "6ee61e09ced70eabbe1b": "2026-11-18T08:52:36+00:00",
@@ -26187,7 +26189,79 @@
    }
   },
   "2026-11-27 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Увидев мужа с другой женщиной в торговом центре, я хотела устроить скандал, но свекровь прошептала: «Я сама разберусь», и к утру правда оказалась страшнее измены",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 867,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Alışveriş merkezinde kocamı başka bir kadınla görünce çığlık atacaktım, ama kayınvalidem koluma girip \"Acele etme, ben hallederim\" dedi ve ertesi sabah elindeki siyah dosya her şeyi değiştirdi",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 868,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/927644658_1512877014039148_2255665268974476568_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=5_jT2Ec603YQ7kNvwGO9aBY&_nc_oc=Adp3MvHbiR3f5GZJbp-rYcc8gSZWKNZND4vyGU41OhRFeDoVLCes0DxJwpK7_jc1E-g&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6KH6cfEhuBHxRq-XSDqPWg&_nc_tpa=Q5bMBQK4bICrxV83HZ-mETrBq-zePZzjstyxywCCi_Wbngb9RWSR6NFL3VDWQUniQFSsYA-EgHDb6tko8A&oh=00_AQXkNOlLJqMuI7gbO066MNS3vJJa-LV1s1WWbkvZaCNr8Q&oe=6B0E8A0D",
@@ -26199,7 +26273,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-1500-ru.jpg"
    },
    "source_key": "post:100059505912199_1512877164039133",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -26789,7 +26863,7 @@
    "origin": "manual",
    "page_id": "100059505912199",
    "slot": "2026-11-27 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1293976516086696": {
    "fingerprint": "56b7a5b61f202fe67f60",
