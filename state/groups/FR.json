@@ -12609,7 +12609,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1085853177948572": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T14:00:34+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "سخر أبي من قفازات زوجي الميكانيكي على مائدة العشاء، وعندما خلع أحدها شحب وجهه حين رأى الخاتم الذهبي",
      "warnings": [],
      "wp_error": null,
