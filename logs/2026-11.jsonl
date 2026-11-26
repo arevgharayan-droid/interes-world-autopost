@@ -17772,3 +17772,12 @@
 {"slot": "2026-11-27 18:00", "lang": "EN", "page": "1060733217128705", "action": "fb_schedule", "photo_id": "122146203056777362", "post_id": "1060733217128705_122146203086777362", "t": "2026-11-26T22:24:23+00:00", "group": "EN2"}
 {"slot": "2026-11-27 18:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 1113 слов (исходник 941, цель ±10%)"], "t": "2026-11-26T22:24:24+00:00", "group": "EN"}
 {"slot": "2026-11-27 18:00", "lang": "EN", "action": "wp_post", "id": 1335, "status": "future", "t": "2026-11-26T22:24:25+00:00", "group": "EN"}
+{"slot": "2026-11-27 12:00", "lang": "RO", "page": "1017413568132885", "action": "fb_schedule", "photo_id": "122126791635301832", "post_id": "1017413568132885_122126791671301832", "t": "2026-11-26T22:24:29+00:00", "group": "FR"}
+{"slot": "2026-11-27 15:00", "lang": "RU", "page": "1084212424777390", "action": "fb_schedule", "photo_id": "122137938309300832", "post_id": "1084212424777390_122137938339300832", "t": "2026-11-26T22:24:36+00:00", "group": "RU"}
+{"slot": "2026-11-27 15:00", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": ["длина статьи 979 слов"], "t": "2026-11-26T22:24:40+00:00", "group": "IT"}
+{"slot": "2026-11-27 15:00", "lang": "PL", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 570 слов (исходник 685, цель ±10%)"], "t": "2026-11-26T22:24:40+00:00", "group": "IT"}
+{"slot": "2026-11-27 15:00", "lang": "CS", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 570 слов (исходник 685, цель ±10%)"], "t": "2026-11-26T22:24:40+00:00", "group": "IT"}
+{"slot": "2026-11-27 15:00", "lang": "IT", "action": "wp_post", "id": 1336, "status": "future", "t": "2026-11-26T22:24:41+00:00", "group": "IT"}
+{"slot": "2026-11-27 15:00", "lang": "PL", "action": "wp_post", "id": 1337, "status": "future", "t": "2026-11-26T22:24:42+00:00", "group": "IT"}
+{"slot": "2026-11-27 15:00", "lang": "DE", "page": "1028964020310052", "action": "fb_schedule", "photo_id": "122133543249310273", "post_id": "1028964020310052_122133543279310273", "t": "2026-11-26T22:24:42+00:00", "group": "NL"}
+{"slot": "2026-11-27 15:00", "lang": "CS", "action": "wp_post", "id": 1338, "status": "future", "t": "2026-11-26T22:24:43+00:00", "group": "IT"}
