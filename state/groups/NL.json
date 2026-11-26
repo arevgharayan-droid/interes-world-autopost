@@ -66,6 +66,7 @@
   "71261dc1524c8f04c4de": "2026-11-21T22:45:45+00:00",
   "7477c933eb22d1c2c473": "2026-11-22T21:27:39+00:00",
   "766abb8c58c682143c9b": "2026-11-26T22:02:57+00:00",
+  "7e1bae8a5db77fec5d27": "2026-11-26T22:17:44+00:00",
   "7f712453ca750cd21feb": "2026-11-25T22:45:52+00:00",
   "82c4ef85daea167f4a95": "2026-11-21T17:04:07+00:00",
   "84b09bc98a9e61d6846f": "2026-11-18T18:56:13+00:00",
@@ -83,6 +84,7 @@
   "a05041cc410db1a5d901": "2026-11-19T10:26:43+00:00",
   "a0eb1727a9ca195bd10f": "2026-11-24T12:29:41+00:00",
   "a333d126c2a07536f0f3": "2026-11-13T10:14:57+00:00",
+  "a4953f99ea48cffcd22d": "2026-11-26T22:17:44+00:00",
   "a964ea608100bdcf9bf6": "2026-11-18T15:23:57+00:00",
   "aa6510a028a99368dbb1": "2026-11-26T19:37:56+00:00",
   "aa7fd822c4f85bd070c5": "2026-11-22T19:48:30+00:00",
@@ -116,6 +118,7 @@
   "e2b93dcc96be27aa58cc": "2026-11-17T12:28:57+00:00",
   "e35a5edbfd125f0de5e7": "2026-11-17T12:28:57+00:00",
   "e397216edbfa0a01eebc": "2026-11-18T22:36:37+00:00",
+  "e3c72a4c770a4d792577": "2026-11-26T22:17:44+00:00",
   "e3d10d7308b19870ee32": "2026-11-16T16:00:57+00:00",
   "e8013580c18c12f39749": "2026-11-26T13:38:41+00:00",
   "ecaa110bf53ef0673dfe": "2026-11-25T18:00:41+00:00",
@@ -16618,9 +16621,112 @@
    }
   },
   "2026-11-27 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Er schickte seine 14-jährige Tochter an Weihnachten mit drei Kindern nach oben – und ließ ihr 20 Dollar da, statt ihr einen Platz am Tisch zu geben",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1330,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn man stuurde zijn dochter van veertien met drie kleintjes naar boven op eerste kerstdag. Drie uur later vond ik haar daar, met een koud bord eten en een biljet van twintig dollar",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1329,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "No Natal, ele mandou a filha de 14 anos cuidar de três crianças, e o que a madrasta encontrou três horas depois no quarto mudou tudo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 865,
+     "wp_media_id": 864,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-1500-nl.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/912219263_1416009364079681_1611511710142485996_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7ZqmZ9p_Dp4Q7kNvwG-zrNQ&_nc_oc=Adqhaj-pLk1hABj7EKCzc-opvtAcZRkIPdS4ZYFAxxsC6YW4ZtQ-FgFWIILWXlKtHLE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=wzaWyNXkkqwri-geUJr8sg&_nc_tpa=Q5bMBQLL7RU32PECBZ8_tSFYfqZu6ZIEurorTY4IaHKZBEulCv03funYExXka4P-8WthKZVikZGROf5ohg&oh=00_AQVUxVUpJrKmfQEXuS9pA8FTvt6gQLV_lt7tyrhsdliKCw&oe=6B0E76FE",
+    "link": "https://www.facebook.com/story.php?story_fbid=1416009714079646&id=100070118924538",
+    "origin": "manual",
+    "page_id": "100070118924538",
+    "text": "My husband waited until all the children had opened their Christmas presents before telling his fourteen-year-old daughter to take our toddler and his brother's two kids upstairs.\n\n\"Let the adults enjoy Christmas,\" he said.\n\nI thought she'd agreed to babysit for twenty minutes.\n\nThree hours later, I found her sitting on the bedroom floor with three exhausted children, a cold plate of Christmas dinner, and a twenty-dollar bill she'd never asked for.\n\nWhen I told her she could come downstairs, she looked frightened.\n\n\"Did Dad say I was allowed to?\"\n\nI didn't understand that question until much later.\n\nAnd by then, I had started to realize how many other things I'd missed.\n\nMy name is Julie. I'm thirty-nine, married to Mark, and the mother of a two-year-old boy named Caleb.\n\nMark also has a fourteen-year-old daughter, Tessa, from his first marriage.\n\nTessa lives primarily with her mother, Nina, and usually spends every other weekend with us.\n\nShe's a sweet kid. A little quiet around adults, funny when she's comfortable, and surprisingly patient with Caleb.\n\nI've been her stepmother for five years.\n\nI thought we had a good relationship.\n\nI also thought I knew what happened in my own home.\n\nChristmas proved otherwise.\n\nThat morning, Tessa arrived just before noon wearing a dark green velvet dress and carrying a small gift wrapped in brown paper.\n\nShe'd drawn tiny Christmas trees across the wrapping herself.\n\n\"Is Dad here?\" she asked as soon as she stepped inside.\n\n\"Garage. He's getting the extra chairs.\"\n\nShe smiled.\n\n\"I made him something.\"\n\nShe held up the package.\n\n\"Can I give it to him tonight?\"\n\n\"Of course.\"\n\nShe placed it carefully beneath our Christmas tree.\n\nBy four o'clock, our house was full.\n\nMark's older brother, Aaron, had come with his wife, Beth, and their children, six-year-old Finn and four-year-old Lucy.\n\nHis parents were there, along with several aunts, uncles, and cousins.\n\nThere were coats piled on the guest bed, casserole dishes covering the kitchen counter, and wrapping paper already scattered across the living room floor.\n\nThe children opened their presents first.\n\nCaleb was more interested in the boxes than the toys.\n\nFinn immediately started building a plastic race track.\n\nLucy received a dollhouse and wanted everyone to admire it.\n\nTessa got a cream-colored sweater from her grandparents and a beautiful set of watercolor paints from us.\n\nShe looked genuinely happy.\n\nShe even let Caleb sit beside her and tear the paper off her last gift.\n\nI remember that because I took a picture.\n\nTessa was laughing, Caleb was holding a piece of ribbon, and Mark was sitting behind them on the couch.\n\nLooking at that photograph later, nobody would have guessed anything was wrong.\n\nThe trouble started when we began preparing dinner.\n\nCaleb was getting tired. Finn and Lucy had scattered toys across the living room, and the adults were trying to move furniture to make room for the dining table.\n\nMark looked at Tessa.\n\n\"Hey, Tess. Why don't you take the little ones upstairs for a while?\"\n\nShe looked up from her paints.\n\n\"All three?\"\n\n\"Yeah. Put on a Christmas movie. They can play up there while we get dinner sorted.\"\n\nTessa hesitated.\n\n\"Can I eat with everyone first?\"\n\n\"We're not even sitting down yet.\"\n\nMark nodded toward the stairs.\n\n\"Come on. Give the adults a little peace.\"\n\nI was carrying a hot baking dish at the time.\n\nI heard the conversation, but I didn't stop what I was doing.\n\nThat was my first mistake.\n\nTessa gathered Caleb's stuffed dinosaur, helped Lucy carry her doll, and asked Finn to bring his race cars.\n\nI assumed she'd be back downstairs before we served dinner.\n\nAt five thirty, everyone sat down.\n\nI was busy carving the turkey, refilling drinks, and finding another chair for Mark's aunt.\n\nSomeone asked where Tessa was.\n\nMark answered before I could.\n\n\"She's upstairs with the kids. Said she didn't mind watching them.\"\n\nBeth looked relieved.\n\n\"Oh, that's sweet of her.\"\n\nI asked Mark if he could get Tessa.\n\n\"She'll eat in a bit,\" he said. \"Caleb's finally settled down.\"\n\nI glanced toward the stairs.\n\nThen someone spilled cranberry sauce on the tablecloth, and I went back into the kitchen.\n\nDinner lasted nearly an hour.\n\nAfterward, the adults moved into the living room for coffee, dessert, and a ridiculous Christmas trivia game Mark insisted we play every year.\n\nHe was having a wonderful time.\n\nSo was Aaron.\n\nSo were most of the people in that house.\n\nAround seven, I noticed that Lucy's dollhouse was still sitting untouched beneath the tree.\n\nI wondered why she hadn't come downstairs to play with it.\n\nI asked Mark.\n\n\"The kids are fine,\" he said. \"Tessa's got them watching something.\"\n\n\"Shouldn't they come down?\"\n\n\"In a minute.\"\n\nThen his mother called us into the kitchen to look at the pie she'd made.\n\nAnother half hour slipped away.\n\nIt wasn't until almost eight that I realized I hadn't seen Tessa since she'd gone upstairs.\n\nI carried a slice of pie to the second floor.\n\nThe guest bedroom door was partly open.\n\nInside, Finn was asleep on a blanket on the floor.\n\nLucy had curled up beside him.\n\nCaleb was sleeping in the portable crib.\n\nAnd Tessa was sitting cross-legged beside the bed, still wearing her Christmas dress.\n\nThere was a paper plate on the nightstand.\n\nTurkey, mashed potatoes, and green beans.\n\nEverything cold.\n\nShe looked up when I entered.\n\n\"Hey, Julie.\"\n\n\"Sweetheart, why are you still up here?\"\n\nShe shrugged.\n\n\"Dad said to stay with them.\"\n\n\"For three hours?\"\n\nHer eyes moved toward the door.\n\nI looked around the room.\n\nThe wrapping paper from her new watercolor set was folded neatly beside her overnight bag.\n\nHer shoes were under the chair.\n\nAnd on the pillow behind her sat a twenty-dollar bill.\n\nRight beside the little Christmas present she'd wrapped for Mark.\n\nI picked up the money.\n\n\"Tessa, what's this?\"\n\nShe looked embarrassed.\n\n\"Dad left it.\"\n\n\"For what?\"\n\n\"For watching everybody.\"\n\nI stared at the bill.\n\n\"Did you ask him to pay you?\"\n\nShe shook her head.\n\n\"No.\"\n\nThen she said something I couldn't stop thinking about.\n\n\"I didn't even want the money. I just wanted to have Christmas dinner.\"",
+    "wp_media_id": 1328,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-1500-nl.jpg"
+   },
+   "source_key": "post:100070118924538_1416009714079646",
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-27 18:00": {
    "langs": {},
@@ -16784,6 +16890,7 @@
   },
   "link:a17979119761df7e7ef0": {},
   "link:a31f5b7c982142127bb1": {},
+  "link:a5f9c15fa4bf1ef5e7df": {},
   "link:b0bc6178c26384523788": {
    "link": "https://www.facebook.com/share/p/1Ltk3HrVuq/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122139490280778778&id=61573363363721"
@@ -17748,6 +17855,14 @@
    "origin": "manual",
    "page_id": "100070118924538",
    "slot": "2026-11-18 22:28",
+   "status": "used"
+  },
+  "post:100070118924538_1416009714079646": {
+   "fingerprint": "400f7432ceceb1957682",
+   "link": "https://www.facebook.com/story.php?story_fbid=1416009714079646&id=100070118924538",
+   "origin": "manual",
+   "page_id": "100070118924538",
+   "slot": "2026-11-27 15:00",
    "status": "used"
   },
   "post:100083098754330_1123799307066684": {
