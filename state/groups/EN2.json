@@ -14498,6 +14498,7 @@
      "pages": {
       "100633729330404": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-26T23:40:04+04:00",
        "mode": "schedule",
