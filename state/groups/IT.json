@@ -24531,7 +24531,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T17:38:40+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Per Natale non sei invitata, Joanne»: ho risposto «Va bene» e il giorno dopo mio figlio bussava alla mia porta alle 7:15",
      "warnings": [],
      "wp_error": null,

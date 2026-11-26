@@ -21,6 +21,7 @@
   "1a2b81e644a3178c5112": "2026-11-22T21:56:46+00:00",
   "1ae2df6170635ea8dab2": "2026-11-20T22:46:03+00:00",
   "1b611cc50216f8888d60": "2026-11-22T21:48:03+00:00",
+  "1c395c6ac1633c1bdf48": "2026-11-26T13:38:41+00:00",
   "1c4128882d6fdc456e35": "2026-11-25T22:45:52+00:00",
   "20a7a509199cfbe519fc": "2026-11-15T14:18:37+00:00",
   "25859e26b6e422f893cd": "2026-11-25T11:44:43+00:00",
@@ -46,6 +47,7 @@
   "51ed2d668f83bd64e5b9": "2026-11-21T14:13:09+00:00",
   "5215bc8037371581d0af": "2026-11-22T16:32:11+00:00",
   "52c333f3bb544857c942": "2026-11-25T20:00:00+00:00",
+  "56aae08a5ff75628c1b1": "2026-11-26T13:38:41+00:00",
   "587ace5848a338139c99": "2026-11-22T21:17:16+00:00",
   "5902057f0f114c578fb0": "2026-11-20T16:46:47+00:00",
   "5a6d8dc75e10abe3f5c2": "2026-11-24T09:25:06+00:00",
@@ -109,6 +111,7 @@
   "e35a5edbfd125f0de5e7": "2026-11-17T12:28:57+00:00",
   "e397216edbfa0a01eebc": "2026-11-18T22:36:37+00:00",
   "e3d10d7308b19870ee32": "2026-11-16T16:00:57+00:00",
+  "e8013580c18c12f39749": "2026-11-26T13:38:41+00:00",
   "ecaa110bf53ef0673dfe": "2026-11-25T18:00:41+00:00",
   "ecd7a0840dd1ae067df4": "2026-11-18T22:49:31+00:00",
   "ed0bc7857c5877d5b464": "2026-11-12T17:47:29+00:00",
@@ -15271,7 +15274,79 @@
   },
   "2026-11-26 17:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Als mein todkranker Sohn im Stadion auf der Riesenleinwand erschien, sagte der Sprecher: „Dreht euch um“ – und mein Mann wurde kreidebleich",
+     "warnings": []
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Toen onze doodzieke zoon op het stadionscherm verscheen, zei de omroeper iets wat zijn vader spierwit maakte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1267,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Levei meu filho de 10 anos, em estado terminal, a um estádio para realizar seu último sonho, mas o locutor revelou algo que deixou meu marido pálido",
+     "warnings": []
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-26T17:36:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/922022561_1682770706559677_3733363758659380560_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cdGiJ5icvHAQ7kNvwHf0-k8&_nc_oc=AdqW5heI-EYtsEw084_JcFddOeMZRqWn0UvHCpsJWNIx3j7F48oWPf2RqT4kJdSQY6U&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=j7RvAF-7k7-rkdLAne1ZsQ&_nc_tpa=Q5bMBQLR9GPpe-8n4mu4tynTnvg2m0mwcOwK0VBKexyuv5C0nM_RKCaE-H6Jbs7n90EvyO9RA08gRxvaPQ&oh=00_AQSp0GaPHJhLgIzf_3s1eetgIIrFyTpIj3ESSm1TzU00Fw&oe=6B0E1AFB",

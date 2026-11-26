@@ -13,6 +13,7 @@
   "2677a3c2bff6843f6d65": "2026-11-25T09:44:38+00:00",
   "28167400c6c84a4cf8d8": "2026-11-25T22:46:12+00:00",
   "2fe82e12e4ad9907ad54": "2026-11-14T19:42:21+00:00",
+  "36d00f3b6cb2ff5b7aa3": "2026-11-26T13:38:36+00:00",
   "3da4775069ee736a2d78": "2026-11-22T21:33:46+00:00",
   "3dce7e6988a88bf961cd": "2026-11-19T17:52:54+00:00",
   "3f016791a0afbbb7ef04": "2026-11-18T08:52:10+00:00",
@@ -20,6 +21,7 @@
   "4a12667ae8855b24c947": "2026-11-19T21:13:15+00:00",
   "4a73690c41800c227951": "2026-11-16T16:00:49+00:00",
   "4bc4dacea6526b7a3a41": "2026-11-22T14:04:08+00:00",
+  "5933d66512e770ab6a8d": "2026-11-26T13:38:36+00:00",
   "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
   "5d67279da1e3d48db9cd": "2026-11-16T00:18:23+00:00",
   "60b8bc5d4883ae07228a": "2026-11-26T09:51:07+00:00",
@@ -34,6 +36,7 @@
   "85bf867d0894576de121": "2026-11-12T17:47:48+00:00",
   "9c307388c225dd9bd137": "2026-11-25T22:46:12+00:00",
   "9d4957340d3a2da90441": "2026-11-17T10:38:05+00:00",
+  "a05ef237e23a3e84e4b7": "2026-11-26T13:38:36+00:00",
   "a2b8600fa33561995bf2": "2026-11-15T14:18:32+00:00",
   "a4aa72c523a52ab5087f": "2026-11-17T12:28:26+00:00",
   "a61727f789dc90904a32": "2026-11-20T14:41:43+00:00",
@@ -53,6 +56,7 @@
   "c8ff8c0eb858300877cd": "2026-11-24T12:29:19+00:00",
   "cb0d51d47267516751a7": "2026-11-24T09:24:37+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00",
+  "cca530d49e29b1ffbcb0": "2026-11-26T13:38:36+00:00",
   "d12c2709c825b0d9c8d1": "2026-11-21T17:04:08+00:00",
   "d4fb32bab10e6ad46945": "2026-11-19T10:26:46+00:00",
   "d7f8167190d0b9b93782": "2026-11-18T22:20:27+00:00",
@@ -12618,7 +12622,119 @@
   },
   "2026-11-26 17:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "تبعتُ ابنتي ذات الست سنوات بعد أربعة أشهر من الأسرار، فوجدتُ جارتنا العجوز ممددة على أرض مطبخها",
+     "warnings": [
+      "длина текста FB 654 слов (исходник 863, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 820,
+     "wp_media_id": 817,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1736-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hija de 6 años desaparecía 10 minutos cada tarde, hasta que el hijo de la vecina golpeó mi puerta y descubrí el secreto que guardaba con una llave",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 818,
+     "wp_media_id": 817,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1736-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ma fille de 6 ans disparaissait 10 minutes chaque jour après l'école. Quand le fils de la voisine a menacé d'appeler la police, je l'ai suivie",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1266,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Fiica mea de 6 ani dispărea zece minute în fiecare zi după școală. Când am urmărit-o, am găsit-o în bucătăria vecinei, lângă o femeie căzută pe podea",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 819,
+     "wp_media_id": 817,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1736-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T17:36:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/927318375_122217503048841094_7680858570636229242_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=v5lvCiEymXYQ7kNvwFPTQsa&_nc_oc=AdoQD6Lj58CuEKfjlQ5x4aftVx7nDv3mrrn79FHdI64xCHTG2tAIead1zk8GQNvEP3U&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=AzXkvwYMtQLqrnWIFW3BuQ&_nc_tpa=Q5bMBQKYaTW8A_j2mrbD8B_6vNpePGedN1u0rqfAt1kJM2tJKgZwpMd2_o9oIPQGsR3QCBA4k0EgRpOu1w&oh=00_AQQsSPyXw702VRdRyuB080-alxv4JD4TJn2lzd7KByH_lw&oe=6B0DFF95",
@@ -12630,7 +12746,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1736-fr.jpg"
    },
    "source_key": "post:61575232821594_122217503078841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -13604,7 +13720,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-26 17:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61576792898556_122130695810893096": {
    "fingerprint": "76592ca14dc5478e537f",
