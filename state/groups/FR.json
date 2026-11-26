@@ -13805,7 +13805,16 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1085853177948572": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1145996375255489": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "تزوج طليقي من سكرتيرته وأنا أبدأ من جديد في زيورخ، لكن جملة واحدة في حفل زفافه تركته بلا كلام",
      "warnings": [
       "длина текста FB 714 слов (исходник 929, цель ±10%)"
@@ -13866,6 +13875,14 @@
        "post_id": "1091526457386175_122126611281298778",
        "status": "scheduled"
       },
+      "1140011449205671": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "116178644305635": {
+       "attempts": 0,
+       "status": "new"
+      },
       "1167098496495843": {
        "attempts": 1,
        "error": null,
@@ -13883,6 +13900,18 @@
        "photo_id": "122129011425422845",
        "post_id": "1169531609587518_122129011455422845",
        "status": "scheduled"
+      },
+      "1180769448457946": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1183000514902787": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1189173560952218": {
+       "attempts": 0,
+       "status": "new"
       },
       "1221370521061169": {
        "attempts": 1,
@@ -13902,6 +13931,14 @@
        "post_id": "1234716479729330_122128896033292274",
        "status": "scheduled"
       },
+      "1236104599583009": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1263459716855777": {
+       "attempts": 0,
+       "status": "new"
+      },
       "1274568742402473": {
        "attempts": 1,
        "error": null,
@@ -13911,6 +13948,10 @@
        "post_id": "1274568742402473_122130291381440882",
        "status": "scheduled"
       },
+      "1277107925482426": {
+       "attempts": 0,
+       "status": "new"
+      },
       "1285042228018768": {
        "attempts": 1,
        "error": null,
@@ -13919,6 +13960,14 @@
        "photo_id": "122129873703425687",
        "post_id": "1285042228018768_122129873739425687",
        "status": "scheduled"
+      },
+      "1331724433353003": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1334176279776969": {
+       "attempts": 0,
+       "status": "new"
       }
      },
      "title": "Mi exmarido se casó con su secretaria mientras yo empezaba de nuevo en Zúrich, pero una frase en su boda lo dejó sin palabras",
@@ -14113,7 +14162,16 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1017413568132885": {
+       "attempts": 0,
+       "status": "new"
+      },
+      "1150924154761110": {
+       "attempts": 0,
+       "status": "new"
+      }
+     },
      "title": "Fostul meu soț s-a căsătorit cu secretara lui când eu o luam de la capăt la Zürich, dar o singură replică la nunta lor l-a lăsat fără cuvinte",
      "warnings": [],
      "wp_error": null,
@@ -14153,7 +14211,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-0000-fr.jpg"
    },
    "source_key": "post:100067526447776_1460948829499318",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
