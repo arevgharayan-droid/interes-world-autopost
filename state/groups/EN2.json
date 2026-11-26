@@ -47,6 +47,7 @@
   "ae92757bfce0314ca0e8": "2026-11-20T22:45:37+00:00",
   "b820f9dc6dc0aec23808": "2026-11-24T09:24:38+00:00",
   "c154f0319f110ca852ff": "2026-11-18T18:55:36+00:00",
+  "c7831b6d2353221562a2": "2026-11-26T16:23:57+00:00",
   "c7a45c8f63998059cd8f": "2026-11-21T22:45:17+00:00",
   "c9a6ba99d788dd7dac01": "2026-11-17T20:37:59+00:00",
   "d6bd11b26d8f92951091": "2026-11-17T17:51:51+00:00",
@@ -14620,7 +14621,74 @@
    "status": "cancelled"
   },
   "2026-11-26 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Saw My Husband Kissing My Best Friend on Our Flight, So I Sent Them a Small Jewelry Box. When They Opened It, Their Faces Went Pale",
+     "warnings": [
+      "длина статьи 975 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1275,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/922039014_1569896145161397_1213259038470938418_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=-tRK113i4rIQ7kNvwEUTf8e&_nc_oc=Adq286p0YHuhTbZsH4iDv8qqqakMT_O93UsJSqGY-uSuedSXRlsmTd_vCuhJUmDSwVA&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=vlDcvqEDY7jime6h4GCyeQ&_nc_tpa=Q5bMBQJhOq3EUeerJT4hClXXjDnQblvpKWFQ8BfYT_-GVzvOpsuYnISueTg_zvFz7Je0OvPKIqjD4BNjYA&oh=00_AQTiTfCiWILPHzaAkq7NkP4Iyh-BShQBunBb1ZBFPLieZg&oe=6B0E15BA",
@@ -14632,7 +14700,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-2100-en2.jpg"
    },
    "source_key": "post:100064230806326_1569896191828059",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15104,7 +15172,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-26 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1570020175148994": {
    "fingerprint": "ffd611d4070a42826997",
