@@ -3,6 +3,7 @@
  "fb_block_until": "2026-11-14T14:14:33+04:00",
  "output_fps": {
   "008ae4753ef603e30f4c": "2026-11-20T16:45:57+00:00",
+  "0394fc451081a2e8bc47": "2026-11-26T09:50:40+00:00",
   "06b9a4fa459e62ade690": "2026-11-16T16:00:45+00:00",
   "08830b18a47934fa45d5": "2026-11-21T10:17:00+00:00",
   "0a0d9556acadc96f687f": "2026-11-22T21:24:06+00:00",
@@ -14580,7 +14581,72 @@
   },
   "2026-11-26 14:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Ex Humiliated Me at the Mall, Then a Stranger Wrapped His Arm Around My Waist and Called Me Babe. When I Learned Who He Really Was, Everything Changed",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1241,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T14:30:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/921993700_1570020128482332_965767617518980665_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=2G0WXi9cqQkQ7kNvwHLWw8i&_nc_oc=AdraN2foCsZ2kesPtzC4wnVIFC0iTGj1VwM5bdrk5ZecRwvl5s7HZeE4wHlNtVEPH9k&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=jIBAZmEHatcDH11HSHB-HQ&_nc_tpa=Q5bMBQIKaD7iR3iJPBCye2_UEGxiUD6bD4MRPpyoQ9qIPTt1MkuTZMV_rVZnNg2WjBly5Z3rLihkf_JMKg&oh=00_AQTgKnyQ_iocKmF7Jm0Y_3SfvGwf-Hp0iibKfYeNIudYEw&oe=6B0DED14",
@@ -14592,7 +14658,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1430-en2.jpg"
    },
    "source_key": "post:100064230806326_1570020175148994",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15067,7 +15133,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-26 14:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1458749583026046": {
    "fingerprint": "7054a17b16072531704b",
