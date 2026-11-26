@@ -12679,7 +12679,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1202025962997153": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T17:38:58+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Ma fille de 6 ans disparaissait 10 minutes chaque jour après l'école. Quand le fils de la voisine a menacé d'appeler la police, je l'ai suivie",
      "warnings": [],
      "wp_error": null,

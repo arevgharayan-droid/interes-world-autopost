@@ -45,6 +45,7 @@
   "35e1af845fc34530458d": "2026-11-26T09:51:32+00:00",
   "37295985ca4da18995cf": "2026-11-20T14:41:36+00:00",
   "3805fc902e0de2be6e6c": "2026-11-25T14:02:26+00:00",
+  "38d22bd5d73deef50dab": "2026-11-26T13:38:57+00:00",
   "3944404d935075c532ec": "2026-11-21T17:03:58+00:00",
   "399b0797378aa4e1ed79": "2026-11-20T22:45:49+00:00",
   "3c844c0dca99911d235f": "2026-11-25T19:59:45+00:00",
@@ -56,6 +57,7 @@
   "43735640ffe2c11dbecb": "2026-11-25T14:02:26+00:00",
   "43fc1331d6fb4f0c421e": "2026-11-17T20:47:52+00:00",
   "44da830340c13979bef5": "2026-11-16T00:18:30+00:00",
+  "45c9cfce27f6d3029071": "2026-11-26T13:38:57+00:00",
   "46493e9155ece290d86b": "2026-11-19T10:26:47+00:00",
   "47efee54144eca0bf8cf": "2026-11-20T19:26:10+00:00",
   "48452786dc1b3a712360": "2026-11-25T19:59:45+00:00",
@@ -24665,7 +24667,81 @@
   },
   "2026-11-26 17:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "В день моего рождения мой парень женился на моей сводной сестре, а спустя пять лет я вернулась с сыном, и мужчина, вошедший в холл отеля, заставил всех замолчать",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 823,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Doğum günümde sevgilim üvey kız kardeşimle evlendi, herkes öldüğümü sandı; beş yıl sonra oğlumla döndüm ve otelin kapısından giren adamı görünce Liam'ın yüzü bembeyaz oldu",
+     "warnings": [
+      "часть 1: 694 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 824,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T17:36:00+04:00",
    "source": {
     "image_url": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/932134653_1462197546041113_7953383209698983152_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jhpGDEbcDJEQ7kNvwHcHQnz&_nc_oc=AdrZ1DXaPU3q9cu_QV8ucESlj4AVKrNG5y7TsfcAIA-lvGKqV-M6SsdVn5DwsXpKk-4&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ZlMFjGmYzkBKDHekXLt8-w&_nc_tpa=Q5bMBQIYRRU3-Q-EfZhvkkbCtMinYA5Lfm7m92yblgYMCi2V1ptvswAdjf21yzKGZm9ganiU-wiHWqxmCQ&oh=00_AQTmjjv0Y6UWPjf3D8ggZaXcKnEYcw08KBqNlfErC4K-GQ&oe=6B0DFCBA",
@@ -24677,7 +24753,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1736-ru.jpg"
    },
    "source_key": "post:100067526447776_1462470026013865",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -25463,7 +25539,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-26 17:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100069122846749_1464103662570381": {
    "fingerprint": "5e043c7c07a396d6110a",
