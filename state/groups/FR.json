@@ -21,6 +21,7 @@
   "3dce7e6988a88bf961cd": "2026-11-19T17:52:54+00:00",
   "3f016791a0afbbb7ef04": "2026-11-18T08:52:10+00:00",
   "437393fdc78b86a58315": "2026-11-26T09:51:07+00:00",
+  "471d8a80c825a499a947": "2026-11-26T22:03:13+00:00",
   "4a12667ae8855b24c947": "2026-11-19T21:13:15+00:00",
   "4a73690c41800c227951": "2026-11-16T16:00:49+00:00",
   "4bc4dacea6526b7a3a41": "2026-11-22T14:04:08+00:00",
@@ -48,6 +49,7 @@
   "aa503d9655a302d21d57": "2026-11-14T09:18:04+00:00",
   "ad130c15729ad1a41316": "2026-11-19T17:17:43+00:00",
   "b1b76d5b33db03a81641": "2026-11-25T11:44:24+00:00",
+  "b49a02c5166b8be40b9a": "2026-11-26T22:03:13+00:00",
   "b6cad00cfa1dd0c91a6f": "2026-11-26T09:51:07+00:00",
   "bb2f93acd716a89559fd": "2026-11-16T10:16:47+00:00",
   "bb6775e0f7693f38a811": "2026-11-16T20:28:20+00:00",
@@ -57,6 +59,7 @@
   "be724c39a6549c4e36b8": "2026-11-13T14:37:31+00:00",
   "beefbd2921e0679a44c1": "2026-11-16T19:28:18+00:00",
   "c338c20baa78f376320d": "2026-11-21T10:17:08+00:00",
+  "c6ddd8810031e6a83125": "2026-11-26T22:03:13+00:00",
   "c8ff8c0eb858300877cd": "2026-11-24T12:29:19+00:00",
   "cb0d51d47267516751a7": "2026-11-24T09:24:37+00:00",
   "cc965f4492abc325ce83": "2026-11-13T10:14:45+00:00",
@@ -73,6 +76,7 @@
   "eedeb2476364b2162ac5": "2026-11-18T22:49:38+00:00",
   "f0de6209bc2c04ae4ddf": "2026-11-22T21:25:14+00:00",
   "f6609e092d39cfe5e936": "2026-11-25T22:46:12+00:00",
+  "f86eae272b54f4e0774e": "2026-11-26T22:03:13+00:00",
   "fa30ae48ea3a0c99640b": "2026-11-26T19:37:01+00:00"
  },
  "outputs": {
@@ -14395,7 +14399,119 @@
    }
   },
   "2026-11-27 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "طردها المليارديركخادمة لأنها جلست قرب توائمه، وبعد دقائق عادت لتنقذ ما لم تستطع أمواله إنقاذه",
+     "warnings": [
+      "длина текста FB 593 слов (исходник 827, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 861,
+     "wp_media_id": 858,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-1200-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Un multimillonario humilló a la empleada que mecía a sus trillizos a las 2:46 de la madrugada, sin imaginar quién era realmente",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 859,
+     "wp_media_id": 858,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-1200-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il a humilié la femme de ménage qui avait enfin endormi ses triplés, mais une urgence à 2 h 46 du matin a tout changé",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1323,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A dat afară menajera care îi adormise tripleții după 17 nopți de plâns, dar adevărul despre nașa ei l-a făcut să-i bată la ușă",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 860,
+     "wp_media_id": 858,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-1200-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/926878690_1463282925932575_1542677070819780502_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NgtmzC2D5kYQ7kNvwHQfaUZ&_nc_oc=AdoxK53oViY5z_mr3l3AfOJqwdmQPHxJvEa09JSa23_rUJ7lL-izCDh6u6LRh9rqnPo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=MYcYjrnkuJ-3sF4G_GhYPw&_nc_tpa=Q5bMBQLK__LMgKaEIEUwaHbsbUDuU93nx7JtLPgd2zl01fBvePIJSnChWg3J4SyxZYbI7bhL4LMYQX50cg&oh=00_AQXH6oU56vN3T-JIrHEzMgfwXsZLWdtcvdd7Mh3xpBlLhQ&oe=6B0E94D2",
@@ -14407,7 +14523,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-1200-fr.jpg"
    },
    "source_key": "post:100067526447776_1463646362562898",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -15192,7 +15308,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100069122846749_1464103662570381": {
    "fingerprint": "5e043c7c07a396d6110a",
