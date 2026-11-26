@@ -16990,12 +16990,13 @@
       "975714512286925": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122151259143209153_1889944362180721",
        "error": null,
        "last_attempt": "2026-11-26T13:53:11+04:00",
        "mode": "schedule",
        "photo_id": "122151259113209153",
        "post_id": "975714512286925_122151259143209153",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Brother Took My Seven-Year-Old Daughter on His Jet Ski Without Asking, Then Came Back Alone, Laughing, Holding Her Life Jacket",
@@ -17058,7 +17059,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-1430-en.jpg"
    },
    "source_key": "post:100064230806326_1570267891790889",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
