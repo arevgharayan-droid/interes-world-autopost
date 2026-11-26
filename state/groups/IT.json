@@ -3272,7 +3272,7 @@
   "997772916762884_122113628936437662": "2026-11-26T10:46:49+00:00",
   "997772916762884_122113638788437662": "2026-11-26T13:39:41+00:00",
   "997772916762884_122113645418437662": "2026-11-26T17:48:54+00:00",
-  "997772916762884_122113650284437662": "2026-11-26T19:38:09+00:00"
+  "997772916762884_122113650284437662": "2026-11-26T20:15:32+00:00"
  },
  "slots": {
   "2026-11-13 00:00": {
@@ -25477,30 +25477,36 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117071713328231_1202499995437397",
        "error": null,
        "last_attempt": "2026-11-27T00:03:51+04:00",
        "mode": "immediate",
        "photo_id": "122117071689328231",
        "post_id": "1106793902521611_122117071713328231",
-       "status": "published"
+       "status": "done"
       },
       "1220855754440320": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122146050453392187_2458499114965833",
        "error": null,
        "last_attempt": "2026-11-27T00:04:25+04:00",
        "mode": "immediate",
        "photo_id": "122146050423392187",
        "post_id": "1220855754440320_122146050453392187",
-       "status": "published"
+       "status": "done"
       },
       "1240142009184080": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131805709399398_2707368399701996",
        "error": null,
        "last_attempt": "2026-11-27T00:05:00+04:00",
        "mode": "immediate",
        "photo_id": "122131805685399398",
        "post_id": "1240142009184080_122131805709399398",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Manžel před smrtí daroval orgány. Když jsem odcházela z nemocnice, lékař za mnou běžel: „Mark mi dal něco, co jste ještě vidět neměla",
@@ -25509,6 +25515,7 @@
      ],
      "wp_error": null,
      "wp_id": 1299,
+     "wp_live": true,
      "wp_status": "future"
     },
     "DE": {
@@ -25810,21 +25817,24 @@
       "1304525059401414": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122125666911404210_1813875753235753",
        "error": null,
        "last_attempt": "2026-11-27T00:00:58+04:00",
        "mode": "immediate",
        "photo_id": "122125666887404210",
        "post_id": "1304525059401414_122125666911404210",
-       "status": "published"
+       "status": "done"
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113650284437662_1184521740763877",
        "error": null,
        "last_attempt": "2026-11-26T23:38:06+04:00",
        "mode": "schedule",
        "photo_id": "122113650254437662",
        "post_id": "997772916762884_122113650284437662",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Mio marito ha donato i suoi organi come ultimo desiderio, poi il suo medico mi ha fermata e mi ha consegnato ciò che aveva promesso di darmi solo dopo la sua morte",
@@ -25845,45 +25855,54 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127276321304793_1119731197626049",
        "error": null,
        "last_attempt": "2026-11-27T00:03:16+04:00",
        "mode": "immediate",
        "photo_id": "122127276291304793",
        "post_id": "1079800528556354_122127276321304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114654666359745_1562371232398485",
        "error": null,
        "last_attempt": "2026-11-27T00:01:31+04:00",
        "mode": "immediate",
        "photo_id": "122114654642359745",
        "post_id": "1083785318156771_122114654666359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123632809302807_1693715759148004",
        "error": null,
        "last_attempt": "2026-11-27T00:02:05+04:00",
        "mode": "immediate",
        "photo_id": "122123632785302807",
        "post_id": "1089456087587677_122123632809302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142279327313481_2609675972846903",
        "error": null,
        "last_attempt": "2026-11-27T00:02:39+04:00",
        "mode": "immediate",
        "photo_id": "122142279303313481",
        "post_id": "1107966229066828_122142279327313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mój mąż został dawcą narządów jako swoje ostatnie życzenie. Po jego śmierci lekarz zatrzymał mnie i powiedział: „Kazał mi obiecać, że dam to pani dopiero, gdy go już nie będzie",
      "warnings": [],
      "wp_error": null,
      "wp_id": 1298,
+     "wp_live": true,
      "wp_status": "future"
     },
     "PT": {
@@ -25919,7 +25938,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-0000-it.jpg"
    },
    "source_key": "post:61575232821594_122217438992841094",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
