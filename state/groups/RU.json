@@ -25256,6 +25256,12 @@
        "post_id": "1008693642337213_122119242596640467",
        "status": "scheduled"
       },
+      "1018759874664543": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T20:35:49+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      },
       "1036597159544783": {
        "attempts": 1,
        "error": null,
