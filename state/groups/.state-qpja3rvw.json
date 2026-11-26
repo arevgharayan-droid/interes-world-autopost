@@ -24011,4 +24011,609 @@
        "comment_attempts": 1,
        "comment_id": "122136824829311273_1219625120633477",
        "error": null,
-       "last_attempt"
+       "last_attempt": "2026-11-26T02:50:00+04:00",
+       "mode": "schedule",
+       "photo_id": "122136824799311273",
+       "post_id": "1117846738074068_122136824829311273",
+       "status": "done"
+      },
+      "1118090254718709": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122103970442556634_1820207085924079",
+       "error": null,
+       "last_attempt": "2026-11-26T02:54:14+04:00",
+       "mode": "schedule",
+       "photo_id": "122103970412556634",
+       "post_id": "1118090254718709_122103970442556634",
+       "status": "done"
+      },
+      "1125468037313193": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120695653295429_1144662978278740",
+       "error": null,
+       "last_attempt": "2026-11-26T02:50:35+04:00",
+       "mode": "schedule",
+       "photo_id": "122120695623295429",
+       "post_id": "1125468037313193_122120695653295429",
+       "status": "done"
+      },
+      "1125676667286378": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142061106737651_972279179025650",
+       "error": null,
+       "last_attempt": "2026-11-26T02:48:15+04:00",
+       "mode": "schedule",
+       "photo_id": "122142061076737651",
+       "post_id": "1125676667286378_122142061106737651",
+       "status": "done"
+      },
+      "1146158698570676": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130773217300293_1147285258193979",
+       "error": null,
+       "last_attempt": "2026-11-26T02:53:17+04:00",
+       "mode": "schedule",
+       "photo_id": "122130773187300293",
+       "post_id": "1146158698570676_122130773217300293",
+       "status": "done"
+      },
+      "1167733113080371": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131139685307779_1127958330154730",
+       "error": null,
+       "last_attempt": "2026-11-26T02:54:36+04:00",
+       "mode": "schedule",
+       "photo_id": "122131139655307779",
+       "post_id": "1167733113080371_122131139685307779",
+       "status": "done"
+      },
+      "988042774402200": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136925262733774_1169612989088069",
+       "error": null,
+       "last_attempt": "2026-11-26T02:47:41+04:00",
+       "mode": "schedule",
+       "photo_id": "122136925232733774",
+       "post_id": "988042774402200_122136925262733774",
+       "status": "done"
+      }
+     },
+     "title": "На похоронах жены сын отрезал мне содержание, а Кендра улыбалась, но к полуночи на моём телефоне было 140 звонков, и они узнали, чей это дом",
+     "warnings": [
+      "часть 1 не обрывается на «…»"
+     ],
+     "wp_error": null,
+     "wp_id": 793,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1083701291497481": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125595757304633_2738727213248444",
+       "error": null,
+       "last_attempt": "2026-11-26T02:57:04+04:00",
+       "mode": "schedule",
+       "photo_id": "122125595727304633",
+       "post_id": "1083701291497481_122125595757304633",
+       "status": "done"
+      },
+      "1129620776897151": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128830393311884_1183113727383321",
+       "error": null,
+       "last_attempt": "2026-11-26T02:56:52+04:00",
+       "mode": "schedule",
+       "photo_id": "122128830357311884",
+       "post_id": "1129620776897151_122128830393311884",
+       "status": "done"
+      },
+      "1157031800834413": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141363019400989_1723971862785005",
+       "error": null,
+       "last_attempt": "2026-11-26T03:56:34+04:00",
+       "mode": "schedule",
+       "photo_id": "122141362983400989",
+       "post_id": "1157031800834413_122141363019400989",
+       "status": "done"
+      },
+      "1164575726728296": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128285539307134_4840776489576927",
+       "error": null,
+       "last_attempt": "2026-11-26T02:56:58+04:00",
+       "mode": "schedule",
+       "photo_id": "122128285509307134",
+       "post_id": "1164575726728296_122128285539307134",
+       "status": "done"
+      },
+      "1180583925128715": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124611775305562_1005431639271319",
+       "error": null,
+       "last_attempt": "2026-11-26T02:57:09+04:00",
+       "mode": "schedule",
+       "photo_id": "122124611745305562",
+       "post_id": "1180583925128715_122124611775305562",
+       "status": "done"
+      },
+      "1205654249300186": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122147705331384851_2597358804108438",
+       "error": null,
+       "last_attempt": "2026-11-26T03:56:45+04:00",
+       "mode": "schedule",
+       "photo_id": "122147705301384851",
+       "post_id": "1205654249300186_122147705331384851",
+       "status": "done"
+      }
+     },
+     "title": "Eşimin cenazesinde oğlum harçlığımı kesti, ben valizimi alıp kayboldum; gece yarısı 140 cevapsız çağrı düştü, çünkü oturdukları evin gerçek sahibini öğrenmişlerdi",
+     "warnings": [
+      "часть 3: 407 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 794,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-26T12:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/928143438_122156512245170576_8142820190633041226_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=drgZVbLQdeYQ7kNvwFYXq00&_nc_oc=Ado0zoDz_0W6wK6OHKZZ2hW60cgS3JKPgLu8bdU7gOD8RLfZqKeTlCgwZdVhKkkBmgA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Hh4_ThMOqc9nGCcia9lN5A&_nc_tpa=Q5bMBQKsLiac5Gbg9nQ1V4T6mBdwNfhwBQ3gGITdT9ZUqybbAyreGR2jhZp_ZH1W36V2_wlJrCqHclfDOQ&oh=00_AQSwflWFacNCZFinVJ0TvOmpc5QFPEJxRwfSLrZ2gP89oA&oe=6B0D1C6C",
+    "link": "https://www.facebook.com/story.php?story_fbid=122156512275170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "At my wife’s funeral, my own son pulled me aside and coldly announced, “Dad, we’re stopping your allowance. From now on, you’re on your own.” His wife stood next to him, smiling as if she had just won a prize.\n\nI didn’t argue or show any anger. I simply nodded. That Saturday, I packed a single suitcase and vanished without telling anyone where I was going. By midnight, my phone was flooded with 140 missed calls. They had always treated me like a helpless old man who had nowhere else to go. But they were about to learn a shocking truth about the luxurious six-bedroom house they called home—and who really held the keys to it...\n\nPART 1\n\nAt my wife’s funeral, my son pulled me aside and coldly said, “Dad, we’re cutting off your allowance. You’ll have to support yourself from now on.” His wife stood beside him smiling without a hint of shame. I simply nodded. That Saturday, I packed one suitcase and disappeared. By midnight, my phone showed 140 missed calls. They thought I was just a helpless old man, until they discovered who actually owned the luxurious six-bedroom house they were living in...\n\nMy wife had been buried for less than an hour when my son pulled me aside and announced that he and his wife were cutting off my monthly allowance. Four days later, I left with a single suitcase, and by midnight, my phone displayed 140 missed calls from people who suddenly seemed desperate to find me.\n\nMy name is Gerald Hollis. I’m seventy-one years old, and for forty-six years, I was married to Dorothy, the kindest and most loving woman I’d ever known. When cancer finally took her from me, it felt as though the warmth had disappeared from my entire world.\n\nOn the day of her funeral, I stood beside her coffin, barely able to hold myself together as friends and relatives offered their condolences. I was still struggling to accept that the woman I’d shared nearly half a century with would never come home again when my son, Trevor, approached me.\n\n“Dad, we need to talk about something.”\n\nI turned toward him, exhausted and overwhelmed by grief. His wife, Kendra, stood a few steps behind him, adjusting the expensive pearl necklace around her neck while watching us with an expression that showed little sympathy.\n\n“Trevor, can this please wait? We haven’t even finished saying goodbye to your mother.”\n\nHe shook his head, apparently determined to have the conversation immediately.\n\n“No, Dad. It’s about money, and Kendra and I think it’s important to settle this now.”\n\nI stared at him in disbelief. Dorothy’s funeral flowers were still arranged around the church, and the people who had loved her were only beginning to leave.\n\nTrevor lowered his voice slightly, although his expression remained firm.\n\n“Kendra and I have decided we can’t keep paying for your lifestyle. Starting next month, we’re stopping your allowance. You’ll need to cover your own expenses.”\n\nBefore I could respond, Kendra stepped forward and folded her arms.\n\n“Gerald, you’re seventy-one years old. It’s time you learned to be financially independent. We have our own future to worry about, and we can’t keep supporting you forever.”\n\nFor a moment, I almost laughed at the absurdity of what I was hearing. They were speaking to me as though I were a helpless old man who had spent years depending on their generosity.\n\nThe truth was very different, but neither of them knew it.\n\nFor the previous three years, I’d allowed Trevor to deposit $2,000 into my checking account every month. He believed those payments were helping me survive, and I’d never bothered correcting that assumption because Dorothy had wanted him to feel that he was taking care of his aging parents.\n\nWhat Trevor didn’t know was that I had never needed a single dollar of his money. Every month, I quietly transferred twice that amount, $4,000, into a college savings fund for his children.\n\nWhile my son congratulated himself for supporting me, I was secretly putting away money to help secure his children’s education. I never mentioned those contributions because I believed that doing something good for family shouldn’t require recognition.\n\nBut the money wasn’t the biggest secret.\n\nTrevor and Kendra lived in a beautiful six-bedroom house in an expensive neighborhood. They had raised their family there for years, entertained friends, and enjoyed a lifestyle that made them appear far more financially comfortable than they actually were.\n\nTrevor believed the property belonged to him.\n\nIt didn’t.\n\nFourteen years earlier, I’d purchased that house through a family property company and allowed my son and his family to live there without paying rent. I’d also quietly covered the property taxes, homeowners insurance, and maintenance expenses.\n\nWhen everything was added together, Trevor’s family received nearly $80,000 in financial benefits every year. Yet somehow, standing at his mother’s funeral, my son had convinced himself that the $2,000 he sent me each month was an unbearable burden.\n\nDorothy had always insisted that we keep our financial arrangements private. She believed that allowing Trevor to feel independent would help him develop confidence and pride in providing for his family.\n\n“Let them feel like they’re standing on their own feet, Gerald,” she used to tell me. “We don’t need credit for every good thing we do.”\n\nI’d agreed because making Dorothy happy had always mattered more to me than proving how much money I possessed. But as the years passed, she’d occasionally expressed concern about the way Trevor and Kendra had begun taking our generosity for granted.\n\nOne evening, she’d said something I never forgot.\n\n“Gerald, there’s a difference between helping someone and teaching them that they’re entitled to everything you have. Generosity becomes dangerous when people start mistaking it for weakness.”\n\nAt the time, I’d reassured her that Trevor would eventually understand everything we’d done for him. I believed my son had a good heart and that his occasional arrogance was simply the result of being young and ambitious.\n\nNow, standing beside Dorothy’s grave, I realized how badly I’d misjudged the situation.\n\nTrevor reached out and patted my shoulder with the confidence of someone delivering an unpleasant but necessary lesson.\n\n“Don’t take this personally, Dad. You’re getting older, and we can’t carry you forever. You need to start taking responsibility for yourself.”\n\nKendra stood beside him without the slightest sign of embarrassment. Neither of them seemed to understand how cruel their timing was or how deeply their words had hurt me.\n\nI looked at my son for several seconds before slowly nodding.\n\n“You’re right, Trevor. Everyone should be responsible for their own expenses.”\n\nHis expression immediately relaxed, and he smiled as though we’d just reached a sensible agreement.\n\n“I’m glad you understand, Dad. I knew you’d eventually see things our way.”\n\nI didn’t argue or reveal anything about the house, the college fund, or the expenses I’d been covering for years. There was no point discussing those matters while I was still standing at my wife’s funeral.\n\nInstead, I quietly said goodbye and returned to the small guest apartment behind Trevor’s house, where Dorothy and I had been living.\n\nThe apartment felt unbearably empty without her. Her favorite chair was still beside the window, her belongings remained exactly where she’d left them, and the faint scent of her perfume lingered in the bedroom.\n\nAs I approached her dresser, I noticed a sealed envelope resting on top.\n\nMy name was written across the front in Dorothy’s familiar handwriting. She had prepared it before entering the hospital, but until that moment, I hadn’t found the strength to open it.\n\nI sat on the edge of our bed and carefully unfolded the paper inside.\n\nThere were only six words.\n\nGerald, please start living for yourself.\n\nI read the message several times, tracing the letters with my fingers. Dorothy had spent forty-six years knowing exactly what I needed, and somehow, even in her final days, she’d understood something about my life that I had refused to acknowledge...\n\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. please leave a 'RICH' comment below and give us a \"Like \" to get full story )",
+    "wp_media_id": 786,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-1200-ru.jpg"
+   },
+   "source_key": "post:61585117295331_122156512275170576",
+   "status": "done",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
+  },
+  "2026-11-26 14:30": {
+   "adhoc": true,
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1003672546173662": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122114845940602036_4778450262383765",
+       "error": null,
+       "last_attempt": "2026-11-26T14:01:49+04:00",
+       "mode": "schedule",
+       "photo_id": "122114845910602036",
+       "post_id": "1003672546173662_122114845940602036",
+       "status": "done"
+      },
+      "1008693642337213": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119228370640467_1795385271540182",
+       "error": null,
+       "last_attempt": "2026-11-26T13:52:07+04:00",
+       "mode": "schedule",
+       "photo_id": "122119228340640467",
+       "post_id": "1008693642337213_122119228370640467",
+       "status": "done"
+      },
+      "1018759874664543": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121125487294825_1084459501282797",
+       "error": null,
+       "last_attempt": "2026-11-26T14:01:15+04:00",
+       "mode": "schedule",
+       "photo_id": "122121125457294825",
+       "post_id": "1018759874664543_122121125487294825",
+       "status": "done"
+      },
+      "1036597159544783": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120370242642087_2828743497559279",
+       "error": null,
+       "last_attempt": "2026-11-26T14:01:03+04:00",
+       "mode": "schedule",
+       "photo_id": "122120370212642087",
+       "post_id": "1036597159544783_122120370242642087",
+       "status": "done"
+      },
+      "1038143956055997": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113607588600554_1509304104438677",
+       "error": null,
+       "last_attempt": "2026-11-26T13:57:22+04:00",
+       "mode": "schedule",
+       "photo_id": "122113607558600554",
+       "post_id": "1038143956055997_122113607588600554",
+       "status": "done"
+      },
+      "1042837395585806": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118008846623459_1126369536871109",
+       "error": null,
+       "last_attempt": "2026-11-26T13:56:14+04:00",
+       "mode": "schedule",
+       "photo_id": "122118008816623459",
+       "post_id": "1042837395585806_122118008846623459",
+       "status": "done"
+      },
+      "1051766924693580": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137858322733379_1068403229547894",
+       "error": null,
+       "last_attempt": "2026-11-26T13:57:51+04:00",
+       "mode": "schedule",
+       "photo_id": "122137858292733379",
+       "post_id": "1051766924693580_122137858322733379",
+       "status": "done"
+      },
+      "1053133077892078": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109250148486560_4367443940232924",
+       "error": null,
+       "last_attempt": "2026-11-26T14:01:59+04:00",
+       "mode": "schedule",
+       "photo_id": "122109250118486560",
+       "post_id": "1053133077892078_122109250148486560",
+       "status": "done"
+      },
+      "1066862079844179": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112516908596942_1154958060824062",
+       "error": null,
+       "last_attempt": "2026-11-26T13:58:51+04:00",
+       "mode": "schedule",
+       "photo_id": "122112516878596942",
+       "post_id": "1066862079844179_122112516908596942",
+       "status": "done"
+      },
+      "1069814529551887": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128170741303687_1777429453316448",
+       "error": null,
+       "last_attempt": "2026-11-26T14:01:37+04:00",
+       "mode": "schedule",
+       "photo_id": "122128170711303687",
+       "post_id": "1069814529551887_122128170741303687",
+       "status": "done"
+      },
+      "1075346445663696": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144708546775004_2207322263208011",
+       "error": null,
+       "last_attempt": "2026-11-26T14:01:25+04:00",
+       "mode": "schedule",
+       "photo_id": "122144708516775004",
+       "post_id": "1075346445663696_122144708546775004",
+       "status": "done"
+      },
+      "1075712068960532": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122119782020628634_1556403053173648",
+       "error": null,
+       "last_attempt": "2026-11-26T14:00:07+04:00",
+       "mode": "schedule",
+       "photo_id": "122119781990628634",
+       "post_id": "1075712068960532_122119782020628634",
+       "status": "done"
+      },
+      "1084212424777390": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137860321300832_1131479769646920",
+       "error": null,
+       "last_attempt": "2026-11-26T13:53:54+04:00",
+       "mode": "schedule",
+       "photo_id": "122137860291300832",
+       "post_id": "1084212424777390_122137860321300832",
+       "status": "done"
+      },
+      "1092061600653020": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112257282588206_1183398470880322",
+       "error": null,
+       "last_attempt": "2026-11-26T13:56:49+04:00",
+       "mode": "schedule",
+       "photo_id": "122112257252588206",
+       "post_id": "1092061600653020_122112257282588206",
+       "status": "done"
+      },
+      "1097710383424105": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117648990343996_1142643331887798",
+       "error": null,
+       "last_attempt": "2026-11-26T14:00:45+04:00",
+       "mode": "schedule",
+       "photo_id": "122117648960343996",
+       "post_id": "1097710383424105_122117648990343996",
+       "status": "done"
+      },
+      "1098718609991464": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124184119297368_4383809898503471",
+       "error": null,
+       "last_attempt": "2026-11-26T14:00:29+04:00",
+       "mode": "schedule",
+       "photo_id": "122124184083297368",
+       "post_id": "1098718609991464_122124184119297368",
+       "status": "done"
+      },
+      "1113548795169055": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122143271450773833_30351631724437708",
+       "error": null,
+       "last_attempt": "2026-11-26T13:54:31+04:00",
+       "mode": "schedule",
+       "photo_id": "122143271420773833",
+       "post_id": "1113548795169055_122143271450773833",
+       "status": "done"
+      },
+      "1117846738074068": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136870447311273_1682411286857098",
+       "error": null,
+       "last_attempt": "2026-11-26T13:55:05+04:00",
+       "mode": "schedule",
+       "photo_id": "122136870411311273",
+       "post_id": "1117846738074068_122136870447311273",
+       "status": "done"
+      },
+      "1118090254718709": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122103981482556634_1486536316916196",
+       "error": null,
+       "last_attempt": "2026-11-26T13:59:20+04:00",
+       "mode": "schedule",
+       "photo_id": "122103981452556634",
+       "post_id": "1118090254718709_122103981482556634",
+       "status": "done"
+      },
+      "1125468037313193": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120723727295429_2822185721545844",
+       "error": null,
+       "last_attempt": "2026-11-26T13:55:39+04:00",
+       "mode": "schedule",
+       "photo_id": "122120723697295429",
+       "post_id": "1125468037313193_122120723727295429",
+       "status": "done"
+      },
+      "1125676667286378": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142140102737651_1173819551827581",
+       "error": null,
+       "last_attempt": "2026-11-26T13:53:17+04:00",
+       "mode": "schedule",
+       "photo_id": "122142140072737651",
+       "post_id": "1125676667286378_122142140102737651",
+       "status": "done"
+      },
+      "1146158698570676": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130810837300293_1453717070308185",
+       "error": null,
+       "last_attempt": "2026-11-26T13:58:21+04:00",
+       "mode": "schedule",
+       "photo_id": "122130810807300293",
+       "post_id": "1146158698570676_122130810837300293",
+       "status": "done"
+      },
+      "1167733113080371": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131186905307779_1745089533875837",
+       "error": null,
+       "last_attempt": "2026-11-26T13:59:44+04:00",
+       "mode": "schedule",
+       "photo_id": "122131186875307779",
+       "post_id": "1167733113080371_122131186905307779",
+       "status": "done"
+      },
+      "988042774402200": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136975920733774_1524538096234441",
+       "error": null,
+       "last_attempt": "2026-11-26T13:52:43+04:00",
+       "mode": "schedule",
+       "photo_id": "122136975890733774",
+       "post_id": "988042774402200_122136975920733774",
+       "status": "done"
+      }
+     },
+     "title": "Мама и брат отказались встретить меня в аэропорту после похорон мужа, но ночью к моему дому съехались пожарные машины, и наутро они увидели это в новостях",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 808,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1083701291497481": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125641219304633_1118809677700676",
+       "error": null,
+       "last_attempt": "2026-11-26T14:02:33+04:00",
+       "mode": "schedule",
+       "photo_id": "122125641189304633",
+       "post_id": "1083701291497481_122125641219304633",
+       "status": "done"
+      },
+      "1129620776897151": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128868631311884_1476351871092687",
+       "error": null,
+       "last_attempt": "2026-11-26T14:02:10+04:00",
+       "mode": "schedule",
+       "photo_id": "122128868601311884",
+       "post_id": "1129620776897151_122128868631311884",
+       "status": "done"
+      },
+      "1157031800834413": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141481243400989_1691758585894392",
+       "error": null,
+       "last_attempt": "2026-11-26T14:02:44+04:00",
+       "mode": "schedule",
+       "photo_id": "122141481129400989",
+       "post_id": "1157031800834413_122141481243400989",
+       "status": "done"
+      },
+      "1164575726728296": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128327101307134_2258362508073929",
+       "error": null,
+       "last_attempt": "2026-11-26T14:02:22+04:00",
+       "mode": "schedule",
+       "photo_id": "122128327071307134",
+       "post_id": "1164575726728296_122128327101307134",
+       "status": "done"
+      },
+      "1180583925128715": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124653943305562_4581921038696757",
+       "error": null,
+       "last_attempt": "2026-11-26T14:02:39+04:00",
+       "mode": "schedule",
+       "photo_id": "122124653907305562",
+       "post_id": "1180583925128715_122124653943305562",
+       "status": "done"
+      },
+      "1205654249300186": {
+       "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122147783187384851_3498403603665429",
+       "error": null,
+       "last_attempt": "2026-11-26T14:02:50+04:00",
+       "mode": "schedule",
+       "photo_id": "122147783157384851",
+       "post_id": "1205654249300186_122147783187384851",
+       "status": "done"
+      }
+     },
+     "title": "Kocamı yabancı bir toprağa gömüp döndüm, ailem beni havalimanından almaya gelmedi ama akşam haberlerini izleyince hepsinin elinden telefon düştü",
+     "warnings": [
+      "часть 3: 394 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 809,
+     "wp_live": true,
+     "wp_status": "future"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-26T14:30:00+04:00",
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/917310273_122132144060893096_7682616953053000938_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EgogWxf4R-MQ7kNvwG0wmJC&_nc_oc=Adpv1QBXiPKEqaIRerhkZszId40cB-KQPIXcwFv9KH1miMVKhlpe4gpjZvdokOKyCw4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=hdqBvH67YM-zG69sHEL1jQ&_nc_tpa=Q5bMBQJEcsLVbVl34l93YNDV-3dW_0isRJhdQogbaUnHmm-Bwi8GkL3CChNfgLTKstK6YNU9L1p1LkVSbw&oh=00_AQQHi8E_9PMsim_hfKdqSPHrlhC-XDWSugU-xECa1n7acQ&oe=6B0DD4F2",
+    "link": "https://www.facebook.com/story.php?story_fbid=122132160368893096&id=61576792898556",
+    "origin": "manual",
+    "page_id": "61576792898556",
+    "text": "I sent a message to our family group chat: “My flight lands at 5 p.m. Can someone pick me up?” I had just returned from burying my husband overseas. My brother replied, “We’re busy. Take an Uber.” Then my mother added, “Why didn’t you plan this better?” I answered with only two words: “No problem.” But what they saw on the evening news made every one of them drop their phones.\nMy name is Amelia.\nI’m thirty-five years old, and that morning I buried my husband, James, beneath soil that belonged to neither of us.\nWhen the plane landed at Portland International Airport, the tires hit the runway with a hard screech.\nI turned on my phone before we had even reached the gate.\nMy hands were shaking.\nNot because I was cold.\nBecause some small, desperate part of me still believed my family might be waiting.\nI opened our family group chat and typed:\nMy flight lands at 5:00 p.m. Can someone please pick me up?\nThe three typing dots appeared almost immediately.\nFor one brief second, I felt relieved.\nThen my brother’s message came through.\nTroy: We’re swamped today. Just take an Uber.\nA few seconds later, Mom replied.\nMom: Why didn’t you organize this better? You know Tuesdays are difficult for everyone.\nI stared at the screen until the words started to blur.\nOrganize this better.\nAs though I had planned my husband’s brain aneurysm.\nAs though his sudden death had been something I could have added to the family calendar weeks earlier.\nI didn’t argue.\nI didn’t remind them that I had spent the last several days identifying James’s body, signing foreign paperwork, arranging transportation, and standing alone beside his grave.\nI simply typed:\nNo problem.\nAt the time, I had no idea that within twenty-four hours, my family would be watching the consequences of those messages unfold on the evening news.\nBy the time I reached baggage claim, my phone buzzed again.\nMy father had joined the chat.\nDad: They’re expecting rain tonight. Be careful getting home.\nThen another message from Mom appeared.\nMom: Your father and I are having dinner with the Hendersons. We agreed to it weeks ago.\nI read it twice.\nA dinner invitation mattered more than meeting their daughter after she had buried her husband.\nI locked my phone and slipped it into my coat pocket.\nTwo large black suitcases appeared on the baggage carousel.\nThey held almost everything I had left of James.\nHis shirts.\nHis shoes.\nHis shaving kit.\nThe navy tie he wore to our anniversary dinner.\nI struggled to lift both bags onto a luggage cart.\nAs I pushed them toward the terminal exit, one wheel jammed.\nThe cart stopped suddenly.\nThe top suitcase fell to the floor and burst open.\nJames’s belongings scattered across the polished tiles.\nSocks.\nTies.\nFolded shirts that still carried the faint smell of his cologne.\nPieces of a life that had ended without warning.\nTravelers stepped around me while I dropped to my knees and tried to gather everything.\nMy vision blurred with tears.\nI could barely breathe.\nEventually, a stranger crouched beside me and helped close the suitcase.\nMy own family lived less than an hour away.\nNone of them were coming.\nI ordered a ride and sat silently in the back seat while rain began tapping against the windows.\nThe driver tried to make conversation twice.\nBoth times, I pretended not to hear him.\nWhen we reached the house James and I had shared, every window was dark.\nThe rooms were cold.\nI left the suitcases beside the front door and didn’t turn on the lights.\nInstead, I curled into the armchair where James used to sit on Sunday mornings with coffee and the newspaper.\nThe silence pressed in from every direction.\nI thought I was completely alone.\nI didn’t yet realize that something inside the house had already started to change.\nSomething James had arranged before his final trip.\nSomething my family knew nothing about.\nAnd before the night was over, that silence would be broken by a sound so alarming that neighbors would rush outside, emergency vehicles would fill the street, and television crews would arrive before sunrise.\nBy the time my family saw my house on the evening news, it was already too late to take back what they had written. I know you’re curious to see what happens next, so please be patient and continue reading in the comments below. Thank you for understanding the inconvenience. Please leave a “YES” below and give us a Like to get the full story"
