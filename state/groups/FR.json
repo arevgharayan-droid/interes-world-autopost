@@ -13282,7 +13282,18 @@
      "generated": true,
      "pages": {},
      "title": "حطّمت زوجة ابني شاحنة الإطفاء التي صنعتها لحفيدي من مقعد زوجتي الراحلة، وحين رأيت رسالة على هاتف ابني اكتشفت أن هناك سرًّا أكبر بكثير",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 829,
+     "wp_media_id": 826,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-2100-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
     },
     "CS": {
      "pages": {},
@@ -13303,6 +13314,8 @@
      "pages": {},
      "title": "Mi nuera destrozó el camión de bomberos que construí con el banco de mi esposa difunta, y lo que vi en el teléfono de mi hijo lo cambió todo",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 827,
      "wp_media_id": 826,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-2100-fr.jpg",
      "wp_site": {
@@ -13310,7 +13323,8 @@
       "key_secret": "WP_API_KEY",
       "url": "https://peakproductions.co",
       "wp_auth": "make_connector"
-     }
+     },
+     "wp_status": "future"
     },
     "FR": {
      "backend": "subscription",
@@ -13349,7 +13363,18 @@
      "title": "Nora mea a călcat în picioare camionul de pompieri pe care l-am făcut din banca soției mele moarte, iar fiul meu a tăcut. Apoi am văzut un mesaj pe telefonul lui",
      "warnings": [
       "длина статьи 1047 слов"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 828,
+     "wp_media_id": 826,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-2100-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
     },
     "RU": {
      "pages": {},
@@ -13364,6 +13389,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-26T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/921475928_1571021325048879_2844867828308935082_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=2kzuDZUU8nQQ7kNvwFC2LPT&_nc_oc=AdoF6JKpXPC2GKaHdvnhemr89tdFpBxRlMKgDga7ZE8onA8mzr_Svk3xU8Daohcu3CQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=_orOce2vdZyB2GKbgzuBxw&_nc_tpa=Q5bMBQJpU98Sj7Ho7pfKapBYNM7wO6fVZ2ce_ZkUsLCuBR0g5uSog5gjoB99KhgOojgefMYeI6YyZJ3B7A&oh=00_AQQf5C8b-mwYJuA1fBKZ9qbzfwUbtKbyB8eyntSb8BZxhA&oe=6B0E1ED2",
@@ -13375,7 +13401,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-2100-fr.jpg"
    },
    "source_key": "post:100064230806326_1571021348382210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -14080,7 +14106,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-26 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064456312444_1604736138351581": {
    "fingerprint": "0eccef4783dee1812e93",

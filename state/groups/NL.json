@@ -7,6 +7,7 @@
   "04801f1de620d4d27074": "2026-11-22T21:27:39+00:00",
   "082942ddf599434d8353": "2026-11-16T20:28:19+00:00",
   "08948a9455d080606e99": "2026-11-25T09:44:24+00:00",
+  "08ad896ac94bef0c4f71": "2026-11-26T16:24:15+00:00",
   "097beede44a6fb9a71b7": "2026-11-17T17:52:09+00:00",
   "0c6e8a7efc71f173e15e": "2026-11-16T10:16:48+00:00",
   "0d8e1b277acd69617505": "2026-11-21T10:17:21+00:00",
@@ -60,6 +61,7 @@
   "69fca282f43c87f63475": "2026-11-14T19:42:34+00:00",
   "6ccf422906658e0653ba": "2026-11-24T16:41:51+00:00",
   "6f01f72feadb6fecb5ce": "2026-11-15T14:18:37+00:00",
+  "6fbeb29187e4a5934191": "2026-11-26T16:24:15+00:00",
   "6fcb14f617ec70672575": "2026-11-21T19:44:57+00:00",
   "71261dc1524c8f04c4de": "2026-11-21T22:45:45+00:00",
   "7477c933eb22d1c2c473": "2026-11-22T21:27:39+00:00",
@@ -106,6 +108,7 @@
   "d9b6b49a99deb6db04fd": "2026-11-19T22:01:01+00:00",
   "dad3376516ebf7607694": "2026-11-17T20:47:11+00:00",
   "dcf04943e849a446709a": "2026-11-16T19:28:25+00:00",
+  "dd884bcf88863a284a4f": "2026-11-26T16:24:15+00:00",
   "e18518c82b2c91d9bede": "2026-11-21T17:04:07+00:00",
   "e2b93dcc96be27aa58cc": "2026-11-17T12:28:57+00:00",
   "e35a5edbfd125f0de5e7": "2026-11-17T12:28:57+00:00",
@@ -15688,7 +15691,88 @@
    "status": "cancelled"
   },
   "2026-11-26 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mein Mann warf unsere 18-jährige Tochter raus, während ich auf Dienstreise war – ein Jahr später stand sie mit einem Neugeborenen vor der Tür",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1281,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn man zette onze dochter het huis uit toen ik op zakenreis was. Een jaar later stond ze met een baby voor de deur",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1280,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu marido expulsou nossa filha de 18 anos enquanto eu viajava, e um ano depois ela bateu à minha porta com um bebê nos braços",
+     "warnings": [],
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     }
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-26T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/926078262_122156698797170576_3434540777563894962_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hIOeFnFqsmUQ7kNvwGH1JZh&_nc_oc=Adrotm0wu5RmsrdNJkYjoSdPMiY3VN_VgdyXZd-uQAKsJ50FBik39nsnLLxb6bZ0Gew&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=X1L7UZqtqSqjheFGKjeLxQ&_nc_tpa=Q5bMBQJ8ccenNb7GhBYdwYP137BbpJnC7fEyPkYj1ShX8cmhLMUj4iTfkvqQb2hwJXGV49yp202eS23L2Q&oh=00_AQSq0R3IyX3wdS9hfkzyO1khXz7Mcn647ld-Grla1aiu3Q&oe=6B0E1902",
