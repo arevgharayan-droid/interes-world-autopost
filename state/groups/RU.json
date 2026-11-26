@@ -177,7 +177,6 @@
  "outputs": {
   "1003672546173662_122114814506602036": "2026-11-26T08:37:01+00:00",
   "1003672546173662_122114845940602036": "2026-11-26T10:36:37+00:00",
-  "1008693642337213_122118244904640467": "2026-11-12T11:07:25+00:00",
   "1008693642337213_122118264128640467": "2026-11-12T17:48:11+00:00",
   "1008693642337213_122118264476640467": "2026-11-12T17:54:52+00:00",
   "1008693642337213_122118268694640467": "2026-11-12T20:02:51+00:00",
@@ -1099,7 +1098,6 @@
   "1125468037313193_122120691759295429": "2026-11-25T20:14:15+00:00",
   "1125468037313193_122120695653295429": "2026-11-26T08:47:01+00:00",
   "1125468037313193_122120723727295429": "2026-11-26T10:46:20+00:00",
-  "1125676667286378_122139981800737651": "2026-11-12T11:07:31+00:00",
   "1125676667286378_122140028876737651": "2026-11-12T17:48:17+00:00",
   "1125676667286378_122140029290737651": "2026-11-12T17:55:00+00:00",
   "1125676667286378_122140036532737651": "2026-11-12T20:03:00+00:00",
@@ -1157,7 +1155,6 @@
   "1125676667286378_122142050462737651": "2026-11-25T20:11:35+00:00",
   "1125676667286378_122142061106737651": "2026-11-26T08:47:17+00:00",
   "1125676667286378_122142140102737651": "2026-11-26T10:46:30+00:00",
-  "1129620776897151_122127477429311884": "2026-11-12T11:07:37+00:00",
   "1129620776897151_122127519333311884": "2026-11-12T17:48:22+00:00",
   "1129620776897151_122127520083311884": "2026-11-12T17:55:07+00:00",
   "1129620776897151_122127530175311884": "2026-11-12T20:03:04+00:00",
@@ -1311,7 +1308,6 @@
   "1146158698570676_122130810837300293": "2026-11-26T10:46:42+00:00",
   "1157031800834413_122141363019400989": "2026-11-26T08:48:27+00:00",
   "1157031800834413_122141481243400989": "2026-11-26T10:47:38+00:00",
-  "1164575726728296_122126662929307134": "2026-11-12T11:07:40+00:00",
   "1164575726728296_122126705655307134": "2026-11-12T17:48:26+00:00",
   "1164575726728296_122126706177307134": "2026-11-12T17:55:12+00:00",
   "1164575726728296_122126713185307134": "2026-11-12T20:03:10+00:00",
@@ -2930,7 +2926,6 @@
   "122144708516775004": "2026-11-26T10:01:29+00:00",
   "122147705301384851": "2026-11-25T23:56:48+00:00",
   "122147783157384851": "2026-11-26T10:02:54+00:00",
-  "1338630212673029_122116173309471857": "2026-11-12T11:07:43+00:00",
   "1338630212673029_122116332909471857": "2026-11-12T17:48:36+00:00",
   "1338630212673029_122116336017471857": "2026-11-12T17:55:23+00:00",
   "1338630212673029_122116364787471857": "2026-11-12T20:03:18+00:00",
@@ -2990,7 +2985,6 @@
   "1338630212673029_122120795931471857": "2026-11-25T14:48:05+00:00",
   "1338630212673029_122120842671471857": "2026-11-25T18:17:00+00:00",
   "1338630212673029_122120863191471857": "2026-11-25T20:24:53+00:00",
-  "1448441201677530_122119311477505599": "2026-11-12T11:07:47+00:00",
   "1448441201677530_122119452399505599": "2026-11-12T17:48:30+00:00",
   "1448441201677530_122119455597505599": "2026-11-12T17:55:17+00:00",
   "1448441201677530_122119474995505599": "2026-11-12T20:03:14+00:00",
@@ -3044,7 +3038,6 @@
   "1448441201677530_122123513733505599": "2026-11-25T14:48:08+00:00",
   "1448441201677530_122123560257505599": "2026-11-25T18:16:37+00:00",
   "1448441201677530_122123586267505599": "2026-11-25T20:24:40+00:00",
-  "988042774402200_122135108030733774": "2026-11-12T11:07:34+00:00",
   "988042774402200_122135146958733774": "2026-11-12T17:48:14+00:00",
   "988042774402200_122135147570733774": "2026-11-12T17:54:56+00:00",
   "988042774402200_122135155202733774": "2026-11-12T20:02:56+00:00",
@@ -3102,171 +3095,6 @@
   "988042774402200_122136975920733774": "2026-11-26T10:47:07+00:00"
  },
  "slots": {
-  "2026-11-12 15:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1338630212673029": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122116173309471857_1179124414682471",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:53+04:00",
-       "mode": "schedule",
-       "photo_id": "122116173279471857",
-       "post_id": "1338630212673029_122116173309471857",
-       "status": "done"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122119311477505599_1652453872997310",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:50+04:00",
-       "mode": "schedule",
-       "photo_id": "122119311447505599",
-       "post_id": "1448441201677530_122119311477505599",
-       "status": "done"
-      }
-     },
-     "title": "Minha irmã me humilhou diante de 400 convidados no seu gala, até o homem mais esperado da noite passar direto por ela e me perguntar: \"Querida, você está pronta para ir embora?",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 157,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "RU": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122118244904640467_1474794474588900",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:31+04:00",
-       "mode": "schedule",
-       "photo_id": "122118244868640467",
-       "post_id": "1008693642337213_122118244904640467",
-       "status": "done"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122139981800737651_1165537882644077",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:38+04:00",
-       "mode": "schedule",
-       "photo_id": "122139981758737651",
-       "post_id": "1125676667286378_122139981800737651",
-       "status": "done"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122135108030733774_1437750525006025",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:34+04:00",
-       "mode": "schedule",
-       "photo_id": "122135107994733774",
-       "post_id": "988042774402200_122135108030733774",
-       "status": "done"
-      }
-     },
-     "title": "Сестра при 400 гостях назвала меня 36-летней неудачницей, но тут в зал вошёл тот, кого все ждали, и сказал мне всего одну фразу",
-     "warnings": [
-      "длина текста FB 545 слов (исходник 776, цель ±10%)",
-      "длина статьи 558 слов"
-     ],
-     "wp_error": null,
-     "wp_id": 155,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "TR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1129620776897151": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122127477429311884_1833012931075700",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:42+04:00",
-       "mode": "schedule",
-       "photo_id": "122127477399311884",
-       "post_id": "1129620776897151_122127477429311884",
-       "status": "done"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122126662929307134_1117722187820105",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122126662899307134",
-       "post_id": "1164575726728296_122126662929307134",
-       "status": "done"
-      }
-     },
-     "title": "Ablam Beni Gala Gecesinde Herkesin Önünde \"Hâlâ Seçilmeyi Bekleyen Kız Kardeşim\" Diye Tanıttı, Sonra Salonun Kapıları Açıldı",
-     "warnings": [
-      "длина текста FB 438 слов (исходник 776, цель ±10%)",
-      "длина статьи 597 слов"
-     ],
-     "wp_error": null,
-     "wp_id": 156,
-     "wp_live": true,
-     "wp_status": "future"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-12T15:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/897251463_122109777411521979_5054926246481478911_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NQtJf0s4-DEQ7kNvwE0OXtH&_nc_oc=AdoNBdLgoztOLhAeIwzt60att-ZUWW5--Q3CNGE9vqkHwEgut6wu4axFlPz8CuTLQfA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=6NakhzXSEBIsTFNiwz-_sA&_nc_tpa=Q5bMBQJ_AWRc9IvnYqYccF9cT8712WUStHRHUv7lC_enaLWL6xI2AAbWqfBW4taO2382THLx0MNgoAeGcw&oh=00_AQSMaE1qBY0eK8JqHGTA3IeId1qXjy24w968HYSzftCVpw&oe=6AFB51EA",
-    "link": "https://www.facebook.com/share/p/16NPRXs4vLJ/",
-    "origin": "manual",
-    "page_id": "61595659383273",
-    "text": "« Ma sœur a passé des années à raconter à tout le monde que j'étais toujours célibataire à 36 ans. Lors de son prestigieux gala, elle m'a présentée en disant : “Voici ma petite sœur, qui attend toujours que quelqu'un daigne la remarquer.” Les invités ont éclaté de rire. Pas moi. Alors, l'homme que tout le monde attendait est passé devant elle sans même s'arrêter et m'a entourée de son bras. “Chérie, tu es prête à partir ?” Ma sœur est devenue livide. »\n\n« Et bien sûr, je ne peux pas oublier ma petite sœur Mary... Trente-six ans et toujours en train d'attendre qu'un homme daigne enfin la choisir ! »\n\nVoilà les mots qu'Alyssa, ma sœur, a prononcés dans un micro devant quatre cents invités, lors d'un gala privé et exclusif.\n\nL'immense salle de réception a éclaté de rire.\n\nLa personne qui riait le plus fort était mon propre père.\n\nSon rire était si bruyant que les autres invités se sont sentis libres de se joindre à lui, comme si humilier sa fille constituait le meilleur divertissement de la soirée.\n\nMa mère, en revanche, est restée assise à côté de moi, affichant un sourire parfaitement serein.\n\nSous la nappe, elle a tapoté deux fois le dos de ma main.\n\nJe connaissais parfaitement ce signal.\n\n« Reste silencieuse. Ne fais pas honte à la famille. »\n\nPendant trente-six ans, j'avais appris à garder le silence chaque fois qu'Alyssa décidait de faire de moi la cible de ses humiliations.\n\nÀ ses yeux, je serais toujours la petite sœur ratée, la femme qu'aucun homme n'avait jamais voulu choisir.\n\nMais il y avait une chose qu'aucun d'eux ne savait.\n\nCela faisait très longtemps que j'avais cessé d'attendre.\n\nDepuis la scène, Alyssa continuait de savourer l'attention des invités.\n\n« Et maintenant, accueillons chaleureusement l'entraîneur Wade Larkin ! »\n\nLes immenses portes de la salle s'ouvrirent lentement.\n\nWade apparut, vêtu d'un élégant costume gris anthracite. Sa grande stature et son assurance attirèrent immédiatement tous les regards.\n\nAlyssa s'avança vers lui avec un sourire éblouissant.\n\nElle tendit le bras, s'attendant à ce que Wade le prenne pour l'accompagner jusqu'à la table d'honneur.\n\nElle avait même fait placer leurs noms côte à côte sur les sièges réservés.\n\nMais ce qui se produisit ensuite laissa tout le monde stupéfait.\n\nWade ne s'arrêta même pas.\n\nIl passa directement devant la main tendue d'Alyssa, comme si elle était totalement invisible.\n\nLe sourire de ma sœur se figea.\n\nWade quitta l'allée centrale et se dirigea droit vers la table numéro deux.\n\nLa table où mes parents et moi étions assis.\n\nDes murmures commencèrent à se répandre dans toute la salle.\n\nJe restai calme en le regardant s'approcher.\n\nWade s'arrêta juste derrière ma chaise.\n\nIl posa doucement sa main sur mon épaule et se pencha vers moi.\n\nPuis, de sa voix grave, il demanda :\n\n« Chérie, tu es prête à partir ? »\n\nUn silence absolu envahit la salle.\n\nAu milieu de l'allée, Alyssa restait figée, le visage complètement livide.\n\nMon père cessa de rire.\n\nMa mère tenta de briser la tension avec un rire nerveux.\n\n« Oh, entraîneur Wade ! Quel sens de l'humour ! Vous participez même à notre petite plaisanterie familiale ! »\n\nMais Wade ne sourit pas.\n\nIl la regarda droit dans les yeux et répondit fermement :\n\n« Non, madame. Je ne plaisante pas. »\n\nL'atmosphère devint insupportablement tendue.\n\nQuatre cents personnes nous observaient sans prononcer un mot.\n\nLentement, je passai les mains derrière mon cou et détachai la chaîne que je gardais cachée sous mes vêtements.\n\nUne magnifique bague ornée d'un saphir tomba dans la paume de ma main.\n\nJe la soulevai délicatement et la glissai à mon annulaire gauche.\n\nCette bague aurait dû se trouver à cet endroit depuis cinq mois déjà.\n\nMais j'avais décidé de garder notre relation secrète.\n\nJusqu'à ce soir.\n\nAlyssa regarda la bague, puis releva les yeux vers Wade.\n\nSes lèvres commencèrent à trembler, comme si elle voulait poser une question, mais qu'elle était incapable de prononcer le moindre mot.\n\nJe soutins son regard.\n\nAprès trente-six années passées à supporter ses moqueries, je souris enfin.\n\nEt je lui posai à voix basse une question dont les quatre cents invités attendaient désespérément la réponse...\n❤️ Merci de nous accompagner et de consacrer quelques minutes à cette histoire ! 🙏📖. Ce n’est que le début. La deuxième partie et le dénouement sont déjà disponibles dans les commentaires. 👇\nS’ils n’apparaissent pas immédiatement, appuyez sur « Voir tous les commentaires » et cherchez-les pour découvrir comment se termine cette histoire bouleversante. 💬✨",
-    "wp_media_id": 154,
-    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261112-1500-ru-1.jpg"
-   },
-   "source_key": "post:61595659383273_122109822993521979",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
-    "key_secret": "WP_API_KEY",
-    "url": "https://peakproductions.co",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-12 18:00": {
    "langs": {},
    "slot_iso": "2026-11-12T18:00:00+04:00",

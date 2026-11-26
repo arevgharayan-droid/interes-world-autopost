@@ -59,7 +59,6 @@
   "f855d853b2033f80317b": "2026-11-16T23:51:16+00:00"
  },
  "outputs": {
-  "100633729330404_1139835562078298": "2026-11-12T11:07:26+00:00",
   "100633729330404_1140182622043592": "2026-11-12T17:47:58+00:00",
   "100633729330404_1140188218709699": "2026-11-12T17:55:31+00:00",
   "100633729330404_1140273165367871": "2026-11-12T20:03:10+00:00",
@@ -172,7 +171,6 @@
   "1040613469056925": "2026-11-25T18:05:30+00:00",
   "1040704735714465": "2026-11-25T20:17:11+00:00",
   "1040801882371417": "2026-11-25T22:50:42+00:00",
-  "104114086037068_1039214565866922": "2026-11-12T11:07:31+00:00",
   "104114086037068_1039587789162933": "2026-11-12T17:48:04+00:00",
   "104114086037068_1039593385829040": "2026-11-12T17:55:40+00:00",
   "104114086037068_1039695929152119": "2026-11-12T20:03:20+00:00",
@@ -277,7 +275,6 @@
   "1053481267773585": "2026-11-25T20:17:44+00:00",
   "1053583797763332": "2026-11-25T22:51:17+00:00",
   "1054039737717738": "2026-11-26T09:56:34+00:00",
-  "1060733217128705_122144030696777362": "2026-11-12T11:07:35+00:00",
   "1060733217128705_122144072714777362": "2026-11-12T17:47:38+00:00",
   "1060733217128705_122144073404777362": "2026-11-12T17:55:05+00:00",
   "1060733217128705_122144083868777362": "2026-11-12T20:02:43+00:00",
@@ -333,7 +330,6 @@
   "1060733217128705_122146040504777362": "2026-11-25T20:12:50+00:00",
   "1060733217128705_122146053812777362": "2026-11-26T08:37:51+00:00",
   "1060733217128705_122146111532777362": "2026-11-26T10:37:16+00:00",
-  "106713875762456_1027093180408954": "2026-11-12T11:07:38+00:00",
   "106713875762456_1027439873707618": "2026-11-12T17:48:01+00:00",
   "106713875762456_1027445043707101": "2026-11-12T17:55:35+00:00",
   "106713875762456_1027528873698718": "2026-11-12T20:03:15+00:00",
@@ -442,7 +438,6 @@
   "1153735560688298": "2026-11-25T20:16:37+00:00",
   "1153832207345300": "2026-11-25T22:50:08+00:00",
   "1154293997299121": "2026-11-26T09:55:25+00:00",
-  "1220745651126185_122126703573439195": "2026-11-12T11:07:42+00:00",
   "1220745651126185_122126768865439195": "2026-11-12T17:48:08+00:00",
   "1220745651126185_122126770467439195": "2026-11-12T17:55:44+00:00",
   "1220745651126185_122126779863439195": "2026-11-12T20:03:24+00:00",
@@ -1041,7 +1036,6 @@
   "122338396952241259": "2026-11-25T20:10:46+00:00",
   "122338427666241259": "2026-11-25T22:45:51+00:00",
   "122338500932241259": "2026-11-26T09:50:48+00:00",
-  "233545296514172_122335993844241259": "2026-11-12T11:07:45+00:00",
   "233545296514172_122336049590241259": "2026-11-12T17:47:28+00:00",
   "233545296514172_122336050862241259": "2026-11-12T17:54:52+00:00",
   "233545296514172_122336064080241259": "2026-11-12T20:02:29+00:00",
@@ -1097,7 +1091,6 @@
   "233545296514172_122338396976241259": "2026-11-25T20:10:46+00:00",
   "233545296514172_122338427696241259": "2026-11-26T08:39:34+00:00",
   "233545296514172_122338500962241259": "2026-11-26T10:38:59+00:00",
-  "530022363528890_122175412202720509": "2026-11-12T11:07:49+00:00",
   "530022363528890_122175433058720509": "2026-11-12T17:47:32+00:00",
   "530022363528890_122175433772720509": "2026-11-12T17:54:57+00:00",
   "530022363528890_122175439982720509": "2026-11-12T20:02:34+00:00",
@@ -1153,7 +1146,6 @@
   "530022363528890_122176577810720509": "2026-11-25T20:11:28+00:00",
   "530022363528890_122176592948720509": "2026-11-26T08:40:08+00:00",
   "530022363528890_122176656176720509": "2026-11-26T10:39:34+00:00",
-  "625664190627160_122184021074820020": "2026-11-12T11:07:53+00:00",
   "625664190627160_122184054800820020": "2026-11-12T17:47:43+00:00",
   "625664190627160_122184055388820020": "2026-11-12T17:55:10+00:00",
   "625664190627160_122184061070820020": "2026-11-12T20:02:48+00:00",
@@ -1208,7 +1200,6 @@
   "625664190627160_122185582514820020": "2026-11-25T20:13:31+00:00",
   "625664190627160_122185591916820020": "2026-11-26T08:40:42+00:00",
   "625664190627160_122185643636820020": "2026-11-26T10:40:10+00:00",
-  "648976361631351_122194228364829482": "2026-11-12T11:07:57+00:00",
   "648976361631351_122194256888829482": "2026-11-12T17:47:46+00:00",
   "648976361631351_122194257536829482": "2026-11-12T17:55:14+00:00",
   "648976361631351_122194267580829482": "2026-11-12T20:02:52+00:00",
@@ -1263,7 +1254,6 @@
   "648976361631351_122195970284829482": "2026-11-25T20:14:08+00:00",
   "648976361631351_122195979878829482": "2026-11-26T08:41:16+00:00",
   "648976361631351_122196034892829482": "2026-11-26T10:40:43+00:00",
-  "673710079162922_122244060944895613": "2026-11-12T11:08:00+00:00",
   "673710079162922_122244100016895613": "2026-11-12T17:47:49+00:00",
   "673710079162922_122244100886895613": "2026-11-12T17:55:18+00:00",
   "673710079162922_122244108470895613": "2026-11-12T20:02:57+00:00",
@@ -1318,7 +1308,6 @@
   "673710079162922_122245816490895613": "2026-11-25T20:14:47+00:00",
   "673710079162922_122245829594895613": "2026-11-26T08:41:52+00:00",
   "673710079162922_122245884920895613": "2026-11-26T10:41:14+00:00",
-  "714226118434052_122205180914902657": "2026-11-12T11:08:04+00:00",
   "714226118434052_122205224828902657": "2026-11-12T17:47:51+00:00",
   "714226118434052_122205225422902657": "2026-11-12T17:55:22+00:00",
   "714226118434052_122205235106902657": "2026-11-12T20:03:02+00:00",
@@ -1373,7 +1362,6 @@
   "714226118434052_122207196548902657": "2026-11-25T20:15:28+00:00",
   "714226118434052_122207218520902657": "2026-11-26T08:42:25+00:00",
   "714226118434052_122207287904902657": "2026-11-26T10:41:48+00:00",
-  "892503027289970_122142965127219808": "2026-11-12T11:08:06+00:00",
   "892503027289970_122142999459219808": "2026-11-12T17:47:55+00:00",
   "892503027289970_122142999993219808": "2026-11-12T17:55:26+00:00",
   "892503027289970_122143006665219808": "2026-11-12T20:03:06+00:00",
@@ -1428,7 +1416,6 @@
   "892503027289970_122144238195219808": "2026-11-25T20:16:03+00:00",
   "892503027289970_122144248863219808": "2026-11-26T08:42:59+00:00",
   "892503027289970_122144286255219808": "2026-11-26T10:42:22+00:00",
-  "994273113779575_122138661056776189": "2026-11-12T11:08:11+00:00",
   "994273113779575_122138701688776189": "2026-11-12T17:47:35+00:00",
   "994273113779575_122138702606776189": "2026-11-12T17:55:01+00:00",
   "994273113779575_122138713262776189": "2026-11-12T20:02:39+00:00",
@@ -1486,213 +1473,6 @@
   "994273113779575_122140737686776189": "2026-11-26T10:42:57+00:00"
  },
  "slots": {
-  "2026-11-12 15:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "100633729330404": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1139835562078298_1501010435254374",
-       "error": null,
-       "last_attempt": "2026-11-12T14:36:02+04:00",
-       "mode": "schedule",
-       "photo_id": "1139835532078301",
-       "post_id": "100633729330404_1139835562078298",
-       "status": "done"
-      },
-      "104114086037068": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1039214565866922_992207510052591",
-       "error": null,
-       "last_attempt": "2026-11-12T14:36:09+04:00",
-       "mode": "schedule",
-       "photo_id": "1039214542533591",
-       "post_id": "104114086037068_1039214565866922",
-       "status": "done"
-      },
-      "1060733217128705": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122144030696777362_1445760944330391",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122144030666777362",
-       "post_id": "1060733217128705_122144030696777362",
-       "status": "done"
-      },
-      "106713875762456": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "1027093180408954_2225024025080229",
-       "error": null,
-       "last_attempt": "2026-11-12T14:36:06+04:00",
-       "mode": "schedule",
-       "photo_id": "1027093160408956",
-       "post_id": "106713875762456_1027093180408954",
-       "status": "done"
-      },
-      "1220745651126185": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122126703573439195_1058678037257123",
-       "error": null,
-       "last_attempt": "2026-11-12T14:36:11+04:00",
-       "mode": "schedule",
-       "photo_id": "122126703543439195",
-       "post_id": "1220745651126185_122126703573439195",
-       "status": "done"
-      },
-      "233545296514172": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122335993844241259_1039588612484063",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:30+04:00",
-       "mode": "schedule",
-       "photo_id": "122335993814241259",
-       "post_id": "233545296514172_122335993844241259",
-       "status": "done"
-      },
-      "530022363528890": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122175412202720509_1385192256827012",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:33+04:00",
-       "mode": "schedule",
-       "photo_id": "122175412172720509",
-       "post_id": "530022363528890_122175412202720509",
-       "status": "done"
-      },
-      "625664190627160": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122184021074820020_2615272405627193",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:45+04:00",
-       "mode": "schedule",
-       "photo_id": "122184021044820020",
-       "post_id": "625664190627160_122184021074820020",
-       "status": "done"
-      },
-      "648976361631351": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122194228364829482_2504928493367749",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:49+04:00",
-       "mode": "schedule",
-       "photo_id": "122194228334829482",
-       "post_id": "648976361631351_122194228364829482",
-       "status": "done"
-      },
-      "673710079162922": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122244060944895613_1489776839667824",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:53+04:00",
-       "mode": "schedule",
-       "photo_id": "122244060914895613",
-       "post_id": "673710079162922_122244060944895613",
-       "status": "done"
-      },
-      "714226118434052": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122205180914902657_29566967649599317",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:55+04:00",
-       "mode": "schedule",
-       "photo_id": "122205180884902657",
-       "post_id": "714226118434052_122205180914902657",
-       "status": "done"
-      },
-      "892503027289970": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122142965127219808_1819761519167748",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:59+04:00",
-       "mode": "schedule",
-       "photo_id": "122142965097219808",
-       "post_id": "892503027289970_122142965127219808",
-       "status": "done"
-      },
-      "994273113779575": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122138661056776189_29078719211781546",
-       "error": null,
-       "last_attempt": "2026-11-12T14:35:37+04:00",
-       "mode": "schedule",
-       "photo_id": "122138661026776189",
-       "post_id": "994273113779575_122138661056776189",
-       "status": "done"
-      }
-     },
-     "title": "My Husband Laughed When I Asked for a Divorce, But Hours Later a Nurse Handed Him My Letter",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 241,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-12T15:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/861563118_122105956647521979_7071842477737641443_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=1ePgTW1aeacQ7kNvwH8hImj&_nc_oc=Adr9OUPIFq7Xhoeby7Q7po_lwPsPdz_uyuPzlqUgnmhEEZERZk8dUcLfsaafp9Oe9Nk&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=Ll9w_3hFLQLOXbQ_5iHa9w&_nc_tpa=Q5bMBQJygoqYPY1aCyRwyGE7o32BbLLhq1agtV4pdENLyDT_t27F0HwMLNBjGuqW0QJcnsyygskue1-Sjg&oh=00_AQRelJ1l-x4aop4rc3sBv3p-7ejxR5zNTNuCKLdFgbnoyw&oe=6AFB8180",
-    "link": "https://www.facebook.com/share/p/1TbFZhCEfY/",
-    "origin": "manual",
-    "page_id": "61595659383273",
-    "text": "Mon mari a ri lorsque je lui ai demandé le divorce, convaincu que je n'oserais jamais l'abandonner pour de vrai. Mais pendant qu'il assistait à la fête d'anniversaire de son grand-père avec une autre femme à son bras, moi, je luttais pour ma vie dans une salle d'accouchement de l'hôpital. Plus de trois heures plus tard, une infirmière lui remit la lettre que j'avais écrite après avoir accouché. Lorsqu'il arriva aux dernières lignes, le chef de la mafia le plus craint de Chicago se tenait debout sous les lumières de l'hôpital, les mains tremblantes et les larmes coulant sur son visage.\n\nJe m'appelle Claire Bennett et j'étais mariée depuis cinq ans à Vincent Moretti.\n\nVincent était l'un des chefs de la mafia les plus craints de Chicago. Il était puissant, riche et obsédé par le contrôle, jusque dans notre propre maison.\n\nIl détestait le désordre.\n\nUn seul cheveu sur le canapé pouvait l'irriter pendant une demi-heure. Un jour, après que j'avais passé trois heures à préparer le dîner, il jeta toute la nourriture à la poubelle parce qu'il ne supportait pas l'odeur restée dans la cuisine.\n\nJ'ai appris à vivre selon ses règles.\n\nSophia Reynolds n'a jamais eu à le faire.\n\nSophia avait été l'amour d'enfance de Vincent, même s'il l'appelait toujours « comme une petite sœur ».\n\nJe l'avais vu s'agenouiller pour lui retirer ses talons aiguilles quand ses pieds lui faisaient mal. Je l'avais vu manger la nourriture qu'elle avait déjà mordue. Je l'avais aussi vu ignorer les traces de boue qu'elle laissait sur le tapis blanc que j'avais si peur de tacher.\n\nPuis je découvris que Vincent lui avait acheté une maison.\n\nEt une voiture de sport de luxe.\n\nLes deux étaient à son nom.\n\nLorsque je le confrontai, il parut à peine coupable.\n\n— Sophia n'a personne d'autre sur qui compter.\n\n— Et moi ? demandai-je. Je suis ta femme.\n\nSon expression se durcit.\n\n— Tu es madame Moretti. Que te faut-il de plus ?\n\nCe fut le moment où quelque chose en moi se brisa.\n\n— Je veux le divorce.\n\nVincent rit.\n\n— Tu es jalouse. Ça te passera.\n\n— Je suis sérieuse.\n\nIl s'approcha de moi.\n\n— Je n'accepterai pas le divorce.\n\nPuis il tourna le dos et partit, comme si notre mariage lui appartenait plus qu'à moi.\n\nÀ cette époque, j'étais enceinte.\n\nUne part de moi espérait encore que le bébé lui ferait comprendre ce qu'il était sur le point de perdre.\n\nJe me trompais.\n\nLe soir de la fête d'anniversaire de son grand-père, Vincent arriva avec Sophia accrochée à son bras.\n\nJe n'étais pas là.\n\nJ'étais déjà à l'hôpital.\n\nMon accouchement s'était déclenché en avance et, en très peu de temps, tout commença à mal tourner.\n\nLes médecins tentaient de sauver mon bébé tout en luttant pour me maintenir en vie.\n\nÀ l'autre bout de la ville, à la fête, Vincent ne remarqua apparemment mon absence que lorsque son assistant courut vers lui.\n\n— Patron, madame Moretti est en travail prématuré. Son état est critique.\n\nVincent se retourna pour partir.\n\nAlors Sophia l'attrapa par le bras.\n\n— Ma cheville !\n\nElle vacilla et se mit à pleurer, disant qu'elle s'était tordu la cheville.\n\nSon assistant le supplia de partir.\n\nVincent hésita.\n\nPuis il décida de rester avec Sophia.\n\nIl se convainquit que j'avais des médecins à ma disposition.\n\nIl se convainquit qu'il restait encore du temps.\n\nMais il n'y en avait plus.\n\nPlus de trois heures passèrent avant qu'il n'arrive à l'hôpital.\n\nÀ ce moment-là, notre bébé était déjà né prématurément.\n\nJ'avais perdu trop de sang.\n\nLe bébé était vivant, mais dangereusement faible.\n\nEt je pouvais à peine rester consciente.\n\nJe me souviens d'avoir fait un effort pour bouger la main.\n\nJe me souviens d'avoir demandé du papier à une infirmière.\n\n— Que faites-vous ? murmura-t-elle.\n\n— Il faut qu'il lise ceci.\n\nChaque mot me faisait mal.\n\nMais je finis d'écrire.\n\nPlus tard, Vincent arriva enfin.\n\nLe personnel me raconta plus tard quelques détails de ce qui se passa ensuite.\n\nIl exigea de savoir où j'étais.\n\nAlors l'infirmière lui dit que j'avais écrit quelque chose spécialement pour lui.\n\nElle lui mit ma lettre entre les mains.\n\nIl l'ouvrit.\n\nIl la lut une fois.\n\nPuis il la relut.\n\nPour la première fois depuis toutes les années où je le connaissais, Vincent Moretti, l'homme que tout le monde craignait, se mit à pleurer.\n\nParce que la lettre ne lui demandait pas de venir me sauver.\n\nElle ne le suppliait pas de me choisir, moi.\n\nElle ne l'accusait même pas de m'avoir abandonnée.\n\nElle lui disait simplement ce que j'avais déjà décidé.\n\nSi je survivais, je partirais.\n\nEt si je n'y arrivais pas, j'avais déjà pris les dispositions nécessaires pour que notre fils soit confié à des personnes qui ne permettraient jamais à Sophia d'approcher mon bébé.\n\nLorsque Vincent arriva à la dernière ligne, ses mains tremblaient.\n\nMais l'infirmière ne lui avait pas encore annoncé le pire.\n\n❤️ Merci de nous accompagner et de consacrer quelques minutes à cette histoire ! 🙏📖. Ce n’est que le début. La deuxième partie et le dénouement sont déjà disponibles dans les commentaires. 👇\nS’ils n’apparaissent pas immédiatement, appuyez sur « Voir tous les commentaires » et cherchez-les pour découvrir comment se termine cette histoire bouleversante. 💬✨",
-    "wp_media_id": 236,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-en2-1.jpg"
-   },
-   "source_key": "post:61595659383273_122105956707521979",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-12 18:00": {
    "langs": {},
    "slot_iso": "2026-11-12T18:00:00+04:00",
