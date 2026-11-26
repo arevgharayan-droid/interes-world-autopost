@@ -27,7 +27,6 @@
   "25b78f14c93b0017d12c": "2026-11-20T22:46:03+00:00",
   "27e58ec2ed5f9e95b22d": "2026-11-26T09:50:46+00:00",
   "2c102128a6bdf6cc4b13": "2026-11-16T16:00:57+00:00",
-  "2fec1092febd6092ea8f": "2026-11-12T09:04:19+00:00",
   "31ed525cac6f302a760e": "2026-11-18T15:23:57+00:00",
   "328058e82fda872a8b75": "2026-11-21T22:45:45+00:00",
   "34711a6634d3a561ac27": "2026-11-26T09:50:46+00:00",
@@ -57,7 +56,6 @@
   "6398da96a5da730fd2fa": "2026-11-15T10:15:33+00:00",
   "67a1af36132f7ae75c63": "2026-11-21T19:44:57+00:00",
   "69fca282f43c87f63475": "2026-11-14T19:42:34+00:00",
-  "6a5fb8d3a145316fa770": "2026-11-12T09:04:19+00:00",
   "6ccf422906658e0653ba": "2026-11-24T16:41:51+00:00",
   "6f01f72feadb6fecb5ce": "2026-11-15T14:18:37+00:00",
   "6fcb14f617ec70672575": "2026-11-21T19:44:57+00:00",
@@ -486,8 +484,6 @@
   "1205543595981082_122132089479430924": "2026-11-25T20:01:35+00:00",
   "1205543595981082_122132105043430924": "2026-11-26T08:38:08+00:00",
   "1205543595981082_122132167581430924": "2026-11-26T09:53:45+00:00",
-  "1208422892355505_122130640785418602": "2026-11-12T09:04:30+00:00",
-  "1208422892355505_122130642009418602": "2026-11-12T09:14:23+00:00",
   "1208422892355505_122130649917418602": "2026-11-12T10:26:59+00:00",
   "1208422892355505_122130650595418602": "2026-11-12T11:07:34+00:00",
   "1208422892355505_122130692235418602": "2026-11-12T17:47:42+00:00",
@@ -861,8 +857,6 @@
   "122130610725430924": "2026-11-17T11:04:52+00:00",
   "122130622179430924": "2026-11-17T12:32:52+00:00",
   "122130625875321366": "2026-11-21T10:24:48+00:00",
-  "122130640755418602": "2026-11-12T09:04:30+00:00",
-  "122130641985418602": "2026-11-12T09:14:23+00:00",
   "122130644109321366": "2026-11-21T14:23:06+00:00",
   "122130649887418602": "2026-11-12T10:26:59+00:00",
   "122130650553418602": "2026-11-12T10:35:39+00:00",
@@ -1044,8 +1038,6 @@
   "122132542083418602": "2026-11-24T12:36:30+00:00",
   "122132565849418602": "2026-11-24T16:47:47+00:00",
   "122132622639310273": "2026-11-20T14:48:20+00:00",
-  "122132630817436382": "2026-11-12T09:04:33+00:00",
-  "122132631657436382": "2026-11-12T09:14:27+00:00",
   "122132636919310273": "2026-11-20T17:11:57+00:00",
   "122132640303436382": "2026-11-12T10:27:01+00:00",
   "122132642433436382": "2026-11-12T10:35:43+00:00",
@@ -1196,8 +1188,6 @@
   "122135936655399122": "2026-11-25T23:56:33+00:00",
   "122135960163306170": "2026-11-26T09:51:58+00:00",
   "122136000123399122": "2026-11-26T09:59:11+00:00",
-  "122202375392922316": "2026-11-12T09:04:27+00:00",
-  "122202376394922316": "2026-11-12T09:14:18+00:00",
   "122202384314922316": "2026-11-12T10:26:55+00:00",
   "122202385802922316": "2026-11-12T10:35:35+00:00",
   "122202424040922316": "2026-11-12T17:47:38+00:00",
@@ -1277,8 +1267,6 @@
   "122204385524461850": "2026-11-25T20:02:13+00:00",
   "122204394452461850": "2026-11-25T22:49:53+00:00",
   "122204440220461850": "2026-11-26T09:54:57+00:00",
-  "122222323556930012": "2026-11-12T09:04:24+00:00",
-  "122222324990930012": "2026-11-12T09:14:15+00:00",
   "122222335448930012": "2026-11-12T10:26:51+00:00",
   "122222336858930012": "2026-11-12T10:35:32+00:00",
   "122222396726930012": "2026-11-12T17:47:36+00:00",
@@ -1407,8 +1395,6 @@
   "1239848699214091_122128326195439695": "2026-11-25T20:01:18+00:00",
   "1239848699214091_122128341543439695": "2026-11-26T08:39:17+00:00",
   "1239848699214091_122128410171439695": "2026-11-26T09:53:10+00:00",
-  "1268633826332790_122132630847436382": "2026-11-12T09:04:33+00:00",
-  "1268633826332790_122132631681436382": "2026-11-12T09:14:27+00:00",
   "1268633826332790_122132640333436382": "2026-11-12T10:27:01+00:00",
   "1268633826332790_122132642469436382": "2026-11-12T11:07:38+00:00",
   "1268633826332790_122132721249436382": "2026-11-12T17:47:44+00:00",
@@ -1518,8 +1504,6 @@
   "444776585382502_122229800024543856": "2026-11-25T20:02:29+00:00",
   "444776585382502_122229814994543856": "2026-11-26T08:45:26+00:00",
   "444776585382502_122229865736543856": "2026-11-26T09:55:30+00:00",
-  "633031599904551_122222323586930012": "2026-11-12T09:04:24+00:00",
-  "633031599904551_122222325014930012": "2026-11-12T09:14:15+00:00",
   "633031599904551_122222335478930012": "2026-11-12T10:26:51+00:00",
   "633031599904551_122222336888930012": "2026-11-12T11:07:26+00:00",
   "633031599904551_122222396756930012": "2026-11-12T17:47:36+00:00",
@@ -1581,8 +1565,6 @@
   "633031599904551_122224643570930012": "2026-11-25T20:00:12+00:00",
   "633031599904551_122224655378930012": "2026-11-26T08:39:51+00:00",
   "633031599904551_122224718930930012": "2026-11-26T09:51:06+00:00",
-  "715935674934966_122202375422922316": "2026-11-12T09:04:27+00:00",
-  "715935674934966_122202376418922316": "2026-11-12T09:14:18+00:00",
   "715935674934966_122202384344922316": "2026-11-12T10:26:55+00:00",
   "715935674934966_122202385832922316": "2026-11-12T11:07:31+00:00",
   "715935674934966_122202424070922316": "2026-11-12T17:47:38+00:00",
@@ -1642,125 +1624,6 @@
   "715935674934966_122204243282922316": "2026-11-26T09:51:29+00:00"
  },
  "slots": {
-  "2026-11-12 13:12": {
-   "adhoc": true,
-   "langs": {
-    "DE": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1208422892355505": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122130642009418602_1532379122285509",
-       "error": null,
-       "last_attempt": "2026-11-12T13:14:19+04:00",
-       "mode": "immediate",
-       "photo_id": "122130641985418602",
-       "post_id": "1208422892355505_122130642009418602",
-       "status": "done"
-      },
-      "1268633826332790": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122132631681436382_4713329102271677",
-       "error": null,
-       "last_attempt": "2026-11-12T13:14:24+04:00",
-       "mode": "immediate",
-       "photo_id": "122132631657436382",
-       "post_id": "1268633826332790_122132631681436382",
-       "status": "done"
-      }
-     },
-     "title": "Er bot mir Millionen für mein Schweigen, doch ich verlangte nur einen Gefallen – und verschwieg ihm, was ich unter dem Herzen trug",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 225,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "633031599904551": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122222325014930012_4194697224164206",
-       "error": null,
-       "last_attempt": "2026-11-12T13:14:11+04:00",
-       "mode": "immediate",
-       "photo_id": "122222324990930012",
-       "post_id": "633031599904551_122222325014930012",
-       "status": "done"
-      },
-      "715935674934966": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122202376418922316_1538503011447774",
-       "error": null,
-       "last_attempt": "2026-11-12T13:14:15+04:00",
-       "mode": "immediate",
-       "photo_id": "122202376394922316",
-       "post_id": "715935674934966_122202376418922316",
-       "status": "done"
-      }
-     },
-     "title": "Hij bood me miljoenen om te verdwijnen, maar ik vroeg om één gunst en nam een geheim mee dat hij nog niet kende",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 224,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "PT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "RU": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "TR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    }
-   },
-   "moved_from": "2026-11-12 15:00",
-   "prepared": true,
-   "slot_iso": "2026-11-12T13:12:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/864787846_122118682898345126_3144163089212524012_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=K9bgFYag_sIQ7kNvwGXF3h6&_nc_oc=AdoRaHmlzOHEGJe6hrfrC70krnm12fJblokTC-uvu4ZNK_eCdKYIh_f9Zy6bYm2t2j0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=HFIJCb_0SPeZCHm5yb5L-Q&_nc_tpa=Q5bMBQKG_yrJp8F9C6i110MycMrjJ8WUjS0orV4fjaT-dO6Y_wtei_cK7okA91yoQFzVsxdj9kry_TR0QA&oh=00_AQQAfFVBWzpzHuNOBKAaw9i5N0LCe759C_Ac5hellS1pKA&oe=6AFB65E7",
-    "link": "https://www.facebook.com/share/p/1EMn6UHAMN/",
-    "origin": "manual",
-    "page_id": "61560353781750",
-    "text": "\"After three years of marriage, my Mafia Boss husband divorced me the moment his first love returned to Chicago. He offered me millions to disappear quietly, but I refused every dollar and asked for only one thing: a favor he would owe me someday. Three days later, I left his mansion with two suitcases, a plane ticket, and a secret growing inside me that Vincent Moretti knew absolutely nothing about.\n\nMy name is Claire Bennett, and for three years I was married to one of Chicago’s most feared Mafia Bosses.\n\nVincent Moretti had money, power, and enough influence to make dangerous men hesitate before crossing him.\n\nBut none of that mattered when he placed our divorce agreement in front of me.\n\n“You married me because your grandmother wanted to see you settle down before she died,” I said. “Now she’s gone, and Sophia Reynolds is back.”\n\nVincent said nothing.\n\nThat silence told me enough.\n\nI pushed the settlement documents toward him.\n\n“The money isn’t enough.”\n\nHis eyes lifted.\n\n“How much do you want?”\n\n“I don’t want your money.”\n\nI met his gaze.\n\n“I want one favor. Someday, when I ask, you owe me.”\n\nFor the first time, surprise crossed his face.\n\nThen he nodded.\n\n“Deal.”\n\nI signed.\n\nThree years of marriage ended with one stroke of a pen.\n\nThree days later, everything I wanted from Vincent’s mansion fit into two suitcases.\n\nThe housekeeper offered me an expensive coat and unopened gifts.\n\n“Leave them for his next wife,” I said.\n\nAt the front gates, Vincent’s car pulled in.\n\n“Where are you going?” he asked.\n\n“Somewhere else.”\n\nHe frowned. “I’ll drive you.”\n\n“No.”\n\nThen something inside me finally broke loose.\n\n“Would it have looked better if I pretended not to notice you moved into a hotel after your grandmother died? Or that your mother never thought I was good enough? Or that Sophia came back and suddenly our marriage became disposable?”\n\nHis face tightened.\n\n“I was only Sophia’s replacement, wasn’t I?”\n\nVincent stared at me strangely.\n\n“You think the person you replaced was Sophia?”\n\nI froze.\n\n“What does that mean?”\n\nHe looked at me for a long moment.\n\nThen he said quietly, “Forget it.”\n\nAnd drove away.\n\nThe next day, I called my best friend, Madison.\n\n“My flight is still tomorrow?”\n\n“Three in the afternoon,” she confirmed.\n\nBefore leaving Chicago, however, I had one final person to see.\n\nSophia.\n\nWe met at an upscale café downtown.\n\nShe tried to look sympathetic.\n\n“I heard about the divorce. I’m so sorry.”\n\nI almost laughed.\n\nInstead, I slid a red envelope across the table.\n\n“A wedding gift.”\n\nHer smile vanished when she opened it.\n\nThere was no money inside.\n\nOnly one document.\n\nSophia read it.\n\nThen all the color drained from her face.\n\n“How did you get this?”\n\nI stood.\n\n“I’m not here to fight over Vincent. I just wanted you to understand something.”\n\nShe stared at me.\n\n“The man you worked so hard to take from me is a man I no longer want.”\n\nThen I walked away.\n\nLater, I learned Sophia went straight to Vincent.\n\nShe told him she was leaving.\n\nThen she confessed the secret exposed by the document I had given her.\n\nWhatever she admitted changed everything.\n\nThat evening, while I sat alone in my hotel room preparing to leave Chicago forever, Vincent texted me.\n\n“You left your divorce certificate in my car.”\n\nI stared at the message.\n\nOnce, our marriage certificate had felt priceless.\n\nNow it meant nothing.\n\n“Throw it away,” I replied.\n\nSeconds later, another message appeared.\n\n“I want to see you. Can I?”\n\nI froze.\n\nThe man who had signed our divorce without hesitation suddenly wanted to see me.\n\nI didn’t know what Sophia had confessed.\n\nI didn’t know what Vincent now understood.\n\nBut there was still one truth neither of them knew.\n\nMy hand slowly moved to my stomach.\n\nThen I whispered into the silence,\n\n“Baby… do you want to see your daddy?”\n\nThe story is too long to post in the caption, so just say you \"\"\"\"Yes\"\"\"\". The full story will be in the comments below.👇👇 \"",
-    "wp_media_id": 216,
-    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261112-1500-nl.jpg"
-   },
-   "source_key": "post:61560353781750_122118713858345126",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
-    "key_secret": "WP_API_KEY_HETAQRQIR",
-    "url": "https://hetaqrqir.com",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-12 15:00": {
    "langs": {
     "DE": {
