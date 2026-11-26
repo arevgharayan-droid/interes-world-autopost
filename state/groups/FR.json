@@ -13,7 +13,9 @@
   "2677a3c2bff6843f6d65": "2026-11-25T09:44:38+00:00",
   "28167400c6c84a4cf8d8": "2026-11-25T22:46:12+00:00",
   "2fe82e12e4ad9907ad54": "2026-11-14T19:42:21+00:00",
+  "33b6fe09ce466510a997": "2026-11-26T16:24:11+00:00",
   "36d00f3b6cb2ff5b7aa3": "2026-11-26T13:38:36+00:00",
+  "3a41f959410d6b1fe9d0": "2026-11-26T16:24:11+00:00",
   "3da4775069ee736a2d78": "2026-11-22T21:33:46+00:00",
   "3dce7e6988a88bf961cd": "2026-11-19T17:52:54+00:00",
   "3f016791a0afbbb7ef04": "2026-11-18T08:52:10+00:00",
@@ -34,6 +36,7 @@
   "7f15a47b9e199a079e70": "2026-11-25T14:02:24+00:00",
   "82514212930f6a077dae": "2026-11-20T16:46:01+00:00",
   "85bf867d0894576de121": "2026-11-12T17:47:48+00:00",
+  "98c70d4dfe9f76db6ed8": "2026-11-26T16:24:11+00:00",
   "9c307388c225dd9bd137": "2026-11-25T22:46:12+00:00",
   "9d4957340d3a2da90441": "2026-11-17T10:38:05+00:00",
   "a05ef237e23a3e84e4b7": "2026-11-26T13:38:36+00:00",
@@ -60,6 +63,7 @@
   "d12c2709c825b0d9c8d1": "2026-11-21T17:04:08+00:00",
   "d4fb32bab10e6ad46945": "2026-11-19T10:26:46+00:00",
   "d7f8167190d0b9b93782": "2026-11-18T22:20:27+00:00",
+  "dbd1d87aa487c1409cf9": "2026-11-26T16:24:11+00:00",
   "decab325bccbd36f9888": "2026-11-18T18:29:16+00:00",
   "e74c48d9805792066531": "2026-11-23T13:49:24+00:00",
   "e82685e0d4983bf07b71": "2026-11-26T09:51:07+00:00",
@@ -13271,7 +13275,95 @@
    "status": "cancelled"
   },
   "2026-11-26 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "حطّمت زوجة ابني شاحنة الإطفاء التي صنعتها لحفيدي من مقعد زوجتي الراحلة، وحين رأيت رسالة على هاتف ابني اكتشفت أن هناك سرًّا أكبر بكثير",
+     "warnings": []
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi nuera destrozó el camión de bomberos que construí con el banco de mi esposa difunta, y lo que vi en el teléfono de mi hijo lo cambió todo",
+     "warnings": [],
+     "wp_media_id": 826,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261126-2100-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     }
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle a piétiné le camion de pompiers que j'avais fabriqué avec le banc de ma femme décédée, mais un message sur le téléphone de mon fils a tout fait basculer",
+     "warnings": [
+      "длина статьи 1060 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1276,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nora mea a călcat în picioare camionul de pompieri pe care l-am făcut din banca soției mele moarte, iar fiul meu a tăcut. Apoi am văzut un mesaj pe telefonul lui",
+     "warnings": [
+      "длина статьи 1047 слов"
+     ]
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-26T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/921475928_1571021325048879_2844867828308935082_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=2kzuDZUU8nQQ7kNvwFC2LPT&_nc_oc=AdoF6JKpXPC2GKaHdvnhemr89tdFpBxRlMKgDga7ZE8onA8mzr_Svk3xU8Daohcu3CQ&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=_orOce2vdZyB2GKbgzuBxw&_nc_tpa=Q5bMBQJpU98Sj7Ho7pfKapBYNM7wO6fVZ2ce_ZkUsLCuBR0g5uSog5gjoB99KhgOojgefMYeI6YyZJ3B7A&oh=00_AQQf5C8b-mwYJuA1fBKZ9qbzfwUbtKbyB8eyntSb8BZxhA&oe=6B0E1ED2",

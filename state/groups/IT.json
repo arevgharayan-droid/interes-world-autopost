@@ -52,7 +52,9 @@
   "459bbfad275aecbd52c3": "2026-11-21T14:12:51+00:00",
   "45d99698e588bacd7f5c": "2026-11-18T08:52:43+00:00",
   "464c25251e7d15819f83": "2026-11-26T13:38:26+00:00",
+  "46ec24a62fa516874a83": "2026-11-26T16:24:12+00:00",
   "499bb9b863a39969c565": "2026-11-17T20:38:41+00:00",
+  "4ad1ee9ac138dfde891f": "2026-11-26T16:24:12+00:00",
   "4d09f6c7134467d99fa5": "2026-11-16T23:51:59+00:00",
   "4e51be650afb415ceaed": "2026-11-22T21:17:32+00:00",
   "4ff7a8b83395d83f68d4": "2026-11-22T21:51:29+00:00",
@@ -147,6 +149,7 @@
   "d2bd36c62fe9db3a15cc": "2026-11-20T19:26:25+00:00",
   "d2f5f29e381033fa9e6e": "2026-11-24T12:29:28+00:00",
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
+  "d3dc586208ed9833babc": "2026-11-26T16:24:12+00:00",
   "d4ac96d1558ba02ff5f5": "2026-11-12T17:47:15+00:00",
   "d4cab6ef35142d4bedc3": "2026-11-19T10:26:56+00:00",
   "da0db905a429fdb30957": "2026-11-21T22:45:36+00:00",
@@ -25046,7 +25049,90 @@
    "status": "cancelled"
   },
   "2026-11-26 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Po dvaceti letech jsem se vrátil domů a uviděl ženu, kterou jsem miloval, bosou, s otepem dříví na zádech. Pak jsem si všiml znaménka za uchem malé holčičky",
+     "warnings": [
+      "длина текста FB 653 слов (исходник 901, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1279,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Tornai dopo vent'anni e vidi la donna che amavo scalza, con un fascio di legna sulle spalle e una bimba accanto: poi notai la voglia dietro il suo orecchio",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1277,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Wróciłem po 20 latach do rodzinnego miasteczka i zobaczyłem kobietę, którą kochałem, boso, z chrustem na plecach. Obok szła dziewczynka ze znamieniem takim jak moje",
+     "warnings": [
+      "длина текста FB 649 слов (исходник 901, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1278,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/929094436_1462207579373443_8860264867426743489_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZLAzVrR0DLQQ7kNvwH7Nz9v&_nc_oc=Adq_ofO50cE5baKbLUCBPjpF0FD_TGO-3M02SkEGQl210gL8DS8u7XpX0y9IBXB7QZU&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=x5YBOdWFPeEIRvBDAiutog&_nc_tpa=Q5bMBQLlqxHZQs_cu1QL2LInU8DV1FPPLaCm31AkMYvmaBi0fkfrS5HeNf0p8neesTP_e8qLrpnKQuguhQ&oh=00_AQReQBHY1Yy-7sT0g6NSUADYAouUsQfc66soDzBWwMnMZg&oe=6B0E3D2D",
@@ -25058,7 +25144,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261126-2100-it.jpg"
    },
    "source_key": "post:100067526447776_1462679025992965",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -25565,7 +25651,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-26 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100069122846749_1462195259427888": {
    "fingerprint": "8d65167a2a6fbe5434ca",
