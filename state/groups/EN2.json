@@ -10,6 +10,7 @@
   "08830b18a47934fa45d5": "2026-11-21T10:17:00+00:00",
   "0a0d9556acadc96f687f": "2026-11-22T21:24:06+00:00",
   "0d731ec18bdd9c2184b7": "2026-11-19T19:58:20+00:00",
+  "1464bc18943693590c28": "2026-11-27T22:16:01+00:00",
   "1646fedd72fba957d312": "2026-11-19T17:52:35+00:00",
   "1920b88bb3c3529ad8e8": "2026-11-18T22:49:20+00:00",
   "22cea0d00e6d34035c86": "2026-11-27T18:37:54+00:00",
@@ -15768,7 +15769,72 @@
    }
   },
   "2026-11-28 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Daughter Offered Me Her Basement for $800 a Month Plus Four Days of Babysitting a Week, So I Quietly Rented My Own Little House for $550",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1406,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/925736178_122132375564893096_4011320511126876121_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BsVzL15_FJ0Q7kNvwEzBVd8&_nc_oc=AdpAD1Kay_-kNfSpfn_ROOsAY8k280AJ9FsjH7emiVfU7q8tgRCLGDlPRrdaTqO7LHc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=fzqWnbXWlwHKEorxgLPIqA&_nc_tpa=Q5bMBQLcLAu7chuukV7vUqbBHrEtbySLSAD5bNr4zwRRlMSms12NPb0VwupcXREi3A94uiOgX2_nE8TGpA&oh=00_AQX8r9AfGlhkKMiAPRFd7OeBzWwH_A2KguorNoGbvqiKlA&oe=6B0FC850",
@@ -15780,7 +15846,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-1200-en2.jpg"
    },
    "source_key": "post:61576792898556_122132375618893096",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -16483,7 +16549,7 @@
    "origin": "manual",
    "page_id": "61576792898556",
    "slot": "2026-11-28 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61584229563994_122122899243140985": {
    "fingerprint": "e95b24ace2bc0489b8ba",
