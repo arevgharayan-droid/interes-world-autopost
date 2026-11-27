@@ -27055,7 +27055,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-27T22:36:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/932057891_122130637731457373_3126372323769291480_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cteoUelhWOYQ7kNvwFf92iW&_nc_oc=AdrZGovTXyjuE-85ig_su_O5BKlMUdh89HYaILd2laiwZzSsywXoXtN7_myISA7WXts&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=ZlswwdMgpgXmobVNV41efQ&_nc_tpa=Q5bMBQLoQp8NDEL_RSysK0UH2PnxX51ijmSxdiFBhlew5rYAxVZY_C-dVW2_oUOU_wmHzgbZQicw5KMVaA&oh=00_AQXBxBt92ACDa6hY2aqxxAlhwWIXQk1KMT9poQi0j6f7Lw&oe=6B0F889D",
+    "link": "https://www.facebook.com/story.php?story_fbid=122130638031457373&id=61593721215501",
+    "origin": "manual",
+    "page_id": "61593721215501",
+    "text": "My 17-year-old daughter was told by her dad that he couldn't afford a prom dress this year. But that same evening, he proudly shared a picture of his stepdaughter wearing a $600 gown. Instead of confronting him, I called his mother, who personally took our girl shopping in Sioux Falls.\nSadie was sitting at the kitchen table when her father called.\nIt was a Tuesday in March, and her bowl of chili was getting cold.\nAs usual, she put the call on speakerphone.\n\"Sweetheart, I can't afford a prom dress this year. Welding work has been slow since Christmas.\"\n\"It's okay, Dad,\" she answered.\nShe repeated it.\nAfterward, she washed her bowl and went upstairs.\nAt 9:40 that evening, Rory's wife, Tasha, uploaded a photograph.\nHer daughter Madison, also seventeen, was wearing a $600 dress purchased in Sioux Falls.\nRory had left a comment beneath it.\n\"Beautiful girl. So proud.\"\nA moment later, I heard Sadie quietly close her bedroom door.\nI didn't call Rory.\nWe'd been divorced for eleven years, and I knew exactly how those conversations ended.\nHe was responsible for being Sadie's father. I couldn't force him to do better.\nBut there was someone else who loved her deeply.\nI picked up the phone and called his mother.\nDarla Lindstrom was seventy-two.\nShe'd worked as a hairstylist in Howard for forty-one years.\nShe'd remembered every one of Sadie's birthdays, even during the terrible ice storm.\nI explained what happened without adding my opinion.\nDarla remained silent for several moments.\n\"Is Sadie crying?\"\n\"Not that I can hear.\"\n\"Saturday,\" she finally said. \"I'll be there at eight. You're coming with us.\"\nThat weekend, Darla drove the forty minutes to Sioux Falls herself.\nShe refused to accept gas money.\nThe dress shop was filled with racks of gowns, with sunshine streaming through the front windows.\nSadie tried on six dresses.\nBefore looking in the mirror, she always checked the price.\nEventually, Darla removed the price tags from the hangers and slipped them into her purse.\n\"Today, Grandma worries about the cost. Your only job is choosing a dress.\"\nThe seventh gown was emerald green.\nSadie stood on the little circular platform before the three-panel mirror.\nShe couldn't find a word to say.\nDarla sat nearby, smiling with her purse in her lap.\nI stood behind her in my gray cardigan, quietly watching.\nThis moment belonged to them.\n\"Oh, sweetheart,\" Darla whispered. \"That's the one.\"\nSadie turned to examine the back.\nThen her gaze dropped.\n\"Grandma, Dad told me he couldn't pay for one.\"\n\"I heard what he told you.\"\n\"I don't want you being angry with him.\"\nDarla placed her purse beside the chair.\n\"I'm not upset with anyone. I'm simply buying my granddaughter her prom dress.\"\nIt cost $389.\nAt the glass register counter, Darla slowly counted out the cash.\nOutside, she photographed Sadie holding the dress in its garment bag.\nThen she climbed behind the steering wheel and spent several minutes typing something with one finger.\nI didn't question her.\nShe published the post before we even reached the interstate.\nEleven minutes later, my phone rang.\nIt was Rory.\nHe never contacted me unless we needed to discuss a weekend with Sadie.\nThat had been our arrangement for eleven years.\nFrom the back seat, Sadie noticed her father's name on my screen.\nShe immediately went silent and motionless.\nI picked up.\nRory skipped the greeting.\n\"Jodi. Have you seen what my mother just put online?\" The rest of the story is waiting in the comments below. Drop a “YES” and give us a Like if you're ready to find out!\n\nThis story left us with a lot to think about. What do you make of it? Down below, the story keeps going",
+    "wp_media_id": 1376,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-2236-it.jpg"
+   },
+   "source_key": "post:61593721215501_122130638031457373",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-28 00:00": {
    "langs": {},
@@ -27968,6 +27984,14 @@
    "page_id": "61593412202747",
    "slot": "2026-11-10 18:00",
    "status": "used"
+  },
+  "post:61593721215501_122130638031457373": {
+   "fingerprint": "3e181412ce41215e2f58",
+   "link": "https://www.facebook.com/story.php?story_fbid=122130638031457373&id=61593721215501",
+   "origin": "manual",
+   "page_id": "61593721215501",
+   "slot": "2026-11-27 22:36",
+   "status": "reserved"
   },
   "post:61594676105166_122115760053489203": {
    "fingerprint": "b05eb341b8db842586ee",

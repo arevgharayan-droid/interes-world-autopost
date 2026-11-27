@@ -16039,7 +16039,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-27T22:36:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/926366184_122139590180809007_5134464260815522045_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=--Dlu1id4LsQ7kNvwEJFO2y&_nc_oc=AdrRMNmoFNbqJ-KrKcRKm0AYBa_4c4BNrWGxR2gwBCMgCO_3y18D3nE0hpGOmaW6s58&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=4HGghn9VHeAVOv8-FRMhnQ&_nc_tpa=Q5bMBQI3PRbg4cySyrggr8LinCNuQNB_4tWghuJGVwCJSiQuPdHPElWUJIbpq-etw9F0yqRVtFtgY57fPg&oh=00_AQWws_cAbB0qGDyMICDtVTAYcGDqxS8KSpOLB819lgs-bg&oe=6B0F8995",
+    "link": "https://www.facebook.com/story.php?story_fbid=122139590312809007&id=61574270220252",
+    "origin": "manual",
+    "page_id": "61574270220252",
+    "text": "My daughter was so excited about her first school festival — but an hour after I dropped her off, the principal called, saying she was begging for me. When I arrived, she told me her new teacher had refused to paint her face like the other girls because \"makeup won't make girls like me pretty.\"\nMy 6-year-old daughter, Victoria, has Down syndrome. Sending her to first grade was one of the hardest decisions I'd ever made.\nI worried about everything. Would the other children make fun of her? Would she understand if someone was cruel? Would she tell me if something happened?\nBut Victoria wanted to go to school more than anything. And for the first two weeks, she was happier than I'd ever seen her.\nEvery afternoon, she'd run into my arms, talking about her new friends and showing me the drawings she'd made.\nThen came her first school festival.\nI kissed her forehead and dropped her off. Everything seemed perfectly normal.\nBut just an hour later, my phone rang. It was the principal.\n\"Mrs. Parker, Victoria has been crying for twenty minutes. She keeps asking us to call you. Could you come pick her up?\"\n\"Is she hurt? What happened?\"\n\"She's safe, but she's very upset.\"\nI was already grabbing my car keys.\nWhen I arrived, Victoria was waiting in the school hallway. Children with painted faces were running around, laughing, while a young teacher was busy painting butterflies on another little girl's cheeks.\nVictoria spotted me and ran straight into my arms.\n\"Mommy, I want to go home.\"\n\"Sweetheart, what happened?\"\nShe pointed toward the teacher, who had her back to us and was too far away to hear.\n\"She said makeup is for pretty girls. And it won't help me because I'm not pretty.\"\nI knelt beside her.\n\"Mommy, am I not pretty? Will I never be pretty? Please don't lie to me.\"\nI wiped her tears and kissed her forehead.\n\"Victoria, you are beautiful, sweetheart. Don't ever let anyone tell you otherwise.\"\n\"But Mommy, she's a teacher. Teachers don't lie.\"\nI looked over at the woman. She was still smiling, painting another child's face, completely unaware that I was standing there.\nAnd then an idea came to me.\n\"Baby, go back to the principal's office, okay? Tell her Mommy will be there in five minutes. I just need to take care of something.\"\n\"Are we going home?\"\n\"We're going to the movies, sweetheart. And afterward, we'll get your favorite ice cream. I promise.\"\nVictoria gave me one last hug and hurried back down the hallway. I watched until she disappeared into the principal's office.\nThen I turned toward the teacher.\nShe had never met me before. She didn't know I was Victoria's mother. And I intended to keep it that way.\nBecause no child deserved to be treated the way she'd treated my daughter and she will remember this lesson — so I went directly toward her table as she finished painting another girl.",
+    "wp_media_id": 1374,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-2236-fr.jpg"
+   },
+   "source_key": "post:61574270220252_122139590312809007",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-28 00:00": {
    "langs": {},
@@ -17037,6 +17053,14 @@
    "page_id": "61573369523860",
    "slot": "2026-11-10 00:00",
    "status": "used"
+  },
+  "post:61574270220252_122139590312809007": {
+   "fingerprint": "cfae71c564ac40359fe3",
+   "link": "https://www.facebook.com/story.php?story_fbid=122139590312809007&id=61574270220252",
+   "origin": "manual",
+   "page_id": "61574270220252",
+   "slot": "2026-11-27 22:36",
+   "status": "reserved"
   },
   "post:61575232821594_122194601090841094": {
    "fingerprint": "4033e3a37ce895551261",

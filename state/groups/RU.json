@@ -26879,7 +26879,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-27T22:36:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/907650713_122128116429457373_1044321701734723984_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MAK46l87_MwQ7kNvwFt8fvN&_nc_oc=AdoVD3pTN2P_zP_ZDhmAX3Tr9LLoIq_hEDediTCrwIv1_NXbfxoQgWJ1r4rQNGvu0o4&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=VHV1Dg0RcUhhmJ5nc2xxuA&_nc_tpa=Q5bMBQJQm6PCsXey9oy9LNMmDn2qIDJ4PH7FmSCRXJ2hGRbg6y3jDdOasisJIObeEwEHBEo4DCGB8B7brw&oh=00_AQU9QFmx0D50BIrlaf3MlKMldvS9plobU85bsHKqf8Detw&oe=6B0FBA5B",
+    "link": "https://www.facebook.com/story.php?story_fbid=122128130379457373&id=61593721215501",
+    "origin": "manual",
+    "page_id": "61593721215501",
+    "text": "My mother died while serving as an Army medic in Afghanistan. She'd always promised to wear a bright red dress to my wedding. Years later, her closest Army friend, Daniel, arrived at my ceremony wearing one in her place. But after the wedding, he gave me an old envelope and whispered, \"Your mom asked me to give you this today. There's something she never told you.\"\n\nI was only twelve when Mom was deployed to Afghanistan.\n\nShe'd raised me by herself.\n\nI never knew who my father was, so while she was overseas, I lived with Grandma.\n\nMom called whenever she had the chance.\n\nAnd whenever I started crying because I missed her, she always found a way to make me smile.\n\n\"Don't worry, sweetheart. I'll be back before you know it. And when you get married someday, I'll wear the brightest red dress I can find so you'll spot me anywhere!\"\n\nI held on to that promise.\n\nBut Mom never came home.\n\nShe lost her life while serving overseas.\n\nI was heartbroken.\n\nNot long after her funeral, a man named Daniel came to Grandma's house.\n\nHe'd served with Mom and had been her closest friend in the Army.\n\nI'd heard countless stories about him.\n\nMom described him as the little brother she'd never had.\n\nEven during their hardest days, he somehow managed to make everyone laugh.\n\nOnce, when Daniel was seriously wounded, Mom had saved his life.\n\nAfter that, their bond became even stronger.\n\nDaniel started visiting us regularly.\n\nHe fixed my bicycle whenever something broke.\n\nHe made pancakes on weekends.\n\nHe helped me finish homework.\n\nAnd he never missed my school performances.\n\nWhenever Grandma needed assistance, Daniel was there.\n\nAs the years passed, he became the closest thing I'd ever had to a father.\n\nEventually, I grew up and fell in love.\n\nAnd then came my wedding day.\n\nThat morning, I stood before the mirror in my wedding gown.\n\nI should have been completely happy.\n\nBut tears kept running down my cheeks.\n\nAll I could think about was Mom.\n\nI imagined her opening the door, smiling proudly, wearing that bright red dress she'd promised me so many years earlier.\n\nI wished more than anything that she could be there.\n\nThen, shortly before the ceremony, Daniel appeared.\n\nAnd I couldn't believe what I was seeing.\n\nHe was wearing a bright red dress.\n\nI stared at him, speechless.\n\n\"Uncle Daniel... what on earth are you wearing?\"\n\nHis eyes filled with tears.\n\n\"Your mother promised she'd come to your wedding in red,\" he said softly. \"I couldn't let that promise disappear.\"\n\nI immediately burst into tears.\n\nDaniel wrapped his arms around me.\n\nFor a brief moment, it felt as though Mom was standing there with us.\n\nWhen the ceremony began, Daniel walked me down the aisle.\n\nNobody laughed.\n\nNobody made a joke.\n\nEveryone understood why he was dressed that way.\n\nHe was honoring a promise made by someone we all wished could have been there.\n\nThe wedding was beautiful.\n\nBut the biggest surprise came after the celebration ended.\n\nOnce the guests had left, Daniel approached me quietly.\n\n\"Sweetheart, there's something else I need to give you.\"\n\nHe reached into his pocket and pulled out an old, creased envelope.\n\nHe placed it carefully in my hands.\n\n\"Your mother left this with me,\" he explained. \"She made me promise you wouldn't receive it until your wedding day.\"\n\nI looked at him in confusion.\n\nHis voice began to shake.\n\n\"There's something your mom kept from you. Something she wanted you to know when the time was right.\"\n\nMy hands trembled as I examined the envelope.\n\nThen I slowly opened it.\n\nAnd the moment I saw what was inside, I felt my heart stop.\n\nThe rest of the story is waiting in the comments below. Drop a \"YES\" and leave a Like if you're ready to find out",
+    "wp_media_id": 900,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-2236-ru.jpg"
+   },
+   "source_key": "post:61593721215501_122128130379457373",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-28 00:00": {
    "langs": {},
@@ -28204,6 +28220,14 @@
    "page_id": "61593721215501",
    "slot": "2026-11-09 21:00",
    "status": "used"
+  },
+  "post:61593721215501_122128130379457373": {
+   "fingerprint": "7890185b09eb563f6ed9",
+   "link": "https://www.facebook.com/story.php?story_fbid=122128130379457373&id=61593721215501",
+   "origin": "manual",
+   "page_id": "61593721215501",
+   "slot": "2026-11-27 22:36",
+   "status": "reserved"
   },
   "post:61595659383273_122109822993521979": {
    "fingerprint": "a8455a10e36e0bd71b1f",
