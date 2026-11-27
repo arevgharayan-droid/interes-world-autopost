@@ -17397,12 +17397,13 @@
       "1180417388497186": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122132370849424769_2183969262204393",
        "error": null,
        "last_attempt": "2026-11-27T22:41:56+04:00",
        "mode": "immediate",
        "photo_id": "122132370825424769",
        "post_id": "1180417388497186_122132370849424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
