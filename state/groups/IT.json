@@ -27094,7 +27094,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-27T22:38:17+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Il papà le disse che non poteva pagarle il vestito del ballo, ma quella sera postò l'abito da 600 dollari della figliastra: allora sua nonna fece una cosa che nessuno si aspettava",
      "warnings": [],
      "wp_error": null,

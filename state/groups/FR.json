@@ -16050,7 +16050,18 @@
      "title": "طلبت ابنتي المصابة بمتلازمة داون أن آتي لأخذها من مهرجان المدرسة، وما قالته معلمتها لها جعلني أتخذ قراراً لن تنساه تلك المعلمة",
      "warnings": [
       "длина текста FB 408 слов (исходник 521, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 906,
+     "wp_media_id": 901,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-2236-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
     },
     "CS": {
      "pages": {},
@@ -16121,6 +16132,8 @@
      "pages": {},
      "title": "Mami, nu sunt frumoasă? Te rog, nu-mi minți\": ce a auzit o fetiță de 6 ani cu sindrom Down la prima ei serbare",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 905,
      "wp_media_id": 901,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-2236-fr.jpg",
      "wp_site": {
@@ -16128,7 +16141,8 @@
       "key_secret": "WP_API_KEY",
       "url": "https://peakproductions.co",
       "wp_auth": "make_connector"
-     }
+     },
+     "wp_status": "publish"
     },
     "RU": {
      "pages": {},
@@ -16143,6 +16157,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-27T22:36:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/926366184_122139590180809007_5134464260815522045_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=--Dlu1id4LsQ7kNvwEJFO2y&_nc_oc=AdrRMNmoFNbqJ-KrKcRKm0AYBa_4c4BNrWGxR2gwBCMgCO_3y18D3nE0hpGOmaW6s58&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=4HGghn9VHeAVOv8-FRMhnQ&_nc_tpa=Q5bMBQI3PRbg4cySyrggr8LinCNuQNB_4tWghuJGVwCJSiQuPdHPElWUJIbpq-etw9F0yqRVtFtgY57fPg&oh=00_AQWws_cAbB0qGDyMICDtVTAYcGDqxS8KSpOLB819lgs-bg&oe=6B0F8995",
@@ -16154,7 +16169,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-2236-fr.jpg"
    },
    "source_key": "post:61574270220252_122139590312809007",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -17165,7 +17180,7 @@
    "origin": "manual",
    "page_id": "61574270220252",
    "slot": "2026-11-27 22:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61575232821594_122194601090841094": {
    "fingerprint": "4033e3a37ce895551261",
