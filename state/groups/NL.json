@@ -5,6 +5,7 @@
   "00182ac1c19f94717b38": "2026-11-16T23:51:32+00:00",
   "03a2e77bf9132f9c58fe": "2026-11-22T21:37:31+00:00",
   "04801f1de620d4d27074": "2026-11-22T21:27:39+00:00",
+  "05e018afb4e3fae3bf06": "2026-11-27T18:38:12+00:00",
   "082942ddf599434d8353": "2026-11-16T20:28:19+00:00",
   "08948a9455d080606e99": "2026-11-25T09:44:24+00:00",
   "08ad896ac94bef0c4f71": "2026-11-26T16:24:15+00:00",
@@ -79,6 +80,7 @@
   "8ed7a3168cf1d9a5d78a": "2026-11-24T09:25:06+00:00",
   "8fb663d9a2d916daa327": "2026-11-21T14:13:09+00:00",
   "97323cd5e0665a1c91cb": "2026-11-17T10:52:26+00:00",
+  "9a1951a0eba384b372e0": "2026-11-27T18:38:12+00:00",
   "9c78715925df820d8556": "2026-11-19T14:07:53+00:00",
   "9cccf2b5be38effe7634": "2026-11-22T21:17:16+00:00",
   "9d46e8fea6457743c2b6": "2026-11-22T14:04:34+00:00",
@@ -92,6 +94,7 @@
   "aa92d1f8736cff43c0f0": "2026-11-19T19:58:54+00:00",
   "aedb3670a0e95e3b4e8e": "2026-11-22T14:04:34+00:00",
   "afa3a18208d092faed7a": "2026-11-16T23:51:32+00:00",
+  "b224ddeeb5ca2e4482f7": "2026-11-27T18:38:12+00:00",
   "bc1a8f9edd9975cdd2d1": "2026-11-22T16:32:11+00:00",
   "c036910f5671f8e0661e": "2026-11-22T21:56:46+00:00",
   "c15e234ffa8f454c8fc9": "2026-11-17T10:52:26+00:00",
@@ -17202,7 +17205,96 @@
   },
   "2026-11-27 22:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Drei Tage vor der Hochzeit ließ mein Vater mich fallen – doch am Altar wartete ein anderer Vater auf mich",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1386,
+     "wp_status": "publish"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn vader weigerde me naar het altaar te brengen, dus liep een andere vader met me mee",
+     "warnings": [
+      "длина статьи 1010 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1385,
+     "wp_status": "publish"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu pai disse que não me levaria ao altar por causa da minha irmã, mas outro pai já esperava para pegar meu braço",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 904,
+     "wp_media_id": 903,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-2236-nl.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T22:36:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/913820490_122139312776809007_7975443046425957808_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EESNPMFofAsQ7kNvwGXNGk-&_nc_oc=AdrujWN8rgK54MVIEiJrebvI-4skkv4W9rUAiFieB_6gPLxOjolI7KjgE71iiGgD1_k&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=DAqQ0pFfTYKWnVLX8F722w&_nc_tpa=Q5bMBQIIdN8w7XcY5yi-KyO3IbuImTfULcLc-BpVS_DV322jqZjVMJXmFN7jm8p01ML-TTJD8rO6pitePA&oh=00_AQXFmFGvaROKNwONw45hNSchSi8lHtfd-ILaEdQI5kiM0g&oe=6B0F9DD1",
@@ -17214,7 +17306,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-2236-nl.jpg"
    },
    "source_key": "post:61574270220252_122139312824809007",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -18686,7 +18778,7 @@
    "origin": "manual",
    "page_id": "61574270220252",
    "slot": "2026-11-27 22:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61575232821594_122198854628841094": {
    "fingerprint": "4a1cfea335237d4efa06",

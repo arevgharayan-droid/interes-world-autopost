@@ -7,6 +7,7 @@
   "0dd7828291d778501a87": "2026-11-26T22:42:47+00:00",
   "0eae76a4b0a9fac31d88": "2026-11-22T19:48:31+00:00",
   "15db7f5bef45fafd3307": "2026-11-19T22:00:40+00:00",
+  "19399b13f5fef4f2b2c6": "2026-11-27T18:38:11+00:00",
   "1de1978484aefe0b2b8a": "2026-11-14T11:39:11+00:00",
   "1fd17475bec6b972056b": "2026-11-22T16:31:51+00:00",
   "20eeac9f368eb6b6f94d": "2026-11-21T22:45:27+00:00",
@@ -37,6 +38,8 @@
   "6d1360b71c35b272374f": "2026-11-21T14:12:53+00:00",
   "6ea240ce08a9828f6d3b": "2026-11-21T19:44:46+00:00",
   "6ef6e1fee3c933942094": "2026-11-22T21:17:15+00:00",
+  "7510941b0c0c506e143f": "2026-11-27T18:38:11+00:00",
+  "77ecc8c93744dda8b4dc": "2026-11-27T18:38:11+00:00",
   "7f15a47b9e199a079e70": "2026-11-25T14:02:24+00:00",
   "82514212930f6a077dae": "2026-11-20T16:46:01+00:00",
   "84fac12b2fe9691969ce": "2026-11-26T22:42:47+00:00",
@@ -81,6 +84,7 @@
   "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00",
   "eedeb2476364b2162ac5": "2026-11-18T22:49:38+00:00",
   "f0de6209bc2c04ae4ddf": "2026-11-22T21:25:14+00:00",
+  "f1eac39b188c6beb54d1": "2026-11-27T18:38:11+00:00",
   "f6609e092d39cfe5e936": "2026-11-25T22:46:12+00:00",
   "f86eae272b54f4e0774e": "2026-11-26T22:03:13+00:00",
   "fa30ae48ea3a0c99640b": "2026-11-26T19:37:01+00:00"
@@ -16037,7 +16041,108 @@
   },
   "2026-11-27 22:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "طلبت ابنتي المصابة بمتلازمة داون أن آتي لأخذها من مهرجان المدرسة، وما قالته معلمتها لها جعلني أتخذ قراراً لن تنساه تلك المعلمة",
+     "warnings": [
+      "длина текста FB 408 слов (исходник 521, цель ±10%)"
+     ]
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hija con síndrome de Down lloraba y pedía que fuera por ella en su primer festival escolar: lo que su maestra le dijo me rompió el corazón",
+     "warnings": [
+      "длина статьи 961 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 902,
+     "wp_media_id": 901,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-2236-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ma fille trisomique m'a suppliée de venir la chercher à sa première fête d'école : ce que sa maîtresse lui avait dit m'a glacé le sang",
+     "warnings": [
+      "длина статьи 1057 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1384,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mami, nu sunt frumoasă? Te rog, nu-mi minți\": ce a auzit o fetiță de 6 ani cu sindrom Down la prima ei serbare",
+     "warnings": [],
+     "wp_media_id": 901,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-2236-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     }
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-27T22:36:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/926366184_122139590180809007_5134464260815522045_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=--Dlu1id4LsQ7kNvwEJFO2y&_nc_oc=AdrRMNmoFNbqJ-KrKcRKm0AYBa_4c4BNrWGxR2gwBCMgCO_3y18D3nE0hpGOmaW6s58&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&edm=ADqbNqUEAAAA&_nc_gid=4HGghn9VHeAVOv8-FRMhnQ&_nc_tpa=Q5bMBQI3PRbg4cySyrggr8LinCNuQNB_4tWghuJGVwCJSiQuPdHPElWUJIbpq-etw9F0yqRVtFtgY57fPg&oh=00_AQWws_cAbB0qGDyMICDtVTAYcGDqxS8KSpOLB819lgs-bg&oe=6B0F8995",
