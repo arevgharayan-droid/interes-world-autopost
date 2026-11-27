@@ -32,6 +32,7 @@
   "227c0bc7a9c0998d2c9e": "2026-11-24T09:25:10+00:00",
   "2305cc152c8bf5b805c5": "2026-11-22T19:49:03+00:00",
   "236190bc5e1f57673fbe": "2026-11-14T11:39:45+00:00",
+  "24214840d89e9345b69f": "2026-11-27T22:16:33+00:00",
   "24635a53ddd9eb319000": "2026-11-22T21:17:32+00:00",
   "24d8fa150757c9a5c3f8": "2026-11-26T13:38:26+00:00",
   "2574bb167b0f1c84e051": "2026-11-22T22:13:01+00:00",
@@ -40,6 +41,7 @@
   "2aa7b211311ac724f32e": "2026-11-22T22:07:10+00:00",
   "2aa9f772fe9ff6d1ed19": "2026-11-21T10:17:43+00:00",
   "2edb7fffc7935274526d": "2026-11-22T21:51:29+00:00",
+  "2ffa9d62a31c5b132d27": "2026-11-27T22:16:33+00:00",
   "316757cc420944c1b668": "2026-11-21T17:04:20+00:00",
   "334983ad9f157eb63c47": "2026-11-16T10:16:33+00:00",
   "33b23e888b18caa14bba": "2026-11-22T14:04:30+00:00",
@@ -151,6 +153,7 @@
   "c048f4c9b8f48906fe16": "2026-11-16T16:01:05+00:00",
   "c06835332bfb985e67e7": "2026-11-26T22:24:40+00:00",
   "c349efe2b40ef4a668cd": "2026-11-18T15:24:10+00:00",
+  "c6374e07d70b64c0f532": "2026-11-27T22:16:33+00:00",
   "c73763bb1c4080ccec74": "2026-11-20T22:45:58+00:00",
   "c78cd36259e788a46a33": "2026-11-26T22:03:08+00:00",
   "c8020142d83ca272273c": "2026-11-16T00:18:19+00:00",
@@ -28162,7 +28165,90 @@
    }
   },
   "2026-11-28 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na Štědrý večer jsem našla nevlastní dceru samotnou na podlaze vedle spících dětí. Pak se zeptala: „Táta říkal, že smím?",
+     "warnings": [
+      "длина текста FB 653 слов (исходник 863, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1412,
+     "wp_status": "future"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La sera di Natale ho trovato mia figliastra di 14 anni seduta per terra con tre bambini addormentati, e il messaggio sul suo telefono mi ha gelata",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1410,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "W Wigilię znalazłam pasierbicę na podłodze obok śpiących dzieci. Zapytała mnie tylko: „Tata powiedział, że mi wolno?",
+     "warnings": [
+      "длина текста FB 619 слов (исходник 863, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1411,
+     "wp_status": "future"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/925732970_122142988623380977_4392599485259666240_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GTlFTnwpsF4Q7kNvwFxAYAy&_nc_oc=AdqytZVlNCS0anAoQtZJY4FtTj3RFegBfae4OpPBfo4j0j83UQLQ8R7SqNG885m6oMs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=DijtAP93axhA-p1GWs3MKA&_nc_tpa=Q5bMBQI_HAJr5GLkFuq6jClLVKZjHqt5bwjHOBA2R7PUdVWrOW4TbikoqhHzlMREu6_OsT95--l5-u4M5w&oh=00_AQVeH1ekh-VgGPbPaqbwMCQrxT7Z36uRDHFvqKcNnl-zxg&oe=6B0FC85C",
@@ -28174,7 +28260,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-1200-it.jpg"
    },
    "source_key": "post:61591429329254_122142988719380977",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -29097,7 +29183,7 @@
    "origin": "manual",
    "page_id": "61591429329254",
    "slot": "2026-11-28 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61593412202747_122124401043447073": {
    "fingerprint": "c52f799d397115bea5a1",

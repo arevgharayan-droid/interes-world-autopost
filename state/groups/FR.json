@@ -4,6 +4,7 @@
  "output_fps": {
   "02cd325c4d9b70480ba6": "2026-11-27T21:19:29+00:00",
   "0558b5c7136e6c324348": "2026-11-22T21:41:49+00:00",
+  "0ca359f869e904e93d83": "2026-11-27T22:16:32+00:00",
   "0cc919e89bd6281c811b": "2026-11-17T20:47:02+00:00",
   "0dd7828291d778501a87": "2026-11-26T22:42:47+00:00",
   "0df99e0ea1695c4c7515": "2026-11-27T21:19:29+00:00",
@@ -46,13 +47,16 @@
   "77ecc8c93744dda8b4dc": "2026-11-27T18:38:11+00:00",
   "7f15a47b9e199a079e70": "2026-11-25T14:02:24+00:00",
   "82514212930f6a077dae": "2026-11-20T16:46:01+00:00",
+  "849eef6b9643b051fdd7": "2026-11-27T22:16:32+00:00",
   "84fac12b2fe9691969ce": "2026-11-26T22:42:47+00:00",
   "86fa5c8b1c15ef88c32f": "2026-11-26T22:42:47+00:00",
+  "8d69cf794b012f201eba": "2026-11-27T22:16:32+00:00",
   "98c70d4dfe9f76db6ed8": "2026-11-26T16:24:11+00:00",
   "9c307388c225dd9bd137": "2026-11-25T22:46:12+00:00",
   "9d4957340d3a2da90441": "2026-11-17T10:38:05+00:00",
   "9d54d70ccc9951ee1aca": "2026-11-26T22:26:25+00:00",
   "9ef96b9844d697405d68": "2026-11-26T19:37:01+00:00",
+  "9fa10a2804beba1aaaa2": "2026-11-27T22:16:32+00:00",
   "a05ef237e23a3e84e4b7": "2026-11-26T13:38:36+00:00",
   "a2b8600fa33561995bf2": "2026-11-15T14:18:32+00:00",
   "a4aa72c523a52ab5087f": "2026-11-17T12:28:26+00:00",
@@ -17361,7 +17365,104 @@
    }
   },
   "2026-11-28 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "تركوني أنجب توأمي وحدي ليحتفلوا بطفل عشيقته، فكان اتصال واحد بجدي المليارديرمحا كل شيء",
+     "warnings": [
+      "длина текста FB 635 слов (исходник 958, цель ±10%)"
+     ]
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mientras daba a luz a mis gemelos, mi marido celebraba el cumpleaños del hijo de su amante, pero una llamada a mi abuelo multimillonario lo cambió todo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 922,
+     "wp_media_id": 921,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1200-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle accouchait seule de jumeaux pendant que son mari fêtait l'anniversaire de l'enfant de sa maîtresse, jusqu'à l'appel à son grand-père milliardaire",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1409,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Îl năștea pe cei doi gemeni singură, în timp ce soțul ei sărbătorea ziua copilului amantei. Un singur telefon către bunicul miliardar a schimbat totul",
+     "warnings": [],
+     "wp_media_id": 921,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1200-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     }
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-28T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/923007408_122128171275337152_4216164073806336279_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uAXVw6HcUvkQ7kNvwHhXeNy&_nc_oc=AdpnIin8sMjkwI9Mysfw7rL8zdDUnozVK3O_PflbNLs5jKjjAoi07t_DElbtD4p6pKc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=kFb2b4T-Dt3dHqPbWUyfBQ&_nc_tpa=Q5bMBQJBIL8U84Cj0qV5DS0s2AmbxNaL9sclRKXlyv6Bi93gdc1WgpZbTEUN-rGwd7qi55A1mHpEy0uoeQ&oh=00_AQWsIaU_vhZSXN7ZxONdRJ9ZNkNdpMq8rLjYb180w_YgUA&oe=6B0FC9EF",
