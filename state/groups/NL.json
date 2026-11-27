@@ -16853,6 +16853,7 @@
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-27T02:23:12+04:00",
        "mode": "schedule",
