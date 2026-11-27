@@ -29,6 +29,7 @@
   "25b78f14c93b0017d12c": "2026-11-20T22:46:03+00:00",
   "26accd7fcdfb1572f571": "2026-11-27T21:19:12+00:00",
   "27e58ec2ed5f9e95b22d": "2026-11-26T09:50:46+00:00",
+  "29025ad4cd64e69611fe": "2026-11-27T22:16:26+00:00",
   "2c102128a6bdf6cc4b13": "2026-11-16T16:00:57+00:00",
   "31ed525cac6f302a760e": "2026-11-18T15:23:57+00:00",
   "328058e82fda872a8b75": "2026-11-21T22:45:45+00:00",
@@ -41,6 +42,7 @@
   "414c7dea2c3785876288": "2026-11-20T14:41:24+00:00",
   "46a1728a5126f9af6c13": "2026-11-16T00:16:52+00:00",
   "470107e89e043eb07796": "2026-11-14T09:18:09+00:00",
+  "472bfedd86a2968fb21d": "2026-11-27T22:16:26+00:00",
   "4a22e3c20c6e10a07661": "2026-11-26T22:02:57+00:00",
   "4c218b53bb5fd5b6f1b3": "2026-11-16T19:28:25+00:00",
   "4ca334761547934cbacc": "2026-11-18T22:49:31+00:00",
@@ -99,6 +101,7 @@
   "afa3a18208d092faed7a": "2026-11-16T23:51:32+00:00",
   "b224ddeeb5ca2e4482f7": "2026-11-27T18:38:12+00:00",
   "bc1a8f9edd9975cdd2d1": "2026-11-22T16:32:11+00:00",
+  "bfdd698972aee504bb5f": "2026-11-27T22:16:26+00:00",
   "c036910f5671f8e0661e": "2026-11-22T21:56:46+00:00",
   "c15e234ffa8f454c8fc9": "2026-11-17T10:52:26+00:00",
   "c40926f7bf21fdcb711a": "2026-11-26T19:37:56+00:00",
@@ -18037,7 +18040,94 @@
    }
   },
   "2026-11-28 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Um 2:46 Uhr nachts feuerte ein Milliardär die Putzfrau, die seine Drillinge endlich in den Schlaf gesungen hatte – Minuten später bereute er jedes Wort",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1408,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Om 2.46 uur 's nachts ontsloeg een miljardair de schoonmaakster die zijn drieling eindelijk in slaap had gekregen, maar minuten later had hij spijt van zijn woorden",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1407,
+     "wp_status": "future"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ele demitiu a faxineira que fez seus trigêmeos dormirem às 2h46 da manhã, mas minutos depois o que aconteceu no berço o fez se arrepender amargamente",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 920,
+     "wp_media_id": 919,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1200-nl.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/926936504_122128019277337152_6784196879279393711_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_slWf3gT2toQ7kNvwGPoUP6&_nc_oc=AdrdZKJGRkidLWy0UjuoZhb1KRorpu0hHt2IUXphK5JZ-SEfra59gJyP-wwrrR2RCAI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=gu8uGXxNehFf1L929LvweA&_nc_tpa=Q5bMBQJN4CSyVCKQYrsnuO0oh-k42ei09-WWfix7yZDAtL6Egrv5xyjAyuq79_ojrn8NlDS4mxfcD0b14Q&oh=00_AQXXikP7SztOpsMwkjEZsK-ZvBgCPuBYd_nNRiM8xK_QMg&oe=6B0FD754",
@@ -18049,7 +18139,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-1200-nl.jpg"
    },
    "source_key": "post:61590114583400_122128050255337152",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -20008,7 +20098,7 @@
    "origin": "manual",
    "page_id": "61590114583400",
    "slot": "2026-11-28 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590177596600_122131115925339253": {
    "fingerprint": "898fbc5ebcff61765aa0",
