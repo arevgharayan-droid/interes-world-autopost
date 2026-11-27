@@ -27758,21 +27758,25 @@
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142418100808945_1448323798372571",
        "error": null,
        "last_attempt": "2026-11-28T01:24:04+04:00",
        "mode": "immediate",
        "photo_id": "122142418076808945",
        "post_id": "1030877436782212_122142418100808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112217208456562_1813008496662047",
        "error": null,
        "last_attempt": "2026-11-28T01:21:45+04:00",
        "mode": "immediate",
        "photo_id": "122112217184456562",
        "post_id": "1064982806700854_122112217208456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
@@ -27794,12 +27798,14 @@
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108872826506427_2566496863763778",
        "error": null,
        "last_attempt": "2026-11-28T01:21:11+04:00",
        "mode": "immediate",
        "photo_id": "122108872802506427",
        "post_id": "1079964265201139_122108872826506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
@@ -27812,12 +27818,14 @@
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123750859296683_950135664701248",
        "error": null,
        "last_attempt": "2026-11-28T01:25:13+04:00",
        "mode": "immediate",
        "photo_id": "122123750835296683",
        "post_id": "1087342844462554_122123750859296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
@@ -27839,12 +27847,14 @@
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122143007168811401_4588543224625106",
        "error": null,
        "last_attempt": "2026-11-28T01:23:28+04:00",
        "mode": "immediate",
        "photo_id": "122143007144811401",
        "post_id": "1114015015119414_122143007168811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
@@ -27857,21 +27867,25 @@
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111224088543006_1452287153780456",
        "error": null,
        "last_attempt": "2026-11-28T01:22:19+04:00",
        "mode": "immediate",
        "photo_id": "122111224058543006",
        "post_id": "1140835409106424_122111224088543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140391841311525_1914857776347133",
        "error": null,
        "last_attempt": "2026-11-28T01:19:35+04:00",
        "mode": "immediate",
        "photo_id": "122140391817311525",
        "post_id": "1142735408923607_122140391841311525",
-       "status": "published"
+       "status": "done"
       },
       "1149681171551323": {
        "attempts": 1,
@@ -27902,21 +27916,25 @@
       },
       "1160223747182678": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139171111400586_1164771359299257",
        "error": null,
        "last_attempt": "2026-11-28T01:20:03+04:00",
        "mode": "immediate",
        "photo_id": "122139171087400586",
        "post_id": "1160223747182678_122139171111400586",
-       "status": "published"
+       "status": "done"
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130272109300955_2649227485514683",
        "error": null,
        "last_attempt": "2026-11-28T01:24:37+04:00",
        "mode": "immediate",
        "photo_id": "122130272085300955",
        "post_id": "1160240797163045_122130272109300955",
-       "status": "published"
+       "status": "done"
       },
       "1163062863564866": {
        "attempts": 1,
@@ -27938,12 +27956,14 @@
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127309795405175_1635239071951494",
        "error": null,
        "last_attempt": "2026-11-28T01:22:53+04:00",
        "mode": "immediate",
        "photo_id": "122127309771405175",
        "post_id": "1191480207389219_122127309795405175",
-       "status": "published"
+       "status": "done"
       },
       "1212646305268160": {
        "attempts": 1,
@@ -27983,12 +28003,14 @@
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113705424437662_1677995317309524",
        "error": null,
        "last_attempt": "2026-11-28T01:20:38+04:00",
        "mode": "immediate",
        "photo_id": "122113705400437662",
        "post_id": "997772916762884_122113705424437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Per 5 anni non ha toccato la carta che l'ex marito le aveva dato dopo 37 anni di matrimonio, ma quando in banca l'impiegata è sbiancata, ha capito che lui le aveva nascosto qualcosa",

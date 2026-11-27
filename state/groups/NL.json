@@ -17686,30 +17686,36 @@
      "pages": {
       "1028186380387490": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121832965321332_1021162590331224",
        "error": null,
        "last_attempt": "2026-11-28T01:27:56+04:00",
        "mode": "immediate",
        "photo_id": "122121832941321332",
        "post_id": "1028186380387490_122121832965321332",
-       "status": "published"
+       "status": "done"
       },
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133662937310273_2386543232199686",
        "error": null,
        "last_attempt": "2026-11-28T01:26:12+04:00",
        "mode": "immediate",
        "photo_id": "122133662913310273",
        "post_id": "1028964020310052_122133662937310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131381881321366_4706346159584392",
        "error": null,
        "last_attempt": "2026-11-28T01:26:47+04:00",
        "mode": "immediate",
        "photo_id": "122131381857321366",
        "post_id": "1089186904280406_122131381881321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
@@ -17724,21 +17730,25 @@
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126860365316035_1144710518172636",
        "error": null,
        "last_attempt": "2026-11-28T01:25:36+04:00",
        "mode": "immediate",
        "photo_id": "122126860335316035",
        "post_id": "1129908326870761_122126860365316035",
-       "status": "published"
+       "status": "done"
       },
       "1174913505713830": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136244635399122_980163951553911",
        "error": null,
        "last_attempt": "2026-11-28T01:27:21+04:00",
        "mode": "immediate",
        "photo_id": "122136244611399122",
        "post_id": "1174913505713830_122136244635399122",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
@@ -17764,21 +17774,25 @@
       },
       "1284638831394976": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127378111430459_1485385717007421",
        "error": null,
        "last_attempt": "2026-11-28T01:29:08+04:00",
        "mode": "immediate",
        "photo_id": "122127378087430459",
        "post_id": "1284638831394976_122127378111430459",
-       "status": "published"
+       "status": "done"
       },
       "1343243972194882": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134808157427348_1156348663991945",
        "error": null,
        "last_attempt": "2026-11-28T01:28:32+04:00",
        "mode": "immediate",
        "photo_id": "122134808133427348",
        "post_id": "1343243972194882_122134808157427348",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mit 13 ließen meine Eltern mich krebskrank im Krankenhaus zurück – 15 Jahre später wollten sie VIP-Plätze bei meiner Abschlussfeier, doch dann nannte der Dekan meinen Namen",
@@ -17916,54 +17930,65 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130111609306316_4619425634967622",
        "error": null,
        "last_attempt": "2026-11-28T01:30:53+04:00",
        "mode": "immediate",
        "photo_id": "122130111585306316",
        "post_id": "1138572272664180_122130111609306316",
-       "status": "published"
+       "status": "done"
       },
       "1326260617244165": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122427583498184_1217275284159765",
        "error": null,
        "last_attempt": "2026-11-28T01:32:01+04:00",
        "mode": "immediate",
        "photo_id": "122122427559498184",
        "post_id": "1326260617244165_122122427583498184",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121556935471857_2523739714785090",
        "error": null,
        "last_attempt": "2026-11-28T01:30:18+04:00",
        "mode": "immediate",
        "photo_id": "122121556911471857",
        "post_id": "1338630212673029_122121556935471857",
-       "status": "published"
+       "status": "done"
       },
       "1384241228111675": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125129611498229_1173093155142401",
        "error": null,
        "last_attempt": "2026-11-28T01:31:27+04:00",
        "mode": "immediate",
        "photo_id": "122125129587498229",
        "post_id": "1384241228111675_122125129611498229",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124122283505599_40250680004546825",
        "error": null,
        "last_attempt": "2026-11-28T01:29:43+04:00",
        "mode": "immediate",
        "photo_id": "122124122259505599",
        "post_id": "1448441201677530_122124122283505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Meus pais me abandonaram no hospital aos 13 anos por causa do custo do meu câncer, e quinze anos depois exigiram lugares VIP na minha formatura de medicina",
      "warnings": [],
      "wp_error": null,
      "wp_id": 911,
+     "wp_live": true,
      "wp_media_id": 910,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-0117-nl.jpg",
      "wp_site": {
@@ -18003,7 +18028,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-0117-nl.jpg"
    },
    "source_key": "post:100064502274900_1613776144115779",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
