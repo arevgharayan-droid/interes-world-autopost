@@ -2,9 +2,11 @@
  "enabled_since": "2026-11-09T17:05:32+04:00",
  "fb_block_until": "2026-11-14T14:14:30+04:00",
  "output_fps": {
+  "02cd325c4d9b70480ba6": "2026-11-27T21:19:29+00:00",
   "0558b5c7136e6c324348": "2026-11-22T21:41:49+00:00",
   "0cc919e89bd6281c811b": "2026-11-17T20:47:02+00:00",
   "0dd7828291d778501a87": "2026-11-26T22:42:47+00:00",
+  "0df99e0ea1695c4c7515": "2026-11-27T21:19:29+00:00",
   "0eae76a4b0a9fac31d88": "2026-11-22T19:48:31+00:00",
   "15db7f5bef45fafd3307": "2026-11-19T22:00:40+00:00",
   "19399b13f5fef4f2b2c6": "2026-11-27T18:38:11+00:00",
@@ -16,6 +18,7 @@
   "2677a3c2bff6843f6d65": "2026-11-25T09:44:38+00:00",
   "28167400c6c84a4cf8d8": "2026-11-25T22:46:12+00:00",
   "2a22d6839b637f647151": "2026-11-26T19:37:01+00:00",
+  "2b9d6c0dd4a76f7a1023": "2026-11-27T21:19:29+00:00",
   "2fe82e12e4ad9907ad54": "2026-11-14T19:42:21+00:00",
   "33b6fe09ce466510a997": "2026-11-26T16:24:11+00:00",
   "36d00f3b6cb2ff5b7aa3": "2026-11-26T13:38:36+00:00",
@@ -23,6 +26,7 @@
   "3da4775069ee736a2d78": "2026-11-22T21:33:46+00:00",
   "3dce7e6988a88bf961cd": "2026-11-19T17:52:54+00:00",
   "3f016791a0afbbb7ef04": "2026-11-18T08:52:10+00:00",
+  "3f1eb24da5849a5dbba3": "2026-11-27T21:19:29+00:00",
   "437393fdc78b86a58315": "2026-11-26T09:51:07+00:00",
   "471d8a80c825a499a947": "2026-11-26T22:03:13+00:00",
   "4a12667ae8855b24c947": "2026-11-19T21:13:15+00:00",
@@ -16694,7 +16698,121 @@
   },
   "2026-11-28 01:17": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "في الثالثة عشرة رماني أبي على طريق ترابي وقال \"امشِ إلى البيت\"، وبعد 18 عامًا وصلتني دعوة زفاف ومعها رسالة بخط أمي",
+     "warnings": [
+      "длина текста FB 886 слов (исходник 1152, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 915,
+     "wp_media_id": 912,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-0117-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi padre me dejó tirado en un camino de tierra a los 13 años; 18 años después llegó una invitación de boda con una carta de mi madre",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 913,
+     "wp_media_id": 912,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-0117-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mon père m'a jeté sur une route de terre à 13 ans en me disant de rentrer à pied : 18 ans plus tard, une invitation de mariage est arrivée avec une enveloppe « À lire en premier",
+     "warnings": [
+      "длина текста FB 1359 слов (исходник 1152, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1399,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La 13 ani, tatăl meu m-a lăsat pe un drum de țară. După 18 ani, o invitație la nuntă ascundea o scrisoare scrisă de mama",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 914,
+     "wp_media_id": 912,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-0117-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T01:17:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/926123960_1615272553966138_2718484700455225411_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3CZPgsSZs5YQ7kNvwG8GuA6&_nc_oc=Adq9uX0vY687Ur4pLKmQrFyDqEbCAVZfrb2rwPtsZy-rlksjr6SzqcWxey-WQC5ak6s&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=wtWIdQie5oiHWjcj_cc9lQ&_nc_tpa=Q5bMBQI7u2ZOTMaA9XWWLbM8KhcGmJ-630HSgl550yb84BOF08Cuj86fiu-ESqRHUXJihsa0JXGQZquMbg&oh=00_AQWBM5I9msZjVz7vs5SyFhVya_xTMu5nn7sHdN38QVuf-g&oe=6B0FB6D1",
@@ -16706,7 +16824,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-0117-fr.jpg"
    },
    "source_key": "post:100064502274900_1616785530481507",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -17462,7 +17580,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-28 01:17",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066526927953_1230477055846514": {
    "fingerprint": "3ffb836f972ddd299f2a",
