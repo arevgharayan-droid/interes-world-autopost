@@ -81,6 +81,7 @@
   "68ca5e3edbe7ee1a0e42": "2026-11-19T10:26:56+00:00",
   "69a1c019eb8e68cd8f4c": "2026-11-25T09:44:27+00:00",
   "69bae5bbd4e359b27b2a": "2026-11-18T08:52:43+00:00",
+  "69e45ababd72b495381d": "2026-11-27T18:38:04+00:00",
   "71b99e63fb8dd44fc384": "2026-11-20T14:41:44+00:00",
   "75900c4b74075115b0dc": "2026-11-15T10:15:15+00:00",
   "760cc6e6abfd9ea2f809": "2026-11-19T17:35:32+00:00",
@@ -160,6 +161,8 @@
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
   "d3dc586208ed9833babc": "2026-11-26T16:24:12+00:00",
   "d4cab6ef35142d4bedc3": "2026-11-19T10:26:56+00:00",
+  "d94cd9ae595135e0082b": "2026-11-27T18:38:04+00:00",
+  "d9dcf470d2412a52113f": "2026-11-27T18:38:04+00:00",
   "da0db905a429fdb30957": "2026-11-21T22:45:36+00:00",
   "db93b5a4d55941ca8bb9": "2026-11-22T22:07:10+00:00",
   "dc1f1de91e9f119fc77b": "2026-11-25T22:46:14+00:00",
@@ -27053,7 +27056,90 @@
   },
   "2026-11-27 22:36": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Táta dceři řekl, že na plesové šaty nemá. Pak se pochlubil šaty za 600 dolarů pro nevlastní dceru, a babička udělala něco nečekaného",
+     "warnings": [
+      "длина текста FB 518 слов (исходник 653, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1383,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il papà le disse che non poteva pagarle il vestito del ballo, ma quella sera postò l'abito da 600 dollari della figliastra: allora sua nonna fece una cosa che nessuno si aspettava",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1381,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Tata powiedział, że nie stać go na sukienkę na bal dla córki, a wieczorem pochwalił się suknią za 600 dolarów dla pasierbicy. Wtedy zadzwoniłam do jego matki",
+     "warnings": [
+      "длина текста FB 522 слов (исходник 653, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1382,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T22:36:00+04:00",
    "source": {
     "image_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/932057891_122130637731457373_3126372323769291480_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cteoUelhWOYQ7kNvwFf92iW&_nc_oc=AdrZGovTXyjuE-85ig_su_O5BKlMUdh89HYaILd2laiwZzSsywXoXtN7_myISA7WXts&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=ZlswwdMgpgXmobVNV41efQ&_nc_tpa=Q5bMBQLoQp8NDEL_RSysK0UH2PnxX51ijmSxdiFBhlew5rYAxVZY_C-dVW2_oUOU_wmHzgbZQicw5KMVaA&oh=00_AQXBxBt92ACDa6hY2aqxxAlhwWIXQk1KMT9poQi0j6f7Lw&oe=6B0F889D",
@@ -27065,7 +27151,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-2236-it.jpg"
    },
    "source_key": "post:61593721215501_122130638031457373",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -27991,7 +28077,7 @@
    "origin": "manual",
    "page_id": "61593721215501",
    "slot": "2026-11-27 22:36",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61594676105166_122115760053489203": {
    "fingerprint": "b05eb341b8db842586ee",
