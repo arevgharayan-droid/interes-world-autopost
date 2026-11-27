@@ -217,7 +217,7 @@ languages:
       - {page_id: "1277107925482426", name: "Historias que Impactan", profile_id: "61592610634563", added: "2026-11-26", group: FR}  # через Arev в Interes World; autopost3
       - {page_id: "1183000514902787", name: "Miradas del Destino", profile_id: "61592471333929", added: "2026-11-26", group: FR}  # через Arev в Interes World; autopost2
       - {page_id: "1140011449205671", name: "La Vida en Historias", profile_id: "61592446491820", added: "2026-11-26", group: FR}  # через Сюзанну в Interes World; autopost3
-      # Vidas al Descubierto (профиль 61592573811954, админ Nare Manukyan) — добавить после 27.11.2026 23:49 (ограничение Meta), группа FR
+      - {page_id: "1164564340084301", name: "Vidas al Descubierto", profile_id: "61592573811954", added: "2026-11-28", group: FR}  # через Нарэ в Interes World; autopost4
   RO:
     name: Romanian
     pages:
