@@ -27136,30 +27136,36 @@
      "pages": {
       "1106793902521611": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117133639328231_1130883556015154",
        "error": null,
        "last_attempt": "2026-11-27T22:55:56+04:00",
        "mode": "immediate",
        "photo_id": "122117133615328231",
        "post_id": "1106793902521611_122117133639328231",
-       "status": "published"
+       "status": "done"
       },
       "1220855754440320": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122146236879392187_1470292331964513",
        "error": null,
        "last_attempt": "2026-11-27T22:56:26+04:00",
        "mode": "immediate",
        "photo_id": "122146236855392187",
        "post_id": "1220855754440320_122146236879392187",
-       "status": "published"
+       "status": "done"
       },
       "1240142009184080": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131931889399398_1797383941960822",
        "error": null,
        "last_attempt": "2026-11-27T22:56:57+04:00",
        "mode": "immediate",
        "photo_id": "122131931865399398",
        "post_id": "1240142009184080_122131931889399398",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Táta dceři řekl, že na plesové šaty nemá. Pak se pochlubil šaty za 600 dolarů pro nevlastní dceru, a babička udělala něco nečekaného",
@@ -27168,6 +27174,7 @@
      ],
      "wp_error": null,
      "wp_id": 1383,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "DE": {
@@ -27507,40 +27514,47 @@
      "pages": {
       "1079800528556354": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127400185304793_4467588716889844",
        "error": null,
        "last_attempt": "2026-11-27T22:55:27+04:00",
        "mode": "immediate",
        "photo_id": "122127400161304793",
        "post_id": "1079800528556354_122127400185304793",
-       "status": "published"
+       "status": "done"
       },
       "1083785318156771": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122114704592359745_1461856305403632",
        "error": null,
        "last_attempt": "2026-11-27T22:53:43+04:00",
        "mode": "immediate",
        "photo_id": "122114704568359745",
        "post_id": "1083785318156771_122114704592359745",
-       "status": "published"
+       "status": "done"
       },
       "1089456087587677": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123714637302807_1608630354352184",
        "error": null,
        "last_attempt": "2026-11-27T22:54:17+04:00",
        "mode": "immediate",
        "photo_id": "122123714613302807",
        "post_id": "1089456087587677_122123714637302807",
-       "status": "published"
+       "status": "done"
       },
       "1107966229066828": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142380097313481_2463764644031296",
        "error": null,
        "last_attempt": "2026-11-27T22:54:52+04:00",
        "mode": "immediate",
        "photo_id": "122142380073313481",
        "post_id": "1107966229066828_122142380097313481",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Tata powiedział, że nie stać go na sukienkę na bal dla córki, a wieczorem pochwalił się suknią za 600 dolarów dla pasierbicy. Wtedy zadzwoniłam do jego matki",
@@ -27585,7 +27599,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-2236-it.jpg"
    },
    "source_key": "post:61593721215501_122130638031457373",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
