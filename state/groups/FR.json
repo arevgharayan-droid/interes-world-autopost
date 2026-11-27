@@ -16127,21 +16127,25 @@
      "pages": {
       "1085853177948572": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128854249317111_1485328107000134",
        "error": null,
        "last_attempt": "2026-11-27T22:58:38+04:00",
        "mode": "immediate",
        "photo_id": "122128854225317111",
        "post_id": "1085853177948572_122128854249317111",
-       "status": "published"
+       "status": "done"
       },
       "1145996375255489": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134082709310364_1836408007668192",
        "error": null,
        "last_attempt": "2026-11-27T22:58:59+04:00",
        "mode": "immediate",
        "photo_id": "122134082679310364",
        "post_id": "1145996375255489_122134082709310364",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "طلبت ابنتي المصابة بمتلازمة داون أن آتي لأخذها من مهرجان المدرسة، وما قالته معلمتها لها جعلني أتخذ قراراً لن تنساه تلك المعلمة",
@@ -16150,6 +16154,7 @@
      ],
      "wp_error": null,
      "wp_id": 906,
+     "wp_live": true,
      "wp_media_id": 901,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-2236-fr.jpg",
      "wp_site": {
@@ -16212,12 +16217,14 @@
       },
       "1140011449205671": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127211629414883_1666428548315002",
        "error": null,
        "last_attempt": "2026-11-27T22:57:31+04:00",
        "mode": "immediate",
        "photo_id": "122127211599414883",
        "post_id": "1140011449205671_122127211629414883",
-       "status": "published"
+       "status": "done"
       },
       "116178644305635": {
        "attempts": 1,
@@ -16265,22 +16272,25 @@
       },
       "1183000514902787": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129150247415711_1090145187324856",
        "error": null,
        "last_attempt": "2026-11-27T22:57:09+04:00",
        "mode": "immediate",
        "photo_id": "122129150223415711",
        "post_id": "1183000514902787_122129150247415711",
-       "status": "published"
+       "status": "done"
       },
       "1189173560952218": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122122251393411249_1342689587931656",
        "error": null,
        "last_attempt": "2026-11-27T22:54:41+04:00",
        "mode": "immediate",
        "photo_id": "122122251369411249",
        "post_id": "1189173560952218_122122251393411249",
-       "status": "published"
+       "status": "done"
       },
       "1221370521061169": {
        "attempts": 1,
@@ -16317,12 +16327,14 @@
       },
       "1263459716855777": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139447813466852_1534468699743550",
        "error": null,
        "last_attempt": "2026-11-27T22:55:44+04:00",
        "mode": "immediate",
        "photo_id": "122139447789466852",
        "post_id": "1263459716855777_122139447813466852",
-       "status": "published"
+       "status": "done"
       },
       "1274568742402473": {
        "attempts": 1,
@@ -16337,12 +16349,14 @@
       },
       "1277107925482426": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127795309420354_2188251008744478",
        "error": null,
        "last_attempt": "2026-11-27T22:56:44+04:00",
        "mode": "immediate",
        "photo_id": "122127795285420354",
        "post_id": "1277107925482426_122127795309420354",
-       "status": "published"
+       "status": "done"
       },
       "1285042228018768": {
        "attempts": 1,
@@ -16357,21 +16371,25 @@
       },
       "1331724433353003": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144275665472559_1933519320967613",
        "error": null,
        "last_attempt": "2026-11-27T22:56:14+04:00",
        "mode": "immediate",
        "photo_id": "122144275641472559",
        "post_id": "1331724433353003_122144275665472559",
-       "status": "published"
+       "status": "done"
       },
       "1334176279776969": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139179487470472_1115402727974027",
        "error": null,
        "last_attempt": "2026-11-27T22:55:15+04:00",
        "mode": "immediate",
        "photo_id": "122139179463470472",
        "post_id": "1334176279776969_122139179487470472",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi hija con síndrome de Down lloraba y pedía que fuera por ella en su primer festival escolar: lo que su maestra le dijo me rompió el corazón",
@@ -16605,27 +16623,32 @@
      "pages": {
       "1017413568132885": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126871471301832_1836901987646885",
        "error": null,
        "last_attempt": "2026-11-27T22:58:15+04:00",
        "mode": "immediate",
        "photo_id": "122126871447301832",
        "post_id": "1017413568132885_122126871471301832",
-       "status": "published"
+       "status": "done"
       },
       "1150924154761110": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141275059316765_2043863872966604",
        "error": null,
        "last_attempt": "2026-11-27T22:57:53+04:00",
        "mode": "immediate",
        "photo_id": "122141275029316765",
        "post_id": "1150924154761110_122141275059316765",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mami, nu sunt frumoasă? Te rog, nu-mi minți\": ce a auzit o fetiță de 6 ani cu sindrom Down la prima ei serbare",
      "warnings": [],
      "wp_error": null,
      "wp_id": 905,
+     "wp_live": true,
      "wp_media_id": 901,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-2236-fr.jpg",
      "wp_site": {
@@ -16661,7 +16684,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-2236-fr.jpg"
    },
    "source_key": "post:61574270220252_122139590312809007",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
