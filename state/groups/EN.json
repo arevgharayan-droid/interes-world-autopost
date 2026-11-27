@@ -61,6 +61,7 @@
   "f0fbe62a6e965138d9e2": "2026-11-16T00:21:36+00:00",
   "f1dd63afb3367f635d39": "2026-11-21T19:44:17+00:00",
   "f702b99551dc88a9c658": "2026-11-21T10:17:03+00:00",
+  "f7408cf8665a82541a95": "2026-11-27T21:19:01+00:00",
   "ff8b8a08f34b59eee8c4": "2026-11-16T23:51:06+00:00"
  },
  "outputs": {
@@ -18178,7 +18179,72 @@
   },
   "2026-11-28 01:17": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Ex-Husband Spent a Fortune on His Lavish Wedding and Invited Everyone, Then Our Son Grabbed the Microphone, Asked One Question, and Left His New Bride in Tears",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1393,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T01:17:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/928224204_1616590767167650_153228886321715970_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JBGN7lxWyJAQ7kNvwHLdR5s&_nc_oc=AdquFm6HOKJ4QaNxVZqNdwQ6o-xpshS6PDlkdb_v0xRc26HOyAdz0yjaVRgrb-9KVkk&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=dDhzqe0ZlxJONn5DdFjiUw&_nc_tpa=Q5bMBQKEXFNHBS3bUlTvOgycLCxe7BPCn6vCxhUyP6Z7lDoW6wtK-PxgiaY2trxqaDSQ08JPI33o9sEA1A&oh=00_AQWd4fZP41Gy4_CZGyNOiSlLnh4g1n-DHNwNJ3T4dk0g-A&oe=6B0FD11F",
@@ -18190,7 +18256,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-0117-en.jpg"
    },
    "source_key": "post:100064502274900_1617247770435283",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -18749,7 +18815,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-28 01:17",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1458965616337776": {
    "fingerprint": "10c994645baddcf5d072",
