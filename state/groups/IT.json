@@ -36,6 +36,7 @@
   "24d8fa150757c9a5c3f8": "2026-11-26T13:38:26+00:00",
   "2574bb167b0f1c84e051": "2026-11-22T22:13:01+00:00",
   "270415de3a99599068b4": "2026-11-18T22:36:42+00:00",
+  "27ea46ddd461fa3facae": "2026-11-27T21:19:18+00:00",
   "2aa7b211311ac724f32e": "2026-11-22T22:07:10+00:00",
   "2aa9f772fe9ff6d1ed19": "2026-11-21T10:17:43+00:00",
   "2edb7fffc7935274526d": "2026-11-22T21:51:29+00:00",
@@ -153,6 +154,7 @@
   "c73763bb1c4080ccec74": "2026-11-20T22:45:58+00:00",
   "c78cd36259e788a46a33": "2026-11-26T22:03:08+00:00",
   "c8020142d83ca272273c": "2026-11-16T00:18:19+00:00",
+  "c9300194105258aa9748": "2026-11-27T21:19:18+00:00",
   "ce41fb776b521b73c710": "2026-11-23T13:58:44+00:00",
   "ceb96049de829a0c15e0": "2026-11-25T14:02:30+00:00",
   "cf29e5e2e8b5770866b0": "2026-11-16T10:16:33+00:00",
@@ -179,6 +181,7 @@
   "ea254955822bed5c2183": "2026-11-19T14:07:51+00:00",
   "eac8aa08480a5392b558": "2026-11-19T14:07:51+00:00",
   "eb3c5d23a3f7576e5439": "2026-11-26T22:24:40+00:00",
+  "ecfb65fce65440f35e58": "2026-11-27T21:19:18+00:00",
   "efd0f2e108b8fe01d1c7": "2026-11-14T19:42:43+00:00",
   "f0ca2d52305b88a9c2ce": "2026-11-24T09:25:10+00:00",
   "f47d08ea28476c84d8db": "2026-11-18T22:49:46+00:00",
@@ -27609,7 +27612,88 @@
   },
   "2026-11-28 01:17": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Po pěti letech vešla do banky vybrat 3 000 dolarů od bývalého manžela. Pokladní zbledla a vedoucí jí podala zapečetěnou obálku s jejím jménem",
+     "warnings": [
+      "длина текста FB 553 слов (исходник 656, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 1398,
+     "wp_status": "publish"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Per 5 anni non ha toccato la carta che l'ex marito le aveva dato dopo 37 anni di matrimonio, ma quando in banca l'impiegata è sbiancata, ha capito che lui le aveva nascosto qualcosa",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1396,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Przez pięć lat nie tknęła ani grosza z karty byłego męża. Gdy w końcu weszła do banku, kasjerka zbladła",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1397,
+     "wp_status": "publish"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T01:17:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/925637018_1612754214217972_7945899738354263413_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0WIXwsPf8PUQ7kNvwHxYEmp&_nc_oc=AdqLUQI9E5OzmPIm3JIZuRP28_V9RPqwRA94ODUUzP7NtvHoCAqOuqCtNQgmLImvwwk&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=rJbc7_f65OselyddbjK7QQ&_nc_tpa=Q5bMBQJ2g8PI6OS91pXV2Wdk1ipMRu3FeXzZOwkgecyh_IOFh-6_yv1yJQ7zMTs4VDWcGS4ykvS0SzV-Dg&oh=00_AQWTs2oxjMZOelka3VgYyrRz6pHj3yiuevKYhT9jE_mZ7w&oe=6B0FB51B",
@@ -27621,7 +27705,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-0117-it.jpg"
    },
    "source_key": "post:100064502274900_1614648984028495",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -28131,7 +28215,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-28 01:17",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100066730531753_1450160977218240": {
    "fingerprint": "68ee500f66d9ec24283c",

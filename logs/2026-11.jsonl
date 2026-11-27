@@ -18935,3 +18935,10 @@
 {"slot": "2026-11-28 01:17", "lang": "NL", "action": "wp_post", "id": 1394, "status": "publish", "t": "2026-11-27T21:19:13+00:00", "group": "NL"}
 {"slot": "2026-11-28 01:17", "lang": "DE", "action": "wp_post", "id": 1395, "status": "publish", "t": "2026-11-27T21:19:14+00:00", "group": "NL"}
 {"slot": "2026-11-28 01:17", "lang": "PT", "action": "wp_post", "id": 911, "status": "publish", "t": "2026-11-27T21:19:16+00:00", "group": "NL"}
+{"slot": "2026-11-28 01:17", "lang": "EN", "page": "530022363528890", "action": "fb_immediate", "photo_id": "122176776356720509", "post_id": "530022363528890_122176776392720509", "t": "2026-11-27T21:19:17+00:00", "group": "EN2"}
+{"slot": "2026-11-28 01:17", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-27T21:19:18+00:00", "group": "IT"}
+{"slot": "2026-11-28 01:17", "lang": "PL", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-27T21:19:18+00:00", "group": "IT"}
+{"slot": "2026-11-28 01:17", "lang": "CS", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 553 слов (исходник 656, цель ±10%)"], "t": "2026-11-27T21:19:18+00:00", "group": "IT"}
+{"slot": "2026-11-28 01:17", "lang": "IT", "action": "wp_post", "id": 1396, "status": "publish", "t": "2026-11-27T21:19:18+00:00", "group": "IT"}
+{"slot": "2026-11-28 01:17", "lang": "PL", "action": "wp_post", "id": 1397, "status": "publish", "t": "2026-11-27T21:19:19+00:00", "group": "IT"}
+{"slot": "2026-11-28 01:17", "lang": "CS", "action": "wp_post", "id": 1398, "status": "publish", "t": "2026-11-27T21:19:20+00:00", "group": "IT"}
