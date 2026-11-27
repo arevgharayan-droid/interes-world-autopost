@@ -2048,7 +2048,7 @@
   "975714512286925_122151298305209153": "2026-11-26T17:45:27+00:00",
   "975714512286925_122151322083209153": "2026-11-26T20:09:43+00:00",
   "975714512286925_122151335283209153": "2026-11-27T08:46:10+00:00",
-  "975714512286925_122151336087209153": "2026-11-26T22:17:59+00:00",
+  "975714512286925_122151336087209153": "2026-11-27T11:45:49+00:00",
   "975714512286925_122151336789209153": "2026-11-26T22:28:04+00:00"
  },
  "slots": {
@@ -17902,21 +17902,25 @@
       },
       "921611111039858": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122145786825200344_1846620479979805",
        "error": null,
        "last_attempt": "2026-11-27T02:17:01+04:00",
        "mode": "schedule",
        "photo_id": "122145786795200344",
        "post_id": "921611111039858_122145786825200344",
-       "status": "published"
+       "status": "done"
       },
       "975714512286925": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122151336087209153_2812032152527725",
        "error": null,
        "last_attempt": "2026-11-27T02:17:57+04:00",
        "mode": "schedule",
        "photo_id": "122151336057209153",
        "post_id": "975714512286925_122151336087209153",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "My Army Colonel Ex-Husband Invited Me to Christmas to Show Everyone How I Ended Up Without Him, So I Arrived With Four Children He Had Never Met",
@@ -17979,7 +17983,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-1500-en.jpg"
    },
    "source_key": "post:100054362119467_1656469956175059",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
