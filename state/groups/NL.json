@@ -17623,7 +17623,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-28T01:17:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/921632495_1613015487525178_7644313757747943897_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=AMD6AwlrudIQ7kNvwG7_Cwe&_nc_oc=AdrOcXjx89x5iI40jw-4igqdlxqvyaHSAVnAgQgHaysu4AXnr3zgpjAV_JZciWDQqMI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=MWNSnrFPBk9HI2OSYtLwGQ&_nc_tpa=Q5bMBQJTxgBjZkC4IMtzvoQOV2kamncuNiULVhwlK-Llx4dSuNmsyUW_LpciEN3L0grHt_rEvbpxxrtIJA&oh=00_AQV_TsI_wgR6sZN6J_3eijy0GKPiI8Cj9hXQGa2rzBKytQ&oe=6B0FC9E1",
+    "link": "https://www.facebook.com/story.php?story_fbid=1613776144115779&id=100064502274900",
+    "origin": "manual",
+    "page_id": "100064502274900",
+    "text": "My parents left me in a hospital when I was thirteen because my cancer treatment was “too expensive.” Fifteen years later, when they heard I was the valedictorian of Columbia University College of Physicians and Surgeons, they demanded VIP tickets. “She owes us this,” my mother whispered from the front row, ready to claim credit for everything I had become. I didn’t scream. I didn’t cry. I gave them front-row seats to their own execution. Backstage, I smiled as the Dean walked toward the podium. The name he announced out loud shattered their world.\nThe first time I saw my biological parents after fifteen years, they were seated in the premium VIP section, Section A, Row 3, beneath the bright lights of Madison Square Garden, acting as if they belonged among the most respected families in the room.\nMy mother looked smaller than I remembered, frail and hunched in her chair. My father kept checking the program with tense, impatient movements, running his thumb down the list of names as if the profitable answer he wanted would magically appear if he pressed hard enough.\nTwo seats away from them sat Megan, wearing a beautiful emerald green dress and holding a bouquet of yellow roses. Her cheeks were already wet with tears of joy before the ceremony had even started. My father glanced at her for half a second, completely unaware that the woman beside him had walked into the fire he had chosen to run from.\nMy name is Emily Rivera. I was born Emily Parker, but I left that name behind in a sterile hospital room when I was thirteen. Back then, I sat shaking in a paper gown while Dr. Collins told us the diagnosis: acute lymphoblastic leukemia.\nMy father asked only one thing.\n“How much?”\nWhen Dr. Collins explained the out-of-pocket cost, my father’s face darkened with anger, as if my illness were a financial inconvenience. My sister, Ashley, had a one-hundred-and-eighty-thousand-dollar college fund.\nI had cancer.\n“We’re not destroying a promising future for an average one,” he said.\nAverage.\nThat was what my life was worth to them.\nBefore the sun had even set, emergency custody papers were signed. My parents walked out of Mercy General Hospital without saying goodbye.\nThat night, while I was terrified of being completely abandoned, Megan Rivera entered my room. She was my night nurse.\n“There really aren’t words for how messed up that is,” she said with blunt honesty.\nShe stayed long after her shift ended. When I completed induction chemotherapy, Megan stunned everyone in the room.\n“I want to take her,” she said.\nNot because it was easy. Not because it was convenient. Because she wanted me.\nShe adopted me and became my shield. She even secretly took out a second mortgage so I would never feel the weight of the financial burden. My biological parents had decided I was a bad investment. Megan treated my life as priceless.\n“We’re going to prove them wrong,” she told me fiercely.\nI chose pediatric oncology. In April of my final year of medical school, I was named valedictorian. Two weeks later, an email arrived from the university.\nKaren and Richard Parker have contacted us claiming to be your parents and requesting access to the premium seating area. Should we add them?\nMy blood froze.\nFifteen years of silence. Fifteen years of pretending I did not exist. But now that my name came with “Dr.,” honors, and a graduation stage, they suddenly wanted front-row seats to my success.\nI called Megan.\n“Let them come,” she said.\nSo I gave them the tickets to their own execution.\nNow, standing behind the heavy stage curtains, I watched them from the shadows. My father leaned forward, staring at the stage like it was a winning lottery ticket.\nA coordinator touched my elbow.\n“Dr. Rivera, you’re next.”\nDr. Rivera.\nNot Parker.\nRivera.\nThe Dean stepped to the podium.\n“It is my tremendous honor to introduce the valedictorian of the Columbia University College of Physicians and Surgeons Class of 2026…”\nMy mother lifted her program, finally connecting the pieces. My father went completely still. Megan pressed both hands to her heart.\nAnd when the Dean’s voice thundered through the arena, everything changed...\n\n❤️ If you want to see the full story, please comment “YES” below and give us a LIKE, so you don’t miss the rest of the story! 👇 Thank you for your understanding and support!",
+    "wp_media_id": 1390,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-0117-nl.jpg"
+   },
+   "source_key": "post:100064502274900_1613776144115779",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-28 12:00": {
    "langs": {},
@@ -18662,6 +18678,14 @@
    "page_id": "100064502274900",
    "slot": "2026-11-14 21:00",
    "status": "used"
+  },
+  "post:100064502274900_1613776144115779": {
+   "fingerprint": "eda3ee99207eb6cfb42b",
+   "link": "https://www.facebook.com/story.php?story_fbid=1613776144115779&id=100064502274900",
+   "origin": "manual",
+   "page_id": "100064502274900",
+   "slot": "2026-11-28 01:17",
+   "status": "reserved"
   },
   "post:100066526927953_1230477055846514": {
    "fingerprint": "3ffb836f972ddd299f2a",

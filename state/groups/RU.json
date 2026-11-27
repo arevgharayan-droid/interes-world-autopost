@@ -27372,7 +27372,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-28T01:17:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/931941958_1615264253966968_5323730627644305338_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=CFidnjYsjQ8Q7kNvwEQ0Rx4&_nc_oc=Adr_DMlsHgnkxemN6hFaprbtdgqkCnbk5InVHbJ1w1o1vbM7fOFegDNebraHhsvz4Tg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=Z2igKxmuzdfYVgQRVpnsuQ&_nc_tpa=Q5bMBQIyJeQYIjTgP8kFoKNwKUhWG-2aF9DY8m7DPzn3BsfeyEJdb0PDpwJWoBBaNqB040pDVVTaOvCDWA&oh=00_AQXaS_9HSaGCv_K1BdR-ZZ4J9FXOqd8-d1LFJlUQj3fXTg&oe=6B0FCA57",
+    "link": "https://www.facebook.com/story.php?story_fbid=1615572607269466&id=100064502274900",
+    "origin": "manual",
+    "page_id": "100064502274900",
+    "text": "My 18-year-old son became an organ do:nor to save his 5-year-old sister, and never came home from the hospital. 13 years later, on her 18th birthday, she opened a card that began, “Happy birthday, little sister. I promised I’d be here.”\n Ethan was 18 when my daughter, Clara, became seriously ill.\n She was only 5.\n The doctors told me her li:ver was failing and that without a trans:plant, we were running out of time.\n Their father was no longer in our lives. I tried every way I knew to reach him, but my calls went unanswered.\n I was tested immediately, but I wasn’t a suitable do:nor.\n Then Ethan asked to be tested.\n He was a match.\n “Ethan, please,” I begged him. “You’re my child too. I can’t watch both of you go into surgery.”\n He took my hands.\n “She’s my little sister, Mom. If I can save her, how am I supposed to walk away?”\n The doctors explained the risks carefully. They told us there was every reason to believe both of my children would recover.\n The operation itself went well.\n Clara began improving almost immediately.\n But Ethan didn’t.\n At first, the doctors told me his recovery was simply taking longer than expected.\n Then he developed complications.\n One afternoon, a doctor entered the waiting room and quietly asked me to sit down.\n I knew before he finished speaking that something was terribly wrong.\n They did everything they could.\n Ethan di:ed 6 days after the surgery.\n Clara lived.\n For a long time, I didn’t know how to hold those 2 truths inside the same heart.\n I had lost my firstborn, but I still had a little girl who needed me.\n So I kept going.\n I raised Clara alone.\n I kept Ethan’s photographs throughout the house and told her every story I could remember—how he used to sneak cookies before dinner, how he once climbed onto the garage roof for reasons he refused to explain, and how proud he had been the first time he held her as a baby.\n Most importantly, I made sure Clara understood that Ethan’s decision had been his own.\n She had never taken anything from him.\n He had loved her.\n That was all.\n The years passed.\n Clara grew into a healthy, funny, stubborn young woman who reminded me of Ethan in ways that sometimes made me smile and sometimes made me leave the room before she saw me cry.\n Then came her 18th birthday.\n The same age Ethan had been when we lost him.\n That afternoon, Clara sat in our living room with her best friends, Maya and Sophie, opening presents while I watched from the doorway.\n Then she noticed a plain white envelope tucked between 2 gift boxes.\n “Who brought this?”\n Maya frowned.\n “It was sticking out of the mailbox. I thought it was from one of your relatives.”\n Clara opened it.\n Inside was a photograph.\n Her smile disappeared.\n “Mom… this is me.”\n I walked closer.\n The photograph had been taken only 3 days earlier.\n Clara was standing inside the coffee shop where she worked, laughing beside the front window.\n The picture appeared to have been taken from across the street.\n “I didn’t take that,” I said.\n Clara looked unsettled now.\n There was another card inside the envelope.\n Her name was handwritten across the front.\n She opened it slowly.\n Then she began reading.\n “Happy birthday, little sister. I promised I’d be here.”\n My breath caught.\n Clara looked at me.\n “Mom?”\n I couldn’t answer.\n She continued reading, and after only a few lines, tears began running down her face.\n Then she reached the bottom.\n Her hands started shaking.\n “Mom… this is Ethan’s handwriting.”\n I stared at the card.\n It was.\n There was no question.\n But Ethan had been gone for 13 years.\n I had never seen that letter before.\n And whoever had delivered it somehow knew where Clara worked.\n “Who had this?” she whispered. “And why did they wait until today?”\n Before I could answer, the doorbell rang.\n The entire room went silent.\n I told Maya and Sophie to stay with Clara while I walked toward the front door.\n My heart was pounding harder with every step.\n I opened it.\n Someone stood on the porch holding a small box wrapped in faded blue paper.\n For several seconds, I couldn’t speak.\n Thirteen years had passed.\n The face in front of me had changed.\n But I knew those eyes.\n And suddenly, Ethan’s impossible birthday message was no longer the only secret waiting at my door. \" Say LOVE if YOU WANT TO READ PART 2 👇",
+    "wp_media_id": 909,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-0117-ru.jpg"
+   },
+   "source_key": "post:100064502274900_1615572607269466",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-28 12:00": {
    "langs": {},
@@ -28113,6 +28129,14 @@
    "page_id": "100064502274900",
    "slot": "2026-11-14 21:00",
    "status": "used"
+  },
+  "post:100064502274900_1615572607269466": {
+   "fingerprint": "2ac0c48749cc0000b97c",
+   "link": "https://www.facebook.com/story.php?story_fbid=1615572607269466&id=100064502274900",
+   "origin": "manual",
+   "page_id": "100064502274900",
+   "slot": "2026-11-28 01:17",
+   "status": "reserved"
   },
   "post:100066526927953_1230477055846514": {
    "fingerprint": "3ffb836f972ddd299f2a",
