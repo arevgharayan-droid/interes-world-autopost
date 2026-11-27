@@ -16786,21 +16786,25 @@
      "pages": {
       "1085853177948572": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128863033317111_1470163685223442",
        "error": null,
        "last_attempt": "2026-11-28T01:40:31+04:00",
        "mode": "immediate",
        "photo_id": "122128863009317111",
        "post_id": "1085853177948572_122128863033317111",
-       "status": "published"
+       "status": "done"
       },
       "1145996375255489": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134094001310364_1344793741096104",
        "error": null,
        "last_attempt": "2026-11-28T01:40:54+04:00",
        "mode": "immediate",
        "photo_id": "122134093977310364",
        "post_id": "1145996375255489_122134094001310364",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "في الثالثة عشرة رماني أبي على طريق ترابي وقال \"امشِ إلى البيت\"، وبعد 18 عامًا وصلتني دعوة زفاف ومعها رسالة بخط أمي",
@@ -16809,6 +16813,7 @@
      ],
      "wp_error": null,
      "wp_id": 915,
+     "wp_live": true,
      "wp_media_id": 912,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-0117-fr.jpg",
      "wp_site": {
@@ -16871,12 +16876,14 @@
       },
       "1140011449205671": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127227931414883_1873640907316477",
        "error": null,
        "last_attempt": "2026-11-28T01:38:56+04:00",
        "mode": "immediate",
        "photo_id": "122127227907414883",
        "post_id": "1140011449205671_122127227931414883",
-       "status": "published"
+       "status": "done"
       },
       "116178644305635": {
        "attempts": 1,
@@ -16891,12 +16898,14 @@
       },
       "1164564340084301": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132908053419127_1203186465603253",
        "error": null,
        "last_attempt": "2026-11-28T01:39:19+04:00",
        "mode": "immediate",
        "photo_id": "122132908023419127",
        "post_id": "1164564340084301_122132908053419127",
-       "status": "published"
+       "status": "done"
       },
       "1167098496495843": {
        "attempts": 1,
@@ -16933,21 +16942,25 @@
       },
       "1183000514902787": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129164131415711_3381062465429568",
        "error": null,
        "last_attempt": "2026-11-28T01:38:32+04:00",
        "mode": "immediate",
        "photo_id": "122129164107415711",
        "post_id": "1183000514902787_122129164131415711",
-       "status": "published"
+       "status": "done"
       },
       "1189173560952218": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122284573411249_1835182904396854",
        "error": null,
        "last_attempt": "2026-11-28T01:36:09+04:00",
        "mode": "immediate",
        "photo_id": "122122284549411249",
        "post_id": "1189173560952218_122122284573411249",
-       "status": "published"
+       "status": "done"
       },
       "1221370521061169": {
        "attempts": 1,
@@ -16973,21 +16986,25 @@
       },
       "1236104599583009": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122146136787387067_29466156863004532",
        "error": null,
        "last_attempt": "2026-11-28T01:35:33+04:00",
        "mode": "immediate",
        "photo_id": "122146136763387067",
        "post_id": "1236104599583009_122146136787387067",
-       "status": "published"
+       "status": "done"
       },
       "1263459716855777": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139486147466852_1078735105240233",
        "error": null,
        "last_attempt": "2026-11-28T01:37:07+04:00",
        "mode": "immediate",
        "photo_id": "122139486123466852",
        "post_id": "1263459716855777_122139486147466852",
-       "status": "published"
+       "status": "done"
       },
       "1274568742402473": {
        "attempts": 1,
@@ -17002,12 +17019,14 @@
       },
       "1277107925482426": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127809259420354_1864009648177419",
        "error": null,
        "last_attempt": "2026-11-28T01:38:04+04:00",
        "mode": "immediate",
        "photo_id": "122127809229420354",
        "post_id": "1277107925482426_122127809259420354",
-       "status": "published"
+       "status": "done"
       },
       "1285042228018768": {
        "attempts": 1,
@@ -17022,21 +17041,25 @@
       },
       "1331724433353003": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122144299863472559_1492136756405265",
        "error": null,
        "last_attempt": "2026-11-28T01:37:35+04:00",
        "mode": "immediate",
        "photo_id": "122144299839472559",
        "post_id": "1331724433353003_122144299863472559",
-       "status": "published"
+       "status": "done"
       },
       "1334176279776969": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139207159470472_2292380218158511",
        "error": null,
        "last_attempt": "2026-11-28T01:36:37+04:00",
        "mode": "immediate",
        "photo_id": "122139207135470472",
        "post_id": "1334176279776969_122139207159470472",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Mi padre me dejó tirado en un camino de tierra a los 13 años; 18 años después llegó una invitación de boda con una carta de mi madre",
@@ -17268,27 +17291,32 @@
      "pages": {
       "1017413568132885": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126882421301832_1164215109525468",
        "error": null,
        "last_attempt": "2026-11-28T01:40:07+04:00",
        "mode": "immediate",
        "photo_id": "122126882397301832",
        "post_id": "1017413568132885_122126882421301832",
-       "status": "published"
+       "status": "done"
       },
       "1150924154761110": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122141284557316765_1675733650894150",
        "error": null,
        "last_attempt": "2026-11-28T01:39:43+04:00",
        "mode": "immediate",
        "photo_id": "122141284527316765",
        "post_id": "1150924154761110_122141284557316765",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "La 13 ani, tatăl meu m-a lăsat pe un drum de țară. După 18 ani, o invitație la nuntă ascundea o scrisoare scrisă de mama",
      "warnings": [],
      "wp_error": null,
      "wp_id": 914,
+     "wp_live": true,
      "wp_media_id": 912,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-0117-fr.jpg",
      "wp_site": {
@@ -17324,7 +17352,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-0117-fr.jpg"
    },
    "source_key": "post:100064502274900_1616785530481507",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
