@@ -16179,30 +16179,36 @@
      "pages": {
       "104192002184660": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "1136991348933903_977764328415351",
        "error": null,
        "last_attempt": "2026-11-27T22:49:32+04:00",
        "mode": "immediate",
        "photo_id": "1136991328933905",
        "post_id": "104192002184660_1136991348933903",
-       "status": "published"
+       "status": "done"
       },
       "1065418833325273": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128083267306971_1165847795901077",
        "error": null,
        "last_attempt": "2026-11-27T22:47:47+04:00",
        "mode": "immediate",
        "photo_id": "122128083243306971",
        "post_id": "1065418833325273_122128083267306971",
-       "status": "published"
+       "status": "done"
       },
       "1091526457386175": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126696685298778_951146931262991",
        "error": null,
        "last_attempt": "2026-11-27T22:48:21+04:00",
        "mode": "immediate",
        "photo_id": "122126696661298778",
        "post_id": "1091526457386175_122126696685298778",
-       "status": "published"
+       "status": "done"
       },
       "1140011449205671": {
        "attempts": 1,
@@ -16269,12 +16275,14 @@
       },
       "1221370521061169": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127337965416241_2379868459438913",
        "error": null,
        "last_attempt": "2026-11-27T22:48:57+04:00",
        "mode": "immediate",
        "photo_id": "122127337941416241",
        "post_id": "1221370521061169_122127337965416241",
-       "status": "published"
+       "status": "done"
       },
       "1234716479729330": {
        "attempts": 1,
@@ -16305,12 +16313,14 @@
       },
       "1274568742402473": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130472365440882_2256763748381367",
        "error": null,
        "last_attempt": "2026-11-27T22:50:07+04:00",
        "mode": "immediate",
        "photo_id": "122130472341440882",
        "post_id": "1274568742402473_122130472365440882",
-       "status": "published"
+       "status": "done"
       },
       "1277107925482426": {
        "attempts": 1,
@@ -16323,12 +16333,14 @@
       },
       "1285042228018768": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130020589425687_1075268508869896",
        "error": null,
        "last_attempt": "2026-11-27T22:50:42+04:00",
        "mode": "immediate",
        "photo_id": "122130020565425687",
        "post_id": "1285042228018768_122130020589425687",
-       "status": "published"
+       "status": "done"
       },
       "1331724433353003": {
        "attempts": 1,
@@ -16355,6 +16367,7 @@
      ],
      "wp_error": null,
      "wp_id": 902,
+     "wp_live": true,
      "wp_media_id": 901,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-2236-fr.jpg",
      "wp_site": {
@@ -16384,21 +16397,24 @@
       "1041497042386258": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122145160496738075_1162419819921812",
        "error": null,
        "last_attempt": "2026-11-27T22:42:37+04:00",
        "mode": "immediate",
        "photo_id": "122145160472738075",
        "post_id": "1041497042386258_122145160496738075",
-       "status": "published"
+       "status": "done"
       },
       "1058598924006917": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122109802646457428_1188665900501107",
        "error": null,
        "last_attempt": "2026-11-27T22:47:11+04:00",
        "mode": "immediate",
        "photo_id": "122109802622457428",
        "post_id": "1058598924006917_122109802646457428",
-       "status": "published"
+       "status": "done"
       },
       "1079295351933311": {
        "attempts": 1,
@@ -16435,21 +16451,25 @@
       },
       "1176150818923548": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123533149408530_1816512016286874",
        "error": null,
        "last_attempt": "2026-11-27T22:44:53+04:00",
        "mode": "immediate",
        "photo_id": "122123533125408530",
        "post_id": "1176150818923548_122123533149408530",
-       "status": "published"
+       "status": "done"
       },
       "1177965172074691": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137077279399095_985390934260003",
        "error": null,
        "last_attempt": "2026-11-27T22:46:36+04:00",
        "mode": "immediate",
        "photo_id": "122137077255399095",
        "post_id": "1177965172074691_122137077279399095",
-       "status": "published"
+       "status": "done"
       },
       "1202025962997153": {
        "attempts": 1,
@@ -16464,12 +16484,14 @@
       },
       "1209115882290937": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132219469402388_2644544829395150",
        "error": null,
        "last_attempt": "2026-11-27T22:43:44+04:00",
        "mode": "immediate",
        "photo_id": "122132219445402388",
        "post_id": "1209115882290937_122132219469402388",
-       "status": "published"
+       "status": "done"
       },
       "1250374694822508": {
        "attempts": 1,
@@ -16495,39 +16517,47 @@
       },
       "1273732202484347": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118644829408219_1812758329994681",
        "error": null,
        "last_attempt": "2026-11-27T22:45:27+04:00",
        "mode": "immediate",
        "photo_id": "122118644805408219",
        "post_id": "1273732202484347_122118644829408219",
-       "status": "published"
+       "status": "done"
       },
       "1280413955154689": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131251369425731_1737696031300993",
        "error": null,
        "last_attempt": "2026-11-27T22:43:10+04:00",
        "mode": "immediate",
        "photo_id": "122131251345425731",
        "post_id": "1280413955154689_122131251369425731",
-       "status": "published"
+       "status": "done"
       },
       "1294138050440994": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122129221953441481_1139933921959719",
        "error": null,
        "last_attempt": "2026-11-27T22:44:19+04:00",
        "mode": "immediate",
        "photo_id": "122129221929441481",
        "post_id": "1294138050440994_122129221953441481",
-       "status": "published"
+       "status": "done"
       },
       "1333347143189157": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138970417395535_1178594307955233",
        "error": null,
        "last_attempt": "2026-11-27T22:46:01+04:00",
        "mode": "immediate",
        "photo_id": "122138970393395535",
        "post_id": "1333347143189157_122138970417395535",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ma fille trisomique m'a suppliée de venir la chercher à sa première fête d'école : ce que sa maîtresse lui avait dit m'a glacé le sang",
