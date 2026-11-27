@@ -17267,57 +17267,69 @@
      "pages": {
       "1028186380387490": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121824721321332_1791760048570325",
        "error": null,
        "last_attempt": "2026-11-27T22:47:05+04:00",
        "mode": "immediate",
        "photo_id": "122121824697321332",
        "post_id": "1028186380387490_122121824721321332",
-       "status": "published"
+       "status": "done"
       },
       "1028964020310052": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133649911310273_2229316588009800",
        "error": null,
        "last_attempt": "2026-11-27T22:45:21+04:00",
        "mode": "immediate",
        "photo_id": "122133649887310273",
        "post_id": "1028964020310052_122133649911310273",
-       "status": "published"
+       "status": "done"
       },
       "1089186904280406": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122131360005321366_1538255158144049",
        "error": null,
        "last_attempt": "2026-11-27T22:45:56+04:00",
        "mode": "immediate",
        "photo_id": "122131359969321366",
        "post_id": "1089186904280406_122131360005321366",
-       "status": "published"
+       "status": "done"
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128770399309032_1405398861413106",
        "error": null,
        "last_attempt": "2026-11-27T22:44:13+04:00",
        "mode": "immediate",
        "photo_id": "122128770375309032",
        "post_id": "1102464712951594_122128770399309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126849013316035_1882493379609628",
        "error": null,
        "last_attempt": "2026-11-27T22:44:48+04:00",
        "mode": "immediate",
        "photo_id": "122126848989316035",
        "post_id": "1129908326870761_122126849013316035",
-       "status": "published"
+       "status": "done"
       },
       "1174913505713830": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136230247399122_1825852478562615",
        "error": null,
        "last_attempt": "2026-11-27T22:46:31+04:00",
        "mode": "immediate",
        "photo_id": "122136230223399122",
        "post_id": "1174913505713830_122136230247399122",
-       "status": "published"
+       "status": "done"
       },
       "1208422892355505": {
        "attempts": 1,
@@ -17333,30 +17345,35 @@
       "1268633826332790": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122135698899436382_1462908902715537",
        "error": null,
        "last_attempt": "2026-11-27T22:43:38+04:00",
        "mode": "immediate",
        "photo_id": "122135698875436382",
        "post_id": "1268633826332790_122135698899436382",
-       "status": "published"
+       "status": "done"
       },
       "1284638831394976": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127361593430459_1543534624322766",
        "error": null,
        "last_attempt": "2026-11-27T22:48:15+04:00",
        "mode": "immediate",
        "photo_id": "122127361569430459",
        "post_id": "1284638831394976_122127361593430459",
-       "status": "published"
+       "status": "done"
       },
       "1343243972194882": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134792965427348_1649844790213858",
        "error": null,
        "last_attempt": "2026-11-27T22:47:41+04:00",
        "mode": "immediate",
        "photo_id": "122134792941427348",
        "post_id": "1343243972194882_122134792965427348",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Drei Tage vor der Hochzeit ließ mein Vater mich fallen – doch am Altar wartete ein anderer Vater auf mich",
@@ -17496,54 +17513,65 @@
      "pages": {
       "1138572272664180": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130103245306316_1136939269113410",
        "error": null,
        "last_attempt": "2026-11-27T22:50:02+04:00",
        "mode": "immediate",
        "photo_id": "122130103221306316",
        "post_id": "1138572272664180_122130103245306316",
-       "status": "published"
+       "status": "done"
       },
       "1326260617244165": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122122410033498184_3060046427661302",
        "error": null,
        "last_attempt": "2026-11-27T22:51:11+04:00",
        "mode": "immediate",
        "photo_id": "122122410009498184",
        "post_id": "1326260617244165_122122410033498184",
-       "status": "published"
+       "status": "done"
       },
       "1338630212673029": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122121521061471857_1134362046261394",
        "error": null,
        "last_attempt": "2026-11-27T22:49:25+04:00",
        "mode": "immediate",
        "photo_id": "122121521031471857",
        "post_id": "1338630212673029_122121521061471857",
-       "status": "published"
+       "status": "done"
       },
       "1384241228111675": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122125105221498229_2242438853366497",
        "error": null,
        "last_attempt": "2026-11-27T22:50:37+04:00",
        "mode": "immediate",
        "photo_id": "122125105197498229",
        "post_id": "1384241228111675_122125105221498229",
-       "status": "published"
+       "status": "done"
       },
       "1448441201677530": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122124093441505599_1148428327588139",
        "error": null,
        "last_attempt": "2026-11-27T22:48:50+04:00",
        "mode": "immediate",
        "photo_id": "122124093417505599",
        "post_id": "1448441201677530_122124093441505599",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Meu pai disse que não me levaria ao altar por causa da minha irmã, mas outro pai já esperava para pegar meu braço",
      "warnings": [],
      "wp_error": null,
      "wp_id": 904,
+     "wp_live": true,
      "wp_media_id": 903,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261127-2236-nl.jpg",
      "wp_site": {
@@ -17583,7 +17611,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-2236-nl.jpg"
    },
    "source_key": "post:61574270220252_122139312824809007",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",

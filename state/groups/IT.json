@@ -2943,6 +2943,7 @@
   "122131855299306132": "2026-11-23T14:00:58+00:00",
   "122131856367306132": "2026-11-23T14:13:29+00:00",
   "122131930917306132": "2026-11-24T09:34:35+00:00",
+  "122131931865399398": "2026-11-27T18:57:00+00:00",
   "122131945005306132": "2026-11-24T12:38:46+00:00",
   "122131963203306132": "2026-11-24T16:51:35+00:00",
   "122132023305306132": "2026-11-25T09:53:20+00:00",
@@ -3421,6 +3422,7 @@
   "1240142009184080_122131818315399398": "2026-11-27T08:51:23+00:00",
   "1240142009184080_122131820175399398": "2026-11-27T11:51:02+00:00",
   "1240142009184080_122131820961399398": "2026-11-27T14:51:22+00:00",
+  "1240142009184080_122131931889399398": "2026-11-27T18:57:00+00:00",
   "1266426573217032_122130658893429703": "2026-11-26T13:52:22+00:00",
   "1266426573217032_122130682779429703": "2026-11-26T17:48:18+00:00",
   "1266426573217032_122130708249429703": "2026-11-26T20:14:55+00:00",
@@ -27149,6 +27151,15 @@
        "photo_id": "122146236855392187",
        "post_id": "1220855754440320_122146236879392187",
        "status": "published"
+      },
+      "1240142009184080": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-27T22:56:57+04:00",
+       "mode": "immediate",
+       "photo_id": "122131931865399398",
+       "post_id": "1240142009184080_122131931889399398",
+       "status": "published"
       }
      },
      "title": "Táta dceři řekl, že na plesové šaty nemá. Pak se pochlubil šaty za 600 dolarů pro nevlastní dceru, a babička udělala něco nečekaného",
@@ -27182,30 +27193,36 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134180509302250_2635754703604696",
        "error": null,
        "last_attempt": "2026-11-27T22:44:31+04:00",
        "mode": "immediate",
        "photo_id": "122134180485302250",
        "post_id": "1012250151981057_122134180509302250",
-       "status": "published"
+       "status": "done"
       },
       "1030877436782212": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142406346808945_2248344829423253",
        "error": null,
        "last_attempt": "2026-11-27T22:42:48+04:00",
        "mode": "immediate",
        "photo_id": "122142406322808945",
        "post_id": "1030877436782212_122142406346808945",
-       "status": "published"
+       "status": "done"
       },
       "1064982806700854": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112212456456562_1137392109283617",
        "error": null,
        "last_attempt": "2026-11-27T22:40:30+04:00",
        "mode": "immediate",
        "photo_id": "122112212432456562",
        "post_id": "1064982806700854_122112212456456562",
-       "status": "published"
+       "status": "done"
       },
       "1068567606345452": {
        "attempts": 1,
@@ -27227,12 +27244,14 @@
       },
       "1079964265201139": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122108869244506427_1535566645064772",
        "error": null,
        "last_attempt": "2026-11-27T22:39:55+04:00",
        "mode": "immediate",
        "photo_id": "122108869220506427",
        "post_id": "1079964265201139_122108869244506427",
-       "status": "published"
+       "status": "done"
       },
       "1086658774532679": {
        "attempts": 1,
@@ -27245,12 +27264,14 @@
       },
       "1087342844462554": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122123742609296683_1809735020083727",
        "error": null,
        "last_attempt": "2026-11-27T22:43:55+04:00",
        "mode": "immediate",
        "photo_id": "122123742585296683",
        "post_id": "1087342844462554_122123742609296683",
-       "status": "published"
+       "status": "done"
       },
       "1093003583899107": {
        "attempts": 1,
@@ -27272,12 +27293,14 @@
       },
       "1114015015119414": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142994190811401_1053673401087126",
        "error": null,
        "last_attempt": "2026-11-27T22:42:14+04:00",
        "mode": "immediate",
        "photo_id": "122142994166811401",
        "post_id": "1114015015119414_122142994190811401",
-       "status": "published"
+       "status": "done"
       },
       "1128937866962526": {
        "attempts": 1,
@@ -27290,21 +27313,25 @@
       },
       "1140835409106424": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122111211146543006_1151232834284008",
        "error": null,
        "last_attempt": "2026-11-27T22:41:02+04:00",
        "mode": "immediate",
        "photo_id": "122111211122543006",
        "post_id": "1140835409106424_122111211146543006",
-       "status": "published"
+       "status": "done"
       },
       "1142735408923607": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122140381167311525_1144891504849753",
        "error": null,
        "last_attempt": "2026-11-27T22:38:17+04:00",
        "mode": "immediate",
        "photo_id": "122140381143311525",
        "post_id": "1142735408923607_122140381167311525",
-       "status": "published"
+       "status": "done"
       },
       "1149681171551323": {
        "attempts": 1,
@@ -27335,21 +27362,25 @@
       },
       "1160223747182678": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122139150381400586_2015908422421734",
        "error": null,
        "last_attempt": "2026-11-27T22:38:44+04:00",
        "mode": "immediate",
        "photo_id": "122139150357400586",
        "post_id": "1160223747182678_122139150381400586",
-       "status": "published"
+       "status": "done"
       },
       "1160240797163045": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130261111300955_1773540377075677",
        "error": null,
        "last_attempt": "2026-11-27T22:43:21+04:00",
        "mode": "immediate",
        "photo_id": "122130261087300955",
        "post_id": "1160240797163045_122130261111300955",
-       "status": "published"
+       "status": "done"
       },
       "1163062863564866": {
        "attempts": 1,
@@ -27371,12 +27402,14 @@
       },
       "1191480207389219": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127296781405175_1472357508364313",
        "error": null,
        "last_attempt": "2026-11-27T22:41:39+04:00",
        "mode": "immediate",
        "photo_id": "122127296757405175",
        "post_id": "1191480207389219_122127296781405175",
-       "status": "published"
+       "status": "done"
       },
       "1212646305268160": {
        "attempts": 1,
@@ -27416,18 +27449,21 @@
       },
       "997772916762884": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113700660437662_1538369465008981",
        "error": null,
        "last_attempt": "2026-11-27T22:39:20+04:00",
        "mode": "immediate",
        "photo_id": "122113700636437662",
        "post_id": "997772916762884_122113700660437662",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Il papà le disse che non poteva pagarle il vestito del ballo, ma quella sera postò l'abito da 600 dollari della figliastra: allora sua nonna fece una cosa che nessuno si aspettava",
      "warnings": [],
      "wp_error": null,
      "wp_id": 1381,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "NL": {

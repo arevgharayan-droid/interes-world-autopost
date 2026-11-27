@@ -27029,30 +27029,36 @@
       },
       "1038143956055997": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122113695050600554_1491232199613822",
        "error": null,
        "last_attempt": "2026-11-27T22:44:25+04:00",
        "mode": "immediate",
        "photo_id": "122113695026600554",
        "post_id": "1038143956055997_122113695050600554",
-       "status": "published"
+       "status": "done"
       },
       "1042837395585806": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122118099662623459_2453331265070878",
        "error": null,
        "last_attempt": "2026-11-27T22:43:15+04:00",
        "mode": "immediate",
        "photo_id": "122118099632623459",
        "post_id": "1042837395585806_122118099662623459",
-       "status": "published"
+       "status": "done"
       },
       "1051766924693580": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137999340733379_2220855062114280",
        "error": null,
        "last_attempt": "2026-11-27T22:44:59+04:00",
        "mode": "immediate",
        "photo_id": "122137999316733379",
        "post_id": "1051766924693580_122137999340733379",
-       "status": "published"
+       "status": "done"
       },
       "1053133077892078": {
        "attempts": 1,
@@ -27065,12 +27071,14 @@
       },
       "1066862079844179": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112579134596942_1638200860778812",
        "error": null,
        "last_attempt": "2026-11-27T22:46:06+04:00",
        "mode": "immediate",
        "photo_id": "122112579110596942",
        "post_id": "1066862079844179_122112579134596942",
-       "status": "published"
+       "status": "done"
       },
       "1069814529551887": {
        "attempts": 1,
@@ -27101,21 +27109,25 @@
       },
       "1084212424777390": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138540067300832_1451653837135487",
        "error": null,
        "last_attempt": "2026-11-27T22:40:57+04:00",
        "mode": "immediate",
        "photo_id": "122138540043300832",
        "post_id": "1084212424777390_122138540067300832",
-       "status": "published"
+       "status": "done"
       },
       "1092061600653020": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122112327980588206_2592996271221223",
        "error": null,
        "last_attempt": "2026-11-27T22:43:50+04:00",
        "mode": "immediate",
        "photo_id": "122112327956588206",
        "post_id": "1092061600653020_122112327980588206",
-       "status": "published"
+       "status": "done"
       },
       "1097710383424105": {
        "attempts": 1,
@@ -27137,57 +27149,69 @@
       },
       "1113548795169055": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122143483178773833_1447220684244214",
        "error": null,
        "last_attempt": "2026-11-27T22:41:32+04:00",
        "mode": "immediate",
        "photo_id": "122143483154773833",
        "post_id": "1113548795169055_122143483178773833",
-       "status": "published"
+       "status": "done"
       },
       "1117846738074068": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137033425311273_909598335508212",
        "error": null,
        "last_attempt": "2026-11-27T22:42:08+04:00",
        "mode": "immediate",
        "photo_id": "122137033401311273",
        "post_id": "1117846738074068_122137033425311273",
-       "status": "published"
+       "status": "done"
       },
       "1118090254718709": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122104014860556634_4619789388294520",
        "error": null,
        "last_attempt": "2026-11-27T22:46:42+04:00",
        "mode": "immediate",
        "photo_id": "122104014836556634",
        "post_id": "1118090254718709_122104014860556634",
-       "status": "published"
+       "status": "done"
       },
       "1125468037313193": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122120842269295429_1613519650050217",
        "error": null,
        "last_attempt": "2026-11-27T22:42:42+04:00",
        "mode": "immediate",
        "photo_id": "122120842245295429",
        "post_id": "1125468037313193_122120842269295429",
-       "status": "published"
+       "status": "done"
       },
       "1125676667286378": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122142345434737651_2554062385081141",
        "error": null,
        "last_attempt": "2026-11-27T22:40:24+04:00",
        "mode": "immediate",
        "photo_id": "122142345410737651",
        "post_id": "1125676667286378_122142345434737651",
-       "status": "published"
+       "status": "done"
       },
       "1146158698570676": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130974613300293_29720875420906625",
        "error": null,
        "last_attempt": "2026-11-27T22:45:33+04:00",
        "mode": "immediate",
        "photo_id": "122130974589300293",
        "post_id": "1146158698570676_122130974613300293",
-       "status": "published"
+       "status": "done"
       },
       "1167733113080371": {
        "attempts": 1,
@@ -27200,12 +27224,14 @@
       },
       "988042774402200": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137150352733774_1667944918067553",
        "error": null,
        "last_attempt": "2026-11-27T22:39:49+04:00",
        "mode": "immediate",
        "photo_id": "122137150328733774",
        "post_id": "988042774402200_122137150352733774",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Мама погибла в Афганистане, обещав прийти на мою свадьбу в красном платье, и в день свадьбы её друг Даниэль пришёл в красном, а потом шепнул про конверт",
