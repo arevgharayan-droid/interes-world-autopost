@@ -17816,12 +17816,13 @@
       "1180417388497186": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122132389251424769_1455099166793668",
        "error": null,
        "last_attempt": "2026-11-28T01:22:41+04:00",
        "mode": "immediate",
        "photo_id": "122132389227424769",
        "post_id": "1180417388497186_122132389251424769",
-       "status": "published"
+       "status": "done"
       },
       "1205543595981082": {
        "attempts": 1,
