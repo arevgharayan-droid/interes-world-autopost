@@ -27749,6 +27749,7 @@
      "pages": {
       "1012250151981057": {
        "attempts": 1,
+       "comment_attempts": 1,
        "error": null,
        "last_attempt": "2026-11-28T01:25:48+04:00",
        "mode": "immediate",
