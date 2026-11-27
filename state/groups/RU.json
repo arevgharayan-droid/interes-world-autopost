@@ -142,7 +142,6 @@
   "bd3dd864aeb563b3def7": "2026-11-17T10:39:05+00:00",
   "bd79d7f5837e5c310fd3": "2026-11-22T21:54:31+00:00",
   "be23e984142f21e3c44a": "2026-11-14T19:42:40+00:00",
-  "be38faec6f9e0849079a": "2026-11-13T10:15:12+00:00",
   "bfb817244f318e72fc69": "2026-11-16T19:28:42+00:00",
   "c002b9f1667057394388": "2026-11-21T19:44:41+00:00",
   "c05aa08deef8d17993ed": "2026-11-17T20:47:52+00:00",
@@ -161,7 +160,6 @@
   "e1b27c7dab073d04d921": "2026-11-16T00:18:30+00:00",
   "e26b5141912c04614a1c": "2026-11-25T18:00:40+00:00",
   "e2c20d44594b3299e323": "2026-11-20T14:41:36+00:00",
-  "e2f11ad134f9c6c0943e": "2026-11-13T10:15:12+00:00",
   "e4c3b6193a5b35d09d06": "2026-11-19T17:35:44+00:00",
   "e4f444f1bf6288cdb116": "2026-11-19T10:26:47+00:00",
   "e53482ea7556e3ad83e6": "2026-11-19T08:31:53+00:00",
@@ -177,8 +175,7 @@
   "f409314ee4c8e226005b": "2026-11-23T13:59:07+00:00",
   "f4fbb08e36886ae63dd0": "2026-11-18T15:24:43+00:00",
   "fce71eb87e3059b51d18": "2026-11-24T16:42:26+00:00",
-  "fd001cca1ab813e243a7": "2026-11-24T16:42:26+00:00",
-  "fd395eead654da158a14": "2026-11-13T10:15:12+00:00"
+  "fd001cca1ab813e243a7": "2026-11-24T16:42:26+00:00"
  },
  "outputs": {
   "1003672546173662_122114814506602036": "2026-11-26T08:37:01+00:00",
@@ -189,7 +186,6 @@
   "1003672546173662_122114889794602036": "2026-11-27T08:36:41+00:00",
   "1003672546173662_122114890214602036": "2026-11-27T11:36:31+00:00",
   "1003672546173662_122114890508602036": "2026-11-26T22:44:10+00:00",
-  "1008693642337213_122118306632640467": "2026-11-13T11:07:33+00:00",
   "1008693642337213_122118321224640467": "2026-11-13T14:37:45+00:00",
   "1008693642337213_122118398144640467": "2026-11-14T20:00:18+00:00",
   "1008693642337213_122118434312640467": "2026-11-15T11:02:09+00:00",
@@ -1227,7 +1223,6 @@
   "1125468037313193_122120769627295429": "2026-11-27T08:47:20+00:00",
   "1125468037313193_122120770113295429": "2026-11-27T11:46:51+00:00",
   "1125468037313193_122120770623295429": "2026-11-26T22:40:18+00:00",
-  "1125676667286378_122140117040737651": "2026-11-13T11:07:39+00:00",
   "1125676667286378_122140152890737651": "2026-11-13T14:37:52+00:00",
   "1125676667286378_122140302908737651": "2026-11-14T20:00:54+00:00",
   "1125676667286378_122140389386737651": "2026-11-15T20:09:39+00:00",
@@ -1287,7 +1282,6 @@
   "1125676667286378_122142216146737651": "2026-11-27T08:47:43+00:00",
   "1125676667286378_122142217754737651": "2026-11-27T11:47:14+00:00",
   "1125676667286378_122142218828737651": "2026-11-26T22:39:03+00:00",
-  "1129620776897151_122127591657311884": "2026-11-13T11:07:51+00:00",
   "1129620776897151_122127612507311884": "2026-11-13T14:37:55+00:00",
   "1129620776897151_122127734751311884": "2026-11-14T20:01:58+00:00",
   "1129620776897151_122127790035311884": "2026-11-16T00:16:16+00:00",
@@ -1455,7 +1449,6 @@
   "1157031800834413_122141676189400989": "2026-11-27T08:49:43+00:00",
   "1157031800834413_122141678109400989": "2026-11-27T11:49:15+00:00",
   "1157031800834413_122141678967400989": "2026-11-26T22:45:55+00:00",
-  "1164575726728296_122126773779307134": "2026-11-13T11:07:55+00:00",
   "1164575726728296_122126799639307134": "2026-11-13T14:37:59+00:00",
   "1164575726728296_122126882319307134": "2026-11-14T10:23:11+00:00",
   "1164575726728296_122126882463307134": "2026-11-14T14:06:29+00:00",
@@ -1867,7 +1860,6 @@
   "122114889758602036": "2026-11-26T22:17:38+00:00",
   "122114890184602036": "2026-11-26T22:34:00+00:00",
   "122114890478602036": "2026-11-26T22:44:10+00:00",
-  "122116587369471857": "2026-11-13T10:15:51+00:00",
   "122116702713471857": "2026-11-13T14:38:06+00:00",
   "122116994102343996": "2026-11-16T17:08:47+00:00",
   "122117001146343996": "2026-11-16T19:40:40+00:00",
@@ -1994,7 +1986,6 @@
   "122118189237471857": "2026-11-17T18:00:09+00:00",
   "122118194487471857": "2026-11-17T18:23:51+00:00",
   "122118227337471857": "2026-11-17T20:58:48+00:00",
-  "122118306602640467": "2026-11-13T10:15:20+00:00",
   "122118321194640467": "2026-11-13T14:37:45+00:00",
   "122118358683471857": "2026-11-18T09:08:42+00:00",
   "122118398114640467": "2026-11-14T19:42:49+00:00",
@@ -2110,7 +2101,6 @@
   "122119636286628634": "2026-11-24T12:39:55+00:00",
   "122119651328628634": "2026-11-24T16:53:10+00:00",
   "122119664601471857": "2026-11-21T17:20:39+00:00",
-  "122119665735505599": "2026-11-13T10:15:46+00:00",
   "122119697384628634": "2026-11-25T09:54:35+00:00",
   "122119700294642087": "2026-11-16T17:08:54+00:00",
   "122119706186628634": "2026-11-25T11:54:48+00:00",
@@ -2517,7 +2507,6 @@
   "122125702401304633": "2026-11-26T22:19:47+00:00",
   "122125702941304633": "2026-11-26T22:35:33+00:00",
   "122125703517304633": "2026-11-26T22:45:18+00:00",
-  "122126773749307134": "2026-11-13T10:15:41+00:00",
   "122126799609307134": "2026-11-13T14:37:59+00:00",
   "122126882295307134": "2026-11-14T10:23:11+00:00",
   "122126882433307134": "2026-11-14T10:23:49+00:00",
@@ -2565,7 +2554,6 @@
   "122127543081303687": "2026-11-19T17:43:34+00:00",
   "122127551421303687": "2026-11-19T20:07:29+00:00",
   "122127557985303687": "2026-11-19T22:10:08+00:00",
-  "122127591627311884": "2026-11-13T10:15:36+00:00",
   "122127612477311884": "2026-11-13T14:37:55+00:00",
   "122127616773303687": "2026-11-20T14:55:27+00:00",
   "122127622245307134": "2026-11-20T14:56:20+00:00",
@@ -2853,7 +2841,6 @@
   "122135086239300832": "2026-11-16T19:31:28+00:00",
   "122135089371300832": "2026-11-16T20:31:00+00:00",
   "122135098611300832": "2026-11-16T23:54:33+00:00",
-  "122135225810733774": "2026-11-13T10:15:26+00:00",
   "122135253387300832": "2026-11-17T10:41:18+00:00",
   "122135253536733774": "2026-11-13T14:37:49+00:00",
   "122135264217300832": "2026-11-17T12:31:55+00:00",
@@ -3069,7 +3056,6 @@
   "122137936965300832": "2026-11-26T22:06:53+00:00",
   "122137938309300832": "2026-11-26T22:24:36+00:00",
   "122137939107300832": "2026-11-26T22:39:28+00:00",
-  "122140117010737651": "2026-11-13T10:15:32+00:00",
   "122140152860737651": "2026-11-13T14:37:52+00:00",
   "122140302878737651": "2026-11-14T19:43:08+00:00",
   "122140389356737651": "2026-11-15T10:28:24+00:00",
@@ -3252,7 +3238,6 @@
   "122147889963384851": "2026-11-26T22:21:30+00:00",
   "122147891415384851": "2026-11-26T22:36:38+00:00",
   "122147891895384851": "2026-11-26T22:46:10+00:00",
-  "1338630212673029_122116587399471857": "2026-11-13T11:07:59+00:00",
   "1338630212673029_122116702743471857": "2026-11-13T14:38:06+00:00",
   "1338630212673029_122117020593471857": "2026-11-14T10:23:20+00:00",
   "1338630212673029_122117020965471857": "2026-11-14T14:06:39+00:00",
@@ -3308,7 +3293,6 @@
   "1338630212673029_122120795931471857": "2026-11-25T14:48:05+00:00",
   "1338630212673029_122120842671471857": "2026-11-25T18:17:00+00:00",
   "1338630212673029_122120863191471857": "2026-11-25T20:24:53+00:00",
-  "1448441201677530_122119665765505599": "2026-11-13T11:08:03+00:00",
   "1448441201677530_122119763757505599": "2026-11-13T14:38:01+00:00",
   "1448441201677530_122120175579505599": "2026-11-14T19:43:29+00:00",
   "1448441201677530_122120345367505599": "2026-11-15T10:37:37+00:00",
@@ -3358,7 +3342,6 @@
   "1448441201677530_122123513733505599": "2026-11-25T14:48:08+00:00",
   "1448441201677530_122123560257505599": "2026-11-25T18:16:37+00:00",
   "1448441201677530_122123586267505599": "2026-11-25T20:24:40+00:00",
-  "988042774402200_122135225846733774": "2026-11-13T11:07:43+00:00",
   "988042774402200_122135253566733774": "2026-11-13T14:37:49+00:00",
   "988042774402200_122135404220733774": "2026-11-14T20:01:23+00:00",
   "988042774402200_122135483204733774": "2026-11-16T00:16:44+00:00",
@@ -3418,167 +3401,6 @@
   "988042774402200_122137043294733774": "2026-11-26T22:38:41+00:00"
  },
  "slots": {
-  "2026-11-13 15:00": {
-   "langs": {
-    "DE": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "нет подключённых страниц"
-    },
-    "PT": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1338630212673029": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122116587399471857_1485018573487508",
-       "error": null,
-       "last_attempt": "2026-11-13T14:15:46+04:00",
-       "mode": "schedule",
-       "photo_id": "122116587369471857",
-       "post_id": "1338630212673029_122116587399471857",
-       "status": "done"
-      },
-      "1448441201677530": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122119665765505599_2585050388669601",
-       "error": null,
-       "last_attempt": "2026-11-13T14:15:41+04:00",
-       "mode": "schedule",
-       "photo_id": "122119665735505599",
-       "post_id": "1448441201677530_122119665765505599",
-       "status": "done"
-      }
-     },
-     "title": "Gastei 86 mil dólares num bracelete para a amante enquanto minha esposa lutava para sobreviver à pior nevasca do Colorado em 32 anos — e eu tinha desligado o telefone que ela não parava de ligar",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 175,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "RU": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122118306632640467_1393009775987017",
-       "error": null,
-       "last_attempt": "2026-11-13T14:15:17+04:00",
-       "mode": "schedule",
-       "photo_id": "122118306602640467",
-       "post_id": "1008693642337213_122118306632640467",
-       "status": "done"
-      },
-      "1125676667286378": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122140117040737651_5581516662073367",
-       "error": null,
-       "last_attempt": "2026-11-13T14:15:26+04:00",
-       "mode": "schedule",
-       "photo_id": "122140117010737651",
-       "post_id": "1125676667286378_122140117040737651",
-       "status": "done"
-      },
-      "988042774402200": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122135225846733774_1495979979120143",
-       "error": null,
-       "last_attempt": "2026-11-13T14:15:21+04:00",
-       "mode": "schedule",
-       "photo_id": "122135225810733774",
-       "post_id": "988042774402200_122135225846733774",
-       "status": "done"
-      }
-     },
-     "title": "Он выключил телефон ради браслета за $86 000, пока жена боролась за жизнь в метель, а потом услышал её последнюю запись",
-     "warnings": [],
-     "wp_error": null,
-     "wp_id": 173,
-     "wp_live": true,
-     "wp_status": "future"
-    },
-    "TR": {
-     "backend": "subscription",
-     "gen_error": null,
-     "generated": true,
-     "pages": {
-      "1129620776897151": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122127591657311884_1696867902020227",
-       "error": null,
-       "last_attempt": "2026-11-13T14:15:32+04:00",
-       "mode": "schedule",
-       "photo_id": "122127591627311884",
-       "post_id": "1129620776897151_122127591657311884",
-       "status": "done"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122126773779307134_1869212171166569",
-       "error": null,
-       "last_attempt": "2026-11-13T14:15:36+04:00",
-       "mode": "schedule",
-       "photo_id": "122126773749307134",
-       "post_id": "1164575726728296_122126773779307134",
-       "status": "done"
-      }
-     },
-     "title": "Karım Colorado'daki kar fırtınasında ölümle savaşırken ben metresime 86.000 dolarlık bileklik alıyordum",
-     "warnings": [
-      "длина текста FB 608 слов (исходник 725, цель ±10%)"
-     ],
-     "wp_error": null,
-     "wp_id": 174,
-     "wp_live": true,
-     "wp_status": "future"
-    }
-   },
-   "prepared": true,
-   "slot_iso": "2026-11-13T15:00:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/845363607_122131115853339253_4788742773186504706_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Txtk8_IqPZMQ7kNvwFUdkZU&_nc_oc=AdrUtiMje-GCYAFq_L6aq6jayq3lJUDhOuFX3weNK5l7Db0leLPUd1BqxtUg1T0cdy0&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=pEHqHHHFRvr_u34eJ_-4Fw&_nc_tpa=Q5bMBQLxKrOYOEvRr1IVwTOibi52p5x_dSzjgtdqYa_VwnQ038ZXIBRX2Lpj_1XnbuKdGLt_hW9aMjJadw&oh=00_AQQgsAUfW8CaFdyIIZG-hHEGTeIWQJSU_bKctO79_RDItw&oe=6AFCA585",
-    "link": "https://www.facebook.com/share/p/17s8jDZDpe/",
-    "origin": "manual",
-    "page_id": "61590177596600",
-    "text": "I spent $86,000 on a diamond bracelet for my mistress while my wife was fighting to survive Colorado's worst blizzard in 32 years—and I had switched off the phone she kept calling. Four days later, I turned it on to 47 missed calls, 19 voicemails, six emergency emails, and a headline declaring Clara missing. Why had she gone alone to the mountain where I'd once promised her forever?\n\nI was Ethan Black, a billionaire real estate developer who thought money could keep the consequences of my choices at a distance.\n\nFor eleven years, Clara had been my wife. For eight months, Sophia Lane had been my secret. I told myself I could keep both women, as if neither deserved the truth.\n\nClara already knew.\n\nThree months earlier, she'd discovered a Miami hotel receipt, photographs from Rome, and the Manhattan apartment I'd rented for Sophia. She didn't confront me. She watched me become a stranger in our marriage. I mistook her silence for permission to continue. It never occurred to me that someone could stop arguing because she was quietly deciding whether to stay.\n\nThree days before I left, she stood before me and asked, “Please, Ethan. Just this weekend.”\n\n“I have meetings in Singapore, then the Maldives.”\n\n“With Sophia?” Her voice was barely audible.\n\n“Stop interrogating me.”\n\nClara stared at me, then lowered her eyes.\n\n“Never mind.”\n\nI didn't understand that those two words could be a goodbye. I walked away believing I'd won another argument, without wondering why she no longer seemed interested in winning it.\n\nIn the Maldives, Sophia and I drank champagne in an oceanfront villa and celebrated her birthday. I bought her the bracelet. When Clara called twelve times that first night, Sophia placed her hand over my phone.\n\n“You promised these four days were ours.”\n\nI looked at the screen, annoyed that my wife wouldn't leave me alone.\n\n“I'm busy. Stop bothering me over little things.”\n\nThat was the last message I sent Clara before turning my phone off.\n\nWhile I admired the ocean, she was alone in Colorado, at the place where I'd proposed eleven years before. She'd rented a remote mountain cabin, carrying unsigned divorce papers in her suitcase. She'd gone there to decide whether there was anything left of us worth saving.\n\nThen the storm changed direction.\n\nAt 2:14 a.m., an avalanche damaged the cabin. Clara was injured, without power, stranded in temperatures that could kill her.\n\nBefore her phone died, she recorded a video.\n\nEleven minutes and forty-three seconds.\n\nThe title was “For Ethan.”\n\nFour days later, rescuers recovered her backpack, and the recording synced to our shared account. After flying back to Colorado, I pressed play. I expected blame. I might even have preferred it, because I knew how to defend myself against an accusation. I had no defense for what I saw.\n\nBlood had dried against Clara's temple. Her voice sounded thin, but I recognized the way she tried to hold it steady.\n\n“Ethan, I've called you seventeen times. I kept thinking you'd answer the next one.”\n\nI gripped the phone.\n\n“I know about Sophia. Miami. Rome. Manhattan. Even the bracelet.”\n\nShe lifted the divorce papers into view.\n\n“I came here to decide whether to leave you. But part of me still hoped you'd remember what today was.”\n\nI checked the date.\n\nOur eleventh wedding anniversary.\n\n“Eleven years ago, you promised that if I ever got lost in the snow, you'd search until you couldn't stand anymore.”\n\nShe wiped her face.\n\n“I'm not waiting for you anymore.”\n\nThe screen went black.\n\nOn the fifth day, rescuers found Clara alive in an abandoned maintenance station almost six miles from the cabin. She had a broken leg and severe hypothermia.\n\nI ran toward the rescue vehicle, calling her name.\n\nShe opened her eyes.\n\n“When did you find out I was missing?”\n\nI couldn't speak.\n\n“Today?”\n\nMy silence answered.\n\nThen a rescue worker approached with a sealed plastic evidence bag. Inside was Clara's damaged phone.\n\n“Mr. Black, there's something else your wife recorded before we found her.”\n\nClara grabbed his wrist.\n\n“Please,” she whispered, looking straight at me. “Don't let him see that one.”\n\n…FULL STORY IN THE COMMENT 👇👇👇",
-    "wp_media_id": 172,
-    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-1500-ru.jpg"
-   },
-   "source_key": "post:61590177596600_122131115925339253",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
-    "key_secret": "WP_API_KEY",
-    "url": "https://peakproductions.co",
-    "wp_auth": "make_connector"
-   }
-  },
   "2026-11-13 18:00": {
    "langs": {},
    "slot_iso": "2026-11-13T18:00:00+04:00",
