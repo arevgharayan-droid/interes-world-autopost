@@ -15275,12 +15275,13 @@
       "892503027289970": {
        "attempts": 1,
        "comment_attempts": 1,
-       "error": "комментарий: FB 2/None: An unexpected error has occurred. Please retry your request later.",
+       "comment_id": "122144345355219808_1611107390330861",
+       "error": null,
        "last_attempt": "2026-11-27T02:26:48+04:00",
        "mode": "schedule",
        "photo_id": "122144345325219808",
        "post_id": "892503027289970_122144345355219808",
-       "status": "published"
+       "status": "done"
       },
       "994273113779575": {
        "attempts": 1,
@@ -15354,7 +15355,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261127-1800-en2.jpg"
    },
    "source_key": "post:100059505912199_1511851987474984",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
