@@ -17374,7 +17374,18 @@
      "title": "تركوني أنجب توأمي وحدي ليحتفلوا بطفل عشيقته، فكان اتصال واحد بجدي المليارديرمحا كل شيء",
      "warnings": [
       "длина текста FB 635 слов (исходник 958, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 924,
+     "wp_media_id": 921,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1200-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "future"
     },
     "CS": {
      "pages": {},
@@ -17441,6 +17452,8 @@
      "pages": {},
      "title": "Îl năștea pe cei doi gemeni singură, în timp ce soțul ei sărbătorea ziua copilului amantei. Un singur telefon către bunicul miliardar a schimbat totul",
      "warnings": [],
+     "wp_error": null,
+     "wp_id": 923,
      "wp_media_id": 921,
      "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1200-fr.jpg",
      "wp_site": {
@@ -17448,7 +17461,8 @@
       "key_secret": "WP_API_KEY",
       "url": "https://peakproductions.co",
       "wp_auth": "make_connector"
-     }
+     },
+     "wp_status": "future"
     },
     "RU": {
      "pages": {},
@@ -17463,6 +17477,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-28T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/923007408_122128171275337152_4216164073806336279_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uAXVw6HcUvkQ7kNvwHhXeNy&_nc_oc=AdpnIin8sMjkwI9Mysfw7rL8zdDUnozVK3O_PflbNLs5jKjjAoi07t_DElbtD4p6pKc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=kFb2b4T-Dt3dHqPbWUyfBQ&_nc_tpa=Q5bMBQJBIL8U84Cj0qV5DS0s2AmbxNaL9sclRKXlyv6Bi93gdc1WgpZbTEUN-rGwd7qi55A1mHpEy0uoeQ&oh=00_AQWsIaU_vhZSXN7ZxONdRJ9ZNkNdpMq8rLjYb180w_YgUA&oe=6B0FC9EF",
@@ -17474,7 +17489,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-1200-fr.jpg"
    },
    "source_key": "post:61590114583400_122128222143337152",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -18730,7 +18745,7 @@
    "origin": "manual",
    "page_id": "61590114583400",
    "slot": "2026-11-28 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590177596600_122130279231339253": {
    "fingerprint": "ec29f1d20c896b9fdddb",
