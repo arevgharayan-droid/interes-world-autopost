@@ -17713,12 +17713,14 @@
       },
       "1102464712951594": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128778979309032_1102798762736957",
        "error": null,
        "last_attempt": "2026-11-28T01:25:01+04:00",
        "mode": "immediate",
        "photo_id": "122128778955309032",
        "post_id": "1102464712951594_122128778979309032",
-       "status": "published"
+       "status": "done"
       },
       "1129908326870761": {
        "attempts": 1,
@@ -17740,21 +17742,25 @@
       },
       "1208422892355505": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122133093741418602_2590697388411669",
        "error": null,
        "last_attempt": "2026-11-28T01:23:52+04:00",
        "mode": "immediate",
        "photo_id": "122133093711418602",
        "post_id": "1208422892355505_122133093741418602",
-       "status": "published"
+       "status": "done"
       },
       "1268633826332790": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122135718855436382_1470207048533429",
        "error": null,
        "last_attempt": "2026-11-28T01:24:25+04:00",
        "mode": "immediate",
        "photo_id": "122135718831436382",
        "post_id": "1268633826332790_122135718855436382",
-       "status": "published"
+       "status": "done"
       },
       "1284638831394976": {
        "attempts": 1,
@@ -17779,6 +17785,7 @@
      "warnings": [],
      "wp_error": null,
      "wp_id": 1395,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "EN": {
@@ -17859,12 +17866,14 @@
       },
       "1247269808471997": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122130905871430469_1140516638689679",
        "error": null,
        "last_attempt": "2026-11-28T01:23:17+04:00",
        "mode": "immediate",
        "photo_id": "122130905847430469",
        "post_id": "1247269808471997_122130905871430469",
-       "status": "published"
+       "status": "done"
       },
       "633031599904551": {
        "attempts": 1,
