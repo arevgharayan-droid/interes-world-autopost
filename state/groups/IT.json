@@ -28389,7 +28389,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1142735408923607": {
+       "attempts": 1,
+       "last_attempt": "2026-11-28T15:42:01+04:00",
+       "mode": "immediate",
+       "status": "sending"
+      }
+     },
      "title": "Mi credevano in punto di morte: dal letto d'ospedale ho sentito mio marito e mia suocera spartirsi la mia casa e la mia vita",
      "warnings": [],
      "wp_error": null,

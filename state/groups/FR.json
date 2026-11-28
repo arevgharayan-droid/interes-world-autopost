@@ -9,6 +9,7 @@
   "0dd7828291d778501a87": "2026-11-26T22:42:47+00:00",
   "0df99e0ea1695c4c7515": "2026-11-27T21:19:29+00:00",
   "0eae76a4b0a9fac31d88": "2026-11-22T19:48:31+00:00",
+  "14dda820285a59534161": "2026-11-28T11:41:58+00:00",
   "15db7f5bef45fafd3307": "2026-11-19T22:00:40+00:00",
   "19399b13f5fef4f2b2c6": "2026-11-27T18:38:11+00:00",
   "1de1978484aefe0b2b8a": "2026-11-14T11:39:11+00:00",
@@ -37,7 +38,9 @@
   "5ab282188a43a0bea01f": "2026-11-15T10:15:10+00:00",
   "5d67279da1e3d48db9cd": "2026-11-16T00:18:23+00:00",
   "60b8bc5d4883ae07228a": "2026-11-26T09:51:07+00:00",
+  "63e40831ef6646675ba8": "2026-11-28T11:41:58+00:00",
   "676a53f37d08a3f7dca8": "2026-11-25T22:46:12+00:00",
+  "68940a483378bb93e2bd": "2026-11-28T11:41:58+00:00",
   "69c3ac847b66c7a0472e": "2026-11-17T17:51:44+00:00",
   "6bc11208f1f5019dd4b9": "2026-11-25T18:00:28+00:00",
   "6d1360b71c35b272374f": "2026-11-21T14:12:53+00:00",
@@ -89,6 +92,7 @@
   "e74c48d9805792066531": "2026-11-23T13:49:24+00:00",
   "e82685e0d4983bf07b71": "2026-11-26T09:51:07+00:00",
   "eabd0063f91781146a3d": "2026-11-16T23:51:06+00:00",
+  "edc03ecd19e4df47fcac": "2026-11-28T11:41:58+00:00",
   "eedeb2476364b2162ac5": "2026-11-18T22:49:38+00:00",
   "f0de6209bc2c04ae4ddf": "2026-11-22T21:25:14+00:00",
   "f1eac39b188c6beb54d1": "2026-11-27T18:38:11+00:00",
@@ -17882,7 +17886,121 @@
   },
   "2026-11-28 15:40": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "قبل حرق جثمان زوجي بدقائق اتصل بي رجل مجهول وقال: افتحي التابوت وانظري إلى يده اليسرى",
+     "warnings": [
+      "длина текста FB 625 слов (исходник 896, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 941,
+     "wp_media_id": 938,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1540-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Me llamó un desconocido el día de la cremación de mi esposo: «Mire su mano izquierda». Cuando abrí el ataúd, mi nuera palideció",
+     "warnings": [
+      "длина текста FB 688 слов (исходник 896, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 939,
+     "wp_media_id": 938,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1540-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Le jour de la crémation de mon mari, un inconnu m'a appelée : « Regardez sa main gauche » – ce que j'ai découvert a glacé toute la famille",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1433,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "În ziua incinerării soțului meu, un necunoscut m-a rugat să mă uit la mâna lui stângă. Ce am descoperit m-a înghețat",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 940,
+     "wp_media_id": 938,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1540-fr.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T15:40:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/935698828_1464331695827698_3222206520549591517_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xx1v7OqDYVwQ7kNvwFImfIv&_nc_oc=Adpcd-0ju_50EV2lwuNornvkwVzlvHTEZhM4tmv99mYnoVRUXIdqhOYLfc6SomBcnp0&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=CVZ0dwCx7HhsyC2mci6y2w&_nc_tpa=Q5bMBQLUSqco2Q0o1XZem0CsQiQX7BD8hBNW0q1T0Uv-k5nSFOy7q-5mmyzQGkzAnSZKpEZcdQUvQ9ARYA&oh=00_AQXsam80JgqfB4pSTA_jGQ0U2IGjOTT4Gu8cwTA_iP8rXg&oe=6B108932",
@@ -17894,7 +18012,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-1540-fr.jpg"
    },
    "source_key": "post:100067526447776_1464820865778781",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -18722,7 +18840,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-28 15:40",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100069122846749_1464103662570381": {
    "fingerprint": "5e043c7c07a396d6110a",
