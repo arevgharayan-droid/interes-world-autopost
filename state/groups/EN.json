@@ -62,6 +62,7 @@
   "f1dd63afb3367f635d39": "2026-11-21T19:44:17+00:00",
   "f702b99551dc88a9c658": "2026-11-21T10:17:03+00:00",
   "f7408cf8665a82541a95": "2026-11-27T21:19:01+00:00",
+  "f8b7f0690bf228456238": "2026-11-28T11:41:30+00:00",
   "ff8b8a08f34b59eee8c4": "2026-11-16T23:51:06+00:00"
  },
  "outputs": {
@@ -18682,7 +18683,74 @@
   },
   "2026-11-28 15:40": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "She Whispered \"Not Today, Sweetheart\" in Front of $400 Red Shoes, Not Knowing a Millionaire Had Heard Every Word",
+     "warnings": [
+      "длина статьи 956 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 1427,
+     "wp_status": "publish"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T15:40:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/935699008_1464332399160961_4595465862559370538_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EvjR9zGtFB4Q7kNvwG1NAu7&_nc_oc=Ado55t_DkSPKX0EZ3gRQGf-O6ny4vUxw0IQKy5dyyxx-9-tG8kD7vqER6BBzVUSzx7o&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ZPcHkTpQ5fvP9qW-CtTqZQ&_nc_tpa=Q5bMBQLSPiZe5TDR5rM7yBdwDVDgReZ8KCfGE0oyLab8KyllIf-0A95LsHE6VXKKopD6JnprYzPtXDXslw&oh=00_AQWbnHWfyKZMrBL5182jEvncldHov0R-OZSymoGO6xM1Cw&oe=6B109E79",
@@ -18694,7 +18762,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-1540-en.jpg"
    },
    "source_key": "post:100067526447776_1465050725755795",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -19303,7 +19371,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-28 15:40",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100081660603136_1088006870597990": {
    "fingerprint": "2c6c535d56910cdd0475",
