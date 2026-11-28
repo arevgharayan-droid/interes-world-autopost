@@ -77,6 +77,7 @@
   "56e4adfb3a5ff83561a9": "2026-11-22T22:08:29+00:00",
   "59a8c94efb9a24d75d95": "2026-11-18T18:30:01+00:00",
   "5ac53dd81c0ebf30dd20": "2026-11-26T09:51:32+00:00",
+  "5daafb56cdd441fffff7": "2026-11-28T11:41:42+00:00",
   "5e2571bcd03b701d1749": "2026-11-24T09:25:07+00:00",
   "5eb6f82f1ff85094dce8": "2026-11-21T22:45:41+00:00",
   "5f1d161a583653849674": "2026-11-19T10:26:47+00:00",
@@ -152,6 +153,7 @@
   "c5807d8e5cb187f95ff1": "2026-11-22T22:08:29+00:00",
   "cd020394bd98ae198dbd": "2026-11-22T14:04:32+00:00",
   "ce9b469d5e589f4050b1": "2026-11-22T19:48:34+00:00",
+  "cf5d3bf34f83d3b78dea": "2026-11-28T11:41:42+00:00",
   "d3b265356ed39c6b6179": "2026-11-25T09:44:23+00:00",
   "d5063735eab851ab4b5f": "2026-11-27T22:16:38+00:00",
   "de06c0b792c1e5d87078": "2026-11-20T22:45:49+00:00",
@@ -28216,7 +28218,81 @@
   },
   "2026-11-28 15:40": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Родные смеялись над разорившимся дядей, а я тайно отдала ему все свои восемьдесят тысяч, и через три года его адвокат сказал: приезжайте немедленно",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 934,
+     "wp_status": "publish"
+    },
+    "TR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Amcam iflas edince bütün akrabalar ona güldü, ben ise gizlice 80 bin dolarlık birikimimi verdim; üç yıl sonra avukatı aradığında öğrendiklerim her şeyi değiştirdi",
+     "warnings": [
+      "часть 3: 364 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 935,
+     "wp_status": "publish"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T15:40:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/935879617_1464386982488836_2359181576515917621_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qNUWfm4hcdIQ7kNvwHY2QQy&_nc_oc=Ado86U0HZKf_lpbg2tYi9Z985JLqItRA6uVAWn4-CZAcEaI3IGzzc22ITnmMzzoZW74&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ee6lkRp-AgghpTQVLbuHyQ&_nc_tpa=Q5bMBQLXX75rRRbW87xLwxxehyDMapn8kxO7hEILNmJLf679X9LxHOySogwvg6GdMkhG-3w27TkAPjpPvg&oh=00_AQWqoMWDtIjWnQsWz-OZ5upd06r4m-PcC6BKVsCCFd783Q&oe=6B109944",
@@ -28228,7 +28304,7 @@
     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1540-ru.jpg"
    },
    "source_key": "post:100067526447776_1464387209155480",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://peakproductions.co/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -29062,7 +29138,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-28 15:40",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100069122846749_1464103662570381": {
    "fingerprint": "5e043c7c07a396d6110a",

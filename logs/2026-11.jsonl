@@ -19640,3 +19640,13 @@
 {"slot": "2026-11-28 15:40", "lang": "EN", "page": "233545296514172", "action": "fb_immediate", "photo_id": "122338864904241259", "post_id": "233545296514172_122338864928241259", "t": "2026-11-28T11:41:30+00:00", "group": "EN2"}
 {"slot": "2026-11-28 15:40", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": ["длина статьи 956 слов"], "t": "2026-11-28T11:41:30+00:00", "group": "EN"}
 {"slot": "2026-11-28 15:40", "lang": "EN", "action": "wp_post", "id": 1427, "status": "publish", "t": "2026-11-28T11:41:31+00:00", "group": "EN"}
+{"slot": "2026-11-28 15:40", "lang": "EN", "page": "530022363528890", "action": "fb_immediate", "photo_id": "122176823066720509", "post_id": "530022363528890_122176823090720509", "t": "2026-11-28T11:41:36+00:00", "group": "EN2"}
+{"slot": "2026-11-28 15:40", "lang": "RU", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-28T11:41:42+00:00", "group": "RU"}
+{"slot": "2026-11-28 15:40", "lang": "TR", "action": "generated", "backend": "subscription", "warnings": ["часть 3: 364 слов"], "t": "2026-11-28T11:41:42+00:00", "group": "RU"}
+{"slot": "2026-11-28 15:40", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-28T11:41:43+00:00", "group": "IT"}
+{"slot": "2026-11-28 15:40", "lang": "PL", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 695 слов (исходник 824, цель ±10%)"], "t": "2026-11-28T11:41:43+00:00", "group": "IT"}
+{"slot": "2026-11-28 15:40", "lang": "CS", "action": "generated", "backend": "subscription", "warnings": ["длина текста FB 642 слов (исходник 824, цель ±10%)"], "t": "2026-11-28T11:41:43+00:00", "group": "IT"}
+{"slot": "2026-11-28 15:40", "lang": "EN", "page": "1235940142932696", "action": "fb_immediate", "photo_id": "122120475423408404", "post_id": "1235940142932696_122120475447408404", "t": "2026-11-28T11:41:43+00:00", "group": "EN"}
+{"slot": "2026-11-28 15:40", "lang": "RU", "action": "wp_post", "id": 934, "status": "publish", "t": "2026-11-28T11:41:44+00:00", "group": "RU"}
+{"slot": "2026-11-28 15:40", "lang": "IT", "action": "wp_post", "id": 1428, "status": "publish", "t": "2026-11-28T11:41:44+00:00", "group": "IT"}
+{"slot": "2026-11-28 15:40", "lang": "TR", "action": "wp_post", "id": 935, "status": "publish", "t": "2026-11-28T11:41:45+00:00", "group": "RU"}

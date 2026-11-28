@@ -66,6 +66,7 @@
   "50234f1f193de2230c6f": "2026-11-21T14:12:51+00:00",
   "52860ad6d022a2bd90ef": "2026-11-17T10:38:47+00:00",
   "55e8cd8f9d5e0e076dd4": "2026-11-22T16:32:05+00:00",
+  "58d8f08fa4ab392cf8b8": "2026-11-28T11:41:43+00:00",
   "5925113003b25213dc5b": "2026-11-15T14:13:20+00:00",
   "5a76175c0e8ea4b11a08": "2026-11-22T19:49:03+00:00",
   "5b6a7d17142717d971b6": "2026-11-17T12:28:51+00:00",
@@ -88,6 +89,7 @@
   "71b99e63fb8dd44fc384": "2026-11-20T14:41:44+00:00",
   "75900c4b74075115b0dc": "2026-11-15T10:15:15+00:00",
   "760cc6e6abfd9ea2f809": "2026-11-19T17:35:32+00:00",
+  "7725f2cc36d38838ceef": "2026-11-28T11:41:43+00:00",
   "79641c4c501a7a4cbbf6": "2026-11-16T00:18:19+00:00",
   "796f82e95e665b85e80f": "2026-11-20T14:41:44+00:00",
   "7ed5bfe70e10ffa40f11": "2026-11-19T17:35:32+00:00",
@@ -161,6 +163,7 @@
   "d30c4e2bb1a15d952747": "2026-11-14T11:39:45+00:00",
   "d3dc586208ed9833babc": "2026-11-26T16:24:12+00:00",
   "d4cab6ef35142d4bedc3": "2026-11-19T10:26:56+00:00",
+  "d88cd0717c6cb7c839ab": "2026-11-28T11:41:43+00:00",
   "d94cd9ae595135e0082b": "2026-11-27T18:38:04+00:00",
   "d9dcf470d2412a52113f": "2026-11-27T18:38:04+00:00",
   "da0db905a429fdb30957": "2026-11-21T22:45:36+00:00",
@@ -28348,7 +28351,83 @@
   },
   "2026-11-28 15:40": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Když lékař řekl, že mám jen tři dny, tchyně se usmála: „Skvělé, dům bude konečně můj!“ Manžel se zasmál a pak jsem zavolala otci",
+     "warnings": [
+      "длина текста FB 642 слов (исходник 824, цель ±10%)"
+     ]
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi credevano in punto di morte: dal letto d'ospedale ho sentito mio marito e mia suocera spartirsi la mia casa e la mia vita",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1428,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Leżałam nieruchomo na szpitalnym łóżku, gdy mąż i teściowa cieszyli się z mojej bliskiej śmierci. Wtedy zadzwoniłam do ojca",
+     "warnings": [
+      "длина текста FB 695 слов (исходник 824, цель ±10%)"
+     ]
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-28T15:40:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/932873458_122157096465170576_6926655470054384648_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wjjrr9c_r8oQ7kNvwG4KcTe&_nc_oc=AdqmgrHFCvUdHWkfQr7Oyre7SVFd9-mYVoChiXMEXT6j0rZPYXMCSknIqlLUw1Q4mPI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=kNhzYORDYFFPoMuqN6oHEw&_nc_tpa=Q5bMBQJf-jVRlnkZJvEX6AuDF9qAaKSRCQ9b68m_vgBraWM1HnkpUGWWVTWE23DjShNZGetHUYuAVUPoOA&oh=00_AQULuCjsaKA0ARkf3X81R4d92JRrDaImFKWqf15xMt6gcw&oe=6B109CAC",
