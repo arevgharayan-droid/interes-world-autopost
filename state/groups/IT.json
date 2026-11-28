@@ -28364,7 +28364,10 @@
      "title": "Když lékař řekl, že mám jen tři dny, tchyně se usmála: „Skvělé, dům bude konečně můj!“ Manžel se zasmál a pak jsem zavolala otci",
      "warnings": [
       "длина текста FB 642 слов (исходник 824, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 1430,
+     "wp_status": "publish"
     },
     "DE": {
      "pages": {},
@@ -28405,7 +28408,10 @@
      "title": "Leżałam nieruchomo na szpitalnym łóżku, gdy mąż i teściowa cieszyli się z mojej bliskiej śmierci. Wtedy zadzwoniłam do ojca",
      "warnings": [
       "длина текста FB 695 слов (исходник 824, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 1429,
+     "wp_status": "publish"
     },
     "PT": {
      "pages": {},
@@ -28428,6 +28434,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-28T15:40:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/932873458_122157096465170576_6926655470054384648_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wjjrr9c_r8oQ7kNvwG4KcTe&_nc_oc=AdqmgrHFCvUdHWkfQr7Oyre7SVFd9-mYVoChiXMEXT6j0rZPYXMCSknIqlLUw1Q4mPI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=kNhzYORDYFFPoMuqN6oHEw&_nc_tpa=Q5bMBQJf-jVRlnkZJvEX6AuDF9qAaKSRCQ9b68m_vgBraWM1HnkpUGWWVTWE23DjShNZGetHUYuAVUPoOA&oh=00_AQULuCjsaKA0ARkf3X81R4d92JRrDaImFKWqf15xMt6gcw&oe=6B109CAC",
@@ -28439,7 +28446,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-1540-it.jpg"
    },
    "source_key": "post:61585117295331_122157096549170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -29255,7 +29262,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-28 15:40",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",

@@ -55,6 +55,7 @@
   "5902057f0f114c578fb0": "2026-11-20T16:46:47+00:00",
   "59a1bfd7b977b6403f14": "2026-11-26T22:31:17+00:00",
   "5a6d8dc75e10abe3f5c2": "2026-11-24T09:25:06+00:00",
+  "5b2395bddbc05cb4aca4": "2026-11-28T11:41:46+00:00",
   "5baf059a2cf94b9c1bc6": "2026-11-21T10:17:21+00:00",
   "5db9da0ad7e6cdc4bf69": "2026-11-25T09:44:24+00:00",
   "5e53a6e7b13f06a4ba12": "2026-11-22T21:37:31+00:00",
@@ -121,6 +122,7 @@
   "dd884bcf88863a284a4f": "2026-11-26T16:24:15+00:00",
   "dfd893b9cd0833acacce": "2026-11-26T19:37:56+00:00",
   "e18518c82b2c91d9bede": "2026-11-21T17:04:07+00:00",
+  "e1a92102b2c4c35c7feb": "2026-11-28T11:41:46+00:00",
   "e2b93dcc96be27aa58cc": "2026-11-17T12:28:57+00:00",
   "e35a5edbfd125f0de5e7": "2026-11-17T12:28:57+00:00",
   "e397216edbfa0a01eebc": "2026-11-18T22:36:37+00:00",
@@ -132,6 +134,7 @@
   "f1de2b6a7b4cb66798b0": "2026-11-19T22:01:01+00:00",
   "f3db1dfbfdb7df061663": "2026-11-14T11:39:08+00:00",
   "fabea08610bac51ffc8f": "2026-11-16T10:16:48+00:00",
+  "fc74f60a0c21296369d2": "2026-11-28T11:41:46+00:00",
   "ff016a7c3f832808b81c": "2026-11-25T14:02:20+00:00"
  },
  "outputs": {
@@ -18221,7 +18224,76 @@
   },
   "2026-11-28 15:40": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mein Mann verließ mich nach der Geburt, doch am Tag nach meiner Entlassung stand er weinend vor der Tür und gestand mir etwas, das keine Frau je hören sollte",
+     "warnings": []
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mijn man verliet me na de bevalling, maar de dag na mijn ontslag stond hij huilend voor de deur met een bekentenis die ik nooit zal vergeten",
+     "warnings": []
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu marido me abandonou com a nossa bebê recém-nascida, mas no dia seguinte voltou chorando e me contou algo que nenhuma mulher deveria ouvir",
+     "warnings": []
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-28T15:40:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/925943179_1685705562932858_459828898338707282_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ozzp2e9p0pAQ7kNvwF9gQ-I&_nc_oc=AdquUG3Xw_O2eoTthnt3S-nAdsZxiJUy2VnTiXZQ9fzCpQeKA2QQeZbotSn1Uv-klWY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=4-uFnOQQdzBvWsSEEfmsMg&_nc_tpa=Q5bMBQI6-A1crBsnlQwu0ZY6JIqER3bV_Fw_LyLoFw_XgeUkt4ktRM2SDn_XtKH_JkiPla5expZfh0DbIA&oh=00_AQVkYk-ETa0V8RJf26Q9EakC692t5dZj1ZfKsZVVznakjQ&oe=6B1095A1",
