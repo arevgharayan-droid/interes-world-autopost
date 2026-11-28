@@ -18239,7 +18239,10 @@
      "generated": true,
      "pages": {},
      "title": "Mein Mann verließ mich nach der Geburt, doch am Tag nach meiner Entlassung stand er weinend vor der Tür und gestand mir etwas, das keine Frau je hören sollte",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1432,
+     "wp_status": "publish"
     },
     "EN": {
      "pages": {},
@@ -18263,7 +18266,10 @@
      "generated": true,
      "pages": {},
      "title": "Mijn man verliet me na de bevalling, maar de dag na mijn ontslag stond hij huilend voor de deur met een bekentenis die ik nooit zal vergeten",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 1431,
+     "wp_status": "publish"
     },
     "PL": {
      "pages": {},
@@ -18275,7 +18281,18 @@
      "generated": true,
      "pages": {},
      "title": "Meu marido me abandonou com a nossa bebê recém-nascida, mas no dia seguinte voltou chorando e me contou algo que nenhuma mulher deveria ouvir",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 937,
+     "wp_media_id": 936,
+     "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1540-nl.jpg",
+     "wp_site": {
+      "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+      "key_secret": "WP_API_KEY",
+      "url": "https://peakproductions.co",
+      "wp_auth": "make_connector"
+     },
+     "wp_status": "publish"
     },
     "RO": {
      "pages": {},
@@ -18294,6 +18311,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-28T15:40:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/925943179_1685705562932858_459828898338707282_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ozzp2e9p0pAQ7kNvwF9gQ-I&_nc_oc=AdquUG3Xw_O2eoTthnt3S-nAdsZxiJUy2VnTiXZQ9fzCpQeKA2QQeZbotSn1Uv-klWY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=4-uFnOQQdzBvWsSEEfmsMg&_nc_tpa=Q5bMBQI6-A1crBsnlQwu0ZY6JIqER3bV_Fw_LyLoFw_XgeUkt4ktRM2SDn_XtKH_JkiPla5expZfh0DbIA&oh=00_AQVkYk-ETa0V8RJf26Q9EakC692t5dZj1ZfKsZVVznakjQ&oe=6B1095A1",
@@ -18305,7 +18323,7 @@
     "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-1540-nl.jpg"
    },
    "source_key": "post:100044802900629_1686420889527992",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
     "key_secret": "WP_API_KEY_HETAQRQIR",
@@ -18754,7 +18772,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-28 15:40",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100045261260562_1475219943996700": {
    "fingerprint": "8dedce02f3415e702972",
