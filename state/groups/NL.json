@@ -18223,7 +18223,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-28T15:40:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/925943179_1685705562932858_459828898338707282_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ozzp2e9p0pAQ7kNvwF9gQ-I&_nc_oc=AdquUG3Xw_O2eoTthnt3S-nAdsZxiJUy2VnTiXZQ9fzCpQeKA2QQeZbotSn1Uv-klWY&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=4-uFnOQQdzBvWsSEEfmsMg&_nc_tpa=Q5bMBQI6-A1crBsnlQwu0ZY6JIqER3bV_Fw_LyLoFw_XgeUkt4ktRM2SDn_XtKH_JkiPla5expZfh0DbIA&oh=00_AQVkYk-ETa0V8RJf26Q9EakC692t5dZj1ZfKsZVVznakjQ&oe=6B1095A1",
+    "link": "https://www.facebook.com/story.php?story_fbid=1686420889527992&id=100044802900629",
+    "origin": "manual",
+    "page_id": "100044802900629",
+    "text": "MY HUSBAND ABANDONED ME AFTER I GAVE BIRTH — THE DAY AFTER I WAS DISCHARGED, HE RETURNED IN TEARS AND TOLD ME SOMETHING NO WOMAN SHOULD EVER HAVE TO HEAR.\n\nAfter six long years of trying, I finally got pregnant, and my husband, Ben, was overjoyed. He came with me to every single appointment.\n\nHis mother, Diane, also helped me with everything I needed.\n\nI felt incredibly fortunate to have such a loving, supportive husband and mother-in-law. We were both eagerly looking forward to welcoming our little Evelyn.\n\nMy delivery went smoothly, and Evelyn arrived perfectly healthy.\n\nBut the moment Ben leaned over to see her for the first time, his smile vanished.\n\n\"No. This can’t be happening! This isn’t the baby I wanted!\"\n\nDiane stepped closer and clicked her tongue disapprovingly.\n\n\"What a disappointment,\" she said.\n\n\"You're scaring me,\" I said, pulling our daughter closer to my chest. \"What’s wrong?\"\n\nBen moved backward, refusing to look at either me or Evelyn.\n\n\"When you’re discharged, don’t come home. I want a divorce. I can’t believe you did this to me.\"\n\nI looked toward Diane, silently begging her to intervene. Instead, she followed Ben out of the room, leaving me alone to soothe my crying baby.\n\nFor the following two days, I kept checking my phone, hoping Ben would reach out and apologize. I even sent him a photo of Evelyn’s tiny hand holding my finger, hoping it would bring back memories of how desperately we had wanted her.\n\nHe didn't reply.\n\nThe moment I was discharged, we went to the house to pick up my belongings.\n\nMy clothes had been dumped into trash bags outside, with the diaper bag sitting beside them.\n\nBen didn't even bother coming outside to look at Evelyn.\n\nI spent the entire night crying at my parents' house.\n\nI had no idea how I would manage raising Evelyn by myself, but I wasn't going to beg her father to stay when he couldn't appreciate this gift from God.\n\nThe following morning, someone rang the doorbell.\n\nBen and Diane were standing outside, both with tears streaming down their faces.\n\n\"Please,\" he said. \"Let us see Evelyn. This is very important. If we don’t, we’re finished.\"\n\n\"You saw her. Then you threw us out. Why are you here?\"\n\nHe fell to his knees and clutched the edge of my robe.\n\n\"You don’t understand. I should have told you long before you got pregnant.\"\n\n\"Then tell me now.\"\n\nDiane rested her hand on his shoulder.\n\n\"Ben, she won’t understand—\"\n\n\"No, Mom. She has to know.\"\n\nThe moment he finally revealed the truth, I grabbed the doorframe for support, but my knees buckled beneath me.\n\nBehind me, my mother kept shouting my name, but I couldn't respond.\n\nAll I could do was stare at my husband in complete disbelief.\n\npart 2 👇👇",
+    "wp_media_id": 1425,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-1540-nl.jpg"
+   },
+   "source_key": "post:100044802900629_1686420889527992",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-28 18:00": {
    "langs": {},
@@ -18659,6 +18675,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-25 18:30",
    "status": "used"
+  },
+  "post:100044802900629_1686420889527992": {
+   "fingerprint": "d79e7e8e9e817c496f1f",
+   "link": "https://www.facebook.com/story.php?story_fbid=1686420889527992&id=100044802900629",
+   "origin": "manual",
+   "page_id": "100044802900629",
+   "slot": "2026-11-28 15:40",
+   "status": "reserved"
   },
   "post:100045261260562_1475219943996700": {
    "fingerprint": "8dedce02f3415e702972",

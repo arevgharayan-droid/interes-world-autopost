@@ -28350,7 +28350,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-28T15:40:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/932873458_122157096465170576_6926655470054384648_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wjjrr9c_r8oQ7kNvwG4KcTe&_nc_oc=AdqmgrHFCvUdHWkfQr7Oyre7SVFd9-mYVoChiXMEXT6j0rZPYXMCSknIqlLUw1Q4mPI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=kNhzYORDYFFPoMuqN6oHEw&_nc_tpa=Q5bMBQJf-jVRlnkZJvEX6AuDF9qAaKSRCQ9b68m_vgBraWM1HnkpUGWWVTWE23DjShNZGetHUYuAVUPoOA&oh=00_AQULuCjsaKA0ARkf3X81R4d92JRrDaImFKWqf15xMt6gcw&oe=6B109CAC",
+    "link": "https://www.facebook.com/story.php?story_fbid=122157096549170576&id=61585117295331",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "After suffering life-threatening inj:uries during a military mission, I was airlifted to an Army hospital. When the doctor warned my husband and mother-in-law that I might not survive the next three days, my MIL smiled and said, “Perfect. The house will finally be mine!” My husband laughed and added, “And I’ll finally be free to marry Lisa!” I stayed completely still, pretending to be unconscious until they left the room. Then I reached for my phone and quietly called my father. “Dad... it’s time.” After a brief pause, he replied, “I’ve been waiting for you to say that.”\nThe steady beeping of the heart monitor and the soft mechanical sounds of the IV pump filled the military hospital room. My name is Claire, I'm thirty-nine years old, and I serve as a Captain in the United States Army. After sustaining serious injuries during a dangerous mission, I had been evacuated by helicopter with a severely injured shoulder and several broken ribs.\nAlthough strong pain medication left my body weak and nearly motionless, my mind remained surprisingly alert. Almost twenty years of military training had taught me how to stay focused under extreme pressure, even when my physical condition was deteriorating.\nShortly after two in the afternoon, my husband of nine years, Ryan, entered the room carrying a small bouquet of daisies from a grocery store. The orange discount sticker was still attached to the plastic wrapping, and my mother-in-law, Diane, followed closely behind him.\nDiane carried an expensive designer handbag and looked around the room with obvious irritation. Her expression suggested that my hospitalization was an inconvenience rather than a frightening situation involving someone in her family.\nI kept my eyes closed as the attending physician explained my condition to them. He warned that my injuries had created serious complications and that the next seventy-two hours would be critical in determining whether I survived.\nAfter the doctor left, Ryan and Diane moved toward the window, apparently believing that the medication had rendered me unconscious. They began speaking quietly, unaware that I could hear every word in the otherwise silent room.\n\"Three days? That's perfect. The house will finally belong to me.\"\nFor a moment, I wondered whether the medication had distorted what I was hearing. Diane was talking about the home I had purchased and personally renovated before Ryan and I were even married, treating my possible death as an opportunity to claim it.\nThen Ryan gave a quiet laugh that sounded disturbingly relieved. What he said next was even more devastating than his mother's excitement over my property.\n\"And once she's gone, I'll finally be able to marry Lisa.\"\nHearing Lisa's name immediately brought everything into focus because Ryan had mentioned that coworker countless times throughout the previous year. I had never imagined that his frequent references to her concealed a relationship serious enough for him to plan a future with her.\nI wanted to open my eyes and confront them immediately, but years of military discipline helped me resist the impulse. Instead, I remained motionless and concentrated on keeping my breathing slow and steady, even as the heart monitor began registering my rising pulse.\nDiane continued discussing the house as though my death had already been confirmed. She seemed particularly interested in making changes to the property and ensuring that the necessary legal documents would be handled.\n\"The house needs a complete renovation anyway. We'll take care of all the paperwork when the time comes.\"\nListening to them discuss my possessions while I lay critically injured was almost impossible to comprehend. They were already planning how to benefit from losing me, without showing the slightest concern for whether I might recover.\nA few moments later, Ryan approached my bedside and gently kissed my forehead. The familiar scent of his cologne, once comforting to me, now made me feel sick.\n\"Get some rest, sweetheart. I'll see you later.\"\nI waited until their footsteps disappeared and the door closed before attempting to move. Pain spread through my chest as I reached toward the phone resting on the nearby tray table, but my injured body made even that small movement difficult.\nNurse Denise noticed my struggle and quietly moved the table closer to my bed. Without asking unnecessary questions, she placed the phone directly into my hand and allowed me the privacy I needed.\nI opened my contacts and scrolled past Ryan's name until I found my father, Frank Callahan. He answered after the second ring, immediately recognizing that something was wrong from the sound of my voice.\n\"Claire? What's happening?\"\nMy throat was dry, and speaking required more effort than I expected. Nevertheless, I managed to tell him what I had just I know you're curious about the next part, so please leave a “MORE” comment to get the full story below",
+    "wp_media_id": 1422,
+    "wp_media_url": "https://hetaqrqir.com/wp-content/uploads/2026/11/interes-20261128-1540-it.jpg"
+   },
+   "source_key": "post:61585117295331_122157096549170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://hetaqrqir.com/?p={wp_id}",
+    "key_secret": "WP_API_KEY_HETAQRQIR",
+    "url": "https://hetaqrqir.com",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-28 18:00": {
    "langs": {},
@@ -29153,6 +29169,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-26 14:30",
    "status": "used"
+  },
+  "post:61585117295331_122157096549170576": {
+   "fingerprint": "7be9bc11a616c4a9f0dd",
+   "link": "https://www.facebook.com/story.php?story_fbid=122157096549170576&id=61585117295331",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-28 15:40",
+   "status": "reserved"
   },
   "post:61585369480106_122145778227178982": {
    "fingerprint": "238d96a2975a1a75ea88",

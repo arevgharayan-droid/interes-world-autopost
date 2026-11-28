@@ -28218,7 +28218,23 @@
    "adhoc": true,
    "langs": {},
    "slot_iso": "2026-11-28T15:40:00+04:00",
-   "status": "new"
+   "source": {
+    "image_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/935879617_1464386982488836_2359181576515917621_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qNUWfm4hcdIQ7kNvwHY2QQy&_nc_oc=Ado86U0HZKf_lpbg2tYi9Z985JLqItRA6uVAWn4-CZAcEaI3IGzzc22ITnmMzzoZW74&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=ee6lkRp-AgghpTQVLbuHyQ&_nc_tpa=Q5bMBQLXX75rRRbW87xLwxxehyDMapn8kxO7hEILNmJLf679X9LxHOySogwvg6GdMkhG-3w27TkAPjpPvg&oh=00_AQWqoMWDtIjWnQsWz-OZ5upd06r4m-PcC6BKVsCCFd783Q&oe=6B109944",
+    "link": "https://www.facebook.com/story.php?story_fbid=1464387209155480&id=100067526447776",
+    "origin": "manual",
+    "page_id": "100067526447776",
+    "text": "When my uncle went bankrupt, our relatives laughed at his desperate pleas. \"Let him suffer. He is not our problem,\" my aunt sneered. Without telling anyone, I gave him my entire $80,000 savings. Three years later, his lawyer called. \"Your uncle left you something unbelievable. You need to come immediately.\" At the will reading, my relatives demanded their inheritance. But when the lawyer revealed my uncle's final decision, their faces turned pale, and my revenge was only beginning.\n\nThe night my uncle lost everything, my family celebrated over a two-hundred-dollar bottle of champagne. Three years later, those same people would beg me not to destroy their lives.\n\nMy name is Sarah Jenkins. I was twenty-nine, working as a financial analyst in Chicago, when my uncle Arthur's construction company collapsed.\n\nArthur had always been my favorite relative. After my father died, he paid for my schoolbooks, attended my graduation, and helped my mother keep our home.\n\nBut when his business failed, everyone conveniently forgot his generosity.\n\nDuring a Sunday family dinner, Arthur arrived wearing a faded jacket and carrying a folder of overdue bills.\n\n\"I just need enough to negotiate with my creditors,\" he explained. \"I will repay every dollar.\"\n\nMy aunt Beatrice laughed.\n\n\"You were always pretending to be successful. Look at you now.\"\n\nMy cousin Victor leaned back, smirking.\n\n\"Maybe bankruptcy will teach you some humility.\"\n\nArthur lowered his head.\n\n\"I am asking for help, not charity.\"\n\n\"Let him suffer,\" Beatrice declared. \"He is not our problem.\"\n\nNobody defended him.\n\nI watched Arthur quietly collect his documents before walking outside.\n\nI followed him.\n\n\"Uncle Arthur, how much do you need?\"\n\nHe smiled painfully.\n\n\"More than you should ever worry about.\"\n\n\"Tell me.\"\n\n\"Eighty thousand.\"\n\nThat was exactly what I had saved over seven years toward buying my first home.\n\nThe following morning, I transferred everything.\n\nArthur stared at the confirmation on his phone.\n\n\"Sarah, no. This is your future.\"\n\n\"You helped build my future. Let me help rebuild yours.\"\n\nHe hugged me and cried.\n\n\"Someday, you will understand what you have given me.\"\n\nI made him promise never to tell the family.\n\nOver the following months, Arthur moved away and gradually stopped discussing business. We spoke every Sunday, but whenever I asked whether things were improving, he changed the subject.\n\nMeanwhile, Beatrice and Victor continued mocking me for renting an apartment.\n\n\"Some people simply are not destined for wealth,\" Beatrice announced during Christmas dinner.\n\nI smiled and kept eating.\n\nThree years later, Arthur died unexpectedly from a heart attack.\n\nI was devastated.\n\nAt his funeral, Beatrice complained about the inexpensive flowers. Victor wondered aloud whether Arthur had left outstanding debts.\n\nTwo days later, an unfamiliar number appeared on my phone.\n\n\"Miss Jenkins? I am Thomas Reed, your uncle's attorney.\"\n\nMy stomach tightened.\n\n\"Is something wrong?\"\n\n\"Your uncle left you something unbelievable. You need to come immediately.\"\n\nWhen I arrived at his office, Thomas locked the door and placed a thick envelope before me.\n\n\"Before you open this, there is something you should know.\"\n\nHe leaned forward.\n\n\"Your uncle was not bankrupt when he died. And his original bankruptcy was not entirely his fault.\"....To be continued in C0mments 👇",
+    "wp_media_id": 933,
+    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261128-1540-ru.jpg"
+   },
+   "source_key": "post:100067526447776_1464387209155480",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://peakproductions.co",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-28 18:00": {
    "langs": {},
@@ -29039,6 +29055,14 @@
    "page_id": "100067526447776",
    "slot": "2026-11-27 12:00",
    "status": "used"
+  },
+  "post:100067526447776_1464387209155480": {
+   "fingerprint": "e84df3bfb32cd245477e",
+   "link": "https://www.facebook.com/story.php?story_fbid=1464387209155480&id=100067526447776",
+   "origin": "manual",
+   "page_id": "100067526447776",
+   "slot": "2026-11-28 15:40",
+   "status": "reserved"
   },
   "post:100069122846749_1464103662570381": {
    "fingerprint": "5e043c7c07a396d6110a",
