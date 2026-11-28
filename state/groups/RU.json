@@ -71,7 +71,6 @@
   "51ba57e157b253b5188f": "2026-11-22T22:13:48+00:00",
   "53b56a6026d7d16218d9": "2026-11-17T10:39:05+00:00",
   "54baca88079960edc372": "2026-11-25T09:44:23+00:00",
-  "5579983a5a4919598caf": "2026-11-14T09:18:33+00:00",
   "55c68668d71f5fde2cc3": "2026-11-17T12:29:11+00:00",
   "56aacef6d4c75db4a75b": "2026-11-25T11:44:31+00:00",
   "56b10fd7cd3d1bca37f0": "2026-11-17T17:52:52+00:00",
@@ -80,7 +79,6 @@
   "5ac53dd81c0ebf30dd20": "2026-11-26T09:51:32+00:00",
   "5e2571bcd03b701d1749": "2026-11-24T09:25:07+00:00",
   "5eb6f82f1ff85094dce8": "2026-11-21T22:45:41+00:00",
-  "5efa9fb5844a5d5a2b35": "2026-11-14T09:18:33+00:00",
   "5f1d161a583653849674": "2026-11-19T10:26:47+00:00",
   "5f9249386ed69476bd2e": "2026-11-22T19:48:34+00:00",
   "5ff512b122746f16012b": "2026-11-20T19:26:10+00:00",
@@ -139,7 +137,6 @@
   "b30605de8da0dd54f00f": "2026-11-16T16:01:05+00:00",
   "b58a29091274d9f85dbb": "2026-11-27T21:19:36+00:00",
   "b64ba015fba1a1e4199c": "2026-11-19T19:59:16+00:00",
-  "ba8f3a95256fb1f89569": "2026-11-14T09:18:33+00:00",
   "bbf91fc3e81dd214569b": "2026-11-17T12:29:11+00:00",
   "bd3dd864aeb563b3def7": "2026-11-17T10:39:05+00:00",
   "bd79d7f5837e5c310fd3": "2026-11-22T21:54:31+00:00",
@@ -1524,7 +1521,6 @@
   "1157031800834413_122141931237400989": "2026-11-27T18:55:25+00:00",
   "1157031800834413_122141968953400989": "2026-11-27T21:36:24+00:00",
   "1157031800834413_122141974317400989": "2026-11-28T08:49:16+00:00",
-  "1164575726728296_122126882319307134": "2026-11-14T10:23:11+00:00",
   "1164575726728296_122126882463307134": "2026-11-14T14:06:29+00:00",
   "1164575726728296_122126889501307134": "2026-11-14T17:06:16+00:00",
   "1164575726728296_122126933517307134": "2026-11-14T20:02:53+00:00",
@@ -1968,8 +1964,6 @@
   "122117001146343996": "2026-11-16T19:40:40+00:00",
   "122117003582343996": "2026-11-16T20:37:19+00:00",
   "122117011130343996": "2026-11-16T23:59:33+00:00",
-  "122117020563471857": "2026-11-14T10:23:20+00:00",
-  "122117020929471857": "2026-11-14T10:23:58+00:00",
   "122117044622343996": "2026-11-17T10:46:03+00:00",
   "122117050725471857": "2026-11-14T11:44:11+00:00",
   "122117051624343996": "2026-11-17T12:37:45+00:00",
@@ -2638,8 +2632,6 @@
   "122125783305304633": "2026-11-27T18:54:15+00:00",
   "122125792353304633": "2026-11-27T21:35:14+00:00",
   "122125794783304633": "2026-11-27T22:29:06+00:00",
-  "122126882295307134": "2026-11-14T10:23:11+00:00",
-  "122126882433307134": "2026-11-14T10:23:49+00:00",
   "122126889429307134": "2026-11-14T11:44:08+00:00",
   "122126933445307134": "2026-11-14T19:43:22+00:00",
   "122126991495307134": "2026-11-15T10:15:42+00:00",
@@ -3407,7 +3399,6 @@
   "122148053967384851": "2026-11-27T18:55:53+00:00",
   "122148072123384851": "2026-11-27T21:36:52+00:00",
   "122148076665384851": "2026-11-27T22:29:58+00:00",
-  "1338630212673029_122117020593471857": "2026-11-14T10:23:20+00:00",
   "1338630212673029_122117020965471857": "2026-11-14T14:06:39+00:00",
   "1338630212673029_122117050755471857": "2026-11-14T17:06:30+00:00",
   "1338630212673029_122117226441471857": "2026-11-14T20:03:08+00:00",
@@ -3570,134 +3561,6 @@
   "988042774402200_122137166954733774": "2026-11-28T08:48:20+00:00"
  },
  "slots": {
-  "2026-11-14 13:13": {
-   "adhoc": true,
-   "langs": {
-    "CS": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "DE": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "EN": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "FR": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "IT": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "NL": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "PL": {
-     "pages": {},
-     "skipped": "не повторяется"
-    },
-    "PT": {
-     "generated": true,
-     "pages": {
-      "1338630212673029": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122117020593471857_2331810437670991",
-       "error": null,
-       "last_attempt": "2026-11-14T14:23:11+04:00",
-       "mode": "immediate",
-       "photo_id": "122117020563471857",
-       "post_id": "1338630212673029_122117020593471857",
-       "status": "done"
-      },
-      "1448441201677530": {
-       "attempts": 0,
-       "status": "no_access"
-      }
-     },
-     "title": "Casei com um pai solteiro em fase terminal para criar a filha dele, mas um ano depois a menina me entregou uma caixa que me fez gritar",
-     "wp_id": 183,
-     "wp_live": true
-    },
-    "RU": {
-     "generated": true,
-     "pages": {
-      "1008693642337213": {
-       "attempts": 0,
-       "error": "публикация (Facebook ограничил частоту — пауза 60 мин): FB 368/1390008: Мы ограничиваем частоту, с которой можно размещать публикации, оставлять комментарии и выполнять другие действия, чтобы защитить наше сообщество от спама. Повторите попытку позже. Подробнее",
-       "last_attempt": "2026-11-14T13:14:24+04:00",
-       "mode": "immediate",
-       "status": "no_access"
-      },
-      "1125676667286378": {
-       "attempts": 0,
-       "status": "no_access"
-      },
-      "988042774402200": {
-       "attempts": 0,
-       "status": "no_access"
-      }
-     },
-     "title": "Я вышла замуж за смертельно больного отца-одиночки, чтобы вырастить его дочь, но через год девочка протянула мне коробку",
-     "wp_id": 181,
-     "wp_live": true
-    },
-    "TR": {
-     "generated": true,
-     "pages": {
-      "1129620776897151": {
-       "attempts": 0,
-       "status": "no_access"
-      },
-      "1164575726728296": {
-       "attempts": 1,
-       "comment_attempts": 1,
-       "comment_id": "122126882319307134_2574211099749167",
-       "error": null,
-       "last_attempt": "2026-11-14T14:23:00+04:00",
-       "mode": "immediate",
-       "photo_id": "122126882295307134",
-       "post_id": "1164575726728296_122126882319307134",
-       "status": "done"
-      }
-     },
-     "title": "Ölümcül Hasta Bir Babayla Evlendim, Çünkü Küçük Kızına Bakmam İçin Yalvarmıştı; Bir Yıl Sonra Kızı Elime Bir Kutu Tutuşturdu",
-     "wp_id": 182,
-     "wp_live": true
-    }
-   },
-   "prepared": true,
-   "repost_of": "2026-11-13 18:43",
-   "slot_iso": "2026-11-14T13:13:00+04:00",
-   "source": {
-    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/837092063_122123131929316334_5574680002152408049_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=VbB7MWAqFmYQ7kNvwEnHhLx&_nc_oc=AdrnislCSwB7qP4J6nQqUxVpQcAupZNq0cz5eRjS5ibvCVyiYZYz3bSbD_4zo4QXoqE&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=crbC1snq24xb6RUr14plTQ&_nc_tpa=Q5bMBQJy_-F19ofTkWKnzDsuQ6d69IQ3dRSibNsuQCCYDmAdINzSi6ZefJhGeBIEjTMcmnNg5bIvSaEWhA&oh=00_AQTE9EhFAhvzybw1zBDNPMDyJ4Qxb7egG_YQdtgemKmQ6w&oe=6AFD0D05",
-    "link": "https://www.facebook.com/share/p/1A367CdjjT/",
-    "origin": "manual",
-    "page_id": "61589490035610",
-    "text": "J’ai épousé un père célibataire atteint d’une maladie en phase terminale parce qu’il me suppliait d’élever sa petite fille après sa mort. Mais un an plus tard, la petite fille m’a tendu une boîte en disant : « Papa m’a dit de te donner ça aujourd’hui. » 😰😨\n\nIl y a quelques années, j’ai perdu mon mari et ma fille dans un accident de voiture.\n\nAprès cela, je me suis retrouvée complètement seule. Ma vie s’était effondrée et je ne savais pas comment continuer à vivre.\n\nMais il fallait toujours payer les factures et acheter de quoi manger. J’ai donc trouvé un emploi comme femme de ménage dans l’hôpital de ma ville.\n\nJ’y ai travaillé pendant plusieurs années. Les gens me remarquaient à peine, et cela ne me dérangeait pas. Je m’étais complètement renfermée sur moi-même.\n\nMais il y a un an, un homme a été admis à l’hôpital. Il souffrait d’une maladie grave et incurable. À ses côtés, il y avait toujours une petite fille d’environ six ans. C’était sa fille.\n\nElle me rappelait tellement ma fille décédée.\n\nChaque jour après l’école, elle venait à l’hôpital avec son petit sac à dos, s’asseyait près de son père et restait avec lui aussi longtemps que possible. Parfois, elle venait même le voir avant d’aller à l’école.\n\nSes cheveux étaient souvent en bataille et elle avait régulièrement faim. Son père essayait de lui tresser les cheveux avec ses mains tremblantes et partageait avec elle une partie de son petit-déjeuner.\n\nCela me brisait le cœur.\n\nUn jour, je n’ai plus supporté de les voir ainsi et je leur ai proposé mon aide. J’ai coiffé la petite fille, je l’ai accompagnée à la cafétéria de l’hôpital et, avec l’autorisation de son père, je l’ai même conduite à l’école.\n\nIl était évident qu’ils n’avaient personne d’autre qu’eux-mêmes.\n\nC’est ainsi que j’ai commencé à passer de plus en plus de temps avec eux.\n\nL’homme m’a raconté son histoire. Sa femme était morte en donnant naissance à leur fille et, depuis ce jour, il l’avait élevée seul.\n\nNous avons commencé à passer beaucoup de temps ensemble dans sa chambre d’hôpital. Nous buvions du thé, mangions quelques petites douceurs et discutions simplement.\n\nJe ne sais pas comment l’expliquer, mais auprès d’eux, j’ai recommencé à sourire. J’ai recommencé à me sentir vivante.\n\nUn jour, alors que sa fille était à l’école, il m’a pris la main et m’a dit :\n\n— S’il te plaît, épouse-moi.\n\nMes jambes se sont mises à trembler.\n\n— Mais nous nous connaissons à peine…\n\nIl a souri et m’a répondu :\n\n— Je t’en supplie. Épouse-moi. Je sais que nous ne nous connaissons pas depuis longtemps, mais je suis tombé amoureux de toi. Plus que tout, je veux être certain que lorsque je ne serai plus là, ma fille sera auprès de quelqu’un qui l’aime vraiment. Si tu deviens ma femme, tu pourras rester dans cette maison et utiliser ce que je te laisserai pour prendre soin d’elle.\n\nJ’avais le cœur brisé.\n\nEn si peu de temps, tous les deux étaient devenus très importants pour moi. Je pensais à la petite fille et je réalisais que je ne pouvais pas non plus la laisser seule.\n\nAlors j’ai accepté.\n\nNous nous sommes mariés directement dans sa chambre d’hôpital. Je portais une robe blanche et la petite fille avait mis une jolie petite robe.\n\nCe jour-là, elle m’a serrée dans ses bras et m’a dit qu’elle était heureuse que son papa m’ait à ses côtés pendant ses derniers jours.\n\nDeux semaines après notre mariage, il est décédé. J’ai sincèrement pleuré sa mort.\n\nAprès cela, je suis officiellement devenue la tutrice de sa fille.\n\nNous avons continué à vivre dans la maison qu’il nous avait laissée. Nous nous entendions merveilleusement bien et je l’aimais comme si elle était ma propre fille.\n\nUne année passa.\n\nJe ne regrettais rien. Cette enfant m’avait redonné goût à la vie.\n\nMais depuis quelques jours, elle était inhabituellement silencieuse.\n\nJe lui demandais sans cesse si quelque chose n’allait pas, mais elle ne me disait rien.\n\nHier, alors que je préparais le dîner, elle s’est approchée de moi. Elle tenait une petite boîte dans ses mains.\n\n— Papa m’a dit de te donner ça aujourd’hui. Tu ne sais toujours pas pourquoi il t’a choisie.\n\nMes mains se sont mises à trembler lorsque j’ai ouvert la boîte.\n\nMon Dieu… je me suis effondrée sur la chaise de la cuisine.\n\nQuand j’ai vu ce qu’il m’avait laissé, j’ai poussé un cri si fort qu’il a résonné dans toute la maison.\n\nVous pouvez lire la suite dans le premier commentaire. 👇 👇 👇",
-    "wp_media_id": 180,
-    "wp_media_url": "https://peakproductions.co/wp-content/uploads/2026/11/interes-20261113-2100-ru.jpg"
-   },
-   "source_key": "post:61589490035610_122123132091316334",
-   "status": "done",
-   "wp_site": {
-    "comment_link_format": "https://peakproductions.co/?p={wp_id}",
-    "key_secret": "WP_API_KEY",
-    "url": "https://peakproductions.co",
-    "wp_auth": "make_connector"
-   }
-  },
-  "2026-11-14 15:00": {
-   "langs": {},
-   "note": "пропущен по просьбе",
-   "slot_iso": "2026-11-14T15:00:00+04:00",
-   "status": "cancelled"
-  },
   "2026-11-14 18:00": {
    "langs": {
     "CS": {
